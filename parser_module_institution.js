@@ -60,7 +60,7 @@ var processCSV = function(err,body){
 						o[i]= o[i].trim(); //避免後面寫一堆 trim
 					}
 
-					if(o[0] && o[0].indexOf("預算案") != -1){ //大標
+					if(o[0] && o[0].indexOf("總預算") != -1){ //大標
 						case_name = o[0];
 					}
 					if(o[0] && o[0].indexOf("預算表") != -1){ //大標
@@ -81,15 +81,16 @@ var processCSV = function(err,body){
 								subjects:[
 								]
 							};
+
 						}else{ //同一預算表，跳過
 
 						}
 					}
 
 
-					if(/中華民國[0-9]+年度/.test(o[0])){
-						out.year_label = o[0];
-						out.year = parseInt(o[0].match("[0-9]+")[0],10) + 1911;
+					if(/中華民國[0-9]+年度/.test(o[7])){
+						out.year_label = o[7];
+						out.year = parseInt(o[7].match("[0-9]+")[0],10) + 1911;
 					}
 
 					if(/^[0-9]+$/.test(o[0])){ //有款
@@ -111,13 +112,13 @@ var processCSV = function(err,body){
 						last_sections[3] = parseInt(o[3],10);
 					}
 
-					if(/^[0-9]+/.test(o[4])){ //科目代碼 get //last subject_end
-
+					if(/^[0-9]+/.test(o[4] || o[5])){ //科目代碼 get //last subject_end
 						if(last_subject != null && last_subject.section0 != 0){
 							last_subject.comment = last_subject.comment.join("");
 							out.subjects.push(last_subject);
+							// console.log("push subject",out);
 						}
-						last_subject_number = o[4];
+						last_subject_number = o[4] || o[5];
 						last_subject = {
 							section0:null,
 							section1:null,
@@ -133,7 +134,7 @@ var processCSV = function(err,body){
 						};
 					}
 
-					if(o[5] != "" && o[5] !="本年度預算數"){ //有金額 // 假設有金額＝第四格一定是中文科目
+					if(o[6] != "" && o[6] !='名 稱 及 編 號' && o[6] !="本年度預算數"){ //有金額 // 假設有金額＝第四格一定是中文科目
 						// console.log(o);
 						//這格很重要、把能填的填一填
 						last_subject.section0 = last_sections[0];
@@ -150,15 +151,16 @@ var processCSV = function(err,body){
 						}
 						last_subject.section_string = tmpSections.join("-");
 
-						last_subject.name = o[4];
-						last_subject.year_this = $money(o[5]);
-						last_subject.year_last = $money(o[6]);
-						last_subject.year_compare_last = $money(o[7]);
+						last_subject.name = o[6].trim();
+						last_subject.year_this = $money(o[7]) * 1000;
+						last_subject.year_last = $money(o[8]) * 1000;
+						last_subject.year_compare_last = $money(o[9]) * 1000;
+						last_subject.comment.push(o[10]);
 						// console.log(last_subject);
 					}
 
-					if(o[8] != "說明" && o[8] != ""){ //重要假設：除 header 外備註不會只有"說明" 兩字
-						last_subject.comment.push(o[8]);
+					if(o[9] != "本 年 度\n 與上年度\n 比    較" && o[9] != ""){ //重要假設：除 header 外備註不會只有"說明" 兩字
+						last_subject.comment.push(o[9]);
 					}
 
 					// console.log(last_sections);
@@ -174,7 +176,7 @@ var processCSV = function(err,body){
 				// console.log(JSON.stringify(outputs));
 				ok(outputs);
 			}catch(ex){
-				console.log(ex);
+				console.log(ex,ex.stack);
 			}
 			// console.log(output);
 		});

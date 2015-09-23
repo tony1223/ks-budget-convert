@@ -7,9 +7,9 @@ var fs = require("fs");
 var csv = require("fast-csv");
 
 
-var parseModuleGOV = require("./parser_module_gov");
+// var parseModuleGOV = require("./parser_module_gov");
 var parserModuleInstitution = require("./parser_module_institution");
-var parserModuleInstitutionAll = require("./parser_module_institution_all");
+// var parserModuleInstitutionAll = require("./parser_module_institution_all");
 
 
 var processFile = function(file){
@@ -28,11 +28,12 @@ var processFile = function(file){
 
 
 //process 總預算案
-fs.readdir("source/歲出機關別預算表/",function(err,files){
+fs.readdir("source/ks-歲出機關別預算表/",function(err,files){
 	var promises = [];
 	files.forEach(function(file){
 		if(file.indexOf(".csv") != -1){
-			promises.push(processFile("source/歲出機關別預算表/"+file));
+			promises.push(processFile("source/ks-歲出機關別預算表/"+file));
+			return false;
 		}
 	});
 
@@ -158,26 +159,26 @@ fs.readdir("source/歲出機關別預算表/",function(err,files){
 
 //process 總預算案
 
-fs.readFile("source/歲出政事別預算表.csv",function(err,body){
+// fs.readFile("source/歲出政事別預算表.csv",function(err,body){
 
-	parseModuleGOV(err,body).then(function(data){
-		fs.writeFile("output/歲出政事別預算表.json",JSON.stringify(data),function(err){
-			// console.log(arguments);
-		});		
-	});
+// 	parseModuleGOV(err,body).then(function(data){
+// 		fs.writeFile("output/歲出政事別預算表.json",JSON.stringify(data),function(err){
+// 			// console.log(arguments);
+// 		});		
+// 	});
 
-});
+// });
 
 
-fs.readFile("source/歲出機關別預算總表.csv",function(err,body){
+// fs.readFile("source/歲出機關別預算總表.csv",function(err,body){
 
-	parserModuleInstitutionAll(err,body).then(function(data){
-		fs.writeFile("output/歲出機關別預算總表.json",JSON.stringify(data),function(err){
-			// console.log(arguments);
-		});		
-	});
+// 	parserModuleInstitutionAll(err,body).then(function(data){
+// 		fs.writeFile("output/歲出機關別預算總表.json",JSON.stringify(data),function(err){
+// 			// console.log(arguments);
+// 		});		
+// 	});
 
-});
+// });
 
 
 
