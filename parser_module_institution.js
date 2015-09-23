@@ -159,10 +159,6 @@ var processCSV = function(err,body){
 						// console.log(last_subject);
 					}
 
-					if(o[9] != "本 年 度\n 與上年度\n 比    較" && o[9] != ""){ //重要假設：除 header 外備註不會只有"說明" 兩字
-						last_subject.comment.push(o[9]);
-					}
-
 					// console.log(last_sections);
 
 				});
