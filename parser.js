@@ -56,6 +56,7 @@ fs.readdir("source/ks-歲出機關別預算表/",function(err,files){
 
         var sections = {};
         var newobj = [];
+        var newobj2 = [];
 
         //summary start
         var summaryEntriesMap = {},
@@ -73,6 +74,7 @@ fs.readdir("source/ks-歲出機關別預算表/",function(err,files){
 	        			year:o.year,
 	        			code:s.section_string.replace(/-/g,".")+"-"+s.number,
 	        			amount:s.year_this,
+	        			last_amount:s.year_last,
 	        			name:s.name,
 	        			topname:sections[s.section0],
 	        			depname:sections[s.section0+"-"+s.section1],
@@ -117,6 +119,7 @@ fs.readdir("source/ks-歲出機關別預算表/",function(err,files){
 	        		csvStream.write(obj);
 	        		csvStream2.write(obj2);
 	        		newobj.push(obj);
+	        		newobj2.push(obj2);
 	        	}
         	});
         });
@@ -124,6 +127,10 @@ fs.readdir("source/ks-歲出機關別預算表/",function(err,files){
         csvStream2.end();
 		
 		fs.writeFile("output/歲出機關別預算表_g0v.json",JSON.stringify(newobj),function(err){
+			console.log(arguments);
+		});
+
+		fs.writeFile("output/歲出機關別預算表_g0v_last.json",JSON.stringify(newobj2),function(err){
 			console.log(arguments);
 		});
 
