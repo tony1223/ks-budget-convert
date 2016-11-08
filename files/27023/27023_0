@@ -1,0 +1,723 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh-TW">
+<head>
+<meta name="Accessible_website" content="本網站通過第(1)優先等級無障礙網頁檢測">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="Content-Type" content="text/html; charset=big5" />
+<title>臺灣宜蘭地方法院 : 首頁  &gt; 業務簡介 &gt; 會計室業務</title>
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function mover(st) {
+st.style.backgroundColor = '#f2f2f2';
+}
+function mout(st) {
+st.style.backgroundColor = '';
+}
+
+//將頁面中的關鍵字高亮顯示,在body的onload中使用
+function HighLight(nWord){
+    var orange = document.body.createTextRange();    
+        while(orange.findText(nWord)){
+            orange.pasteHTML("<span style='color:red;'>" + orange.text + "</span>");
+            orange.moveStart('character',1);            
+    }    
+}
+
+//將頁面中的關鍵字高亮顯示,在body的onload中使用(支持多個關鍵字，多個關鍵字用空格分開)
+function highword(nWord)
+{
+    //將全形空格(逗號)轉半型空格
+    nWord = nWord.replace(/\　/g,"|");    
+    nWord = nWord.replace(/\,/g,"|");    
+    nWord = nWord.replace(/\，/,"|");    
+    nWord = nWord.replace(/\ /g,"|");
+        
+    var Arr = nWord.split("|");
+    for(var i=0;i<Arr.length;i++){        
+        HighLight(Arr[i]);
+    }
+}
+
+
+function MM_CheckFlashVersion(reqVerStr,msg){
+  with(navigator){
+    var isIE  = (appVersion.indexOf("MSIE") != -1 && userAgent.indexOf("Opera") == -1);
+    var isWin = (appVersion.toLowerCase().indexOf("win") != -1);
+    if (!isIE || !isWin){  
+      var flashVer = -1;
+      if (plugins && plugins.length > 0){
+        var desc = plugins["Shockwave Flash"] ? plugins["Shockwave Flash"].description : "";
+        desc = plugins["Shockwave Flash 2.0"] ? plugins["Shockwave Flash 2.0"].description : desc;
+        if (desc == "") flashVer = -1;
+        else{
+          var descArr = desc.split(" ");
+          var tempArrMajor = descArr[2].split(".");
+          var verMajor = tempArrMajor[0];
+          var tempArrMinor = (descArr[3] != "") ? descArr[3].split("r") : descArr[4].split("r");
+          var verMinor = (tempArrMinor[1] > 0) ? tempArrMinor[1] : 0;
+          flashVer =  parseFloat(verMajor + "." + verMinor);
+        }
+      }
+      // WebTV has Flash Player 4 or lower -- too low for video
+      else if (userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 4.0;
+
+      var verArr = reqVerStr.split(",");
+      var reqVer = parseFloat(verArr[0] + "." + verArr[2]);
+  
+      if (flashVer < reqVer){
+        if (confirm(msg))
+          window.location = "http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash";
+      }
+    }
+  } 
+}
+//-->
+</script>
+<script type="text/javascript">
+//v1.7
+// Flash Player Version Detection
+// Detect Client Browser type
+// Copyright 2005-2007 Adobe Systems Incorporated.  All rights reserved.
+var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+
+function ControlVersion()
+{
+	var version;
+	var axo;
+	var e;
+
+	// NOTE : new ActiveXObject(strFoo) throws an exception if strFoo isn't in the registry
+
+	try {
+		// version will be set for 7.X or greater players
+		axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.7");
+		version = axo.GetVariable("$version");
+	} catch (e) {
+	}
+
+	if (!version)
+	{
+		try {
+			// version will be set for 6.X players only
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.6");
+			
+			// installed player is some revision of 6.0
+			// GetVariable("$version") crashes for versions 6.0.22 through 6.0.29,
+			// so we have to be careful. 
+			
+			// default to the first public version
+			version = "WIN 6,0,21,0";
+
+			// throws if AllowScripAccess does not exist (introduced in 6.0r47)		
+			axo.AllowScriptAccess = "always";
+
+			// safe to call for 6.0r47 or greater
+			version = axo.GetVariable("$version");
+
+		} catch (e) {
+		}
+	}
+
+	if (!version)
+	{
+		try {
+			// version will be set for 4.X or 5.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
+			version = axo.GetVariable("$version");
+		} catch (e) {
+		}
+	}
+
+	if (!version)
+	{
+		try {
+			// version will be set for 3.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
+			version = "WIN 3,0,18,0";
+		} catch (e) {
+		}
+	}
+
+	if (!version)
+	{
+		try {
+			// version will be set for 2.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash");
+			version = "WIN 2,0,0,11";
+		} catch (e) {
+			version = -1;
+		}
+	}
+	
+	return version;
+}
+
+// JavaScript helper required to detect Flash Player PlugIn version information
+function GetSwfVer(){
+	// NS/Opera version >= 3 check for Flash plugin in plugin array
+	var flashVer = -1;
+	
+	if (navigator.plugins != null && navigator.plugins.length > 0) {
+		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+			var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
+			var descArray = flashDescription.split(" ");
+			var tempArrayMajor = descArray[2].split(".");			
+			var versionMajor = tempArrayMajor[0];
+			var versionMinor = tempArrayMajor[1];
+			var versionRevision = descArray[3];
+			if (versionRevision == "") {
+				versionRevision = descArray[4];
+			}
+			if (versionRevision[0] == "d") {
+				versionRevision = versionRevision.substring(1);
+			} else if (versionRevision[0] == "r") {
+				versionRevision = versionRevision.substring(1);
+				if (versionRevision.indexOf("d") > 0) {
+					versionRevision = versionRevision.substring(0, versionRevision.indexOf("d"));
+				}
+			}
+			var flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
+		}
+	}
+	// MSN/WebTV 2.6 supports Flash 4
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
+	// WebTV 2.5 supports Flash 3
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
+	// older WebTV supports Flash 2
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
+	else if ( isIE && isWin && !isOpera ) {
+		flashVer = ControlVersion();
+	}	
+	return flashVer;
+}
+
+// When called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
+function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision)
+{
+	versionStr = GetSwfVer();
+	if (versionStr == -1 ) {
+		return false;
+	} else if (versionStr != 0) {
+		if(isIE && isWin && !isOpera) {
+			// Given "WIN 2,0,0,11"
+			tempArray         = versionStr.split(" "); 	// ["WIN", "2,0,0,11"]
+			tempString        = tempArray[1];			// "2,0,0,11"
+			versionArray      = tempString.split(",");	// ['2', '0', '0', '11']
+		} else {
+			versionArray      = versionStr.split(".");
+		}
+		var versionMajor      = versionArray[0];
+		var versionMinor      = versionArray[1];
+		var versionRevision   = versionArray[2];
+
+        	// is the major.revision >= requested major.revision AND the minor version >= requested minor
+		if (versionMajor > parseFloat(reqMajorVer)) {
+			return true;
+		} else if (versionMajor == parseFloat(reqMajorVer)) {
+			if (versionMinor > parseFloat(reqMinorVer))
+				return true;
+			else if (versionMinor == parseFloat(reqMinorVer)) {
+				if (versionRevision >= parseFloat(reqRevision))
+					return true;
+			}
+		}
+		return false;
+	}
+}
+
+function AC_AddExtension(src, ext)
+{
+  if (src.indexOf('?') != -1)
+    return src.replace(/\?/, ext+'?'); 
+  else
+    return src + ext;
+}
+
+function AC_Generateobj(objAttrs, params, embedAttrs) 
+{ 
+  var str = '';
+  if (isIE && isWin && !isOpera)
+  {
+    str += '<object ';
+    for (var i in objAttrs)
+    {
+      str += i + '="' + objAttrs[i] + '" ';
+    }
+    str += '>';
+    for (var i in params)
+    {
+      str += '<param name="' + i + '" value="' + params[i] + '" /> ';
+    }
+    str += '</object>';
+  }
+  else
+  {
+    str += '<embed ';
+    for (var i in embedAttrs)
+    {
+      str += i + '="' + embedAttrs[i] + '" ';
+    }
+    str += '> </embed>';
+  }
+
+  document.write(str);
+}
+
+function AC_FL_RunContent(){
+  var ret = 
+    AC_GetArgs
+    (  arguments, ".swf", "movie", "clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+     , "application/x-shockwave-flash"
+    );
+  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+}
+
+function AC_SW_RunContent(){
+  var ret = 
+    AC_GetArgs
+    (  arguments, ".dcr", "src", "clsid:166B1BCA-3F9C-11CF-8075-444553540000"
+     , null
+    );
+  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+}
+
+function AC_GetArgs(args, ext, srcParamName, classid, mimeType){
+  var ret = new Object();
+  ret.embedAttrs = new Object();
+  ret.params = new Object();
+  ret.objAttrs = new Object();
+  for (var i=0; i < args.length; i=i+2){
+    var currArg = args[i].toLowerCase();    
+
+    switch (currArg){	
+      case "classid":
+        break;
+      case "pluginspage":
+        ret.embedAttrs[args[i]] = args[i+1];
+        break;
+      case "src":
+      case "movie":	
+        args[i+1] = AC_AddExtension(args[i+1], ext);
+        ret.embedAttrs["src"] = args[i+1];
+        ret.params[srcParamName] = args[i+1];
+        break;
+      case "onafterupdate":
+      case "onbeforeupdate":
+      case "onblur":
+      case "oncellchange":
+      case "onclick":
+      case "ondblClick":
+      case "ondrag":
+      case "ondragend":
+      case "ondragenter":
+      case "ondragleave":
+      case "ondragover":
+      case "ondrop":
+      case "onfinish":
+      case "onfocus":
+      case "onhelp":
+      case "onmousedown":
+      case "onmouseup":
+      case "onmouseover":
+      case "onmousemove":
+      case "onmouseout":
+      case "onkeypress":
+      case "onkeydown":
+      case "onkeyup":
+      case "onload":
+      case "onlosecapture":
+      case "onpropertychange":
+      case "onreadystatechange":
+      case "onrowsdelete":
+      case "onrowenter":
+      case "onrowexit":
+      case "onrowsinserted":
+      case "onstart":
+      case "onscroll":
+      case "onbeforeeditfocus":
+      case "onactivate":
+      case "onbeforedeactivate":
+      case "ondeactivate":
+      case "type":
+      case "codebase":
+      case "id":
+        ret.objAttrs[args[i]] = args[i+1];
+        break;
+      case "width":
+      case "height":
+      case "align":
+      case "vspace": 
+      case "hspace":
+      case "class":
+      case "title":
+      case "accesskey":
+      case "name":
+      case "tabindex":
+        ret.embedAttrs[args[i]] = ret.objAttrs[args[i]] = args[i+1];
+        break;
+      default:
+        ret.embedAttrs[args[i]] = ret.params[args[i]] = args[i+1];
+    }
+  }
+  ret.objAttrs["classid"] = classid;
+  if (mimeType) ret.embedAttrs["type"] = mimeType;
+  return ret;
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+function flvFTSS4(){//v1.04
+this.style.filter="";}
+
+function flvFTSS3(){//v1.04
+var v1=arguments,v2=v1[0],v3=MM_findObj(v2);if (v3&&v3.TSS1!=null){clearTimeout(v3.TSS1);}}
+
+function flvFTSS2(){//v1.04
+var v1=arguments,v2=v1[0],v3=MM_findObj(v2),v4=v1[1],v5=v1[2],v6,v7,v8,v9,v10,v11,v12=document;if (v3&&v3.TSS6){flvFTSS3(v2);v9="flvFTSS2('"+v2+"',"+v4+","+v5+")";if (v4==1){if (!v3.TSS4.complete){v3.TSS1=setTimeout(v9,50);return;}v6=v3.TSS8+1;if (v6>v3.TSS6.length-1){if (v3.TSS9==0){return;}else {v6=0;}}else if (v6<v3.TSS6.length-1){v3.TSS4=new Image();v3.TSS4.src=v3.TSS6[v6+1][0];}}else {if (!v3.TSS2.complete){v3.TSS1=setTimeout(v9,50);return;}v6=v3.TSS8-1;if (v6<0){if (v3.TSS9==0){return;}else {v6=v3.TSS6.length-1;}}else if (v6>0){v3.TSS2=new Image();v3.TSS2.src=v3.TSS6[v6-1][0];}}v10=v3.TSS6[v6][0];v11=v3.TSS6[v6][1];v7=(v3.filters&&!v12.TSS5&&v11<25);if (v7){if (v3.filters[0]&&v3.filters[0].status==2){v3.filters[0].Stop();}if (v11==0){v8="blendTrans(Duration="+v3.TSS7+")";}else {v8="revealTrans(Duration="+v3.TSS7+",Transition="+(v11-1)+")";}v3.style.filter=v8;v3.onfilterchange=flvFTSS4;v3.filters[0].Apply();}v3.src=v10;if (v7){v3.filters[0].Play();}v3.TSS8=v6;if (v5==1){v3.TSS1=setTimeout(v9,v3.TSS3);}}}
+
+function flvFTSS1(){//v1.04
+// Copyright 2003, Marja Ribbers-de Vroed, FlevOOware (www.flevooware.nl/dreamweaver/)
+var v1=arguments,v2=document,v3=v1[0],v4=MM_findObj(v3),v5,v6;if (v4){v2.TSS5=(navigator.userAgent.toLowerCase().indexOf("mac")!=-1);v4.TSS7=v1[1]/1000;v4.TSS3=v1[2]+v1[1];v6=v1[3];v4.TSS9=v1[4];v4.TSS6=new Array();for (var v7=5;v7<v1.length;v7+=2){v4.TSS6[v4.TSS6.length]=new Array(v1[v7],v1[v7+1]);}v4.TSS8=0;v4.TSS4=new Image();v4.TSS4.src=v1[7];v4.TSS2=new Image();v4.TSS2.src=v1[v1.length-2];if (v6==1){v5="flvFTSS2('"+v3+"',1,"+v6+")";v4.TSS1=setTimeout(v5,v4.TSS3);}}}
+</script>
+<link href="ildout.css" rel="stylesheet" type="text/css" />
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+</head>
+
+<body onload="MM_preloadImages('image/ild_r5_c5_f2.jpg','image/ild_r5_c8_f2.jpg','image/ild_r5_c10_f2.jpg','image/ild_r5_c12_f2.jpg','image/ild_r5_c14_f2.jpg','image/ild_r5_c17_f2.jpg','image/ild_r5_c19_f2.jpg','image/ild_r5_c21_f2.jpg','image/ild_r5_c24_f2.jpg','image/ild_r5_c23_f2.jpg')">
+    <table width="10%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" summary="網站排版用表格">
+      <tr>
+        <td><img src="image/ild_r1_c2.jpg" alt="*" width="1034" height="18" border="0" /></td>
+      </tr>
+      <tr>
+        <td id="divtop"><table width="100%" border="0" cellspacing="0" cellpadding="0" summary="網站排版用表格">
+  <tr>
+    <td width="88%" align="right" valign="middle"><a href="?sitemap=true" class="map" accesskey="U" title="主要選單列">:::</a><img src="image/spacer.gif" width="5" height="1" alt="*" /><a href="?">回到首頁</a>｜<a href="?sitemap=true">網站地圖</a>｜<a href="indexen.asp" title="English">ENGLISH</a><img src="image/spacer.gif" width="5" height="1" alt="*" /></td>
+    <td width="2%" align="center" nowrap="nowrap"> <form action="" method="get" class="searchform" ><label for="label" style="color:#FFFFFF; font-size:0.1em">查</label>
+  <input name="keyword" type="text" class="textbox" id="label" value="請輸入關鍵字" size="10" accesskey="S"onblur="javascript: if(this.value=='') this.value='請輸入關鍵字';" onfocus="javascript: if(this.value=='請輸入關鍵字') this.value='';"/>
+  <input name="searchtype" type="hidden" class="textbox" id="searchtype" value="website" /><input name="search" type="hidden" class="textbox" id="search" value="true" /> <input type="submit" value="查詢" style="color:#FFFFFF; background-color:#103E72; border: 0px;" />
+    </form></td><td width="1%" align="right" valign="top"><img src="image/ild_r2_c27.jpg" alt="*" width="35" height="34" /></td>
+  </tr>
+</table> </td>
+      </tr>
+      <tr>
+        <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0" summary="網站排版用表格">
+          <tr>
+            <td><img src="image/ild_r3_c2.jpg" width="462" height="134" alt="司法正義女神" /></td>
+            <td width="60%" align="left" valign="bottom" style="background-image:url(image/ild_r3_c15.jpg); background-repeat:no-repeat;"><table width="100%" border="0" cellspacing="0" cellpadding="0" summary="網站排版用表格" style="margin:0px;">
+              <tr>
+                <td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="326" height="134" title="秉持司法的正直清廉、獨立、公平公正，才能獲得人民的信賴！" style="vertical-align:middle" tabIndex="-1"
+>
+                  <param name="movie" value="image/slogan(09).swf" />
+                  <param name="quality" value="high" />
+                  <param name="wmode" value="transparent" />
+                  <embed src="image/slogan(09).swf" width="326" height="134" quality="high" wmode="transparent" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash"></embed>
+                  <noembed>法院理念宣傳動畫：秉持司法的正直清廉、獨立、公平公正，才能獲得人民的信賴！</noembed>
+                </object></td>
+                <td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="196" height="134" align="right" title="認識法院暨更生保護寫生比賽得獎者：藍心妤、陳艾雯、張宇軒、黃琳穎、余彥駖、游宗憲、呂冠霖、吳亞奇、林珮宇、洪藝甄" style="vertical-align:middle" tabIndex="-1"
+>
+                  <param name="movie" value="image/pics.swf" />
+                  <param name="quality" value="high" />
+                  <param name="wmode" value="transparent" />
+                  <embed src="image/pics.swf" width="196" height="134" align="right" quality="high" wmode="transparent" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash"></embed>
+                  <noembed>認識法院暨更生保護寫生比賽得獎者作品展示動畫</noembed>
+                </object></td>
+              </tr>
+            </table></td>
+            <td><img src="image/ild_r3_c29.jpg" width="40" height="134" alt="*" /></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td><img src="image/ild_r4_c2.jpg" alt="法院存在的價值來自人民的信賴，臺灣宜蘭地方法院" width="1034" height="93" /></td>
+      </tr>
+      <tr>
+        <td><img src="image/ild_r5_c2.jpg" alt="*" /><img src="image/ild_r5_c4.jpg" alt="*" width="16" height="30" /><a href="?struID=1&amp;navID=1&amp;cid=127" onfocus="MM_swapImage('Image01','','image/ild_r5_c5_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image01','','image/ild_r5_c5_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="image/ild_r5_c5.jpg" alt="認識本院" name="Image01" width="76" height="30" border="0" id="Image01" /></a><img src="image/ild_r5_c6.jpg" alt="*" width="14" height="30" border="0" /><a href="?struID=2&amp;navID=2&amp;cid=12" onfocus="MM_swapImage('Image02','','image/ild_r5_c8_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image02','','image/ild_r5_c8_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="image/ild_r5_c8.jpg" alt="業務簡介" name="Image02" width="76" height="30" border="0" id="Image02" /></a><img src="image/ild_r5_c9.jpg" alt="*" width="14" height="30" border="0" /><a href="?struID=3&amp;navID=3&amp;cid=19" onfocus="MM_swapImage('Image03','','image/ild_r5_c10_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image03','','image/ild_r5_c10_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="image/ild_r5_c10.jpg" alt="便民服務" name="Image03" width="76" height="30" border="0" id="Image03" /></a><img src="image/ild_r5_c11.jpg" alt="*" width="14" height="30" border="0" /><a href="?struID=45&amp;navID=45&amp;cid=86" onfocus="MM_swapImage('Image04','','image/ild_r5_c12_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image04','','image/ild_r5_c12_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="image/ild_r5_c12.jpg" alt="公證專區" name="Image04" width="76" height="30" border="0" id="Image04" /></a><img src="image/ild_r5_c13.jpg" alt="*" width="14" height="30" border="0" /><a href="?struID=5&amp;navID=5&amp;cid=89" onfocus="MM_swapImage('Image05','','image/ild_r5_c14_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image05','','image/ild_r5_c14_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="image/ild_r5_c14.jpg" alt="調查保護園地" name="Image05" width="112" height="30" border="0" id="Image05" /></a><img src="image/ild_r5_c16.jpg" alt="*" width="14" height="30" border="0" /><a href="?struID=7&amp;navID=7&amp;cid=56" onfocus="MM_swapImage('Image06','','image/ild_r5_c17_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image06','','image/ild_r5_c17_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="image/ild_r5_c17.jpg" alt="調解專區" name="Image06" width="76" height="30" border="0" id="Image06" /></a><img src="image/ild_r5_c18.jpg" alt="*" width="14" height="30" border="0" /><a href="?struID=8&amp;navID=8&amp;cid=101" onfocus="MM_swapImage('Image07','','image/ild_r5_c19_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image07','','image/ild_r5_c19_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="image/ild_r5_c19.jpg" alt="廉政專區" name="Image07" width="76" height="30" border="0" id="Image07" /></a><img src="image/ild_r5_c20.jpg" alt="*" width="14" height="30" border="0" /><a href="?struID=9&amp;navID=9&amp;cid=58" onfocus="MM_swapImage('Image08','','image/ild_r5_c21_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image08','','image/ild_r5_c21_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="image/ild_r5_c21.jpg" alt="書狀例稿" name="Image08" width="76" height="30" border="0" id="Image08" /></a><img src="image/ild_r5_c22.jpg" alt="*" width="14" height="30" border="0" /><a href="?struID=135&cid=141" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image20','','image/ild_r5_c23_f2.jpg',1)"><img src="image/ild_r5_c23.jpg" alt="人民觀審" name="Image20" width="76" height="30" border="0" id="Image20" /></a><img src="image/ild_r5_c22.jpg" alt="*" width="14" height="30" border="0" /><a href="?struID=1&amp;cid=118" onfocus="MM_swapImage('Image09','','image/ild_r5_c24_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image09','','image/ild_r5_c24_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="image/ild_r5_c24.jpg" alt="聯絡法院" name="Image09" width="76" height="30" border="0" id="Image09" /></a><img src="image/ild_r5_c25.jpg" alt="*" width="16" height="30" border="0" /><img src="image/ild_r5_c26.jpg" alt="*" width="38" height="30" border="0" /></td>
+      </tr>
+      <tr>
+        <td><img src="image/ild_r6_c2.jpg" alt="*" width="1034" height="18" border="0" /></td>
+      </tr>
+      <tr>
+        <td><table width="100%" border="0" cellpadding="0" cellspacing="0" summary="網站排版用表格">
+            <tr valign="top">
+              <td width="8%" background="image/ild_r8_c2.jpg"><table width="100%" border="0" cellpadding="0" cellspacing="0" summary="網站排版用表格">        
+                <tr>
+                  <td align="left"><img src="image/ild_r7_c2.jpg" alt="*" width="162" height="20" border="0" /></td>
+                </tr>
+                <tr>
+                  <td align="center"><a href="?sitemap=true" class="map" accesskey="L" title="左側選單列" style="color:#EEE">:::</a></td>
+                </tr>
+                <tr>  
+                  <td>
+                      <img src="image/category_01.jpg" alt="認識本院" width="162" height="50" />
+                  </td>
+                </tr>
+                <tr>
+                  <td><table width="85%" border="0" cellpadding="0" cellspacing="0" style="margin-left:20px;" summary="網站排版用表格">
+                  
+                    <tr>
+                      <td style="vertical-align:middle; vertical-align:baseline \9;"><img src="image/gif-0454.gif" alt="*" width="10" height="12" /></td>
+                      <td align="left" valign="middle" class="selectTR">
+                        <a href="?struID=1&amp;cid=127" title="院長介紹"><strong>院長介紹</strong></a>
+													</td>
+                      </tr>
+                    
+                    <tr>
+                      <td style="vertical-align:middle; vertical-align:baseline \9;"><img src="image/gif-0454.gif" alt="*" width="10" height="12" /></td>
+                      <td align="left" valign="middle" class="selectTR">
+                        <a href="?struID=1&amp;cid=14" title="歷史沿革"><strong>歷史沿革</strong></a>
+													</td>
+                      </tr>
+                    
+                    <tr>
+                      <td style="vertical-align:middle; vertical-align:baseline \9;"><img src="image/gif-0454.gif" alt="*" width="10" height="12" /></td>
+                      <td align="left" valign="middle" class="selectTR">
+                        <a href="?struID=1&amp;cid=15" title="單位組織"><strong>單位組織</strong></a>
+													</td>
+                      </tr>
+                    
+                    <tr>
+                      <td style="vertical-align:middle; vertical-align:baseline \9;"><img src="image/gif-0454.gif" alt="*" width="10" height="12" /></td>
+                      <td align="left" valign="middle" class="selectTR">
+                        <a href="?struID=1&amp;cid=16" title="交通位置"><strong>交通位置</strong></a>
+													</td>
+                      </tr>
+                    
+                    <tr>
+                      <td style="vertical-align:middle; vertical-align:baseline \9;"><img src="image/gif-0454.gif" alt="*" width="10" height="12" /></td>
+                      <td align="left" valign="middle" class="selectTR">
+                        <a href="?struID=1&amp;cid=17" title="樓層平面"><strong>樓層平面</strong></a>
+													</td>
+                      </tr>
+                    
+                    <tr>
+                      <td style="vertical-align:middle; vertical-align:baseline \9;"><img src="image/gif-0454.gif" alt="*" width="10" height="12" /></td>
+                      <td align="left" valign="middle" class="selectTR">
+                        <a href="?struID=1&amp;cid=73" title="單位電話"><strong>單位電話</strong></a>
+													</td>
+                      </tr>
+                    
+                    <tr>
+                      <td style="vertical-align:middle; vertical-align:baseline \9;"><img src="image/gif-0454.gif" alt="*" width="10" height="12" /></td>
+                      <td align="left" valign="middle" class="selectTR">
+                        <a href="?struID=1&amp;cid=78" title="政府公開資訊"><strong>政府公開資訊</strong></a>
+													</td>
+                      </tr>
+                    
+                    <tr>
+                      <td style="vertical-align:middle; vertical-align:baseline \9;"><img src="image/gif-0454.gif" alt="*" width="10" height="12" /></td>
+                      <td align="left" valign="middle" class="selectTR">
+                        <a href="?struID=1&amp;cid=121" title="正義女神介紹"><strong>正義女神介紹</strong></a>
+													</td>
+                      </tr>
+                    
+                  </table></td>
+                </tr>               
+					<tr>
+					  <td>&nbsp;</td>
+			    </tr>
+					<tr>
+					  <td><img src="image/category_10.jpg" width="162" height="50" alt="服務電話" /></td></tr>
+                    <tr><td>  
+                  <table width="85%" border="0" cellpadding="0" cellspacing="0" style="margin-left:20px;" summary="網站排版用表格">                    <tr>
+                      <td style="vertical-align:middle; vertical-align:baseline \9;"><img src="image/arrow-1.gif" alt="*" width="10" height="10" /></td>
+                      <td class="selectTR">宜蘭地方法院<br />
+                      <span style="letter-spacing:-0.05em">(03)925-2001</span></td></tr>
+                    <tr>
+                      <td style="vertical-align:middle; vertical-align:baseline \9;"><img src="image/arrow-1.gif" alt="*" width="10" height="10" /></td>
+                      <td class="selectTR">羅東辦公室<br />
+                      <span style="letter-spacing:-0.05em">(03)965-5550</span></td>
+                    </tr>
+                    <tr>
+                      <td style="vertical-align:middle; vertical-align:baseline \9;"><img src="image/arrow-1.gif" alt="*" width="10" height="10" /></td>
+                      <td class="selectTR">宜蘭簡易庭<br />
+                      <span style="letter-spacing:-0.05em">(03)932-4194</span></td></tr>
+                    </table></td></tr>  
+              </table></td>
+            <td width="100%" align="left" style="background-image:url(image/ild_r21_c7.jpg); background-repeat:repeat-y"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="navgate" summary="排版用表格" background="image/ild_r7_c7.jpg">
+                  <tr>
+                    <td width="2%" valign="top"><img src="image/ild_r7_c8.jpg" alt="*" width="25" height="20" /></td>
+                    <td valign="top"><a href="?sitemap=true" class="map" accesskey="C" title="主要內容區">:::</a> <img src="image/folder_home.png" alt="導覽首頁圖示" width="16" height="16" align="absmiddle" /><font color="#FFFFFF">-</font><a href="?" title="首頁">首頁</a>
+                         &gt; <a href='?struID=1&cid=2' title='業務簡介'>業務簡介</a> &gt; <a href='?struID=1&cid=157' title='會計室業務'>會計室業務</a>                    </td>
+                    <td width="20%" align="right" valign="top" class="print">【<a href="print.asp?struID=1&cid=157" target="_blank" title="友善列印(另開新視窗)">友善列印</a>】</td>
+                    <td width="2%" align="right" valign="top"><img src="image/ild_r7_c10.jpg" alt="*" width="23" height="20" /></td>
+                  </tr>
+                </table>
+				
+                <img src="image/ild_r8_c6_f2.jpg" alt="*" width="710" height="22" />
+            
+                <div id="mainContent">
+                
+                  <h1>會計室業務</h1>
+                
+                  <table border="0"cellpadding="4" cellspacing="0" class="datatable" summary="單元內容表列資料表格">
+                    
+                      <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+                        <td><a href="?struID=1&amp;navID=157&amp;contentID=825" title="106年度預算、決算書及會計月報">◇ 106年度預算、決算書及會計月報</a></td>
+                  </tr>
+                      
+                      <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+                        <td><a href="?struID=1&amp;navID=157&amp;contentID=771" title="105年度預算、決算書及會計月報">◇ 105年度預算、決算書及會計月報</a></td>
+                  </tr>
+                      
+                      <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+                        <td><a href="?struID=1&amp;navID=157&amp;contentID=739" title="104年度預算、決算書及會計月報">◇ 104年度預算、決算書及會計月報</a></td>
+                  </tr>
+                      
+                      <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+                        <td><a href="?struID=1&amp;navID=157&amp;contentID=740" title="103年度預算及決算書">◇ 103年度預算及決算書</a></td>
+                  </tr>
+                      
+                      <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+                        <td><a href="?struID=1&amp;navID=157&amp;contentID=741" title="102年度預算及決算書">◇ 102年度預算及決算書</a></td>
+                  </tr>
+                      
+                      <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+                        <td><a href="?struID=1&amp;navID=157&amp;contentID=742" title="101年度預算及決算書">◇ 101年度預算及決算書</a></td>
+                  </tr>
+                      
+                      <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+                        <td><a href="?struID=1&amp;navID=157&amp;contentID=743" title="100年度預算及決算書">◇ 100年度預算及決算書</a></td>
+                  </tr>
+                      
+                      <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+                        <td><a href="?struID=1&amp;navID=157&amp;contentID=745" title="99年度預算及決算書">◇ 99年度預算及決算書</a></td>
+                  </tr>
+                      
+                      <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+                        <td><a href="?struID=1&amp;navID=157&amp;contentID=746" title="98年度預算及決算書">◇ 98年度預算及決算書</a></td>
+                  </tr>
+                      
+                      <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+                        <td><a href="?struID=1&amp;navID=157&amp;contentID=747" title="97年度預算及決算書">◇ 97年度預算及決算書</a></td>
+                  </tr>
+                      
+                </table>
+                <br />
+                  <table width="100%" border="0" align="center" cellpadding="4" cellspacing="2" class="navgate" summary="放置分頁連結的表格">
+                    <tr>
+                      <td align="left">資料 1 - 10 共 10 筆</td>
+                    <td align="right">                </td>
+                  </tr>
+                </table>
+                
+              </div>
+              </td>
+              <td width="10%" background="image/ild_r8_c22.jpg" style="background-repeat:repeat-y" >
+                <table width="100%" border="0" cellspacing="0" cellpadding="0"  align="center" summary="網站排版用表格">
+                  <tr>
+                    <td><img src="image/ild_r7_c22.jpg" alt="*" width="162" height="20" /></td>
+                </tr>
+                <tr>
+                  <td align="center"><a href="?sitemap=true" class="map" accesskey="R" title="右側選單列" style="color:#EEE">:::</a></td>
+                </tr>
+                  <tr>
+                    <td><img src="image/ild_r9_c22.jpg" alt="資料查詢" width="162" height="50" /></td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <div class="selectIR">
+                    <ul>
+    <li><a title="連結至法拍屋公告查詢(另開新視窗)" target="_blank" href="http://www.judicial.gov.tw/db/alx.asp">法拍屋公告查詢</a> </li>
+    <li><a title="連結至庭期表查詢服務(另開新視窗)" target="_blank" href="http://csdi.judicial.gov.tw/abbs/wkw/WHD3A01.jsp?court=ILD">開庭日期查詢</a> </li>
+    <li><a title="連結至本院當日開庭進度查詢(另開新視窗)" target="_blank" href="http://www.judicial.gov.tw/ctstate/getctstate.asp?courtcode=ILD">當日開庭進度查詢</a> </li>
+    <li><a title="連結至主文公告查詢查詢(另開新視窗)" target="_blank" href="http://csdi.judicial.gov.tw/abbs/wkw/WHD1A01.jsp?court=ILD">主文公告查詢</a> </li>
+    <li><a title="連結至裁判書查詢(另開新視窗)" target="_blank" href="http://jirs.judicial.gov.tw/FJUD">裁判書查詢</a> </li>
+    <li><a title="連結至除權判決公告查詢(另開新視窗)" target="_blank" href="http://jirs.judicial.gov.tw/FJUD/FJUDQRY01_C_1.aspx">除權判決公告</a> </li>
+    <li><a title="連結至監護、輔助宣告查詢(另開新視窗)" target="_blank" href="http://jirs.judicial.gov.tw/GNNWS/NNWSS001.asp?classFlag=z&amp;Search=y&amp;CourtId=ILD">監護、輔助宣告</a>&nbsp; </li>
+    <li><a title="連結至消債事件公告查詢(另開新視窗)" target="_blank" href="http://cdcb.judicial.gov.tw/index.htm">消債事件公告</a> </li>
+    <li><a title="連結至法人及夫妻財產登記查詢(另開新視窗)" target="_blank" href="http://cdcb.judicial.gov.tw/abbs/wkw/WHD6K00.jsp">法人及夫妻財產登記查詢</a> </li>
+    <li><a title="連結至司法院統計網頁(另開新視窗)" target="_blank" href="http://www.judicial.gov.tw/juds/index1.htm">司法統計查詢</a><font color="#ff0000"></font></li>
+    <li><font color="#ff0000"><a title="特約通譯名冊(另開新視窗)" target="_blank" href="http://www.judicial.gov.tw/Intrprtr/">特約通譯名冊</a></font>&nbsp;</li>
+    <li><a title="專業法庭設置查詢" target="_top" href="http://ild.judicial.gov.tw/?struID=3&amp;cid=132">專業法庭設置查詢</a>&nbsp; </li>
+    <li><a title="連結至本院各股分機號碼查詢" target="_top" href="http://ild.judicial.gov.tw/?struID=&amp;cid=73">各股分機號碼查詢</a> </li>
+    <li><a title="連結至本院調解委員輪值表查詢" target="_top" href="http://ild.judicial.gov.tw/?struID=7&amp;cid=56&amp;selectID=48">調解委員輪值查詢</a> </li>
+    <li><a title="連結至本院政府公開資訊查詢" target="_top" href="http://ild.judicial.gov.tw/?struID=&amp;cid=78">政府公開資訊</a> </li>
+</ul></div></td>
+                </tr>
+                  <tr>
+                    <td><img src="image/ild_r16_c22.jpg" alt="相關網站" /></td>
+                </tr>
+                  <tr>
+                    <td>
+                      <div class="selectIR" style="text-align: center; margin-top: 5px;">
+                        <table cellspacing="0" cellpadding="2" align="center" summary="放置好站連結排版用表格" border="0">
+    <tbody>
+        <tr>
+            <td><a target="_blank" href="http://www.judicial.gov.tw/"><img title="連結至司法院(另開新視窗)" border="1" alt="司法院" src="/UserFiles/judicial.jpg" /></a></td>
+        </tr>
+        <tr>
+            <td><a target="_blank" href="http://cpor.judicial.gov.tw/"><img title="連結至案件進度查詢系統(另開新視窗)" border="1" alt="案件進度查詢系統" src="/UserFiles/案件進度查詢.jpg" /></a> </td>
+        </tr>
+        <tr>
+            <td><a target="_blank" href="http://www.judicial.gov.tw/ctstate/getctstate.asp?courtcode=ILD"><img title="連結至開庭進度查詢(另開新視窗)" border="1" alt="開庭進度查詢" src="/UserFiles/開庭進度查詢.jpg" /></a> </td>
+        </tr>
+        <tr>
+            <td><a target="_blank" href="http://du.judicial.gov.tw/jud_k/wke/LoginFEXG.jsp"><img title="連結至電子交換平台(另開新視窗)" border="1" alt="電子檔案交換平臺" src="/UserFiles/電子檔案交換平臺.gif" /></a> </td>
+        </tr>
+        <tr>
+            <td><a target="_blank" href="http://law.moj.gov.tw/index.aspx"><img title="連結至全國法規資料庫(另開新視窗)" border="1" alt="全國法規資料庫" src="/UserFiles/全國法規資料庫.jpg" /></a> </td>
+        </tr>
+        <tr>
+            <td>
+            <p><a target="_blank" href="http://tagv.mohw.gov.tw"><img title="連結至反性別暴力資源網(另開新視窗)" border="1" alt="家庭暴力及性侵害防治委員會" width="120" height="42" src="/UserFiles/TAGV網站.gif" /></a></p>
+            </td>
+        </tr>
+        <tr>
+            <td><a title="政府電子採購網" target="_blank" href="http://web.pcc.gov.tw/pishtml/pisindex.html"></a></td>
+        </tr>
+    </tbody>
+</table></div></td>
+                </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                </tr>
+              </table></td>
+            </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td><img src="image/ild_r21_c2.jpg" alt="*" /></td>
+      </tr>
+      <tr>
+        <td><table width="100%" border="0" cellspacing="0" cellpadding="0" summary="網站排版用表格">
+          <tr>
+            <td width="2%" background="image/ild_r22_c2.jpg"><img src="image/ild_r22_c2.jpg" alt="*" width="30" height="50" border="0" align="top" /></td>
+            <td width="98%" background="image/ild_r22_c3.jpg" style="background-position:left"><table width="100%" border="0" cellspacing="0" cellpadding="0" summary="網站排版用表格"><tr>
+              <td align="center" valign="top"><a target="_blank" href="http://www.webguide.nat.gov.tw/enable.jsp?category=20110121083604" title="通過A+等級無障礙網頁檢測(另開新視窗)"><img src="image/aplus.jpg" alt="通過A+等級無障礙網頁檢測(另開新視窗)" border="0"" style=" margin:3px; margin-top:15px;" title="通過A+等級無障礙網頁檢測(另開新視窗) align="absmiddle></a></td>
+              <td><span class="foot">建議使用 IE 6.0 或 Firefox 2.0 以上瀏覽器<br />
+最佳瀏覽螢幕解析度1021X768</span></td>
+              <td><p class="foot">本院地址：260 宜蘭市縣政西路1號 / 電話總機：(03)925-2001<br />
+                Copyright c 2010 臺灣宜蘭地方法院 <a href="?struID=4&amp;navID=4&amp;contentID=94">網站著作權聲明</a></p></td>
+                <td width="20%" class="foot"><span> 瀏覽人數：<img src=image/counter/2.gif align='absmiddle' alt='2'><img src=image/counter/1.gif align='absmiddle' alt='1'><img src=image/counter/6.gif align='absmiddle' alt='6'><img src=image/counter/4.gif align='absmiddle' alt='4'><img src=image/counter/5.gif align='absmiddle' alt='5'><img src=image/counter/9.gif align='absmiddle' alt='9'><img src=image/counter/1.gif align='absmiddle' alt='1'></span></td></tr></table>
+            </td><td width="2%" align="right" background="image/ild_r22_c28.jpg"><img src="image/ild_r22_c28.jpg" alt="*" /></td>
+        </tr></table></td>
+      </tr>
+        </td>
+      </tr>
+	  <tr><td><img src="image/ild_r23_c2.jpg" alt="*" width="1034" height="25" /></td>
+	  </tr>	
+</table>
+</body>
+</html>

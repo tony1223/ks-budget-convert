@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenericData>
+　　<Header>
+　　　　<Table Id="FNWBCSHFLOWR" Name="現金流量預計表" Domain="NBA" />
+　　　　<Program Id="NBAWBR070_A" />
+　　　　<Sender Name="管制藥品製藥工廠作業基金" />
+　　　　<報表名稱>現金流量預計表</報表名稱>
+　　　　<年度>104</年度>
+　　　　<基金>管制藥品製藥工廠作業基金</基金>
+　　　　<階段>預算案</階段>
+　　　　<版本>1</版本>
+　　　　<單位>新臺幣千元</單位>
+　　</Header>
+　　<DataSet>
+　　　　<ROW>
+　　　　　　<SEQNO>1</SEQNO>
+　　　　　　<LEVEL>2</LEVEL>
+　　　　　　<BOLD>1</BOLD>
+　　　　　　<項目>業務活動之現金流量</項目>
+　　　　　　<預算數 />
+　　　　　　<說明 />
+　　　　</ROW>
+　　　　<ROW>
+　　　　　　<SEQNO>2</SEQNO>
+　　　　　　<LEVEL>3</LEVEL>
+　　　　　　<BOLD>0</BOLD>
+　　　　　　<項目>本期賸餘(短絀－)</項目>
+　　　　　　<預算數>154446</預算數>
+　　　　　　<說明 />
+　　　　</ROW>
+　　　　<ROW>
+　　　　　　<SEQNO>3</SEQNO>
+　　　　　　<LEVEL>3</LEVEL>
+　　　　　　<BOLD>0</BOLD>
+　　　　　　<項目>調整非現金項目</項目>
+　　　　　　<預算數>27924</預算數>
+　　　　　　<說明 />
+　　　　</ROW>
+　　　　<ROW>
+　　　　　　<SEQNO>4</SEQNO>
+　　　　　　<LEVEL>4</LEVEL>
+　　　　　　<BOLD>0</BOLD>
+　　　　　　<項目>折舊及折耗</項目>
+　　　　　　<預算數>19878</預算數>
+　　　　　　<說明>固定資產折舊攤提數19,878千元。</說明>
+　　　　</ROW>
+　　　　<ROW>
+　　　　　　<SEQNO>5</SEQNO>
+　　　　　　<LEVEL>4</LEVEL>
+　　　　　　<BOLD>0</BOLD>
+　　　　　　<項目>攤銷</項目>
+　　　　　　<預算數>809</預算數>
+　　　　　　<說明>電腦軟體攤銷809千元。</說明>
+　　　　</ROW>
+　　　　<ROW>
+　　　　　　<SEQNO>6</SEQNO>
+　　　　　　<LEVEL>4</LEVEL>
+　　　　　　<BOLD>0</BOLD>
+　　　　　　<項目>處理資產短絀(賸餘-)</項目>
+　　　　　　<預算數>9265</預算數>
+　　　　　　<說明>房屋及建築報廢短絀9,265千元。</說明>
+　　　　</ROW>
+　　　　<ROW>
+　　　　　　<SEQNO>7</SEQNO>
+　　　　　　<LEVEL>4</LEVEL>
+　　　　　　<BOLD>0</BOLD>
+　　　　　　<項目>流動資產淨減(淨增-)</項目>
+　　　　　　<預算數>-7028</預算數>
+　　　　　　<說明 />
+　　　　</ROW>
+　　　　<ROW>
+　　　　　　<SEQNO>8</SEQNO>
+　　　　　　<LEVEL>4</LEVEL>
+　　　　　　<BOLD>0</BOLD>
+　　　　　　<項目>流動負債淨增(淨減-)</項目>
+　　　　　　<預算數>5000</預算數>
+　　　　　　<說明 />
+　　　　</ROW>
+　　　　<ROW>
+　　　　　　<SEQNO>9</SEQNO>
+　　　　　　<LEVEL>3</LEVEL>
+　　　　　　<BOLD>1</BOLD>
+　　　　　　<項目>業務活動之淨現金流入(流出－)</項目>
+　　　　　　<預算數>182370</預算數>
+　　　　　　<說明 />
+　　　　</ROW>
+　　　　<ROW>
+　　　　　　<SEQNO>10</SEQNO>
+　　　　　　<LEVEL>2</LEVEL>
+　　　　　　<BOLD>1</BOLD>
+　　　　　　<項目>投資活動之現金流量</項目>
+　　　　　　<預算數 />
+　　　　　　<說明 />
+　　　　</ROW>
+　　　　<ROW>
+　　　　　　<SEQNO>11</SEQNO>
+　　　　　　<LEVEL>3</LEVEL>
+　　　　　　<BOLD>0</BOLD>
+　　　　　　<項目>增加固定資產及遞耗資產</項目>
+　　　　　　<預算數>-139638</預算數>
+　　　　　　<說明 />
+　　　　</ROW>
+　　　　<ROW>
+　　　　　　<SEQNO>12</SEQNO>
+　　　　　　<LEVEL>4</LEVEL>
+　　　　　　<BOLD>0</BOLD>
+　　　　　　<項目>增加固定資產</項目>
+　　　　　　<預算數>-139638</預算數>
+　　　　　　<說明>增加購建中固定資產112,303千元、機械及設備27,135千元、什項設備200千元。</說明>
+　　　　</ROW>
+　　　　<ROW>
+　　　　　　<SEQNO>13</SEQNO>
+　　　　　　<LEVEL>3</LEVEL>
+　　　　　　<BOLD>0</BOLD>
+　　　　　　<項目>增加無形資產、遞延借項及其他資產</項目>
+　　　　　　<預算數>-500</預算數>
+　　　　　　<說明>增購電腦軟體500千元。</說明>
+　　　　</ROW>
+　　　　<ROW>
+　　　　　　<SEQNO>14</SEQNO>
+　　　　　　<LEVEL>4</LEVEL>
+　　　　　　<BOLD>0</BOLD>
+　　　　　　<項目>增加無形資產</項目>
+　　　　　　<預算數>-500</預算數>
+　　　　　　<說明 />
+　　　　</ROW>
+　　　　<ROW>
+　　　　　　<SEQNO>15</SEQNO>
+　　　　　　<LEVEL>3</LEVEL>
+　　　　　　<BOLD>1</BOLD>
+　　　　　　<項目>投資活動之淨現金流入(流出－)</項目>
+　　　　　　<預算數>-140138</預算數>
+　　　　　　<說明 />
+　　　　</ROW>
+　　　　<ROW>
+　　　　　　<SEQNO>16</SEQNO>
+　　　　　　<LEVEL>2</LEVEL>
+　　　　　　<BOLD>1</BOLD>
+　　　　　　<項目>融資活動之現金流量</項目>
+　　　　　　<預算數 />
+　　　　　　<說明 />
+　　　　</ROW>
+　　　　<ROW>
+　　　　　　<SEQNO>17</SEQNO>
+　　　　　　<LEVEL>3</LEVEL>
+　　　　　　<BOLD>0</BOLD>
+　　　　　　<項目>減少短期債務、流動金融負債、其他負債及遞延貸項</項目>
+　　　　　　<預算數>-2000</預算數>
+　　　　　　<說明>減少存入保證金478千元及應付退休及離職金1,522千元。</說明>
+　　　　</ROW>
+　　　　<ROW>
+　　　　　　<SEQNO>18</SEQNO>
+　　　　　　<LEVEL>4</LEVEL>
+　　　　　　<BOLD>0</BOLD>
+　　　　　　<項目>減少其他負債</項目>
+　　　　　　<預算數>-2000</預算數>
+　　　　　　<說明 />
+　　　　</ROW>
+　　　　<ROW>
+　　　　　　<SEQNO>19</SEQNO>
+　　　　　　<LEVEL>3</LEVEL>
+　　　　　　<BOLD>0</BOLD>
+　　　　　　<項目>賸餘分配款</項目>
+　　　　　　<預算數>-120000</預算數>
+　　　　　　<說明 />
+　　　　</ROW>
+　　　　<ROW>
+　　　　　　<SEQNO>20</SEQNO>
+　　　　　　<LEVEL>4</LEVEL>
+　　　　　　<BOLD>0</BOLD>
+　　　　　　<項目>解繳國庫淨額</項目>
+　　　　　　<預算數>-120000</預算數>
+　　　　　　<說明 />
+　　　　</ROW>
+　　　　<ROW>
+　　　　　　<SEQNO>21</SEQNO>
+　　　　　　<LEVEL>3</LEVEL>
+　　　　　　<BOLD>1</BOLD>
+　　　　　　<項目>融資活動之淨現金流入(流出－)</項目>
+　　　　　　<預算數>-122000</預算數>
+　　　　　　<說明 />
+　　　　</ROW>
+　　　　<ROW>
+　　　　　　<SEQNO>22</SEQNO>
+　　　　　　<LEVEL>2</LEVEL>
+　　　　　　<BOLD>1</BOLD>
+　　　　　　<項目>現金及約當現金之淨增(淨減－)</項目>
+　　　　　　<預算數>-79768</預算數>
+　　　　　　<說明 />
+　　　　</ROW>
+　　　　<ROW>
+　　　　　　<SEQNO>23</SEQNO>
+　　　　　　<LEVEL>2</LEVEL>
+　　　　　　<BOLD>1</BOLD>
+　　　　　　<項目>期初現金及約當現金</項目>
+　　　　　　<預算數>413104</預算數>
+　　　　　　<說明 />
+　　　　</ROW>
+　　　　<ROW>
+　　　　　　<SEQNO>24</SEQNO>
+　　　　　　<LEVEL>2</LEVEL>
+　　　　　　<BOLD>1</BOLD>
+　　　　　　<項目>期末現金及約當現金</項目>
+　　　　　　<預算數>333336</預算數>
+　　　　　　<說明 />
+　　　　</ROW>
+　　</DataSet>
+</GenericData>
+

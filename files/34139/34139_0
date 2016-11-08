@@ -1,0 +1,281 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh-TW">
+<head>
+<meta name="Accessible_website" content="本網站通過第(2)優先等級無障礙網頁檢測">
+<meta http-equiv="Content-Type" content="text/html; charset=big5" />
+<title>臺灣苗栗地方法院 : 首頁  &gt; 會計專欄 &gt; 預算書 > 106年度預算書</title>
+<script src="Scripts/swfobject_modified.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+function mover(st) {
+st.style.backgroundColor = '#f2f2f2';
+}
+function mout(st) {
+st.style.backgroundColor = '';
+}
+
+//將頁面中的關鍵字高亮顯示,在body的onload中使用
+function HighLight(nWord){
+    var orange = document.body.createTextRange();    
+        while(orange.findText(nWord)){
+            orange.pasteHTML("<span style='color:red;'>" + orange.text + "</span>");
+            orange.moveStart('character',1);            
+    }    
+}
+
+//將頁面中的關鍵字高亮顯示,在body的onload中使用(支持多個關鍵字，多個關鍵字用空格分開)
+function highword(nWord)
+{
+    //將全形空格(逗號)轉半型空格
+    nWord = nWord.replace(/\　/g,"|");    
+    nWord = nWord.replace(/\,/g,"|");    
+    nWord = nWord.replace(/\，/,"|");    
+    nWord = nWord.replace(/\ /g,"|");
+        
+    var Arr = nWord.split("|");
+    for(var i=0;i<Arr.length;i++){        
+        HighLight(Arr[i]);
+    }
+}
+
+//-->
+</script>
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<link href="layout.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body onload="MM_preloadImages('images/wwwmld_r10_c9_f2.jpg','images/wwwmld_r10_c12_f2.jpg','images/wwwmld_r10_c16_f2.jpg','images/wwwmld_r10_c4_f2.jpg','images/wwwmld_r10_c6_f2.jpg','images/wwwmld_r10_c20_f2.jpg','images/wwwmld_r10_c26_f2.jpg','images/wwwmld_r10_c30_f2.jpg','images/wwwmld_r10_c14_f2.jpg','images/wwwmld_r2_c19_f2.jpg','images/wwwmld_r2_c25_f2.jpg','images/wwwmld_r2_c28_f2.jpg')">
+<table width="10%" border="0" align="center" cellpadding="1" cellspacing="0" bgcolor="#CCCCCC" summary="網站排版用表格">
+  <tr>
+    <td>
+    <table width="10%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" summary="網站排版用表格">
+      <tr>
+        <td style="background:url(images/webmld_r1_c19.jpg) repeat-x;"><img src="images/wwwmld_r1_c1.jpg" alt="" width="1000" height="8" /></td>
+      </tr>
+      <tr>
+        <td><table width="100%" border="0" cellspacing="0" cellpadding="0" summary="網站排版用表格">
+          <tr>
+            <td><img src="images/wwwmld_r2_c1.jpg" width="350" height="36" alt="" /></td>
+            <td><img src="images/wwwmld_r2_c7.jpg" width="117" height="36" alt="網站搜尋" /></td>
+            <td width="60%" valign="top" background="images/wwwmld_r2_c11.jpg"><form action="" method="get" name="searchform" class="searchform" >      
+                <label for="label" style="color:#FFFFFF; font-size:0.1em">查</label>
+                <input name="keyword" type="text" class="textbox" id="label" value="請輸入關鍵字" size="15" accesskey="S"onblur="javascript: if(this.value=='') this.value='請輸入關鍵字';" onfocus="javascript: if(this.value=='請輸入關鍵字') this.value='';"/>
+                <input name="search" type="hidden" class="textbox" id="search" value="true" /><input name="searchtype" type="hidden" value="website" />
+                <input type="image" src="images/search.gif" alt="查詢" onClick="document.searchform.submit();" align="absmiddle" >
+                &nbsp;&nbsp;<a href="?sitemap=true" class="map" accesskey="T" title="上方選單列">:::</a>
+                </form></td>
+            <td nowrap="nowrap"><img src="images/wwwmld_r2_c18.jpg" width="13" height="36" alt="" /><a href="index.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image20','','images/wwwmld_r2_c19_f2.jpg',1)"><img src="images/wwwmld_r2_c19.jpg" alt="回到首頁" name="Image20" width="55" height="36" border="0" id="Image20" /></a><img src="images/wwwmld_r2_c21.jpg" width="18" height="36" alt="" /><a href="?sitemap=true" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image21','','images/wwwmld_r2_c25_f2.jpg',1)"><img src="images/wwwmld_r2_c25.jpg" alt="網站地圖" name="Image21" width="55" height="36" border="0" id="Image21" /></a><img src="images/wwwmld_r2_c27.jpg" width="22" height="36" alt=" " /><a href="indexen.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image22','','images/wwwmld_r2_c28_f2.jpg',1)"><img src="images/wwwmld_r2_c28.jpg" alt="English" name="Image22" width="48" height="36" border="0" id="Image22" /></a><img src="images/wwwmld_r2_c31.jpg" width="82" height="36" /></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+      </tr>
+      <tr>
+        <td><table width="100%" border="0" cellpadding="0" cellspacing="0" summary="網站排版用表格">
+            <tr valign="top">
+              <td width="8%" style="background-image:url(images/wwwmld_r16_c1.jpg); background-repeat:repeat-y"><table width="100%" border="0" cellpadding="0" cellspacing="0" summary="網站排版用表格">
+                <tr>
+                  <td align="center" nowrap="nowrap" style="background:url(images/wwwmld_r4_c1.jpg) top no-repeat" bgcolor="#BA8E4E"><img src="images/spacer.gif" width="1" height="101" /><a href="?sitemap=true" class="map" accesskey="L" title="左側選單列">:::</a></td>
+             </tr>
+                <tr>
+<td><img src="images/menu02.jpg" alt="業務簡介" width="207" height="59" /></td>
+	
+                </tr>
+             
+                <tr><td style="background:url(images/wwwmld_r6_c1.jpg) repeat-y"><table width="82%" border="0" cellpadding="0" cellspacing="0" style="margin-left:15px;" summary="網站排版用表格">
+                  
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/gif-0466.gif" alt="*" width="5" height="7" align="absmiddle" />  
+                        <a href="?struID=2&amp;cid=20" title="民事業務">民事業務</a>
+													</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/gif-0466.gif" alt="*" width="5" height="7" align="absmiddle" />  
+                        <a href="?struID=2&amp;cid=27" title="刑事業務">刑事業務</a>
+													</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/gif-0466.gif" alt="*" width="5" height="7" align="absmiddle" />  
+                        <a href="?struID=2&amp;cid=370" title="行政訴訟業務">行政訴訟業務</a>
+													</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/gif-0466.gif" alt="*" width="5" height="7" align="absmiddle" />  
+                        <a href="?struID=2&amp;cid=21" title="少家業務">少家業務</a>
+													</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/gif-0466.gif" alt="*" width="5" height="7" align="absmiddle" />  
+                        <a href="?struID=2&amp;cid=26" title="執行業務">執行業務</a>
+													</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/gif-0466.gif" alt="*" width="5" height="7" align="absmiddle" />  
+                        <a href="?struID=2&amp;cid=25" title="調解業務">調解業務</a>
+													</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/gif-0466.gif" alt="*" width="5" height="7" align="absmiddle" />  
+                        <a href="?struID=2&amp;cid=24" title="提存登記">提存登記</a>
+													</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/gif-0466.gif" alt="*" width="5" height="7" align="absmiddle" />  
+                        <a href="?struID=2&amp;cid=22" title="非訟中心">非訟中心</a>
+													</td>
+                         </tr>
+                    
+ 
+                  </table></td>
+                  </tr>
+	
+                  <tr>
+                    <td><img src="images/wwwmld_r16_c1.jpg" width="207" height="22" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <td><img src="images/wwwmld_r17_c1.jpg" width="207" height="44" alt="法令宣導" /></td>
+                  </tr>
+                  <tr>
+                    <td align="center" style="background:url(images/wwwmld_r18_c1.jpg) repeat-y"><img src="images/app_qrcode.png" width="80" /><br />
+<span style="color:#fff; font-size:0.8em;">下載 Android 版</span><br />
+<br />
+<img src="images/iphone_qrcode.png" width="80" alt="iphone版QR_Cord" /><br /><span style="color:#fff; font-size:0.8em;">下載 iphone 版</span>
+</td>
+                  </tr>
+                  <tr>
+                    <td><img src="images/wwwmld_r26_c1.jpg" width="207" height="20" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <td><a href="?struID=10&amp;navID=10&amp;contentID=816"><img src="images/wwwmld_r27_c1.jpg" alt="多媒體簡介" width="207" height="64" border="0" /></a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="?struID=3&amp;navID=136&amp;contentID=814"><img src="images/wwwmld_r30_c1.jpg" alt="政府公開資訊" width="207" height="56" border="0" /></a></td>
+                  </tr>
+              </table></td>
+            <td width="98%" valign="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" summary="網站排版用表格">
+  <tr><td><img src="images/spacer.gif" width="1" height="1" alt=""></td></tr>
+  <tr>
+    <td>
+    	<object id="FlashID" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="762" height="206">
+		  <param name="movie" value="images/banner.swf">
+		  <param name="quality" value="high">
+		  <param name="wmode" value="opaque">
+		  <param name="swfversion" value="9.0.45.0">
+		  <!-- 此 param 標籤會提示使用 Flash Player 6.0 r65 和更新版本的使用者下載最新版本的 Flash Player。如果您不想讓使用者看到這項提示，請將其刪除。 -->
+		  <param name="expressinstall" value="Scripts/expressInstall.swf">
+		  <!-- 下一個物件標籤僅供非 IE 瀏覽器使用。因此，請使用 IECC 將其自 IE 隱藏。 -->
+		  <!--[if !IE]>-->
+		  <object type="application/x-shockwave-flash" data="images/banner.swf" width="762" height="206">
+		    <!--<![endif]-->
+		    <param name="quality" value="high">
+		    <param name="wmode" value="opaque">
+		    <param name="swfversion" value="9.0.45.0">
+		    <param name="expressinstall" value="Scripts/expressInstall.swf">
+		    <!-- 瀏覽器會為使用 Flash Player 6.0 和更早版本的使用者顯示下列替代內容。 -->
+		    <div>
+		      <h4>這個頁面上的內容需要較新版本的 Adobe Flash Player。</h4>
+		      <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="取得 Adobe Flash Player" width="112" height="33" /></a></p>
+	        </div>
+		    <!--[if !IE]>-->
+	      </object>
+		  <!--<![endif]-->
+	    </object>
+    </td>
+  </tr>
+<td align="center" bgcolor="#8E561D"><div><a href="?struID=1&amp;navID=1&amp;cid=12" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','images/wwwmld_r10_c4_f2.jpg',1)"><img src="images/wwwmld_r10_c4.jpg" alt="認識本院" name="Image1" width="65" height="40" border="0" id="Image1" /></a><img src="images/wwwmld_r10_c5.jpg" alt="*" width="16" height="40" /><a href="?struID=2&amp;navID=20&amp;cid=30" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','images/wwwmld_r10_c6_f2.jpg',1)"><img src="images/wwwmld_r10_c6.jpg" alt="業務簡介" name="Image2" width="65" height="40" border="0" id="Image2" /></a><img src="images/wwwmld_r10_c8.jpg" alt="*" width="16" height="40" /><a href="?struID=3&amp;navID=73&amp;cid=138" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','images/wwwmld_r10_c9_f2.jpg',1)"><img src="images/wwwmld_r10_c9.jpg" alt="便民禮民" name="Image3" width="65" height="40" border="0" id="Image3" /></a><img src="images/wwwmld_r10_c10.jpg" alt="*" width="18" height="40" /><a href="?struID=6&amp;navID=6&amp;cid=123" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','images/wwwmld_r10_c12_f2.jpg',1)"><img src="images/wwwmld_r10_c12.jpg" alt="公告查詢" name="Image4" width="65" height="40" border="0" id="Image4" /></a><img src="images/wwwmld_r10_c13.jpg" alt="*" width="16" height="40" /><a href="?struID=23&amp;navID=23&amp;cid=218" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','images/wwwmld_r10_c14_f2.jpg',1)"><img src="images/wwwmld_r10_c14.jpg" alt="公證專區" name="Image9" width="65" height="40" border="0" id="Image9" /></a><img src="images/wwwmld_r10_c15.jpg" alt="*" width="16" height="40" /><a href="?struID=129&amp;navID=145&amp;cid=177" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','images/wwwmld_r10_c16_f2.jpg',1)"><img src="images/wwwmld_r10_c16.jpg" alt="書狀範例" name="Image5" width="65" height="40" border="0" id="Image5" /></a><img src="images/wwwmld_r10_c17.jpg" alt="*" width="16" height="40" /><a href="?struID=131&amp;navID=131&amp;cid=355" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','images/wwwmld_r10_c20_f2.jpg',1)"><img src="images/wwwmld_r10_c20.jpg" alt="法治宣導" name="Image6" width="65" height="40" border="0" id="Image6" /></a><img src="images/wwwmld_r10_c24.jpg" alt="*" width="16" height="40" /><a href="?struID=28&amp;navID=28&amp;cid=225" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','images/wwwmld_r10_c26_f2.jpg',1)"><img src="images/wwwmld_r10_c26.jpg" alt="廉政專區" name="Image7" width="65" height="40" border="0" id="Image7" /></a><img src="images/wwwmld_r10_c29.jpg" alt="*" width="16" height="40" /><a href="http://mld.judicial.gov.tw/web_children/index.asp" target="_blank" onmouseover="MM_swapImage('Image8','','images/wwwmld_r10_c30_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/wwwmld_r10_c30.jpg" alt="少年園地" name="Image8" width="67" height="40" border="0" id="Image8" /></a></div></td>
+      </tr>
+      <tr>
+        <td><img src="images/wwwmld_r11_c3.jpg" alt="*" width="762" height="10" /></td>
+</table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="網站排版用表格">
+              <tr>
+<td width="100%" align="left" valign="top" bgcolor="#FFFFFF" class="norepeat" >                        
+              <div id="mainContent">
+                
+                <table width="100%" border="0" class="navgate" summary="排版用表格">
+                  <tr>
+                    <td><a href="?sitemap=true" class="map" accesskey="C" title="主要內容區">:::</a> ．<a href="?" title="首頁">首頁</a>
+                         &gt; <a href='?struID=2&cid=29' title='會計專欄'>會計專欄</a> &gt; <a href='?struID=2&cid=358' title='預算書'>預算書</a>
+                      &gt; 106年度預算書                    </td>
+                    <td width="20%" align="right">【<a href="print.asp?struID=2&navID=358&contentID=7214" target="_blank" style="color:#FF6600" title="友善列印(另開新視窗)">友善列印</a>】</td>
+                  </tr>
+                </table>
+                
+                  <h1>預算書</h1>
+                <h2>106年度預算書</h2>
+                <p><p><a href="/UserFiles/會計室/106預算總說明doc.doc">106預算案總說明</a><a href="/UserFiles/會計室/106.pdf">-</a><a href="/UserFiles/會計室/106預算總說明doc.doc">doc</a>(105年8月29日公告)</p>
+<p><a href="/UserFiles/106-預算案-XML0.7z">106預算案-XML</a>(105年8月29日公告)</p>
+<p><a href="/UserFiles/106-預算案-EXCEL0.7z">106預算案-EXCEL</a>(105年8月29日公告)</p>
+<p><a href="/UserFiles/會計室/106.pdf">106預算案-pdf</a>(105年8月29日公告)</p></p>
+                
+                  <div align="left">
+                    
+                  <span class="clean"></span>
+            <div align="center" style="margin-top:40px; clear:both">
+            <input name="Submit" type="button" title="到最上方" onclick="window.location='#top';" onkeypress="window.location='#top';" value="到最上方" />
+            <input name="Submit" type="button" title="回上一頁" onclick="window.history.back();" onkeypress="window.history.back();" value="回上一頁" />
+			<input name="Submit" type="button" title="回首頁" onclick="window.location='?';" onkeypress="window.location='?';" value="回首頁" />
+            <noscript>
+            <a href="#top">到最上方</a><br />
+              您的瀏覽器並不支援此一Script回到上一頁的功能，建議您可使用瀏覽器上方的工具列【回上一頁】或快速鍵  ←(Backspace)，來達到回上一頁的功能。
+              </noscript>
+            </div>
+                  
+              </div></td>
+            
+			  </tr>
+			</table>           
+            </td>
+            <td width="1%" valign="top" style="background:url(images/wwwmld_r5_c34.jpg) repeat-y"><img src="images/wwwmld_r4_c34.jpg" width="31" height="89" /></td>
+            </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td><img src="images/wwwmld_r34_c1.jpg" width="1000" height="54" alt="" /></td>
+      </tr>
+      <tr>
+        <td><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#DEDABD" summary="網站排版用表格">
+          <tr>
+            <td width="28%"><span class="foot">瀏覽人數：<img src=images/counter/0.gif align='absmiddle' alt='2460029'><img src=images/counter/2.gif align='absmiddle' alt='2460029'><img src=images/counter/4.gif align='absmiddle' alt='2460029'><img src=images/counter/6.gif align='absmiddle' alt='2460029'><img src=images/counter/0.gif align='absmiddle' alt='2460029'><img src=images/counter/0.gif align='absmiddle' alt='2460029'><img src=images/counter/2.gif align='absmiddle' alt='2460029'><img src=images/counter/9.gif align='absmiddle' alt='2460029'></span></td>
+            <td width="2%"><a href = "http://www.webguide.nat.gov.tw/enable.jsp?category=20050519182612" title = "無障礙網站" target="_blank"><img src="images/aa.jpg" alt="通過AA等級無障礙網頁檢測(另開新視窗)" border="0" style="margin:5px; margin-left:10px;" /></a></td>
+            <td width="90%" background="images/index_r22_c5.jpg"><p class="foot">地址：苗栗市中正路1149號‧代表號：037-330083‧本院於91年10月24日通過ISO9001國際品質認證‧<br />
+                臺灣苗栗地方法院 版權所有 c 2006 Taiwan Miaoli District Court, All Rights Reserved.‧隱私權政策‧</p></td>
+            </tr>
+        </table></td>
+      </tr>
+    </table>
+  </td></tr>
+</table> 
+</body>
+</html>

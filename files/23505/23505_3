@@ -1,0 +1,354 @@
+
+	<?xml version="1.0"  encoding="utf-8" ?>
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="zh-TW" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="urn:user-namespace-here" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>105年度預算案(完整)(PDF檔)  - 預算書 - 法務部司法官學院Academy for the Judiciary , Ministry of Justice</title>
+<link href="xslGip/unit092/css/cp.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit092/css/mp.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit092/css/style.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit092/css/common.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit092/css/fontSizeS.css" rel="stylesheet" type="text/css" title="size1"/>
+<link href="xslGip/unit092/css/fontSizeM.css" rel="alternate stylesheet" type="text/css" title="size2"/>
+<link href="xslGip/unit092/css/fontSizeL.css" rel="alternate stylesheet" type="text/css" title="size3"/>
+<script type="text/javascript" src="xslGip/unit092/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="xslGip/unit092/js/styleswitcher.js"></script>
+<script type="text/javascript" src="xslGip/unit092/js/multimenu.js"></script>
+<script type="text/javascript" src="xslGip/unit092/js/widgets_class.js"></script>
+<script type="text/javascript" src="xslGip/unit092/js/tab.js"></script>
+<script type="text/javascript" src="xslGip/unit092/js/jquery.flexslider.js"></script> 
+<link rel="govtwsimpledc.xsd" href="http://www.gov.tw/schema/dc/" title="Dublin Core"/>
+<meta name="DC.Title" content="預、決算" />
+<meta name="DC.Creator" content="法務部司法官訓練所" />
+<meta name="DC.Subject" content="預、決算" />
+<meta name="DC.Description" content="預、決算" />
+<meta name="DC.Contributor" content="法務部" />
+<meta name="DC.Type" content="文字" />
+<meta name="DC.Format" content="text" />
+<meta name="DC.Source" content="法務部" />
+<meta name="DC.Language" content="中文" />
+<meta name="DC.coverage.t.min" content="2015-09-10" />
+<meta name="DC.coverage.t.max" content="2035-09-10" />
+<meta name="DC.Publisher" content="法務部司法官訓練所" />
+<meta name="DC.Date" content="2008-05-01" />
+<meta name="DC.Identifier" content="311020000F" />
+<meta name="DC.Relation" content="GIP-moj" />
+<meta name="DC.Rights" content="法務部" />
+<meta name="Category.Theme" content="950" />
+<meta name="Category.Cake" content="J23" />
+<meta name="Category.Service" content="I14" />
+<meta name="Keywords" content="" />
+ <script type="text/javascript">
+				/*--- Begin of 20150817 --- for the height of mlmenu when two levels, by Vincent */
+				$(function(){
+					var menuWordCnt=0;
+					$(".mlmenu > ul > li > a:first-child").each(function(index){menuWordCnt += $(this).html().length;});
+					$(".mlmenu").height(menuWordCnt<40?"30px":menuWordCnt<80?"60px":"90px");
+				});
+				/*--- end of 20150817 ---*/</script>
+<noscript>
+<style type="text/css">
+					<!--
+					#vertnav ul, #vertnav ul ul {
+						display: block;
+						position: relative;
+						top: 0px;
+						left: 0px;
+					}
+					-->
+					</style>
+</noscript>
+</head>
+<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+<script>$(function(){$('#tabindex_20578').children('a').focus();});</script>
+<body>
+<div id="all">
+<div class="top" xmlns="">
+<div id="WebTitle"><div class="logofont"><a href="mp.asp?mp=092" title="回法務部司法官學院Academy for the Judiciary , Ministry of Justice首頁"><img src="xslGip/unit092/images/pic_20161102083343.png" alt="法務部司法官學院Academy for the Judiciary , Ministry of Justice" border="0"></a></div><div class="ETitle"></div></div>
+<div id="TopLink">
+<div class="TopLink_top"></div>
+<div class="TopLink_center"><span><a title="上欄" accesskey="U" href="#">:::</a></span><span><a title="網站導覽" href="sitemap.asp?mp=092">網站導覽</a></span><A title=回首頁 href="http://www.tpi.moj.gov.tw/mp092.html">回首頁</A>
+<A title=意見信箱 href="http://www.tpi.moj.gov.tw/np.asp?ctNode=41423&CtUnit=16854&BaseDSD=7&mp=092">意見信箱</A>
+<A title=常見問答 href="http://www.tpi.moj.gov.tw/lp.asp?CtNode=28393&CtUnit=9445&BaseDSD=7&mp=092">常見問答</A>
+<A title=行動版 href="http://www.tpi.moj.gov.tw/mp0921.html">行動版</A>
+<A title=English href="http://www.tpi.moj.gov.tw/dp.asp?mp=186">English</A>
+</div>
+<div class="TopLink_bottom"></div>
+</div>
+<div class="fontSize" title="瀏覽字體設定"><ul>
+<li class="fontS"><a cat="font" href="#" onclick="setActiveStyleSheet('size1'); return false;" onkeypress="setActiveStyleSheet('size1'); return false;"><img src="images/null.gif" alt="小" title="小"></a></li>
+<li class="fontM"><a cat="font" href="#" onclick="setActiveStyleSheet('size2'); return false;" onkeypress="setActiveStyleSheet('size2'); return false;"><img src="images/null.gif" alt="中" title="中"></a></li>
+<li class="fontL"><a cat="font" href="#" onclick="setActiveStyleSheet('size3'); return false;" onkeypress="setActiveStyleSheet('size3'); return false;"><img src="images/null.gif" alt="大" title="大"></a></li>
+</ul>
+</div>
+<noscript>當SCRIPT關閉時，選擇字型大小，請參考：IE6請利用鍵盤按住ALT鍵 + V → X → (G)最大(L)較大(M)中(S)較小(A)小，來選擇適合您的文字大小,而IE7、IE8或Firefox瀏覽器則可利用鍵盤 Ctrl + (+)放大 (-)縮小來改變字型大小。</noscript>
+<div class="mlmenu menubg inaccesible arrow">
+<ul>
+<li><a href="np.asp?ctNode=34575&amp;mp=092" title="學院大事記">學院大事記</a><ul>
+<li><a href="lp.asp?ctNode=44828&amp;CtUnit=13361&amp;BaseDSD=7&amp;mp=092" title="最新消息">最新消息</a></li>
+<li><a href="lp.asp?ctNode=34580&amp;CtUnit=13463&amp;BaseDSD=7&amp;mp=092" title="重要活動">重要活動</a></li>
+<li><a href="lp.asp?ctNode=34577&amp;CtUnit=13460&amp;BaseDSD=7&amp;mp=092" title="出訪交流">出訪交流</a></li>
+<li><a href="lp.asp?ctNode=44829&amp;CtUnit=431&amp;BaseDSD=7&amp;mp=092" title="國際交流">國際交流</a></li>
+<li><a href="lp.asp?ctNode=34578&amp;CtUnit=13461&amp;BaseDSD=7&amp;mp=092" title="外賓來訪">外賓來訪</a></li>
+<li><a href="lp.asp?ctNode=34579&amp;CtUnit=13462&amp;BaseDSD=7&amp;mp=092" title="新聞稿">新聞稿</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=7684&amp;mp=092" title="學院簡介">學院簡介</a><ul>
+<li><a href="np.asp?ctNode=7703&amp;mp=092" title="院徽簡介">院徽簡介</a></li>
+<li><a href="np.asp?ctNode=7686&amp;mp=092" title="院長簡介">院長簡介</a></li>
+<li><a href="np.asp?ctNode=7685&amp;mp=092" title="歷史沿革">歷史沿革</a></li>
+<li><a href="np.asp?ctNode=7704&amp;mp=092" title="組織架構">組織架構</a></li>
+<li><a href="np.asp?ctNode=7705&amp;mp=092" title="職務掌管">職務掌管</a></li>
+<li><a href="np.asp?ctNode=7708&amp;mp=092" title="未來展望">未來展望</a></li>
+<li><a href="np.asp?ctNode=41423&amp;mp=092" title="院長信箱">院長信箱</a></li>
+<li><a href="np.asp?ctNode=44817&amp;mp=092" title="機關位置圖">機關位置圖</a></li>
+<li><a href="np.asp?ctNode=44818&amp;mp=092" title="硬體設施">硬體設施</a></li>
+<li><a href="np.asp?ctNode=15580&amp;mp=092" title="單位聯絡電話">單位聯絡電話</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=37304&amp;mp=092" title="司法官養成">司法官養成</a><ul>
+<li><a href="lp.asp?ctNode=37306&amp;CtUnit=13377&amp;BaseDSD=7&amp;mp=092" title="司法官訓練委員會">司法官訓練委員會</a></li>
+<li><a href="lp.asp?ctNode=37308&amp;CtUnit=13398&amp;BaseDSD=7&amp;mp=092" title="司法官養成教育">司法官養成教育</a></li>
+<li><a href="np.asp?ctNode=37310&amp;mp=092" title="教育內容">教育內容</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=44506&amp;mp=092" title="司改講堂">司改講堂</a><ul>
+<li><a href="lp.asp?ctNode=44508&amp;CtUnit=17887&amp;BaseDSD=7&amp;mp=092" title="司改講堂">司改講堂</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=34478&amp;mp=092" title="在職研習課程">在職研習課程</a><ul>
+<li><a href="lp.asp?ctNode=37227&amp;CtUnit=1727&amp;BaseDSD=7&amp;mp=092" title="研習課程">研習課程</a></li>
+<li><a href="lp.asp?ctNode=44827&amp;CtUnit=14112&amp;BaseDSD=7&amp;mp=092" title="在職研習報名">在職研習報名</a></li>
+<li><a href="lp.asp?ctNode=34484&amp;CtUnit=13399&amp;BaseDSD=7&amp;mp=092" title="司法人員研習">司法人員研習</a></li>
+<li><a href="np.asp?ctNode=34481&amp;mp=092" title="教育內容">教育內容</a></li>
+</ul>
+</li>
+<li><a href="http://www.moj.gov.tw/mp302.html" title="犯罪防治研究(另開新視窗)" target="_nwGip">犯罪防治研究</a></li>
+<li><a href="np.asp?ctNode=34265&amp;mp=092" title="學院刊物">學院刊物</a><ul>
+<li><a href="http://ja.lawbank.com.tw/lastStage.aspx" title="司法新聲">司法新聲</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=15481&amp;mp=092" title="圖書查詢">圖書查詢</a><ul>
+<li><a href="lp.asp?ctNode=35306&amp;CtUnit=13870&amp;BaseDSD=7&amp;mp=092" title="圖書室簡介">圖書室簡介</a></li>
+<li><a href="np.asp?ctNode=15483&amp;mp=092" title="最新消息">最新消息</a></li>
+<li><a href="np.asp?ctNode=15484&amp;mp=092" title="服務對象">服務對象</a></li>
+<li><a href="np.asp?ctNode=15485&amp;mp=092" title="開放時間">開放時間</a></li>
+<li><a href="http://www.library.tw/tpimoj_opac/index.aspx" title="圖書資訊查詢系統">圖書資訊查詢系統</a></li>
+<li><a href="np.asp?ctNode=15487&amp;mp=092" title="網路資源">網路資源</a></li>
+<li><a href="np.asp?ctNode=24840&amp;mp=092" title="線上學習區">線上學習區</a></li>
+<li><a href="np.asp?ctNode=26128&amp;mp=092" title="圖書室行政規則">圖書室行政規則</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=19722&amp;mp=092" title="學員專區">學員專區</a><ul>
+<li><a href="lp.asp?ctNode=19723&amp;CtUnit=3939&amp;BaseDSD=7&amp;mp=092" title="學員公告">學員公告</a></li>
+<li><a href="lp.asp?ctNode=21762&amp;CtUnit=5266&amp;BaseDSD=7&amp;mp=092" title="相關表格下載">相關表格下載</a></li>
+</ul>
+</li>
+<li><a href="lp.asp?ctNode=25083&amp;CtUnit=7597&amp;BaseDSD=7&amp;mp=092" title="重大政策">重大政策</a></li>
+<li><a href="np.asp?ctNode=7700&amp;mp=092" title="相關資料及連結">相關資料及連結</a><ul>
+<li><a href="lp.asp?ctNode=44830&amp;CtUnit=435&amp;BaseDSD=7&amp;mp=092" title="法規專區">法規專區</a></li>
+<li><a href="lp.asp?ctNode=44833&amp;CtUnit=13355&amp;BaseDSD=7&amp;mp=092" title="動畫影音專區">動畫影音專區</a></li>
+<li><a href="lp.asp?ctNode=44832&amp;CtUnit=8851&amp;BaseDSD=7&amp;mp=092" title="檔案應用服務">檔案應用服務</a></li>
+<li><a href="http://www.edoc.moj.gov.tw" title="電子公文附件區(另開新視窗)" target="_nwGip">電子公文附件區</a></li>
+<li><a href="lp.asp?ctNode=7701&amp;CtUnit=70&amp;BaseDSD=2&amp;mp=092" title="相關網站">相關網站</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=20577&amp;mp=092" title="政府資訊公開法園地">政府資訊公開法園地</a><ul>
+<li><a href="np.asp?ctNode=44824&amp;mp=092" title="電子公布欄">電子公布欄</a></li>
+<li><a href="lp.asp?ctNode=42686&amp;CtUnit=17299&amp;BaseDSD=7&amp;mp=092" title="內部控制專區">內部控制專區</a></li>
+<li><a href="np.asp?ctNode=22456&amp;mp=092" title="政府資訊公開服務導覽">政府資訊公開服務導覽</a></li>
+<li><a href="np.asp?ctNode=31689&amp;mp=092" title="本學院保有及管理個人資料項目">本學院保有及管理個人資料項目</a></li>
+<li><a href="lp.asp?ctNode=20578&amp;CtUnit=4508&amp;BaseDSD=7&amp;mp=092" title="預算書">預算書</a></li>
+<li><a href="lp.asp?ctNode=36654&amp;CtUnit=14824&amp;BaseDSD=7&amp;mp=092" title="決算書">決算書</a></li>
+<li><a href="lp.asp?ctNode=41066&amp;CtUnit=16610&amp;BaseDSD=7&amp;mp=092" title="會計月報">會計月報</a></li>
+<li><a href="lp.asp?ctNode=20579&amp;CtUnit=4509&amp;BaseDSD=7&amp;mp=092" title="機關出國人員報告">機關出國人員報告</a></li>
+<li><a href="lp.asp?ctNode=21335&amp;CtUnit=4901&amp;BaseDSD=7&amp;mp=092" title="施政計畫及業務統計">施政計畫及業務統計</a></li>
+<li><a href="np.asp?ctNode=22482&amp;mp=092" title="請願訴願">請願訴願</a></li>
+<li><a href="np.asp?ctNode=44821&amp;mp=092" title=" 營造英語生活環境 "> 營造英語生活環境 </a></li>
+<li><a href="http://terms.naer.edu.tw/" title="雙語詞彙資訊網(另開新視窗)" target="_nwGip">雙語詞彙資訊網</a></li>
+<li><a href="lp.asp?ctNode=21336&amp;CtUnit=4902&amp;BaseDSD=7&amp;mp=092" title="本學院政府資訊公開作業注意事項">本學院政府資訊公開作業注意事項</a></li>
+</ul>
+</li>
+</ul>
+</div><a onfocus="mlout();" href="javascript:"></a><noscript>TAB標籤功能，如不執行不影響您資料瀏覽</noscript></div>
+<table id="Layout" summary="table for layout">
+<tr>
+<td class="Left">
+<a title="主選單" class="Accesskey" accesskey="L" href="#">:::</a>
+<div class="Lefttop"></div>
+<div class="mlmenu vertical menubg inaccesible">
+<div id="Menu" xmlns="">
+<div class="Menu_head"></div>
+<div class="Menu_body">
+<ul id="vertnav2">
+<li id="tabindex_44824" name="tabindex_44824"><a href="np.asp?ctNode=44824&amp;mp=092" title="電子公布欄">電子公布欄</a></li>
+<li id="tabindex_42686" name="tabindex_42686"><a href="lp.asp?ctNode=42686&amp;CtUnit=17299&amp;BaseDSD=7&amp;mp=092" title="內部控制專區">內部控制專區</a></li>
+<li id="tabindex_22456" name="tabindex_22456"><a href="np.asp?ctNode=22456&amp;mp=092" title="政府資訊公開服務導覽">政府資訊公開服務導覽</a></li>
+<li id="tabindex_31689" name="tabindex_31689"><a href="np.asp?ctNode=31689&amp;mp=092" title="本學院保有及管理個人資料項目">本學院保有及管理個人資料項目</a></li>
+<li id="tabindex_20578" name="tabindex_20578"><a href="lp.asp?ctNode=20578&amp;CtUnit=4508&amp;BaseDSD=7&amp;mp=092" title="預算書">預算書</a></li>
+<li id="tabindex_36654" name="tabindex_36654"><a href="lp.asp?ctNode=36654&amp;CtUnit=14824&amp;BaseDSD=7&amp;mp=092" title="決算書">決算書</a></li>
+<li id="tabindex_41066" name="tabindex_41066"><a href="lp.asp?ctNode=41066&amp;CtUnit=16610&amp;BaseDSD=7&amp;mp=092" title="會計月報">會計月報</a></li>
+<li id="tabindex_20579" name="tabindex_20579"><a href="lp.asp?ctNode=20579&amp;CtUnit=4509&amp;BaseDSD=7&amp;mp=092" title="機關出國人員報告">機關出國人員報告</a></li>
+<li id="tabindex_21335" name="tabindex_21335"><a href="lp.asp?ctNode=21335&amp;CtUnit=4901&amp;BaseDSD=7&amp;mp=092" title="施政計畫及業務統計">施政計畫及業務統計</a></li>
+<li id="tabindex_22482" name="tabindex_22482"><a href="np.asp?ctNode=22482&amp;mp=092" title="請願訴願">請願訴願</a></li>
+<li id="tabindex_44821" name="tabindex_44821"><a href="np.asp?ctNode=44821&amp;mp=092" title=" 營造英語生活環境 "> 營造英語生活環境 </a></li>
+<li id="tabindex_44819" name="tabindex_44819"><a href="http://terms.naer.edu.tw/" target="_nwGip" title="雙語詞彙資訊網(另開新視窗)">雙語詞彙資訊網</a></li>
+<li id="tabindex_21336" name="tabindex_21336"><a href="lp.asp?ctNode=21336&amp;CtUnit=4902&amp;BaseDSD=7&amp;mp=092" title="本學院政府資訊公開作業注意事項">本學院政府資訊公開作業注意事項</a></li>
+</ul>
+<ul id="vertnav" style="display: none;"></ul>
+</div>
+<div class="Menu_foot"></div>
+</div>
+<div id="" xmlns="">
+<div class="_title"></div>
+<div class="_body"><samp><a href="HitCounter.asp?xItem=335447&amp;mp=092" title="司法官學院YOUTUBE專區(另開新視窗)" target="_nwGip"><img border="0" width="150" src="public/Data/4513174233403.jpg" alt="司法官學院YOUTUBE專區(另開新視窗)"></a></samp><samp><a href="HitCounter.asp?xItem=343391&amp;mp=092" title="Flickr照片分享(另開新視窗)" target="_nwGip"><img border="0" width="150" src="public/Data/4513172340372.jpg" alt="Flickr照片分享(另開新視窗)"></a></samp><samp><a href="HitCounter.asp?xItem=343345&amp;mp=092" title="QRCODE"><img border="0" width="150" src="public/Data/4513144932784.gif" alt="QRCODE"></a></samp></div>
+<div class="more"></div>
+<div class="_foot"></div>
+</div>
+</div>
+<div class="Leftbottom"></div>
+</td>
+<td class="Center">
+<a title="主要內容區" class="Accesskey" accesskey="C" href="#">:::</a>
+<div class="Centertop"><img src="xslGip/unit092/images/center_topleft.gif" alt="*"/></div>
+<div class="Centermiddle">
+<div id="PageTitle" xmlns="">預算書</div>
+<div id="Path" xmlns="">
+		瀏覽路徑：<a title="首頁" href="mp.asp?mp=092">首頁</a><img src="xslGip/unit092/images/icom_menu_a01.gif" alt="*"><a href="np.asp?ctNode=20577&mp=092" title="政府資訊公開法園地">政府資訊公開法園地</a><img src="xslGip/unit092/images/icom_menu_a01.gif" alt="*"><a href="np.asp?ctNode=20578&mp=092" title="預算書">預算書</a></div>
+<div id="Function" xmlns=""><a title="plurk" href="javascript:void(window.open('http://www.plurk.com/?qualifier=shares&status='.concat(encodeURIComponent(location.href)).concat(' ').concat('(').concat(encodeURIComponent(document.title)).concat(')')));"><img alt="plurk" src="xslgip/unit092/images/share_plurk.png"></a><a title="facebook" href="javascript:desc='';via='';if(document.referrer)via=document.referrer;if(typeof(_ref)!='undefined')via=_ref;if(window.getSelection)desc=window.getSelection();if(document.getSelection)desc=document.getSelection();if(document.selection)desc=document.selection.createRange().text;void(open('http://www.facebook.com/share.php?u='+encodeURIComponent(location.href)));"><img alt="facebook" src="xslgip/unit092/images/share_facebook.gif"></a><a title="twitter" href="javascript:void(window.open('http://twitter.com/home/?status='.concat(encodeURIComponent(document.title)).concat(' ').concat(encodeURIComponent(location.href))));"><img alt="twitter" src="xslgip/unit092/images/share_twitter.png"></a><noscript>您的瀏覽器不支援JavaScript功能，若網頁功能無法正常使用時，請開啟瀏覽器JavaScript狀態</noscript><a title="轉寄友人" href="forward.asp?xItem=404410&ctNode=20578&mp=092"><img alt="轉寄友人" src="xslgip/unit092/images/icon_forward.gif">轉寄友人</a><a href="javascript:history.go(-1);" title="回上一頁"><img src="xslGip/unit092/images/icon_back.gif" alt="回上一頁圖示">回上一頁</a><noscript>此段script提供回上一頁功能，若瀏覽器不支援script，請使用鍵盤的backspace或瀏覽器的回上一頁功能 </noscript>
+</div>
+<div id="Article" xmlns="">
+<div class="Head">105年度預算案(完整)(PDF檔) </div>
+<div class="Body"><br><p align="right">資料最後更新日期 104/09/10</p>
+</div>
+<div class="Foot"><img src="xslGip/unit092/images/articlefoot_bg.gif" alt="*"></div>
+</div>
+<div class="download" xmlns="">
+<h3>附件</h3>
+<ul>
+<li><a target="_nwGIP" href="HitCounter.asp?xItem=404410&ixCuAttach=129605" title="105年度預算案.(開啟新視窗)">105年度預算案</a></li>
+<li><a target="_nwGIP" href="HitCounter.asp?xItem=404410&ixCuAttach=129607" title="105年度預算案(PDF).pdf(開啟新視窗)">105年度預算案(PDF)</a></li>
+</ul>
+</div>
+</div>
+<div class="Centerbottom"><img src="xslGip/unit092/images/center_bottomleft.gif" alt="*"/></div>
+</td>
+</tr>
+</table>
+<div class="sildeCtrl" xmlns="">
+<ul>
+<li><a href="np.asp?ctNode=34575&amp;mp=092" title="學院大事記">學院大事記</a><ul>
+<li><a href="lp.asp?ctNode=44828&amp;CtUnit=13361&amp;BaseDSD=7&amp;mp=092" title="最新消息">最新消息</a></li>
+<li><a href="lp.asp?ctNode=34580&amp;CtUnit=13463&amp;BaseDSD=7&amp;mp=092" title="重要活動">重要活動</a></li>
+<li><a href="lp.asp?ctNode=34577&amp;CtUnit=13460&amp;BaseDSD=7&amp;mp=092" title="出訪交流">出訪交流</a></li>
+<li><a href="lp.asp?ctNode=44829&amp;CtUnit=431&amp;BaseDSD=7&amp;mp=092" title="國際交流">國際交流</a></li>
+<li><a href="lp.asp?ctNode=34578&amp;CtUnit=13461&amp;BaseDSD=7&amp;mp=092" title="外賓來訪">外賓來訪</a></li>
+<li><a href="lp.asp?ctNode=34579&amp;CtUnit=13462&amp;BaseDSD=7&amp;mp=092" title="新聞稿">新聞稿</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=7684&amp;mp=092" title="學院簡介">學院簡介</a><ul>
+<li><a href="np.asp?ctNode=7703&amp;mp=092" title="院徽簡介">院徽簡介</a></li>
+<li><a href="np.asp?ctNode=7686&amp;mp=092" title="院長簡介">院長簡介</a></li>
+<li><a href="np.asp?ctNode=7685&amp;mp=092" title="歷史沿革">歷史沿革</a></li>
+<li><a href="np.asp?ctNode=7704&amp;mp=092" title="組織架構">組織架構</a></li>
+<li><a href="np.asp?ctNode=7705&amp;mp=092" title="職務掌管">職務掌管</a></li>
+<li><a href="np.asp?ctNode=7708&amp;mp=092" title="未來展望">未來展望</a></li>
+<li><a href="np.asp?ctNode=41423&amp;mp=092" title="院長信箱">院長信箱</a></li>
+<li><a href="np.asp?ctNode=44817&amp;mp=092" title="機關位置圖">機關位置圖</a></li>
+<li><a href="np.asp?ctNode=44818&amp;mp=092" title="硬體設施">硬體設施</a></li>
+<li><a href="np.asp?ctNode=15580&amp;mp=092" title="單位聯絡電話">單位聯絡電話</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=37304&amp;mp=092" title="司法官養成">司法官養成</a><ul>
+<li><a href="lp.asp?ctNode=37306&amp;CtUnit=13377&amp;BaseDSD=7&amp;mp=092" title="司法官訓練委員會">司法官訓練委員會</a></li>
+<li><a href="lp.asp?ctNode=37308&amp;CtUnit=13398&amp;BaseDSD=7&amp;mp=092" title="司法官養成教育">司法官養成教育</a></li>
+<li><a href="np.asp?ctNode=37310&amp;mp=092" title="教育內容">教育內容</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=44506&amp;mp=092" title="司改講堂">司改講堂</a><ul>
+<li><a href="lp.asp?ctNode=44508&amp;CtUnit=17887&amp;BaseDSD=7&amp;mp=092" title="司改講堂">司改講堂</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=34478&amp;mp=092" title="在職研習課程">在職研習課程</a><ul>
+<li><a href="lp.asp?ctNode=37227&amp;CtUnit=1727&amp;BaseDSD=7&amp;mp=092" title="研習課程">研習課程</a></li>
+<li><a href="lp.asp?ctNode=44827&amp;CtUnit=14112&amp;BaseDSD=7&amp;mp=092" title="在職研習報名">在職研習報名</a></li>
+<li><a href="lp.asp?ctNode=34484&amp;CtUnit=13399&amp;BaseDSD=7&amp;mp=092" title="司法人員研習">司法人員研習</a></li>
+<li><a href="np.asp?ctNode=34481&amp;mp=092" title="教育內容">教育內容</a></li>
+</ul>
+</li>
+<li><a href="http://www.moj.gov.tw/mp302.html" title="犯罪防治研究(另開新視窗)" target="_nwGip">犯罪防治研究</a></li>
+<li><a href="np.asp?ctNode=34265&amp;mp=092" title="學院刊物">學院刊物</a><ul>
+<li><a href="http://ja.lawbank.com.tw/lastStage.aspx" title="司法新聲">司法新聲</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=15481&amp;mp=092" title="圖書查詢">圖書查詢</a><ul>
+<li><a href="lp.asp?ctNode=35306&amp;CtUnit=13870&amp;BaseDSD=7&amp;mp=092" title="圖書室簡介">圖書室簡介</a></li>
+<li><a href="np.asp?ctNode=15483&amp;mp=092" title="最新消息">最新消息</a></li>
+<li><a href="np.asp?ctNode=15484&amp;mp=092" title="服務對象">服務對象</a></li>
+<li><a href="np.asp?ctNode=15485&amp;mp=092" title="開放時間">開放時間</a></li>
+<li><a href="http://www.library.tw/tpimoj_opac/index.aspx" title="圖書資訊查詢系統">圖書資訊查詢系統</a></li>
+<li><a href="np.asp?ctNode=15487&amp;mp=092" title="網路資源">網路資源</a></li>
+<li><a href="np.asp?ctNode=24840&amp;mp=092" title="線上學習區">線上學習區</a></li>
+<li><a href="np.asp?ctNode=26128&amp;mp=092" title="圖書室行政規則">圖書室行政規則</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=19722&amp;mp=092" title="學員專區">學員專區</a><ul>
+<li><a href="lp.asp?ctNode=19723&amp;CtUnit=3939&amp;BaseDSD=7&amp;mp=092" title="學員公告">學員公告</a></li>
+<li><a href="lp.asp?ctNode=21762&amp;CtUnit=5266&amp;BaseDSD=7&amp;mp=092" title="相關表格下載">相關表格下載</a></li>
+</ul>
+</li>
+<li><a href="lp.asp?ctNode=25083&amp;CtUnit=7597&amp;BaseDSD=7&amp;mp=092" title="重大政策">重大政策</a></li>
+<li><a href="np.asp?ctNode=7700&amp;mp=092" title="相關資料及連結">相關資料及連結</a><ul>
+<li><a href="lp.asp?ctNode=44830&amp;CtUnit=435&amp;BaseDSD=7&amp;mp=092" title="法規專區">法規專區</a></li>
+<li><a href="lp.asp?ctNode=44833&amp;CtUnit=13355&amp;BaseDSD=7&amp;mp=092" title="動畫影音專區">動畫影音專區</a></li>
+<li><a href="lp.asp?ctNode=44832&amp;CtUnit=8851&amp;BaseDSD=7&amp;mp=092" title="檔案應用服務">檔案應用服務</a></li>
+<li><a href="http://www.edoc.moj.gov.tw" title="電子公文附件區(另開新視窗)" target="_nwGip">電子公文附件區</a></li>
+<li><a href="lp.asp?ctNode=7701&amp;CtUnit=70&amp;BaseDSD=2&amp;mp=092" title="相關網站">相關網站</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=20577&amp;mp=092" title="政府資訊公開法園地">政府資訊公開法園地</a><ul>
+<li><a href="np.asp?ctNode=44824&amp;mp=092" title="電子公布欄">電子公布欄</a></li>
+<li><a href="lp.asp?ctNode=42686&amp;CtUnit=17299&amp;BaseDSD=7&amp;mp=092" title="內部控制專區">內部控制專區</a></li>
+<li><a href="np.asp?ctNode=22456&amp;mp=092" title="政府資訊公開服務導覽">政府資訊公開服務導覽</a></li>
+<li><a href="np.asp?ctNode=31689&amp;mp=092" title="本學院保有及管理個人資料項目">本學院保有及管理個人資料項目</a></li>
+<li><a href="lp.asp?ctNode=20578&amp;CtUnit=4508&amp;BaseDSD=7&amp;mp=092" title="預算書">預算書</a></li>
+<li><a href="lp.asp?ctNode=36654&amp;CtUnit=14824&amp;BaseDSD=7&amp;mp=092" title="決算書">決算書</a></li>
+<li><a href="lp.asp?ctNode=41066&amp;CtUnit=16610&amp;BaseDSD=7&amp;mp=092" title="會計月報">會計月報</a></li>
+<li><a href="lp.asp?ctNode=20579&amp;CtUnit=4509&amp;BaseDSD=7&amp;mp=092" title="機關出國人員報告">機關出國人員報告</a></li>
+<li><a href="lp.asp?ctNode=21335&amp;CtUnit=4901&amp;BaseDSD=7&amp;mp=092" title="施政計畫及業務統計">施政計畫及業務統計</a></li>
+<li><a href="np.asp?ctNode=22482&amp;mp=092" title="請願訴願">請願訴願</a></li>
+<li><a href="np.asp?ctNode=44821&amp;mp=092" title=" 營造英語生活環境 "> 營造英語生活環境 </a></li>
+<li><a href="http://terms.naer.edu.tw/" title="雙語詞彙資訊網(另開新視窗)" target="_nwGip">雙語詞彙資訊網</a></li>
+<li><a href="lp.asp?ctNode=21336&amp;CtUnit=4902&amp;BaseDSD=7&amp;mp=092" title="本學院政府資訊公開作業注意事項">本學院政府資訊公開作業注意事項</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="Bottomtop" xmlns=""><img src="xslGip/unit092/images/bottom_topl.gif" alt="*"></div>
+<div class="Bottommiddle" xmlns="">
+<div id="Bottom"><P align=center><A target="_nwMof" href="http://www.tpi.moj.gov.tw/ct.asp?xItem=193675&ctNode=7683">網站資料開放宣告
+</A>│ <A target="_nwMof" href="http://www.tpi.moj.gov.tw/ct.asp?xItem=197446&ctNode=7683">隱私權宣告</A>│ <A target="_nwMof" href="http://www.moj.gov.tw/np.asp?ctNode=27458">資訊安全政策</A>│ <A href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20160504082701" title="無障礙網站">
+<IMG src="http://www.moj.gov.tw/site/moj/public/MMO/tpi/TPI_aplus.jpg" border="0" width="88" height="31" alt="通過A+優先等級無障礙網頁檢測" />
+</A> 
+
+<BR>本網站全部圖文係屬法務部司法官學院&nbsp;&nbsp;&nbsp; 非經機關正式書面同意不得將全部或部分內容，轉載於任何形式媒體<BR>版權所有，轉載必究 最佳觀看解析度1024x768&nbsp; 地址：10671台北市大安區辛亥路三段81號 &nbsp; 電話：(02)2733-1047<BR></P></div>
+</div>
+<div class="Bottombottom" xmlns=""><img src="xslGip/unit092/images/bottom_bottoml.gif" alt="*"></div>
+</div>
+</body>
+</html>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38019070-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>

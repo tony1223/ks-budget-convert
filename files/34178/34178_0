@@ -1,0 +1,1837 @@
+
+
+<!DOCTYPE html>
+
+<html id="goHome" lang="zh-Hant-TW">
+<head><meta name="viewport" content="width=device-width,&#32;initial-scale=1,&#32;maximum-scale=1,&#32;user-scalable=no" /><meta http-equiv="Content-Type" content="text/html;&#32;charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="google-site-verification" content="00SRR-fZiJJ9gVQ9ZwwNhdA8BF9yBYFsfFdQdcdXQ6g" /><title>
+	交通部運輸研究所 - 政府資訊公開專區
+</title>
+        <link href="/favicon.ico" rel="shortcut icon" />
+        <link href="/Scripts/Bootstrap/bootstrap-3.3.5.min.css" rel="stylesheet" />
+        <link href="/Scripts/FontAwesome/font-awesome-4.4.0.min.css" rel="stylesheet" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script src="/Scripts/Bootstrap/bootstrap-3.3.5.min.js"></script>
+        <script>
+            // Google Analyltics
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-71043414-1', 'auto');
+            ga('send', 'pageview');
+
+        </script>
+        
+        <!--[if lt IE 9]>
+            <script src="/Scripts/Utilities/html5shiv-printshiv.js"></script>
+            <script src="/Scripts/Utilities/respond.js"></script>
+        <![endif]-->
+    
+    <link href="/Content/ch/css/base.min.css" rel="stylesheet" />
+    <link href="/Content/ch/css/layout.min.css" rel="stylesheet" />
+    <link href="/Content/ch/css/modules.min.css" rel="stylesheet" />
+    <link href="/FileResource.axd?path=html/css/modules-chinese.min.css" rel="stylesheet" />
+    <link href="/Content/ch/css/modules-view.min.css" rel="stylesheet" />
+    <link href="/Scripts/App_Scripts/Plugins/FlexSlider/flexslider.min.css" rel="stylesheet" />
+    <link href="/Content/ch/css/responsive.min.css" rel="stylesheet" />
+
+    <script src="/Scripts/App_Scripts/Plugins/FlexSlider/jquery.flexslider-min.js"></script>
+    
+    <link href="/Content/ch/css/layout-content.min.css" rel="stylesheet" />
+    <script src="/Scripts/App_Scripts/fontcookie.min.js"></script>
+    <script src="/Scripts/jQuery/Plugins/jquery-print/jQuery.print.min.js"></script>
+    
+
+<link href="/WebResource.axd?d=jyhRrCp8YeDcuQCy9h1jktXCeD1ysSA3enBUAbm5979cXBiwYSfDUf3IA2VZqIT2fzYpfqm9CWsQ-tDKevhUratKZM7FdGuc7WO2iQjZpsTwxvw5naE7MD6jroxusI8sq0Q_kw2&amp;t=635817204899318590" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=A2MfKu8JHbSIK3aGDOCPBSNGy1aq_xPkPYGYNcyEK1svtzZv3MEhHpm9WvUiUUyLaN_49SnYNVM4yzunrvhr8J3kH5SVYUfjv7OCnAK36IEyDcdpByKyZbzxDaG8lfHROqO3R6R_dgk1MCAC0vBJ-O9WLgI1&amp;t=635817204899318590" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=VdPoLqp1pEU6N0-IfFplZJuRUyelYUwOL-KhrVqN5Izrs8T8qWhG5gMtGt4Wk_urU2y09kWDWVtuDbqkW02tciLWpsczguEmqPmqttXnjYT51hWq5Pi6BABv8OAdUM3_sjCFDA2&amp;t=635817204899318590" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=gRutl40BZEN9wCbULNea5JgkSKO9A3-qsyj_ro-BYFBjL3g_LxG5hPYlZsMaVUrm4edZpGz1Zt2vuOrhZKCTTV7UKsEhUjul-9g1VtU828jFGuzkt0WExNwVsJJyzrnvJ97pWA2&amp;t=635817204899318590" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=sMeJjr1eiOzPP0GzsITrs0APyRzhzOwlU1ezs84Rs1XzmXc6mPOPm_JeOxFs12-BJ5a12ac7cgIM3RlPGBH7PmD49HXmaLjT-txMtk5vRhx6g6qS4ck2ZLCfuSsMqKXD4h-eGYbY7drWWOJNdnqxjA_Is9k1&amp;t=635817204899318590" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /></head>
+<body>
+    <form method="post" action="GovPubInfo-List?node=5772b661-eea7-4f91-b243-a8aa967def5c&amp;c=9" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="/ScriptResource.axd?d=z0DTbBtn-rnL6mkfqyivpSctFtEoy2t-zUEhT77rIidWbIxMCEOpd5WsTekwVohREvECxSukCyNwfKMd5Mn3tT-rtzssQoksb9puEkthBE1G2l8_IvjwxyrXOTehi4HMaWsiB7fs4JxEcxQyS2kT4ZbX2c01&amp;t=ca758f3" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax 用戶端架構無法載入。');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=8u3ngCqoRB16IXgFyG-fdvHsRdLdOaxSxO1nUr4Y-P1-DdKYcjn1myLu7z4myo7dFl2k5oJA_041q_MCTk4DL4UrrwQ6ayKmvbyVGwZJmxFm9eHk0&amp;t=fffffffffaf2a061" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=pL5wgiwL1GpmyqMwhkDjF2e4V6jT-K1bgUqhHxisykegZWrrtkwdtt1ZSMBS_ElUluktli20eTuEycqVBOu2wzQKuplH4hHkVkJqPPUqesT-zX-DH4ywmfVt5qAgP6OfsBOzFQ2&amp;t=fffffffffaf2a061" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=dnHi0nMgDDe1Bo6v1KTdpEr-cCBABCZoOj9DYFGYrpD5SisBQ_-E9JsGrllzed5OUL9ofm_-MzmG19Y8hZ9PIaliTLoQ_yBLRPuLpOkfmtqQ_lsXxm5ZWuiynmj9KMPiKIsM7g2&amp;t=fffffffffaf2a061" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=U8OMYmPzb2LbIsKauUCqxoap5FIJJporzorY80NKOuoSOcs6EFUfDe6VCKbanL-wa1d_hfUsGMlRdrHfx1KDBMEfSScqEB--3AVNBQrzabu2uMu5ggiqsWz9ShJLz2aEUk6E02hNHtLsogC5XDGMORFB7-Q1&amp;t=fffffffffaf2a061" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Taq5viT0lCo7nhcwUrcGx2XTTY8eHNZ0LAACHoH-wc2WPGryAdH3NifwKp3-d_PtuoKerHd9Y3NK1xQl7mMFU8ps7IhhXLG-FAc-CMcetRngZvKYu0MLlyO2xiDfpXoXAGWe4g2&amp;t=fffffffffaf2a061" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=FvzgbXewu1O9l9c7Jb8XDhPzilNOKsdLbC9UZUrPZ6ykYBAtSG7gmyqhZdx5q_IpND8qBCVT5LdCtET4k-HAQq9Im_FL1OkzUbEgglPe77SfJrk5mtyaVJNFXojtItZPXQkPGQ2&amp;t=fffffffffaf2a061" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=75C6zhn_I2ZyGfX3QbVbDJV2ViLwE6vz4S1f_X_srEbcYD-3xA4RaS0xwDQ3uOZ6o8bJjVmzTHX1TNsBtAHGSCsNWtdLwaWaZe4M6_QMEA7fqMVHJEUPZq43XJlUwihmnmNPFQ2&amp;t=fffffffffaf2a061" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="j5GWSm9yqV/NdMYDlCCu/oZ23r2H7i84UqCXCOBYi3vYjHBh84AiEwe6to11+fpcLPTnXExghGt56vMV2uLIoyyMWGaOZJmrB/c10IdM17CFiEIGTmrwzg29ba5f42Asnp6hZAzVYrhKkFrsfVIAsAWrj0BYr3a87URms6m5xoBoPBmAGqNASoelwW8xnzh8HWQKEL5gO1DCCzcekYAxrSpqx2oA7DdMLLWGxGqjJNBxp0Ft7CBqR5trIVvfG3bx1vV602MUgyGI0l0w+4qfJHM4k9dS/+9CzgttS+rm+q4nJCfknER4zfho8tW4sUv1iFdbzXMM0nKbOLZtDB0tqkQueODAi8Xc4hLKkUiVsU6B1WZPkwGZexBBrjbESY1QH3rW2X/BRwqstLyYLgSC0YWB54JgKdGZ1t2Z4AWNYk0E0T0xBf7mZ5dtOWdyhodTxF84UeH7cHSqrKM/oKYwezvjwZrea0mCRG4FywM++9UdWzqBYbv0sM6K/607X3T9fUy1FdQQPLLHByQckOVc83Suz0vzGk7gC+131fwh8etpKY7Dw5PjcDoVyce7fUE4BW+E8O3Td9Q6dHBLCSr0YvbC09g2ao+P7KeBWPZEbXcbkOtW62nEhP+8x24ybJGER8UULVgxiZ4UGLGWhek6HzIk3I0oyKrZabic12rlnz66NA5N" />
+        
+        
+    
+
+<div class="l-header">
+    <div class="l-header__nav ">
+        <div class="container">
+            <a href="#" accesskey="U" title="上方導覽連結區" class="accesskey">:::</a>
+            <nav>
+                <ul>
+                    <li class="item-home"><a href="/" accesskey="H">回首頁</a></li>
+                    <li class="item-sitemap"><a href="/sitemap">網站導覽</a></li>
+                    <li class="item-contact"><a href="/page?node=74385dd0-b0d6-450b-aab6-f35fc5917d22">聯絡我們</a></li>
+                    <li class="item-mailbox"><a href="/Modules/Feedback/Feedback-Form?node=3f34ed2a-7001-477c-a2b2-c7aa690414d0">所長信箱</a></li>
+                    <li class="item-QA"><a href="/Modules/FAQ/FAQ-List?node=0f213b5d-07c3-4693-89ca-5e7deeddd483">常見問答</a></li>
+                    <li class="item-bilingual"><a href="/Modules/BilingualGlossary/BilingualGlossary-List?node=b0a9d28a-e5f7-46fe-b30b-929056a6ffec">雙語詞彙</a></li>
+                    <li class="item-rss"><a href="/page?node=40bb3182-477b-40f3-a460-a9b4deab9d57" lang='en'>RSS</a></li>
+                    <li class="item-english"><a href="/en" lang='en'>English</a></li>
+                    <li class="item-search"><a href="/search" title="搜尋"><i class="fa fa-search"></i></a></li>
+                </ul>
+            </nav>
+            <div class="l-header__nav__search">
+                <label class="input-label" style="margin-top: 1px;" for="txbSearchKeyword" accesskey="S">全站搜尋</label>
+                <div class="input-div">
+                    <input id="txbSearchKeyword" type="text" class="search-input" placeholder="輸入關鍵字" />
+                    <button id="btnSearch" type="button" class="search-btn" tabindex="0">
+                        <i class="fa fa-search"></i>
+                    </button>
+
+                </div>
+                <a class="input-label l-header__nav__search-advanced" href="https://www.google.com.tw/advanced_search?hl=zh-TW&as_sitesearch=http://www.iot.gov.tw/&q=%E8%AB%8B%E8%BC%B8%E5%85%A5%E9%97%9C%E9%8D%B5%E5%AD%97" target="_blank">進階搜尋</a>
+                <noscript>
+                    <style>
+                        .search-btn, .input-div, .input-label {
+                            display: none;
+                        }
+                    </style>
+                    <div style="color: #ffffff; float: right;">
+                        當Script無法執行搜尋功能時，
+                        請直接進入<a accesskey="S" href="/sites/ch/search" style="color: #ffd800">搜尋頁面</a>使用搜尋功能。
+                    </div>
+                </noscript>
+                <script>
+                    $("#btnSearch").click(function () {
+                        var input = $('#txbSearchKeyword');
+                        var keyword = input.val();
+                        var visible = input.is(":visible");
+
+                        if (!visible) $("#txbSearchKeyword").toggle();
+                        else if (keyword == "") {
+                            alert("請輸入關鍵字");
+                            return;
+                        }
+                        else {
+                            location.href = '/Search.aspx?q=' + keyword;
+                        }
+                    });
+
+                $("#txbSearchKeyword").keydown(function () {
+
+                    var btnSearch = $("#btnSearch")
+
+                    if (event.keyCode == 13) {
+                        btnSearch.focus();
+                    }
+                });
+                </script>
+            </div>
+        </div>
+    </div>
+    <div class="l-header__menuBar">
+        <div class="container">
+            <div class="l-header__menuBar__logo">
+                <a href="/">
+                    <img src="/Content/ch/images/logo.png" alt="交通部運輸研究所" />
+                    <div class="l-header__menuBar__logo__text">
+                        <span class="l-header__menuBar__logo__text-ch">交通部運輸研究所</span><br />
+                        <span class="l-header__menuBar__logo__text-en" lang='en'>Institute of Transportation, MOTC</span>
+                    </div>
+                </a>
+            </div>
+
+            <button type="button" class="btn-mobile" data-toggle="collapse" data-target="#mainCollapse" aria-expanded="false">
+                <i class="fa fa-bars c-mobile__i"></i>
+            </button>
+
+            <div id="mainCollapse" class="l-header__menuBar__menu pull-right collapse">
+                
+                        <nav>
+                            <ul>
+                                
+                        <li>
+                            <a data-type="mainNode"
+                                href="/catalog?node=dcd283f0-e116-4988-95c0-47649cc002f8"
+                                title=""
+                                target="_self">
+                                關於本所
+                                <i class="fa fa-chevron-down pull-right"></i>
+                                <i class="fa fa-chevron-up pull-right"></i>
+                            </a>
+                            
+                                    <ul>
+                                        
+                                    <li>
+                                        <a href="/page?node=d4ab3ac0-0e6b-45d5-9e55-7387e2d2bfb7"
+                                            title=""
+                                            target="_self">
+                                            所長介紹
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/page?node=075a57cb-8778-499d-a8e1-a244462e9766"
+                                            title=""
+                                            target="_self">
+                                            沿革
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/page?node=90fe7250-d78a-4d34-9446-955de1ff0b5a"
+                                            title=""
+                                            target="_self">
+                                            組織與職掌
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/page?node=cb0fb583-7873-4935-bfe8-50d36aca165d"
+                                            title=""
+                                            target="_self">
+                                            施政概況
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/catalog?node=3aa6de9a-b40a-48bd-9399-94df3d251adf"
+                                            title=""
+                                            target="_self">
+                                            研究計畫與進度
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/catalog?node=c7efabe3-ed24-4b91-91a8-a716a8025b6a"
+                                            title=""
+                                            target="_self">
+                                            大事紀要
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/page?node=4ce218fb-2eaa-4871-9f4c-e49f570b5604"
+                                            title=""
+                                            target="_self">
+                                            本所位址與行車資訊
+                                        </a>
+                                    </li>
+                                
+                                    </ul>
+                                
+                        </li>
+                    
+                        <li>
+                            <a data-type="mainNode"
+                                href="/catalog?node=12d79664-0fb6-4642-9e30-60c90808671a"
+                                title=""
+                                target="_self">
+                                訊息公告
+                                <i class="fa fa-chevron-down pull-right"></i>
+                                <i class="fa fa-chevron-up pull-right"></i>
+                            </a>
+                            
+                                    <ul>
+                                        
+                                    <li>
+                                        <a href="/Modules/News/News-List.aspx?node=1c7bac8b-1817-4981-bd65-483cbfa8c7bb&amp;c=00000000-0000-0000-0000-000000000000"
+                                            title=""
+                                            target="_self">
+                                            最新消息
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/Modules/News/News-List.aspx?node=62c75437-b0bb-40db-aa77-32e4fc325c3d&amp;c=0195cbd6-1a4c-41ae-915a-3f6a670c3932"
+                                            title=""
+                                            target="_self">
+                                            本所新聞稿
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/Modules/News/News-List.aspx?node=696aeb15-86b2-4919-ab32-4e176108fe28&amp;c=557cf646-d140-4e03-bce5-8721eb1504e2"
+                                            title=""
+                                            target="_self">
+                                            新書快訊
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/catalog?node=55887136-79dd-4380-bb69-3652caf4ba56"
+                                            title=""
+                                            target="_self">
+                                            行政公告
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/catalog?node=ce823450-e9d3-4fbf-9b8d-4fdedb0b8b97"
+                                            title=""
+                                            target="_self">
+                                            就業資訊
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/Modules/Download/Download-List.aspx?node=d5b0e70d-9dfa-433b-8eb3-9f865a1f698f&amp;c=6719117d-81b1-4c4b-a55d-9cf68fbc8677"
+                                            title=""
+                                            target="_self">
+                                            本所頒發獎項專區
+                                        </a>
+                                    </li>
+                                
+                                    </ul>
+                                
+                        </li>
+                    
+                        <li>
+                            <a data-type="mainNode"
+                                href="/catalog?node=f058a0c3-90ba-490d-80d9-b2336c4b708b"
+                                title=""
+                                target="_self">
+                                政策與研究
+                                <i class="fa fa-chevron-down pull-right"></i>
+                                <i class="fa fa-chevron-up pull-right"></i>
+                            </a>
+                            
+                                    <ul>
+                                        
+                                    <li>
+                                        <a href="/catalog?node=ffcacc08-3fe6-4c7d-8d7b-cdf4d1764314"
+                                            title=""
+                                            target="_self">
+                                            研究專題
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/catalog?node=819415df-2768-44d5-8a4b-e0e86edaa62e"
+                                            title=""
+                                            target="_self">
+                                            研究成果應用採行說明
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/catalog?node=e5b44e89-0a9e-4cd4-894c-ffe8125997d9"
+                                            title=""
+                                            target="_self">
+                                            落實應用實績
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/catalog?node=9b5c8929-3dd6-4503-b693-ce5d01b388b0"
+                                            title=""
+                                            target="_self">
+                                            重大政策
+                                        </a>
+                                    </li>
+                                
+                                    </ul>
+                                
+                        </li>
+                    
+                        <li>
+                            <a data-type="mainNode"
+                                href="/catalog?node=26efb7df-55a0-471d-88b8-af948df46225"
+                                title=""
+                                target="_self">
+                                服務專區
+                                <i class="fa fa-chevron-down pull-right"></i>
+                                <i class="fa fa-chevron-up pull-right"></i>
+                            </a>
+                            
+                                    <ul>
+                                        
+                                    <li>
+                                        <a href="/Modules/Event/Event-List.aspx?node=6ec4b371-510d-4a66-9ebb-95c66a848d5b"
+                                            title=""
+                                            target="_self">
+                                            活動報名
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/catalog?node=117cdc05-d825-46c7-a159-3834ddb7aca0"
+                                            title=""
+                                            target="_self">
+                                            意見回饋
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/catalog?node=832991bc-c313-453c-8867-9fcbbfbd0595"
+                                            title=""
+                                            target="_self">
+                                            政府資訊公開專區
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/catalog?node=15f752c0-fc63-4d70-b8ec-4b3636b6615c"
+                                            title=""
+                                            target="_self">
+                                            政府資料開放專區
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/catalog?node=6925c098-0455-4172-bd4d-3f7c44ab4479"
+                                            title=""
+                                            target="_self">
+                                            性別主流化專區
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/Modules/Download/Download-List.aspx?node=9d934745-45ee-4ab4-8abb-fc5cdb4c3949&amp;c="
+                                            title=""
+                                            target="_self">
+                                            檔案下載
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/catalog?node=2f006719-fe2e-4357-9b14-2b063dcb6763"
+                                            title=""
+                                            target="_self">
+                                            交通法規
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/Modules/BilingualGlossary/BilingualGlossary-List.aspx?node=b0a9d28a-e5f7-46fe-b30b-929056a6ffec"
+                                            title=""
+                                            target="_self">
+                                            交通雙語詞彙對照
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/page?node=9da374a5-c18c-45f5-81bd-f3682de95631"
+                                            title=""
+                                            target="_self">
+                                            本所國際會議廳管理作業須知
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/catalog?node=805891e0-feb1-42ad-89de-9cb5192c549c"
+                                            title=""
+                                            target="_self">
+                                            網站連結
+                                        </a>
+                                    </li>
+                                
+                                    </ul>
+                                
+                        </li>
+                    
+                        <li>
+                            <a data-type="mainNode"
+                                href="/catalog?node=08934458-429f-452c-babc-8c703757910c"
+                                title=""
+                                target="_self">
+                                數位典藏
+                                <i class="fa fa-chevron-down pull-right"></i>
+                                <i class="fa fa-chevron-up pull-right"></i>
+                            </a>
+                            
+                                    <ul>
+                                        
+                                    <li>
+                                        <a href="/Modules/Publication/Publication-List.aspx?node=3598166a-c839-4f0d-8beb-33c093e49de0"
+                                            title=""
+                                            target="_self">
+                                            本所出版品
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/catalog?node=bb66d60c-da6b-4325-b82c-f751e537a6f2"
+                                            title=""
+                                            target="_self">
+                                            館藏圖書
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/Modules/Quarterly/Quarterly-List.aspx?node=ac53d790-78a9-490f-b3a2-df957b99764d&amp;c=1"
+                                            title=""
+                                            target="_self">
+                                            運輸計劃季刊
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/Modules/Quarterly/Quarterly-List.aspx?node=d5452414-b2c8-4cc4-a088-77bf8b2a47a7&amp;c=2"
+                                            title=""
+                                            target="_self">
+                                            港灣技術季刊
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/Modules/Thesis/Thesis-List.aspx?node=0991e189-9e3b-44b7-bc24-0d7638124d9f"
+                                            title=""
+                                            target="_self">
+                                            博碩士論文
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/catalog?node=b2a591f7-7296-409d-9de8-9f1934ffcf07"
+                                            title=""
+                                            target="_self">
+                                            期刊資訊
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/Modules/MediaPlayer/MediaPlayer-List.aspx?node=659c6e75-e24c-416b-a273-d875c1e9f88f"
+                                            title=""
+                                            target="_self">
+                                            多媒體影音
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/Modules/FlipBook/FlipBook-List.aspx?node=5782c01d-84dc-44b5-881c-6072db600062"
+                                            title=""
+                                            target="_self">
+                                            電子書
+                                        </a>
+                                    </li>
+                                
+                                    </ul>
+                                
+                        </li>
+                    
+                        <li>
+                            <a data-type="mainNode"
+                                href="/catalog?node=c4b311d3-b38d-4bfe-adba-44e809365e0e"
+                                title=""
+                                target="_self">
+                                IOT 交通誌
+                                <i class="fa fa-chevron-down pull-right"></i>
+                                <i class="fa fa-chevron-up pull-right"></i>
+                            </a>
+                            
+                                    <ul>
+                                        
+                                    <li>
+                                        <a href="/Modules/Milestone/Milestone-List.aspx?node=cf8f1ec2-112f-4070-9b14-eb50e0ca3e30"
+                                            title=""
+                                            target="_self">
+                                            重大事蹟
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="http://iotwiki.iot.gov.tw/"
+                                            title="連結另開視窗"
+                                            target="_blank">
+                                            專案計畫全紀錄平台
+                                        </a>
+                                    </li>
+                                
+                                    </ul>
+                                
+                        </li>
+                    
+                            </ul>
+                        </nav>
+                    
+            </div>
+
+            <script>
+                var li = '#mainCollapse > ul > li';
+                var isTabEnter = false;
+
+                $(li).click(function () {
+                    if (!$(this).hasClass('active'))
+                        $(li).removeClass('active');
+
+                    $(this).toggleClass('active');
+                });
+
+                $('a[data-type="mainNode"]').on("keydown", function (event) {
+                    if (event.which == 13) {
+                        isTabEnter = true;
+                    }
+                });
+
+                $('a[data-type="mainNode"]').click(function (e) {
+                    if (isTabEnter == false)
+                        e.preventDefault();
+                });
+            </script>
+        </div>
+    </div>
+</div>
+
+    <div class="l-banner">
+        
+    <div class="l-banner__content">
+        <img src="/Content/ch/images/banner-page.jpg" alt="永續運輸，展望未來。" style="width: 100%;" />
+    </div>
+
+    </div>
+    <div class="l-content">
+        
+    <div class="container">
+        <div class="row">
+            <div id="main_main_divLeft" class="col-md-3">
+                <a href="#divLeft" accesskey="L" title="左方功能選單區" class="accesskey pull-left">:::</a>
+                <div class="leftMenu clearfix">
+                    <div class="leftMenu__title">
+                        <span id="main_main_lblMenuTitle">服務專區</span>
+                    </div>
+                    <nav>
+                        <div class="leftMenu__menu">
+                            
+                                    <ul>
+                                        
+                                    <li>
+                                        <div class="leftMenu__item__l-inner">
+                                            <i class="fa fa-dot-circle-o"></i>
+                                            <a href="/Modules/Event/Event-List.aspx?node=6ec4b371-510d-4a66-9ebb-95c66a848d5b"
+                                                title=""
+                                                target="_self">
+                                                活動報名
+                                            </a>
+                                        </div>
+                                        
+                                    </li>
+                                
+                                    <li>
+                                        <div class="leftMenu__item__l-inner">
+                                            <i class="fa fa-dot-circle-o"></i>
+                                            <a href="/catalog?node=117cdc05-d825-46c7-a159-3834ddb7aca0"
+                                                title=""
+                                                target="_self">
+                                                意見回饋
+                                            </a>
+                                        </div>
+                                        
+                                                <ul>
+                                                    
+                                                <li>
+                                                    <i class="fa fa-caret-right"></i>
+                                                    <a href="/Modules/Survey/Questionnaire-List.aspx?node=9bc55719-5512-40a1-ba43-54bc6e9e93f3"
+                                                        title=""
+                                                        target="_self">
+                                                        問卷調查
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <i class="fa fa-caret-right"></i>
+                                                    <a href="/Modules/Survey/Vote-List.aspx?node=c8b7a9e7-ed16-415a-94ab-fe4c878b767d"
+                                                        title=""
+                                                        target="_self">
+                                                        民意調查
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <i class="fa fa-caret-right"></i>
+                                                    <a href="/Modules/Forum/Subject-List.aspx?node=2b22cc37-4273-4846-bb7c-9e094ba72872&amp;c=60ec471d-77d8-4219-bc73-efb9dab5fbca"
+                                                        title=""
+                                                        target="_self">
+                                                        討論專區
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <i class="fa fa-caret-right"></i>
+                                                    <a href="http://join.gov.tw/"
+                                                        title="連結另開視窗"
+                                                        target="_blank">
+                                                        意見交流
+                                                    </a>
+                                                </li>
+                                            
+                                                </ul>
+                                            
+                                    </li>
+                                
+                                    <li>
+                                        <div class="leftMenu__item__l-inner">
+                                            <i class="fa fa-dot-circle-o"></i>
+                                            <a href="/catalog?node=832991bc-c313-453c-8867-9fcbbfbd0595"
+                                                title=""
+                                                target="_self">
+                                                政府資訊公開專區
+                                            </a>
+                                        </div>
+                                        
+                                                <ul>
+                                                    
+                                                <li>
+                                                    <i class="fa fa-caret-right"></i>
+                                                    <a href="/page?node=54eff789-1b6a-4ab8-acdf-01ae9bb307dd"
+                                                        title=""
+                                                        target="_self">
+                                                        申請說明
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <i class="fa fa-caret-right"></i>
+                                                    <a href="/Modules/GovPubInfo/GovPubInfo-List.aspx?node=62d88a40-96fb-4452-865a-e0f6c3296444"
+                                                        title=""
+                                                        target="_self">
+                                                        主動公開之政府資訊專區
+                                                    </a>
+                                                </li>
+                                            
+                                                </ul>
+                                            
+                                    </li>
+                                
+                                    <li>
+                                        <div class="leftMenu__item__l-inner">
+                                            <i class="fa fa-dot-circle-o"></i>
+                                            <a href="/catalog?node=15f752c0-fc63-4d70-b8ec-4b3636b6615c"
+                                                title=""
+                                                target="_self">
+                                                政府資料開放專區
+                                            </a>
+                                        </div>
+                                        
+                                                <ul>
+                                                    
+                                                <li>
+                                                    <i class="fa fa-caret-right"></i>
+                                                    <a href="/catalog?node=8ef9cba4-2f29-454c-bf51-7c6cacf3efde"
+                                                        title=""
+                                                        target="_self">
+                                                        諮詢小組
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <i class="fa fa-caret-right"></i>
+                                                    <a href="/Modules/OpenData/OpenData-List.aspx?node=67c40b41-607f-40dd-a9fe-9ca13552e252"
+                                                        title=""
+                                                        target="_self">
+                                                        開放資料集
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <i class="fa fa-caret-right"></i>
+                                                    <a href="http://data.gov.tw/"
+                                                        title="連結另開視窗"
+                                                        target="_blank">
+                                                        政府資料開放平台
+                                                    </a>
+                                                </li>
+                                            
+                                                </ul>
+                                            
+                                    </li>
+                                
+                                    <li>
+                                        <div class="leftMenu__item__l-inner">
+                                            <i class="fa fa-dot-circle-o"></i>
+                                            <a href="/catalog?node=6925c098-0455-4172-bd4d-3f7c44ab4479"
+                                                title=""
+                                                target="_self">
+                                                性別主流化專區
+                                            </a>
+                                        </div>
+                                        
+                                                <ul>
+                                                    
+                                                <li>
+                                                    <i class="fa fa-caret-right"></i>
+                                                    <a href="/catalog?node=10d54faf-3485-471c-8ea9-ce819cd2afd4"
+                                                        title=""
+                                                        target="_self">
+                                                        性別主流化宣導事項
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <i class="fa fa-caret-right"></i>
+                                                    <a href="/catalog?node=daa854e6-630b-4da5-88f8-ef17deaba62b"
+                                                        title=""
+                                                        target="_self">
+                                                        性騷擾防治措施
+                                                    </a>
+                                                </li>
+                                            
+                                                </ul>
+                                            
+                                    </li>
+                                
+                                    <li>
+                                        <div class="leftMenu__item__l-inner">
+                                            <i class="fa fa-dot-circle-o"></i>
+                                            <a href="/Modules/Download/Download-List.aspx?node=9d934745-45ee-4ab4-8abb-fc5cdb4c3949&amp;c="
+                                                title=""
+                                                target="_self">
+                                                檔案下載
+                                            </a>
+                                        </div>
+                                        
+                                    </li>
+                                
+                                    <li>
+                                        <div class="leftMenu__item__l-inner">
+                                            <i class="fa fa-dot-circle-o"></i>
+                                            <a href="/catalog?node=2f006719-fe2e-4357-9b14-2b063dcb6763"
+                                                title=""
+                                                target="_self">
+                                                交通法規
+                                            </a>
+                                        </div>
+                                        
+                                                <ul>
+                                                    
+                                                <li>
+                                                    <i class="fa fa-caret-right"></i>
+                                                    <a href="http://www.motc.gov.tw/ch/home.jsp?id=35&amp;parentpath=0,5"
+                                                        title="連結另開視窗"
+                                                        target="_blank">
+                                                        交通部之交通法規
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <i class="fa fa-caret-right"></i>
+                                                    <a href="http://law.moj.gov.tw/"
+                                                        title="連結另開視窗"
+                                                        target="_blank">
+                                                        法務部之全國法規資料庫
+                                                    </a>
+                                                </li>
+                                            
+                                                </ul>
+                                            
+                                    </li>
+                                
+                                    <li>
+                                        <div class="leftMenu__item__l-inner">
+                                            <i class="fa fa-dot-circle-o"></i>
+                                            <a href="/Modules/BilingualGlossary/BilingualGlossary-List.aspx?node=b0a9d28a-e5f7-46fe-b30b-929056a6ffec"
+                                                title=""
+                                                target="_self">
+                                                交通雙語詞彙對照
+                                            </a>
+                                        </div>
+                                        
+                                    </li>
+                                
+                                    <li>
+                                        <div class="leftMenu__item__l-inner">
+                                            <i class="fa fa-dot-circle-o"></i>
+                                            <a href="/page?node=9da374a5-c18c-45f5-81bd-f3682de95631"
+                                                title=""
+                                                target="_self">
+                                                本所國際會議廳管理作業須知
+                                            </a>
+                                        </div>
+                                        
+                                    </li>
+                                
+                                    <li>
+                                        <div class="leftMenu__item__l-inner">
+                                            <i class="fa fa-dot-circle-o"></i>
+                                            <a href="/catalog?node=805891e0-feb1-42ad-89de-9cb5192c549c"
+                                                title=""
+                                                target="_self">
+                                                網站連結
+                                            </a>
+                                        </div>
+                                        
+                                                <ul>
+                                                    
+                                                <li>
+                                                    <i class="fa fa-caret-right"></i>
+                                                    <a href="/Modules/WebLink/WebLink-List.aspx?node=91dd84d9-0525-46a3-8d9e-5e0a5d075a16&amp;c=e941a743-0a39-43c7-896e-6f7a03990136"
+                                                        title=""
+                                                        target="_self">
+                                                        熱門交通網站
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <i class="fa fa-caret-right"></i>
+                                                    <a href="/catalog?node=6678e00d-c2dd-4c42-b20c-61ff7df6381f"
+                                                        title=""
+                                                        target="_self">
+                                                        國內外政府單位
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <i class="fa fa-caret-right"></i>
+                                                    <a href="/catalog?node=fdeaed67-66f3-4a69-8f4d-60b19ecbe7a5"
+                                                        title=""
+                                                        target="_self">
+                                                        國內外學術機構
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <i class="fa fa-caret-right"></i>
+                                                    <a href="/Modules/WebLink/WebLink-List.aspx?node=5ffdf2e6-8a6c-415e-9e0f-ef8f2186bc52&amp;c=e25ecb7f-4403-46c2-aa03-ecac0f3e6e4c"
+                                                        title=""
+                                                        target="_self">
+                                                        國外會議資訊
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <i class="fa fa-caret-right"></i>
+                                                    <a href="/catalog?node=db1f7344-978b-48af-92f3-87d08355c110"
+                                                        title=""
+                                                        target="_self">
+                                                        國內外搜尋引擎
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <i class="fa fa-caret-right"></i>
+                                                    <a href="/catalog?node=4eadc488-7283-4118-ae66-8595ff134f47"
+                                                        title=""
+                                                        target="_self">
+                                                        其他連結
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <i class="fa fa-caret-right"></i>
+                                                    <a href="/page?node=8b790204-f063-4fdc-8de6-463bfef63a48"
+                                                        title=""
+                                                        target="_self">
+                                                        交通宣導網
+                                                    </a>
+                                                </li>
+                                            
+                                                </ul>
+                                            
+                                    </li>
+                                
+                                    </ul>
+                                
+                        </div>
+                    </nav>
+                    <div class="leftMenu__cover">
+                        <img id="main_main_imgCover" alt="" src="../../FileResource.axd?path=html/covers/26efb7df-55a0-471d-88b8-af948df46225.png" />
+                    </div>
+                </div>
+            </div>
+            <div id="divRight" class="col-md-9">
+                <a href="#divRight" accesskey="C" title="中間主要內容區" class="accesskey pull-left">:::</a>
+                <!--麵包屑-->
+                
+                        <nav>
+                            <ul class="breadcrumb">
+                                
+                                    <li><a href="/" title="首頁">首頁</a></li>
+                                
+                                
+                        <li><a href="/catalog?node=26efb7df-55a0-471d-88b8-af948df46225">服務專區</a></li>
+                    
+                        <li><a href="/catalog?node=832991bc-c313-453c-8867-9fcbbfbd0595">政府資訊公開專區</a></li>
+                    
+                                
+                                    <li class="active">&#38928;&#31639;&#26360;</li>
+                                
+                            </ul>
+                        </nav>
+                    
+                <div id="article" class="article">
+                    <a href="#article_content" title="跳過此列請按[Enter]，繼續則按[Tab]" class="accesskey pull-left">:::</a>
+                    <div class="article__toolbar-top">
+                        <div class="article__toolbar__fontSize">
+                            <button type="button" title="小字" onclick="javascript:switchFontSize('1rem', 'www.iot.gov.tw');" onkeypress="javascript:switchFontSize('1rem', 'www.iot.gov.tw');">a-</button>
+                            <button type="button" title="正常" onclick="javascript:switchFontSize('1.5rem', 'www.iot.gov.tw');" onkeypress="javascript:switchFontSize('1.5rem', 'www.iot.gov.tw');">a</button>
+                            <button type="button" title="大字" onclick="javascript:switchFontSize('2rem', 'www.iot.gov.tw');" onkeypress="javascript:switchFontSize('2rem', 'www.iot.gov.tw');">a+</button>
+                        </div>
+                        <noscript>
+                            當Script無法執行變更字級大小時，可利用鍵盤Ctrl + (+)放大(-)縮小來改變字型大小。
+                        </noscript>
+                        <div class="article__toolbar-top__right">
+                            <a class="printBtn" href="#">
+                                <img src="/Content/ch/images/ico-print.png" alt="友善列印" />
+                                <span>友善列印</span>
+                                <noscript>
+                                    當Script無法執行友善列印時可至[檔案]/[列印]。
+                                </noscript>
+                            </a>
+                            <div id="ctl00_ctl00_ctl00_main_main_sclShare" class="RadSocialShare&#32;RadSocialShare_Default" style="padding: 0; float: right;">
+	<!-- 2015.3.930.45 --><ul class="sshContent">
+		<li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="&#20998;&#20139;&#33267;Facebook"><span class="sshCustomIcon&#32;"></span></a></li><li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="&#20998;&#20139;&#33267;GooglePlus"><span class="sshCustomIcon&#32;"></span></a></li><li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="&#20998;&#20139;&#33267;Pinterest"><span class="sshCustomIcon&#32;"></span></a></li><li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="&#20998;&#20139;&#33267;Twitter"><span class="sshCustomIcon&#32;"></span></a></li>
+	</ul><input id="ctl00_ctl00_ctl00_main_main_sclShare_ClientState" name="ctl00_ctl00_ctl00_main_main_sclShare_ClientState" type="hidden" />
+</div>
+                            <noscript>
+                                當Script無法執行社群分享時，請直接點選連結
+                                <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.iot.gov.tw/Modules/GovPubInfo/GovPubInfo-List" target="_blank" style="color: #006cdd">Facebook</a>、
+                                <a href="https://plus.google.com/share?url=https://www.iot.gov.tw/Modules/GovPubInfo/GovPubInfo-List" target="_blank" style="color: #006cdd">GooglePlus</a>、
+                                <a href="https://pinterest.com/pin/create/button/?url=https://www.iot.gov.tw/Modules/GovPubInfo/GovPubInfo-List" target="_blank" style="color: #006cdd">Pinterest</a>、
+                                <a href="https://twitter.com/home?status=https://www.iot.gov.tw/Modules/GovPubInfo/GovPubInfo-List" target="_blank" style="color: #006cdd">Twitter</a>
+                                另開視窗分享至社群網頁。
+                            </noscript>
+                        </div>
+                    </div>
+                    <div id="article_content" class="article__content">
+                        <div class="article__content__header">
+                            <div class="article__title">
+                                <span id="main_main_lblTitle" class="article__title__text">預算書</span>
+                            </div>
+                        </div>
+                        <div class="article__content__basicFont">
+                            
+    <div class="govPubInfoView">
+        <div class="queryBox">
+            <div class="form-inline" role="form">
+                <div class="form-group">
+                    <label for="main_main_content_ddlGovInfoType">資訊種類：</label>
+                    <select name="ctl00$ctl00$ctl00$main$main$content$ddlGovInfoType" id="main_main_content_ddlGovInfoType" class="form-control&#32;type">
+	<option value="1">&#27861;&#35215;&#21450;&#34892;&#25919;&#35215;&#21063;</option>
+	<option value="2">&#23565;&#22806;&#38364;&#20418;&#25991;&#26360;</option>
+	<option value="3">&#26781;&#32004;</option>
+	<option value="4">&#34892;&#25919;&#25351;&#23566;&#26377;&#38364;&#25991;&#26360;</option>
+	<option value="5">&#26045;&#25919;&#35336;&#30059;</option>
+	<option value="6">&#26989;&#21209;&#32113;&#35336;</option>
+	<option value="7">&#30740;&#31350;&#22577;&#21578;</option>
+	<option value="8">&#20844;&#21209;&#20986;&#22283;&#22577;&#21578;</option>
+	<option selected="selected" value="9">&#38928;&#31639;&#26360;</option>
+	<option value="10">&#27770;&#31639;&#26360;</option>
+	<option value="11">&#26371;&#35336;&#26376;&#22577;</option>
+	<option value="12">&#35380;&#39000;&#27770;&#23450;&#26360;</option>
+	<option value="13">&#35531;&#39000;&#34389;&#29702;&#32080;&#26524;</option>
+	<option value="14">&#20844;&#20849;&#24037;&#31243;&#22865;&#32004;</option>
+	<option value="15">&#25505;&#36092;&#22865;&#32004;</option>
+	<option value="16">&#25903;&#20184;&#25110;&#25509;&#21463;&#20043;&#35036;&#21161;</option>
+
+</select>
+                </div>
+                <div class="form-group">
+                    <label for="main_main_content_ddlProvideType">提供方式：</label>
+                    <select name="ctl00$ctl00$ctl00$main$main$content$ddlProvideType" id="main_main_content_ddlProvideType" class="form-control&#32;offer">
+	<option selected="selected" value="">&#20840;&#37096;</option>
+	<option value="1">&#20844;&#38283;&#38515;&#21015;</option>
+	<option value="2">&#32178;&#38913;&#36899;&#32080;</option>
+	<option value="3">&#38651;&#23376;&#27284;</option>
+
+</select>
+                </div>
+                <div class="form-group">
+                    <label for="main_main_content_txbKeyword">欄位查詢：</label>
+                    <select name="ctl00$ctl00$ctl00$main$main$content$ddlSearchField" id="main_main_content_ddlSearchField" class="form-control&#32;searchType">
+	<option selected="selected" value="0">&#27161;&#38988;</option>
+	<option value="1">&#20027;&#36774;&#21934;&#20301;(&#20445;&#31649;&#22580;&#25152;)</option>
+
+</select>
+                    <input name="ctl00$ctl00$ctl00$main$main$content$txbKeyword" type="text" id="main_main_content_txbKeyword" placeholder="&#38364;&#37749;&#23383;" class="form-control&#32;keyword" />
+                </div>
+                <input type="submit" name="ctl00$ctl00$ctl00$main$main$content$btnQuery" value="&#26597;&#35426;" id="main_main_content_btnQuery" class="btn&#32;btn-primary" />
+            </div>
+        </div>
+
+        
+                <div class="table-scroll">
+                    <table class="table-list" summary="政府資訊公開">
+                        <colgroup>
+                            <col style="width: 5%;" />
+                            <col />
+                            <col style="width: 10%;" />
+                            <col style="width: 10%;" />
+                            <col style="width: 12%;" />
+                            <col style="width: 16%;" />
+                        </colgroup>
+                        <thead>
+                            <tr>
+                                <th class="text-center"></th>
+                                <th>內容要旨</th>
+                                <th class="text-center">作成或<br />取得時間</th>
+                                <th class="text-center">保管期間</th>
+                                <th class="text-center">提供方式</th>
+                                <th class="text-center">主辦單位<br />(保管場所)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+                <tr>
+                    <td class="text-center">
+                        1.
+                    </td>
+                    <td>
+                    </a>
+                        <a id="ctl00_ctl00_ctl00_main_main_content_lsvList_ctrl0_lnkUrl" title="106&#24180;&#24230;&#26412;&#25152;&#21934;&#20301;&#38928;&#31639;(&#38928;&#31639;&#26696;)_(PDF,XML)&#32;.zip" href="http://www.iot.gov.tw/file.ashx?id=0ccddd90-77ac-4074-99f9-5fe307ebe824">106年度本所單位預算(預算案)_(PDF,XML)  <i class="fa fa-download"></i></a>
+                    </td>
+                    <td class="text-center">
+                        105&#24180;08&#26376;
+                    </td>
+                    <td class="text-center">
+                        10&#24180;
+                    </td>
+                    <td class="text-center">
+                        &#38651;&#23376;&#27284;
+                    </td>
+                    <td class="text-center">
+                        &#26412;&#25152;&#20027;&#35336;&#23460;
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td class="text-center">
+                        2.
+                    </td>
+                    <td>
+                    </a>
+                        <a id="ctl00_ctl00_ctl00_main_main_content_lsvList_ctrl1_lnkUrl" title="105&#24180;&#24230;&#26412;&#25152;&#21934;&#20301;&#38928;&#31639;(&#27861;&#23450;&#38928;&#31639;)_(PDF,XML).zip" href="http://www.iot.gov.tw/file.ashx?id=b29993a6-bc25-4f38-84e1-6b0a7842a08e">105年度本所單位預算(法定預算)_(PDF,XML) <i class="fa fa-download"></i></a>
+                    </td>
+                    <td class="text-center">
+                        105&#24180;01&#26376;
+                    </td>
+                    <td class="text-center">
+                        10&#24180;
+                    </td>
+                    <td class="text-center">
+                        &#38651;&#23376;&#27284;
+                    </td>
+                    <td class="text-center">
+                        &#26412;&#25152;&#20027;&#35336;&#23460;
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td class="text-center">
+                        3.
+                    </td>
+                    <td>
+                    </a>
+                        <a id="ctl00_ctl00_ctl00_main_main_content_lsvList_ctrl2_lnkUrl" title="105&#24180;&#24230;&#26412;&#25152;&#21934;&#20301;&#38928;&#31639;(&#38928;&#31639;&#26696;)_(PDF,XML,EXCEL).zip" href="http://www.iot.gov.tw/file.ashx?id=3ac6fe75-10dc-4b79-ace7-73d10b456855">105年度本所單位預算(預算案)_(PDF,XML,EXCEL) <i class="fa fa-download"></i></a>
+                    </td>
+                    <td class="text-center">
+                        104&#24180;08&#26376;
+                    </td>
+                    <td class="text-center">
+                        10&#24180;
+                    </td>
+                    <td class="text-center">
+                        &#38651;&#23376;&#27284;
+                    </td>
+                    <td class="text-center">
+                        &#26412;&#25152;&#20027;&#35336;&#23460;
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td class="text-center">
+                        4.
+                    </td>
+                    <td>
+                    </a>
+                        <a id="ctl00_ctl00_ctl00_main_main_content_lsvList_ctrl3_lnkUrl" title="104&#24180;&#24230;&#26412;&#25152;&#21934;&#20301;&#38928;&#31639;(&#27861;&#23450;&#38928;&#31639;)_(PDF,XML,EXCEL).zip" href="http://www.iot.gov.tw/file.ashx?id=caa195c8-b1d4-4850-b225-0e82b97499c8">104年度本所單位預算(法定預算)_(PDF,XML,EXCEL) <i class="fa fa-download"></i></a>
+                    </td>
+                    <td class="text-center">
+                        104&#24180;02&#26376;
+                    </td>
+                    <td class="text-center">
+                        10&#24180;
+                    </td>
+                    <td class="text-center">
+                        &#38651;&#23376;&#27284;
+                    </td>
+                    <td class="text-center">
+                        &#26412;&#25152;&#20027;&#35336;&#23460;
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td class="text-center">
+                        5.
+                    </td>
+                    <td>
+                    </a>
+                        <a id="ctl00_ctl00_ctl00_main_main_content_lsvList_ctrl4_lnkUrl" title="104&#24180;&#24230;&#26412;&#25152;&#21934;&#20301;&#38928;&#31639;(&#38928;&#31639;&#26696;)_(PDF,XML).zip" href="http://www.iot.gov.tw/file.ashx?id=3d37a549-caed-4f25-b808-49df64dc79e7">104年度本所單位預算(預算案)_(PDF,XML) <i class="fa fa-download"></i></a>
+                    </td>
+                    <td class="text-center">
+                        103&#24180;08&#26376;
+                    </td>
+                    <td class="text-center">
+                        10&#24180;
+                    </td>
+                    <td class="text-center">
+                        &#38651;&#23376;&#27284;
+                    </td>
+                    <td class="text-center">
+                        &#26412;&#25152;&#20027;&#35336;&#23460;
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td class="text-center">
+                        6.
+                    </td>
+                    <td>
+                    </a>
+                        <a id="ctl00_ctl00_ctl00_main_main_content_lsvList_ctrl5_lnkUrl" title="104&#24180;&#24230;&#26412;&#25152;&#21934;&#20301;&#27010;&#31639;.pdf" href="http://www.iot.gov.tw/file.ashx?id=b615bf05-e194-482a-b539-a4656a7c5428">104年度本所單位概算 <i class="fa fa-download"></i></a>
+                    </td>
+                    <td class="text-center">
+                        103&#24180;07&#26376;
+                    </td>
+                    <td class="text-center">
+                        1&#24180;
+                    </td>
+                    <td class="text-center">
+                        &#38651;&#23376;&#27284;
+                    </td>
+                    <td class="text-center">
+                        &#26412;&#25152;&#20027;&#35336;&#23460;
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td class="text-center">
+                        7.
+                    </td>
+                    <td>
+                    </a>
+                        <a id="ctl00_ctl00_ctl00_main_main_content_lsvList_ctrl6_lnkUrl" title="103&#24180;&#24230;&#26412;&#25152;&#21934;&#20301;&#38928;&#31639;(&#27861;&#23450;&#38928;&#31639;).pdf" href="http://www.iot.gov.tw/file.ashx?id=23d8a5f6-591c-4adc-97f8-22b3d702fcf9">103年度本所單位預算(法定預算) <i class="fa fa-download"></i></a>
+                    </td>
+                    <td class="text-center">
+                        103&#24180;02&#26376;
+                    </td>
+                    <td class="text-center">
+                        10&#24180;
+                    </td>
+                    <td class="text-center">
+                        &#38651;&#23376;&#27284;
+                    </td>
+                    <td class="text-center">
+                        &#26412;&#25152;&#20027;&#35336;&#23460;
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td class="text-center">
+                        8.
+                    </td>
+                    <td>
+                    </a>
+                        <a id="ctl00_ctl00_ctl00_main_main_content_lsvList_ctrl7_lnkUrl" title="103&#24180;&#24230;&#26412;&#25152;&#21934;&#20301;&#38928;&#31639;(&#38928;&#31639;&#26696;).pdf" href="http://www.iot.gov.tw/file.ashx?id=6371c083-4359-4e18-8468-3f78e4e1cd94">103年度本所單位預算(預算案) <i class="fa fa-download"></i></a>
+                    </td>
+                    <td class="text-center">
+                        102&#24180;09&#26376;
+                    </td>
+                    <td class="text-center">
+                        10&#24180;
+                    </td>
+                    <td class="text-center">
+                        &#38651;&#23376;&#27284;
+                    </td>
+                    <td class="text-center">
+                        &#26412;&#25152;&#20027;&#35336;&#23460;
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td class="text-center">
+                        9.
+                    </td>
+                    <td>
+                    </a>
+                        <a id="ctl00_ctl00_ctl00_main_main_content_lsvList_ctrl8_lnkUrl" title="102&#24180;&#24230;&#26412;&#25152;&#21934;&#20301;&#38928;&#31639;-(&#27861;&#23450;&#38928;&#31639;).pdf" href="http://www.iot.gov.tw/file.ashx?id=acbefe20-bf44-4f4a-b439-20967056b39c">102年度本所單位預算-(法定預算) <i class="fa fa-download"></i></a>
+                    </td>
+                    <td class="text-center">
+                        102&#24180;03&#26376;
+                    </td>
+                    <td class="text-center">
+                        10&#24180;
+                    </td>
+                    <td class="text-center">
+                        &#38651;&#23376;&#27284;
+                    </td>
+                    <td class="text-center">
+                        &#26412;&#25152;&#20027;&#35336;&#23460;  
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td class="text-center">
+                        10.
+                    </td>
+                    <td>
+                    </a>
+                        <a id="ctl00_ctl00_ctl00_main_main_content_lsvList_ctrl9_lnkUrl" title="102&#24180;&#24230;&#26412;&#25152;&#21934;&#20301;&#38928;&#31639;(&#38928;&#31639;&#26696;).pdf" href="http://www.iot.gov.tw/file.ashx?id=1e119171-7631-457c-9c37-f4d7a9fd6a1f">102年度本所單位預算(預算案) <i class="fa fa-download"></i></a>
+                    </td>
+                    <td class="text-center">
+                        102&#24180;02&#26376;
+                    </td>
+                    <td class="text-center">
+                        10&#24180;
+                    </td>
+                    <td class="text-center">
+                        &#38651;&#23376;&#27284;
+                    </td>
+                    <td class="text-center">
+                        &#26412;&#25152;&#20027;&#35336;&#23460;
+                    </td>
+                </tr>
+            
+                        </tbody>
+                    </table>
+                </div>
+                <div class="listPager">
+                    <span id="ctl00_ctl00_ctl00_main_main_content_lsvList_pagList" class="btn-group"><input type="submit" name="ctl00$ctl00$ctl00$main$main$content$lsvList$pagList$ctl00$ctl00" value="&#8592;" disabled="disabled" class="aspNetDisabled&#32;btn&#32;btn-default" /><span class="btn&#32;btn-primary&#32;disabled">1</span><input type="submit" name="ctl00$ctl00$ctl00$main$main$content$lsvList$pagList$ctl01$ctl01" value="2" class="btn&#32;btn-default" /><input type="submit" name="ctl00$ctl00$ctl00$main$main$content$lsvList$pagList$ctl01$ctl02" value="3" class="btn&#32;btn-default" /><input type="submit" name="ctl00$ctl00$ctl00$main$main$content$lsvList$pagList$ctl02$ctl00" value="&#8594;" class="btn&#32;btn-default" /></span>
+                </div>
+            <input id="ctl00_ctl00_ctl00_main_main_content_lsvList_ClientState" name="ctl00_ctl00_ctl00_main_main_content_lsvList_ClientState" type="hidden" /><span id="ctl00_ctl00_ctl00_main_main_content_lsvList" style="display:none;"></span>
+    </div>
+
+    <script>
+        $('#main_main_content_ddlGovInfoType').change(function () {
+            if ($(this).val() == 7) window.location = '/Modules/Publication/Publication-List?node=3598166a-c839-4f0d-8beb-33c093e49de0';
+        });
+    </script>
+
+                        </div>
+
+                    </div>
+                    <div class="article__toolbar-bottom clearfix">
+                        <div id="main_main_divArticleInfo" class="article__info">
+                            
+                            
+                            <img title="瀏覽人次" alt="瀏覽人次" src="/Content/ch/images/ico-viewB.png" style="margin-left: 10px; width: 19px;" />
+                            <span id="main_main_lblVistor" class="article__info__fieldValue">1371</span>
+                        </div>
+                        <div class="article__toolbar-bottom-right">
+                            <div class="article__toolbar__btn">
+                                <a id="back-top" href="#">
+                                    <div class="article__toolbar__btn__text">
+                                        <i class="fa fa-arrow-up  article__toolbar__btn__icon"></i>
+                                        <span>至頂端</span>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="article__toolbar__btn">
+                                <a id="back-up" href="#">
+                                    <div class="article__toolbar__btn__text">
+                                        <i class="fa fa-arrow-left article__toolbar__btn__icon"></i>
+                                        <span>回上頁</span>
+                                    </div>
+                                </a>
+                            </div>
+                            <noscript>
+                                當Script無法執行回上一頁時可按 "alt + ←" 鍵替代。
+                            </noscript>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+
+        $(function () {
+
+            $(".printBtn").click(function () {
+                window.print();
+            });
+
+            $("#back-up").click(function () {
+                window.history.go(-1);
+                return false;
+            });
+
+            $('#back-top').click(function () {
+                $('body,html').animate({
+                    scrollTop: 0
+                }, 800);
+                return false;
+            });
+        });
+
+    </script>
+    <style>
+        .RadSocialShare_Default {
+            background-color: transparent;
+        }
+        /* 友善列印 */ 
+            @media print {
+                body > form > div:not(.l-content),
+                #main_main_divLeft,
+                .accesskey,
+                .article__toolbar-top,
+                .article__toolbar-bottom {
+                    display: none !important;
+                }
+            }
+    </style>
+
+    </div>
+    <div id="goSMap" class="l-footer">
+        <div class="container">
+            <div class="l-footer__sitemap clearfix">
+                
+                        <div class="l-footer__sitemap__menu">
+                            <div class="l-footer__sitemap__menu__title">
+                                關於本所
+                            </div>
+                            <nav>
+                                <ul class="l-footer__sitemap__menu__subItems">
+                                    
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/page?node=d4ab3ac0-0e6b-45d5-9e55-7387e2d2bfb7"
+                                                    title=""
+                                                    target="_self">
+                                                    所長介紹
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/page?node=075a57cb-8778-499d-a8e1-a244462e9766"
+                                                    title=""
+                                                    target="_self">
+                                                    沿革
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/page?node=90fe7250-d78a-4d34-9446-955de1ff0b5a"
+                                                    title=""
+                                                    target="_self">
+                                                    組織與職掌
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/page?node=cb0fb583-7873-4935-bfe8-50d36aca165d"
+                                                    title=""
+                                                    target="_self">
+                                                    施政概況
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/catalog?node=3aa6de9a-b40a-48bd-9399-94df3d251adf"
+                                                    title=""
+                                                    target="_self">
+                                                    研究計畫與進度
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/catalog?node=c7efabe3-ed24-4b91-91a8-a716a8025b6a"
+                                                    title=""
+                                                    target="_self">
+                                                    大事紀要
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/page?node=4ce218fb-2eaa-4871-9f4c-e49f570b5604"
+                                                    title=""
+                                                    target="_self">
+                                                    本所位址與行車資訊
+                                                </a>
+                                            </li>
+                                        
+                                </ul>
+                            </nav>
+                        </div>
+                    
+                        <div class="l-footer__sitemap__menu">
+                            <div class="l-footer__sitemap__menu__title">
+                                訊息公告
+                            </div>
+                            <nav>
+                                <ul class="l-footer__sitemap__menu__subItems">
+                                    
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/Modules/News/News-List.aspx?node=1c7bac8b-1817-4981-bd65-483cbfa8c7bb&amp;c=00000000-0000-0000-0000-000000000000"
+                                                    title=""
+                                                    target="_self">
+                                                    最新消息
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/Modules/News/News-List.aspx?node=62c75437-b0bb-40db-aa77-32e4fc325c3d&amp;c=0195cbd6-1a4c-41ae-915a-3f6a670c3932"
+                                                    title=""
+                                                    target="_self">
+                                                    本所新聞稿
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/Modules/News/News-List.aspx?node=696aeb15-86b2-4919-ab32-4e176108fe28&amp;c=557cf646-d140-4e03-bce5-8721eb1504e2"
+                                                    title=""
+                                                    target="_self">
+                                                    新書快訊
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/catalog?node=55887136-79dd-4380-bb69-3652caf4ba56"
+                                                    title=""
+                                                    target="_self">
+                                                    行政公告
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/catalog?node=ce823450-e9d3-4fbf-9b8d-4fdedb0b8b97"
+                                                    title=""
+                                                    target="_self">
+                                                    就業資訊
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/Modules/Download/Download-List.aspx?node=d5b0e70d-9dfa-433b-8eb3-9f865a1f698f&amp;c=6719117d-81b1-4c4b-a55d-9cf68fbc8677"
+                                                    title=""
+                                                    target="_self">
+                                                    本所頒發獎項專區
+                                                </a>
+                                            </li>
+                                        
+                                </ul>
+                            </nav>
+                        </div>
+                    
+                        <div class="l-footer__sitemap__menu">
+                            <div class="l-footer__sitemap__menu__title">
+                                政策與研究
+                            </div>
+                            <nav>
+                                <ul class="l-footer__sitemap__menu__subItems">
+                                    
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/catalog?node=ffcacc08-3fe6-4c7d-8d7b-cdf4d1764314"
+                                                    title=""
+                                                    target="_self">
+                                                    研究專題
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/catalog?node=819415df-2768-44d5-8a4b-e0e86edaa62e"
+                                                    title=""
+                                                    target="_self">
+                                                    研究成果應用採行說明
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/catalog?node=e5b44e89-0a9e-4cd4-894c-ffe8125997d9"
+                                                    title=""
+                                                    target="_self">
+                                                    落實應用實績
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/catalog?node=9b5c8929-3dd6-4503-b693-ce5d01b388b0"
+                                                    title=""
+                                                    target="_self">
+                                                    重大政策
+                                                </a>
+                                            </li>
+                                        
+                                </ul>
+                            </nav>
+                        </div>
+                    
+                        <div class="l-footer__sitemap__menu">
+                            <div class="l-footer__sitemap__menu__title">
+                                服務專區
+                            </div>
+                            <nav>
+                                <ul class="l-footer__sitemap__menu__subItems">
+                                    
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/Modules/Event/Event-List.aspx?node=6ec4b371-510d-4a66-9ebb-95c66a848d5b"
+                                                    title=""
+                                                    target="_self">
+                                                    活動報名
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/catalog?node=117cdc05-d825-46c7-a159-3834ddb7aca0"
+                                                    title=""
+                                                    target="_self">
+                                                    意見回饋
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/catalog?node=832991bc-c313-453c-8867-9fcbbfbd0595"
+                                                    title=""
+                                                    target="_self">
+                                                    政府資訊公開專區
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/catalog?node=15f752c0-fc63-4d70-b8ec-4b3636b6615c"
+                                                    title=""
+                                                    target="_self">
+                                                    政府資料開放專區
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/catalog?node=6925c098-0455-4172-bd4d-3f7c44ab4479"
+                                                    title=""
+                                                    target="_self">
+                                                    性別主流化專區
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/Modules/Download/Download-List.aspx?node=9d934745-45ee-4ab4-8abb-fc5cdb4c3949&amp;c="
+                                                    title=""
+                                                    target="_self">
+                                                    檔案下載
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/catalog?node=2f006719-fe2e-4357-9b14-2b063dcb6763"
+                                                    title=""
+                                                    target="_self">
+                                                    交通法規
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/Modules/BilingualGlossary/BilingualGlossary-List.aspx?node=b0a9d28a-e5f7-46fe-b30b-929056a6ffec"
+                                                    title=""
+                                                    target="_self">
+                                                    交通雙語詞彙對照
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/page?node=9da374a5-c18c-45f5-81bd-f3682de95631"
+                                                    title=""
+                                                    target="_self">
+                                                    本所國際會議廳管理作業須知
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/catalog?node=805891e0-feb1-42ad-89de-9cb5192c549c"
+                                                    title=""
+                                                    target="_self">
+                                                    網站連結
+                                                </a>
+                                            </li>
+                                        
+                                </ul>
+                            </nav>
+                        </div>
+                    
+                        <div class="l-footer__sitemap__menu">
+                            <div class="l-footer__sitemap__menu__title">
+                                數位典藏
+                            </div>
+                            <nav>
+                                <ul class="l-footer__sitemap__menu__subItems">
+                                    
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/Modules/Publication/Publication-List.aspx?node=3598166a-c839-4f0d-8beb-33c093e49de0"
+                                                    title=""
+                                                    target="_self">
+                                                    本所出版品
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/catalog?node=bb66d60c-da6b-4325-b82c-f751e537a6f2"
+                                                    title=""
+                                                    target="_self">
+                                                    館藏圖書
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/Modules/Quarterly/Quarterly-List.aspx?node=ac53d790-78a9-490f-b3a2-df957b99764d&amp;c=1"
+                                                    title=""
+                                                    target="_self">
+                                                    運輸計劃季刊
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/Modules/Quarterly/Quarterly-List.aspx?node=d5452414-b2c8-4cc4-a088-77bf8b2a47a7&amp;c=2"
+                                                    title=""
+                                                    target="_self">
+                                                    港灣技術季刊
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/Modules/Thesis/Thesis-List.aspx?node=0991e189-9e3b-44b7-bc24-0d7638124d9f"
+                                                    title=""
+                                                    target="_self">
+                                                    博碩士論文
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/catalog?node=b2a591f7-7296-409d-9de8-9f1934ffcf07"
+                                                    title=""
+                                                    target="_self">
+                                                    期刊資訊
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/Modules/MediaPlayer/MediaPlayer-List.aspx?node=659c6e75-e24c-416b-a273-d875c1e9f88f"
+                                                    title=""
+                                                    target="_self">
+                                                    多媒體影音
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/Modules/FlipBook/FlipBook-List.aspx?node=5782c01d-84dc-44b5-881c-6072db600062"
+                                                    title=""
+                                                    target="_self">
+                                                    電子書
+                                                </a>
+                                            </li>
+                                        
+                                </ul>
+                            </nav>
+                        </div>
+                    
+                        <div class="l-footer__sitemap__menu">
+                            <div class="l-footer__sitemap__menu__title">
+                                IOT 交通誌
+                            </div>
+                            <nav>
+                                <ul class="l-footer__sitemap__menu__subItems">
+                                    
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="/Modules/Milestone/Milestone-List.aspx?node=cf8f1ec2-112f-4070-9b14-eb50e0ca3e30"
+                                                    title=""
+                                                    target="_self">
+                                                    重大事蹟
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <i class="fa fa-stop"></i>
+                                                <a href="http://iotwiki.iot.gov.tw/"
+                                                    title=" (連結另開視窗)"
+                                                    target="_blank">
+                                                    專案計畫全紀錄平台
+                                                </a>
+                                            </li>
+                                        
+                                </ul>
+                            </nav>
+                        </div>
+                    
+            </div>
+            <div id="divFooter" class="l-footer__info">
+                <a href="#divFooter" accesskey="B" title="下方網頁資訊區" class="accesskey pull-right">:::</a>
+                <div class="l-footer__info__logo">
+                    <img src="/Content/ch/images/logo-white.png" alt="交通部運輸研究所" />
+                    <div class="l-footer__info__logo-text">
+                        <span style="color: #ffffff; font-size: 2rem; letter-spacing: 6px;">交通部運輸研究所</span><br />
+                        <span style="color: #e2e2e2;" lang='en'>Institute of Transportation, MOTC</span>
+                    </div>
+                </div>
+                <div class="l-footer__info__contact">
+                    <span>電話：02-2349-6789</span><br />
+                    <span>傳真：02-2717-6381</span><br />
+                    <span>地址：<a href='https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E6%95%A6%E5%8C%96%E5%8C%97%E8%B7%AF240%E8%99%9F' title="連結另開視窗" target='_blank'>10548 臺北市松山區敦化北路240號 <i class="fa fa-map-marker"></i></a></span>
+                    <br />
+                    <span>最佳解析度：1366*768</span>
+                    <br />
+                </div>
+                <div class="l-footer__info__others">
+                    <div class="l-footer__info__accessible">
+                        <a title="無障礙A+標章" href="http://www.handicap-free.nat.gov.tw/Applications/Detail/37834?category=20160706121644" target="_blank">
+                            <img src="/Content/ch/images/logo-accessible.jpg" alt="無障礙A+標章" />
+                        </a>
+                        <a title="我的E政府" href="http://www.gov.tw/" target="_blank">
+                            <img src="/Content/ch/images/img-gov.png" alt="我的E政府" />
+                        </a>
+                    </div>
+                    <span>更新日期：<span id="main_lblSiteUpdateDate">105-11-07</span></span><br />
+                    <span>瀏覽人次：<span id="main_lblSiteCounter">937173</span></span><br />
+                    <span><a href="/Privacy?node=ec63435a-6b3b-403b-83fc-f7268b25e6db">隱私權宣告</a> <span style="color: #f9bd5f;">|  </span>
+                        <a href="/InfoSecurity?node=de497833-9f60-4699-b98d-8ead18f243fb">資訊安全政策</a><br />
+                        <a href="/opendataDeclare">政府網站資料開放宣告</a></span>
+                    <span style="color: #f9bd5f;">|  </span>
+                    <a href="/page?node=daae681c-f945-4b6c-aa40-ba24d2455cdc">災害緊急聯絡電話</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadSocialShare, {"_addFbScript":false,"_addGoogleScript":false,"_addLinkedInScript":false,"_addPinterestScript":false,"_addTwitterScript":false,"_addYammerScript":false,"_locale":"zh_TW","_uniqueId":"ctl00$ctl00$ctl00$main$main$sclShare","clientStateFieldID":"ctl00_ctl00_ctl00_main_main_sclShare_ClientState","mainButtons":"[['ShareOnFacebook','','', '470', '470', '', ''],['ShareOnGooglePlus','','', '470', '470', '', ''],['ShareOnPinterest','','', '470', '470', '', ''],['ShareOnTwitter','','', '470', '470', '', '']]"}, null, null, $get("ctl00_ctl00_ctl00_main_main_sclShare"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadListView, {"UniqueID":"ctl00$ctl00$ctl00$main$main$content$lsvList","_allowPaging":true,"_clientSettings":{"DataBinding":{"ItemPlaceHolderID":"ctl00_ctl00_ctl00_main_main_content_lsvList_itemPlaceholder","DataService":{}}},"_virtualItemCount":22,"clientStateFieldID":"ctl00_ctl00_ctl00_main_main_content_lsvList_ClientState","renderMode":1}, null, null, $get("ctl00_ctl00_ctl00_main_main_content_lsvList"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>

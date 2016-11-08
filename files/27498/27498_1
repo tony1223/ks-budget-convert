@@ -1,0 +1,293 @@
+
+	<?xml version="1.0"  encoding="utf-8" ?>
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="zh-TW" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="urn:user-namespace-here" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>預算書 - 明陽中學</title>
+<link href="xslGip/unit075/css/lp.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit075/css/common.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit075/css/style.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit075/css/mp.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit075/css/changeHeader.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit075/css/fontSizeS.css" rel="stylesheet" type="text/css" title="size1"/>
+<link href="xslGip/unit075/css/fontSizeM.css" rel="alternate stylesheet" type="text/css" title="size2"/>
+<link href="xslGip/unit075/css/fontSizeL.css" rel="alternate stylesheet" type="text/css" title="size3"/>
+<script type="text/javascript" src="xslGip/unit075/css/styleswitcher.js"></script>
+<script type="text/javascript" src="xslGip/unit075/css/multimenu.js"></script>
+<script type="text/javascript" src="xslGip/unit075/css/showtab.js"></script>
+<script type="text/javascript" src="xslGip/unit075/css/activeAD.js"></script> 
+<link rel="govtwsimpledc.xsd" href="http://www.gov.tw/schema/dc/" title="Dublin Core"/>
+<meta name="DC.Title" content="預算書" />
+<meta name="DC.Creator" content="法務部" />
+<meta name="DC.Subject" content="預算書" />
+<meta name="DC.Description" content="預算書" />
+<meta name="DC.Contributor" content="法務部" />
+<meta name="DC.Type" content="文字" />
+<meta name="DC.Format" content="text" />
+<meta name="DC.Source" content="法務部" />
+<meta name="DC.Language" content="中文" />
+<meta name="DC.coverage.t.min" content="2015-03-09" />
+<meta name="DC.coverage.t.max" content="2035-03-09" />
+<meta name="DC.Publisher" content="法務部" />
+<meta name="DC.Date" content="2016-11-07" />
+<meta name="DC.Identifier" content="A11000000F" />
+<meta name="DC.Relation" content="GIP-moj" />
+<meta name="DC.Rights" content="法務部" />
+<meta name="Category.Theme" content="" />
+<meta name="Category.Cake" content="" />
+<meta name="Category.Service" content="" />
+<meta name="Keywords" content="" />
+ </head>
+<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+<script>$(function(){$('#tabindex_36660').children('a').focus();});</script>
+<body>
+<div id="all">
+<div id="WebTitle" xmlns="">
+<div class="logofont"><a href="mp.asp?mp=075" title="回明陽中學首頁"><img src="xslGip/unit075/images/%E6%98%8E%E9%99%BD%E4%B8%AD%E5%AD%B8%E8%A1%A8%E9%A0%AD_20110720164746.GIF" alt="明陽中學" border="0"></a></div>
+<div class="ETitle"></div>
+</div>
+<div id="TopLink" xmlns="">
+<div class="TopLink_top"></div>
+<div class="TopLink_center"><span><a title="上欄" accesskey="U" href="#">:::</a></span><span><a title="網站導覽" href="sitemap.asp?mp=075">網站導覽</a></span><P><A title=English href="http://www.myg.moj.gov.tw/mp169.html">English</A>&nbsp; <A title=Chinese href="http://www.myg.moj.gov.tw/mp075.html">中文版</A>&nbsp; <A title=行動版(另開視窗)(另開視窗) href="http://www.myg.moj.gov.tw/mp0751.html" target=_gipNW>行動版</A>&nbsp; <A title=到明陽中學首頁 href="http://www.myg.moj.gov.tw/mp075.html">明陽中學首頁</A>&nbsp; <A title=意見信箱 href="http://www.myg.moj.gov.tw/bbssp.asp?xdurl=bossmail.asp&mp=075">意見信箱</A>&nbsp; </P></div>
+<div class="TopLink_bottom"></div>
+</div>
+<div class="fontSize" title="瀏覽字體設定" xmlns=""><ul>
+<li class="fontS"><a cat="font" href="xslGip/unit075/css/fontSizeS.css" onclick="setActiveStyleSheet('size1'); location.reload(); return false;" onkeypress="setActiveStyleSheet('size1'); location.reload(); return false;"><img src="images/null.gif" alt="小" title="小"></a></li>
+<li class="fontM"><a cat="font" href="xslGip/unit075/css/fontSizeM.css" onclick="setActiveStyleSheet('size2'); location.reload(); return false;" onkeypress="setActiveStyleSheet('size2'); location.reload(); return false;"><img src="images/null.gif" alt="中" title="中"></a></li>
+<li class="fontL"><a cat="font" href="xslGip/unit075/css/fontSizeL.css" onclick="setActiveStyleSheet('size3'); location.reload(); return false;" onkeypress="setActiveStyleSheet('size3'); location.reload(); return false;"><img src="images/null.gif" alt="大" title="大"></a></li>
+</ul>
+</div>
+<noscript xmlns="">當SCRIPT關閉時，選擇字型大小，請參考：IE6請利用鍵盤按住ALT鍵 + V → X → (G)最大(L)較大(M)中(S)較小(A)小，來選擇適合您的文字大小,而IE7、IE8或Firefox瀏覽器則可利用鍵盤 Ctrl + (+)放大 (-)縮小來改變字型大小。</noscript>
+<table id="Layout" summary="table for layout">
+<tr>
+<td class="Left">
+<a title="主選單" class="Accesskey" accesskey="L" href="#">:::</a>
+<div class="Lefttop"></div>
+<div class="mlmenu vertical menubg inaccesible">
+<div id="Menu" xmlns="">
+<div class="Menu_head"></div>
+<div class="Menu_body">
+<ul id="vertnav2">
+<li id="tabindex_36660" name="tabindex_36660"><a href="lp.asp?ctNode=36660&amp;CtUnit=14830&amp;BaseDSD=7&amp;mp=075" title="預算書">預算書</a></li>
+<li id="tabindex_36661" name="tabindex_36661"><a href="lp.asp?ctNode=36661&amp;CtUnit=14831&amp;BaseDSD=7&amp;mp=075" title="決算書">決算書</a></li>
+<li id="tabindex_22939" name="tabindex_22939"><a href="lp.asp?ctNode=22939&amp;CtUnit=4204&amp;BaseDSD=7&amp;mp=075" title="預算與決算">預算與決算</a></li>
+<li id="tabindex_22940" name="tabindex_22940"><a href="lp.asp?ctNode=22940&amp;CtUnit=4205&amp;BaseDSD=7&amp;mp=075" title="會計月報">會計月報</a></li>
+<li id="tabindex_24828" name="tabindex_24828"><a href="lp.asp?ctNode=24828&amp;CtUnit=7432&amp;BaseDSD=7&amp;mp=075" title="財務責任規定">財務責任規定</a></li>
+</ul>
+<ul id="vertnav" style="display: none;"></ul>
+</div>
+<div class="Menu_foot"></div>
+</div><IMG alt=核心價值_gif src="/site/moj/public/MMO/myg/8.gif" MMOID="106495"></div>
+<div class="Leftbottom"></div>
+</td>
+<td class="Center">
+<a title="主要內容區" class="Accesskey" accesskey="C" href="#">:::</a>
+<div class="Centertop"><img src="xslGip/unit075/images/center_topleft.gif" alt="*"/></div>
+<div class="Centermiddle">
+<div id="PageTitle" xmlns="">預算書</div>
+<div id="Path" xmlns="">
+		瀏覽路徑：<a title="首頁" href="mp.asp?mp=075">首頁</a><img src="xslGip/unit075/images/icom_menu_a01.gif" alt="*"><a href="np.asp?ctNode=22934&mp=075" title="資訊公開服務">資訊公開服務</a><img src="xslGip/unit075/images/icom_menu_a01.gif" alt="*"><a href="np.asp?ctNode=22936&mp=075" title="會計資訊">會計資訊</a><img src="xslGip/unit075/images/icom_menu_a01.gif" alt="*"><a href="np.asp?ctNode=36660&mp=075" title="預算書">預算書</a></div>
+<div id="Page" xmlns="">
+		共<span class="Number">1</span>頁，<span class="Number">15</span>筆資料
+		
+		到第
+		<select name="pickPage" id="pickPage" onChange="pageChange()"><script>
+				var totPage = 1;
+				var qURL = "CtNode=36660&CtUnit=14830&BaseDSD=7&mp=075";
+				
+					for ( xi=1; xi<=totPage; xi++ )
+						document.write("<option value=" + xi + ">" + xi + "</option>");
+					function pageChange() {
+						goPage(pickPage.value);
+					}
+					function goPage(nPage) {
+						document.location.href= "lp.asp?" + qURL + "&nowPage=" + nPage + "&pagesize=" + perPage.value
+					}
+					function perPageChange() {
+						document.location.href= "lp.asp?" + qURL + "&nowPage=" + pickPage.value + "&pagesize=" + perPage.value
+					}
+				</script><noscript>此為資料筆數計算及跳頁，可利用上一頁、下一頁操作，不影響頁面瀏覽</noscript></select>頁
+
+		
+
+		每頁顯示
+		<select name="perPage" id="perPage" onChange="perPageChange()"><option value="15">15</option>
+<option value="20">20</option>
+<option value="30">30</option></select>筆
+
+		<script>
+			pickPage.value = 1;
+			perPage.value = 15;
+		</script><noscript><br>每頁15筆,目前在第1頁;
+		        <br><A href="lp.asp?CtNode=36660&CtUnit=14830&BaseDSD=7&mp=075&nowPage=1&pagesize=15" title="每頁15筆">改為每頁15筆</A>|<A href="lp.asp?CtNode=36660&CtUnit=14830&BaseDSD=7&mp=075&nowPage=1&pagesize=20" title="每頁20筆">改為每頁20筆</A>|<A href="lp.asp?CtNode=36660&CtUnit=14830&BaseDSD=7&mp=075&nowPage=1&pagesize=30" title="每頁30筆">改為每頁30筆</A>|<br><A href="lp.asp?CtNode=36660&CtUnit=14830&BaseDSD=7&mp=075&nowPage=1&pagesize=15" title="到第1頁">到第1頁</A>|</noscript>
+</div><div id="lpmatter" xmlns="">
+<ol>
+<li>
+<h1><a href="HitCounter.asp?xItem=421986&mp=075" title="105年度法定預算書PDF.pdf">105年度法定預算書PDF</a></h1>
+</li>
+<li>
+<h1><a href="HitCounter.asp?xItem=421987&mp=075" title="105年度法定預算書XML">105年度法定預算書XML</a></h1>
+</li>
+<li>
+<h1><a href="ct.asp?xItem=379863&ctNode=36660&mp=075" title="104年度預算案XML">104年度預算案XML</a></h1>
+</li>
+<li>
+<h1><a href="ct.asp?xItem=379864&ctNode=36660&mp=075" title="104年度法定預算書XML">104年度法定預算書XML</a></h1>
+</li>
+<li>
+<h1><a href="HitCounter.asp?xItem=379492&mp=075" title="104年度法定預算書.pdf">104年度法定預算書</a></h1>
+</li>
+<li>
+<h1><a href="HitCounter.asp?xItem=379496&mp=075" title="104年度法定預算書-EXCEL.xls">104年度法定預算書-EXCEL</a></h1>
+</li>
+<li>
+<h1><a href="HitCounter.asp?xItem=361029&mp=075" title="104年度預算案.pdf">104年度預算案</a></h1>
+</li>
+<li>
+<h1><a href="HitCounter.asp?xItem=361043&mp=075" title="103年度法定預算書.pdf">103年度法定預算書</a></h1>
+</li>
+<li>
+<h1><a href="HitCounter.asp?xItem=361049&mp=075" title="103年度預算案.pdf">103年度預算案</a></h1>
+</li>
+<li>
+<h1><a href="HitCounter.asp?xItem=361210&mp=075" title="102年度法定預算書.pdf">102年度法定預算書</a></h1>
+</li>
+<li>
+<h1><a href="HitCounter.asp?xItem=361211&mp=075" title="102年度預算案.pdf">102年度預算案</a></h1>
+</li>
+<li>
+<h1><a href="HitCounter.asp?xItem=361212&mp=075" title="101年度預算書.pdf">101年度預算書</a></h1>
+</li>
+<li>
+<h1><a href="HitCounter.asp?xItem=361214&mp=075" title="100年度預算書.pdf">100年度預算書</a></h1>
+</li>
+<li>
+<h1><a href="HitCounter.asp?xItem=361218&mp=075" title="99年度預算書.pdf">99年度預算書</a></h1>
+</li>
+<li>
+<h1><a href="HitCounter.asp?xItem=361221&mp=075" title="95年度預算書">95年度預算書</a></h1>
+</li>
+</ol>
+</div></div>
+<div class="Centerbottom"><img src="xslGip/unit075/images/center_bottomleft.gif" alt="*"/></div>
+</td>
+</tr>
+</table>
+<div class="sildeCtrl" xmlns="">
+<ul>
+<li><a href="np.asp?ctNode=7557&amp;mp=075" title="電子公佈欄">電子公佈欄</a><ul>
+<li><a href="lp.asp?ctNode=7558&amp;CtUnit=71&amp;BaseDSD=7&amp;mp=075" title="電子公佈欄">電子公佈欄</a></li>
+<li><a href="lp.asp?ctNode=24599&amp;CtUnit=7276&amp;BaseDSD=7&amp;mp=075" title="採購資訊">採購資訊</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=34773&amp;mp=075" title="未成年犯輔導專區">未成年犯輔導專區</a><ul>
+<li><a href="lp.asp?ctNode=34774&amp;CtUnit=13579&amp;BaseDSD=7&amp;mp=075" title="未成年犯輔導專區">未成年犯輔導專區</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=41245&amp;mp=075" title="宣導專區">宣導專區</a><ul>
+<li><a href="lp.asp?ctNode=41246&amp;CtUnit=16740&amp;BaseDSD=7&amp;mp=075" title="政令宣導">政令宣導</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=7545&amp;mp=075" title="學校簡介">學校簡介</a><ul>
+<li><a href="np.asp?ctNode=21911&amp;mp=075" title="成立宗旨">成立宗旨</a></li>
+<li><a href="np.asp?ctNode=7546&amp;mp=075" title="歷史沿革">歷史沿革</a></li>
+<li><a href="np.asp?ctNode=7547&amp;mp=075" title="校長介紹">校長介紹</a></li>
+<li><a href="np.asp?ctNode=14733&amp;mp=075" title="校長信箱">校長信箱</a></li>
+<li><a href="np.asp?ctNode=14481&amp;mp=075" title="組織架構">組織架構</a></li>
+<li><a href="np.asp?ctNode=16964&amp;mp=075" title="行政職掌">行政職掌</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=7552&amp;mp=075" title="為民服務">為民服務</a><ul>
+<li><a href="lp.asp?ctNode=31817&amp;CtUnit=11522&amp;BaseDSD=7&amp;mp=075" title="為民服務白皮書 ">為民服務白皮書 </a></li>
+<li><a href="lp.asp?ctNode=32225&amp;CtUnit=11837&amp;BaseDSD=7&amp;mp=075" title="單一申辦窗口 ">單一申辦窗口 </a></li>
+<li><a href="lp.asp?ctNode=40878&amp;CtUnit=16483&amp;BaseDSD=7&amp;mp=075" title="接見申請業務">接見申請業務</a></li>
+<li><a href="lp.asp?ctNode=19516&amp;CtUnit=3792&amp;BaseDSD=7&amp;mp=075" title="答 客 問">答 客 問</a></li>
+<li><a href="lp.asp?ctNode=22354&amp;CtUnit=5470&amp;BaseDSD=7&amp;mp=075" title="下載專區">下載專區</a></li>
+<li><a href="np.asp?ctNode=7553&amp;mp=075" title="連絡方式">連絡方式</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=14626&amp;mp=075" title="明陽集錦">明陽集錦</a><ul>
+<li><a href="lp.asp?ctNode=14726&amp;CtUnit=1256&amp;BaseDSD=7&amp;mp=075" title="活動寫真">活動寫真</a></li>
+<li><a href="lp.asp?ctNode=14627&amp;CtUnit=1257&amp;BaseDSD=7&amp;mp=075" title="藝術櫥窗">藝術櫥窗</a></li>
+<li><a href="lp.asp?ctNode=14629&amp;CtUnit=1258&amp;BaseDSD=7&amp;mp=075" title="愛的補給站">愛的補給站</a></li>
+<li><a href="lp.asp?ctNode=22054&amp;CtUnit=5479&amp;BaseDSD=7&amp;mp=075" title="校園景色">校園景色</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=29457&amp;mp=075" title="明陽季刊">明陽季刊</a><ul>
+<li><a href="lp.asp?ctNode=44816&amp;CtUnit=18124&amp;BaseDSD=7&amp;mp=075" title="明陽季刊第56期(另開新視窗)" target="_nwGip">明陽季刊第56期</a></li>
+<li><a href="lp.asp?ctNode=43650&amp;CtUnit=17818&amp;BaseDSD=7&amp;mp=075" title="明陽季刊第55期">明陽季刊第55期</a></li>
+<li><a href="lp.asp?ctNode=43649&amp;CtUnit=17817&amp;BaseDSD=7&amp;mp=075" title="明陽季刊第54期">明陽季刊第54期</a></li>
+<li><a href="lp.asp?ctNode=42183&amp;CtUnit=17075&amp;BaseDSD=7&amp;mp=075" title="明陽季刊第53期">明陽季刊第53期</a></li>
+<li><a href="lp.asp?ctNode=41991&amp;CtUnit=16966&amp;BaseDSD=7&amp;mp=075" title="明陽季刊第52期(另開新視窗)" target="_nwGip">明陽季刊第52期</a></li>
+<li><a href="lp.asp?ctNode=41141&amp;CtUnit=16661&amp;BaseDSD=7&amp;mp=075" title="明陽季刊第51期">明陽季刊第51期</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=14938&amp;mp=075" title="技訓成果">技訓成果</a><ul>
+<li><a href="lp.asp?ctNode=22996&amp;CtUnit=6155&amp;BaseDSD=7&amp;mp=075" title="相關文件">相關文件</a></li>
+<li><a href="lp.asp?ctNode=15060&amp;CtUnit=1402&amp;BaseDSD=7&amp;mp=075" title="小吃班">小吃班</a></li>
+<li><a href="lp.asp?ctNode=14939&amp;CtUnit=1349&amp;BaseDSD=7&amp;mp=075" title="機車修護">機車修護</a></li>
+<li><a href="lp.asp?ctNode=15057&amp;CtUnit=1401&amp;BaseDSD=7&amp;mp=075" title="汽車修護">汽車修護</a></li>
+<li><a href="np.asp?ctNode=15300&amp;mp=075" title="烘焙班">烘焙班</a></li>
+<li><a href="lp.asp?ctNode=32366&amp;CtUnit=11935&amp;BaseDSD=7&amp;mp=075" title="中餐烹調">中餐烹調</a></li>
+<li><a href="lp.asp?ctNode=33642&amp;CtUnit=12857&amp;BaseDSD=7&amp;mp=075" title="餐旅服務">餐旅服務</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=30202&amp;mp=075" title="出校生專區">出校生專區</a><ul>
+<li><a href="lp.asp?ctNode=30203&amp;CtUnit=10395&amp;BaseDSD=7&amp;mp=075" title="出校生專區">出校生專區</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=7549&amp;mp=075" title="民眾導覽">民眾導覽</a><ul>
+<li><a href="np.asp?ctNode=7550&amp;mp=075" title="機關位置圖">機關位置圖</a></li>
+<li><a href="np.asp?ctNode=7551&amp;mp=075" title="接見室位置圖">接見室位置圖</a></li>
+<li><a href="lp.asp?ctNode=25055&amp;CtUnit=7577&amp;BaseDSD=2&amp;mp=075" title="接見寄物規定">接見寄物規定</a></li>
+</ul>
+</li>
+<li><a href="lp.asp?ctNode=31319&amp;CtUnit=8523&amp;BaseDSD=7&amp;mp=075" title="檔案專區">檔案專區</a></li>
+<li><a href="np.asp?ctNode=32587&amp;mp=075" title="請託關說登錄查察">請託關說登錄查察</a><ul>
+<li><a href="lp.asp?ctNode=32589&amp;CtUnit=12098&amp;BaseDSD=7&amp;mp=075" title="請託關說登錄查察">請託關說登錄查察</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=34768&amp;mp=075" title="政風園地">政風園地</a><ul>
+<li><a href="lp.asp?ctNode=34770&amp;CtUnit=8836&amp;BaseDSD=7&amp;mp=075" title="政風園地">政風園地</a></li>
+<li><a href="lp.asp?ctNode=34769&amp;CtUnit=11954&amp;BaseDSD=7&amp;mp=075" title="遊說資訊專區 ">遊說資訊專區 </a></li>
+</ul>
+</li>
+<li><a href="lp.asp?ctNode=27274&amp;CtUnit=8931&amp;BaseDSD=7&amp;mp=075" title="衛教活動">衛教活動</a></li>
+<li><a href="np.asp?ctNode=22934&amp;mp=075" title="資訊公開服務">資訊公開服務</a><ul>
+<li><a href="lp.asp?ctNode=44490&amp;CtUnit=17863&amp;BaseDSD=7&amp;mp=075" title="受刑人子女就學補助相關資訊">受刑人子女就學補助相關資訊</a></li>
+<li><a href="lp.asp?ctNode=25563&amp;CtUnit=7884&amp;BaseDSD=7&amp;mp=075" title="行政計劃">行政計劃</a></li>
+<li><a href="lp.asp?ctNode=25564&amp;CtUnit=7886&amp;BaseDSD=7&amp;mp=075" title="研究報告">研究報告</a></li>
+<li><a href="np.asp?ctNode=22937&amp;mp=075" title="統計資訊">統計資訊</a></li>
+<li><a href="np.asp?ctNode=22936&amp;mp=075" title="會計資訊">會計資訊</a></li>
+<li><a href="lp.asp?ctNode=31611&amp;CtUnit=11351&amp;BaseDSD=7&amp;mp=075" title="明陽中學個人資料檔案">明陽中學個人資料檔案</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=25340&amp;mp=075" title="重大政策">重大政策</a></li>
+<li><a href="lp.asp?ctNode=25341&amp;CtUnit=7736&amp;BaseDSD=7&amp;mp=075" title="就業資訊">就業資訊</a></li>
+</ul>
+</div>
+<div class="Bottomtop" xmlns=""><img src="xslGip/unit075/images/bottom_topl.gif" alt="*"></div>
+<div class="Bottommiddle" xmlns="">
+<div id="Bottom"><P align=center><A title=無障礙網站 href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20160826105404"><IMG border=0 alt=通過A+等級無障礙網頁檢測 src="http://www.moj.gov.tw/site/moj/public/MMO/myg/aplus.jpg" MMOID="82238"></A> <SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: #333333; FONT-SIZE: 10pt; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA" lang=EN-US>│ </SPAN><SPAN style="FONT-FAMILY: 新細明體; COLOR: #cc6600; FONT-SIZE: 10pt; TEXT-DECORATION: none; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-bidi-font-family: Times New Roman; mso-ascii-font-family: sөũ; mso-hansi-font-family: sөũ; text-underline: none" lang=EN-US title=""><A title=隱私權保護宣告(另開視窗) href="http://www.myg.moj.gov.tw/content.asp?CuItem=109369" target=_gipNW><SPAN style="FONT-FAMILY: 新細明體; COLOR: #cc6600; TEXT-DECORATION: none; mso-ascii-font-family: sөũ; mso-hansi-font-family: sөũ; text-underline: none" lang=EN-US><SPAN title=隱私權保護宣告(另開視窗) target="_gipNW"><SPAN lang=EN-US>隱私權保護宣告</SPAN></SPAN></SPAN></A></SPAN> <SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: #333333; FONT-SIZE: 10pt; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA" lang=EN-US>│ </SPAN><SPAN style="FONT-FAMILY: 新細明體; COLOR: #cc6600; FONT-SIZE: 10pt; TEXT-DECORATION: none; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-bidi-font-family: Times New Roman; mso-ascii-font-family: sөũ; mso-hansi-font-family: sөũ; text-underline: none" lang=EN-US title=""><A title=資訊安全政策宣告(另開視窗) href="http://www.moj.gov.tw/np.asp?ctNode=27458" target=_gipNW><SPAN style="FONT-FAMILY: 新細明體; COLOR: #cc6600; TEXT-DECORATION: none; mso-ascii-font-family: sөũ; mso-hansi-font-family: sөũ; text-underline: none" lang=EN-US><SPAN title=資訊安全政策宣告(另開視窗) target="_gipNW"><SPAN lang=EN-US title=(另開視窗) target="_gipNW">資訊安全政策宣告</SPAN></SPAN></SPAN></A></SPAN> <SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: #333333; FONT-SIZE: 10pt; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA" lang=EN-US>│ </SPAN><SPAN style="FONT-FAMILY: 新細明體; COLOR: #cc6600; FONT-SIZE: 10pt; TEXT-DECORATION: none; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-bidi-font-family: Times New Roman; mso-ascii-font-family: sөũ; mso-hansi-font-family: sөũ; text-underline: none" lang=EN-US title=""><A title=單一申辦窗口(另開視窗) href="http://eservice.moj.gov.tw/eservice/index.asp" target=_gipNW><SPAN style="FONT-FAMILY: 新細明體; COLOR: #cc6600; TEXT-DECORATION: none; mso-ascii-font-family: sөũ; mso-hansi-font-family: sөũ; text-underline: none" lang=EN-US><SPAN title=單一申辦窗口(另開視窗) target="_gipNW"><SPAN lang=EN-US>單一申辦窗口</SPAN></SPAN></SPAN></A></SPAN> <SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: #333333; FONT-SIZE: 10pt; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA" lang=EN-US>│&nbsp;</SPAN><SPAN style="FONT-FAMILY: 新細明體; COLOR: #cc6600; FONT-SIZE: 10pt; TEXT-DECORATION: none; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-bidi-font-family: Times New Roman; mso-ascii-font-family: sөũ; mso-hansi-font-family: sөũ; text-underline: none" lang=EN-US title=""><A title=機關位置圖(另開視窗) href="mailto:mygh@mail.moj.gov.tw" target=_gipNW><SPAN style="FONT-FAMILY: 新細明體; COLOR: #cc6600; TEXT-DECORATION: none; mso-ascii-font-family: sөũ; mso-hansi-font-family: sөũ; text-underline: none" lang=EN-US><SPAN title=機關位置圖(另開視窗) target="_gipNW"><SPAN lang=EN-US title=(另開視窗)(另開視窗) target="_gipNW">民意信箱</SPAN></SPAN></SPAN></A></SPAN> <SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: #333333; FONT-SIZE: 10pt; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA" lang=EN-US>│ </SPAN><SPAN style="FONT-FAMILY: 新細明體; COLOR: #cc6600; FONT-SIZE: 10pt; TEXT-DECORATION: none; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-bidi-font-family: Times New Roman; mso-ascii-font-family: sөũ; mso-hansi-font-family: sөũ; text-underline: none" lang=EN-US title=""><A title=明陽中學網站(http://www.myg.moj.gov.tw/) href="http://www.moj.gov.tw/content.asp?CuItem=401719" target=_gipNW><SPAN style="FONT-FAMILY: 新細明體; COLOR: #cc6600; TEXT-DECORATION: none; mso-ascii-font-family: sөũ; mso-hansi-font-family: sөũ; text-underline: none" lang=EN-US><SPAN title=明陽中學網站(http://www.myg.moj.gov.tw/) target="_gipNW"><SPAN lang=EN-US>資料開放宣告</SPAN></SPAN></SPAN></A></SPAN> <SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: #333333; FONT-SIZE: 10pt; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA" lang=EN-US>│</SPAN><SPAN style="FONT-FAMILY: 新細明體; COLOR: #cc6600; FONT-SIZE: 10pt; TEXT-DECORATION: none; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-bidi-font-family: Times New Roman; mso-ascii-font-family: sөũ; mso-hansi-font-family: sөũ; text-underline: none" lang=EN-US title=""><BR></SPAN></FONT></SPAN></SPAN>本網站全部圖文係屬明陽中學，非經機關正式書面同意，不得將全部或部分內容，轉載於任何形式媒體<BR><FONT face=新細明體><SPAN style="FONT-FAMILY: sөũ; COLOR: #333333; FONT-SIZE: 12pt; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-bidi-font-family: 'Times New Roman'" lang=EN-US>©</SPAN></FONT>2005.版權所有，轉載必究，瀏覽器建議使用5.0以上版本，最佳觀看解析度1024<SPAN style="FONT-FAMILY: sөũ; COLOR: #333333; FONT-SIZE: 14pt; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-bidi-font-family: 'Times New Roman'" lang=EN-US><FONT face=新細明體>x</FONT></SPAN>768<BR>機關地址：82444高雄市燕巢區橫山里正德新村六號 總機代表號：(07)615-2115 傳真電話：(07) 615-3064</P>
+<P title=(另開視窗) align=center target="_gipNW"><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: #333333; FONT-SIZE: 10pt; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA" lang=EN-US>│</SPAN><SPAN style="FONT-FAMILY: 新細明體; COLOR: #cc6600; FONT-SIZE: 10pt; TEXT-DECORATION: none; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-bidi-font-family: Times New Roman; mso-ascii-font-family: sөũ; mso-hansi-font-family: sөũ; text-underline: none" lang=EN-US title=""><A title=機關位置圖(另開視窗) href="http://www.myg.moj.gov.tw/ct.asp?xItem=287155&CtNode=7550&mp=075" target=_gipNW><SPAN style="FONT-FAMILY: 新細明體; COLOR: #cc6600; TEXT-DECORATION: none; mso-ascii-font-family: sөũ; mso-hansi-font-family: sөũ; text-underline: none" lang=EN-US><SPAN title=機關位置圖(另開視窗) target="_gipNW"><SPAN lang=EN-US>機關位置圖</SPAN></SPAN></SPAN></A></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: #333333; FONT-SIZE: 10pt; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA" lang=EN-US>│&nbsp;<SPAN style="FONT-FAMILY: 新細明體; COLOR: #cc6600; FONT-SIZE: 10pt; TEXT-DECORATION: none; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-bidi-font-family: Times New Roman; mso-ascii-font-family: sөũ; mso-hansi-font-family: sөũ; text-underline: none" lang=EN-US title=""><SPAN style="FONT-FAMILY: 新細明體; COLOR: #cc6600; TEXT-DECORATION: none; mso-ascii-font-family: sөũ; mso-hansi-font-family: sөũ; text-underline: none" lang=EN-US><SPAN title=單一申辦窗口(另開視窗) target="_gipNW"><SPAN lang=EN-US><A title=(另開視窗) href="https://www.google.com.tw/maps/place/%E6%98%8E%E9%99%BD%E5%9C%8B%E4%B8%AD/@22.7599125,120.3720169,17z/data=!3m1!4b1!4m2!3m1!1s0x346e1191f6f570f1:0x4db26291d14b44af" target=_gipNW>Google地圖</A></SPAN></SPAN></SPAN></SPAN></SPAN> <SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: #333333; FONT-SIZE: 10pt; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA" lang=EN-US>│ </SPAN><SPAN style="FONT-FAMILY: 新細明體; COLOR: #cc6600; FONT-SIZE: 10pt; TEXT-DECORATION: none; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-bidi-font-family: Times New Roman; mso-ascii-font-family: sөũ; mso-hansi-font-family: sөũ; text-underline: none" lang=EN-US title=""><A title=單一申辦窗口(另開視窗) href="https://www.google.com.tw/maps/place/%E6%98%8E%E9%99%BD%E5%9C%8B%E4%B8%AD/@22.759766,120.3720021,3a,75y,5h,90t/data=!3m7!1e1!3m5!1sn-rONW9LsAlTpN8crkQgqg!2e0!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fcb_client%3Dmaps_sv.tactile%26output%3Dthumbnail%26thumb%3D2%26panoid%3Dn-rONW9LsAlTpN8crkQgqg%26w%3D374%26h%3D75%26yaw%3D5%26pitch%3D0%26thumbfov%3D120%26ll%3D22.759766,120.372002!7i13312!8i6656!4m2!3m1!1s0x346e1191f6f570f1:0x4db26291d14b44af!6m1!1e1" target=_gipNW><SPAN style="FONT-FAMILY: 新細明體; COLOR: #cc6600; TEXT-DECORATION: none; mso-ascii-font-family: sөũ; mso-hansi-font-family: sөũ; text-underline: none" lang=EN-US><SPAN title=單一申辦窗口(另開視窗) target="_gipNW"><SPAN lang=EN-US title=(另開視窗) target="_gipNW">Google街景圖</SPAN></SPAN></SPAN></A></SPAN> <SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: #333333; FONT-SIZE: 10pt; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA" lang=EN-US>│&nbsp;</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: #333333; FONT-SIZE: 10pt; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA" lang=EN-US><SPAN style="FONT-FAMILY: 新細明體; COLOR: #cc6600; FONT-SIZE: 10pt; TEXT-DECORATION: none; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-bidi-font-family: Times New Roman; mso-ascii-font-family: sөũ; mso-hansi-font-family: sөũ; text-underline: none" lang=EN-US title=""><A title=明陽中學網站(http://www.myg.moj.gov.tw/) href="http://www.myg.moj.gov.tw/" target=_gipNW><SPAN style="FONT-FAMILY: 新細明體; COLOR: #cc6600; TEXT-DECORATION: none; mso-ascii-font-family: sөũ; mso-hansi-font-family: sөũ; text-underline: none" lang=EN-US><SPAN title=明陽中學網站(http://www.myg.moj.gov.tw/) target="_gipNW"><SPAN lang=EN-US>本校網址</SPAN></SPAN></SPAN></A></SPAN>&nbsp;</SPAN> <SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: #333333; FONT-SIZE: 10pt; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA" lang=EN-US>│<A title=明陽中學粉絲團 href="https://www.facebook.com/pages/%E6%98%8E%E9%99%BD%E4%B8%AD%E5%AD%B8/375887665954870?fref=ts
+"><IMG style="WIDTH: 114px; HEIGHT: 34px" alt=明陽粉絲團圖示 src="http://www.moj.gov.tw/site/moj/public/MMO/myg/明陽中學粉絲團mark.jpg" width=843 height=436 MMOID="402522"></SPAN><SPAN style="FONT-FAMILY: 新細明體; COLOR: #cc6600; FONT-SIZE: 10pt; TEXT-DECORATION: none; mso-fareast-font-family: 新細明體; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-bidi-font-family: Times New Roman; mso-ascii-font-family: sөũ; mso-hansi-font-family: sөũ; text-underline: none" lang=EN-US title=""><BR></SPAN><BR></P></div>
+</div>
+<div class="Bottombottom" xmlns=""><img src="xslGip/unit075/images/bottom_bottoml.gif" alt="*"></div>
+</div>
+</body>
+</html>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38161154-1']);
+  _gaq.push(['_setDomainName', 'myg.moj.gov.tw']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>

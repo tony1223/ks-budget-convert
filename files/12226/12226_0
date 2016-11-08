@@ -1,0 +1,1408 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/content.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5" />
+<meta name="Description" content="種苗改良繁殖場, 新社花海, 種苗場, 種苗, 基因改造檢測, 種苗供應" />
+<meta name="keywords" content="種苗改良繁殖場, 新社花海, 種苗場, 種苗, 基因改造檢測, 種苗供應">
+<meta name="title" content="種苗改良繁殖場 - 年度預算">
+
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>種苗改良繁殖場 - 年度預算</title>
+<!-- InstanceEndEditable -->
+
+<link href="css/real_default.css" rel="stylesheet" type="text/css">
+
+<link href="css/real_css.css" rel="stylesheet" type="text/css" id="cssfile">
+<link href="css/fat-footer.css" rel="stylesheet" type="text/css" />
+
+<script src="images_default/style2009/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="js/jquery.js" type="text/javascript"></script>
+<script src="js/jquery.cookie.js" type="text/javascript"></script>
+<script src="js/change_css.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="js/jquery-ui.css">
+<script src="js/jquery-ui.js"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+
+		/*顯示自動完成提示字*/
+		$("#keyword_q").autocomplete({
+			source: function(request, response) {
+				$.ajax({
+					url: "http://www.tss.gov.tw/search_keyword_save.php",
+					dataType: "json",
+					data: {
+						style: "tips",
+						website: "1",
+						term: request.term
+					},
+					success: function(data) {
+						response(data);
+					}
+				});
+			},
+			minLength: 0
+		});	
+		
+		
+	  $(".block20141022-bu-close").click(function( event, a, b ) {
+		  
+		  //模擬click
+		  if(event.status=="y"){
+			  		  }
+		  
+		  if($("#fat-footer").is(':visible')){//是顯示時，要關閉
+			  var set_fat_footer='n';//要保持關閉
+			  
+			  //開啟按鈕
+			  $("#block20141022-btn").css({
+				"background-image": "url(../img_fat_footer/block20141022-bu-open.gif)",
+				"height": "30px"
+			  });
+			  
+			  $(".block20141022-bu-close").attr({
+				  title: "開啟"
+				  });
+
+			  $("#fat-footer").hide();
+			  $("#block20141022-in").hide();
+			 
+		  }else{//是關閉時，要開啟
+			  set_fat_footer='y';
+			  
+			  $("#fat-footer").show();
+			  $("#block20141022-in").show();
+			  
+			  //圖檔更換為"關閉"的按鈕
+			  $("#block20141022-btn").css({
+				"background-image": "url(../img_fat_footer/block20141022_01.gif)",
+				"height": "37px"
+			  });
+
+			  $("#block20141022-btn").attr('val','open');				
+		   }
+
+		  $.ajax({ 
+			  type: "POST", 
+			  data: "set_fat_footer=" + set_fat_footer,
+			  dataType: "json", 
+			  cache: false, 
+			  url: 'search_keyword_save.php', 
+			  error: function() { 
+				  //alert("ajax 錯誤!!"); 
+			  }, 
+			  success: function(data) { 
+				  //alert(data);
+			  } 
+		  });
+
+		  return false;
+	  });
+	  
+	  			
+});
+
+</script>
+
+
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+
+<table border="0" align=center cellpadding="0" cellspacing="0" class="body_line" summary="此為表格排版用">
+<tr>
+	<td colspan="3">
+		<div class="banner_description">
+		‧<a href="http://www.tss.gov.tw/show_index.php" title="回首頁" class="link4">回首頁</a> 
+        ‧<a href="en/show_index.php" target="_blank" title="ENGLISH-將另開新視窗" class="link4">ENGLISH</a> 
+		‧<a href="mobile_index.php" target="_blank" title="行動版-將另開新視窗" class="link4">行動版</a> 
+		‧<a href="sitemap.php" title="網站地圖" class="link4">網站地圖</a>
+        
+ 	‧<span class="link4">字級設定
+    	        <a href="/view.php?catid=519&show_size=small" class="change-css change-css-selected" id="real_css" title="字級設定-小">小</a>
+                        <a href="/view.php?catid=519&show_size=medium" class="change-css" id="real_css_medium" title="字級設定-中">中</a>
+                        <a href="/view.php?catid=519&show_size=big" class="change-css" id="real_css_big" title="字級設定-大">大</a>    
+            
+    </span>
+        
+		</div> 
+	</td>
+</tr>
+<tr>
+	<td colspan="3">
+		<!--banner區--> 
+		<div align="center">
+		<script type="text/javascript">
+	AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','1000','height','95','src','images_default/style2009/bannerswf','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','images_default/style2009/bannerswf' ); //end AC code
+	</script><noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="1000" height="95">
+			  <param name="movie" value="images_default/style2009/bannerswf.swf">
+			  <param name="quality" value="high">
+			  <embed src="images_default/style2009/bannerswf.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="1000" height="95"></embed>
+			</object>
+      </noscript>	
+		</div>
+		<!--end banner -->	</td>
+</tr>
+<tr>
+	<td colspan="3">
+		<!--banner_bar區-->
+		<table width="100%"  border="0" cellpadding="0" cellspacing="0">
+          <tr >            
+            <td ><div class="banner_bar"> 
+                        <a href="view.php?catid=248" title="雙語詞彙" class="top_bar_link" target="_self">雙語詞彙</a>
+                        <a href="http://www.tss.gov.tw/view.php?catid=308" title="招標公告" class="top_bar_link" target="_self">招標公告</a>
+                        <a href="view.php?catid=1409" title="技術移轉公告" class="top_bar_link" target="_self">技術移轉公告</a>
+                        <a href="http://www.coa.gov.tw/search_wg.php" title="檢索" class="top_bar_link" target="_blank">檢索</a>
+                        <a href="https://www.facebook.com/tss.coa?ref=hl" title="種苗場Facebook" class="top_bar_link" target="_blank">種苗場Facebook</a>
+                        <a href="http://www.flickr.com/photos/tss_coa/" title="Flickr" class="top_bar_link" target="_blank">Flickr</a>
+                        <a href="https://www.youtube.com/channel/UCu2RoR_lLreISvCuXmzGrtA" title="YouTube" class="top_bar_link" target="_blank">YouTube</a>
+                        </div></td>
+          </tr>
+        </table>
+	</td>
+</tr>
+<tr>
+		<td valign="top" class="lift_bar_photo">
+		<!--左邊側欄-->
+		<div class="links">			
+		<table border="0" cellpadding="0" cellspacing="0" summary="此為選單表格">	
+			<!--服務-->
+			<tr> 
+				<td height="5"><a href="sitemap.php" title="左方導覽區(引導使用網頁導覽器，前往左方選單區)" class="accesskey" accesskey="L" >:::</a></td>
+			</tr>
+			<tr>
+				<td >
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=1"  class="bosom_bar_link" title="關於本場" target="">關於本場</a>
+					  	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=1606"  class="bosom_bar_link" title="重大政策" target="">重大政策</a>
+					  	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=1622"  class="bosom_bar_link" title="就業資訊" target="">就業資訊</a>
+					  	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=240"  class="bosom_bar_link" title="最新消息" target="">最新消息</a>
+					  	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=1417"  class="bosom_bar_link" title="最新公告" target="">最新公告</a>
+					  	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=18"  class="bosom_bar_link" title="便民服務" target="">便民服務</a>
+					  	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=3706"  class="bosom_bar_link" title="廉政資訊專區" target="">廉政資訊專區</a>
+					  	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=19"  class="bosom_bar_link" title="技術諮詢" target="">技術諮詢</a>
+					  	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=242"  class="bosom_bar_link" title="種子(苗)供應" target="">種子(苗)供應</a>
+					  	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=3159"  class="bosom_bar_link" title="種子檢查" target="">種子檢查</a>
+					  	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=266"  class="bosom_bar_link" title="政府資訊公開" target="">政府資訊公開</a>
+					  	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=280"  class="bosom_bar_link" title="出版品" target="">出版品</a>
+					  	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=2"  class="bosom_bar_link" title="產業輔導" target="">產業輔導</a>
+					  	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=3763"  class="bosom_bar_link" title="性別平等及性騷擾防治" target="">性別平等及性騷擾防治</a>
+					  	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=246"  class="bosom_bar_link" title="線上服務" target="">線上服務</a>
+					  	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=248"  class="bosom_bar_link" title="雙語詞彙" target="">雙語詞彙</a>
+					  	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=1461"  class="bosom_bar_link" title="Q & A" target="">Q & A</a>
+					  	
+					</div>
+									</td>
+			</tr>
+			<!--相關服務-->
+			<tr>
+				<td class="links_link">	
+					<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#E8ECDD" summary="此為網站首頁選單表格">
+						<tr> 
+							<td class="links_link0" title="相關服務"></td>
+						</tr>
+						<tr> 
+							<td >
+							<div class="bosom_bar_link_02">
+														
+							<a href="http://academy.coa.gov.tw/" title="農民學院" class="bosom_bar_link_02" target="_blank">農民學院</a>
+														
+							<a href="http://permit.coa.gov.tw/" title="簽審通關共同作業平台" class="bosom_bar_link_02" target="_blank">簽審通關共同作業平台</a>
+														
+							<a href="http://appsis.tss.gov.tw/" title="亞太植物種苗資訊平台" class="bosom_bar_link_02" target="_blank">亞太植物種苗資訊平台</a>
+														</div>		
+							</td>		
+						</tr>		
+					</table>
+				</td>
+			</tr>
+            <tr> 
+                <td align="center">
+                  <img src="images_default/style2/tss_qrocde.jpg" border="0" alt="種苗改良繁殖場QRcode">								
+                </td>
+            </tr>		
+			
+		</table> 
+		</div>
+	</td>
+		<td width="80%" valign="top" bgcolor="#FFFFFF">
+		<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" summary="此為網站首頁表格">
+			<tr>
+				<td align="left" valign="top">
+				<table width="100%" border="0" cellpadding="0" cellspacing="0" background="images_default/style1/coa_23.jpg" summary="此為網站內容表格">
+										<!--站內搜尋-->
+					<tr>
+						<td valign="top" background="images_default/style1/coa_23.jpg">                        	
+							<div class="search">                        	
+							<table width="100%" border="0" cellpadding="0" cellspacing="0" summary="此為站內搜尋表格">
+							<form action="search_wg_tran.php" method="post" name="form_search">
+							<tr>
+							<td align="right">
+
+                                  <div id="search_area">
+                                    <img src="images_default/style2/coa_22.jpg" alt="搜尋" width="28" height="26" vspace="0" align="absmiddle" class="search_icon" title="搜尋">
+                                   <input name="keyword_q" type="text" class="text" id="keyword_q" maxlength="40" onFocus="javascript: if	(this.value=='::請輸入關鍵字::') this.value='';" onBlur="javascript: if (this.value=='') this.value='::請輸入關鍵字::';" value="::請輸入關鍵字::" size="30" autocomplete="off">
+                                    <input name="SEARCH_1" type="submit" class="key_button" id="SEARCH_1" value="搜尋">
+                                  
+                                                                    <span class="hot_word">熱門：</span>
+                                    
+                                                                       <a class="hot_searchs" href="search_wg_tran.php?keyword_q=休耕" title="休耕" target="_blank"> 休耕 </a>
+                                                                       <a class="hot_searchs" href="search_wg_tran.php?keyword_q=新社花海" title="新社花海" target="_blank"> 新社花海 </a>
+                                                                       <a class="hot_searchs" href="search_wg_tran.php?keyword_q=香蕉幼苗" title="香蕉幼苗" target="_blank"> 香蕉幼苗 </a>
+                                                                       <a class="hot_searchs" href="search_wg_tran.php?keyword_q=基因改造檢測" title="基因改造檢測" target="_blank"> 基因改造檢測 </a>
+                                                                       <a class="hot_searchs" href="search_wg_tran.php?keyword_q=種子檢查" title="種子檢查" target="_blank"> 種子檢查 </a>
+                                                                        
+                                    
+                                  </div>
+                                
+                                
+							</td>  
+							<td width="15%" align="left" valign="middle">
+							<img src="images_default/style1/coa_46.jpg" alt="" width="15" height="19" align="absmiddle"> 
+							<img src="images_default/style1/coa_42.jpg" alt="友善列印(將另開新視窗)" width="19" height="18" align="absmiddle">
+							<a href="/view.php?catid=519&print=1" class="word3" title="友善列印(將另開新視窗)" target="_brank">友善列印</a>　                    
+							</td>                  
+							</tr>
+							</form>
+							</table>
+							</div>                          
+						</td>
+					</tr>
+					<!--現在位置-->
+					<tr>
+						<td>
+							<table width="100%" border="0" cellpadding="0" cellspacing="0" summary="此為站內搜尋表格"   background="images_default/style1/coa_24.jpg">
+                                <tr>
+                                    <td width="1%">
+                                    <div align="right" class="word2"><a href="#" title="主要內容區" class="accesskey" accesskey="C" >:::</a></div>
+                                    </td>
+                                    <td><a href="show_index.php" title="首頁" class="link2">首頁</a> / <a href="view.php?catid=266" title="政府資訊公開" class="link2">政府資訊公開</a> / <a href="view.php?catid=460" title="預算及決算" class="link2">預算及決算</a> / <span class="link2">年度預算</span></td>
+                                </tr>
+							</table>
+						</td>
+					</tr>
+										<tr>
+						<td height="29" align="right" valign="middle" background="images_default/style1/coa_41.jpg">
+							<table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+							<tr>
+							<td width="1%" bgcolor="#7CDC07"></td>
+							<td align="left" class="word1">年度預算</td>
+							</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+                
+				<br>
+
+				<table width="95%"  border="0">
+					<tr>
+						<td>
+						<!-- InstanceBeginEditable name="EditRegion1" -->
+                    
+                    			  				<table width="95%" summary="此為網頁內容表格" border="0" align="center" cellpadding="1" cellspacing="1">
+                        <tr> 
+                        	<td><div align="right"><span class="link4">共1頁 ;</span> <span class="link4">上一頁</span> | <span class="link4">下一頁</span> </div></td>
+                        </tr>
+                        </table>
+		  									                   
+      
+	                    <table width="95%" border="1" align="center" cellpadding="1" cellspacing="1" bordercolor="#bbc1b6" summary="此為網站列表頁排版用表格" style="border-collapse: collapse">	
+									
+                            <tr>
+                              <td colspan="3" bgcolor="#e8ecdd">&nbsp;</td>
+                            </tr>
+									
+								
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9" /></td>		
+								<td width="80%">								
+									
+								<a href="view.php?catid=5188" title="本場106年度預算案" class="link7" target="_self">本場106年度預算案</a>
+																		
+								</td>					
+								<td width="17%" class="link7">&nbsp;</td>
+							</tr>
+										
+									
+								
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9" /></td>		
+								<td width="80%">						
+																<a href="view.php?catid=4881" title="本場105年度法定預算" class="link7" target="_self">本場105年度法定預算</a>
+											  
+								</td>
+								<td width="17%" class="link7">&nbsp;</td>
+							</tr>
+										
+									
+								
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9" /></td>		
+								<td width="80%">								
+																<span class="link7">本場105年度預算案(Word、Xml、Excel、Pdf檔)</span>
+																		
+								</td>					
+								<td width="17%" class="link7"><a href="files/web_articles_files/tss/4718/1250.doc" title="doc 檔下載(213 K)-將另開新視窗" target="_brank" class="link7">DOC</a>、<a href="files/web_articles_files/tss/4718/1251.doc" title="doc 檔下載(115.5 K)-將另開新視窗" target="_brank" class="link7">DOC</a>、<a href="files/web_articles_files/tss/4718/1252.zip" title="zip 檔下載(24.73 K)-將另開新視窗" target="_brank" class="link7">ZIP</a>、<a href="files/web_articles_files/tss/4718/1253.zip" title="zip 檔下載(87.02 K)-將另開新視窗" target="_brank" class="link7">ZIP</a>、<a href="files/web_articles_files/tss/4718/1254.pdf" title="pdf 檔下載(8411.65 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+							</tr>
+										
+									
+								
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9" /></td>		
+								<td width="80%">						
+																<span class="link7">本場104年度法定預算(Word、Xml、Excel、Pdf檔)</span>
+											  
+								</td>
+								<td width="17%" class="link7"><a href="files/web_articles_files/tss/4285/1173.doc" title="doc 檔下載(213.5 K)-將另開新視窗" target="_brank" class="link7">DOC</a>、<a href="files/web_articles_files/tss/4285/1177.doc" title="doc 檔下載(215 K)-將另開新視窗" target="_brank" class="link7">DOC</a>、<a href="files/web_articles_files/tss/4285/1174.zip" title="zip 檔下載(87.07 K)-將另開新視窗" target="_brank" class="link7">ZIP</a>、<a href="files/web_articles_files/tss/4285/1175.zip" title="zip 檔下載(24.80 K)-將另開新視窗" target="_brank" class="link7">ZIP</a>、<a href="files/web_articles_files/tss/4285/1178.pdf" title="pdf 檔下載(8493.14 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+							</tr>
+										
+									
+								
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9" /></td>		
+								<td width="80%">								
+																<span class="link7"> 本場104年度預算案(Xml檔)</span>
+																		
+								</td>					
+								<td width="17%" class="link7"><a href="files/web_articles_files/tss/5140/1343.zip" title="zip 檔下載(24.78 K)-將另開新視窗" target="_brank" class="link7">ZIP</a>&nbsp;</td>
+							</tr>
+										
+									
+								
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9" /></td>		
+								<td width="80%">						
+																<span class="link7">本場103年度法定預算</span>
+											  
+								</td>
+								<td width="17%" class="link7"><a href="files/web_articles_files/tss/3298/1046.pdf" title="pdf 檔下載(27273.77 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+							</tr>
+										
+									
+								
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9" /></td>		
+								<td width="80%">								
+																<span class="link7">本場102年度法定預算</span>
+																		
+								</td>					
+								<td width="17%" class="link7"><a href="files/web_articles_files/tss/3096/944.pdf" title="pdf 檔下載(4715.35 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+							</tr>
+										
+									
+								
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9" /></td>		
+								<td width="80%">						
+																<span class="link7">本場101年度法定預算</span>
+											  
+								</td>
+								<td width="17%" class="link7"><a href="files/web_articles_files/tss/2757/806.pdf" title="pdf 檔下載(4624.28 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+							</tr>
+										
+									
+								
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9" /></td>		
+								<td width="80%">								
+																<span class="link7">本場100年度法定預算</span>
+																		
+								</td>					
+								<td width="17%" class="link7"><a href="files/web_articles_files/tss/2497/763.pdf" title="pdf 檔下載(4939.29 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+							</tr>
+										
+									
+								
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9" /></td>		
+								<td width="80%">						
+																<span class="link7">本場99年度法定預算</span>
+											  
+								</td>
+								<td width="17%" class="link7"><a href="files/web_articles_files/tss/2145/674.pdf" title="pdf 檔下載(3701.63 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+							</tr>
+										
+									
+								
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9" /></td>		
+								<td width="80%">								
+																<span class="link7">本場98年度法定預算</span>
+																		
+								</td>					
+								<td width="17%" class="link7"><a href="files/web_articles_files/tss/1574/622.pdf" title="pdf 檔下載(2897.08 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+							</tr>
+										
+									
+								
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9" /></td>		
+								<td width="80%">						
+																<span class="link7">97年度中央政府總預算－種苗改良繁殖場單位預算</span>
+											  
+								</td>
+								<td width="17%" class="link7"><a href="files/web_articles_files/tss/1003/420.pdf" title="pdf 檔下載(1416.70 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+							</tr>
+										
+									
+								
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9" /></td>		
+								<td width="80%">								
+																<span class="link7">96年度種苗改良繁殖場作業基金附屬單位預算之分預算</span>
+																		
+								</td>					
+								<td width="17%" class="link7"><a href="files/web_articles_files/tss/1007/424.pdf" title="pdf 檔下載(1229.42 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+							</tr>
+										
+									
+								
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9" /></td>		
+								<td width="80%">						
+																<span class="link7">96年度中央政府總預算－種苗改良繁殖場單位預算</span>
+											  
+								</td>
+								<td width="17%" class="link7"><a href="files/web_articles_files/tss/1002/419.pdf" title="pdf 檔下載(1312.97 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+							</tr>
+										
+								
+						</table>
+						
+                        		  				<table width="90%" summary="此為網頁內容表格" border="0" align="center" cellpadding="1" cellspacing="1">
+                        <tr> 
+                        	<td><div align="right"><span class="link4">共1頁 ;</span> <span class="link4">上一頁</span> | <span class="link4">下一頁</span> </div></td>
+                        </tr>
+                        </table>
+		  				                    
+                        
+					<!-- InstanceEndEditable -->
+						</td>
+					</tr>                
+				</table>
+				</td>
+			</tr>
+
+						<tr>
+				<td height="29" align="right" background="images_default/style1/coa_51.jpg">&nbsp;</td>
+			</tr>
+			<tr>
+				<td align="left" valign="top">
+				<table width="25%" border="0" align="right" cellpadding="0" cellspacing="0">
+					<tr>
+					<td align="right" class="images_top"><div align="left"><a href="#" title="TOP"><img src="images_default/style1/space.gif" alt="TOP" width="58" height="17" border="0"></a></div></td>
+					<td class="images_next"><div align="left"><a href="" title="回上一頁"><img img src="images_default/style1/space.gif"  alt="回上一頁" width="80" height="17" border="0"></a></div></td>
+					<td width="10%">&nbsp;</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+            
+            
+            
+			<!--調寬度 -->
+			<tr>
+				<td valign="top"><img src="images_default/style1/space.gif" alt="排版圖片" width="730" height="45"></td>
+			</tr>
+					</table>
+
+	</td>
+    	<!--右邊側欄-->
+	<td valign="top"></td>
+    
+</tr>
+
+
+
+<!-- Fat Footer Start -->
+<tr>
+<td colspan="3">
+<div id="block20141022">
+ 
+ 
+ <div id="block20141022-btn">
+ <a href="#" class="block20141022-bu-close" id="n" title="關閉"></a>
+ </div>
+ 
+<div id="fat-footer">
+    <!-- 每行Start -->
+		
+                	<div class="fat-footer-div">
+        
+            <!-- 每各單元 Start -->
+            <div class="fat-footer-unit" style="width:230px">
+
+                            <div class="name"><a href="view.php?catid=1" title="關於本場" target="_self">關於本場</a></div>
+
+            
+                
+                <!-- Level_2 Start -->
+
+                <div class="list">
+
+                  <dl>
+
+                    
+                    <dd><a href="view.php?catid=24" title="機關簡介" target="_self">機關簡介</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=32" title="地理位置" target="_self">地理位置</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=34" title="交通指南" target="_self">交通指南</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=3431" title="首長專區" target="_self">首長專區</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=3432" title="職掌與組織編制" target="_self">職掌與組織編制</a></dd>
+
+                    
+                  </dl>
+
+                </div>
+                <!-- Level_2 End -->
+
+				                <div class="level-more">
+
+                <a href="view.php?catid=1" title="更多關於本場" target="_self">
+                <img class="space09" border="0" width="36" height="16" alt="更多關於本場" title="更多關於本場" src="img_fat_footer/button-more.gif">
+                </a>
+
+                </div>
+                
+        
+       		</div>
+
+       		<!-- 每各單元 End -->
+
+			    <!-- 每行End -->
+
+    <!-- 每行Start -->
+		
+        
+            <!-- 每各單元 Start -->
+            <div class="fat-footer-unit" style="width:230px">
+
+                            <div class="name"><a href="view.php?catid=1606" title="重大政策" target="_self">重大政策</a></div>
+
+            
+                
+                <!-- Level_2 Start -->
+
+                <div class="list">
+
+                  <dl>
+
+                    
+                    <dd><a href="http://www.ey.gov.tw/news.aspx?n=3D06E532B0D8316C&sms=4ACFA38B877F185F" title="行政院重大政策" target="_blank">行政院重大政策</a></dd>
+
+                    
+                    <dd><a href="http://www.coa.gov.tw/view.php?catid=19059" title="農業委員會重大政策" target="_blank">農業委員會重大政策</a></dd>
+
+                    
+                    <dd><a href="http://www.ecfa.org.tw/" title="經濟部ECFA專區" target="_blank">ECFA專區</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=1608" title="推動兩岸經濟合作架構協議（ECFA）" target="_self">推動兩岸經濟合作架構協議（ECFA）</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=1636" title="在地深耕 平和再生--郭俊銀" target="_self">在地深耕 平和再生--郭俊銀</a></dd>
+
+                    
+                  </dl>
+
+                </div>
+                <!-- Level_2 End -->
+
+				                <div class="level-more">
+
+                <a href="view.php?catid=1606" title="更多重大政策" target="_self">
+                <img class="space09" border="0" width="36" height="16" alt="更多重大政策" title="更多重大政策" src="img_fat_footer/button-more.gif">
+                </a>
+
+                </div>
+                
+        
+       		</div>
+
+       		<!-- 每各單元 End -->
+
+			    <!-- 每行End -->
+
+    <!-- 每行Start -->
+		
+        
+            <!-- 每各單元 Start -->
+            <div class="fat-footer-unit" style="width:230px">
+
+                            <div class="name"><a href="view.php?catid=254" title="新聞區" target="_self">新聞區</a></div>
+
+            
+                
+                <!-- Level_2 Start -->
+
+                <div class="list">
+
+                  <dl>
+
+                    
+                    <dd><a href="view.php?catid=5234" title="農委會種苗場成功開發藥用石斛大量繁殖技術" target="_self">農委會種苗場成功開發藥用石斛大量繁殖技術</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=5235" title="最佳基改守門員！種苗場已建立 21 項檢測技術" target="_self">最佳基改守門員！種苗場已建立 21 項檢測技術</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=5124" title="芻料之王－玉米青割栽培" target="_self">芻料之王－玉米青割栽培</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=5085" title="種子檢查室搬新家 服務不間斷！" target="_self">種子檢查室搬新家 服務不間斷！</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=5060" title="優質小果番茄「種苗亞蔬 22 號」種子即將上市！" target="_self">優質小果番茄「種苗亞蔬 22 號」種子即將上市！</a></dd>
+
+                    
+                  </dl>
+
+                </div>
+                <!-- Level_2 End -->
+
+				                <div class="level-more">
+
+                <a href="view.php?catid=254" title="更多新聞區" target="_self">
+                <img class="space09" border="0" width="36" height="16" alt="更多新聞區" title="更多新聞區" src="img_fat_footer/button-more.gif">
+                </a>
+
+                </div>
+                
+        
+       		</div>
+
+       		<!-- 每各單元 End -->
+
+			    <!-- 每行End -->
+
+    <!-- 每行Start -->
+		
+        
+            <!-- 每各單元 Start -->
+            <div class="fat-footer-unit" style="width:230px">
+
+                            <div class="name"><a href="view.php?catid=240" title="最新消息" target="_self">最新消息</a></div>
+
+            
+                
+                <!-- Level_2 Start -->
+
+                <div class="list">
+
+                  <dl>
+
+                    
+                    <dd><a href="view.php?catid=5278" title="本場「105年硬質玉米、高粱種穗運輸(第02次公告)」招標公告" target="_self">本場「105年硬質玉米、高粱種穗運輸(第02次公告)」招標公告</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=5277" title="轉知教育部舉辦「全民資安素養自我評量」活動" target="_self">轉知教育部舉辦「全民資安素養自我評量」活動</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=5276" title="廣告文宣「擴大幼兒教保公共化」" target="_self">廣告文宣「擴大幼兒教保公共化」</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=5275" title="宣導行政院環保署為鼓勵民眾踴躍選擇綠色消費，推動環保集點制度。" target="_self">宣導行政院環保署為鼓勵民眾踴躍選擇綠色消費，推動環保集點制度。</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=5274" title="轉知考選部「106年第一次專門職業及技術人員高等考試中醫師考試分階段考試、營養師、心理師、護理師、社會工作師考試」訊息" target="_self">轉知考選部「106年第一次專門職業及技術人員高等考試中醫師考試分階段考試、營養師、心理師、護理師、社會工作師考試」訊息</a></dd>
+
+                    
+                  </dl>
+
+                </div>
+                <!-- Level_2 End -->
+
+				                <div class="level-more">
+
+                <a href="view.php?catid=240" title="更多最新消息" target="_self">
+                <img class="space09" border="0" width="36" height="16" alt="更多最新消息" title="更多最新消息" src="img_fat_footer/button-more.gif">
+                </a>
+
+                </div>
+                
+        
+       		</div>
+
+       		<!-- 每各單元 End -->
+
+			
+  			</div><div class="B" style="clear:both; height:0px;"></div>
+
+    	    <!-- 每行End -->
+
+    <!-- 每行Start -->
+		
+                	<div class="fat-footer-div">
+        
+            <!-- 每各單元 Start -->
+            <div class="fat-footer-unit" style="width:230px">
+
+                            <div class="name"><a href="view.php?catid=1417" title="最新公告" target="_self">最新公告</a></div>
+
+            
+                
+                <!-- Level_2 Start -->
+
+                <div class="list">
+
+                  <dl>
+
+                    
+                    <dd><a href="view.php?catid=308" title="招標公告" target="_self">招標公告</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=309" title="決標公告" target="_self">決標公告</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=254" title="農業新聞" target="_self">農業新聞</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=1409" title="技術移轉公告" target="_self">技術移轉公告</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=3950" title="人民申請案件處理期間公告表" target="_self">人民申請案件處理期間公告表</a></dd>
+
+                    
+                  </dl>
+
+                </div>
+                <!-- Level_2 End -->
+
+				                <div class="level-more">
+
+                <a href="view.php?catid=1417" title="更多最新公告" target="_self">
+                <img class="space09" border="0" width="36" height="16" alt="更多最新公告" title="更多最新公告" src="img_fat_footer/button-more.gif">
+                </a>
+
+                </div>
+                
+        
+       		</div>
+
+       		<!-- 每各單元 End -->
+
+			    <!-- 每行End -->
+
+    <!-- 每行Start -->
+		
+        
+            <!-- 每各單元 Start -->
+            <div class="fat-footer-unit" style="width:230px">
+
+                            <div class="name"><a href="view.php?catid=18" title="便民服務" target="_self">便民服務</a></div>
+
+            
+                
+                <!-- Level_2 Start -->
+
+                <div class="list">
+
+                  <dl>
+
+                    
+                    <dd><a href="view.php?catid=84" title="首長信箱" target="_self">首長信箱</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=86" title="民意信箱" target="_self">民意信箱</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=4470" title="基因改造植物委託檢測服務" target="_self">基因改造植物委託檢測服務</a></dd>
+
+                    
+                  </dl>
+
+                </div>
+                <!-- Level_2 End -->
+
+				
+        
+       		</div>
+
+       		<!-- 每各單元 End -->
+
+			    <!-- 每行End -->
+
+    <!-- 每行Start -->
+		
+        
+            <!-- 每各單元 Start -->
+            <div class="fat-footer-unit" style="width:230px">
+
+                            <div class="name"><a href="view.php?catid=3706" title="廉政資訊專區" target="_self">廉政資訊專區</a></div>
+
+            
+                
+                <!-- Level_2 Start -->
+
+                <div class="list">
+
+                  <dl>
+
+                    
+                    <dd><a href="view.php?catid=4523" title="政風法治教育" target="_self">政風法治教育</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=4524" title="公務員&#63906;政&#63956;&#63972;規範" target="_self">公務員&#63906;政&#63956;&#63972;規範</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=4525" title="公職人員財產申報" target="_self">公職人員財產申報</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=4526" title="公務倫理、便民與圖利問題" target="_self">公務倫理、便民與圖利問題</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=4527" title="公務員法治觀&#63907;相關法規" target="_self">公務員法治觀&#63907;相關法規</a></dd>
+
+                    
+                  </dl>
+
+                </div>
+                <!-- Level_2 End -->
+
+				
+        
+       		</div>
+
+       		<!-- 每各單元 End -->
+
+			    <!-- 每行End -->
+
+    <!-- 每行Start -->
+		
+        
+            <!-- 每各單元 Start -->
+            <div class="fat-footer-unit" style="width:230px">
+
+                            <div class="name"><a href="view.php?catid=4986" title="頒發獎項專區" target="_self">頒發獎項專區</a></div>
+
+            
+                
+                <!-- Level_2 Start -->
+
+                <div class="list">
+
+                  <dl>
+
+                    
+                    <dd><a href="view.php?catid=4996" title="法規" target="_self">法規</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=4987" title="本場104年度優良技工工友及績優技工工友名單" target="_self">本場104年度優良技工工友及績優技工工友名單</a></dd>
+
+                    
+                  </dl>
+
+                </div>
+                <!-- Level_2 End -->
+
+				
+        
+       		</div>
+
+       		<!-- 每各單元 End -->
+
+			
+  			</div><div class="B" style="clear:both; height:0px;"></div>
+
+    	    <!-- 每行End -->
+
+    <!-- 每行Start -->
+		
+                	<div class="fat-footer-div">
+        
+            <!-- 每各單元 Start -->
+            <div class="fat-footer-unit" style="width:230px">
+
+                            <div class="name"><a href="view.php?catid=19" title="技術諮詢" target="_self">技術諮詢</a></div>
+
+            
+                
+                <!-- Level_2 Start -->
+
+                <div class="list">
+
+                  <dl>
+
+                    
+                    <dd><a href="view.php?catid=99" title="本場專家介紹" target="_self">本場專家介紹</a></dd>
+
+                    
+                  </dl>
+
+                </div>
+                <!-- Level_2 End -->
+
+				
+        
+       		</div>
+
+       		<!-- 每各單元 End -->
+
+			    <!-- 每行End -->
+
+    <!-- 每行Start -->
+		
+        
+            <!-- 每各單元 Start -->
+            <div class="fat-footer-unit" style="width:230px">
+
+                            <div class="name"><a href="view.php?catid=242" title="種子(苗)供應" target="_self">種子(苗)供應</a></div>
+
+            
+                
+                <!-- Level_2 Start -->
+
+                <div class="list">
+
+                  <dl>
+
+                    
+                    <dd><a href="view.php?catid=1113" title="雜糧種子" target="_self">雜糧種子</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=1114" title="綠肥種子" target="_self">綠肥種子</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=365" title="蔬菜種子" target="_self">蔬菜種子</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=370" title="綠美化種苗" target="_self">綠美化種苗</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=367" title="草本植物組織培養" target="_self">草本植物組織培養</a></dd>
+
+                    
+                  </dl>
+
+                </div>
+                <!-- Level_2 End -->
+
+				                <div class="level-more">
+
+                <a href="view.php?catid=242" title="更多種子(苗)供應" target="_self">
+                <img class="space09" border="0" width="36" height="16" alt="更多種子(苗)供應" title="更多種子(苗)供應" src="img_fat_footer/button-more.gif">
+                </a>
+
+                </div>
+                
+        
+       		</div>
+
+       		<!-- 每各單元 End -->
+
+			    <!-- 每行End -->
+
+    <!-- 每行Start -->
+		
+        
+            <!-- 每各單元 Start -->
+            <div class="fat-footer-unit" style="width:230px">
+
+                            <div class="name"><a href="view.php?catid=266" title="政府資訊公開" target="_self">政府資訊公開</a></div>
+
+            
+                
+                <!-- Level_2 Start -->
+
+                <div class="list">
+
+                  <dl>
+
+                    
+                    <dd><a href="view.php?catid=3544" title="個人資料保護專區" target="_self">個人資料保護專區</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=4986" title="頒發獎項專區" target="_self">頒發獎項專區</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=26" title="執掌與組織" target="_self">執掌與組織</a></dd>
+
+                    
+                    <dd><a href="http://www.coa.gov.tw/view.php?catid=2448289" title="農產品檢驗資訊(連結至農委會網站)" target="_blank">農產品檢驗資訊</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=3757" title="相關法規" target="_self">相關法規</a></dd>
+
+                    
+                  </dl>
+
+                </div>
+                <!-- Level_2 End -->
+
+				                <div class="level-more">
+
+                <a href="view.php?catid=266" title="更多政府資訊公開" target="_self">
+                <img class="space09" border="0" width="36" height="16" alt="更多政府資訊公開" title="更多政府資訊公開" src="img_fat_footer/button-more.gif">
+                </a>
+
+                </div>
+                
+        
+       		</div>
+
+       		<!-- 每各單元 End -->
+
+			    <!-- 每行End -->
+
+    <!-- 每行Start -->
+		
+        
+            <!-- 每各單元 Start -->
+            <div class="fat-footer-unit" style="width:230px">
+
+                            <div class="name"><a href="view.php?catid=280" title="出版品" target="_self">出版品</a></div>
+
+            
+                
+                <!-- Level_2 Start -->
+
+                <div class="list">
+
+                  <dl>
+
+                    
+                    <dd><a href="view.php?catid=3752" title="版權聲明--本網站發表之所有文章，係為學術研究成果，不得引用於產品及食品之標示、宣傳及廣告。若不當引用，應自負法律責任。" target="_self">版權聲明</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=4236" title="機關簡介" target="_self">機關簡介</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=282" title="種苗科技專訊" target="_self">種苗科技專訊</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=281" title="年報" target="_self">年報</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=2414" title="機關誌" target="_self">機關誌</a></dd>
+
+                    
+                  </dl>
+
+                </div>
+                <!-- Level_2 End -->
+
+				                <div class="level-more">
+
+                <a href="view.php?catid=280" title="更多出版品" target="_self">
+                <img class="space09" border="0" width="36" height="16" alt="更多出版品" title="更多出版品" src="img_fat_footer/button-more.gif">
+                </a>
+
+                </div>
+                
+        
+       		</div>
+
+       		<!-- 每各單元 End -->
+
+			
+  			</div><div class="B" style="clear:both; height:0px;"></div>
+
+    	    <!-- 每行End -->
+
+    <!-- 每行Start -->
+		
+                	<div class="fat-footer-div">
+        
+            <!-- 每各單元 Start -->
+            <div class="fat-footer-unit" style="width:230px">
+
+                            <div class="name"><a href="view.php?catid=2" title="產業輔導" target="_self">產業輔導</a></div>
+
+            
+                
+                <!-- Level_2 Start -->
+
+                <div class="list">
+
+                  <dl>
+
+                    
+                    <dd><a href="view.php?catid=60" title="人工培植拖鞋蘭" target="_self">人工培植拖鞋蘭</a></dd>
+
+                    
+                    <dd><a href="http://appsis.tss.gov.tw/content/service/tech_service/tech_promo_list.aspx" title="「亞太植物種苗產業服務資訊平台」技術服務" target="_blank">亞太植物種苗產業服務資訊平台</a></dd>
+
+                    
+                  </dl>
+
+                </div>
+                <!-- Level_2 End -->
+
+				
+        
+       		</div>
+
+       		<!-- 每各單元 End -->
+
+			    <!-- 每行End -->
+
+    <!-- 每行Start -->
+		
+        
+            <!-- 每各單元 Start -->
+            <div class="fat-footer-unit" style="width:230px">
+
+                            <div class="name"><a href="view.php?catid=3763" title="性別平等及性騷擾防治" target="_self">性別平等及性騷擾防治</a></div>
+
+            
+                
+                <!-- Level_2 Start -->
+
+                <div class="list">
+
+                  <dl>
+
+                    
+                    <dd><a href="view.php?catid=3764" title="性別平等專區" target="_self">性別平等專區</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=22" title="性騷擾防治專區" target="_self">性騷擾防治專區</a></dd>
+
+                    
+                  </dl>
+
+                </div>
+                <!-- Level_2 End -->
+
+				
+        
+       		</div>
+
+       		<!-- 每各單元 End -->
+
+			    <!-- 每行End -->
+
+    <!-- 每行Start -->
+		
+        
+            <!-- 每各單元 Start -->
+            <div class="fat-footer-unit" style="width:230px">
+
+                            <div class="name"><a href="view.php?catid=246" title="線上服務" target="_self">線上服務</a></div>
+
+            
+                
+                <!-- Level_2 Start -->
+
+                <div class="list">
+
+                  <dl>
+
+                    
+                    <dd><a href="http://academy.coa.gov.tw/" title="農民學院" target="_blank">農民學院</a></dd>
+
+                    
+                    <dd><a href="http://permit.coa.gov.tw/" title="簽審通關共同作業平台" target="_blank">簽審通關共同作業平台</a></dd>
+
+                    
+                    <dd><a href="http://appsis.tss.gov.tw/" title="亞太植物種苗資訊平台" target="_blank">亞太植物種苗資訊平台</a></dd>
+
+                    
+                  </dl>
+
+                </div>
+                <!-- Level_2 End -->
+
+				
+        
+       		</div>
+
+       		<!-- 每各單元 End -->
+
+			    <!-- 每行End -->
+
+    <!-- 每行Start -->
+		
+        
+            <!-- 每各單元 Start -->
+            <div class="fat-footer-unit" style="width:230px">
+
+                            <div class="name"><a href="view.php?catid=1461" title="Q & A" target="_self">Q & A</a></div>
+
+            
+                
+                <!-- Level_2 Start -->
+
+                <div class="list">
+
+                  <dl>
+
+                    
+                    <dd><a href="view.php?catid=1467" title="行政方面" target="_self">行政方面</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=1468" title="技術方面" target="_self">技術方面</a></dd>
+
+                    
+                    <dd><a href="view.php?catid=4493" title="農產品食安專區" target="_self">農產品食安專區</a></dd>
+
+                    
+                  </dl>
+
+                </div>
+                <!-- Level_2 End -->
+
+				
+        
+       		</div>
+
+       		<!-- 每各單元 End -->
+
+			
+  			</div><div class="B" style="clear:both; height:0px;"></div>
+
+    	    <!-- 每行End -->
+
+    <!-- 每行Start -->
+		
+                	<div class="fat-footer-div">
+        
+            <!-- 每各單元 Start -->
+            <div class="fat-footer-unit" style="width:230px">
+
+            
+                                <div class="name"><a href="view.php?catid=3159" title="種子檢查" target="_self">種子檢查</a></div>
+                                <div class="name"><a href="view.php?catid=248" title="雙語詞彙" target="_self">雙語詞彙</a></div>
+                                <div class="name"><a href="view.php?catid=1622" title="就業資訊" target="">就業資訊</a></div>
+                            
+                
+       		</div>
+
+       		<!-- 每各單元 End -->
+
+			
+  			</div><div class="B" style="clear:both; height:0px;"></div>
+
+    	    <!-- 每行End -->
+
+
+
+</div>
+<div class="A" style="clear:both; height:0px;"></div>
+    
+</div>
+
+
+</td>
+</tr>
+<!-- Fat Footer End -->
+
+
+
+
+
+
+
+
+<tr>
+	<td colspan="3">
+		<!--footer-->
+		<div class="footer">
+		<!--footer區1-->	
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" summary="此為排版用的表格">
+			<tr> 
+				<td class="footer_lin"></td>
+			</tr>
+		</table>
+		<!--footer區2-->		
+
+		<table width="100%" border="0" height="110" cellpadding="0" cellspacing="0" background="images_default/copyrightdoc.jpg" summary="此為宣告版權內容表格">
+          <tr>
+
+              <td valign="top">
+              
+               <div class="footer_2">
+               <a class="sub_link_03" title="本場位置圖" href="view.php?catid=3523"></a>
+              <a class="sub_link_04" title="網站著作權聲明" href="view.php?catid=3522"></a>
+              <a class="sub_link_02" title="資訊安全政策宣告" href="view.php?catid=244"></a>
+              <a class="sub_link_01" title="隱私權保護宣告" href="view.php?catid=3447"></a>
+              </div>
+				<div class="footer_1">
+                  <table border="0" align="left" cellpadding="0" cellspacing="0" summary="此為表格排版用">
+		<tr><td align="left">行政院農業委員會種苗改良繁殖場 &copy; 版權所有2016 tss All Rights Reserved
+		<br>426台中市新社區大南里興中街6號 &nbsp;&nbsp;最佳瀏覽 1024＊768 以上最佳解析度
+		<br>電話：886-4-25811311(總機) 傳真：886-4-25819049  e-mail ：<a href="mailto:tsips@tss.gov.tw">tsips@tss.gov.tw </a>
+		<br>屏東種苗研究中心　909 屏東縣麟洛鄉麟蹄村信義路29號　電話:+886-8-7222718  傳真:+886-8-7214100
+		</td></tr></table>
+                </div>
+				<div class="footer_3">
+                  <a href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20081021093226" target="_blank" title="無障礙網站(將另開新視窗)"><img src="images_style/aplus.jpg" border="0" width="88" height="31" alt="通過A+優先等級無障礙網頁檢測(將另開新視窗)"></a>
+                </div>
+
+            </td>
+
+          </tr>
+
+		</table>
+
+
+
+
+      </div>
+	</td>
+</tr>
+</table>
+
+
+
+
+</body>
+<!-- InstanceEnd --></html>

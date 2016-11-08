@@ -1,0 +1,915 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-TW">
+<head>
+<title>臺中高等行政法院 :: 首頁 > 公告分類頁面
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=big5" />
+<!--Fireworks 8 Dreamweaver 8 target.  Created Fri Nov 02 01:40:02 GMT+0800 2007-->
+<script language="JavaScript1.2" type="text/javascript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function mover(st) {
+st.style.backgroundColor = '#f2f2f2';
+}
+function mout(st) {
+st.style.backgroundColor = '';
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<NOSCRIPT>您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+<link href="layout.css" rel="stylesheet" type="text/css" />
+</head>
+<body bgcolor="#186be9" onload="MM_preloadImages('images/tcb_r2_c4_f2.jpg','images/tcb_r2_c6_f2.jpg','images/tcb_r2_c8_f2.jpg','images/tcb_r2_c10_f2.jpg','images/tcb_r2_c12_f2.jpg','images/tcb_r9_c1_f2.jpg','images/tcb_r12_c1_f2.jpg','images/tcb_r13_c1_f2.jpg','images/tcb_r16_c1_f2.jpg','images/tcb_r17_c1_f2.jpg','images/tcb_r18_c1_f2.jpg','images/tcb_r10_c1_f2.jpg','images/tcb_r11_c1_f2.jpg')">
+<table border="0" cellpadding="0" cellspacing="0" width="10%" summary="網站排版表格">
+<!-- fwtable fwsrc="tcb.png" fwbase="tcb.jpg" fwstyle="Dreamweaver" fwdocid = "531325897" fwnested="1" -->
+  <tr>
+   <td><table align="left" border="0" cellpadding="0" cellspacing="0" summary="網站排版表格">
+          <tr>
+           <td><img name="tcb_r1_c1" src="images/tcb_r1_c1.jpg" width="330" height="82" border="0" id="tcb_r1_c1" alt="臺中高等行政法院標誌圖示" /></td>
+           <td><table align="left" border="0" cellpadding="0" cellspacing="0" summary="網站排版表格">
+                  <tr>
+                   <td><img name="tcb_r1_c3" src="images/tcb_r1_c3.jpg" width="650" height="7" border="0" id="tcb_r1_c3" alt="" /></td>
+                  </tr>
+                  <tr>
+                   <td align="right" background="images/tcb_r2_c3.jpg"><table border="0" cellpadding="0" cellspacing="0" summary="網站排版表格">
+                          <tr>
+                           <td><a href="?" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tcb_r2_c4','','images/tcb_r2_c4_f2.jpg',1);" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('tcb_r2_c4','','images/tcb_r2_c4_f2.jpg',1);"><img name="tcb_r2_c4" src="images/tcb_r2_c4.jpg" width="29" height="30" border="0" id="tcb_r2_c4" alt="首頁" /></a></td>
+                           <td><img name="tcb_r2_c5" src="images/tcb_r2_c5.jpg" width="9" height="30" border="0" id="tcb_r2_c5" alt="" /></td>
+                           <td><a href="?sitemap=true" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tcb_r2_c6','','images/tcb_r2_c6_f2.jpg',1);" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('tcb_r2_c6','','images/tcb_r2_c6_f2.jpg',1);"><img name="tcb_r2_c6" src="images/tcb_r2_c6.jpg" width="59" height="30" border="0" id="tcb_r2_c6" alt="網站地圖" /></a></td>
+                           <td><img name="tcb_r2_c7" src="images/tcb_r2_c7.jpg" width="9" height="30" border="0" id="tcb_r2_c7" alt="" /></td>
+                           <td><a href="?struID=0&amp;cid=57" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tcb_r2_c8','','images/tcb_r2_c8_f2.jpg',1);" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('tcb_r2_c8','','images/tcb_r2_c8_f2.jpg',1);"><img name="tcb_r2_c8" src="images/tcb_r2_c8.jpg" width="59" height="30" border="0" id="tcb_r2_c8" alt="相關網站" /></a></td>
+                           <td><img name="tcb_r2_c9" src="images/tcb_r2_c9.jpg" width="7" height="30" border="0" id="tcb_r2_c9" alt="" /></td>
+                           <td><a href="?struID=0&amp;cid=6" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tcb_r2_c10','','images/tcb_r2_c10_f2.jpg',1);" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('tcb_r2_c10','','images/tcb_r2_c10_f2.jpg',1);"><img name="tcb_r2_c10" src="images/tcb_r2_c10.jpg" width="59" height="30" border="0" id="tcb_r2_c10" alt="電子信箱" /></a></td>
+                           <td><img name="tcb_r2_c11" src="images/tcb_r2_c11.jpg" width="9" height="30" border="0" id="tcb_r2_c11" alt="" /></td>
+                           <td><a href="http://tcb.judicial.gov.tw/en/ "onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tcb_r2_c12','','images/tcb_r2_c12_f2.jpg',1);" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('tcb_r2_c12','','images/tcb_r2_c12_f2.jpg',1);"><img name="tcb_r2_c12" src="images/tcb_r2_c12.jpg" width="44" height="30" border="0" id="tcb_r2_c12" alt="English" /></a></td>
+                           <td><img name="tcb_r2_c13" src="images/tcb_r2_c13.jpg" width="15" height="30" border="0" id="tcb_r2_c13" alt="" /></td>
+                          </tr>
+                        </table></td>
+                  </tr>
+                  <tr>
+                   <td><img name="tcb_r3_c3" src="images/tcb_r3_c3.jpg" width="650" height="45" border="0" id="tcb_r3_c3" alt="" /></td>
+                  </tr>
+                </table></td>
+          </tr>
+        </table></td>
+  </tr>
+  <tr>
+   <td><img name="tcb_r4_c1" src="images/tcb_r4_c1.jpg" width="980" height="45" border="0" id="tcb_r4_c1" alt="依法行政，保障權益，熱忱服務，永續關懷" /></td>
+  </tr>
+  <tr>
+   <td background="images/tcb_r19_c1.jpg"><table align="left" border="0" cellpadding="0" cellspacing="0" summary="網站排版表格">
+          <tr valign="top">
+           <td><table align="left" border="0" cellpadding="0" cellspacing="0" summary="網站排版表格">
+                  <tr>
+                   <td><img src="images/tcb_r5_c1.jpg" alt="網站單元連結" name="tcb_r5_c1" width="213" height="60" border="0" id="tcb_r5_c1" /></td>
+                  </tr>
+                  <tr>
+                   <td align="center" background="images/tcb_r8_c1.jpg"><a href="?sitemap=true" class="map" accesskey="L" title="左側選項區">:::</a></td>
+                  </tr>
+                  <tr>
+                   <td><a href="?struID=0&amp;cid=2" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tcb_r9_c1','','images/tcb_r9_c1_f2.jpg',1);" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('tcb_r9_c1','','images/tcb_r9_c1_f2.jpg',1);"><img name="tcb_r9_c1" src="images/tcb_r9_c1.jpg" width="213" height="32" border="0" id="tcb_r9_c1" alt="認識本院" /></a></td>
+                  </tr>
+                  <tr>
+            <td><a href="?struID=0&amp;cid=70" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tcb_r10_c1','','images/tcb_r10_c1_f2.jpg',1);" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('tcb_r10_c1','','images/tcb_r10_c1_f2.jpg',1);"><img name="tcb_r10_c1" src="images/tcb_r10_c1.jpg" width="213" height="32" border="0" id="tcb_r10_c1" alt="公告事項" /></a></td>
+                    </tr>
+                  <tr>
+            <td><a href="?struID=0&amp;cid=4" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tcb_r11_c1','','images/tcb_r11_c1_f2.jpg',1);" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('tcb_r11_c1','','images/tcb_r11_c1_f2.jpg',1);"><img name="tcb_r11_c1" src="images/tcb_r11_c1.jpg" width="213" height="32" border="0" id="tcb_r11_c1" alt="查詢服務" /></a></td>
+                    </tr>
+                  <tr>
+                   <td><a href="?struID=0&amp;cid=5" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tcb_r12_c1','','images/tcb_r12_c1_f2.jpg',1);" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('tcb_r12_c1','','images/tcb_r12_c1_f2.jpg',1);"><img name="tcb_r12_c1" src="images/tcb_r12_c1.jpg" width="213" height="32" border="0" id="tcb_r12_c1" alt="便民服務" /></a></td>
+                  </tr>
+                  <tr>
+                   <td><a href="?struID=0&amp;cid=1" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tcb_r13_c1','','images/tcb_r13_c1_f2.jpg',1);" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('tcb_r13_c1','','images/tcb_r13_c1_f2.jpg',1);"><img name="tcb_r13_c1" src="images/tcb_r13_c1.jpg" width="213" height="32" border="0" id="tcb_r13_c1" alt="多媒體專區" /></a></td>
+                  </tr>
+                  <tr>
+                   <td><a href="?struID=0&amp;cid=9" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tcb_r16_c1','','images/tcb_r16_c1_f2.jpg',1);" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('tcb_r16_c1','','images/tcb_r16_c1_f2.jpg',1);"><img name="tcb_r16_c1" src="images/tcb_r16_c1.jpg" width="213" height="32" border="0" id="tcb_r16_c1" alt="政風專欄" /></a></td>
+                  </tr>
+                  <tr>
+                   <td><a href="?struID=0&cid=55" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tcb_r17_c1','','images/tcb_r17_c1_f2.jpg',1);" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('tcb_r17_c1','','images/tcb_r17_c1_f2.jpg',1);"><img name="tcb_r17_c1" src="images/tcb_r17_c1.jpg" width="213" height="32" border="0" id="tcb_r17_c1" alt="會計專欄" /></a></td>
+                  </tr>
+                  <tr>
+                   <td><a href="?struID=0&cid=56" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tcb_r18_c1','','images/tcb_r18_c1_f2.jpg',1);" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('tcb_r18_c1','','images/tcb_r18_c1_f2.jpg',1);"><img name="tcb_r18_c1" src="images/tcb_r18_c1.jpg" width="213" height="32" border="0" id="tcb_r18_c1" alt="統計專欄" /></a></td>
+                  </tr>
+                                  <tr>
+                   <td><a href="?struID=0&cid=84" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tcb_menu_new1.jpg','','images/tcb_menu_new2.jpg',1);" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('tcb_menu_new1.jpg','','images/tcb_menu_new2.jpg',1);"><img name="tcb_menu_new1.jpg" src="images/tcb_menu_new1.jpg" width="213" height="32" border="0" id="tcb_menu_new1.jpg" alt="政府資訊公開服務" /></a></td>
+                  </tr>
+                  <tr>
+                    <td align="center">&nbsp;</td>
+                    </tr>
+                  <tr>
+                    <td align="center">
+        <form action="" method="get" name="查詢表單" id="查詢表單">
+                <h3>全站搜尋：</h3>
+        <input name="searchtype" type="radio" value="bulletin" checked="checked" id="searchtype"/>公告
+        <input name="searchtype" type="radio" value="website" id="searchtype"/>網頁
+                <br />
+        <label for="keyword">查&nbsp</label><input name="keyword" type="text" class="textbox" id="keyword" size="12" value="請輸入關鍵字" onBlur="javascript: if(this.value=='') this.value='請輸入關鍵字';" onfocus="javascript: if(this.value=='請輸入關鍵字') this.value='';" />
+                <input type="submit" class="button" value="搜尋" id="submit"/>
+        <input name="search" type="hidden" class="textbox" id="search" value="true" />
+        </form>
+                    
+                    </td>
+                    </tr>
+                </table></td>
+           <td><table border="0" cellpadding="0" cellspacing="0" summary="網站排版表格">
+                  <tr>
+                   <td><img name="tcb_r5_c2" src="images/tcb_r5_c2.jpg" width="767" height="20" border="0" id="tcb_r5_c2" alt="" /></td>
+                  </tr>
+                  <tr valign="top">
+            <td align="left"><table width="100%" border="0" cellspacing="0" cellpadding="0" summary="網站排版表格">
+              <tr valign="top">
+                <td><div id="mainContent">
+                  <div class="navgate"> <a href="?sitemap=true" class="map" accesskey="C" title="主要內容區">:::</a> <img src="images/folder_home.png" alt="導覽首頁圖示" width="16" height="16" align="texttop" /><font color="#FFFFFF">-</font><a href="?" title="首頁">首頁</a>
+                      &gt; <a href="?" title="公告分類頁面">公告分類頁面</a>
+                  </div>
+
+<h1>會計專欄</h1>
+<h2><img src="images/browser.png" alt="標題圖示" width="22" height="22" align="absmiddle" /> 會計公告欄</h2>
+
+<table width="90%" border="0"cellpadding="4" cellspacing="0" class="newstable" summary="單元內容表列資料表格">
+        
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1051104]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=243756" title="105年10月份會計月報(XML及PDF檔)"> 
+          105年10月份會計月報(XML及PDF檔)</a>
+          
+           <img src="images/new.gif" alt="九十天內新消息圖示" />
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1051005]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=240005" title="105年9月份會計月報(XML及PDF檔) "> 
+          105年9月份會計月報(XML及PDF檔) </a>
+          
+           <img src="images/new.gif" alt="九十天內新消息圖示" />
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1050923]</td>
+          <td align="left" >
+
+          
+                 <a href="http://tcb.judicial.gov.tw/accounting/104年度單位決算書(院修版).pdf" title="104年度單位決算書(院修版)PDF檔"> 
+          104年度單位決算書(院修版)PDF檔</a>
+          
+           <img src="images/new.gif" alt="九十天內新消息圖示" />
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1050923]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=238757" title="104年度單位決算書(院修版)XML檔"> 
+          104年度單位決算書(院修版)XML檔</a>
+          
+           <img src="images/new.gif" alt="九十天內新消息圖示" />
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1050906]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=237054" title="105年8月份會計月報(XML及PDF檔)"> 
+          105年8月份會計月報(XML及PDF檔)</a>
+          
+           <img src="images/new.gif" alt="九十天內新消息圖示" />
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1050826]</td>
+          <td align="left" >
+
+          
+                 <a href="http://tcb.judicial.gov.tw/accounting/106年度單位預算案書.pdf" title="106年度單位預算案書(PDF檔)"> 
+          106年度單位預算案書(PDF檔)</a>
+          
+           <img src="images/new.gif" alt="九十天內新消息圖示" />
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1050826]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=236015" title="106年度單位預算案書(EXCEL、XML、WORLD)"> 
+          106年度單位預算案書(EXCEL、XML、WORLD)</a>
+          
+           <img src="images/new.gif" alt="九十天內新消息圖示" />
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1050803]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=233657" title="105年7月份會計月報(XML及PDF檔)"> 
+          105年7月份會計月報(XML及PDF檔)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1050705]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=230578" title="105年6月份會計月報(XML及PDF檔)"> 
+          105年6月份會計月報(XML及PDF檔)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1050604]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=227493" title="105年5月份會計月報(XML及PDF檔)"> 
+          105年5月份會計月報(XML及PDF檔)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1050506]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=224394" title="105年4月份會計月報(XML及PDF檔)"> 
+          105年4月份會計月報(XML及PDF檔)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1050412]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=221642" title="105年3月份會計月報(XML及PDF檔)"> 
+          105年3月份會計月報(XML及PDF檔)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1050311]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=218807" title="104年度單位決算書(XML檔)"> 
+          104年度單位決算書(XML檔)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1050311]</td>
+          <td align="left" >
+
+          
+                 <a href="http://tcb.judicial.gov.tw/accounting/104年度單位決算書.pdf" title="104年度單位決算書(PDF檔)"> 
+          104年度單位決算書(PDF檔)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1050302]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=217547" title="105年2月份會計月報(XML及PDF檔)"> 
+          105年2月份會計月報(XML及PDF檔)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1050217]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=216104" title="105年1月份會計月報(XML及PDF檔)"> 
+          105年1月份會計月報(XML及PDF檔)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1050125]</td>
+          <td align="left" >
+
+          
+                 <a href="http://tcb.judicial.gov.tw/accounting/105年度單位預算書.pdf" title="105年度單位預算書(PDF)"> 
+          105年度單位預算書(PDF)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1050125]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=214300" title="105年度單位預算書(EXCEL、XML、WORLD)"> 
+          105年度單位預算書(EXCEL、XML、WORLD)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1050121]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=214041" title="104年12月份會計報告(XML及PDF檔)"> 
+          104年12月份會計報告(XML及PDF檔)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1041211]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=209765" title="104年11月份會計報告(XML及PDF檔)"> 
+          104年11月份會計報告(XML及PDF檔)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1041117]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=207364" title="104年10月份會計報告(XML及PDF檔)"> 
+          104年10月份會計報告(XML及PDF檔)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1041021]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=204765" title=" 104年9月份會計報告(XML及PDF檔)"> 
+           104年9月份會計報告(XML及PDF檔)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1040907]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=200696" title="104年8月份會計報告(XML及PDF檔)"> 
+          104年8月份會計報告(XML及PDF檔)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1040902]</td>
+          <td align="left" >
+
+          
+                 <a href="http://tcb.judicial.gov.tw/accounting/105預算案書.pdf" title="105年度單位預算案書(PDF)"> 
+          105年度單位預算案書(PDF)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1040902]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=200343" title="105年度單位預算案書(EXCEL、XML)"> 
+          105年度單位預算案書(EXCEL、XML)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1040812]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=198406" title="104年7月份會計報告(XML及PDF檔)"> 
+          104年7月份會計報告(XML及PDF檔)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1040721]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=196366" title="103年度單位決算書(XML檔)"> 
+          103年度單位決算書(XML檔)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1040721]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=196298" title="104年1月份會計報告(XML及PDF檔)"> 
+          104年1月份會計報告(XML及PDF檔)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1040721]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=196301" title="104年2月份會計報告(XML及PDF檔)"> 
+          104年2月份會計報告(XML及PDF檔)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1040721]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=196310" title="104年3月份會計報告(XML及PDF檔)"> 
+          104年3月份會計報告(XML及PDF檔)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1040721]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=196312" title="104年4月份會計報告(XML及PDF檔)"> 
+          104年4月份會計報告(XML及PDF檔)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1040721]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=196313" title="104年5月份會計報告(XML及PDF檔)"> 
+          104年5月份會計報告(XML及PDF檔)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1040721]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=196315" title="104年6月份會計報告(XML及PDF檔)"> 
+          104年6月份會計報告(XML及PDF檔)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1040306]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=184711" title="104年度單位預算書(WORD及EXCEL)"> 
+          104年度單位預算書(WORD及EXCEL)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1040304]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=184422" title="104年度單位預算案書(XML)"> 
+          104年度單位預算案書(XML)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1040304]</td>
+          <td align="left" >
+
+          
+                 <a href="http://tcb.judicial.gov.tw/accounting/103年度單位決算書.pdf" title="103年度單位決算書"> 
+          103年度單位決算書</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1040304]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=184429" title="104年度單位預算書(XML)"> 
+          104年度單位預算書(XML)</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1040303]</td>
+          <td align="left" >
+
+          
+                 <a href="http://tcb.judicial.gov.tw/accounting/104年度單位預算書.pdf" title="104年度單位預算書"> 
+          104年度單位預算書</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1030903]</td>
+          <td align="left" >
+
+          
+                 <a href="http://tcb.judicial.gov.tw/accounting/104預算案書.pdf" title="104年度單位預算案書"> 
+          104年度單位預算案書</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1030402]</td>
+          <td align="left" >
+
+          
+                 <a href="http://tcb.judicial.gov.tw/accounting/102年度單位決算書.pdf" title="102年度單位決算書"> 
+          102年度單位決算書</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1030219]</td>
+          <td align="left" >
+
+          
+                 <a href="http://tcb.judicial.gov.tw/accounting/103年度單位預算書.pdf" title="103年度單位預算書 "> 
+          103年度單位預算書 </a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1020830]</td>
+          <td align="left" >
+
+          
+                 <a href="http://tcb.judicial.gov.tw/accounting/103預算案書.pdf" title="103年度單位預算案書"> 
+          103年度單位預算案書</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1020304]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=113730" title="102年度單位預算書"> 
+          102年度單位預算書</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1020131]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=111270" title="101年度單位決算書"> 
+          101年度單位決算書</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1011130]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=105482" title="102年度單位預算案"> 
+          102年度單位預算案</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1010209]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=83429" title="101年度單位預算書"> 
+          101年度單位預算書</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1010209]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=83437" title="100年度單位決算書"> 
+          100年度單位決算書</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1000407]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=64435" title="99年度單位決算書"> 
+          99年度單位決算書</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[1000303]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=62386" title="100年度單位預算書"> 
+          100年度單位預算書</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[990413]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=43627" title="98年度單位決算書"> 
+          98年度單位決算書</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[990315]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=42125" title="99年度單位預算書"> 
+          99年度單位預算書</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[980317]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=28937" title="公告97年度本院單位決算書"> 
+          公告97年度本院單位決算書</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[980317]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=28938" title="98年度單位預算書"> 
+          98年度單位預算書</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[971020]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=24447" title="94年度決算書"> 
+          94年度決算書</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[971020]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=24449" title="95年度預算書"> 
+          95年度預算書</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[971020]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=24450" title="95年度決算書"> 
+          95年度決算書</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[971013]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=24186" title="96年度法定預算書 "> 
+          96年度法定預算書 </a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[970318]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=17008" title="公告96年度單位決算"> 
+          公告96年度單位決算</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[970318]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=17006" title="公告97年度法定預算書"> 
+          公告97年度法定預算書</a>
+          
+              </td>
+          </tr>
+    
+          <tr valign="baseline" onmouseover="mover(this);" onmouseout="mout(this);" onfocus="mover(this);" onblur="mout(this);">
+          <td align="left" class="importantWord">[961004]</td>
+          <td align="left" >
+
+          
+                 <a href="?newsType=1&amp;SEQNO=11977" title="96年度歲入來源別預算表及96年度歲出機關別預算表"> 
+          96年度歲入來源別預算表及96年度歲出機關別預算表</a>
+          
+              </td>
+          </tr>
+    
+</table>
+
+
+<div align="center" style="margin-top:20px">
+<input name="Submit" type="button" title="到最上方" onclick="window.location='#top';" onkeypress="window.location='#top';" value="到最上方" />
+<input name="Submit" type="button" title="回上一頁" onclick="window.history.back();" onkeypress="window.history.back();" value="回上一頁" />
+<noscript>
+  您的瀏覽器並不支援此一Script回到上一頁的功能，建議您可使用瀏覽器上方的工具列【回上一頁】或快速鍵 Alt + ←，來達到回上一頁的功能。
+</noscript>
+</div>
+
+                  <div>&nbsp;</div>
+                </div></td>
+                
+                <td width="28%">                                
+                                <div id="divRight">                  
+                                  <a href="?sitemap=true" class="map" accesskey="R" title="右側選項區">:::</a>
+                                  <br />
+                                  <img src="images/right_icon1.jpg" alt="查詢服務" width="180" height="33" />
+                    <ul>
+                      
+                          <li><a href="http://csdi.judicial.gov.tw/abbs/wkw/WHD3A01.jsp?court=TCB" title="庭期表查詢(另開視窗)" target="_blank">庭期表查詢</a></li>
+                          
+                          <li><a href="http://www.judicial.gov.tw/ctstate/getCtState_01.asp?courtCode=TCB" title="開庭進度查詢(另開視窗)" target="_blank">開庭進度查詢</a></li>
+                          
+                          <li><a href="http://cpor.judicial.gov.tw/cqry/Login.do" title="案件進度查詢(另開視窗)" target="_blank">案件進度查詢</a></li>
+                          
+                          <li><a href="https://www.ezlawyer.com.tw/eb/" title="電子筆錄調閱服務網(另開視窗)" target="_blank">電子筆錄調閱服務網</a></li>
+                          
+                          <li><a href="http://210.69.124.97/abbs/wkw/WHD1A01.jsp?court=TCB" title="裁判主文公告(另開視窗)" target="_blank">裁判主文公告</a></li>
+                          
+                          <li><a href="http://jirs.judicial.gov.tw/FJUD/FJUDQRY01_1.aspx?v_court=TCB" title="裁判書查詢(另開視窗)" target="_blank">裁判書查詢</a></li>
+                          
+                          <li><a href="http://www.judicial.gov.tw/Intrprtr/" title="特約通譯名冊(另開視窗)" target="_blank">特約通譯名冊</a></li>
+                          
+                          <li><a href="http://tcb.judicial.gov.tw/?struID=0&cid=26" title="法律問題集(另開視窗)" target="_blank">法律問題集</a></li>
+                          
+                </ul>
+                                <br />
+                  <img src="images/right_icon2.jpg" alt="業務宣導專區" width="180" height="33" />
+                  <div style="margin-left:20px"><a title="與民有約(連結至訴訟輔導專欄→與民有約)" href="http://tcb.judicial.gov.tw/?struID=0&amp;cid=40&amp;selectID=22"><img style="HEIGHT: 38px; WIDTH: 151px" border="0" alt="與民有約(連結至訴訟輔導專欄→與民有約)" width="228" align="middle" height="68" src="/UserFiles/date.jpg" /></a> - <br />
+<a title="線上起訴(連結至便民服務→線上起訴)" href="http://tcb.judicial.gov.tw/?struID=0&amp;cid=112"><img border="0" alt="線上起訴(連結至便民服務→線上起訴)" align="middle" src="/UserFiles/logo_1_14.jpg" /></a> - <br />
+<a title=" SKYPE / LINE 網路視訊訴訟程序諮詢(連結至便民服務→訴訟輔導專欄)" href="http://tcb.judicial.gov.tw/?struID=0&amp;cid=40&amp;selectID=629"><img border="0" alt=" SKYPE / LINE 網路視訊訴訟程序諮詢(連結至便民服務→訴訟輔導專欄)" align="middle" src="/UserFiles/logo_1_13.jpg" /></a> - <br />
+<a title="行政訴訟收容聲請事件新制(開新視窗-連結至司法院網站)" target="_blank" href="http://www.judicial.gov.tw/work/work03_31.asp"><img border="0" alt="行政訴訟收容聲請事件新制(開新視窗-連結至司法院網站)" align="middle" src="/UserFiles/logo_1_12.gif" /></a> - <br />
+<a title="中午不打烊下班可收狀(連結至單一窗口聯合服務中心)" href="http://tcb.judicial.gov.tw/?struID=0&amp;cid=95"><img border="0" alt="中午不打烊下班可收狀(連結至單一窗口聯合服務中心)" align="middle" src="/UserFiles/logo_1_1.gif" /></a> - <br />
+<a title="法學檢索系統(開新視窗-連結至司法院網站)" target="_blank" href="http://jirs.judicial.gov.tw/"><img border="0" alt="法學檢索系統(另開新視窗-連結至司法院網站)" align="middle" src="/UserFiles/logo_s.gif" /></a> - <br />
+<a title="書狀範例(開新視窗-連至司法院網站)" target="_blank" href="http://www.judicial.gov.tw/assist/assist03/assist03-08.asp"><img border="0" alt="書狀範例(另開新視窗-連至司法院網站)" align="middle" src="/UserFiles/logo_w.gif" /></a> - <br />
+<a target="_blank" href="http://www.judicial.gov.tw/work/work05.asp"><img border="0" alt="法院遠距訊問服務(另開新視窗-連結至司法院網站)" align="middle" src="/UserFiles/logo-q.gif" /></a> - <br />
+<a title="訴訟輔導專欄(連結至訴訟輔導專欄)" href="http://tcb.judicial.gov.tw/?struID=0&amp;cid=40"><img border="0" alt="訴訟輔導專欄(連結至訴訟輔導專欄)" align="middle" src="/UserFiles/訴訟輔導專欄.gif" /></a> - <br />
+<a title="政府電子採購網(開新視窗-連結至政府電子採購網)" target="_blank" href="http://web.pcc.gov.tw/"><img border="0" alt="政府電子採購網(開新視窗-連結至政府電子採購網)" align="middle" src="/UserFiles/政府電子採購網.GIF" /></a>-<br />
+<a title="書狀上傳區(開新視窗-連結至書狀上傳區)" target="_blank" href="http://210.69.124.206/jud_k/wke/LoginFEXG.jsp"><img border="0" alt="書狀上傳區(開新視窗-連結至書狀上傳區)" width="149" align="middle" height="42" src="/UserFiles/書狀上傳區.GIF" /></a>-<br />
+<a title="綠色生活資訊網(開新視窗-綠色生活資訊網)" target="_blank" href="http://greenliving.epa.gov.tw/GreenLife/"><img border="0" alt="綠色生活資訊網(開新視窗-綠色生活資訊網)" width="149" align="middle" height="42" src="/UserFiles/logo_g.GIF" /></a>-<br />
+<a title="案件進度查詢(開新視窗-連結至司法院案件進度查詢系統)" target="_blank" href="http://cpor.judicial.gov.tw/cqry/Login.do"><img border="0" alt="案件進度查詢(開新視窗-連結至司法院案件進度查詢系統)" width="149" align="middle" height="42" src="/UserFiles/案件進度查詢.jpg" /></a>-<br />
+<a title="開庭進度查詢(開新視窗-連結至司法院開庭進度查詢)" target="_blank" href="http://www.judicial.gov.tw/ctstate/getctstate.asp?courtcode=TCB"><img border="0" alt="開庭進度查詢(開新視窗-連結至司法院開庭進度查詢)" width="149" align="middle" height="42" src="/UserFiles/開庭進度查詢.jpg" /></a>-<br />
+<a title="司法改革新作為(開新視窗-連結至司法院司法改革新作為)" target="_blank" href="http://www.judicial.gov.tw/revolution/index.asp"><img border="0" alt="司法改革新作為(開新視窗-連結至司法院司法改革新作為)" width="149" align="middle" height="42" src="/UserFiles/logo_1_10.gif" /></a>-<br />
+<a title="政府機關檔案管理(開新視窗-連結至政府機關檔案管理)" target="_blank" href="http://www.archives.gov.tw/"><img border="0" alt="政府機關檔案管理(開新視窗-連結至政府機關檔案管理)" width="149" align="middle" height="42" src="/UserFiles/logo_1_11.gif" /></a>-<br /></div>
+                                <br />
+                  <img src="images/right_icon3.jpg" alt="法治宣導專區" width="180" height="33" />
+                  <div style="margin-left:20px"><a title="法治教育網(另開新視窗-連結至司法院網站)" target="_blank" href="http://www.judicial.gov.tw/ByLaw/index.jsp"><img style="MARGIN-BOTTOM: 3px" border="0" alt="法治教育網(另開新視窗-連結至司法院網站)" align="middle" src="/UserFiles/logo_2_1.gif" /></a> - <br />
+<a title="司法博物館(另開新視窗-連結至司法院網站)" target="_blank" href="http://www.judicial.gov.tw/museum/"><img style="MARGIN-BOTTOM: 3px" border="0" alt="司法博物館(另開新視窗-連結至司法院網站)" align="middle" src="/UserFiles/logo_2_2.gif" /></a>- <br />
+<!--
+<a href="http://www.moj.gov.tw/lp.asp?CtNode=22766&amp;CtUnit=5985&amp;BaseDSD=7&amp;mp=001"><img height="54" alt="繼承新法，報你知" width="149" border="0" src="/UserFiles/繼承新法報你知.gif" /></a>- <br />
+--><a title="節能減碳全民行動網(另開新視窗)" target="_blank" href="http://ecolife.epa.gov.tw"><img style="MARGIN-BOTTOM: 3px" border="0" alt="節能減碳全民行動網" align="middle" src="/UserFiles/logo_2_3.GIF" /></a>- <br />
+<a title="反性別暴力資源網(另開新視窗)" target="_blank" href="http://tagv.mohw.gov.tw/"><img style="MARGIN-BOTTOM: 3px" border="0" alt="反性別暴力資源網(另開新視窗)" align="middle" width="149" src="/UserFiles/logo_2_4.GIF" /></a>- <br />
+<a title="人民參與審判微電影「裁量之間」(另開新視窗)" target="_blank" href="https://www.youtube.com/watch?v=Vgq_9ciPiyI"><img style="MARGIN-BOTTOM: 3px" border="0" alt="人民參與審判微電影「裁量之間」(另開新視窗)" align="middle" width="149" src="/UserFiles/logo_2_5.jpg" /></a>- <br /></div>
+                </div>
+                  </td>
+                
+              </tr>
+            </table></td>
+          </tr>
+                </table></td>
+          </tr>
+        </table></td>
+  </tr>
+  <tr>
+   <td><img name="tcb_r21_c1" src="images/tcb_r21_c1.jpg" width="980" height="18" border="0" id="tcb_r21_c1" alt="" /></td>
+  </tr>
+  <tr>
+   <td align="center" background="images/tcb_r22_c1.jpg"><table border="0" cellspacing="0" cellpadding="0" summary="網站排版表格">
+     <tr>
+       <td align="center"><a href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20071130233138" title = "無障礙網站" target="_blank"> <img src="http://tcb.judicial.gov.tw/images/aaa.jpg"
+ width="88" height="31"  border="0"
+ alt="通過AAA優先等級無障礙網頁檢測(另開新視窗)" /></a></td>
+       <td align="left"><p>　　■ 版權所有：臺中高等行政法院　■ 電話：04-22600800　
+         ■ 住址：40246臺中市南區五權南路99號　■ 瀏覽人數：940977（自101.10.2起統計） <br />
+         　　■ <a href="http://tcb.judicial.gov.tw/司法院所屬各機關資訊安全管理程序書.pdf" title="超連結_資訊安全政策宣告(另開新視窗)" target="_blank">資訊安全政策宣告</a> 　■ <a href="http://tcb.judicial.gov.tw/privacy.asp" title="超連結_版權宣告／隱私權保護／網站安全政策(另開新視窗)" target="_blank">版權宣告／隱私權保護／網站安全政策</a>　
+         ■ 建議使用IE   6.0或Firefox 2.0 以上瀏覽器　■ 最佳瀏覽螢幕解析度1024x768<br/>
+         　　■ <a href="http://tcb.judicial.gov.tw/?struID=0&cid=90" title="超連結_停車資訊(另開新視窗)" target="_blank">停車資訊</a><br/><br/></p></td> 　
+     </tr>
+   </table></td>
+  </tr>
+</table>
+</body>
+</html>

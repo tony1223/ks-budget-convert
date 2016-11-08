@@ -1,0 +1,210 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ZH" xml:lang="ZH">
+<head>
+<meta name="Accessible_website" content="本網站通過第(2)優先等級無障礙網頁檢測">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="Content-Type" content="text/html; charset=big5" />
+<title>最高行政法院 : 首頁  &gt; 會統專欄 &gt; 本院預算及決算書 > 106年度預算案書(105年8月26日公告)</title>
+<!--[if IE]>
+<script type="text/javascript" src="images/pngfix.js"></script>
+<![endif]--> 
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-15202100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script type="text/javascript">
+
+function mover(st) {
+st.style.backgroundColor = '#f2f2f2';
+}
+function mout(st) {
+st.style.backgroundColor = '';
+}
+
+//將頁面中的關鍵字高亮顯示,在body的onload中使用
+function HighLight(nWord){
+    var orange = document.body.createTextRange();    
+        while(orange.findText(nWord)){
+            orange.pasteHTML("<span style='color:red; background-color:#ffc'>" + orange.text + "</span>");
+            orange.moveStart('character',1);            
+    }    
+}
+
+//將頁面中的關鍵字高亮顯示,在body的onload中使用(支持多個關鍵字，多個關鍵字用空格分開)
+function highword(nWord)
+{
+    //將全形空格(逗號)轉半型空格
+    nWord = nWord.replace(/\　/g,"|");    
+    nWord = nWord.replace(/\,/g,"|");    
+    nWord = nWord.replace(/\，/,"|");    
+    nWord = nWord.replace(/\ /g,"|");
+        
+    var Arr = nWord.split("|");
+    for(var i=0;i<Arr.length;i++){        
+        HighLight(Arr[i]);
+    }
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<link href="layout.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body onload="MM_preloadImages('images/tpa_r2_c17_f2.jpg','images/tpa_r2_c20_f2.jpg','images/tpa_r2_c24_f2.jp','images/tpa_r2_c24_f2.jpg','images/index_r2_c11_f2.jpg','images/index_r2_c14_f2.jpg','images/index_r2_c17_f2.jpg','images/index_r2_c19_f2.jpg','images/index_r2_c21_f2.jpg','images/index_r2_c23_f2.jpg','images/index_r2_c25_f2.jpg')">
+    <table width="10%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" summary="網站排版用表格">
+          <tr>
+            <td align="right" style="background: url(images/index_r1_c1.jpg) bottom left no-repeat"><a href="?sitemap=true" class="map" accesskey="M" title="主要選單列">:::</a><img src="images/tpa_r2_c15.jpg" alt="" width="12" height="20" align="absmiddle" /><a href="?" onfocus="MM_swapImage('Image21','','images/tpa_r2_c17_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image21','','images/tpa_r2_c17_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/tpa_r2_c17.jpg" alt="回到首頁" name="Image21" width="50" height="20" border="0" align="absmiddle" id="Image21" /></a><img src="images/tpa_r2_c19.jpg" alt="" width="15" height="20" align="absmiddle" /><a href="?sitemap=true" onfocus="MM_swapImage('Image22','','images/tpa_r2_c20_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image22','','images/tpa_r2_c20_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/tpa_r2_c20.jpg" alt="網站地圖" name="Image22" width="50" height="20" border="0" align="absmiddle" id="Image22" /></a><img src="images/tpa_r2_c23.jpg" alt="" width="18" height="20" align="absmiddle" /><a href="indexen.asp" onfocus="MM_swapImage('Image23','','images/tpa_r2_c24_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image23','','images/tpa_r2_c24_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/tpa_r2_c24.jpg" alt="English (Web)" name="Image23" width="40" height="20" border="0" align="absmiddle" id="Image23" /></a><img src="images/tpa_r2_c25.jpg" alt="" width="29" height="20" align="top" /></td>
+          </tr>
+          <tr>
+            <td><a href="index.asp"><img src="images/index_r2_c1.jpg" width="235" height="46" border="0" alt="回到最高行政法院首頁" /></a><img src="images/index_r2_c8.jpg" alt="" width="21" height="46" /><a href="?struID=1&cid=10" onfocus="MM_swapImage('Image11','','images/index_r2_c11_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','images/index_r2_c11_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/index_r2_c11.jpg" alt="認識本院" name="Image11" width="72" height="46" border="0" id="Image11" /></a><img src="images/index_r2_c12.jpg" width="32" height="46" alt="" /><a href="?struID=2&amp;navID=2&amp;cid=8" onfocus="MM_swapImage('Image12','','images/index_r2_c14_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image12','','images/index_r2_c14_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/index_r2_c14.jpg" alt="公告事項" name="Image12" width="71" height="46" border="0" id="Image12" /></a><img src="images/index_r2_c16.jpg" width="34" height="46" alt="" /><a href="?struID=3&amp;navID=3&amp;cid=21" onfocus="MM_swapImage('Image13','','images/index_r2_c17_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image13','','images/index_r2_c17_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/index_r2_c17.jpg" alt="資訊查詢服務" name="Image13" width="96" height="46" border="0" id="Image13" /></a><img src="images/index_r2_c18.jpg" width="34" height="46" alt="" /><a href="?struID=4&amp;navID=4&amp;cid=46" onfocus="MM_swapImage('Image14','','images/index_r2_c19_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image14','','images/index_r2_c19_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/index_r2_c19.jpg" alt="政風專欄" name="Image14" width="70" height="46" border="0" id="Image14" /></a><img src="images/index_r2_c20.jpg" width="33" height="46" alt="" /><a href="?struID=5&amp;navID=5&amp;cid=51" onfocus="MM_swapImage('Image15','','images/index_r2_c21_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image15','','images/index_r2_c21_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/index_r2_c21.jpg" alt="會統專欄" name="Image15" width="71" height="46" border="0" id="Image15" /></a><img src="images/index_r2_c22.jpg" width="31" height="46" alt="" /><a href="?struID=6&amp;navID=6&amp;cid=53" onfocus="MM_swapImage('Image16','','images/index_r2_c23_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image16','','images/index_r2_c23_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/index_r2_c23.jpg" alt="便民服務" name="Image16" width="72" height="46" border="0" id="Image16" /></a><img src="images/index_r2_c24.jpg" width="32" height="46" alt="" /><a href="?struID=7&amp;navID=7&amp;cid=56" onfocus="MM_swapImage('Image17','','images/index_r2_c25_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image17','','images/index_r2_c25_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/index_r2_c25.jpg" alt="相關網站" name="Image17" width="70" height="46" border="0" id="Image17" /></a><img src="images/index_r2_c27.jpg" width="26" height="46" alt="" /></td>
+          </tr>
+          <tr>
+            <td><img src="images/index_r3_c1.jpg" width="1000" height="12" alt="" /></td>
+          </tr>
+      <tr>
+        <td><table width="100%" border="0" cellpadding="0" cellspacing="0" summary="網站排版用表格">
+            <tr valign="top">
+              <td width="1%"><img src="images/spacer.gif" width="20" height="1" alt="" /></td>
+              <td width="8%"><table width="100%" border="0" cellpadding="0" cellspacing="0" summary="網站排版用表格">
+                <tr>
+                  <td align="left"><img src="images/index_r4_c2.jpg" alt="資料查詢" width="195" height="50" border="0" /></td>
+                </tr>
+                <tr>
+                  <td align="center" style="background:url(images/index_r5_c2.jpg) repeat-y"><form action="" method="get" class="searchform" >
+                    <input name="searchtype" id="searchtype" type="hidden" value="website" />
+                    <label for="label" style="color:#CCC; font-size:0.9em">查</label>
+                    <input name="keyword" type="text" class="searchbox" id="label" value="請輸入關鍵字" size="12" accesskey="S"onblur="javascript: if(this.value=='') this.value='請輸入關鍵字';" onfocus="javascript: if(this.value=='請輸入關鍵字') this.value='';"/>
+                    <input name="search" type="hidden" class="textbox" id="search" value="true" /> <input name="search" type="image" id="search" src="images/go.gif" ALT="確認搜尋" align="middle">
+                  </form></td>
+             </tr>
+                <tr>
+                  <td align="left"><img src="images/index_r6_c2.jpg" alt="" width="195" height="14" border="0" /></td>
+                </tr>                     
+                <tr>
+                  <td><a href="?sitemap=true" class="map" accesskey="L" title="左側選單列">:::</a><br/>
+                  
+                  <img src="images/memu05.jpg" alt="會統專欄子選項" width="195" height="42" align="absbottom" />
+                      
+                  </td>
+                </tr>
+                <tr><td style="background:url(images/index_r8_c2.jpg) repeat-y"><table width="92%" border="0" align="center" cellpadding="0" cellspacing="0" style="" summary="網站排版用表格">
+                  
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><span style="color:#06C; font-weight:bold">‧</span> 
+                        <a href="?struID=5&amp;cid=51" title="本院預算及決算書"><strong>本院預算及決算書</strong></a>
+						
+                        <table width="85%" border="0" align="right" summary="網站排版用表格">
+						
+                        </table>
+													</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><span style="color:#06C; font-weight:bold">‧</span> 
+                        <a href="?struID=5&amp;cid=64" title="本院會計報告"><strong>本院會計報告</strong></a>
+													</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><span style="color:#06C; font-weight:bold">‧</span> <a href="http://www.judicial.gov.tw/acc/index.htm" title="司法院預算及決算(另開新視窗)" target="_blank"><strong>
+                        司法院預算及決算</strong></a>
+                        							</td>
+                         </tr>
+                    
+                  </table></td>
+                  </tr>
+                  <tr><td><img src="images/index_r12_c2.jpg" width="195" height="18" alt="" /></td></tr>
+                  <tr>
+                    <td><img src="images/index_r14_c2.jpg" width="195" height="48" alt="" /></td></tr>
+                  <tr>
+                <td align="center" style="background:url(images/index_r15_c2.jpg) repeat-y"><div class="LBlock"><p><a href="http://tpb.judicial.gov.tw/" target="_blank"><img alt="台北高等行政法院連結圖示" src="images/台北高等行政法院.jpg" style="border-style:solid; border-width:0px" /></a><br />
+<a href="http://tcb.judicial.gov.tw/" target="_blank"><img alt="台中高等行政法院連結圖示" src="images/台中高等行政法院.jpg" style="border-style:solid; border-width:0px" /></a><br />
+<a href="http://ksb.judicial.gov.tw/chinese/index.aspx" target="_blank"><img alt="高雄高等行政法院連結圖示" src="images/高雄高等行政法院.jpg" style="border-style:solid; border-width:0px" /></a><br />
+<a href="http://ipc.judicial.gov.tw/ipr_internet/" target="_blank"><img alt="智慧財產法院連結圖示" src="images/智慧財產法院.jpg" style="border-style:solid; border-width:0px" /></a></p>
+</div></td></tr>
+                  <tr>
+                    <td><img src="images/index_r21_c2.jpg" width="195" height="25" alt="" /></td></tr>
+              </table></td>
+            <td width="100%" align="left" bgcolor="#FFFFFF" class="norepeat" >
+            <div id="mainContent">
+              <div align="center" style="margin-bottom:10px;">
+ 				 <script language=JavaScript src="picsw.js"></script>
+		    </div>
+                
+                <div width="100%" class="navgate">
+<a href="?sitemap=true" class="map" accesskey="C" title="主要內容區">:::</a><img src="images/home_5.jpg" alt="導覽首頁圖示" width="15" height="15" align="absmiddle" /><font color="#FFFFFF">-</font><a href="?" title="首頁">首頁</a>
+                         &gt; <a href='?struID=5&cid=5' title='會統專欄'>會統專欄</a> &gt; <a href='?struID=5&cid=51' title='本院預算及決算書'>本院預算及決算書</a>
+                      &gt; 106年度預算案書(105年8月26日公告)</div>
+       <img src="images/line_6.jpg" width="740" height="7" alt=""/>
+    
+                  <h1>本院預算及決算書</h1>
+                <h2>106年度預算案書(105年8月26日公告)</h2>
+                <p><p><a href="/userfiles/files/106budget.pdf">106年度預算案書_pdf檔105年8月26日公告)</a></p>
+
+<p><a href="/userfiles/files/106%2Dexcel.7z">106年度預算案書_excel檔(105年8月26日公告)</a></p>
+
+<p><a href="/userfiles/files/106%2Dxml.7z">106年度預算案書_xml檔(105年8月26日公告)</a></p>
+
+<p><a href="/userfiles/files/106%E5%B9%B4%E7%B8%BD%E8%AA%AA%E6%98%8E.doc">106年度預算案書總說明_word檔(105年8月26日公告)</a></p>
+
+<p>&nbsp;</p>
+</p>
+                
+                <span class="clean"></span>
+                  
+                  <span class="clean"></span>
+                  
+              </div></td>
+            </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td style="background:url(images/index_r23_c1.jpg) repeat-x"><img src="images/spacer.gif" width="1" height="8" alt="" /></td></tr>
+      <tr>
+        <td ><table width="100%" border="0" cellspacing="0" cellpadding="0" summary="網站排版用表格" style="background-color:#EEE">
+          <tr>
+            <td width="24%" align="center"><div class="foot2"><a href = "http://www.webguide.nat.gov.tw/enable.jsp?category=20100923114916" title = "無障礙網站" target="_blank"><img src="images/aplus.jpg" alt="通過A+優先等級無障礙網頁檢測(另開新視窗)" border="0" align="absmiddle" style=" margin:5px 10px;" /></a><br />
+              瀏覽人數：
+              <img src=images/counter/1.gif align='absmiddle' alt='1576696'><img src=images/counter/5.gif align='absmiddle' alt='1576696'><img src=images/counter/7.gif align='absmiddle' alt='1576696'><img src=images/counter/6.gif align='absmiddle' alt='1576696'><img src=images/counter/6.gif align='absmiddle' alt='1576696'><img src=images/counter/9.gif align='absmiddle' alt='1576696'><img src=images/counter/6.gif align='absmiddle' alt='1576696'></div></td>
+            <td><img src="images/index_r25_c5.jpg" width="8" height="74" alt="" /></td>
+            <td><p class="foot"><a title="連結至司法院版權宣告/隱私權保護/網站安全政策(另開視窗)" target="_blacnk" href="http://www.judicial.gov.tw/privacy.asp"> 版權宣告 / 隱私權保護 / 網站安全政策</a><br/>
+              台北市重慶南路一段126巷1號   TEL: 02-2311-3691 / FAX: 02-2311-1791　<br />
+              最高行政法院版權所有 c 2013 Supreme Administrative Court, All Rights Reserved.  </p></td>
+            <td width="18%" align="center"><img src="images/QRcode.jpg" alt="最高行政法院 QR CODE" width="76" height="75" align="middle" style="margin: 3px;" /></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td style="background:url(images/index_r29_c1.jpg) repeat-x"><img src="images/spacer.gif" width="1" height="8" alt="" /></td></tr>
+      <tr>
+    </table>
+</body>
+</html>

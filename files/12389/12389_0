@@ -1,0 +1,1285 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<HTML lang=zh-TW><!-- InstanceBegin template="Templates/content.dwt" codeOutsideHTMLIsLocked="false" -->
+
+<HEAD>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>臺南區農業改良場 - 主計業務相關資料</title>
+<!-- InstanceEndEditable -->
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+<link href="css/menu.css" rel="stylesheet" type="text/css">
+<meta name="Category.Theme" content="710"/>
+<meta name="Category.Cake" content="AX5"/>
+<meta name="Category.Service" content="I61"/>
+<meta name="keywords" content="臺南區能業改良場, 臺南農改場, 臺南改良場, 土壤肥料, 施肥, 農機, 農業機械, 自動化">
+<meta name="title" content="臺南區農業改良場 - 主計業務相關資料">
+
+<link href="%7Bcss_link1%7D" rel="stylesheet" type="text/css">
+
+<link rel="stylesheet" href="js/jquery-ui.css">
+<script src="js/jquery.js"></script>
+<script src="js/jquery-ui.js"></script>
+<script src="js/jquery.cookie.js" type="text/javascript"></script>
+<script src="images_default/style2009/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="Scripts/swfobject_modified.js" type="text/javascript"></script>
+<script language="JavaScript">
+<!--
+var obj;
+var menu_s=0;
+var id_tmp;
+var root_tmp;
+//選單彈跳開啟
+function menu_start(id,objs,root) {
+	menu_close_all();	//關閉其他彈跳選單
+	id_tmp=id;
+	root_tmp=root;
+	change_win(id,root)	//設定彈跳視窗位置
+	//顯示彈跳視窗
+	element=document.getElementById(id)
+	element.style.display='block';
+	element.style.zIndex=99;
+} // mmLoadMenus()
+//-->
+//關閉彈跳選單
+function menu_close(id,e,obj){
+	var element=document.getElementById(id);
+	var height=0;
+	var top=0;
+	var left=0;
+	var right=0;
+	//阻止左邊邊界事件冒泡
+	var mx=getMouseX(e);
+	var my=getMouseY(e);
+	if( !-[1,] ){ //IE  
+		height=element.offsetTop+element.offsetHeight-document.documentElement.scrollTop-6;
+		top=element.offsetTop-document.documentElement.scrollTop+6;
+		left=element.offsetLeft+6;
+		right=element.offsetLeft+element.offsetWidth;
+	}
+	else{
+		height=element.offsetTop+element.offsetHeight-document.documentElement.scrollTop-2;
+		top=element.offsetTop-document.documentElement.scrollTop;
+		left=element.offsetLeft+6;
+		right=element.offsetLeft+element.offsetWidth;
+	}
+	
+	if(mx>right || my>height || my<top){
+		element.style.display='none';
+	}	
+	
+	//阻止事件冒泡
+	if( !-[1,] ) //IE  
+	{  
+		var readonly = "readOnly";  
+		var objs = window.event.srcElement;
+		if(obj!=objs){
+			window.event.cancelBubble=true;
+			return;
+		}
+	}  
+	else 
+	{   
+		var readonly = "readonly"; 
+		var objs = e.target;
+		if(obj!=objs){
+			stopPropagation();
+			return;
+		}
+	}
+	
+	if(mx <left)
+		return;
+	//阻止右邊邊界事件冒泡
+	if(mx >left && mx<right){
+		if(my<=height && my>=top)
+			return;	
+	}
+	element.style.display='none';
+}
+//root關閉彈跳選單
+function menu_root_close(id,e,obj){
+	var element=document.getElementById(id);
+	var height=0;
+	var top=0;
+	var left=0;
+	var right=0;
+	var mx=getMouseX(e);
+	var my=getMouseY(e);
+	if( !-[1,] ){ //IE  
+		height=element.offsetTop+element.offsetHeight-document.documentElement.scrollTop-6;
+		top=element.offsetTop-document.documentElement.scrollTop+6;
+		left=element.offsetLeft;
+		right=element.offsetLeft+element.offsetWidth;
+	}
+	else{
+		height=element.offsetTop+element.offsetHeight-document.documentElement.scrollTop-2;
+		top=element.offsetTop-document.documentElement.scrollTop;
+		left=element.offsetLeft;
+		right=element.offsetLeft+element.offsetWidth;
+	}	
+	//阻止右邊邊界事件冒泡
+	if(mx >=left){
+			return;	
+	}
+	element.style.display='none';
+}
+//關閉所有彈跳選單
+function menu_close_all(){
+		var element1=document.getElementById('menu_'+1);
+	element1.style.display='none';
+		var element2=document.getElementById('menu_'+2);
+	element2.style.display='none';
+		var element4=document.getElementById('menu_'+4);
+	element4.style.display='none';
+		var element49=document.getElementById('menu_'+49);
+	element49.style.display='none';
+		var element6=document.getElementById('menu_'+6);
+	element6.style.display='none';
+		var element7=document.getElementById('menu_'+7);
+	element7.style.display='none';
+		var element8=document.getElementById('menu_'+8);
+	element8.style.display='none';
+		var element9=document.getElementById('menu_'+9);
+	element9.style.display='none';
+		var element10=document.getElementById('menu_'+10);
+	element10.style.display='none';
+		var element3034=document.getElementById('menu_'+3034);
+	element3034.style.display='none';
+		var element2786=document.getElementById('menu_'+2786);
+	element2786.style.display='none';
+		var element3046=document.getElementById('menu_'+3046);
+	element3046.style.display='none';
+		var element12=document.getElementById('menu_'+12);
+	element12.style.display='none';
+		var element13=document.getElementById('menu_'+13);
+	element13.style.display='none';
+	}
+//設定彈跳選單寬度
+function set_width(id){
+	var element=document.getElementById(id);
+	if( !-[1,] ){ //IE  
+		if(element.offsetWidth!=0){
+			element.style.width=element.offsetWidth+40;
+		}
+	}
+	else{	//firefox
+		//element.style.width=element.offsetWidth+15+'px';
+	}
+}
+//取得滑鼠目前的x座標
+function getMouseX(e) {
+  if ( !-[1,] ) { // grab the x-y pos.s if browser is IE
+    tempX = event.clientX + document.body.scrollLeft
+    tempY = event.clientY + document.body.scrollTop
+  } else {  // grab the x-y pos.s if browser is NS
+    tempX = e.pageX
+    tempY = e.pageY
+  }  
+  // catch possible negative values in NS4
+  if (tempX < 0){tempX = 0}
+  if (tempY < 0){tempY = 0}  
+  // show the position values in the form named Show
+  // in the text fields named MouseX and MouseY
+  return tempX;
+}
+//取得滑鼠目前的Y座標
+function getMouseY(e) {
+  if ( !-[1,] ) { // grab the x-y pos.s if browser is IE
+    tempX = event.clientX + document.body.scrollLeft
+    tempY = event.clientY + document.body.scrollTop
+  } else {  // grab the x-y pos.s if browser is NS
+    tempX = e.pageX
+    tempY = e.pageY
+  }  
+  // catch possible negative values in NS4
+  if (tempX < 0){tempX = 0}
+  if (tempY < 0){tempY = 0}  
+  // show the position values in the form named Show
+  // in the text fields named MouseX and MouseY
+  return tempY;
+}
+//取得視窗大小
+function get_winodw_size(){
+	var viewportwidth; 
+	var viewportheight; 
+	var result=new Array()
+	// the more standards compliant browsers (mozilla/netscape/opera/IE7) use window.innerWidth and window.innerHeight 
+	if (typeof window.innerWidth != 'undefined') 
+	{  
+		viewportwidth = window.innerWidth,    
+		viewportheight = window.innerHeight 
+	} 
+	 // IE6 in standards compliant mode (i.e. with a valid doctype as the first line in the document) 
+	else if (typeof document.documentElement != 'undefined' && typeof document.documentElement.clientWidth !='undefined' && document.documentElement.clientWidth != 0) 
+	{        
+		viewportwidth = document.documentElement.clientWidth,      
+		viewportheight = document.documentElement.clientHeight 
+	} 
+	// older versions of IE 	 
+	else
+	{    
+		viewportwidth = document.getElementsByTagName('body')[0].clientWidth,      
+		viewportheight = document.getElementsByTagName('body')[0].clientHeight 
+	}
+	result[0]=viewportwidth;
+	result[1]=viewportheight;
+	return result;
+}
+//調整彈跳視窗位置
+function change_win(id,root){
+	id=id_tmp;	//讀取暫存的id
+	root=root_tmp;	//讀取暫存的父選單
+	var nav=navigator.appName //瀏覽器的名稱
+	var ver=navigator.appVersion//瀏覽器的版本
+	var sreen =new Array();
+	screen_win=get_winodw_size();	//取得視窗大小
+	var element=document.getElementById(id);
+	var element2=document.getElementById(root);
+	new_x=getX(element2);
+	new_y=getY(element2);
+	if(!(element) || !(element2))
+		return;
+	if( !-[1,] ){ //IE
+		element.style.top=element2.offsetTop+200+'px';	//設定選單位置
+		element.style.left=new_x+element2.offsetWidth+'px';
+	}
+	else{
+	  	element.style.top=element2.offsetTop+200+'px';	//設定選單位置
+		element.style.width='160px';
+		element.style.left=new_x+element2.offsetWidth+'px';
+	}
+}
+function div_click(catid){
+	window.location.href='view.php?catid='+catid;
+}
+function change_color(color,id,status){
+	var element=document.getElementById(id);
+	element.style.backgroundColor=color;
+	if(status!= "out"){
+		element.style.color="#C30";
+	}
+	else
+		element.style.color="#000";
+}
+function getX( oElement ){   
+	var iReturnValue = 0;   
+	while( oElement != null ) {   
+		iReturnValue += oElement.offsetLeft;   
+		oElement = oElement.offsetParent;   
+	}   
+	return iReturnValue;   
+}   
+
+function getY( oElement ){   
+	var iReturnValue = 0;   
+	while( oElement != null ) {   
+		iReturnValue += oElement.offsetTop;   
+		oElement = oElement.offsetParent;   
+	}   
+	return iReturnValue;   
+}  
+$(document).ready(function($){
+	
+	/*顯示自動完成提示字*/
+
+		$("#keyword_q").autocomplete({
+
+			source: function(request, response) {
+
+				$.ajax({
+
+					url: "http://www.tndais.gov.tw/search_keyword_save.php",
+
+					dataType: "json",
+
+					data: {
+
+						style: "tips",
+
+						website: "1",
+
+						term: request.term
+
+					},
+
+					success: function(data) {
+
+						response(data);
+
+					}
+
+				});
+
+			},
+
+			minLength: 0
+
+		});	
+
+
+});
+</script>
+
+<link href="css/real_css.css" rel="stylesheet" type="text/css">
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+</HEAD>
+
+<BODY onResize="change_win()">
+
+<table width="950" border="0" align=center cellpadding="0" cellspacing="0" class="body_line" summary="此為表格排版用">
+<tr>
+	<td colspan="2">
+	
+	</td>
+</tr>
+
+<TR>
+    <TD height="133" colSpan=2 align="left" valign="top" bgcolor="#FFFFFF"><!--banner區-->
+      <DIV class=banner_01>
+      <div class="banner_description"><a href="http://www.tndais.gov.tw/show_index.php"  title="回首頁" class="link4">回首頁</a><a href="http://m.tndais.gov.tw/"  title="行動網" class="link4" target="_blank">行動網</a><a href="eng/"  title="English" class="link4" target="_blank">English</a><a href="sitemap.php" title="網站地圖" class="link4">網站地圖</a><a href="show_record.php?catid=349" title="維護日誌" class="link4">維護日誌</a>	
+	</div>
+     <object id="FlashID" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="1003" height="132">
+          <param name="movie" value="swf/tndais_banner.swf">
+          <param name="quality" value="high">
+          <param name="wmode" value="opaque">
+          <param name="swfversion" value="6.0.65.0">
+          <!-- 此 param 標籤會提示使用 Flash Player 6.0 r65 和更新版本的使用者下載最新版本的 Flash Player。如果您不想讓使用者看到這項提示，請將其刪除。 -->
+          <param name="expressinstall" value="Scripts/expressInstall.swf">
+          <!-- 下一個物件標籤僅供非 IE 瀏覽器使用。因此，請使用 IECC 將其自 IE 隱藏。 -->
+          <!--[if !IE]>-->
+          <object type="application/x-shockwave-flash" data="swf/tndais_banner.swf" width="1003" height="132">
+            <!--<![endif]-->
+            <param name="quality" value="high">
+            <param name="wmode" value="opaque">
+            <param name="swfversion" value="6.0.65.0">
+            <param name="expressinstall" value="Scripts/expressInstall.swf">
+            <!-- 瀏覽器會為使用 Flash Player 6.0 和更早版本的使用者顯示下列替代內容。 -->
+            <div>
+              <h4>這個頁面上的內容需要較新版本的 Adobe Flash Player。</h4>
+              <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="取得 Adobe Flash Player" width="112" height="33" /></a></p>
+            </div>
+            <!--[if !IE]>-->
+          </object>
+          <!--<![endif]-->
+        </object>
+      </DIV>
+  <!--end banner --></TD></TR>
+<tr>
+
+	<td colspan="2">
+
+	<!--banner_bar區-->
+
+		<table width="100%"  border="0" cellpadding="0" cellspacing="0">		
+
+          		<tr >				
+
+		  	<td align="left">
+			<div class="banner_bar"><table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+      <td><a href="view.php?catid=39" title="便民服務" class="top_bar_link" target="_self">便民服務</a></td>
+        <td><a href="news.php" title="農業新聞" class="top_bar_link" target="_self">農業新聞</a></td>
+        <td><a href="news.php?type=news3" title="活動預告" class="top_bar_link" target="_self">活動預告</a></td>
+        <td><a href="news.php?type=news4" title="活動報導" class="top_bar_link" target="_self">活動報導</a></td>
+        <td><a href="news.php?type=news5" title="招標公告" class="top_bar_link" target="_self">招標公告</a></td>
+        <td><a href="news.php?type=news2" title="一般公告" class="top_bar_link" target="_self">一般公告</a></td>
+      </tr>
+ 
+</table>
+	  
+			  	
+
+			</div>
+
+			</td>			
+
+			</tr>		 
+
+      		</table>	
+
+   	</td>
+
+</tr>
+	
+<tr>
+	<td valign="top" class="lift_bar_photo">
+
+		<!--左邊側欄-->
+
+		<div class="links">			
+
+		<table border="0" cellpadding="0" cellspacing="0" summary="此為選單表格">				
+
+		<!--服務-->
+
+			<tr>
+
+				<td height="5"><a href="#" title="左方導覽區(引導使用網頁導覽器，前往左方選單區)" class="accesskey" accesskey="L" >:::</a></td>
+
+			</tr>
+
+			<tr>
+
+				<td >
+
+				<div id="bosom_bar_link_main">
+									<div class="bosom_bar_link" >
+										<a href="view.php?catid=1" class="bosom_bar_link" id="root_1" title="關於本場" target="_self" onmouseover="menu_start('menu_1',this,'root_1')" onMouseOut="menu_root_close('menu_1',event,this)" onfocus="menu_start('menu_1',this,'root_1')" onBlur="menu_root_close('menu_1',event,this)">關於本場</a>
+                      	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=2" class="bosom_bar_link" id="root_2" title="出版刊物" target="_self" onmouseover="menu_start('menu_2',this,'root_2')" onMouseOut="menu_root_close('menu_2',event,this)" onfocus="menu_start('menu_2',this,'root_2')" onBlur="menu_root_close('menu_2',event,this)">出版刊物</a>
+                      	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=4" class="bosom_bar_link" id="root_4" title="研究成果" target="_self" onmouseover="menu_start('menu_4',this,'root_4')" onMouseOut="menu_root_close('menu_4',event,this)" onfocus="menu_start('menu_4',this,'root_4')" onBlur="menu_root_close('menu_4',event,this)">研究成果</a>
+                      	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=49" class="bosom_bar_link" id="root_49" title="農業技術" target="_self" onmouseover="menu_start('menu_49',this,'root_49')" onMouseOut="menu_root_close('menu_49',event,this)" onfocus="menu_start('menu_49',this,'root_49')" onBlur="menu_root_close('menu_49',event,this)">農業技術</a>
+                      	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=6" class="bosom_bar_link" id="root_6" title="推廣園地" target="_self" onmouseover="menu_start('menu_6',this,'root_6')" onMouseOut="menu_root_close('menu_6',event,this)" onfocus="menu_start('menu_6',this,'root_6')" onBlur="menu_root_close('menu_6',event,this)">推廣園地</a>
+                      	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=7" class="bosom_bar_link" id="root_7" title="植物保護" target="_self" onmouseover="menu_start('menu_7',this,'root_7')" onMouseOut="menu_root_close('menu_7',event,this)" onfocus="menu_start('menu_7',this,'root_7')" onBlur="menu_root_close('menu_7',event,this)">植物保護</a>
+                      	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=8" class="bosom_bar_link" id="root_8" title="農業政策" target="_self" onmouseover="menu_start('menu_8',this,'root_8')" onMouseOut="menu_root_close('menu_8',event,this)" onfocus="menu_start('menu_8',this,'root_8')" onBlur="menu_root_close('menu_8',event,this)">農業政策</a>
+                      	
+					</div>
+										<div class="bosom_bar_link" >
+					                                        <a href="view.php?catid=9" class="bosom_bar_link" title="資料下載" target="_self" onMouseOver="menu_close_all()" onMouseOut="menu_root_close('menu_9',event,this)" onfocus="menu_close_all()" onBlur="menu_root_close('menu_9',event,this)">資料下載</a>
+                    					  	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=10" class="bosom_bar_link" id="root_10" title="政府資訊公開" target="_self" onmouseover="menu_start('menu_10',this,'root_10')" onMouseOut="menu_root_close('menu_10',event,this)" onfocus="menu_start('menu_10',this,'root_10')" onBlur="menu_root_close('menu_10',event,this)">政府資訊公開</a>
+                      	
+					</div>
+										<div class="bosom_bar_link" >
+					                                        <a href="view.php?catid=3034" class="bosom_bar_link" title="機關獎項" target="_self" onMouseOver="menu_close_all()" onMouseOut="menu_root_close('menu_3034',event,this)" onfocus="menu_close_all()" onBlur="menu_root_close('menu_3034',event,this)">機關獎項</a>
+                    					  	
+					</div>
+										<div class="bosom_bar_link" >
+					                                        <a href="view.php?catid=2786" class="bosom_bar_link" title="政風園地" target="_self" onMouseOver="menu_close_all()" onMouseOut="menu_root_close('menu_2786',event,this)" onfocus="menu_close_all()" onBlur="menu_root_close('menu_2786',event,this)">政風園地</a>
+                    					  	
+					</div>
+										<div class="bosom_bar_link" >
+										<a href="view.php?catid=3046" class="bosom_bar_link" id="root_3046" title="性別平等" target="_self" onmouseover="menu_start('menu_3046',this,'root_3046')" onMouseOut="menu_root_close('menu_3046',event,this)" onfocus="menu_start('menu_3046',this,'root_3046')" onBlur="menu_root_close('menu_3046',event,this)">性別平等</a>
+                      	
+					</div>
+										<div class="bosom_bar_link" >
+					                                        <a href="view.php?catid=12" class="bosom_bar_link" title="相關網站" target="_self" onMouseOver="menu_close_all()" onMouseOut="menu_root_close('menu_12',event,this)" onfocus="menu_close_all()" onBlur="menu_root_close('menu_12',event,this)">相關網站</a>
+                    					  	
+					</div>
+										<div class="bosom_bar_link" >
+					                    					<a href="http://intra.tndais.gov.tw/" class="bosom_bar_link" title="場內資訊" target="_blank" onMouseOver="menu_close_all()" onMouseOut="menu_root_close('menu_13',event,this)" onfocus="menu_close_all()" onBlur="menu_root_close('menu_13',event,this)">場內資訊</a>
+                    					  	
+					</div>
+					                                <div id="menu_1" class="menu_root" onMouseOut="menu_close('menu_1',event,this)" onBlur="menu_close('menu_1',event,this)">
+                &nbsp;<br>
+                <div class="menu_head">&nbsp;</div>
+                             <a href="view.php?catid=57" class="menu_text" title="首長介紹" alt="首長介紹" target="">&nbsp;<div id="menu_57" class="menu_sub" onClick="div_click('57')" onMouseOut="change_color('#ffffff','menu_57','out')" onMouseOver="change_color('#DEF2A4','menu_57')" onKeyPress="div_click('57')" onBlur="change_color('#ffffff','menu_57','out')" onfocus="change_color('#DEF2A4','menu_57')">首長介紹&nbsp;</div></a>
+                                                               <a href="view.php?catid=28" class="menu_text" title="沿革" alt="沿革" target="">&nbsp;<div id="menu_28" class="menu_sub" onClick="div_click('28')" onMouseOut="change_color('#ffffff','menu_28','out')" onMouseOver="change_color('#DEF2A4','menu_28')" onKeyPress="div_click('28')" onBlur="change_color('#ffffff','menu_28','out')" onfocus="change_color('#DEF2A4','menu_28')">沿革&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=29" class="menu_text" title="任務" alt="任務" target="">&nbsp;<div id="menu_29" class="menu_sub" onClick="div_click('29')" onMouseOut="change_color('#ffffff','menu_29','out')" onMouseOver="change_color('#DEF2A4','menu_29')" onKeyPress="div_click('29')" onBlur="change_color('#ffffff','menu_29','out')" onfocus="change_color('#DEF2A4','menu_29')">任務&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=30" class="menu_text" title="組織" alt="組織" target="">&nbsp;<div id="menu_30" class="menu_sub" onClick="div_click('30')" onMouseOut="change_color('#ffffff','menu_30','out')" onMouseOver="change_color('#DEF2A4','menu_30')" onKeyPress="div_click('30')" onBlur="change_color('#ffffff','menu_30','out')" onfocus="change_color('#DEF2A4','menu_30')">組織&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=31" class="menu_text" title="編制及專家名單" alt="編制及專家名單" target="">&nbsp;<div id="menu_31" class="menu_sub" onClick="div_click('31')" onMouseOut="change_color('#ffffff','menu_31','out')" onMouseOver="change_color('#DEF2A4','menu_31')" onKeyPress="div_click('31')" onBlur="change_color('#ffffff','menu_31','out')" onfocus="change_color('#DEF2A4','menu_31')">編制及專家名單&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=32" class="menu_text" title="課股信箱" alt="課股信箱" target="">&nbsp;<div id="menu_32" class="menu_sub" onClick="div_click('32')" onMouseOut="change_color('#ffffff','menu_32','out')" onMouseOver="change_color('#DEF2A4','menu_32')" onKeyPress="div_click('32')" onBlur="change_color('#ffffff','menu_32','out')" onfocus="change_color('#DEF2A4','menu_32')">課股信箱&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=33" class="menu_text" title="各單位資訊" alt="各單位資訊" target="">&nbsp;<div id="menu_33" class="menu_sub" onClick="div_click('33')" onMouseOut="change_color('#ffffff','menu_33','out')" onMouseOver="change_color('#DEF2A4','menu_33')" onKeyPress="div_click('33')" onBlur="change_color('#ffffff','menu_33','out')" onfocus="change_color('#DEF2A4','menu_33')">各單位資訊&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=34" class="menu_text" title="農業環境" alt="農業環境" target="">&nbsp;<div id="menu_34" class="menu_sub" onClick="div_click('34')" onMouseOut="change_color('#ffffff','menu_34','out')" onMouseOver="change_color('#DEF2A4','menu_34')" onKeyPress="div_click('34')" onBlur="change_color('#ffffff','menu_34','out')" onfocus="change_color('#DEF2A4','menu_34')">農業環境&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=35" class="menu_text" title="本場業務區域圖" alt="本場業務區域圖" target="">&nbsp;<div id="menu_35" class="menu_sub" onClick="div_click('35')" onMouseOut="change_color('#ffffff','menu_35','out')" onMouseOver="change_color('#DEF2A4','menu_35')" onKeyPress="div_click('35')" onBlur="change_color('#ffffff','menu_35','out')" onfocus="change_color('#DEF2A4','menu_35')">本場業務區域圖&nbsp;</div></a>
+                                                                                   <a href="google_map.php?catid=36" class="menu_text" title="本場路線圖" alt="本場路線圖" target="">&nbsp;<div id="menu_36" class="menu_sub" onClick="div_click('36')" onMouseOut="change_color('#ffffff','menu_36','out')" onMouseOver="change_color('#DEF2A4','menu_36')" onKeyPress="div_click('36')" onBlur="change_color('#ffffff','menu_36','out')" onfocus="change_color('#DEF2A4','menu_36')">本場路線圖&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=2911" class="menu_text" title="如何來本場" alt="如何來本場" target="">&nbsp;<div id="menu_2911" class="menu_sub" onClick="div_click('2911')" onMouseOut="change_color('#ffffff','menu_2911','out')" onMouseOver="change_color('#DEF2A4','menu_2911')" onKeyPress="div_click('2911')" onBlur="change_color('#ffffff','menu_2911','out')" onfocus="change_color('#DEF2A4','menu_2911')">如何來本場&nbsp;</div></a>
+                                                             &nbsp;<br>
+                </div>
+                <script type="text/javascript">set_width('menu_1')</script>
+                <noscript><div style="position:absolute; left:240px;top:200px;width:130px">無javascript不支援浮動選單，請直接點選選單</div></noscript>
+                            <div id="menu_2" class="menu_root" onMouseOut="menu_close('menu_2',event,this)" onBlur="menu_close('menu_2',event,this)">
+                &nbsp;<br>
+                <div class="menu_head">&nbsp;</div>
+                             <a href="view.php?catid=37" class="menu_text" title="農業專訊" alt="農業專訊" target="">&nbsp;<div id="menu_37" class="menu_sub" onClick="div_click('37')" onMouseOut="change_color('#ffffff','menu_37','out')" onMouseOver="change_color('#DEF2A4','menu_37')" onKeyPress="div_click('37')" onBlur="change_color('#ffffff','menu_37','out')" onfocus="change_color('#DEF2A4','menu_37')">農業專訊&nbsp;</div></a>
+                                                               <a href="view.php?catid=38" class="menu_text" title="農情月刊" alt="農情月刊" target="">&nbsp;<div id="menu_38" class="menu_sub" onClick="div_click('38')" onMouseOut="change_color('#ffffff','menu_38','out')" onMouseOver="change_color('#DEF2A4','menu_38')" onKeyPress="div_click('38')" onBlur="change_color('#ffffff','menu_38','out')" onfocus="change_color('#DEF2A4','menu_38')">農情月刊&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=336" class="menu_text" title="研究彙報" alt="研究彙報" target="">&nbsp;<div id="menu_336" class="menu_sub" onClick="div_click('336')" onMouseOut="change_color('#ffffff','menu_336','out')" onMouseOver="change_color('#DEF2A4','menu_336')" onKeyPress="div_click('336')" onBlur="change_color('#ffffff','menu_336','out')" onfocus="change_color('#DEF2A4','menu_336')">研究彙報&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=337" class="menu_text" title="技術專刊" alt="技術專刊" target="">&nbsp;<div id="menu_337" class="menu_sub" onClick="div_click('337')" onMouseOut="change_color('#ffffff','menu_337','out')" onMouseOver="change_color('#DEF2A4','menu_337')" onKeyPress="div_click('337')" onBlur="change_color('#ffffff','menu_337','out')" onfocus="change_color('#DEF2A4','menu_337')">技術專刊&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=338" class="menu_text" title="年報" alt="年報" target="">&nbsp;<div id="menu_338" class="menu_sub" onClick="div_click('338')" onMouseOut="change_color('#ffffff','menu_338','out')" onMouseOver="change_color('#DEF2A4','menu_338')" onKeyPress="div_click('338')" onBlur="change_color('#ffffff','menu_338','out')" onfocus="change_color('#DEF2A4','menu_338')">年報&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=339" class="menu_text" title="其他(專輯、推廣文宣...等)" alt="其他(專輯、推廣文宣...等)" target="">&nbsp;<div id="menu_339" class="menu_sub" onClick="div_click('339')" onMouseOut="change_color('#ffffff','menu_339','out')" onMouseOver="change_color('#DEF2A4','menu_339')" onKeyPress="div_click('339')" onBlur="change_color('#ffffff','menu_339','out')" onfocus="change_color('#DEF2A4','menu_339')">其他(專輯、推廣文宣...等)&nbsp;</div></a>
+                                                             &nbsp;<br>
+                </div>
+                <script type="text/javascript">set_width('menu_2')</script>
+                <noscript><div style="position:absolute; left:240px;top:200px;width:130px">無javascript不支援浮動選單，請直接點選選單</div></noscript>
+                            <div id="menu_4" class="menu_root" onMouseOut="menu_close('menu_4',event,this)" onBlur="menu_close('menu_4',event,this)">
+                &nbsp;<br>
+                <div class="menu_head">&nbsp;</div>
+                             <a href="view.php?catid=371" class="menu_text" title="育成品種" alt="育成品種" target="">&nbsp;<div id="menu_371" class="menu_sub" onClick="div_click('371')" onMouseOut="change_color('#ffffff','menu_371','out')" onMouseOver="change_color('#DEF2A4','menu_371')" onKeyPress="div_click('371')" onBlur="change_color('#ffffff','menu_371','out')" onfocus="change_color('#DEF2A4','menu_371')">育成品種&nbsp;</div></a>
+                                                               <a href="view.php?catid=3" class="menu_text" title="技術移轉" alt="技術移轉" target="">&nbsp;<div id="menu_3" class="menu_sub" onClick="div_click('3')" onMouseOut="change_color('#ffffff','menu_3','out')" onMouseOver="change_color('#DEF2A4','menu_3')" onKeyPress="div_click('3')" onBlur="change_color('#ffffff','menu_3','out')" onfocus="change_color('#DEF2A4','menu_3')">技術移轉&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=372" class="menu_text" title="產學合作" alt="產學合作" target="">&nbsp;<div id="menu_372" class="menu_sub" onClick="div_click('372')" onMouseOut="change_color('#ffffff','menu_372','out')" onMouseOver="change_color('#DEF2A4','menu_372')" onKeyPress="div_click('372')" onBlur="change_color('#ffffff','menu_372','out')" onfocus="change_color('#DEF2A4','menu_372')">產學合作&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=373" class="menu_text" title="智慧財產權-專利" alt="智慧財產權-專利" target="">&nbsp;<div id="menu_373" class="menu_sub" onClick="div_click('373')" onMouseOut="change_color('#ffffff','menu_373','out')" onMouseOver="change_color('#DEF2A4','menu_373')" onKeyPress="div_click('373')" onBlur="change_color('#ffffff','menu_373','out')" onfocus="change_color('#DEF2A4','menu_373')">智慧財產權-專利&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=375" class="menu_text" title="智慧財產權-品種權" alt="智慧財產權-品種權" target="">&nbsp;<div id="menu_375" class="menu_sub" onClick="div_click('375')" onMouseOut="change_color('#ffffff','menu_375','out')" onMouseOver="change_color('#DEF2A4','menu_375')" onKeyPress="div_click('375')" onBlur="change_color('#ffffff','menu_375','out')" onfocus="change_color('#DEF2A4','menu_375')">智慧財產權-品種權&nbsp;</div></a>
+                                                             &nbsp;<br>
+                </div>
+                <script type="text/javascript">set_width('menu_4')</script>
+                <noscript><div style="position:absolute; left:240px;top:200px;width:130px">無javascript不支援浮動選單，請直接點選選單</div></noscript>
+                            <div id="menu_49" class="menu_root" onMouseOut="menu_close('menu_49',event,this)" onBlur="menu_close('menu_49',event,this)">
+                &nbsp;<br>
+                <div class="menu_head">&nbsp;</div>
+                             <a href="view.php?catid=271" class="menu_text" title="稻作改良" alt="稻作改良" target="">&nbsp;<div id="menu_271" class="menu_sub" onClick="div_click('271')" onMouseOut="change_color('#ffffff','menu_271','out')" onMouseOver="change_color('#DEF2A4','menu_271')" onKeyPress="div_click('271')" onBlur="change_color('#ffffff','menu_271','out')" onfocus="change_color('#DEF2A4','menu_271')">稻作改良&nbsp;</div></a>
+                                                               <a href="view.php?catid=272" class="menu_text" title="果樹改良" alt="果樹改良" target="">&nbsp;<div id="menu_272" class="menu_sub" onClick="div_click('272')" onMouseOut="change_color('#ffffff','menu_272','out')" onMouseOver="change_color('#DEF2A4','menu_272')" onKeyPress="div_click('272')" onBlur="change_color('#ffffff','menu_272','out')" onfocus="change_color('#DEF2A4','menu_272')">果樹改良&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=273" class="menu_text" title="蔬菜改良" alt="蔬菜改良" target="">&nbsp;<div id="menu_273" class="menu_sub" onClick="div_click('273')" onMouseOut="change_color('#ffffff','menu_273','out')" onMouseOver="change_color('#DEF2A4','menu_273')" onKeyPress="div_click('273')" onBlur="change_color('#ffffff','menu_273','out')" onfocus="change_color('#DEF2A4','menu_273')">蔬菜改良&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=274" class="menu_text" title="花卉改良" alt="花卉改良" target="">&nbsp;<div id="menu_274" class="menu_sub" onClick="div_click('274')" onMouseOut="change_color('#ffffff','menu_274','out')" onMouseOver="change_color('#DEF2A4','menu_274')" onKeyPress="div_click('274')" onBlur="change_color('#ffffff','menu_274','out')" onfocus="change_color('#DEF2A4','menu_274')">花卉改良&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=275" class="menu_text" title="雜糧作物改良" alt="雜糧作物改良" target="">&nbsp;<div id="menu_275" class="menu_sub" onClick="div_click('275')" onMouseOut="change_color('#ffffff','menu_275','out')" onMouseOver="change_color('#DEF2A4','menu_275')" onKeyPress="div_click('275')" onBlur="change_color('#ffffff','menu_275','out')" onfocus="change_color('#DEF2A4','menu_275')">雜糧作物改良&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=276" class="menu_text" title="生物技術" alt="生物技術" target="">&nbsp;<div id="menu_276" class="menu_sub" onClick="div_click('276')" onMouseOut="change_color('#ffffff','menu_276','out')" onMouseOver="change_color('#DEF2A4','menu_276')" onKeyPress="div_click('276')" onBlur="change_color('#ffffff','menu_276','out')" onfocus="change_color('#DEF2A4','menu_276')">生物技術&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=277" class="menu_text" title="採後處理" alt="採後處理" target="">&nbsp;<div id="menu_277" class="menu_sub" onClick="div_click('277')" onMouseOut="change_color('#ffffff','menu_277','out')" onMouseOver="change_color('#DEF2A4','menu_277')" onKeyPress="div_click('277')" onBlur="change_color('#ffffff','menu_277','out')" onfocus="change_color('#DEF2A4','menu_277')">採後處理&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=278" class="menu_text" title="植物保護" alt="植物保護" target="">&nbsp;<div id="menu_278" class="menu_sub" onClick="div_click('278')" onMouseOut="change_color('#ffffff','menu_278','out')" onMouseOver="change_color('#DEF2A4','menu_278')" onKeyPress="div_click('278')" onBlur="change_color('#ffffff','menu_278','out')" onfocus="change_color('#DEF2A4','menu_278')">植物保護&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=279" class="menu_text" title="土壤肥料" alt="土壤肥料" target="">&nbsp;<div id="menu_279" class="menu_sub" onClick="div_click('279')" onMouseOut="change_color('#ffffff','menu_279','out')" onMouseOver="change_color('#DEF2A4','menu_279')" onKeyPress="div_click('279')" onBlur="change_color('#ffffff','menu_279','out')" onfocus="change_color('#DEF2A4','menu_279')">土壤肥料&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=280" class="menu_text" title="農業機械" alt="農業機械" target="">&nbsp;<div id="menu_280" class="menu_sub" onClick="div_click('280')" onMouseOut="change_color('#ffffff','menu_280','out')" onMouseOver="change_color('#DEF2A4','menu_280')" onKeyPress="div_click('280')" onBlur="change_color('#ffffff','menu_280','out')" onfocus="change_color('#DEF2A4','menu_280')">農業機械&nbsp;</div></a>
+                                                             &nbsp;<br>
+                </div>
+                <script type="text/javascript">set_width('menu_49')</script>
+                <noscript><div style="position:absolute; left:240px;top:200px;width:130px">無javascript不支援浮動選單，請直接點選選單</div></noscript>
+                            <div id="menu_6" class="menu_root" onMouseOut="menu_close('menu_6',event,this)" onBlur="menu_close('menu_6',event,this)">
+                &nbsp;<br>
+                <div class="menu_head">&nbsp;</div>
+                             <a href="view.php?catid=411" class="menu_text" title="伴手禮專區" alt="伴手禮專區" target="">&nbsp;<div id="menu_411" class="menu_sub" onClick="div_click('411')" onMouseOut="change_color('#ffffff','menu_411','out')" onMouseOver="change_color('#DEF2A4','menu_411')" onKeyPress="div_click('411')" onBlur="change_color('#ffffff','menu_411','out')" onfocus="change_color('#DEF2A4','menu_411')">伴手禮專區&nbsp;</div></a>
+                                                               <a href="view.php?catid=2656" class="menu_text" title="田媽媽專區" alt="田媽媽專區" target="">&nbsp;<div id="menu_2656" class="menu_sub" onClick="div_click('2656')" onMouseOut="change_color('#ffffff','menu_2656','out')" onMouseOver="change_color('#DEF2A4','menu_2656')" onKeyPress="div_click('2656')" onBlur="change_color('#ffffff','menu_2656','out')" onfocus="change_color('#DEF2A4','menu_2656')">田媽媽專區&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=2661" class="menu_text" title="休閒農業" alt="休閒農業" target="">&nbsp;<div id="menu_2661" class="menu_sub" onClick="div_click('2661')" onMouseOut="change_color('#ffffff','menu_2661','out')" onMouseOver="change_color('#DEF2A4','menu_2661')" onKeyPress="div_click('2661')" onBlur="change_color('#ffffff','menu_2661','out')" onfocus="change_color('#DEF2A4','menu_2661')">休閒農業&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=376" class="menu_text" title="有機農業" alt="有機農業" target="">&nbsp;<div id="menu_376" class="menu_sub" onClick="div_click('376')" onMouseOut="change_color('#ffffff','menu_376','out')" onMouseOver="change_color('#DEF2A4','menu_376')" onKeyPress="div_click('376')" onBlur="change_color('#ffffff','menu_376','out')" onfocus="change_color('#DEF2A4','menu_376')">有機農業&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=2667" class="menu_text" title="農業臉譜" alt="農業臉譜" target="">&nbsp;<div id="menu_2667" class="menu_sub" onClick="div_click('2667')" onMouseOut="change_color('#ffffff','menu_2667','out')" onMouseOver="change_color('#DEF2A4','menu_2667')" onKeyPress="div_click('2667')" onBlur="change_color('#ffffff','menu_2667','out')" onfocus="change_color('#DEF2A4','menu_2667')">農業臉譜&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=380" class="menu_text" title="農業教育訓練" alt="農業教育訓練" target="">&nbsp;<div id="menu_380" class="menu_sub" onClick="div_click('380')" onMouseOut="change_color('#ffffff','menu_380','out')" onMouseOver="change_color('#DEF2A4','menu_380')" onKeyPress="div_click('380')" onBlur="change_color('#ffffff','menu_380','out')" onfocus="change_color('#DEF2A4','menu_380')">農業教育訓練&nbsp;</div></a>
+                                                             &nbsp;<br>
+                </div>
+                <script type="text/javascript">set_width('menu_6')</script>
+                <noscript><div style="position:absolute; left:240px;top:200px;width:130px">無javascript不支援浮動選單，請直接點選選單</div></noscript>
+                            <div id="menu_7" class="menu_root" onMouseOut="menu_close('menu_7',event,this)" onBlur="menu_close('menu_7',event,this)">
+                &nbsp;<br>
+                <div class="menu_head">&nbsp;</div>
+                             <a href="view.php?catid=382" class="menu_text" title="農作物登記用藥" alt="農作物登記用藥" target="">&nbsp;<div id="menu_382" class="menu_sub" onClick="div_click('382')" onMouseOut="change_color('#ffffff','menu_382','out')" onMouseOver="change_color('#DEF2A4','menu_382')" onKeyPress="div_click('382')" onBlur="change_color('#ffffff','menu_382','out')" onfocus="change_color('#DEF2A4','menu_382')">農作物登記用藥&nbsp;</div></a>
+                                                               <a href="view.php?catid=2740" class="menu_text" title="農作物病蟲害診斷專欄" alt="農作物病蟲害診斷專欄" target="">&nbsp;<div id="menu_2740" class="menu_sub" onClick="div_click('2740')" onMouseOut="change_color('#ffffff','menu_2740','out')" onMouseOver="change_color('#DEF2A4','menu_2740')" onKeyPress="div_click('2740')" onBlur="change_color('#ffffff','menu_2740','out')" onfocus="change_color('#DEF2A4','menu_2740')">農作物病蟲害診斷專欄&nbsp;</div></a>
+                                                                                   <a href="http://www.tactri.gov.tw/wSite/ct?xItem=3691&ctNode=333&mp=11" class="menu_text" title="植物保護手冊 " alt="植物保護手冊 " target="">&nbsp;<div id="menu_409" class="menu_sub" onClick="div_click('409')" onMouseOut="change_color('#ffffff','menu_409','out')" onMouseOver="change_color('#DEF2A4','menu_409')" onKeyPress="div_click('409')" onBlur="change_color('#ffffff','menu_409','out')" onfocus="change_color('#DEF2A4','menu_409')">植物保護手冊 &nbsp;</div></a>
+                                                                                   <a href="view.php?catid=3041" class="menu_text" title="非化學農藥植物保護資材一覽表" alt="非化學農藥植物保護資材一覽表" target="">&nbsp;<div id="menu_3041" class="menu_sub" onClick="div_click('3041')" onMouseOut="change_color('#ffffff','menu_3041','out')" onMouseOver="change_color('#DEF2A4','menu_3041')" onKeyPress="div_click('3041')" onBlur="change_color('#ffffff','menu_3041','out')" onfocus="change_color('#DEF2A4','menu_3041')">非化學農藥植物保護資材一覽表&nbsp;</div></a>
+                                                                                   <a href="http://pesticide.baphiq.gov.tw/web/Insecticides_MenuItem1.aspx" class="menu_text" title="農藥資訊服務網" alt="農藥資訊服務網" target="">&nbsp;<div id="menu_410" class="menu_sub" onClick="div_click('410')" onMouseOut="change_color('#ffffff','menu_410','out')" onMouseOver="change_color('#DEF2A4','menu_410')" onKeyPress="div_click('410')" onBlur="change_color('#ffffff','menu_410','out')" onfocus="change_color('#DEF2A4','menu_410')">農藥資訊服務網&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=197" class="menu_text" title="綠竹種苗病毒檢定驗證作業須知 " alt="綠竹種苗病毒檢定驗證作業須知 " target="">&nbsp;<div id="menu_197" class="menu_sub" onClick="div_click('197')" onMouseOut="change_color('#ffffff','menu_197','out')" onMouseOver="change_color('#DEF2A4','menu_197')" onKeyPress="div_click('197')" onBlur="change_color('#ffffff','menu_197','out')" onfocus="change_color('#DEF2A4','menu_197')">綠竹種苗病毒檢定驗證作業須知 &nbsp;</div></a>
+                                                                                   <a href="view.php?catid=196" class="menu_text" title="為民服務農作物病蟲害診斷流程" alt="為民服務農作物病蟲害診斷流程" target="">&nbsp;<div id="menu_196" class="menu_sub" onClick="div_click('196')" onMouseOut="change_color('#ffffff','menu_196','out')" onMouseOver="change_color('#DEF2A4','menu_196')" onKeyPress="div_click('196')" onBlur="change_color('#ffffff','menu_196','out')" onfocus="change_color('#DEF2A4','menu_196')">為民服務農作物病蟲害診斷流程&nbsp;</div></a>
+                                                                                   <a href="http://phis.baphiq.gov.tw/Plant/GoogleMap.nsf" class="menu_text" title="稻熱病疫情現況" alt="稻熱病疫情現況" target="">&nbsp;<div id="menu_2856" class="menu_sub" onClick="div_click('2856')" onMouseOut="change_color('#ffffff','menu_2856','out')" onMouseOver="change_color('#DEF2A4','menu_2856')" onKeyPress="div_click('2856')" onBlur="change_color('#ffffff','menu_2856','out')" onfocus="change_color('#DEF2A4','menu_2856')">稻熱病疫情現況&nbsp;</div></a>
+                                                             &nbsp;<br>
+                </div>
+                <script type="text/javascript">set_width('menu_7')</script>
+                <noscript><div style="position:absolute; left:240px;top:200px;width:130px">無javascript不支援浮動選單，請直接點選選單</div></noscript>
+                            <div id="menu_8" class="menu_root" onMouseOut="menu_close('menu_8',event,this)" onBlur="menu_close('menu_8',event,this)">
+                &nbsp;<br>
+                <div class="menu_head">&nbsp;</div>
+                             <a href="view.php?catid=2601" class="menu_text" title="農委會重大政策" alt="農委會重大政策" target="">&nbsp;<div id="menu_2601" class="menu_sub" onClick="div_click('2601')" onMouseOut="change_color('#ffffff','menu_2601','out')" onMouseOver="change_color('#DEF2A4','menu_2601')" onKeyPress="div_click('2601')" onBlur="change_color('#ffffff','menu_2601','out')" onfocus="change_color('#DEF2A4','menu_2601')">農委會重大政策&nbsp;</div></a>
+                                                               <a href="view.php?catid=2602" class="menu_text" title="農業政策" alt="農業政策" target="">&nbsp;<div id="menu_2602" class="menu_sub" onClick="div_click('2602')" onMouseOut="change_color('#ffffff','menu_2602','out')" onMouseOver="change_color('#DEF2A4','menu_2602')" onKeyPress="div_click('2602')" onBlur="change_color('#ffffff','menu_2602','out')" onfocus="change_color('#DEF2A4','menu_2602')">農業政策&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=2603" class="menu_text" title="農業法規" alt="農業法規" target="">&nbsp;<div id="menu_2603" class="menu_sub" onClick="div_click('2603')" onMouseOut="change_color('#ffffff','menu_2603','out')" onMouseOver="change_color('#DEF2A4','menu_2603')" onKeyPress="div_click('2603')" onBlur="change_color('#ffffff','menu_2603','out')" onfocus="change_color('#DEF2A4','menu_2603')">農業法規&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=2604" class="menu_text" title="農田水利入口網-法規資料查詢" alt="農田水利入口網-法規資料查詢" target="">&nbsp;<div id="menu_2604" class="menu_sub" onClick="div_click('2604')" onMouseOut="change_color('#ffffff','menu_2604','out')" onMouseOver="change_color('#DEF2A4','menu_2604')" onKeyPress="div_click('2604')" onBlur="change_color('#ffffff','menu_2604','out')" onfocus="change_color('#DEF2A4','menu_2604')">農田水利入口網-法規資料查詢&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=2605" class="menu_text" title="農地法規檢索系統" alt="農地法規檢索系統" target="">&nbsp;<div id="menu_2605" class="menu_sub" onClick="div_click('2605')" onMouseOut="change_color('#ffffff','menu_2605','out')" onMouseOver="change_color('#DEF2A4','menu_2605')" onKeyPress="div_click('2605')" onBlur="change_color('#ffffff','menu_2605','out')" onfocus="change_color('#DEF2A4','menu_2605')">農地法規檢索系統&nbsp;</div></a>
+                                                                                   <a href="http://www.tndais.gov.tw/policy.php" class="menu_text" title="農業政策Q&A" alt="農業政策Q&A" target="">&nbsp;<div id="menu_2771" class="menu_sub" onClick="div_click('2771')" onMouseOut="change_color('#ffffff','menu_2771','out')" onMouseOver="change_color('#DEF2A4','menu_2771')" onKeyPress="div_click('2771')" onBlur="change_color('#ffffff','menu_2771','out')" onfocus="change_color('#DEF2A4','menu_2771')">農業政策Q&A&nbsp;</div></a>
+                                                             &nbsp;<br>
+                </div>
+                <script type="text/javascript">set_width('menu_8')</script>
+                <noscript><div style="position:absolute; left:240px;top:200px;width:130px">無javascript不支援浮動選單，請直接點選選單</div></noscript>
+                            <div id="menu_9" class="menu_root" onMouseOut="menu_close('menu_9',event,this)" onBlur="menu_close('menu_9',event,this)">
+                &nbsp;<br>
+                <div class="menu_head">&nbsp;</div>
+                         &nbsp;<br>
+                </div>
+                <script type="text/javascript">set_width('menu_9')</script>
+                <noscript><div style="position:absolute; left:240px;top:200px;width:130px">無javascript不支援浮動選單，請直接點選選單</div></noscript>
+                            <div id="menu_10" class="menu_root" onMouseOut="menu_close('menu_10',event,this)" onBlur="menu_close('menu_10',event,this)">
+                &nbsp;<br>
+                <div class="menu_head">&nbsp;</div>
+                             <a href="view.php?catid=2652" class="menu_text" title="主計業務相關資料" alt="主計業務相關資料" target="">&nbsp;<div id="menu_2652" class="menu_sub" onClick="div_click('2652')" onMouseOut="change_color('#ffffff','menu_2652','out')" onMouseOver="change_color('#DEF2A4','menu_2652')" onKeyPress="div_click('2652')" onBlur="change_color('#ffffff','menu_2652','out')" onfocus="change_color('#DEF2A4','menu_2652')">主計業務相關資料&nbsp;</div></a>
+                                                               <a href="view.php?catid=2653" class="menu_text" title="台南區農業改良場補(捐)助民間團體及個人資料" alt="台南區農業改良場補(捐)助民間團體及個人資料" target="">&nbsp;<div id="menu_2653" class="menu_sub" onClick="div_click('2653')" onMouseOut="change_color('#ffffff','menu_2653','out')" onMouseOver="change_color('#DEF2A4','menu_2653')" onKeyPress="div_click('2653')" onBlur="change_color('#ffffff','menu_2653','out')" onfocus="change_color('#DEF2A4','menu_2653')">台南區農業改良場補(捐)助民間團體及個人資料&nbsp;</div></a>
+                                                             &nbsp;<br>
+                </div>
+                <script type="text/javascript">set_width('menu_10')</script>
+                <noscript><div style="position:absolute; left:240px;top:200px;width:130px">無javascript不支援浮動選單，請直接點選選單</div></noscript>
+                            <div id="menu_3034" class="menu_root" onMouseOut="menu_close('menu_3034',event,this)" onBlur="menu_close('menu_3034',event,this)">
+                &nbsp;<br>
+                <div class="menu_head">&nbsp;</div>
+                         &nbsp;<br>
+                </div>
+                <script type="text/javascript">set_width('menu_3034')</script>
+                <noscript><div style="position:absolute; left:240px;top:200px;width:130px">無javascript不支援浮動選單，請直接點選選單</div></noscript>
+                            <div id="menu_2786" class="menu_root" onMouseOut="menu_close('menu_2786',event,this)" onBlur="menu_close('menu_2786',event,this)">
+                &nbsp;<br>
+                <div class="menu_head">&nbsp;</div>
+                         &nbsp;<br>
+                </div>
+                <script type="text/javascript">set_width('menu_2786')</script>
+                <noscript><div style="position:absolute; left:240px;top:200px;width:130px">無javascript不支援浮動選單，請直接點選選單</div></noscript>
+                            <div id="menu_3046" class="menu_root" onMouseOut="menu_close('menu_3046',event,this)" onBlur="menu_close('menu_3046',event,this)">
+                &nbsp;<br>
+                <div class="menu_head">&nbsp;</div>
+                             <a href="view.php?catid=3047" class="menu_text" title="性別平等專區" alt="性別平等專區" target="">&nbsp;<div id="menu_3047" class="menu_sub" onClick="div_click('3047')" onMouseOut="change_color('#ffffff','menu_3047','out')" onMouseOver="change_color('#DEF2A4','menu_3047')" onKeyPress="div_click('3047')" onBlur="change_color('#ffffff','menu_3047','out')" onfocus="change_color('#DEF2A4','menu_3047')">性別平等專區&nbsp;</div></a>
+                                                               <a href="view.php?catid=3048" class="menu_text" title="性騷擾防治專區" alt="性騷擾防治專區" target="">&nbsp;<div id="menu_3048" class="menu_sub" onClick="div_click('3048')" onMouseOut="change_color('#ffffff','menu_3048','out')" onMouseOver="change_color('#DEF2A4','menu_3048')" onKeyPress="div_click('3048')" onBlur="change_color('#ffffff','menu_3048','out')" onfocus="change_color('#DEF2A4','menu_3048')">性騷擾防治專區&nbsp;</div></a>
+                                                                                   <a href="view.php?catid=3049" class="menu_text" title="性別平等相關網站" alt="性別平等相關網站" target="">&nbsp;<div id="menu_3049" class="menu_sub" onClick="div_click('3049')" onMouseOut="change_color('#ffffff','menu_3049','out')" onMouseOver="change_color('#DEF2A4','menu_3049')" onKeyPress="div_click('3049')" onBlur="change_color('#ffffff','menu_3049','out')" onfocus="change_color('#DEF2A4','menu_3049')">性別平等相關網站&nbsp;</div></a>
+                                                             &nbsp;<br>
+                </div>
+                <script type="text/javascript">set_width('menu_3046')</script>
+                <noscript><div style="position:absolute; left:240px;top:200px;width:130px">無javascript不支援浮動選單，請直接點選選單</div></noscript>
+                            <div id="menu_12" class="menu_root" onMouseOut="menu_close('menu_12',event,this)" onBlur="menu_close('menu_12',event,this)">
+                &nbsp;<br>
+                <div class="menu_head">&nbsp;</div>
+                         &nbsp;<br>
+                </div>
+                <script type="text/javascript">set_width('menu_12')</script>
+                <noscript><div style="position:absolute; left:240px;top:200px;width:130px">無javascript不支援浮動選單，請直接點選選單</div></noscript>
+                            <div id="menu_13" class="menu_root" onMouseOut="menu_close('menu_13',event,this)" onBlur="menu_close('menu_13',event,this)">
+                &nbsp;<br>
+                <div class="menu_head">&nbsp;</div>
+                         &nbsp;<br>
+                </div>
+                <script type="text/javascript">set_width('menu_13')</script>
+                <noscript><div style="position:absolute; left:240px;top:200px;width:130px">無javascript不支援浮動選單，請直接點選選單</div></noscript>
+            	
+			</div>
+
+				</td>
+
+			</tr>
+
+			<!--單位連結-->
+
+			<tr> 
+
+			  <td class="links_link">	
+
+					<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" summary="此為網站首頁選單表格">
+
+						<tr> 
+
+							<td class="links_link0" title="相關服務"></td>
+
+						</tr>
+
+						<tr> 
+
+							<td >
+						<div id="bosom_bar_link_02_main">
+							<div class="bosom_bar_link_02">			
+
+														
+
+							<a href="view.php?catid=40" title="農友暨消費者服務中心" class="bosom_bar_link_02" target="_self">農友暨消費者服務中心</a>
+
+														
+
+							<a href="http://book.tndais.gov.tw/index.asp" title="出版品線上訂購" class="bosom_bar_link_02" target="_blank">出版品線上訂購</a>
+
+														
+
+							<a href="view.php?catid=404" title="土壤速測服務" class="bosom_bar_link_02" target="_self">土壤速測服務</a>
+
+														
+
+							<a href="http://taiwansoil.tari.gov.tw/farm_Tainan/login.aspx?ReturnUrl=%2ffarm_Tainan%2fmain%2findex.aspx" title="土壤檢測服務系統" class="bosom_bar_link_02" target="_blank">土壤檢測服務系統</a>
+
+														
+
+							<a href="view.php?catid=382" title="農作物登記用藥" class="bosom_bar_link_02" target="_self">農作物登記用藥</a>
+
+							                          
+							</div>
+                             <div align="center" style="padding-top:12px; font-size:16px;"><span>LINE診斷服務</span><div style="height:10px"></div><img src="images_default/QRcode_line.jpg" alt="LINE診斷服務" title="LINE診斷服務" width="80"></div>
+                           
+						</div>
+                       	<div id="bosom_bar_link_02_main_down"></div>
+							</td>
+
+						</tr>		
+
+					</table>	
+                     <div style="height:10px"></div>
+                    <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" summary="此為網站排版">
+                    <tr><td align="center" bgcolor="#FFCCFF">
+                    <img src="images_default/QRCode_apk.png" alt="下載行動網APK" title="下載行動網APK" width="80" style="padding-top:5px;"><div style="height:10px"></div><span style="font-size:12px;">下載行動網APK</span><div style="height:5px"></div>
+                    </td>
+                    <td align="center" bgcolor="#99FFFF">
+                    <img src="images_default/QRCode_m.png" alt="行動網" title="行動網" width="80" style="padding-top:5px;"><div style="height:10px"></div><span style="font-size:12px;"><a href="http://m.tndais.gov.tw/" title="行動網" target="_blank">行動網</a></span><div style="height:5px"></div>
+                    </td>
+                    </tr>				
+                    </table>
+			  </td>
+
+			</tr>
+
+		</table>
+
+		</div>
+	</td>
+
+	<td width="85%" valign="top" bgcolor="#FFFFFF" class="right_inner">		
+
+		<!--中間主要欄位-->
+
+		<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" summary="此為網站首頁表格">
+
+			<tr>
+
+				<td align="left" valign="top">
+
+					<table width="97%" border="0" align="center" cellpadding="0" cellspacing="0" summary="此為網站內容表格">
+
+						<!--站內搜尋-->
+
+						<tr>
+
+							<td valign="top">
+
+								
+								<table width="100%" border="0" cellpadding="0" cellspacing="0" summary="此為網站內容表格">
+										<!--站內搜尋-->
+					<tr>
+						<td valign="top">                        	
+							<div class="search">                        	
+							<table width="100%" border="0" cellpadding="0" cellspacing="0" summary="此為站內搜尋表格">
+							<form action="search_wg_tran.php" method="post" name="form_search">
+							<tr>
+							<td width="52%">
+							<div align="right" class="word2"><a href="sitemap.php" title="主要內容區" class="accesskey" accesskey="C" >:::</a></div>
+							</td>
+							<td width="20%" align="right">
+																<table width="100%" border="0" align="right" cellpadding="0" cellspacing="0" class="search_table" summary="此為站內搜尋表格">
+								<tr>
+								<td width="23%" align="right" valign="middle"><label for="search_src"> </label>
+								<img src="images_default/style1/coa_22.jpg" alt="搜尋" width="28" height="26" vspace="3" align="absbottom"></td>	
+								<td width="57%" align="center" valign="middle" nowrap class="search_content">
+								<label for="keyword"></label>
+								<input name="keyword_q" type="text" class="text" id="keyword_q" onFocus="javascript: if	(this.value=='::請輸入關鍵字::') this.value='';" onBlur="javascript: if (this.value=='') this.value='::請輸入關鍵字::';" value="::請輸入關鍵字::" size="20">
+								</td>
+								<td width="20%" align="center" valign="middle" >
+								<input name="SEARCH_1" type="submit" class="key_button" id="SEARCH_1" value="搜尋">
+								</td>
+								</tr>
+								</table> 
+										
+							</td>  
+							<td width="28%" align="left" valign="middle">
+							<img src="images_default/style1/coa_46.jpg" alt="" width="15" height="19" align="absmiddle"> 
+							<img src="images_default/style1/coa_42.jpg" alt="友善列印(將另開新視窗)" width="19" height="18" align="absmiddle">
+							<a href="/view.php?catid=2652&print=1" class="word3" title="友善列印(將另開新視窗)" target="_brank">友善列印</a>　                    
+							</td>                  
+							</tr>
+							</form>
+                                                                                    <tr>
+                            <td></td>
+                            <td colspan="2">
+                                 <div id="show_hot_searches">
+                                  <span class="hot_word">熱門：</span>
+
+                                    
+                                   <a class="hot_searchs" href="search_wg_tran.php?keyword_q=芒果" title="芒果" target="_blank"> 芒果 </a>
+
+                                    
+                                   <a class="hot_searchs" href="search_wg_tran.php?keyword_q=酪梨" title="酪梨" target="_blank"> 酪梨 </a>
+
+                                    
+                                   <a class="hot_searchs" href="search_wg_tran.php?keyword_q=楊桃" title="楊桃" target="_blank"> 楊桃 </a>
+
+                                    
+                                   <a class="hot_searchs" href="search_wg_tran.php?keyword_q=木瓜" title="木瓜" target="_blank"> 木瓜 </a>
+
+                                    
+                                   <a class="hot_searchs" href="search_wg_tran.php?keyword_q=火龍果" title="火龍果" target="_blank"> 火龍果 </a>
+
+                                                                        </div>
+                                 </td>
+                            </tr>
+                                                          	
+							</table>
+							</div>                          
+						</td>
+					</tr>	
+					<!--現在位置-->
+					<tr>
+						<td>
+							<table width="100%" border="0" cellpadding="0" cellspacing="0" summary="此為站內搜尋表格"   background="images_default/style1/coa_24.jpg">
+							<tr>
+							<td height="1" colspan="2"></td>
+							</tr>
+							<tr>
+							<td width="1%"></td>
+							<td><a href="show_index.php" title="首頁" class="link2">首頁</a> / <a href="view.php?catid=10" title="政府資訊公開" class="link2">政府資訊公開</a> / <span class="link2">主計業務相關資料</span></td>
+							</tr>
+							</table>
+						</td>
+					</tr>
+										<tr>
+						<td height="29" align="right" valign="middle" background="images_default/style1/coa_41.jpg">
+							<table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+							<tr>
+							<td width="1%" bgcolor="#7CDC07"></td>
+							<td align="left" class="word1">主計業務相關資料</td>
+							</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+
+														  </td>
+
+						</tr>			
+
+						
+
+						<!--現在位置-->
+
+				  </table>
+                  <table width="92%" align="center" summary="此為網站排版用表格" border="0" cellpadding="0" cellspacing="0">							
+
+						<!--輪播訊息-->									
+
+						<tr>
+
+							<td class="main"><!-- InstanceBeginEditable name="EditRegion1" -->
+					
+                    
+	                    <table width="98%" border="0" align="center" cellpadding="0" cellspacing="0" summary="表格內文排版用">
+							<tr>
+								<td height="5" align="right"></td>
+							</tr>							
+							<tr>
+								<td class="word4">
+								<p>
+<a title="pdf 檔下載(2.25MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10002.pdf" target="_blank"></a>&nbsp;<a title="rar 檔下載(22.24KB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/104budget_draft.rar" target="_blank"></a>&nbsp;<a title="rar 檔下載(6.08KB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/final_report103_XML.rar" target="_blank"></a>( 以下連結將開啟新視窗 ) </p><p>
+<font color="#0000cc">
+<strong>
+會計月報</strong> </font></p><table summary="文章區" cellspacing="0" cellpadding="0" border="1">
+<tbody>
+<tr>
+<td valign="top" width="55">
+</td><td valign="top" width="50">
+<p align="center">
+1月 </p></td><td valign="top" width="50">
+<p align="center">
+2月 </p></td><td valign="top" width="50">
+<p align="center">
+3月 </p></td><td valign="top" width="50">
+<p align="center">
+4月 </p></td><td valign="top" width="50">
+<p align="center">
+5月 </p></td><td valign="top" width="50">
+<p align="center">
+6月 </p></td><td valign="top" width="50">
+<p align="center">
+7月 </p></td><td valign="top" width="50">
+<p align="center">
+8月 </p></td><td valign="top" width="50">
+<p align="center">
+9月 </p></td><td valign="top" width="50">
+<p align="center">
+10 月 </p></td><td valign="top" width="50">
+<p align="center">
+11 月 </p></td><td valign="top" width="50">
+<p align="center">
+12 月 </p></td></tr><tr>
+<td valign="top" width="55">
+<p align="center">
+105年</p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(1.23MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10501_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.23MB) 將另開新視窗" title=" pdf 檔下載(1.23MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p><p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10501_XML.rar" target="_blank"><img  border="0" alt=" rar 檔下載(8.53KB) 將另開新視窗" title=" rar 檔下載(8.53KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10502_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.25MB) 將另開新視窗" title=" pdf 檔下載(1.25MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p><p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10502_XML.rar" target="_blank"><img  border="0" alt=" rar 檔下載(8.49KB) 將另開新視窗" title=" rar 檔下載(8.49KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(1.24MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10503_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.24MB) 將另開新視窗" title=" pdf 檔下載(1.24MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p><p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10503_XML.zip" target="_blank"><img  border="0" alt=" zip 檔下載(3.90KB) 將另開新視窗" title=" zip 檔下載(3.90KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/zip_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(1.32MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10504_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.32MB) 將另開新視窗" title=" pdf 檔下載(1.32MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p><p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10504_XML.zip" target="_blank"><img  border="0" alt=" zip 檔下載(327.16KB) 將另開新視窗" title=" zip 檔下載(327.16KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/zip_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(1.38MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10505_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.38MB) 將另開新視窗" title=" pdf 檔下載(1.38MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p><p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10505_XML.zip" target="_blank"><img  border="0" alt=" zip 檔下載(12.90KB) 將另開新視窗" title=" zip 檔下載(12.90KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/zip_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10506_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.42MB) 將另開新視窗" title=" pdf 檔下載(1.42MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p><p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10506_XML.zip" target="_blank"><img  border="0" alt=" zip 檔下載(13.02KB) 將另開新視窗" title=" zip 檔下載(13.02KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/zip_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(1.42MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10507_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.42MB) 將另開新視窗" title=" pdf 檔下載(1.42MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p><p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10507_XML.zip" target="_blank"><img  border="0" alt=" zip 檔下載(13.12KB) 將另開新視窗" title=" zip 檔下載(13.12KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/zip_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(1.54MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10508_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.54MB) 將另開新視窗" title=" pdf 檔下載(1.54MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p><p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10508_XML.zip" target="_blank"><img  border="0" alt=" zip 檔下載(13.22KB) 將另開新視窗" title=" zip 檔下載(13.22KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/zip_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(4.41MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10509.pdf" target="_blank"><img border="0" alt=" pdf 檔下載(4.41MB) 將另開新視窗" title=" pdf 檔下載(4.41MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p><p align="center">
+<a  href="/htmlarea_file/web_articles/tndais/2497/month_report10509_XML.zip" target="_blank"><img border="0" alt=" zip 檔下載(11.15KB) 將另開新視窗" title=" zip 檔下載(11.15KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/zip_small.gif"></a></p></td><td valign="top" width="50">
+</td><td valign="top" width="50">
+</td><td valign="top" width="50">
+</td></tr><tr>
+<td valign="top" width="55">
+<p align="center">
+104年</p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10401_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.22MB) 將另開新視窗" title=" pdf 檔下載(1.22MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p><p align="center">
+<a title="rar 檔下載(5.01KB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10401_XML.rar" target="_blank"><img  border="0" alt=" rar 檔下載(5.01KB) 將另開新視窗" title=" rar 檔下載(5.01KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a>&nbsp;<a href="/htmlarea_file/web_articles/tndais/2497/104budget_draft.rar" target="_blank"></a>&nbsp;<a href="/htmlarea_file/web_articles/tndais/2497/104budget_draft.rar" target="_blank"></a>&nbsp;<a title="pdf 檔下載(1.30MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10401.pdf" target="_blank"></a></p></td><td valign="top" width="50">
+<a title="pdf 檔下載(1.22MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10401_PDF.pdf" target="_blank"></a><p align="center">
+<a title="pdf 檔下載(1.18MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10402_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.18MB) 將另開新視窗" title=" pdf 檔下載(1.18MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p><p align="center">
+<a title="rar 檔下載(5.35KB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10402_XML.rar" target="_blank"><img  border="0" alt=" rar 檔下載(5.35KB) 將另開新視窗" title=" rar 檔下載(5.35KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a>&nbsp;<a href="/htmlarea_file/web_articles/tndais/2497/month_report10402.pdf" target="_blank"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10403_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.54MB) 將另開新視窗" title=" pdf 檔下載(1.54MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p><p align="center">
+<a title="rar 檔下載(5.75KB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10403_XML.rar" target="_blank"><img  border="0" alt=" rar 檔下載(5.75KB) 將另開新視窗" title=" rar 檔下載(5.75KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10404_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.25MB) 將另開新視窗" title=" pdf 檔下載(1.25MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p><p align="center">
+&nbsp;<a title="rar 檔下載(5.67KB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10404_XML.rar" target="_blank"><img  border="0" alt=" rar 檔下載(5.67KB) 將另開新視窗" title=" rar 檔下載(5.67KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a>&nbsp;<a href="/htmlarea_file/web_articles/tndais/2497/month_report10404.pdf" target="_blank"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10405_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.38MB) 將另開新視窗" title=" pdf 檔下載(1.38MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p><p align="center">
+<a title="rar 檔下載(5.75KB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10405_XML.rar" target="_blank"><img  border="0" alt=" rar 檔下載(5.75KB) 將另開新視窗" title=" rar 檔下載(5.75KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif" width="18" height="16"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10406_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.30MB) 將另開新視窗" title=" pdf 檔下載(1.30MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p><p align="center">
+<a title="rar 檔下載(5.74KB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10406_XML.rar" target="_blank"><img  border="0" alt=" rar 檔下載(5.74KB) 將另開新視窗" title=" rar 檔下載(5.74KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a>&nbsp;<a href="/htmlarea_file/web_articles/tndais/2497/month_report10406.pdf" target="_blank"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10407_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.41MB) 將另開新視窗" title=" pdf 檔下載(1.41MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p><p align="center">
+<a title="rar 檔下載(5.81KB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10407_XML.rar" target="_blank"><img  border="0" alt=" rar 檔下載(5.81KB) 將另開新視窗" title=" rar 檔下載(5.81KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(1.28MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10408_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.28MB) 將另開新視窗" title=" pdf 檔下載(1.28MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p><p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10408_XML.rar" target="_blank"><img  border="0" alt=" rar 檔下載(5.74KB) 將另開新視窗" title=" rar 檔下載(5.74KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(718.95KB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10409_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(718.95KB) 將另開新視窗" title=" pdf 檔下載(718.95KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p><p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10409_XML.rar" target="_blank"><img  border="0" alt=" rar 檔下載(6.42KB) 將另開新視窗" title=" rar 檔下載(6.42KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(9.69MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10410_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(9.69MB) 將另開新視窗" title=" pdf 檔下載(9.69MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p><p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10410_XML.rar" target="_blank"><img  border="0" alt=" rar 檔下載(6.59KB) 將另開新視窗" title=" rar 檔下載(6.59KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(1.26MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10411_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.26MB) 將另開新視窗" title=" pdf 檔下載(1.26MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p><p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10411_XML.rar" target="_blank"><img  border="0" alt=" rar 檔下載(6.76KB) 將另開新視窗" title=" rar 檔下載(6.76KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(7.70MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10412_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(7.70MB) 將另開新視窗" title=" pdf 檔下載(7.70MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p><p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10412_XML.rar" target="_blank"><img  border="0" alt=" rar 檔下載(6.27KB) 將另開新視窗" title=" rar 檔下載(6.27KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></p></td></tr><tr>
+<td valign="top" width="55">
+<p align="center">
+103年</p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10301.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.86MB) 將另開新視窗" title=" pdf 檔下載(1.86MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(1.98MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10302.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.98MB) 將另開新視窗" title=" pdf 檔下載(1.98MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(1.95MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10303.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.95MB) 將另開新視窗" title=" pdf 檔下載(1.95MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(1.98MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10304.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.98MB) 將另開新視窗" title=" pdf 檔下載(1.98MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(2.00MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10305.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.00MB) 將另開新視窗" title=" pdf 檔下載(2.00MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(2.05MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10306.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.05MB) 將另開新視窗" title=" pdf 檔下載(2.05MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(2.17MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10307.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.17MB) 將另開新視窗" title=" pdf 檔下載(2.17MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(2.07MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10308.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.07MB) 將另開新視窗" title=" pdf 檔下載(2.07MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(2.07MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10309.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.07MB) 將另開新視窗" title=" pdf 檔下載(2.07MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(2.09MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10310.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.09MB) 將另開新視窗" title=" pdf 檔下載(2.09MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(2.07MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10311.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.07MB) 將另開新視窗" title=" pdf 檔下載(2.07MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(2.41MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10312.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.41MB) 將另開新視窗" title=" pdf 檔下載(2.41MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td></tr><tr>
+<td valign="top" width="55">
+<p align="center">
+102 年</p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10201.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.98MB) 將另開新視窗" title=" pdf 檔下載(1.98MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10202.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.05MB) 將另開新視窗" title=" pdf 檔下載(2.05MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(2.21MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10203.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.21MB) 將另開新視窗" title=" pdf 檔下載(2.21MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(2.11MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10204.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.11MB) 將另開新視窗" title=" pdf 檔下載(2.11MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(2.17MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10205.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.17MB) 將另開新視窗" title=" pdf 檔下載(2.17MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(2.35MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10206.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.35MB) 將另開新視窗" title=" pdf 檔下載(2.35MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(2.41MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10207.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.41MB) 將另開新視窗" title=" pdf 檔下載(2.41MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(2.37MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10208.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.37MB) 將另開新視窗" title=" pdf 檔下載(2.37MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(2.35MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10209.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.35MB) 將另開新視窗" title=" pdf 檔下載(2.35MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(2.32MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10210.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.32MB) 將另開新視窗" title=" pdf 檔下載(2.32MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(2.27MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10211.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.27MB) 將另開新視窗" title=" pdf 檔下載(2.27MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(2.64MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10212.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.64MB) 將另開新視窗" title=" pdf 檔下載(2.64MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td></tr><tr>
+<td valign="top" width="55">
+<p align="center">
+101 年 </p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10101.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.99MB) 將另開新視窗" title=" pdf 檔下載(1.99MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a>&nbsp;<a href="/htmlarea_file/web_articles/tndais/2497/10101月報.pdf" target="_blank"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(2.04MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10102.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.04MB) 將另開新視窗" title=" pdf 檔下載(2.04MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a>&nbsp;<a href="/htmlarea_file/web_articles/tndais/2497/10102月報.pdf" target="_blank"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10103.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.06MB) 將另開新視窗" title=" pdf 檔下載(2.06MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10104.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.13MB) 將另開新視窗" title=" pdf 檔下載(2.13MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a>&nbsp;<a href="/htmlarea_file/web_articles/tndais/2497/10104月報.pdf" target="_blank"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10105.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.11MB) 將另開新視窗" title=" pdf 檔下載(2.11MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a>&nbsp;<a href="/htmlarea_file/web_articles/tndais/2497/10105月報.pdf" target="_blank"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10106.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.03MB) 將另開新視窗" title=" pdf 檔下載(2.03MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a>&nbsp;<a href="/htmlarea_file/web_articles/tndais/2497/10106月報.pdf" target="_blank"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10107.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.11MB) 將另開新視窗" title=" pdf 檔下載(2.11MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a>&nbsp;<a href="/htmlarea_file/web_articles/tndais/2497/10107月報.pdf" target="_blank"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10108.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.10MB) 將另開新視窗" title=" pdf 檔下載(2.10MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a>&nbsp;<a href="/htmlarea_file/web_articles/tndais/2497/10108月報.pdf" target="_blank"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10109.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.12MB) 將另開新視窗" title=" pdf 檔下載(2.12MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a>&nbsp;<a href="/htmlarea_file/web_articles/tndais/2497/10109月報.pdf" target="_blank"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(2.11MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10110.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.11MB) 將另開新視窗" title=" pdf 檔下載(2.11MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(2.31MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10111.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.31MB) 將另開新視窗" title=" pdf 檔下載(2.31MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a title="pdf 檔下載(2.53MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/month_report10112.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.53MB) 將另開新視窗" title=" pdf 檔下載(2.53MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td></tr><tr>
+<td valign="top" width="55">
+<p align="center">
+100 年 </p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10001.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.66MB) 將另開新視窗" title=" pdf 檔下載(1.66MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10002.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.25MB) 將另開新視窗" title=" pdf 檔下載(2.25MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10003.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.25MB) 將另開新視窗" title=" pdf 檔下載(2.25MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10004.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.36MB) 將另開新視窗" title=" pdf 檔下載(2.36MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10005.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.34MB) 將另開新視窗" title=" pdf 檔下載(2.34MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10006.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.32MB) 將另開新視窗" title=" pdf 檔下載(2.32MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10007.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.34MB) 將另開新視窗" title=" pdf 檔下載(2.34MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10008.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.21MB) 將另開新視窗" title=" pdf 檔下載(2.21MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10009.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.20MB) 將另開新視窗" title=" pdf 檔下載(2.20MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10010.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.29MB) 將另開新視窗" title=" pdf 檔下載(2.29MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10011.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.23MB) 將另開新視窗" title=" pdf 檔下載(2.23MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report10012.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.41MB) 將另開新視窗" title=" pdf 檔下載(2.41MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td></tr><tr>
+<td valign="top" width="55">
+<p align="center">
+99 年 </p></td><td valign="top" width="50">
+<p align="center">
+<a href="/htmlarea_file/web_articles/tndais/2497/month_report09912.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.23MB) 將另開新視窗" title=" pdf 檔下載(2.23MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></p></td><td valign="top" width="50">
+<p align="center">
+</td><td valign="top" width="50">
+<p align="center">
+</td><td valign="top" width="50">
+<p align="center">
+</td><td valign="top" width="50">
+<p align="center">
+</td><td valign="top" width="50">
+<p align="center">
+</td><td valign="top" width="50">
+<p align="center">
+</td><td valign="top" width="50">
+<p align="center">
+</td><td valign="top" width="50">
+<p align="center">
+</td><td valign="top" width="50">
+<p align="center">
+</td><td valign="top" width="50">
+<p align="center">
+</td><td valign="top" width="50">
+</td></tr></tbody></table><p>
+<strong>
+<font color="#0000cc">
+預算案</font></strong></p><ul>
+<li>
+106年度預算案-總說明(Word檔)<a title="Word 檔下載(76.24KB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/106budget_Word.docx" target="_blank"><img  border="0" alt=" Word 檔下載(76.24KB) 將另開新視窗" title=" Word 檔下載(76.24KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/docx_small.png"></a></li><li>
+106年度預算案-105年立法院決議事項辦理情形(Word檔)<a href="/htmlarea_file/web_articles/tndais/2497/106budget_work.doc" target="_blank"><img  border="0" alt=" Word 檔下載(144.00KB) 將另開新視窗" title=" Word 檔下載(144.00KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/doc_small.gif"></a></li><li>
+106年度預算案(PDF檔)<a href="/htmlarea_file/web_articles/tndais/2497/106budget_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.62MB) 將另開新視窗" title=" pdf 檔下載(1.62MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></li><li>
+106年度預算案(Excel檔)<a href="/htmlarea_file/web_articles/tndais/2497/106budget_Excel.xls" target="_blank"><img  border="0" alt=" Excel 檔下載(131.50KB) 將另開新視窗" title=" Excel 檔下載(131.50KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/xls_small.gif"></a></li><li>
+106年度預算案(XML檔)<a title="rar 檔下載(23.11KB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/106budget_XML.rar" target="_blank"><img  border="0" alt=" rar 檔下載(23.11KB) 將另開新視窗" title=" rar 檔下載(23.11KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></li><li>
+105年度預算案-總說明(Word檔) <a href="/htmlarea_file/web_articles/tndais/2497/105budget_Word.docx" target="_blank"><img  border="0" alt=" Word 檔下載(62.49KB) 將另開新視窗" title=" Word 檔下載(62.49KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/docx_small.png"></a></li><li>
+105年度預算案-104年立法院決議事項辦理情形(Word檔) <a href="/htmlarea_file/web_articles/tndais/2497/105budget_work.doc" target="_blank"><img  border="0" alt=" Word 檔下載(140.00KB) 將另開新視窗" title=" Word 檔下載(140.00KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/doc_small.gif"></a></li><li>
+105年度預算案(PDF檔) <a href="/htmlarea_file/web_articles/tndais/2497/105budget_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.82MB) 將另開新視窗" title=" pdf 檔下載(1.82MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></li><li>
+105年度預算案(Excel檔) <a href="/htmlarea_file/web_articles/tndais/2497/105budget_Excel.xls" target="_blank"><img  border="0" alt=" Excel 檔下載(141.00KB) 將另開新視窗" title=" Excel 檔下載(141.00KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/xls_small.gif"></a></li><li>
+105年度預算案(XML檔) <a href="/htmlarea_file/web_articles/tndais/2497/105budget_XML.rar" target="_blank"><img  border="0" alt=" rar 檔下載(22.05KB) 將另開新視窗" title=" rar 檔下載(22.05KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></li><li>
+104年度預算案 (PDF檔)<a href="/htmlarea_file/web_articles/tndais/2497/budget_draft104.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(24.14MB) 將另開新視窗" title=" pdf 檔下載(24.14MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></li></ul><p>
+<a href="/htmlarea_file/web_articles/tndais/2497/budget_draft104.pdf" target="_blank"></a></p><p>
+<font color="#0000cc">
+<strong>
+法定預算</strong> </font></p><ul>
+<li>
+105年度法定預算-總說明 (Word檔)<a title="Word 檔下載(62.35KB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/105Final_budget_Word.docx" target="_blank"><img  border="0" alt=" Word 檔下載(62.35KB) 將另開新視窗" title=" Word 檔下載(62.35KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/docx_small.png"></a></li><li>
+105年度法定預算-104年立法院決議事項辦理情形 (Word檔)<a href="/htmlarea_file/web_articles/tndais/2497/105Final_budget_104work.doc" target="_blank"><img  border="0" alt=" Word 檔下載(133.50KB) 將另開新視窗" title=" Word 檔下載(133.50KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/doc_small.gif"></a></li><li>
+105年度法定預算 (EXL檔)<a href="/htmlarea_file/web_articles/tndais/2497/105Final_budget_Excel.xls" target="_blank"><img  border="0" alt=" Excel 檔下載(131.00KB) 將另開新視窗" title=" Excel 檔下載(131.00KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/xls_small.gif"></a></li><li>
+105年度法定預算 (PDF檔)<a href="/htmlarea_file/web_articles/tndais/2497/105Final_budget_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.80MB) 將另開新視窗" title=" pdf 檔下載(1.80MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></li><li>
+105年度法定預算 (XML壓縮檔)<a href="/htmlarea_file/web_articles/tndais/2497/104budget_draft.rar" target="_blank"><img  border="0" alt=" rar 檔下載(22.24KB) 將另開新視窗" title=" rar 檔下載(22.24KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></li><li>
+104年度法定預算-總說明 (Word檔) <a href="/htmlarea_file/web_articles/tndais/2497/budget104_DOC.doc" target="_blank"><img  border="0" alt=" Word 檔下載(249.00KB) 將另開新視窗" title=" Word 檔下載(249.00KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/doc_small.gif"></a></li><li>
+104年度法定預算-103年立法院決議事項辦理情形 (Word檔) <a title="Word 檔下載(189.50KB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/budget104_103exe.doc" target="_blank"><img  border="0" alt=" Word 檔下載(189.50KB) 將另開新視窗" title=" Word 檔下載(189.50KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/doc_small.gif"></a></li><li>
+104年度法定預算 (EXL檔) <a title="Excel 檔下載(133.50KB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/budget104_EXL.xls" target="_blank"><img  border="0" alt=" Excel 檔下載(133.50KB) 將另開新視窗" title=" Excel 檔下載(133.50KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/xls_small.gif"></a></li><li>
+104年度法定預算 (PDF檔) <a title="pdf 檔下載(7.20MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/budget104.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(7.20MB) 將另開新視窗" title=" pdf 檔下載(7.20MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></li><li>
+104年度法定預算 (XML壓縮檔) <a title="rar 檔下載(22.24KB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/budget104_XML.rar" target="_blank"><img  border="0" alt=" rar 檔下載(22.24KB) 將另開新視窗" title=" rar 檔下載(22.24KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></li><li>
+103年度法定預算 (PDF檔)<a href="/htmlarea_file/web_articles/tndais/2497/budget103.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(23.42MB) 將另開新視窗" title=" pdf 檔下載(23.42MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a>&nbsp;</li><li>
+102年度法定預算 (PDF檔)<a href="/htmlarea_file/web_articles/tndais/2497/budget102.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(21.89MB) 將另開新視窗" title=" pdf 檔下載(21.89MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a>&nbsp;&nbsp;</li><li>
+101年度法定預算 (PDF檔)<a title="pdf 檔下載(22.39MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/budget101.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(22.39MB) 將另開新視窗" title=" pdf 檔下載(22.39MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a>　</li><li>
+100年度法定預算 (PDF檔)<a href="/htmlarea_file/web_articles/tndais/2497/budget100.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(23.84MB) 將另開新視窗" title=" pdf 檔下載(23.84MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></li><li>
+99年度法定預算 (PDF檔)<a href="/htmlarea_file/web_articles/tndais/2497/budget99.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(11.44MB) 將另開新視窗" title=" pdf 檔下載(11.44MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></li><li>
+98年度法定預算 (PDF檔)<a href="/htmlarea_file/web_articles/tndais/2497/budget98.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(10.48MB) 將另開新視窗" title=" pdf 檔下載(10.48MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></li><li>
+97年度法定預算 (PDF檔)<a href="/htmlarea_file/web_articles/tndais/2497/budget97.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.83MB) 將另開新視窗" title=" pdf 檔下載(1.83MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></li><li>
+96年度法定預算 (PDF檔)<a href="/htmlarea_file/web_articles/tndais/2497/budget96.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.92MB) 將另開新視窗" title=" pdf 檔下載(1.92MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a>&nbsp;<a href="http://www.tndais.gov.tw/htmlarea_file/web_articles/tndais/305/accounting/96%E5%B9%B4%E5%BA%A6%E6%B3%95%E5%AE%9A%E9%A0%90%E7%AE%97.pdf"></a></li></ul><p>
+<font color="#0000cc">
+<strong>
+單位決算</strong> </font></p><ul>
+<li>
+104年度單位決算 (PDF檔)<a title="pdf 檔下載(1.99MB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/annual%20_report_104_PDF.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.99MB) 將另開新視窗" title=" pdf 檔下載(1.99MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></li><li>
+104年度單位決算 (XML壓縮檔)<a href="/htmlarea_file/web_articles/tndais/2497/annual%20_report_104_XML.rar" target="_blank"><img  border="0" alt=" rar 檔下載(6.41KB) 將另開新視窗" title=" rar 檔下載(6.41KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></li><li>
+103年度單位決算 (PDF檔)<a href="/htmlarea_file/web_articles/tndais/2497/final_report103.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(2.20MB) 將另開新視窗" title=" pdf 檔下載(2.20MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></li><li>
+103年度單位決算 (XML壓縮檔) <a title="rar 檔下載(6.08KB) 將另開新視窗" href="/htmlarea_file/web_articles/tndais/2497/final_report103_XML.rar" target="_blank"><img  border="0" alt=" rar 檔下載(6.08KB) 將另開新視窗" title=" rar 檔下載(6.08KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></li><li>
+102年度單位決算 (PDF檔)<a href="/htmlarea_file/web_articles/tndais/2497/final_report102.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(16.01MB) 將另開新視窗" title=" pdf 檔下載(16.01MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a>　</li><li>
+101年度單位決算 (PDF檔)<a href="/htmlarea_file/web_articles/tndais/2497/final_report101.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(31.66MB) 將另開新視窗" title=" pdf 檔下載(31.66MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a>&nbsp;&nbsp; </li><li>
+100年度單位決算 (PDF檔)<a href="/htmlarea_file/web_articles/tndais/2497/final_report100.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(28.99MB) 將另開新視窗" title=" pdf 檔下載(28.99MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a>&nbsp;&nbsp; &nbsp;</li><li>
+<font color="#000000">
+99年度單位決算 (PDF檔)</font><a href="/htmlarea_file/web_articles/tndais/2497/final_report99.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(27.87MB) 將另開新視窗" title=" pdf 檔下載(27.87MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a>　 </li><li>
+98年度單位決算 (PDF檔)<a href="/htmlarea_file/web_articles/tndais/2497/final_report98.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(3.33MB) 將另開新視窗" title=" pdf 檔下載(3.33MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a>&nbsp; &nbsp;</li><li>
+97年度單位決算 (PDF檔)<a href="/htmlarea_file/web_articles/tndais/2497/final_report97.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(5.68MB) 將另開新視窗" title=" pdf 檔下載(5.68MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a>　 </li><li>
+96年度單位決算 (PDF檔)<a href="/htmlarea_file/web_articles/tndais/2497/final_report96.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.79MB) 將另開新視窗" title=" pdf 檔下載(1.79MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a>　</li><li>
+95年度單位決算 (PDF檔)<a href="/htmlarea_file/web_articles/tndais/2497/final_report95.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(1.62MB) 將另開新視窗" title=" pdf 檔下載(1.62MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a>&nbsp;<a href="http://www.tndais.gov.tw/htmlarea_file/web_articles/tndais/305/accounting/95%E5%B9%B4%E5%BA%A6%E5%96%AE%E4%BD%8D%E6%B1%BA%E7%AE%97%E5%88%86%E6%B1%BA%E7%AE%97.pdf"></a></li></ul>								
+								</td>
+							</tr>
+						</table>
+					
+					
+					
+					<!-- InstanceEndEditable -->
+
+								</td>
+
+						</tr>
+
+				  </table>
+                                    <br><br>
+                  <table width="25%" border="0" align="right" cellpadding="0" cellspacing="0">
+					<tr>
+					<td align="right" class="images_top"><div align="left"><a href="#" title="TOP"><img src="images_default/style1/space.gif" alt="TOP" width="58" height="17" border="0"></a></div></td>
+					<td class="images_next"><div align="left"><a href="" title="回上一頁"><img img src="images_default/style1/space.gif"  alt="回上一頁" width="80" height="17" border="0"></a></div></td>
+					<td width="10%">&nbsp;</td>
+					</tr>
+				</table>
+                			  </td>
+
+			</tr>
+
+		</table>
+
+	</td
+
+></tr>
+<tr>
+
+	<td colspan="3">
+
+		<!--footer-->
+
+		<div class="footer">		
+
+		<!--footer區1-->	
+
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" summary="此為排版用的表格">
+
+			<tr> 
+
+				<td class="footer_lin"></td>
+
+			</tr>
+
+		</table>
+
+		<!--footer區2-->			
+
+		<table width="100%" border="0" cellpadding="0" cellspacing="0" summary="此為宣告版權內容表格">
+        <tr>
+        		<td colspan="2">
+
+					<table width="20%" border="0" align="right" cellpadding="0" cellspacing="0">
+
+						<tr>
+
+							<td><a href="view.php?catid=388" title="隱私權保護宣告" class="sub_link_01"></a></td>
+
+							<td>   <a href="view.php?catid=391" title="資訊安全政策宣告" class="sub_link_02"></a></td>
+                            <td>   <a href="view.php?catid=392" title="網站著作權聲明" class="sub_link_04"></a></td>
+
+							<td><a href="view.php?catid=36" title="本場位置圖" class="sub_link_03"></a></td>
+
+						</tr>
+
+					</table>
+
+				</td>
+        </tr>
+			<tr> 				
+
+				<td height="69">
+
+					<div>
+
+					<div class="sub_left"><a href="#" class="photo_end"><img src="images_default/style1/space.gif" alt="臺南區農業改良場 - 主計業務相關資料" width="340" height="69"  border="0" /></a></div>
+
+					</div>
+
+				</td>
+                <td rowspan="2" valign="top">
+                <table width="90%" border="0" cellpadding="0" cellspacing="0" summary="此為排版表格" align="right">
+                                                        <tr >
+                                        	                   		<td align="left" height="30"><a href="view.php?catid=1" style="color:#000000; text-decoration:none" title="關於本場" target="_self">關於本場</a></td>
+                                                                                                     	                   		<td align="left" height="30"><a href="view.php?catid=2" style="color:#000000; text-decoration:none" title="出版刊物" target="_self">出版刊物</a></td>
+                                                                                                     	                   		<td align="left" height="30"><a href="view.php?catid=4" style="color:#000000; text-decoration:none" title="研究成果" target="_self">研究成果</a></td>
+                                                                  </tr>
+                                                                            <tr >
+                                        	                   		<td align="left" height="30"><a href="view.php?catid=49" style="color:#000000; text-decoration:none" title="農業技術" target="_self">農業技術</a></td>
+                                                                                                     	                   		<td align="left" height="30"><a href="view.php?catid=6" style="color:#000000; text-decoration:none" title="推廣園地" target="_self">推廣園地</a></td>
+                                                                                                     	                   		<td align="left" height="30"><a href="view.php?catid=7" style="color:#000000; text-decoration:none" title="植物保護" target="_self">植物保護</a></td>
+                                                                  </tr>
+                                                                            <tr >
+                                        	                   		<td align="left" height="30"><a href="view.php?catid=8" style="color:#000000; text-decoration:none" title="農業政策" target="_self">農業政策</a></td>
+                                                                                                     	                   		<td align="left" height="30"><a href="view.php?catid=9" style="color:#000000; text-decoration:none" title="資料下載" target="_self">資料下載</a></td>
+                                                                                                     	                   		<td align="left" height="30"><a href="view.php?catid=10" style="color:#000000; text-decoration:none" title="政府資訊公開" target="_self">政府資訊公開</a></td>
+                                                                  </tr>
+                                                                            <tr >
+                                        	                   		<td align="left" height="30"><a href="view.php?catid=3034" style="color:#000000; text-decoration:none" title="機關獎項" target="_self">機關獎項</a></td>
+                                                                                                     	                   		<td align="left" height="30"><a href="view.php?catid=2786" style="color:#000000; text-decoration:none" title="政風園地" target="_self">政風園地</a></td>
+                                                                                                     	                   		<td align="left" height="30"><a href="view.php?catid=3046" style="color:#000000; text-decoration:none" title="性別平等" target="_self">性別平等</a></td>
+                                                                  </tr>
+                                                                            <tr >
+                                        	                   		<td align="left" height="30"><a href="view.php?catid=12" style="color:#000000; text-decoration:none" title="相關網站" target="_self">相關網站</a></td>
+                                                                                                     	                        <td align="left" height="30"><a href="http://intra.tndais.gov.tw/" style="color:#000000; text-decoration:none" title="場內資訊" target="_blank">場內資訊</a></td>
+                                                                  </tr>
+                                                    </table>
+                </td>
+
+			</tr>
+
+			<tr>
+
+				<td colspan="2" valign="top">
+
+					<div class="word5">
+
+					<div align="left"><table border="0" align="left" cellpadding="0" cellspacing="0" summary="此為表格排版用">
+											<tr><td><Font size=-1>臺南區農業改良場 &copy; 版權所有2016 tndais All Rights Reserved<br>
+ 本網站全部圖文係版權所有　非經本場同意不得將全部或部分內容，轉載於任何形式媒體<br>
+
+臺南市新化區牧場70號　電話：+886-6-591-2901(<a href="files/web_articles_files/tndais/390/514.doc" title="分機號碼表" target="_blank">分機號碼表</a>)　傳真：+886-6-591-2928<br>本場上班時間：AM8:00~PM5:00　<a href="mail.php?catid=2597" title="連絡我們">連絡我們</a></Font>&nbsp;&nbsp;最佳瀏覽 1024＊768 以上最佳解析度
+</td><td align="right" valign="bottom">&nbsp;</div></td><td><img src="images_default/style1/QRCode_tndais.png" alt="臺南區農業改良場QR code" title="臺南區農業改良場QR code" width="80"></td></tr></table></div>
+
+					</div><p>
+
+				</td>
+
+			</tr>
+
+		</table>			
+
+		</div>
+
+	</td>
+
+</tr>
+</table>
+</BODY>
+
+<!-- InstanceEnd --></HTML>

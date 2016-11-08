@@ -1,0 +1,380 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>原住民族委員會全球資訊網 單位預算</title>
+<meta itemprop="name" content="105年01月份會計月報">
+<meta itemprop="description" content="">
+<meta property="og:title" content="105年01月份會計月報"/>
+<meta property="og:description" content=""/>
+<meta property="og:image" content="http://www.apc.gov.tw/portal/tpl03/zh_TW/logo/logo.gif" /> 
+
+
+<link href="/portal/tpl03/zh_TW.css" rel="stylesheet" type="text/css" />
+<link href="/portal/tpl03/fontsize2.css" rel="stylesheet" type="text/css" />
+<link href="/portal/css/jquery-ui.css" rel="stylesheet" type="text/css" />
+<script type="text/JavaScript" src="/portal/js/jquery-1.11.2.min.js"></script>
+<script type="text/JavaScript" src="/portal/js/jquery.bgiframe.min.js"></script>
+<script type="text/JavaScript" src="/portal/js/jquery-ui.js"></script>
+<script type="text/JavaScript" src="/portal/js/common.js"></script>
+
+<meta name="DC.Title" content="105年01月份會計月報"/> 
+<meta name="DC.Creator" content="原住民族委員會"/> 
+<meta name="DC.Subject" content="機關網站內容頁"/> 
+<meta name="DC.Description" content=""/> 
+<meta name="DC.Contributor" content="原住民族委員會"/> 
+<meta name="DC.Type" content="新聞"/> 
+<meta name="DC.Format" content="text"/> 
+<meta name="DC.Source" content="原住民族委員會"/> 
+<meta name="DC.Language" content="中文"/> 
+<meta name="DC.coverage.t.min" content="2016-03/04"/> 
+<meta name="DC.coverage.t.max" content="2021-03/03"/> 
+<meta name="DC.Publisher" content="原住民族委員會"/> 
+<meta name="DC.Date" content="2016-03/04"/> 
+<meta name="DC.Identifier" content="DOC000006966"/> 
+<meta name="DC.Relation" content=""/> 
+<meta name="DC.Rights" content="原住民族委員會"/> 
+<meta name="Category.Theme" content="110"/> 
+<meta name="Category.Cake" content="I00"/>
+<meta name="Category.Service" content="E10"/> 
+<meta name="Keywords" content="keywords"/> </head>
+
+
+ <script>
+ <!-- 	
+ 
+	$(document).ready(function(){    
+		        
+       
+       	var dataSourfe = []; 
+       	setSourceData();
+     	  $("#condition").autocomplete({
+     	  	 minLength:1,
+           source:dataSourfe
+        })
+    
+        function setSourceData(){
+        	 jQuery.post(
+        	  "/portal/portal/search/hkeywordList.html",
+        	  {'CID': 'E2FE7562923DFF43'}, 
+        	  function( data ) {
+        	  	dataSourfe=data;        	  
+        	  	$("#condition").autocomplete({
+       	        minLength:1,
+                source:dataSourfe
+              })
+              
+        	  }, 
+        	  "json");
+        }   
+
+  })
+        
+          
+        
+        
+ //--> 
+</script>	
+
+<body>	
+
+<div class="pageoutline">
+	<div class="top">
+    	<a accesskey="U" href="#" title="網頁上方連結區" class="acskeyM">:::</a>
+        <div class="logo"><a href="/portal/index.html" title="回首頁"></a></div>
+        <div class="links">
+                                     <a href="/portal/portal/siteMap/siteMap.html?CID=5CB20359EF803A6B" title="網站導覽">網站導覽</a><span class="disappear">|</span> 
+                          <a href="/portal/associate/oid/list.html?CID=2BE09E711B6FEE4C" title="分類檢索">分類檢索</a><span class="disappear">|</span> 
+                          <a href="/portal/associate/bid/bidInfoList.html?CID=FC8AAFFED608E7C8" title="招標公告">招標公告</a><span class="disappear">|</span> 
+                          <a href="/portal/associate/opinion/form.html?CID=F92CE4DECE8AE7AA" title="民意信箱">民意信箱</a><span class="disappear">|</span> 
+                          <a href="/portal/docList.html?CID=84787D2F3B3C9BDA"  title="FAQ">FAQ</a><span class="disappear">|</span> 
+                          <a href="/portal/associate/rss/index.html?CID=3597E626C1BA3802" title="RSS">RSS</a><span class="disappear">|</span> 
+                          <a href="https://www.youtube.com/channel/UCZxNhNpod0_Nf9L490dPb-g" title="Youtube">Youtube</a><span class="disappear">|</span> 
+                          <a href="https://www.facebook.com/pages/%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E5%A7%94%E5%93%A1%E6%9C%83/754582384589549?sk=timeline" target="_blank" title="另開視窗至：Facebook">Facebook</a><span class="disappear">|</span> 
+                          <a href="https://plus.google.com/115564262326316315255/videos#115564262326316315255/about" target="_blank" title="另開視窗至：Google+">Google+</a><span class="disappear">|</span> 
+                      
+            ／字級設定：
+           <span class="fontsize">
+                                                           <a href="/portal/index.html?fontSize=fontsize1" title="切換至較小的字型"><img src="/portal/tpl03/zh_TW/button/fontsize11.gif" alt="切換至較小的字型" onfocus="this.src='/portal/tpl03/zh_TW/button/fontsize12.gif'" onmouseover="this.src='/portal/tpl03/zh_TW/button/fontsize12.gif'" onmouseout="this.src='/portal/tpl03/zh_TW/button/fontsize11.gif'" onBlur="this.src='/portal/tpl03/zh_TW/button/fontsize11.gif'"/></a>                
+                              
+                               <span class="disappear">|</span>
+                                                             <img src="/portal/tpl03/zh_TW/button/fontsize22.gif" alt="切換至較中的字型" />
+                              
+                               <span class="disappear">|</span>
+                                                             <a href="/portal/index.html?fontSize=fontsize3" title="切換至較大的字型"><img src="/portal/tpl03/zh_TW/button/fontsize31.gif" alt="切換至較大的字型" onfocus="this.src='/portal/tpl03/zh_TW/button/fontsize32.gif'" onmouseover="this.src='/portal/tpl03/zh_TW/button/fontsize32.gif'" onmouseout="this.src='/portal/tpl03/zh_TW/button/fontsize31.gif'" onBlur="this.src='/portal/tpl03/zh_TW/button/fontsize31.gif'"/></a>                
+                              
+                                       </span>
+        </div>
+        <div class="lang">
+                                                <span class="langEN"><a href="/portal/index.html?lang=en_US" title="English"><span>English</span></a></span><span class="disappear">|</span>
+                                     <span class="langKid"><a href="/portal/kids/index.htm" title="兒童網"><span>兒童網</span></a></span><span class="disappear">|</span>
+                                     <span class="langPDA"><a href="index_pda.html?lang=zh_TW" title="行動版"><span>行動版</span></a></span><span class="disappear">|</span>
+                   </div>
+    </div><!--top end-->
+    
+    <div class="indexBody">
+        <div class="indexLeft">
+        <a accesskey="L" href="#" title="網頁左方連結區" class="acskeyL">:::</a>
+        
+
+                                                                                           
+            <div class="menu">
+            	<div class="head">
+                 				 <div class="head2"></div>
+              </div>
+              <div class="body">
+                 <ul> 
+                   <li onMouseOver="doOpenMenu('Enthic','Enthic')" onfocus="doOpenMenu('Enthic','Enthic')" onBlur="doCloseMenu('Enthic','Enthic')" onMouseOut="doCloseMenu('Enthic','Enthic')"><div class="moremu"><div class="noa"><a href="/portal/cateInfo.html?CID=8F19BF08AE220D65"  title="原住民族簡介">原住民族簡介</a></div></div><ul id="menuShowArea_Enthic_Enthic" class="submenu"><li ><a href="/portal/docList.html?CID=6726E5B80C8822F9"  title="原住民族分佈 ">原住民族分佈 </a></li><li ><a href="/portal/docList.html?CID=7AD36169AB07E1D0"  title="阿美族">阿美族</a></li><li ><a href="/portal/docList.html?CID=FAD81C01A21CEFD8"  title="泰雅族">泰雅族</a></li><li ><a href="/portal/docList.html?CID=E8F97E390107602E"  title="排灣族">排灣族</a></li><li ><a href="/portal/docList.html?CID=274BE22984C1B432"  title="布農族">布農族</a></li><li ><a href="/portal/docList.html?CID=E6CD8B3830879023"  title="卑南族">卑南族</a></li><li ><a href="/portal/docList.html?CID=277F552950733982"  title="魯凱族">魯凱族</a></li><li ><a href="/portal/docList.html?CID=F07B48DFDA79CF95"  title="鄒族">鄒族</a></li><li ><a href="/portal/docList.html?CID=2418BFC08FD0A1D0"  title="賽夏族">賽夏族</a></li><li ><a href="/portal/docList.html?CID=03AB0AFF23E53149"  title="雅美族(達悟族)">雅美族(達悟族)</a></li><li ><a href="/portal/docList.html?CID=AC58C79198E1FD34"  title="邵族">邵族</a></li><li ><a href="/portal/docList.html?CID=C025000D7FB62524"  title="噶瑪蘭族">噶瑪蘭族</a></li><li ><a href="/portal/docList.html?CID=8BEBF5BE0A53E41F"  title="太魯閣族">太魯閣族</a></li><li ><a href="/portal/docList.html?CID=0F21B3DE621E6880"  title="撒奇萊雅族">撒奇萊雅族</a></li><li ><a href="/portal/docList.html?CID=F1E889410A51BD5F"  title="賽德克族">賽德克族</a></li><li ><a href="/portal/docList.html?CID=786B260E9D63A127"  title="拉阿魯哇族">拉阿魯哇族</a></li><li ><a href="/portal/docList.html?CID=E3439993A7481ADD"  title="卡那卡那富族">卡那卡那富族</a></li><li ><a href="/portal/docList.html?CID=194DB51147425C24"  title="16族群影片簡介">16族群影片簡介</a></li></ul></li><li onMouseOver="doOpenMenu('C000083','C000083')" onfocus="doOpenMenu('C000083','C000083')" onBlur="doCloseMenu('C000083','C000083')" onMouseOut="doCloseMenu('C000083','C000083')"><div class="moremu"><div class="noa"><a href="/portal/cateInfo.html?CID=520BA645FF77838B"  title="平埔族及南島語族簡介">平埔族及南島語族簡介</a></div></div><ul id="menuShowArea_C000083_C000083" class="submenu"><li ><a href="/portal/docList.html?CID=A9E092C6104ACAD5"  title="平埔族">平埔族</a></li><li ><a href="/portal/docList.html?CID=49744114ECE41D1F"  title="南島語族">南島語族</a></li></ul></li><li ><a href="/portal/associate/village/list.html?CID=1E4A2846561931B1" title="原鄉簡介">原鄉簡介</a></li><li ><a href="/portal/portal/actNews/ActNewsList.html?CID=D4F61E554FA73017" title="重大慶典祭儀活動">重大慶典祭儀活動</a></li><li ><a href="http://web.klokah.tw/" title="原住民族語E樂園">原住民族語E樂園</a></li><li class="last"><a href="/portal/associate/ecard/cardList.html?CID=116842C0FD059A31" title="電子賀卡">電子賀卡</a></li></ul></li>                   
+                 </ul>
+                 
+                 
+              </div>
+              <div class="foot"></div>
+            </div>
+            
+            
+            
+                       
+                                                                                             
+            <div class="menu">
+            	<div class="head">
+                 				 <div class="head1"></div>
+              </div>
+              <div class="body">
+                 <ul> 
+                   <li ><a href="/portal/docList.html?CID=33B5282F6CB2792D"  title="8月1日原住民族日">8月1日原住民族日</a></li><li onMouseOver="doOpenMenu('A000085','A000085')" onfocus="doOpenMenu('A000085','A000085')" onBlur="doCloseMenu('A000085','A000085')" onMouseOut="doCloseMenu('A000085','A000085')"><div class="moremu"><div class="noa"><a href="/portal/cateInfo.html?CID=C6715EA1EC80AD5D"  title="關於本會">關於本會</a></div></div><ul id="menuShowArea_A000085_A000085" class="submenu"><li ><a href="/portal/docList.html?CID=80A47B1EC7BF5A12"  title="本會主任委員">本會主任委員</a></li><li onMouseOver="doOpenMenu('A000085','A000087')" onfocus="doOpenMenu('A000085','A000087')" onBlur="doCloseMenu('A000085','A000087')" onMouseOut="doCloseMenu('A000085','A000087')"><div class="moremu"><div class="noa"><a href="/portal/cateInfo.html?CID=88D995AB5ADBA53C"  title="本會副主任委員">本會副主任委員</a></div></div><ul id="menuShowArea_A000085_A000087" class="submenu"><li ><a href="/portal/docList.html?CID=6FBA1532FBD63C7E"  title="汪明輝(tibusungʉ ’e vayayana)副主任委員">汪明輝(tibusungʉ ’e vayayana)副主任委員</a></li><li ><a href="/portal/docList.html?CID=3DCBF4D96E1C0837"  title="伊萬‧納威(Iwan  Nawi)副主任委員">伊萬‧納威(Iwan  Nawi)副主任委員</a></li><li ><a href="/portal/docList.html?CID=C382CBFF60344A4E"  title="鍾興華(Calivat‧Gadu)副主任委員">鍾興華(Calivat‧Gadu)副主任委員</a></li></ul></li><li onMouseOver="doOpenMenu('A000085','A000091')" onfocus="doOpenMenu('A000085','A000091')" onBlur="doCloseMenu('A000085','A000091')" onMouseOut="doCloseMenu('A000085','A000091')"><div class="moremu"><div class="noa"><a href="/portal/cateInfo.html?CID=FCE294D35E097F95"  title="組織與職掌">組織與職掌</a></div></div><ul id="menuShowArea_A000085_A000091" class="submenu"><li ><a href="/portal/docList.html?CID=5CB34240F988D677"  title="組織系統">組織系統</a></li><li ><a href="/portal/docList.html?CID=4A671736423967AF"  title="綜合規劃處">綜合規劃處</a></li><li ><a href="/portal/docList.html?CID=F5882B8ECCAA9A26"  title="教育文化處">教育文化處</a></li><li ><a href="/portal/docList.html?CID=FE1A9D5FF399E0F3"  title="社會福利處">社會福利處</a></li><li ><a href="/portal/docList.html?CID=008319CC07E572C9"  title="經濟發展處">經濟發展處</a></li><li ><a href="/portal/docList.html?CID=2895685E9C033C0B"  title="公共建設處">公共建設處</a></li><li ><a href="/portal/docList.html?CID=C9BFAE5E380C5734"  title="土地管理處">土地管理處</a></li><li ><a href="/portal/docList.html?CID=89CC7EB73601A82F"  title="秘書室">秘書室</a></li><li ><a href="/portal/docList.html?CID=D45B4CC14051D1FE"  title="主計室">主計室</a></li><li ><a href="/portal/docList.html?CID=D0D70106E11C4DE2"  title="人事室">人事室</a></li><li ><a href="/portal/docList.html?CID=B2CCFC5351C76F71"  title="原住民族委員會原住民族文化發展中心">原住民族委員會原住民族文化發展中心</a></li><li ><a href="/portal/docList.html?CID=B07D3F824B9A6511"  title="東埔活動中心">東埔活動中心</a></li><li ><a href="/portal/docList.html?CID=FD359A278D93E875"  title="國會聯絡組">國會聯絡組</a></li><li ><a href="/portal/docList.html?CID=F8EABF249C3263DC"  title="法規會">法規會</a></li><li ><a href="/portal/docList.html?CID=B714D580B253076E"  title="政風室">政風室</a></li></ul></li><li ><a href="/portal/docList.html?CID=BFD81A09DC57441F"  title="交通資訊">交通資訊</a></li><li ><a href="/portal/associate/job/jobList.html?CID=4B2E0CEFE78F03FE" title="本會徵才">本會徵才</a></li></ul></li><li ><a href="http://law.apc.gov.tw/" target="_blank" title="另開視窗至：法規查詢">法規查詢</a></li><li onMouseOver="doOpenMenu('A000106','A000106')" onfocus="doOpenMenu('A000106','A000106')" onBlur="doCloseMenu('A000106','A000106')" onMouseOut="doCloseMenu('A000106','A000106')"><div class="moremu"><div class="noa"><a href="/portal/cateInfo.html?CID=49D0243BBAB1C78B"  title="主動公開資訊">主動公開資訊</a></div></div><ul id="menuShowArea_A000106_A000106" class="submenu"><li ><a href="http://www.apc.gov.tw/portal/docList.html?CID=35AE118732EB6BAF" title="新聞稿">新聞稿</a></li><li ><a href="/portal/docList.html?CID=9DA8D6F1628ABD2F"  title="交接作業資料">交接作業資料</a></li><li onMouseOver="doOpenMenu('A000106','A000107')" onfocus="doOpenMenu('A000106','A000107')" onBlur="doCloseMenu('A000106','A000107')" onMouseOut="doCloseMenu('A000106','A000107')"><div class="moremu"><a href="/portal/docList.html?CID=812FFAB0BCD92D1A"  title="統計資料">統計資料</a></div><ul id="menuShowArea_A000106_A000107" class="submenu"><li ><a href="/portal/docList.html?CID=C5FBC20BD6C8A9B0"  title="臺灣原住民經濟狀況調查">臺灣原住民經濟狀況調查</a></li><li ><a href="/portal/docList.html?CID=940F9579765AC6A0"  title="原住民人口數統計資料">原住民人口數統計資料</a></li><li ><a href="/portal/docList.html?CID=AD9AEF7283BF7637"  title="原住民鄉鎮市基本資料">原住民鄉鎮市基本資料</a></li><li ><a href="/portal/docList.html?CID=19F6DD25969C101D"  title="就業狀況調查統計">就業狀況調查統計</a></li><li ><a href="/portal/docList.html?CID=05930CF23390CA3A"  title="性別統計專區">性別統計專區</a></li><li onMouseOver="doOpenMenu('A000106','A001998')" onfocus="doOpenMenu('A000106','A001998')" onBlur="doCloseMenu('A000106','A001998')" onMouseOut="doCloseMenu('A000106','A001998')"><div class="moremu"><a href="/portal/docList.html?CID=2C938942E2AC7096"  title="本會公務統計方案報表"><a href="/portal/cateInfo.html?CID=2C938942E2AC7096"  title="本會公務統計方案報表">本會公務統計方案報表</a></a></div><ul id="menuShowArea_A000106_A001998" class="submenu"><li ><a href="/portal/docList.html?CID=575BC6B098536DB7"  title="104年度">104年度</a></li><li ><a href="/portal/docList.html?CID=12D2CC05034E553D"  title="103年度">103年度</a></li><li ><a href="/portal/docList.html?CID=F96714E191725FDC"  title="102年度">102年度</a></li><li ><a href="/portal/docList.html?CID=B5B3BBBF5F48079E"  title="101年度">101年度</a></li><li ><a href="/portal/docList.html?CID=C0D1986BF5F01DCD"  title="100年度">100年度</a></li><li ><a href="/portal/docList.html?CID=16F2D94DFFA0450D"  title="99年度">99年度</a></li><li ><a href="/portal/docList.html?CID=F07B3C358365D93D"  title="98年度">98年度</a></li></ul></li><li ><a href="/portal/docList.html?CID=9834B5B2797FB0CB"  title="國民年金原住民給付統計資料">國民年金原住民給付統計資料</a></li></ul></li><li onMouseOver="doOpenMenu('A000106','A001980')" onfocus="doOpenMenu('A000106','A001980')" onBlur="doCloseMenu('A000106','A001980')" onMouseOut="doCloseMenu('A000106','A001980')"><div class="moremu"><div class="noa"><a href="/portal/cateInfo.html?CID=57F902F47360854B"  title="主計總處統計資料">主計總處統計資料</a></div></div><ul id="menuShowArea_A000106_A001980" class="submenu"><li ><a href="http://www.stat.gov.tw/ct.asp?xItem=26053&CtNode=5373&mp=4" target="_blank" title="另開視窗至：中華民國統計資訊網">中華民國統計資訊網</a></li></ul></li><li onMouseOver="doOpenMenu('A000106','A000108')" onfocus="doOpenMenu('A000106','A000108')" onBlur="doCloseMenu('A000106','A000108')" onMouseOut="doCloseMenu('A000106','A000108')"><div class="moremu"><a href="/portal/docList.html?CID=B1A681D22552BA47"  title="預算及決算書">預算及決算書</a></div><ul id="menuShowArea_A000106_A000108" class="submenu"><li ><a href="/portal/docList.html?CID=7DB7ACB90A760EEE"  title="附屬單位預算">附屬單位預算</a></li><li ><a href="/portal/docList.html?CID=AEC15C4CFE95DE38"  title="特別預算">特別預算</a></li><li ><a href="/portal/docList.html?CID=AD87E77E23958BA0"  title="單位預算">單位預算</a></li></ul></li><li onMouseOver="doOpenMenu('A000106','C000639')" onfocus="doOpenMenu('A000106','C000639')" onBlur="doCloseMenu('A000106','C000639')" onMouseOut="doCloseMenu('A000106','C000639')"><div class="moremu"><a href="/portal/docList.html?CID=B98C677E7822D5F9"  title="政策宣導相關廣告"><a href="/portal/cateInfo.html?CID=B98C677E7822D5F9"  title="政策宣導相關廣告">政策宣導相關廣告</a></a></div><ul id="menuShowArea_A000106_C000639" class="submenu"><li ><a href="/portal/docList.html?CID=5615604C708ED1AB"  title="單位預算"><a href="/portal/cateInfo.html?CID=5615604C708ED1AB"  title="單位預算">單位預算</a></a></li><li ><a href="/portal/docList.html?CID=3A1C84046A3716A8"  title="附屬單位預算"><a href="/portal/cateInfo.html?CID=3A1C84046A3716A8"  title="附屬單位預算">附屬單位預算</a></a></li></ul></li><li ><a href="/portal/docList.html?CID=217054CAE51A3B1A"  title="委託研究報告">委託研究報告</a></li><li onMouseOver="doOpenMenu('A000106','A000112')" onfocus="doOpenMenu('A000106','A000112')" onBlur="doCloseMenu('A000106','A000112')" onMouseOut="doCloseMenu('A000106','A000112')"><div class="moremu"><a href="/portal/docList.html?CID=7FC80B1DD4923DDF"  title="施政計畫"><a href="/portal/cateInfo.html?CID=7FC80B1DD4923DDF"  title="施政計畫">施政計畫</a></a></div><ul id="menuShowArea_A000106_A000112" class="submenu"><li ><a href="/portal/docList.html?CID=80F013141CEA473F"  title="施政目標">施政目標</a></li><li ><a href="/portal/docList.html?CID=562F7305A68DBB74"  title="施政績效">施政績效</a></li><li ><a href="/portal/docList.html?CID=23B9BF45FF9A6F88"  title="查證報告">查證報告</a></li></ul></li><li ><a href="/portal/associate/bid/bidInfoList.html?CID=19D8AF563F54EEA2" title="公共工程及採購契約">公共工程及採購契約</a></li><li onMouseOver="doOpenMenu('A000106','A001967')" onfocus="doOpenMenu('A000106','A001967')" onBlur="doCloseMenu('A000106','A001967')" onMouseOut="doCloseMenu('A000106','A001967')"><div class="moremu"><a href="/portal/docList.html?CID=2C5B87C44F111087"  title="會計報告"><a href="/portal/cateInfo.html?CID=2C5B87C44F111087"  title="會計報告">會計報告</a></a></div><ul id="menuShowArea_A000106_A001967" class="submenu"><li ><a href="/portal/docList.html?CID=079C20CDB28CCF5B"  title="單位預算">單位預算</a></li><li ><a href="/portal/docList.html?CID=0104F010C378C672"  title="附屬單位預算">附屬單位預算</a></li><li ><a href="/portal/docList.html?CID=1FC27E17B0AA7916"  title="特別預算">特別預算</a></li></ul></li><li onMouseOver="doOpenMenu('A000106','A001968')" onfocus="doOpenMenu('A000106','A001968')" onBlur="doCloseMenu('A000106','A001968')" onMouseOut="doCloseMenu('A000106','A001968')"><div class="moremu"><div class="noa"><a href="/portal/cateInfo.html?CID=1DBF9228B388688D"  title="獎補(捐)助情形">獎補(捐)助情形</a></div></div><ul id="menuShowArea_A000106_A001968" class="submenu"><li ><a href="/portal/docList.html?CID=6B6832164B6AF84A"  title="補助地方政府情形報表">補助地方政府情形報表</a></li><li ><a href="/portal/docList.html?CID=A0B9313839EF53DE"  title="補助團體私人情形報表">補助團體私人情形報表</a></li><li onMouseOver="doOpenMenu('A000106','A001974')" onfocus="doOpenMenu('A000106','A001974')" onBlur="doCloseMenu('A000106','A001974')" onMouseOut="doCloseMenu('A000106','A001974')"><div class="moremu"><a href="/portal/docList.html?CID=D235C262D2604E7C"  title="公益彩券回饋金"><a href="/portal/cateInfo.html?CID=D235C262D2604E7C"  title="公益彩券回饋金">公益彩券回饋金</a></a></div><ul id="menuShowArea_A000106_A001974" class="submenu"><li ><a href="/portal/docList.html?CID=212A908E90C5B984"  title="要點規定及相關計畫">要點規定及相關計畫</a></li><li ><a href="/portal/docList.html?CID=9AECA322F4C8C022"  title="年度運用計畫">年度運用計畫</a></li><li ><a href="/portal/docList.html?CID=2445344FB1B3D135"  title="核定計畫">核定計畫</a></li><li ><a href="/portal/docList.html?CID=38789C93771EF639"  title="成果報告">成果報告</a></li><li ><a href="/portal/docList.html?CID=85C3C1C92387E08A"  title="相關活動">相關活動</a></li></ul></li></ul></li><li ><a href="/portal/docList.html?CID=3A4C302170D4BA4F"  title="個人資料保護">個人資料保護</a></li><li onMouseOver="doOpenMenu('A000106','C000661')" onfocus="doOpenMenu('A000106','C000661')" onBlur="doCloseMenu('A000106','C000661')" onMouseOut="doCloseMenu('A000106','C000661')"><div class="moremu"><a href="/portal/docList.html?CID=DEC180D5EE8044EF"  title="行政院原住民族基本法推動會"><a href="/portal/cateInfo.html?CID=DEC180D5EE8044EF"  title="行政院原住民族基本法推動會">行政院原住民族基本法推動會</a></a></div><ul id="menuShowArea_A000106_C000661" class="submenu"><li ><a href="/portal/docList.html?CID=B5A109A47687A9F2"  title="歷次會議記錄">歷次會議記錄</a></li><li onMouseOver="doOpenMenu('A000106','C000756')" onfocus="doOpenMenu('A000106','C000756')" onBlur="doCloseMenu('A000106','C000756')" onMouseOut="doCloseMenu('A000106','C000756')"><div class="moremu"><a href="/portal/docList.html?CID=A438F5BB7F851057"  title="相關法規彙編"><a href="/portal/cateInfo.html?CID=A438F5BB7F851057"  title="相關法規彙編">相關法規彙編</a></a></div><ul id="menuShowArea_A000106_C000756" class="submenu"><li ><a href="/portal/docList.html?CID=62DDB6F8EBF25AA8"  title="原住民族基本法">原住民族基本法</a></li><li ><a href="/portal/docList.html?CID=40342CC344807047"  title="行政院原住民族基本法推動會設置要點">行政院原住民族基本法推動會設置要點</a></li></ul></li><li ><a href="/portal/docList.html?CID=BFC9D38B3C442E1D"  title="相關參考資料">相關參考資料</a></li></ul></li><li ><a href="/portal/docList.html?CID=5FC6DA1C91974642"  title="本會歷年傳統領域調查成果">本會歷年傳統領域調查成果</a></li><li onMouseOver="doOpenMenu('A000106','C000766')" onfocus="doOpenMenu('A000106','C000766')" onBlur="doCloseMenu('A000106','C000766')" onMouseOut="doCloseMenu('A000106','C000766')"><div class="moremu"><a href="/portal/docList.html?CID=7CDD0E527E32B424"  title="本會部落核定">本會部落核定</a></div><ul id="menuShowArea_A000106_C000766" class="submenu"><li ><a href="/portal/docList.html?CID=70BB33E603A72F50"  title="部落核定彙整總表">部落核定彙整總表</a></li></ul></li><li ><a href="/portal/docList.html?CID=A776EDA822DF7CC8"  title="本會捐助財團法人之相關資訊">本會捐助財團法人之相關資訊</a></li><li ><a href="/portal/docList.html?CID=14C650ACC276448F"  title="原住民保留地禁伐補償及造林回饋條例專區">原住民保留地禁伐補償及造林回饋條例專區</a></li><li ><a href="http://jackpanatopenshift-landnative.rhcloud.com/public/index.html" target="_blank" title="另開視窗至：原住民族傳統領域土地專家學者及種子教師查詢系統">原住民族傳統領域土地專家學者及種子教師查詢系統</a></li><li onMouseOver="doOpenMenu('A000106','C001030')" onfocus="doOpenMenu('A000106','C001030')" onBlur="doCloseMenu('A000106','C001030')" onMouseOut="doCloseMenu('A000106','C001030')"><div class="moremu"><a href="/portal/docList.html?CID=C51E0332FB76BA0F"  title="廉政園地"><a href="/portal/cateInfo.html?CID=C51E0332FB76BA0F"  title="廉政園地">廉政園地</a></a></div><ul id="menuShowArea_A000106_C001030" class="submenu"><li ><a href="/portal/docList.html?CID=09D26CCF30583231"  title="遊說法專區">遊說法專區</a></li><li onMouseOver="doOpenMenu('A000106','C001032')" onfocus="doOpenMenu('A000106','C001032')" onBlur="doCloseMenu('A000106','C001032')" onMouseOut="doCloseMenu('A000106','C001032')"><div class="moremu"><a href="/portal/docList.html?CID=F047E94FFEC1595C"  title="廉政會報專區"><a href="/portal/cateInfo.html?CID=F047E94FFEC1595C"  title="廉政會報專區">廉政會報專區</a></a></div><ul id="menuShowArea_A000106_C001032" class="submenu"><li ><a href="/portal/docList.html?CID=E5181D815CE076D3"  title="廉政會報設置要點">廉政會報設置要點</a></li><li ><a href="/portal/docList.html?CID=994E8D397085F663"  title="會議記錄">會議記錄</a></li></ul></li></ul></li></ul></li><li onMouseOver="doOpenMenu('A000418','A000418')" onfocus="doOpenMenu('A000418','A000418')" onBlur="doCloseMenu('A000418','A000418')" onMouseOut="doCloseMenu('A000418','A000418')"><div class="moremu"><a href="/portal/docList.html?CID=A3D5EC4D8630DCF4"  title="本會相關業務">本會相關業務</a></div><ul id="menuShowArea_A000418_A000418" class="submenu"><li ><a href="/portal/docList.html?CID=EF33C0A18B5B5623"  title="消費者保護專區">消費者保護專區</a></li><li ><a href="/portal/docList.html?CID=23DD6FC526F7465A"  title="原住民族綜合發展基金貸款專區 ">原住民族綜合發展基金貸款專區 </a></li><li ><a href="/portal/docList.html?CID=749ADED5732997C7"  title="原住民族工作權保障法專區">原住民族工作權保障法專區</a></li><li ><a href="/portal/docList.html?CID=7865157C0BF39AD6"  title="補助型計畫">補助型計畫</a></li><li ><a href="/portal/docList.html?CID=41FF8FCE34CD0192"  title="愛台12項建設">愛台12項建設</a></li><li ><a href="/portal/docList.html?CID=4C5ACDA0ECC89FCD"  title="平埔族群事務推動小組">平埔族群事務推動小組</a></li><li ><a href="/portal/docList.html?CID=CD8DF2B4BC3244F2"  title="身分法專區">身分法專區</a></li><li ><a href="http://www.apc.gov.tw/portal/gender/index.html?CID=A1BAAB0D0BE14425" target="_blank" title="另開視窗至：性別主流化專區">性別主流化專區</a></li><li onMouseOver="doOpenMenu('A000418','C000820')" onfocus="doOpenMenu('A000418','C000820')" onBlur="doCloseMenu('A000418','C000820')" onMouseOut="doCloseMenu('A000418','C000820')"><div class="moremu"><a href="/portal/docList.html?CID=F6948988E36D829A"  title="原住民族法學相關"><a href="/portal/cateInfo.html?CID=F6948988E36D829A"  title="原住民族法學相關">原住民族法學相關</a></a></div><ul id="menuShowArea_A000418_C000820" class="submenu"><li ><a href="/portal/docList.html?CID=5EF10D26E1C7A237"  title="14族原住民族傳統習慣規範調查語評估納入現行法制研究">14族原住民族傳統習慣規範調查語評估納入現行法制研究</a></li><li ><a href="/portal/docList.html?CID=7AD137FA439DC5C5"  title="原住民族傳統習慣與國家法制研討會論文集">原住民族傳統習慣與國家法制研討會論文集</a></li><li ><a href="/portal/docList.html?CID=4050D00B1C77EF47"  title="國內原住民族重要判決編輯及解析">國內原住民族重要判決編輯及解析</a></li><li ><a href="/portal/docList.html?CID=8A92413DD72FC37C"  title="台灣原住民族法學期刊">台灣原住民族法學期刊</a></li></ul></li><li ><a href="/portal/docList.html?CID=A1864933BA739E5A"  title="部落會議專區">部落會議專區</a></li><li ><a href="/portal/docList.html?CID=DB95FA00E651B946"  title="請願結果及訴願決定">請願結果及訴願決定</a></li><li ><a href="/portal/docList.html?CID=FC3758F451C90F8A"  title="國家賠償">國家賠償</a></li><li ><a href="/portal/docList.html?CID=B834A33CA227BB9E"  title="服務貿易協議專區 ">服務貿易協議專區 </a></li><li ><a href="/portal/docList.html?CID=040333666A332EB6"  title="原住民族家庭服務中心專區">原住民族家庭服務中心專區</a></li><li ><a href="/portal/docList.html?CID=82087F1947DD295C"  title="人體研究計畫諮詢取得原住民族同意專區">人體研究計畫諮詢取得原住民族同意專區</a></li></ul></li><li ><a href="/portal/docList.html?CID=A184C510D44A5D88"  title="活動訊息">活動訊息</a></li><li onMouseOver="doOpenMenu('A000117','A000117')" onfocus="doOpenMenu('A000117','A000117')" onBlur="doCloseMenu('A000117','A000117')" onMouseOut="doCloseMenu('A000117','A000117')"><div class="moremu"><a href="/portal/docList.html?CID=6EBE68EA8288674E"  title=" 為民服務"> 為民服務</a></div><ul id="menuShowArea_A000117_A000117" class="submenu"><li onMouseOver="doOpenMenu('A000117','A000119')" onfocus="doOpenMenu('A000117','A000119')" onBlur="doCloseMenu('A000117','A000119')" onMouseOut="doCloseMenu('A000117','A000119')"><div class="moremu"><a href="/portal/docList.html?CID=AEFC48A195DB393E"  title="資源分享">資源分享</a></div><ul id="menuShowArea_A000117_A000119" class="submenu"><li ><a href="/portal/docList.html?CID=087A66E6BCDAA2EE"  title="綜合規劃">綜合規劃</a></li><li ><a href="/portal/docList.html?CID=155DB1CE61FD4542"  title="教育文化">教育文化</a></li><li onMouseOver="doOpenMenu('A000117','A000122')" onfocus="doOpenMenu('A000117','A000122')" onBlur="doCloseMenu('A000117','A000122')" onMouseOut="doCloseMenu('A000117','A000122')"><div class="moremu"><a href="/portal/docList.html?CID=1F338019434A196A"  title="社會福利">社會福利</a></div><ul id="menuShowArea_A000117_A000122" class="submenu"><li ><a href="/portal/docList.html?CID=FF928694641A79F1"  title="就業促進">就業促進</a></li><li ><a href="/portal/docList.html?CID=0ACFAD2828DDA021"  title="衛生保健">衛生保健</a></li><li ><a href="/portal/docList.html?CID=170C9A9C11FEF341"  title="社會福利">社會福利</a></li></ul></li><li onMouseOver="doOpenMenu('A000117','A000124')" onfocus="doOpenMenu('A000117','A000124')" onBlur="doCloseMenu('A000117','A000124')" onMouseOut="doCloseMenu('A000117','A000124')"><div class="moremu"><a href="/portal/docList.html?CID=83E8DEBBCBD6BD6A"  title="土地管理">土地管理</a></div><ul id="menuShowArea_A000117_A000124" class="submenu"><li ><a href="/portal/docList.html?CID=44D436E65F788E4A"  title="補辦增辦編原住民保留地">補辦增辦編原住民保留地</a></li></ul></li><li ><a href="/portal/docList.html?CID=523CD55CD8E94756"  title="經濟發展">經濟發展</a></li><li ><a href="/portal/docList.html?CID=AFCCFF15FBD45583"  title="公共建設">公共建設</a></li><li ><a href="/portal/docList.html?CID=0E7B31338A9A0ACC"  title="經濟公共建設">經濟公共建設</a></li></ul></li><li onMouseOver="doOpenMenu('A000117','A000127')" onfocus="doOpenMenu('A000117','A000127')" onBlur="doCloseMenu('A000117','A000127')" onMouseOut="doCloseMenu('A000117','A000127')"><div class="moremu"><a href="/portal/docList.html?CID=F259C9B4A0D5F072"  title="便民服務專區">便民服務專區</a></div><ul id="menuShowArea_A000117_A000127" class="submenu"><li ><a href="/portal/docList.html?CID=B93CD070C34ABBFE"  title="綜合規劃">綜合規劃</a></li><li ><a href="/portal/docList.html?CID=ECFACA9CF9A158E1"  title="教育文化">教育文化</a></li><li ><a href="/portal/docList.html?CID=472C9D5621B4DDEC"  title="社會福利">社會福利</a></li><li ><a href="/portal/docList.html?CID=A5FA2A882EA4A07E"  title="公共建設">公共建設</a></li><li ><a href="/portal/docList.html?CID=5EECA6E2F25C54ED"  title="經濟發展">經濟發展</a></li><li ><a href="/portal/docList.html?CID=2E2C74B94E9045DC"  title="土地管理">土地管理</a></li><li ><a href="/portal/docList.html?CID=6F45F40BAF05CB59"  title="公共建設(未組改前)">公共建設(未組改前)</a></li><li ><a href="/portal/docList.html?CID=163BF7645F8CF3B6"  title="其他">其他</a></li></ul></li><li ><a href="/portal/docList.html?CID=FC25DE7AC337AFD4"  title="便民服務電話">便民服務電話</a></li><li ><a href="/portal/docList.html?CID=538D18F2E167F3E2"  title="公務資料交換">公務資料交換</a></li><li ><a href="/portal/docList.html?CID=4DD5AEEB6C73866F"  title="縣市政府相關網站">縣市政府相關網站</a></li><li ><a href="http://e-learning.apc.gov.tw/" target="_blank" title="另開視窗至：原住民族網路學院">原住民族網路學院</a></li><li ><a href="/portal/docList.html?CID=B937678EBD942FBD"  title="傳染病防治宣導專區">傳染病防治宣導專區</a></li><li onMouseOver="doOpenMenu('A000117','C000863')" onfocus="doOpenMenu('A000117','C000863')" onBlur="doCloseMenu('A000117','C000863')" onMouseOut="doCloseMenu('A000117','C000863')"><div class="moremu"><a href="/portal/docList.html?CID=0991B05985DBFF77"  title="歲時祭儀專區">歲時祭儀專區</a></div><ul id="menuShowArea_A000117_C000863" class="submenu"><li ><a href="/portal/docList.html?CID=B88BAE46D973FDAC"  title="法規依據">法規依據</a></li><li onMouseOver="doOpenMenu('A000117','C000865')" onfocus="doOpenMenu('A000117','C000865')" onBlur="doCloseMenu('A000117','C000865')" onMouseOut="doCloseMenu('A000117','C000865')"><div class="moremu"><a href="/portal/docList.html?CID=F898AF3809E5CD9E"  title="公告日期">公告日期</a></div><ul id="menuShowArea_A000117_C000865" class="submenu"><li ><a href="/portal/docList.html?CID=43FDE59204C824C0"  title="100年度">100年度</a></li><li ><a href="/portal/docList.html?CID=21FB49EB34439910"  title="101年度">101年度</a></li><li ><a href="/portal/docList.html?CID=C317F8B549D6E3C7"  title="102年度">102年度</a></li><li ><a href="/portal/docList.html?CID=AC12245FDF1236B2"  title="103年度">103年度</a></li><li ><a href="/portal/docList.html?CID=F45480DB9FBC6E27"  title="104年度">104年度</a></li><li ><a href="/portal/docList.html?CID=AD80FE6530812C06"  title="105年度">105年度</a></li></ul></li></ul></li><li ><a href="/portal/docList.html?CID=8C7B99F7897ED464"  title="健保經濟弱勢協助措施">健保經濟弱勢協助措施</a></li><li ><a href="/portal/docList.html?CID=09496CF625909FD4"  title="原住民團體意外保險專區">原住民團體意外保險專區</a></li><li ><a href="/portal/docList.html?CID=822935B82574D88E"  title="原住民族開放資料庫">原住民族開放資料庫</a></li></ul></li><li onMouseOver="doOpenMenu('C000392','C000392')" onfocus="doOpenMenu('C000392','C000392')" onBlur="doCloseMenu('C000392','C000392')" onMouseOut="doCloseMenu('C000392','C000392')"><div class="moremu"><div class="noa"><a href="/portal/cateInfo.html?CID=C84E1FC1D9DE6AF4"  title="重大政策">重大政策</a></div></div><ul id="menuShowArea_C000392_C000392" class="submenu"><li ><a href="http://www.ey.gov.tw/Content_NoList.aspx?n=3D06E532B0D8316C" target="_blank" title="另開視窗至：行政院重大政策">行政院重大政策</a></li><li ><a href="http://www.apc.gov.tw/portal/docList.html?CID=F6F47C22D1435F95" title="原民會重大政策">原民會重大政策</a></li></ul></li><li ><a href="/portal/associate/link/list.html?CID=BB79387BF15E533A" title="相關連結">相關連結</a></li><li onMouseOver="doOpenMenu('C000445','C000445')" onfocus="doOpenMenu('C000445','C000445')" onBlur="doCloseMenu('C000445','C000445')" onMouseOut="doCloseMenu('C000445','C000445')"><div class="moremu"><a href="/portal/docList.html?CID=D365AA6AAFF274D1"  title="出版品"><a href="/portal/cateInfo.html?CID=D365AA6AAFF274D1"  title="出版品">出版品</a></a></div><ul id="menuShowArea_C000445_C000445" class="submenu"><li ><a href="/portal/docList.html?CID=414DEE87E280CF0F"  title="本會施政成果專刊">本會施政成果專刊</a></li><li onMouseOver="doOpenMenu('C000445','C000446')" onfocus="doOpenMenu('C000445','C000446')" onBlur="doCloseMenu('C000445','C000446')" onMouseOut="doCloseMenu('C000445','C000446')"><div class="moremu"><div class="noa"><a href="/portal/cateInfo.html?CID=CF3C8099774FDD2F"  title="原民會定期刊物及服務手冊">原民會定期刊物及服務手冊</a></div></div><ul id="menuShowArea_C000445_C000446" class="submenu"><li ><a href="http://www.apc.gov.tw/portal/associate/publication/publicationList.html?type=95B49A13797414D7D0636733C6861689&CID=D0FE9602B3534326" title="雙月刊">雙月刊</a></li><li ><a href="http://www.apc.gov.tw/portal/associate/publication/publicationList.html?type=B53D9DC9D401C6DED0636733C6861689&CID=F7EF4CF1BEC71E0F" title="季刊">季刊</a></li><li ><a href="http://www.apc.gov.tw/portal/associate/publication/publicationList.html?type=BD567C12F490A21BD0636733C6861689&CID=C1FF49098D25C6CF" title="原住民服務手冊">原住民服務手冊</a></li></ul></li><li ><a href="http://www.tiprc.org.tw/common/index.php" target="_blank" title="另開視窗至：台灣原住民族圖書資訊中心連結">台灣原住民族圖書資訊中心連結</a></li><li ><a href="http://dore.tacp.gov.tw/tacp/pingpu/mq_sq.php?_session=fWdniGkCKxDrv917&_section=1510" target="_blank" title="另開視窗至：台灣原住民族數位典藏資料庫">台灣原住民族數位典藏資料庫</a></li><li ><a href="http://www.apc.gov.tw/portal/docList.html?CID=217054CAE51A3B1A" target="_blank" title="另開視窗至：委託研究報告">委託研究報告</a></li><li onMouseOver="doOpenMenu('C000445','C000708')" onfocus="doOpenMenu('C000445','C000708')" onBlur="doCloseMenu('C000445','C000708')" onMouseOut="doCloseMenu('C000445','C000708')"><div class="moremu"><a href="/portal/docList.html?CID=1642BAC6E7C2509D"  title="原住民族委員會出版品電子全文檔"><a href="/portal/cateInfo.html?CID=1642BAC6E7C2509D"  title="原住民族委員會出版品電子全文檔">原住民族委員會出版品電子全文檔</a></a></div><ul id="menuShowArea_C000445_C000708" class="submenu"><li ><a href="/portal/docList.html?CID=EA7C6DB31FD768A2"  title="96年度">96年度</a></li><li ><a href="/portal/docList.html?CID=7840B43E173CF433"  title="97年度">97年度</a></li><li ><a href="/portal/docList.html?CID=D6DC92246BCF08A8"  title="98年度">98年度</a></li><li ><a href="/portal/docList.html?CID=DC739DB337374216"  title="99年度">99年度</a></li><li ><a href="/portal/docList.html?CID=84D759B6D890E29E"  title="100年度">100年度</a></li><li ><a href="/portal/docList.html?CID=819BB74EFECE580B"  title="101年度">101年度</a></li><li ><a href="/portal/docList.html?CID=C97F22859B1965A6"  title="102年度">102年度</a></li><li ><a href="/portal/docList.html?CID=BB51937B0DAFC5E4"  title="103年度">103年度</a></li><li ><a href="/portal/docList.html?CID=6B6634ABBCEC57B4"  title="104年度">104年度</a></li></ul></li></ul></li><li onMouseOver="doOpenMenu('C000404','C000404')" onfocus="doOpenMenu('C000404','C000404')" onBlur="doCloseMenu('C000404','C000404')" onMouseOut="doCloseMenu('C000404','C000404')"><div class="moremu"><div class="noa"><a href="/portal/cateInfo.html?CID=49DA01170DD36411"  title="下載專區">下載專區</a></div></div><ul id="menuShowArea_C000404_C000404" class="submenu"><li ><a href="http://www.apc.gov.tw/portal/files/2DF54D2E7A0CD6281BD6B916B0DF926E408338B172C7DF330E82EC86E5F3EF54964E055E8D011B14?CID=966FE2C3D6755905" target="_blank" title="另開視窗至：公文附件下載">公文附件下載</a></li><li ><a href="/portal/associate/wallpaper/list.html?CID=75F490121CD0BDC3" title="桌布下載">桌布下載</a></li></ul></li><li ><a href="/portal/associate/video/list.html?CID=9F179F629F058841" title="影音新聞">影音新聞</a></li><li ><a href="/portal/docList.html?CID=DB4FBC4B636561B7"  title="尼伯特颱風災後救助專區">尼伯特颱風災後救助專區</a></li><li ><a href="/portal/docList.html?CID=ABC4F90CB5053CAA"  title="莫蘭蒂颱風災後救助專區">莫蘭蒂颱風災後救助專區</a></li><li ><a href="http://iwork.apc.gov.tw/pages/HRF0101_1Init.action" target="_blank" title="另開視窗至：原住民族委員會原住民人力資源網">原住民族委員會原住民人力資源網</a></li><li onMouseOver="doOpenMenu('C000931','C000931')" onfocus="doOpenMenu('C000931','C000931')" onBlur="doCloseMenu('C000931','C000931')" onMouseOut="doCloseMenu('C000931','C000931')"><div class="moremu"><a href="/portal/docList.html?CID=9241432F9AEAAB6E"  title="原住民族文化產業推展中心"><a href="/portal/cateInfo.html?CID=9241432F9AEAAB6E"  title="原住民族文化產業推展中心">原住民族文化產業推展中心</a></a></div><ul id="menuShowArea_C000931_C000931" class="submenu"><li ><a href="/portal/docList.html?CID=AECBC695F1481DF5"  title="本館簡介">本館簡介</a></li><li ><a href="/portal/docList.html?CID=2A08B1F97CAAD32C"  title="最新活動消息">最新活動消息</a></li><li onMouseOver="doOpenMenu('C000931','C000938')" onfocus="doOpenMenu('C000931','C000938')" onBlur="doCloseMenu('C000931','C000938')" onMouseOut="doCloseMenu('C000931','C000938')"><div class="moremu"><a href="/portal/docList.html?CID=36BC063E329C31B4"  title="樓層介紹"><a href="/portal/cateInfo.html?CID=36BC063E329C31B4"  title="樓層介紹">樓層介紹</a></a></div><ul id="menuShowArea_C000931_C000938" class="submenu"><li ><a href="/portal/docList.html?CID=1CEB4E930A17D93C"  title="1F~2F原山風味館">1F~2F原山風味館</a></li><li ><a href="/portal/docList.html?CID=DB7D4C41A9456C6D"  title="3F文化藝術展覽空間">3F文化藝術展覽空間</a></li><li ><a href="/portal/docList.html?CID=4300641DC9DB0716"  title="4F公共會議空間">4F公共會議空間</a></li><li ><a href="/portal/docList.html?CID=7AE132A7BC866B93"  title="5F棒球專案辦公室">5F棒球專案辦公室</a></li><li ><a href="/portal/docList.html?CID=774ADDCF29F7139C"  title="6F原住民族知識發展創意經濟計畫專案辦公室">6F原住民族知識發展創意經濟計畫專案辦公室</a></li><li ><a href="/portal/docList.html?CID=6D04E9298AE55197"  title="7F原住民委員會北區就業服務專案辦公室">7F原住民委員會北區就業服務專案辦公室</a></li><li ><a href="/portal/docList.html?CID=A4577B970CD5D1D1"  title="8~10F原住民族語言研究發展中心">8~10F原住民族語言研究發展中心</a></li></ul></li><li ><a href="/portal/docList.html?CID=916639F9E9D1E9F2"  title="地理位置">地理位置</a></li></ul></li><li class="last"><a href="/portal/docList.html?CID=2E12BD6704F1BBC1"  title="原住民族部落深度旅遊專區">原住民族部落深度旅遊專區</a></li></ul></li>                   
+                 </ul>
+                 
+                 
+              </div>
+              <div class="foot"></div>
+            </div>
+            
+            
+            
+                       
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+         
+    </div><!--indexLeft end-->
+        
+        
+    
+          
+ <script>
+    <!--              
+      function doOpenMenu(levelParent,cateID){  
+        $("div .body ul .submenu").each(function(){
+        	//alert(levelParent+","+cateID);                	 
+        	  if(this.id.indexOf("menuShowArea_"+levelParent+"_"+cateID)>=0){
+        	 	  $("#"+this.id).css("display","block");                	 	  
+        	 	}
+        	})
+      }
+      function doCloseMenu(levelParent,cateID){               
+         $("div .body ul .submenu").each(function(){  
+         	  if(this.id.indexOf("menuShowArea_"+levelParent+"_"+cateID)>=0){
+        	 		$("#"+this.id).css("display","none");                	  
+        	 	}
+         })
+      }
+      
+     //--> 
+    </script>
+        
+                        
+          <div class="pageRight">	
+        	   <a accesskey="C" href="#" title="網頁中間內容連結區" class="acskeyC">:::</a>
+        	   
+             <div class="path">現在位置：<a href="/portal/index.html">首頁</a><span>></span><a href="/portal/cateInfo.html?CID=166C1952CA1668FF">本會資訊</a><span>></span><a href="/portal/cateInfo.html?CID=49D0243BBAB1C78B">主動公開資訊</a><span>></span><a href="/portal/docList.html?CID=2C5B87C44F111087"  title="會計報告">會計報告</a><span>></span><a href="/portal/docList.html?CID=079C20CDB28CCF5B"  title="單位預算">單位預算</a></div>
+             <div class="pagetitle"><div><div class="h2">單位預算</div></div></div>
+             <div class="functions">
+			 
+			 <a class="ccontent" href="#ccontent" title="按下Enter鍵可略過搜尋、友善列印及分享等功能"></a>
+        		 
+              <!--搜尋-->
+            	                                                       <div class="search2">
+                                        <div class="search">
+<form action="/portal/portal/search/list.html" method="post" name="searchForm" id="searchForm">
+<LABEL for="condition">網站搜尋：</LABEL>         
+<input id="condition" name="condition" AutoComplete="Off" type="text" value="請輸入搜尋文字"
+onfocus="doCheckSearchVal()" onBlur="doCheckSearchVal()"/>   
+<input id="CID" name="CID" type="hidden" value="211509670A25D893" />
+<input id="currentPage" name="currentPage" type="hidden"  value="">
+	   <a href="#" onclick="$('#searchForm').submit()" onKeyPress="$('#searchForm').submit()">
+<img src="/portal/tpl03/zh_TW/button/GO.gif" alt="確定" /></a>
+<a href="/portal/portal/search/advSearchForm.html?CID=211509670A25D893" title="進階檢索"><img src="/portal/tpl03/zh_TW/button/advSearch.gif" alt="進階檢索"/></a>
+<a href="/portal/associate/oid/list.html?CID=2BE09E711B6FEE4C" title="分類檢索"><img src="/portal/tpl03/zh_TW/button/categorySearch.gif" alt="分類檢索"/></a>
+<a href="http://law.apc.gov.tw/" title="另開視窗至： 法規檢索" target="_blank"><img src="/portal/tpl03/zh_TW/button/lawsSearch.gif" alt="法規檢索"/></a>
+</form>
+        
+</div>		
+<script language="JavaScript">
+<!--
+  var isFocusSearch = false;
+  function doCheckSearchVal(){
+  	var sObj = $("#condition");
+  	if(sObj.val()==''){
+  	   sObj.val("請輸入搜尋文字");
+  	}
+  	if(!isFocusSearch && sObj.val()=="請輸入搜尋文字"){
+  	  sObj.val("");
+    }
+    isFocusSearch = true;
+  }
+
+//-->
+</script>
+<noscript>此script不會影響搜尋的功能</noscript>                   </div>
+                                                <!--搜尋 end --> 
+              
+             <!--友善列印和回上一頁-->
+              <div class="btns2">
+			    <a href="#" onclick="doPrint()" onKeypress="doPrint()"><img src="/portal/tpl03/zh_TW/button/print.gif" width="64" height="20" alt="友善列印" /></a>
+		        <noscript>本網頁使用SCRIPT編碼方式執行列印的動作，如果您的瀏覽器不支援SCRIPT，請直接使用「Ctrl+P」來列印</noscript>
+				
+				                
+				<a href="#" onclick="history.back()" onKeypress="history.back()">
+				<img src="/portal/tpl03/zh_TW/button/back.gif" width="64" height="20" alt="回上一頁" title="回上一頁" /></a>
+				<noscript>
+				本網頁使用SCRIPT編碼方式執行回上一頁的動作，如果您的瀏覽器不支援SCRIPT，請直接使用「Alt+方向鍵向左按鍵」來返回上一頁
+				</noscript>
+		        </div>
+				
+				<div class="group" id="group">
+				分享：      
+				
+				<a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.apc.gov.tw%2Fportal%2FdocDetail.html%3FCID%3D079C20CDB28CCF5B%26DID%3D0C3331F0EBD318C2EC14379A1092EFB8" target="_blank" title="另開視窗至：Facebook"><img src="/portal/tpl03/zh_TW/icon/facebook2.gif" alt="另開視窗至：Facebook" title="另開視窗至：Facebook" /></a>
+				<a href="http://www.plurk.com/?qualifier=shares&status=http%3A%2F%2Fwww.apc.gov.tw%2Fportal%2FdocDetail.html%3FCID%3D079C20CDB28CCF5B%26DID%3D0C3331F0EBD318C2EC14379A1092EFB8" target="_blank" title="另開視窗至：Plurk"><img src="/portal/tpl03/zh_TW/icon/plurk2.gif" alt="另開視窗至：Plurk" title="另開視窗至：Plurk" /></a>
+				<a href="http://twitter.com/home/?status=http%3A%2F%2Fwww.apc.gov.tw%2Fportal%2FdocDetail.html%3FCID%3D079C20CDB28CCF5B%26DID%3D0C3331F0EBD318C2EC14379A1092EFB8" target="_blank" title="另開視窗至：Twitter"><img src="/portal/tpl03/zh_TW/icon/twitter2.gif" alt="另開視窗至：Twitter" title="另開視窗至：Twitter"/></a>
+				</div>
+                <div class="clear"></div>
+            
+          </div>
+		  
+          <div class="clear"></div> 
+        		
+		<a name="ccontent" id="ccontent" title="網頁主要內容" href="#"></a>
+		
+        		
+		
+        ﻿<a name="ptop"></a>
+<div class="content">
+<!--內容區-->
+<!--分類-->
+
+<table border="0" summary="105年01月份會計月報" class="tb2">
+<caption>105年01月份會計月報 <br> 更新時間：2016/05/26 10:48:02</caption>
+<tr>
+    <th class="aright" width="15%">標　　題：</th>
+    <td>105年01月份會計月報</td>
+</tr>
+<tr>
+    <th class="aright">內　　容：</th>
+    <td>105年01月份會計月報</td>
+</tr>
+﻿<script>
+  function doConvert(source,fileName,convertType){
+        OpenBrWindow("/portal/downloadConvertFile.html?CID=B93CD070C34ABBFE&source="+source+"&fileName="+fileName+"&convertType="+convertType, "download", "toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=no", 300, 180);    
+  }
+</script>
+<tr>
+	<th class="aright">表單下載：</th>
+	<td>
+		<ol>
+	  			
+				
+					<li>原住民族委員會單位預算105年01月份會計月報-公告.pdf
+					
+      		                    <a href="/portal/getfile?source=2D838540F5D6F659FAFB9859EF31AC3B381A272F479D65D98D902DFAAFC2E154ED7B1105FF32273A839F67763D4990DD2E1BA28BC80906443B91B9DF71659F0C&filename=6650D72E0C971224E680D61BAA06E3908CEF1AE4932E71B92BD231FCE625BB93749006A2802C74548E0720D6598E770702D1DE3DCEB210BC">
+      	<img src="/portal/images/attachment/pdf.gif" border=0 alt="原住民族委員會單位預算105年01月份會計月報-公告.pdf"></a>
+          
+                 
+                          
+      
+      
+			</li>
+					<li>10501_會計月報XML檔.zip
+					
+      		                    <a href="/portal/getfile?source=2D838540F5D6F659FAFB9859EF31AC3B381A272F479D65D98D902DFAAFC2E1543E29F86EA87CC97C1F671FCBD7FBB21AAB830F284B6F3ED44A2639FAB8771043&filename=A518AFE42CFE7F55B6611543FB87CF5288FDBCBCC1C15911">
+      	<img src="/portal/images/attachment/zip.gif" border=0 alt="10501_會計月報XML檔.zip"></a>
+          
+                 
+                          
+      
+      
+			</li>
+				</ol>
+	</td>
+</tr>
+</table>
+</div><!--content end-->
+		
+		
+        </div><!--indexRight end-->
+		<div class="clear"></div>
+    </div><!--indexBody end-->
+  
+        
+    
+    
+    <div class="footLinks">
+                                 <a href="/portal/docList.html?CID=66863D81070DD580"  title="隱私權政策宣告">隱私權政策宣告</a><span>|</span>       
+                      <a href="/portal/docList.html?CID=20914257094461AC"  title="資訊安全政策宣告">資訊安全政策宣告</a><span>|</span>       
+                      <a href="/portal/docList.html?CID=EBD95B2A663C7432"  title="政府網站資料開放宣告">政府網站資料開放宣告</a><span>|</span>       
+                      <a href="/portal/docList.html?CID=D39CF2E3EC609D27"  title="無障礙網頁設計說明">無障礙網頁設計說明</a><span>|</span>       
+                      <a href="/portal/docList.html?CID=31DE1D0B2F640874"  title="本會地圖">本會地圖</a><span>|</span>       
+            </div>
+    <div class="footdiv">
+	<div class="logo2"><a href="#"><img src="/portal/tpl03/zh_TW/logo/logo.gif" alt="行政院原住民族委員會LOGO" /></a></div>
+    <div class="contactinfo">
+	  
+	  <a href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20150402190115" title="本網通過AA優先等級無障礙網頁檢測，另開視窗連結至標章資訊" target="_blank" class="aa">
+      <img src="/portal/images/AA.gif" style="float:left; margin:5px;" border="0" width="88" height="31" alt="通過AA優先等級無障礙網頁檢測" />
+	  </a>
+	  
+		<p>原住民族委員會版權所有 &copy; 新北市新莊區中平路439號北棟14F/15F/16F 　郵遞區號:24220　總機：02-89953456 89953457 89953458 本網站最佳瀏覽解析度 1024 x 768</p>
+    </div>
+    
+    <div class="shareGroup" id="group">
+	<a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.apc.gov.tw%2Fportal%2FdocDetail.html%3FCID%3D079C20CDB28CCF5B%26DID%3D0C3331F0EBD318C2EC14379A1092EFB8" target="_blank" title="另開視窗至：Facebook"><img src="/portal/tpl03/zh_TW/icon/facebook2.gif" alt="另開視窗至：Facebook" title="另開視窗至：Facebook" /></a>
+	<a href="http://www.plurk.com/?qualifier=shares&status=http%3A%2F%2Fwww.apc.gov.tw%2Fportal%2FdocDetail.html%3FCID%3D079C20CDB28CCF5B%26DID%3D0C3331F0EBD318C2EC14379A1092EFB8" target="_blank" title="另開視窗至：Plurk"><img src="/portal/tpl03/zh_TW/icon/plurk2.gif" alt="另開視窗至：Plurk" title="另開視窗至：Plurk" /></a>
+	<a href="http://twitter.com/home/?status=http%3A%2F%2Fwww.apc.gov.tw%2Fportal%2FdocDetail.html%3FCID%3D079C20CDB28CCF5B%26DID%3D0C3331F0EBD318C2EC14379A1092EFB8" target="_blank" title="另開視窗至：Twitter"><img src="/portal/tpl03/zh_TW/icon/twitter2.gif" alt="另開視窗至：Twitter" title="另開視窗至：Twitter"/></a>
+	
+    
+	
+   
+	|
+	<span>總瀏覽人次：001053847 (自2014-09-12起)</span>
+    </div>
+    
+    
+
+    
+   </div>
+</div>
+
+
+<script>
+	
+function doPrint(){
+	newwin = window.open("","","scrollbars=yes,resizable=yes,toolbar=1"); 
+	newwin.document.write("<html><head>"+$("head").html()+"</head><body style='height:10000px;'>"+$(".content").html()
+		+"<br><center><a href='javascript:opener.printDetail();'><img src='/portal/tpl03/zh_TW/button/print.gif' alt='友善列印' border='0' /></a></center>"
+		+"</body></html>");
+}
+function printDetail(){
+	newwin.location.reload();
+	newwin.print();
+}
+
+function mymedia(){ 	
+  var myscreen=screen.availWidth;  
+    if(myscreen<321){document.location.href="/index_pda.html"; return;}
+}	
+</script>
+
+</body>
+</html>

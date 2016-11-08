@@ -1,0 +1,300 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Template version 2.0 for Joomla! 1.5.x -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-tw" lang="zh-tw" dir="ltr">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="智慧財產法院,智慧財產,Intellectual Property Court,Intellectual Property" />
+  <meta name="title" content="預算類" />
+  <meta name="author" content="Administrator" />
+  <meta name="description" content="智慧財產法院全球資訊網" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>預算類</title>
+  <link rel="stylesheet" href="http://ipc.judicial.gov.tw/ipr_internet/components/com_tag/css/tagcloud.css" type="text/css" />
+  <script type="text/javascript" src="/ipr_internet/plugins/system/mtupgrade/mootools.js"></script>
+  <script type="text/javascript" src="/ipr_internet/media/system/js/caption.js"></script>
+
+<link rel="shortcut icon" href="/ipr_internet/images/favicon.ico" />
+<link rel="stylesheet" href="/ipr_internet/templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="/ipr_internet/templates/system/css/general.css" type="text/css" />
+<link href="/ipr_internet/templates/jsn_epic_pro/css/template.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="/ipr_internet/templates/jsn_epic_pro/css/template_orange.css" rel="stylesheet" type="text/css" media="screen" /><link href="/ipr_internet/templates/jsn_epic_pro/css/jsn_iconlinks.css" rel="stylesheet" type="text/css" media="screen" /><link href="/ipr_internet/templates/jsn_epic_pro/ext/cb/style.css" rel="stylesheet" type="text/css" media="screen" /><link href="/ipr_internet/templates/jsn_epic_pro/ext/cb/style_orange.css" rel="stylesheet" type="text/css" media="screen" /><link href="/ipr_internet/templates/jsn_epic_pro/ext/docman/style.css" rel="stylesheet" type="text/css" media="screen" /><link href="/ipr_internet/templates/jsn_epic_pro/ext/docman/style_orange.css" rel="stylesheet" type="text/css" media="screen" /><link href="/ipr_internet/templates/jsn_epic_pro/ext/vm/style.css" rel="stylesheet" type="text/css" media="screen" /><link href="/ipr_internet/templates/jsn_epic_pro/ext/jevents/style.css" rel="stylesheet" type="text/css" media="screen" /><link href="/ipr_internet/templates/jsn_epic_pro/ext/jevents/style_orange.css" rel="stylesheet" type="text/css" media="screen" /><link href="/ipr_internet/templates/jsn_epic_pro/ext/rsg2/style.css" rel="stylesheet" type="text/css" media="screen" /><style type="text/css">
+	#jsn-page {
+		width: 960px;
+	}
+	
+	#jsn-header {
+		height: 75px;
+	}
+	
+	#jsn-puser9 {
+		float: left;
+		width: 23%;
+	}
+	#jsn-pheader {
+		float: left;
+		width: 960px;
+	}
+	#jsn-puser8 {
+		float: right;
+		width: 23%;
+	}
+	
+	#jsn-content_inner1 {
+		background: transparent url(/ipr_internet/templates/jsn_epic_pro/images/bg/leftside23-bg-full.png) repeat-y 23% top;
+		padding: 0;
+	}
+	#jsn-maincontent_inner {
+		padding-left: 0;
+	}
+	
+	#jsn-leftsidecontent {
+		float: left;
+		width: 23%;
+	}
+	#jsn-maincontent {
+		float: left;
+		width: 739px;
+	}
+	#jsn-rightsidecontent {
+		float: right;
+		width: 23%;
+	}
+	
+			ul.menu-icon li.order1 a:link,
+			ul.menu-icon li.order1 a:visited {
+				background-image: url("http://ipc.judicial.gov.tw/ipr_internet/templates/jsn_epic_pro/images/icon-module-home.png");
+			}
+			
+			ul.menu-icon li.order2 a:link,
+			ul.menu-icon li.order2 a:visited {
+				background-image: url("http://ipc.judicial.gov.tw/ipr_internet/templates/jsn_epic_pro/images/icon-module-usa.png");
+			}
+			
+			ul.menu-icon li.order3 a:link,
+			ul.menu-icon li.order3 a:visited {
+				background-image: url("http://ipc.judicial.gov.tw/ipr_internet/templates/jsn_epic_pro/images/icon-module-japan.png");
+			}
+			
+			ul.menu-icon li.order4 a:link,
+			ul.menu-icon li.order4 a:visited {
+				background-image: url("http://ipc.judicial.gov.tw/ipr_internet/templates/jsn_epic_pro/images/icon-module-germany.png");
+			}
+			
+			ul.menu-icon li.order5 a:link,
+			ul.menu-icon li.order5 a:visited {
+				background-image: url("http://ipc.judicial.gov.tw/ipr_internet/templates/jsn_epic_pro/images/icon-module-info.png");
+			}
+			
+	#jsn-master {
+		font-size: 95% !important;
+		font-family: Arial, Helvetica, sans-serif;
+	}
+	
+	h1, h2, h3, h4, h5, h6,
+	ul.menu-suckerfish a,
+	.componentheading, .contentheading {
+		font-family: Verdana, Geneva, sans-serif !important;
+	}
+	</style><script type="text/javascript" src="/ipr_internet/templates/jsn_epic_pro/js/jsn_script.js"></script><!--[if lte IE 6]>
+<link href="/ipr_internet/templates/jsn_epic_pro/css/jsn_fixie6.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+	img {  behavior: url(/ipr_internet/templates/jsn_epic_pro/js/iepngfix.htc); }
+</style>
+<![endif]-->
+<!--[if lte IE 7]>
+<script type="text/javascript" src="/ipr_internet/templates/jsn_epic_pro/js/suckerfish.js"></script>
+<![endif]-->
+<!--[if IE 7]>
+<link href="/ipr_internet/templates/jsn_epic_pro/css/jsn_fixie7.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<style type="text/css">
+<!--
+#alt-u-ccc {
+	position: absolute;
+	top: 28px;
+	left: 460px;
+}
+
+#alt-l-ccc {
+	z-index: 1;
+}
+ 
+#overlay {
+     visibility: hidden;
+     position: absolute;
+     left: 0px;
+     top: 0px;
+     width:100%;
+     height:100%;
+     text-align:center;
+     z-index: 1000;
+}
+ 
+#overlay div {
+     width: 300px;
+     margin: 100px auto;
+     background-color: #fff;
+     border: 2px solid #000;
+     padding: 15px;
+     text-align: center;
+}
+-->
+</style>
+ 
+<script type="text/javascript">
+ 
+function overlay() {
+ el = document.getElementById("overlay");
+ el.style.visibility = (el.style.visibility == "visible") ? "hidden" : "visible";
+}
+  
+</script>
+</head>
+<body id="jsn-master">
+	<div id="jsn-page">
+		<div id="jsn-header">
+			<div id="jsn-logo"><a href="/ipr_internet/index.php" title="智慧財產法院全球資訊網"><img src="/ipr_internet/templates/jsn_epic_pro/images/logo.png" width="960" height="75" alt="智慧財產法院全球資訊網" /></a></div>
+						<div id="alt-u-ccc"><a href="#" title="本站導航區有：首頁、English、日本語、Deutsch、網站導覽[快捷鍵Alt+U]" accesskey="U" tabindex="1"><font color="#808080">:::</font></a></div>
+			<div id="jsn-ptop">		<div class="moduletable">
+					<ul class="menu-icon"><li class="item17 order1 first"><a href="http://ipc.judicial.gov.tw/ipr_internet/"><span>首頁</span></a></li><li class="item274 order2"><a href="/en" target="_blank"><span>English</span></a></li><li class="item323 order3"><a href="/ipr_japan" target="_blank"><span>日本語</span></a></li><li class="item324 order4"><a href="/ipr_deutsch" target="_blank"><span>Deutsch</span></a></li><li class="item401 order5 last"><a href="/ipr_internet/index.php?option=com_xmap&amp;sitemap=1&amp;Itemid=401"><span>網站導覽</span></a></li></ul>		</div>
+	</div>
+					</div>
+		<div id="jsn-body">
+									<div id="jsn-content"><div id="jsn-content_inner1"><div id="jsn-content_inner2">
+								<div id="jsn-leftsidecontent" class="jsn-column">
+					<div id="jsn-pleft" style="margin-top: 0px; padding-top: 0px;">
+					<a id="alt-l-ccc" href="#" title="左側選單區[快捷鍵Alt+L]" accesskey="L" tabindex="10"><font color="#808080">:::</font></a>
+							<div class="module-box box-orange2">
+			<div>
+				<div>
+					<div>
+											<ul class="menu-bullettree"><li rel="100054" class="parent active item76 order2 first"><a href="/ipr_internet/index.php?option=com_content&amp;view=article&amp;id=12&amp;Itemid=100054"><span>關於本院</span></a><ul><li class="item100054 order1 first"><a href="/ipr_internet/index.php?option=com_content&amp;view=article&amp;id=12&amp;Itemid=100054"><span>本院簡介</span></a></li><li class="parent item100065 order2"><a href="/ipr_internet/index.php?option=com_content&amp;view=category&amp;id=139&amp;Itemid=100065"><span>院長展望</span></a></li><li class="item72 order3"><a href="/ipr_internet/index.php?option=com_content&amp;view=article&amp;id=16&amp;Itemid=72"><span>組織結構</span></a></li><li class="item73 order4"><a href="/ipr_internet/index.php?option=com_content&amp;view=article&amp;id=17&amp;Itemid=73"><span>院址及交通</span></a></li><li class="item70 order5"><a href="/ipr_internet/index.php?option=com_content&amp;view=category&amp;id=135&amp;Itemid=70"><span>法官名錄</span></a></li><li class="parent item71 order6"><a href="/ipr_internet/index.php?option=com_content&amp;view=article&amp;id=15&amp;Itemid=71"><span>大事紀要</span></a></li><li class="item75 order8"><a href="/ipr_internet/index.php?option=com_content&amp;view=article&amp;id=19&amp;Itemid=75"><span>單位配置與電話</span></a></li><li class="item74 order9"><a href="/ipr_internet/index.php?option=com_content&amp;view=article&amp;id=18&amp;Itemid=74"><span>法庭平面圖</span></a></li><li class="parent item214 order10"><a href="/ipr_internet/index.php?option=com_content&amp;view=article&amp;id=28&amp;Itemid=214"><span>便民禮民</span></a></li><li class="active item100027 order11 current"><a href="/ipr_internet/index.php?option=com_content&amp;view=article&amp;id=481&amp;Itemid=100027" class="current"><span>政府資訊公開</span></a></li><li class="parent item100045 order12"><a href="/ipr_internet/index.php?option=com_content&amp;view=article&amp;id=47&amp;Itemid=100045"><span>政風專區</span></a></li><li class="item100061 order13"><a href="/ipr_internet/index.php?option=com_content&amp;view=category&amp;id=39&amp;Itemid=100061"><span>統計專區</span></a></li><li class="item100029 order14 last"><a href="/ipr_internet/index.php?option=com_content&amp;view=article&amp;id=33&amp;Itemid=100029"><span>聯絡我們</span></a></li></ul></li><li rel="100031" class="parent item348 order3"><a href="/ipr_internet/index.php?option=com_content&amp;view=section&amp;id=14&amp;Itemid=100031"><span>審判業務</span></a></li><li class="parent item100035 order4"><a href="/ipr_internet/index.php?option=com_content&amp;view=article&amp;id=1095&amp;Itemid=100035"><span>線上服務</span></a></li><li rel="100016" class="parent item100044 order5 last"><a href="/ipr_internet/index.php?option=com_yuan&amp;view=category&amp;id=13&amp;Itemid=100016"><span>公告事項</span></a></li></ul>					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+				</div>
+								<div id="jsn-maincontent" class="jsn-column">
+                                  <div id="jsn-maincontent_inner">
+															<div id="jsn-usermodules1"><div id="jsn-usermodules1_inner_grid1">
+												<div id="jsn-puser1_grid1" class="jsn-column"><div id="jsn-puser1">		<div class="moduletable">
+					<span class="breadcrumbs pathway">
+<a href="#" title="主要內容區[快捷鍵Alt+C]" accesskey="C" tabindex="10"><font color="#E0E0E0">:::</font></a>
+<a tabindex="10" href="http://ipc.judicial.gov.tw/ipr_internet/" class="pathway">首頁</a> <img src="/ipr_internet/templates/jsn_epic_pro/images/arrow.png" alt=""  /> <a tabindex="10" href="/ipr_internet/index.php?option=com_content&amp;view=article&amp;id=12&amp;Itemid=100054" class="pathway">關於本院</a> <img src="/ipr_internet/templates/jsn_epic_pro/images/arrow.png" alt=""  /> 政府資訊公開</span>
+		</div>
+	</div></div>
+																		<div class="clearbreak"></div>
+					</div></div>
+					                                					<div id="jsn-mainbody">
+						
+						<table class="contentpaneopen" summary="主要內容區">
+<tr>
+		<td class="contentheading" width="100%">
+					預算類			</td>
+				
+				<td align="right" width="100%" class="buttonheading">
+		<a href="/ipr_internet/index.php?view=article&amp;catid=60&amp;id=149%3A2011-02-16-01-09-36&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=&amp;option=com_content&amp;Itemid=100027" title="列印" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/ipr_internet/templates/jsn_epic_pro/images/printButton.png" alt="列印"  /></a>		</td>
+		
+					</tr>
+</table>
+
+<table class="contentpaneopen" summary="主要內容區">
+
+
+
+<tr>
+<td valign="top">
+<p><a href="/ipr_internet/doc/budget97.pdf" target="_blank" title="97智財預算書檔案">97年度單位預算書</a> <a href="/ipr_internet/doc/budget97.pdf" target="_blank" title="下載97智財預算書檔案PDF檔">[PDF檔下載]</a> <a href="/ipr_internet/doc/budget97.zip" target="_blank" title="下載97智財預算書檔案ZIP檔">[ZIP檔下載]</a> <a href="/ipr_internet/doc/budget97.doc" target="_blank" title="下載97智財預算書檔案DOC檔">[DOC檔下載]</a><br /> （公佈日期：中華民國97年03月27日）</p>
+<p><a href="/ipr_internet/media/981.pdf" target="_blank" title="98年度單位預算書PDF檔">98年度單位預算書 _ [PDF檔下載] </a>（公佈日期：中華民國98年03月25日）</p>
+<p><a href="/ipr_internet/media/991.pdf" target="_blank" title="99年度單位預算書PDF檔">99年度單位預算書 _ [PDF檔下載]</a>（公佈日期：中華民國99年03月23日）</p>
+<p><a href="/ipr_internet/media/acc_budget100_1.pdf" target="_blank" title="100年度單位預算書PDF檔">100年度單位預算書 _ [PDF檔下載] </a>（公佈日期：中華民國100年03月04日）</p>
+<p><a href="/ipr_internet/media/acc_budget101_1.pdf" target="_blank" title="101年度單位預算書PDF檔">101年度單位預算書 _ [PDF檔下載] </a>（公佈日期：中華民國101年02月20日）</p>
+<p><a href="/ipr_internet/media/acc_budget102_1.pdf" target="_blank" title="102年度單位預算書(預算案)PDF檔">102年度單位預算書(預算案) _ [PDF檔下載] </a>（公佈日期：中華民國101年12月04日）</p>
+<p><a href="/ipr_internet/media/acc_budget102_2.pdf" target="_blank" title="102年度單位預算書PDF檔">102年度單位預算書 _ [PDF檔下載] </a>（公佈日期：中華民國102年03月04日）</p>
+<p><a href="/ipr_internet/media/acc_budget103_1.pdf" target="_blank" title="103年度單位預算書(預算案)PDF檔">103年度單位預算書(預算案) _ [PDF檔下載] </a>（公佈日期：中華民國102年09月03日）</p>
+<p><a href="/ipr_internet/media/acc_budget103_2.pdf" target="_blank" title="103年度單位預算書PDF檔">103年度單位預算書 _ [PDF檔下載] </a>（公佈日期：中華民國103年02月20日）</p>
+<p><a href="/ipr_internet/media/acc_budget104_1.pdf" target="_blank" title="104年度單位預算書(預算案)PDF檔">104年度單位預算書(預算案) _ [PDF檔下載] </a> <a href="/ipr_internet/media/acc_budget104_1.7z" target="_blank" title="104年度單位預算書(預算案)XML檔">[XML檔下載] </a>（公佈日期：中華民國103年09月02日）</p>
+<p><a href="/ipr_internet/media/acc_budget104_2_2.7z" target="_blank" title="104年度單位預算書XLS檔">104年度單位預算書 _ [XLS檔下載] </a> <a href="/ipr_internet/media/acc_budget104_2.pdf" target="_blank" title="104年度單位預算書PDF檔">[PDF檔下載] </a> <a href="/ipr_internet/media/acc_budget104_2.7z" target="_blank" title="104年度單位預算書XML檔">[XML檔下載] </a> <a href="/ipr_internet/media/acc_budget104_2_1.doc" target="_blank" title="104年預算總說明DOC檔">[總說明]DOC檔下載 </a> （公佈日期：中華民國104年03月4日）</p>
+<p><a href="/ipr_internet/media/acc_budget105_1_2.7z" target="_blank" title="105年度單位預算書(預算案)XLS檔">105年度單位預算書(預算案) _ [XLS檔下載]</a> <a href="/ipr_internet/media/acc_budget105_1.pdf" target="_blank" title="105年度單位預算書(預算案)PDF檔">[PDF檔下載] </a> <a href="/ipr_internet/media/acc_budget105_1.7z" target="_blank" title="105年度單位預算書(預算案)XML檔">[XML檔下載] </a> （公佈日期：中華民國104年08月28日）</p>
+<p><a href="/ipr_internet/media/acc_budget105_2_2.7z" target="_blank" title="105年度單位預算書XLS檔">105年度單位預算書 _ [XLS檔下載]</a> <a href="/ipr_internet/media/acc_budget105_2.pdf" target="_blank" title="105年度單位預算書PDF檔">[PDF檔下載] </a> <a href="/ipr_internet/media/acc_budget105_2.7z" target="_blank" title="105年度單位預算書XML檔">[XML檔下載] </a> （公佈日期：中華民國105年02月1日）</p>
+<p><a href="/ipr_internet/media/acc_budget106_1_2.zip" target="_blank" title="106年度單位預算書(預算案)XLS檔">106年度單位預算書(預算案) _ [XLS檔下載]</a> <a href="/ipr_internet/media/acc_budget106_1.pdf" target="_blank" title="106年度單位預算書(預算案)PDF檔">[PDF檔下載] </a> <a href="/ipr_internet/media/acc_budget106_1.zip" target="_blank" title="106年度單位預算書(預算案)XML檔">[XML檔下載] </a> <a href="/ipr_internet/media/acc_budget106_1.doc" target="_blank" title="106年預算總說明DOC檔">[總說明]DOC檔下載 </a> （公佈日期：中華民國105年08月30日）</p></td>
+</tr>
+
+<tr>
+	<td class="modifydate">
+		最近更新在 2016/08/30 週二	</td>
+</tr>
+</table>
+<span class="article_separator">&nbsp;</span>
+
+					</div>
+																		</div></div>
+								<div class="clearbreak"></div>
+			</div></div></div>
+					</div>
+				<div id="jsn-footer">
+						<div id="jsn-pfooter_grid1" class="jsn-column"><div id="jsn-pfooter">		<div class="moduletable">
+					<table style="width: 100%;" border="0">
+<tbody>
+<tr>
+<td><span style="font-family: 標楷體; font-size: 12pt"><span style="font-family: 標楷體; font-size: 10pt">「</span><a href="/ipr_internet/index.php?option=com_content&amp;task=view&amp;id=928&amp;Itemid=209"><span style="font-family: 標楷體; font-size: 10pt">著作權聲明</span><span style="font-family: arial; font-size: 10pt">/Copyright Notice</span></a><span style="font-family: 標楷體; font-size: 10pt">」</span></span> <br /><span style="font-family: Verdana; font-weight: bold;"><a href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20110303081746" target="_blank" title="無障礙網站"><img src="/ipr_internet/images/a+.jpg" border="0" alt="通過A+優先等級無障礙網頁檢測" title="無障礙網站" style="width: 88px; height: 31px; border: 0px;" /></a></span></td>
+<td align="right" valign="top">
+<p><img src="/ipr_internet/images/banners/osmbanner2.png" border="0" alt="智慧財產法院 Intellectual Prorerty Court 新北市板橋區縣民大道2段7號3樓　電話02-2272-6696" title="開?新視窗，連結至：智慧財產法院全球資訊網" style="float: right; border: 0px;" /></p>
+</td>
+</tr>
+</tbody>
+</table>		</div>
+	</div></div>
+									<div class="clearbreak"></div>
+		</div>
+			</div>
+	
+</body>
+</html>
+<script>
+  if (window.attachEvent) {
+    window.attachEvent('onload', init);
+  } else {
+    window.addEventListener('load', init, false);
+  }
+
+  // document.onkeydown
+  //document.onfocusin = focusin,
+  document.onfocusin = function(e) {
+    //alert(event.srcElement.title);
+    if (event.srcElement.nodeName == "A") {
+      if (event.srcElement.tabIndex == "10") {
+        event.srcElement.style.backgroundColor='#FFF799';
+      }
+    }
+  };
+  document.onfocusout = function(e) {
+    if (event.srcElement.nodeName == "A") {
+      if (event.srcElement.tabIndex == "10") {
+        event.srcElement.style.backgroundColor='';
+      }
+    }
+  };
+  
+  function init() {
+    // alert("init");
+    var aTags = document.getElementsByTagName("a");
+    for (var i in aTags) {
+      //alert(aTags[i].className);
+      if (aTags[i].className == "current") {
+        //alert(aTags[i].title);
+        aTags[i].focus();
+      }
+    }
+    // add a tabindex="10" into ID jsn-mainbody
+    aTags = document.getElementById("jsn-mainbody").getElementsByTagName('a');
+    for (var i=0; i < aTags.length; i++) {
+      if (aTags[i].nodeName == "A") {
+      	if (aTags[i].name) aTags[i].tabIndex = "-1";  // no stop at <a name="top">
+        else aTags[i].tabIndex = "10";
+      }
+    }
+  }
+</script>
+<noscript>TAB標籤效果，如不執行不影響您資料瀏覽</noscript>

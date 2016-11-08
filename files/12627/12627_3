@@ -1,0 +1,1537 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Content-Type" content="text/html; charset=big5" /><title>
+	
+</title>
+<link href="../css/master.css" rel="stylesheet" type="text/css" />
+<script src="js/MSClass.js" type="text/javascript"></script>
+
+<meta name="DC.Title" content="高雄少年法院" />
+<meta name="DC.Creator" content="高雄少年法院" />
+<meta name="DC.Subject" content="法律" />
+<meta name="DC.Description" content="高雄少年法院" />
+<meta name="DC.Contributor" content="高雄少年法院" />
+<meta name="DC.Type" content="Text " />
+<meta name="DC.Format" content="Text " />
+<meta name="DC.Source" content="高雄少年法院" />
+<meta name="DC.Language" content="中文" />
+<meta name="DC.coverage.t.max" content="2016/11/7" />
+<meta name="DC.coverage.t.min" content="2016/10/7" />
+<meta name="DC.Publisher" content="高雄少年法院" />
+<meta name="DC.Date" content="2009-09-29 16:55:51" />
+<meta name="DC.Identifier" content="504600000F" />
+<meta name="DC.Rights" content="高雄少年法院" />
+<meta name="Category.Theme" content="300" />
+<meta name="Category.Cake" content="J30" />
+<meta name="Category.Service" content="I70" />
+<meta name="Keywords" content="法律,少年,法院" />
+
+
+<script type="text/JavaScript">
+<!--
+    function MM_swapImgRestore() { //v3.0
+        var i, x, a = document.MM_sr; for (i = 0; a && i < a.length && (x = a[i]) && x.oSrc; i++) x.src = x.oSrc;
+    }
+
+    function MM_preloadImages() { //v3.0
+        var d = document; if (d.images) {
+            if (!d.MM_p) d.MM_p = new Array();
+            var i, j = d.MM_p.length, a = MM_preloadImages.arguments; for (i = 0; i < a.length; i++)
+                if (a[i].indexOf("#") != 0) { d.MM_p[j] = new Image; d.MM_p[j++].src = a[i]; }
+        }
+    }
+
+    function MM_findObj(n, d) { //v4.01
+        var p, i, x; if (!d) d = document; if ((p = n.indexOf("?")) > 0 && parent.frames.length) {
+            d = parent.frames[n.substring(p + 1)].document; n = n.substring(0, p);
+        }
+        if (!(x = d[n]) && d.all) x = d.all[n]; for (i = 0; !x && i < d.forms.length; i++) x = d.forms[i][n];
+        for (i = 0; !x && d.layers && i < d.layers.length; i++) x = MM_findObj(n, d.layers[i].document);
+        if (!x && d.getElementById) x = d.getElementById(n); return x;
+    }
+
+    function MM_swapImage() { //v3.0
+        var i, j = 0, x, a = MM_swapImage.arguments; document.MM_sr = new Array; for (i = 0; i < (a.length - 2); i += 3)
+            if ((x = MM_findObj(a[i])) != null) { document.MM_sr[j++] = x; if (!x.oSrc) x.oSrc = x.src; x.src = a[i + 2]; }
+    }
+//-->
+</script>
+<script language=javascript type="text/javascript">
+    function T(box_name) {
+        if (document.getElementById(box_name)) {
+
+            if (document.getElementById(box_name).style.display == "none") {
+                ii();
+                document.getElementById(box_name).style.display = "";
+            }
+            else {
+                document.getElementById(box_name).style.display = "none";
+            }
+        }
+    }
+
+    function ii() {
+
+        if (document.getElementById("ctl00_rptMenu_ctl00_SubMenu"))
+            document.getElementById("ctl00_rptMenu_ctl00_SubMenu").style.display = "none";
+
+
+        if (document.getElementById("ctl00_rptMenu_ctl01_SubMenu"))
+            document.getElementById("ctl00_rptMenu_ctl01_SubMenu").style.display = "none";
+
+
+        if (document.getElementById("ctl00_rptMenu_ctl02_SubMenu"))
+            document.getElementById("ctl00_rptMenu_ctl02_SubMenu").style.display = "none";
+
+
+        if (document.getElementById("ctl00_rptMenu_ctl03_SubMenu"))
+            document.getElementById("ctl00_rptMenu_ctl03_SubMenu").style.display = "none";
+
+
+        if (document.getElementById("ctl00_rptMenu_ctl04_SubMenu"))
+            document.getElementById("ctl00_rptMenu_ctl04_SubMenu").style.display = "none";
+
+
+        if (document.getElementById("ctl00_rptMenu_ctl05_SubMenu"))
+            document.getElementById("ctl00_rptMenu_ctl05_SubMenu").style.display = "none";
+
+
+        if (document.getElementById("ctl00_rptMenu_ctl06_SubMenu"))
+            document.getElementById("ctl00_rptMenu_ctl06_SubMenu").style.display = "none";
+
+
+        if (document.getElementById("ctl00_rptMenu_ctl07_SubMenu"))
+            document.getElementById("ctl00_rptMenu_ctl07_SubMenu").style.display = "none";
+
+        if (document.getElementById("ctl00_rptMenu_ctl08_SubMenu"))
+            document.getElementById("ctl00_rptMenu_ctl08_SubMenu").style.display = "none";
+
+
+        if (document.getElementById("ctl00_rptMenu_ctl09_SubMenu"))
+            document.getElementById("ctl00_rptMenu_ctl09_SubMenu").style.display = "none";
+
+
+        if (document.getElementById("ctl00_rptMenu_ctl10_SubMenu"))
+            document.getElementById("ctl00_rptMenu_ctl10_SubMenu").style.display = "none";
+
+
+    }  
+       </script>
+
+</head>
+
+<body onload="MM_preloadImages('images/news1_2.jpg','images/news2_2.jpg','images/news3_2.jpg','images/news4_2.jpg'), ii(),">
+ <form name="aspnetForm" method="post" action="cp.aspx?n=10410&amp;s=500" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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ZXMvMTA1LeazleWumumgkOeulyhFWENFTOWPiue4veiqquaYjldPUkQpKDIpLjd6Ij5leGNlbC53b3JkPC9hPikxMDUwMTI4PC9wPg0KPHA+JmRpYW1zOzEwNeW5tOW6puiHuueBo+mrmOmbhOWwkeW5tOWPiuWutuS6i+azlemZouWWruS9jemgkOeul+ahiCA8YSB0YXJnZXQ9Il9ibGFuayIgaHJlZj0iL1VwbG9hZC9Vc2VyRmlsZXMvMTA15bm05bqm6Ie654Gj6auY6ZuE5bCR5bm05Y+K5a625LqL5rOV6Zmi5Zau5L2N6aCQ566X5qGIKDEpLnBkZiI+KHBkZikmbmJzcDs8L2E+IDxhIHRhcmdldD0iX2JsYW5rIiBocmVmPSIvVXBsb2FkL1VzZXJGaWxlcy8xMDUt6aCQ566X5qGILjd6Ij4oeG1sKSA8L2E+KDxhIHRhcmdldD0iX2JsYW5rIiBocmVmPSIvVXBsb2FkL1VzZXJGaWxlcy8xMDUt6aCQ566X5qGIKGV4Y2VsX3dvcmQpLjd6Ij5leGNlbC53b3JkPC9hPikxMDQwOTAyPC9wPg0KPHA+JmRpYW1zOzxhIGhyZWY9Ii9VcGxvYWQvVXNlckZpbGVzLzEwNOW5tOW6puazleWumumgkOeulyhleGNlbOe4veiqquaYjndvcmQpLjd6Ij4xMDTllq7kvY3poJDnrpcoRXhjZWwud29yZCk8L2E+PC9wPg0KPHA+JmRpYW1zOzxhIGhyZWY9Ii9VcGxvYWQvVXNlckZpbGVzLzEwNOWWruS9jemgkOeulyh4bWwpLjd6Ij4xMDTllq7kvY3poJDnrpcoeG1sKTwvYT48L3A+DQo8cD4mZGlhbXM7PGEgaHJlZj0iL1VwbG9hZC9Vc2VyRmlsZXMvMTA05Zau5L2N6aCQ566X5qGIKHhtbCkuN3oiPjEwNOWWruS9jemgkOeul+ahiCh4bWwpPC9hPjwvcD4NCjxwPiZkaWFtczs8YSBocmVmPSIvVXBsb2FkL1VzZXJGaWxlcy8xMDQwMzA1KDQpLnBkZiI+MTA05bm05bqm6Ie654Gj6auY6ZuE5bCR5bm05Y+K5a625LqL5rOV6Zmi5Zau5L2N6aCQ566XKDEwNDAzMDUpPC9hPjwvcD4NCjxwPiZkaWFtczs8YSBocmVmPSIvVXBsb2FkL1VzZXJGaWxlcy8xMDMwOTA1LnBkZiI+MTA05bm05bqm6Ie654Gj6auY6ZuE5bCR5bm05Y+K5a625LqL5rOV6Zmi5Zau5L2N6aCQ566X5qGIKDEwMzA5MDUpPC9hPjwvcD4NCjxwPiZkaWFtczs8YSBocmVmPSIvVXBsb2FkL1VzZXJGaWxlcy82MzUyODgzNzUzMjU3MTI1MDAoMikucGRmIj4xMDPlubTluqboh7rngaPpq5jpm4TlsJHlubTlj4rlrrbkuovms5XpmaLllq7kvY3poJDnrpcoMTAzLjAyLjI0KSZuYnNwOzwvYT48L3A+DQo8cD4mZGlhbXM7PGEgaHJlZj0iL1VwbG9hZC9Vc2VyRmlsZXMvNjM1MTM3MjgzMzc4NTgzNzUwKDEpLnBkZiI+MTAz5bm05bqm6Ie654Gj6auY6ZuE5bCR5bm05Y+K5a625LqL5rOV6Zmi5Zau5L2N6aCQ566X5qGIKDEwMjA5MDIpIDwvYT48L3A+DQo8cD4mZGlhbXM7PGEgaHJlZj0iL1VwbG9hZC9Vc2VyRmlsZXMvNjM0OTgxODQ1NzU4NTkyNTAwLnBkZiI+MTAy5bm05bqm6Ie654Gj6auY6ZuE5bCR5bm05Y+K5a625LqL5rOV6Zmi5Zau5L2N6aCQ566XKDEwMi4zLjYpPC9hPjwvcD4NCjxwPiZkaWFtczs8YSBocmVmPSIvVXBsb2FkL1VzZXJGaWxlcy82MzQ5MDQ3MzUyNTAwMDAwMDAudGlmZiI+MTAy5bm05bqm6Ie654Gj6auY6ZuE5bCR5bm05Y+K5a625LqL5rOV6Zmi5Zau5L2N6aCQ566X5qGIKDEwMS4xMi43KTwvYT48L3A+DQo8cD4mZGlhbXM7PGEgaHJlZj0iL1VwbG9hZC9Vc2VyRmlsZXMvMTAx5bm05bqm6Ie654Gj6auY6ZuE5bCR5bm05rOV6Zmi5Zau5L2N6aCQ566XKDEwMV8wMl8xMykudGlmIj4xMDHlubTluqboh7rngaPpq5jpm4TlsJHlubTms5XpmaLllq7kvY3poJDnrpc8L2E+KDEwMS4wMi4xMyk8L3A+DQo8cD4mZGlhbXM7PGEgaHJlZj0iL1VwbG9hZC9Vc2VyRmlsZXMvMTAw5bm05bqm6Ie654Gj6auY6ZuE5bCR5bm05rOV6Zmi5Zau5L2N6aCQ566XLnRpZiI+MTAw5bm05bqm6Ie654Gj6auY6ZuE5bCR5bm05rOV6Zmi5Zau5L2N6aCQ566XPC9hPigxMDAuMDMuMDIpJm5ic3A7PC9wPg0KPHA+JmRpYW1zOzxhIGhyZWY9Ii9VcGxvYWQvVXNlckZpbGVzLzk55bm05bqm6Ie654Gj6auY6ZuE5bCR5bm05rOV6Zmi5Zau5L2N6aCQ566XLnRpZiI+OTnlubTluqboh7rngaPpq5jpm4TlsJHlubTms5XpmaLllq7kvY3poJDnrpc8L2E+KDk5LjMuOCkmbmJzcDs8L3A+DQo8cD4mZGlhbXM7PGEgdGl0bGU9Ijk45bm05bqm6Ie654Gj6auY6ZuE5bCR5bm05rOV6Zmi5Zau5L2N6aCQ566XIiB0YXJnZXQ9Il9ibGFuayIgaHJlZj0iL1VwbG9hZC9Vc2VyRmlsZXMvOTjlubTluqboh7rngaPpq5jpm4TlsJHlubTms5XpmaLllq7kvY3poJDnrpcudGlmIj45OOW5tOW6puiHuueBo+mrmOmbhOWwkeW5tOazlemZouWWruS9jemgkOeulzwvYT48L3A+DQo8cD4mZGlhbXM7PGEgdGl0bGU9Ijk35bm05bqm6Ie654Gj6auY6ZuE5bCR5bm05rOV6Zmi5Zau5L2N6aCQ566XIiB0YXJnZXQ9Il9ibGFuayIgaHJlZj0iL1VwbG9hZC9Vc2VyRmlsZXMvMDkzLTE3MTIwNjA2LnBkZiI+OTflubTluqboh7rngaPpq5jpm4TlsJHlubTms5XpmaLllq7kvY3poJDnrpc8L2E+PC9wPg0KPHA+JmRpYW1zOzxhIHRpdGxlPSI5NuW5tOW6puiHuueBo+mrmOmbhOWwkeW5tOazlemZouWWruS9jemgkOeulyIgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9Ii9VcGxvYWQvVXNlckZpbGVzLzk25Zau5L2N6aCQ566XLnRpZiI+OTblubTluqboh7rngaPpq5jpm4TlsJHlubTms5XpmaLllq7kvY3poJDnrpc8L2E+PC9wPg0KPHA+JmRpYW1zOzxhIHRpdGxlPSI5NeW5tOW6puiHuueBo+mrmOmbhOWwkeW5tOazlemZouWWruS9jemgkOeulyIgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9Ii9VcGxvYWQvVXNlckZpbGVzLzk15bm05bqm5Zau5L2N6aCQ566XLnRpZiI+OTXlubTluqboh7rngaPpq5jpm4TlsJHlubTms5XpmaLllq7kvY3poJDnrpc8L2E+PC9wPg0KPHA+JmRpYW1zOzxhIHRpdGxlPSI5NOW5tOW6puiHuueBo+mrmOmbhOWwkeW5tOazlemZouWWruS9jeaxuueulyIgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9Ii9VcGxvYWQvVXNlckZpbGVzLzk05bm05bqm5Zau5L2N5rG6566XLnRpZiI+OTTlubTluqboh7rngaPpq5jpm4TlsJHlubTms5XpmaLllq7kvY3msbrnrpc8L2E+PC9wPmQCDw9kFgJmD2QWAgIBD2QWAgIBDw8WAh8JBQcxMDc1Nzk4ZGQCEQ8PZA8QFgJmAgEWAhYCHwhkFgIfCGQWAgIDAgNkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUPY3RsMDAkaWJ0U2VhcmNoiIpsJmefks0+Bz3yQeWr2ANjy2k=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="B19E8BDB" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLo7OjiDQLnrPePCgKxvqmhDeFqwGrwQGzZ6P/JP8l55Qtd8/mO" />
+<table summary="網頁美編排版用" width="50%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr id="HeaderTr1">
+    <td><a name="top" id="top"></a><img src="../images/tw/top01.jpg" alt=" " width="901" height="12" /></td>
+  </tr>
+  <tr id="HeaderTr2">
+    <td background="../images/tw/top_bg.jpg"><table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><a href="index.aspx"><img src="../images/tw/top_logo.jpg" alt="台灣高雄少年法院" width="349" height="80" border="0" /></a></td>
+        <td width="99%" align="right" valign="bottom"><table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td style="padding-right:10pt; padding-bottom:5pt;" class="text_12pt gray01"><table summary="網頁美編排版用" width="60%" border="0" align="right" cellpadding="0" cellspacing="0">
+              <tr>
+                <td align="right" style="padding-right:5pt;" class="green01">全站搜索</td>
+                <td><table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td align="left" class="search_bg"><img src="../images/tw/img_r3_c27.jpg" alt=" " width="7" height="22" align="middle" /></td>
+                    <td width="99%" align="left" class="search_bg"><input name="ctl00$txtInputSearch" type="text" id="ctl00_txtInputSearch" style="width:180px;border: 1px solid #7C987C" /></td>
+                    <td><input type="image" name="ctl00$ibtSearch" id="ctl00_ibtSearch" onkeypress="this.click();" src="../images/tw/img_r3_c47.jpg" alt="查詢" align="absmiddle" border="0" /></td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td class="text_12pt gray01"><table summary="網頁美編排版用" border="0" align="right" cellpadding="0" cellspacing="0">
+              <tr>
+                <td align="center" class="white01"><a accesskey="U" href="#" title="選單連結區，此區塊列有本網站的上方連結">
+                    :::</a></td>
+                <td align="center"><table summary="網頁美編排版用" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td align="center" valign="bottom"><img src="../images/tw/top_bg1.jpg" alt=" " width="2" height="37" /></td>
+                    <td><div id="mainmenu"><a href="sitemap.aspx?n=10269">網站地圖</a></div></td>
+                    <td valign="bottom"><img src="../images/tw/top_bg1.jpg" alt=" " width="2" height="37" /></td>
+                    <td><div id="mainmenu"><a href="index.aspx">回首頁</a></div></td>
+                    <td valign="bottom"><img src="../images/tw/top_bg1.jpg" alt=" " width="2" height="37" /></td>
+                    <td style="padding-bottom:4pt;"><div id="mainmenu1"><a href="#">English</a></div></td>
+                  </tr>
+                </table></td>
+                </tr>
+            </table></td>
+          </tr>
+        </table></td>
+        <td><img src="../images/tw/top_right.jpg" alt=" " width="5" height="80" /></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr id="HeaderTr3">
+    <td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="901" height="228" title="高雄少年法院情境動畫展">
+        <param name="movie" value="../images/intro.swf" />
+        <param name="quality" value="high" />
+		<param name="wmode" value="transparent" />
+        <embed src="flash/ad2.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="901" height="228"></embed>高雄少年法院情境動畫展示
+      </object></td>
+  </tr>
+  <tr>
+    <td><table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="1%" valign="top" background="../images/tw/p_left3_bg.jpg"><table id="MainTableLeft" summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><img src="../images/tw/img_r7_c1.jpg" alt=" " width="6" height="67" /></td>
+                <td width="99%" align="center" valign="bottom" background="../images/tw/img_r7_c2.jpg" class="menu_bg text_12pt white01"><img src="../images/tw/space.gif" alt=" " width="1" height="67" align="middle" /><a title="左方選單連結區，此區塊列有本網站的單元內容連結" accesskey="L" href="#">:::</a></td>
+                <td><img src="../images/tw/img_r7_c8.jpg" alt=" " width="6" height="67" /></td>
+              </tr>
+              <tr>
+                <td valign="top" background="../images/tw/img_r18_c1.jpg" bgcolor="#FFFFFF"><img src="../images/tw/img_r18_c1.jpg" alt=" " width="6" height="14" /></td>
+                <td width="99%" valign="top" bgcolor="#FFFFFF" class="text_10pt gray02" style="padding-bottom:7pt;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+                    <td>
+                    
+                                              
+                                              
+                                              
+                                              <tr>
+                                                  <td>
+                                                      <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                          <tr>
+                        <td background="../images/tw/menu_bg2.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td><img src="../images/tw/space.gif" alt=" " width="10" height="31" /></td>
+                            <td id="ctl00_rptMenu_ctl00_MainMenu" width="99%" class="white01" onclick="T('ctl00_rptMenu_ctl00_SubMenu')" onkeypress="T('ctl00_rptMenu_ctl00_SubMenu')">‧ <a href="#" id="ctl00_rptMenu_ctl00_hylPath" target="_self">
+                                                                      ENGLISH</a></td>
+
+                          </tr>
+                        </table></td>
+                      </tr>
+                                                           
+                                                           <tr>
+                                                           <td colspan="2" style="padding-left:15px">
+                                                              <div id="ctl00_rptMenu_ctl00_SubMenu" name="SubMenu">
+                                                                  <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                      
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=503&n=10413" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl00_hylSubMenu">Preface & History</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=510&n=10420" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl01_hylSubMenu">Organization and Structure (Telephone List)</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=506&n=10416" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl02_hylSubMenu">Jurisdiction & Cases</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=531&n=10434" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl03_hylSubMenu">Juvenile cases</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=532&n=10435" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl04_hylSubMenu">Family cases</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=533&n=10436" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl05_hylSubMenu">Family professional facilities and environment</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=534&n=10437" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl06_hylSubMenu">Family matters service center</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=535&n=10438" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl07_hylSubMenu">The beauty of the building and public arts</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=536&n=10439" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl08_hylSubMenu">Prospect & Expectations</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                      
+                                                                  </table>
+                                                              </div> 
+                                                              </td>
+                                                               </tr> 
+                                                      </table>
+                                                  </td>
+                                              </tr>
+                                          
+                                              
+                                              
+                                              
+                                              <tr>
+                                                  <td>
+                                                      <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                          <tr>
+                        <td background="../images/tw/menu_bg2.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td><img src="../images/tw/space.gif" alt=" " width="10" height="31" /></td>
+                            <td id="ctl00_rptMenu_ctl01_MainMenu" width="99%" class="white01" onclick="T('ctl00_rptMenu_ctl01_SubMenu')" onkeypress="T('ctl00_rptMenu_ctl01_SubMenu')">‧ <a href="#" id="ctl00_rptMenu_ctl01_hylPath" target="_self">
+                                                                      最新公告</a></td>
+
+                          </tr>
+                        </table></td>
+                      </tr>
+                                                           
+                                                           <tr>
+                                                           <td colspan="2" style="padding-left:15px">
+                                                              <div id="ctl00_rptMenu_ctl01_SubMenu" name="SubMenu">
+                                                                  <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                      
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="news.aspx?pa=75&n=10222" id="ctl00_rptMenu_ctl01_rptSubMenu_ctl00_hylSubMenu">最新消息</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="ExamineNews.aspx?pa=73&n=10223" id="ctl00_rptMenu_ctl01_rptSubMenu_ctl01_hylSubMenu">調查保護</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="MoralNews.aspx?pa=58&n=10271" id="ctl00_rptMenu_ctl01_rptSubMenu_ctl02_hylSubMenu">政風新聞</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="StatisticsNews.aspx?pa=87&n=10272" id="ctl00_rptMenu_ctl01_rptSubMenu_ctl03_hylSubMenu">統計</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="RequestNews.aspx?pa=88&n=10277" id="ctl00_rptMenu_ctl01_rptSubMenu_ctl04_hylSubMenu">徵人</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                      
+                                                                  </table>
+                                                              </div> 
+                                                              </td>
+                                                               </tr> 
+                                                      </table>
+                                                  </td>
+                                              </tr>
+                                          
+                                              
+                                              
+                                              
+                                              <tr>
+                                                  <td>
+                                                      <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                          <tr>
+                        <td background="../images/tw/menu_bg2.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td><img src="../images/tw/space.gif" alt=" " width="10" height="31" /></td>
+                            <td id="ctl00_rptMenu_ctl02_MainMenu" width="99%" class="white01" onclick="T('ctl00_rptMenu_ctl02_SubMenu')" onkeypress="T('ctl00_rptMenu_ctl02_SubMenu')">‧ <a href="#" id="ctl00_rptMenu_ctl02_hylPath" target="_self">
+                                                                      本院簡介</a></td>
+
+                          </tr>
+                        </table></td>
+                      </tr>
+                                                           
+                                                           <tr>
+                                                           <td colspan="2" style="padding-left:15px">
+                                                              <div id="ctl00_rptMenu_ctl02_SubMenu" name="SubMenu">
+                                                                  <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                      
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="https://www.youtube.com/watch?v=VlIGWNKqbfA" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl00_hylSubMenu" target="_blank">本院簡介影片</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=346&n=10335" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl01_hylSubMenu">前言與本院沿革</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=522&n=10424" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl02_hylSubMenu">組織與架構</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=523&n=10425" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl03_hylSubMenu">管轄地區與事件</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=521&n=10423" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl04_hylSubMenu">少年事件</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=526&n=10428" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl05_hylSubMenu">家事事件</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=527&n=10429" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl06_hylSubMenu">家事專業設施與環境</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=528&n=10430" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl07_hylSubMenu">家事服務中心暨家暴服務處</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=529&n=10431" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl08_hylSubMenu">院宇及公共藝術之美</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=530&n=10432" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl09_hylSubMenu">展望與期許</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=363&n=10341" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl10_hylSubMenu">聯合服務中心</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=364&n=10342" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl11_hylSubMenu">交通地圖及設施圖示</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=365&n=10343" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl12_hylSubMenu">各科室電話分機表</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                      
+                                                                  </table>
+                                                              </div> 
+                                                              </td>
+                                                               </tr> 
+                                                      </table>
+                                                  </td>
+                                              </tr>
+                                          
+                                              
+                                              
+                                              
+                                              <tr>
+                                                  <td>
+                                                      <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                          <tr>
+                        <td background="../images/tw/menu_bg2.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td><img src="../images/tw/space.gif" alt=" " width="10" height="31" /></td>
+                            <td id="ctl00_rptMenu_ctl03_MainMenu" width="99%" class="white01" onclick="T('ctl00_rptMenu_ctl03_SubMenu')" onkeypress="T('ctl00_rptMenu_ctl03_SubMenu')">‧ <a href="#" id="ctl00_rptMenu_ctl03_hylPath" target="_self">
+                                                                      家事業務專區</a></td>
+
+                          </tr>
+                        </table></td>
+                      </tr>
+                                                           
+                                                           <tr>
+                                                           <td colspan="2" style="padding-left:15px">
+                                                              <div id="ctl00_rptMenu_ctl03_SubMenu" name="SubMenu">
+                                                                  <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                      
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://ksy.judicial.gov.tw/chinese/cp.aspx?n=10341&s=363" id="ctl00_rptMenu_ctl03_rptSubMenu_ctl00_hylSubMenu">家事聯合服務中心</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=370&n=10355" id="ctl00_rptMenu_ctl03_rptSubMenu_ctl01_hylSubMenu">訴訟協助及須知</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=512&n=10421" id="ctl00_rptMenu_ctl03_rptSubMenu_ctl02_hylSubMenu">家事調查專區</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=537&n=10440" id="ctl00_rptMenu_ctl03_rptSubMenu_ctl03_hylSubMenu">你不可不知的各類家事事件</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://ksy.judicial.gov.tw/chinese/cp.aspx?n=10355&s=370" id="ctl00_rptMenu_ctl03_rptSubMenu_ctl04_hylSubMenu">調解專區</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://ksy.judicial.gov.tw/Chinese/cp.aspx?n=10355&s=475" id="ctl00_rptMenu_ctl03_rptSubMenu_ctl05_hylSubMenu">婚姻、親子專區</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://ksy.judicial.gov.tw/chinese/cp.aspx?n=10355&s=371" id="ctl00_rptMenu_ctl03_rptSubMenu_ctl06_hylSubMenu">家暴專區</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://ksy.judicial.gov.tw/chinese/cp.aspx?n=10355&s=372" id="ctl00_rptMenu_ctl03_rptSubMenu_ctl07_hylSubMenu">繼承專區</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://ksy.judicial.gov.tw/chinese/cp.aspx?n=10355&s=373" id="ctl00_rptMenu_ctl03_rptSubMenu_ctl08_hylSubMenu">收養專區</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://ksy.judicial.gov.tw/chinese/cp.aspx?n=10355&s=374" id="ctl00_rptMenu_ctl03_rptSubMenu_ctl09_hylSubMenu">監護及輔助/宣告專區</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://ksy.judicial.gov.tw/chinese/cp.aspx?n=10355&s=477" id="ctl00_rptMenu_ctl03_rptSubMenu_ctl10_hylSubMenu">死亡宣告專區</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://ksy.judicial.gov.tw/chinese/cp.aspx?n=10355&s=478" id="ctl00_rptMenu_ctl03_rptSubMenu_ctl11_hylSubMenu">履行勸告專區</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=480&n=10395" id="ctl00_rptMenu_ctl03_rptSubMenu_ctl12_hylSubMenu" target="_blank">新移民專區</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://ksy.judicial.gov.tw/Chinese/cp.aspx?n=10355&s=487" id="ctl00_rptMenu_ctl03_rptSubMenu_ctl13_hylSubMenu">程序監理人專區</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://www.judicial.gov.tw/assist/assist03/assist03-02.asp" id="ctl00_rptMenu_ctl03_rptSubMenu_ctl14_hylSubMenu" target="_blank">家事書狀範例下載</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=375&n=10356" id="ctl00_rptMenu_ctl03_rptSubMenu_ctl15_hylSubMenu">家事法庭席位介紹</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                      
+                                                                  </table>
+                                                              </div> 
+                                                              </td>
+                                                               </tr> 
+                                                      </table>
+                                                  </td>
+                                              </tr>
+                                          
+                                              
+                                              
+                                              
+                                              <tr>
+                                                  <td>
+                                                      <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                          <tr>
+                        <td background="../images/tw/menu_bg2.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td><img src="../images/tw/space.gif" alt=" " width="10" height="31" /></td>
+                            <td id="ctl00_rptMenu_ctl04_MainMenu" width="99%" class="white01" onclick="T('ctl00_rptMenu_ctl04_SubMenu')" onkeypress="T('ctl00_rptMenu_ctl04_SubMenu')">‧ <a href="#" id="ctl00_rptMenu_ctl04_hylPath" target="_self">
+                                                                      少年業務專區</a></td>
+
+                          </tr>
+                        </table></td>
+                      </tr>
+                                                           
+                                                           <tr>
+                                                           <td colspan="2" style="padding-left:15px">
+                                                              <div id="ctl00_rptMenu_ctl04_SubMenu" name="SubMenu">
+                                                                  <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                      
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://ksy.judicial.gov.tw/chinese/cp.aspx?n=10341&s=362" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl00_hylSubMenu">少年聯合服務中心</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=467&n=10345" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl01_hylSubMenu">少年法庭簡介</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=368&n=10346" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl02_hylSubMenu">訴訟協助及須知</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=485&n=10397" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl03_hylSubMenu">少年事件處理流程</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=385&n=10347" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl04_hylSubMenu">調查與保護</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=398&n=10348" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl05_hylSubMenu">研究與進修</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=408&n=10349" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl06_hylSubMenu">法治教育及宣導</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=463&n=10350" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl07_hylSubMenu">收容及矯正機構</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=410&n=10351" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl08_hylSubMenu">少年事件常見問題Q&A</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=476&n=10390" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl09_hylSubMenu">少年法庭席位介紹</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                      
+                                                                  </table>
+                                                              </div> 
+                                                              </td>
+                                                               </tr> 
+                                                      </table>
+                                                  </td>
+                                              </tr>
+                                          
+                                              
+                                              
+                                              
+                                              <tr>
+                                                  <td>
+                                                      <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                          <tr>
+                        <td background="../images/tw/menu_bg2.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td><img src="../images/tw/space.gif" alt=" " width="10" height="31" /></td>
+                            <td id="ctl00_rptMenu_ctl05_MainMenu" width="99%" class="white01" onclick="T('ctl00_rptMenu_ctl05_SubMenu')" onkeypress="T('ctl00_rptMenu_ctl05_SubMenu')">‧ <a href="#" id="ctl00_rptMenu_ctl05_hylPath" target="_self">
+                                                                      便民查詢服務</a></td>
+
+                          </tr>
+                        </table></td>
+                      </tr>
+                                                           
+                                                           <tr>
+                                                           <td colspan="2" style="padding-left:15px">
+                                                              <div id="ctl00_rptMenu_ctl05_SubMenu" name="SubMenu">
+                                                                  <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                      
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://jirs.judicial.gov.tw/FJUD/" id="ctl00_rptMenu_ctl05_rptSubMenu_ctl00_hylSubMenu" target="_blank">裁判書查詢</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://csdi.judicial.gov.tw/abbs/wkw/WHD3A01.jsp?court=KSY" id="ctl00_rptMenu_ctl05_rptSubMenu_ctl01_hylSubMenu" target="_blank">庭期查詢</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://www.judicial.gov.tw/ctstate/getctstate.asp?courtcode=KSY" id="ctl00_rptMenu_ctl05_rptSubMenu_ctl02_hylSubMenu" target="_blank">開庭進度查詢</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://cpor.judicial.gov.tw/cqry/Login.do" id="ctl00_rptMenu_ctl05_rptSubMenu_ctl03_hylSubMenu" target="_blank">案件進度查詢</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://csdi.judicial.gov.tw/abbs/wkw/WHD1A01.jsp?court=KSY" id="ctl00_rptMenu_ctl05_rptSubMenu_ctl04_hylSubMenu" target="_blank">主文公告查詢</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://jirs.judicial.gov.tw/index.htm" id="ctl00_rptMenu_ctl05_rptSubMenu_ctl05_hylSubMenu" target="_blank">法學資料索引</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=469&n=10382" id="ctl00_rptMenu_ctl05_rptSubMenu_ctl06_hylSubMenu">家事事件訴訟文書電子信箱、傳真</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=376&n=10364" id="ctl00_rptMenu_ctl05_rptSubMenu_ctl07_hylSubMenu">夜間收受書狀服務</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://www.judicial.gov.tw/assist/assist02.asp" id="ctl00_rptMenu_ctl05_rptSubMenu_ctl08_hylSubMenu" target="_blank">服務項目</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="mailto:r10247@judicial.gov.tw?n=10367" id="ctl00_rptMenu_ctl05_rptSubMenu_ctl09_hylSubMenu" target="_blank">首長信箱</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://www.judicial.gov.tw/email/write.htm" id="ctl00_rptMenu_ctl05_rptSubMenu_ctl10_hylSubMenu" target="_blank">司法信箱</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://210.69.124.206/jud_k/wke/LoginFEXG.jsp" id="ctl00_rptMenu_ctl05_rptSubMenu_ctl11_hylSubMenu" target="_blank">法院檔案交換平台</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://www.judicial.gov.tw/Intrprtr/" id="ctl00_rptMenu_ctl05_rptSubMenu_ctl12_hylSubMenu" target="_blank">特約通譯名冊</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://portal.ezlawyer.com.tw/Login.do" id="ctl00_rptMenu_ctl05_rptSubMenu_ctl13_hylSubMenu" target="_blank">律師單一登入窗口</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                      
+                                                                  </table>
+                                                              </div> 
+                                                              </td>
+                                                               </tr> 
+                                                      </table>
+                                                  </td>
+                                              </tr>
+                                          
+                                              
+                                              
+                                              
+                                              <tr>
+                                                  <td>
+                                                      <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                          <tr>
+                        <td background="../images/tw/menu_bg2.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td><img src="../images/tw/space.gif" alt=" " width="10" height="31" /></td>
+                            <td id="ctl00_rptMenu_ctl06_MainMenu" width="99%" class="white01" onclick="T('ctl00_rptMenu_ctl06_SubMenu')" onkeypress="T('ctl00_rptMenu_ctl06_SubMenu')">‧ <a href="#" id="ctl00_rptMenu_ctl06_hylPath" target="_self">
+                                                                      申請書及範例下載</a></td>
+
+                          </tr>
+                        </table></td>
+                      </tr>
+                                                           
+                                                           <tr>
+                                                           <td colspan="2" style="padding-left:15px">
+                                                              <div id="ctl00_rptMenu_ctl06_SubMenu" name="SubMenu">
+                                                                  <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                      
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=466&n=10373" id="ctl00_rptMenu_ctl06_rptSubMenu_ctl00_hylSubMenu">家事</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=380&n=10372" id="ctl00_rptMenu_ctl06_rptSubMenu_ctl01_hylSubMenu">少年</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=377&n=10371" id="ctl00_rptMenu_ctl06_rptSubMenu_ctl02_hylSubMenu">全院</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                      
+                                                                  </table>
+                                                              </div> 
+                                                              </td>
+                                                               </tr> 
+                                                      </table>
+                                                  </td>
+                                              </tr>
+                                          
+                                              
+                                              
+                                              
+                                              <tr>
+                                                  <td>
+                                                      <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                          <tr>
+                        <td background="../images/tw/menu_bg2.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td><img src="../images/tw/space.gif" alt=" " width="10" height="31" /></td>
+                            <td id="ctl00_rptMenu_ctl07_MainMenu" width="99%" class="white01" onclick="T('ctl00_rptMenu_ctl07_SubMenu')" onkeypress="T('ctl00_rptMenu_ctl07_SubMenu')">‧ <a href="/chinese/CP.aspx?s=538&n=10441" id="ctl00_rptMenu_ctl07_hylPath">
+                                                                      動畫影音專區</a></td>
+
+                          </tr>
+                        </table></td>
+                      </tr>
+                                                           
+                                                           <tr>
+                                                           <td colspan="2" style="padding-left:15px">
+                                                              <div id="ctl00_rptMenu_ctl07_SubMenu" name="SubMenu">
+                                                                  <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                      
+                                                                      
+                                                                  </table>
+                                                              </div> 
+                                                              </td>
+                                                               </tr> 
+                                                      </table>
+                                                  </td>
+                                              </tr>
+                                          
+                                              
+                                              
+                                              
+                                              <tr>
+                                                  <td>
+                                                      <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                          <tr>
+                        <td background="../images/tw/menu_bg2.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td><img src="../images/tw/space.gif" alt=" " width="10" height="31" /></td>
+                            <td id="ctl00_rptMenu_ctl08_MainMenu" width="99%" class="white01" onclick="T('ctl00_rptMenu_ctl08_SubMenu')" onkeypress="T('ctl00_rptMenu_ctl08_SubMenu')">‧ <a href="#" id="ctl00_rptMenu_ctl08_hylPath" target="_self">
+                                                                      本院專欄</a></td>
+
+                          </tr>
+                        </table></td>
+                      </tr>
+                                                           
+                                                           <tr>
+                                                           <td colspan="2" style="padding-left:15px">
+                                                              <div id="ctl00_rptMenu_ctl08_SubMenu" name="SubMenu">
+                                                                  <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                      
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="publish.aspx?n=10375" id="ctl00_rptMenu_ctl08_rptSubMenu_ctl00_hylSubMenu">院刊</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=382&n=10377" id="ctl00_rptMenu_ctl08_rptSubMenu_ctl01_hylSubMenu">政風專欄</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=383&n=10378" id="ctl00_rptMenu_ctl08_rptSubMenu_ctl02_hylSubMenu">統計專欄</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                      
+                                                                  </table>
+                                                              </div> 
+                                                              </td>
+                                                               </tr> 
+                                                      </table>
+                                                  </td>
+                                              </tr>
+                                          
+                                              
+                                              
+                                              
+                                              <tr>
+                                                  <td>
+                                                      <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                          <tr>
+                        <td background="../images/tw/menu_bg2.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td><img src="../images/tw/space.gif" alt=" " width="10" height="31" /></td>
+                            <td id="ctl00_rptMenu_ctl09_MainMenu" width="99%" class="white01" onclick="T('ctl00_rptMenu_ctl09_SubMenu')" onkeypress="T('ctl00_rptMenu_ctl09_SubMenu')">‧ <a href="/chinese/RelatedLink.aspx?LBID=1&n=10379" id="ctl00_rptMenu_ctl09_hylPath">
+                                                                      好站連結</a></td>
+
+                          </tr>
+                        </table></td>
+                      </tr>
+                                                           
+                                                           <tr>
+                                                           <td colspan="2" style="padding-left:15px">
+                                                              <div id="ctl00_rptMenu_ctl09_SubMenu" name="SubMenu">
+                                                                  <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                      
+                                                                      
+                                                                  </table>
+                                                              </div> 
+                                                              </td>
+                                                               </tr> 
+                                                      </table>
+                                                  </td>
+                                              </tr>
+                                          
+                                              
+                                              
+                                              
+                                              <tr>
+                                                  <td>
+                                                      <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                          <tr>
+                        <td background="../images/tw/menu_bg2.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td><img src="../images/tw/space.gif" alt=" " width="10" height="31" /></td>
+                            <td id="ctl00_rptMenu_ctl10_MainMenu" width="99%" class="white01" onclick="T('ctl00_rptMenu_ctl10_SubMenu')" onkeypress="T('ctl00_rptMenu_ctl10_SubMenu')">‧ <a href="#" id="ctl00_rptMenu_ctl10_hylPath" target="_self">
+                                                                      政府資訊公開專區</a></td>
+
+                          </tr>
+                        </table></td>
+                      </tr>
+                                                           
+                                                           <tr>
+                                                           <td colspan="2" style="padding-left:15px">
+                                                              <div id="ctl00_rptMenu_ctl10_SubMenu" name="SubMenu">
+                                                                  <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                      
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=498&n=10408" id="ctl00_rptMenu_ctl10_rptSubMenu_ctl00_hylSubMenu">政府資訊公開</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="http://" id="ctl00_rptMenu_ctl10_rptSubMenu_ctl01_hylSubMenu">施政計畫、業務統計及研究報告</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=499&n=10410" id="ctl00_rptMenu_ctl10_rptSubMenu_ctl02_hylSubMenu">預算及決算書、會計報告</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                              <tr>
+                                                                                  <td><img src="../images/tw/space.gif" alt=" " width="3" height="28" /></td>
+                                                                                  <td width="99%" class="gray03">
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      + <a href="/chinese/CP.aspx?s=539&n=10443" id="ctl00_rptMenu_ctl10_rptSubMenu_ctl03_hylSubMenu">本院扶助金各年度收支明細表</a>&nbsp;&nbsp;&nbsp;
+                                                                                  </td>
+                                                                              </tr>
+                                                                          
+                                                                      
+                                                                  </table>
+                                                              </div> 
+                                                              </td>
+                                                               </tr> 
+                                                      </table>
+                                                  </td>
+                                              </tr>
+                                          
+                    </td>
+                  </tr>
+                </table></td>
+                <td valign="top" background="../images/tw/img_r18_c8.jpg" bgcolor="#FFFFFF"><img src="../images/tw/img_r18_c8.jpg" alt=" " width="6" height="14" /></td>
+              </tr>
+              <tr>
+                <td bgcolor="#FFFFFF"><img src="../images/tw/img_r39_c1.jpg" alt=" " width="6" height="8" /></td>
+                <td background="../images/tw/img_r59_c2.jpg" bgcolor="#FFFFFF"><img src="../images/tw/img_r59_c2.jpg" alt=" " width="6" height="8" /></td>
+                <td bgcolor="#FFFFFF"><img src="../images/tw/img_r59_c8.jpg" alt=" " width="6" height="8" /></td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td><img src="../images/tw/space.gif" alt=" " width="173" height="5" /></td>
+          </tr>
+          <tr>
+            <td><table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><img src="../images/tw/left2_box_r1_c1.jpg" alt=" " width="6" height="8" /></td>
+                <td width="99%" valign="bottom" background="../images/tw/left2_box_r1_c2.jpg"><img src="../images/tw/left2_box_r1_c2.jpg" alt=" " width="6" height="8" /></td>
+                <td><img src="../images/tw/left2_box_r1_c9.jpg" alt=" " width="6" height="8" /></td>
+              </tr>
+              <tr>
+                <td valign="top" background="../images/tw/img_r18_c1.jpg" bgcolor="#FFFFFF"><img src="../images/tw/left2_box_r2_c1.jpg" alt=" " width="6" height="40" /></td>
+                <td valign="top" bgcolor="#FFFFFF" class="text_10pt gray02"><img src="../images/tw/left2_box_r2_c2.jpg" alt="常見便民服務" width="161" height="40" /></td>
+                <td valign="top" background="../images/tw/img_r18_c8.jpg" bgcolor="#FFFFFF"><img src="../images/tw/left2_box_r2_c9.jpg" alt=" " width="6" height="40" /></td>
+              </tr>
+              <tr>
+                <td valign="top" background="../images/tw/left2_box_r3.jpg" bgcolor="#FFFFFF"><img src="../images/tw/left2_box_r3.jpg" alt=" " width="6" height="40" /></td>
+                <td width="99%" valign="top" bgcolor="#FFFFFF" class="text_10pt gray01" style="padding-bottom:7pt;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        
+                            <tr>
+                        <td><img src="../images/tw/space.gif" alt=" " width="10" height="26" /></td>
+                        <td width="99%"> 
+                                         
+                                         
+                                          &nbsp;&nbsp;&nbsp;‧<a href="news.aspx?pa=75&n=10222" id="ctl00_rptTop6_ctl00_hylSubMenu">最新消息</a>&nbsp;&nbsp;&nbsp;</td>
+                      </tr>
+                        
+                            <tr>
+                        <td><img src="../images/tw/space.gif" alt=" " width="10" height="26" /></td>
+                        <td width="99%"> 
+                                         
+                                         
+                                          &nbsp;&nbsp;&nbsp;‧<a href="/chinese/CP.aspx?s=370&n=10355" id="ctl00_rptTop6_ctl01_hylSubMenu">訴訟協助及須知</a>&nbsp;&nbsp;&nbsp;</td>
+                      </tr>
+                        
+                            <tr>
+                        <td><img src="../images/tw/space.gif" alt=" " width="10" height="26" /></td>
+                        <td width="99%"> 
+                                         
+                                         
+                                          &nbsp;&nbsp;&nbsp;‧<a href="FullTextSearch.aspx?n=10267" id="ctl00_rptTop6_ctl02_hylSubMenu">全文檢索</a>&nbsp;&nbsp;&nbsp;</td>
+                      </tr>
+                        
+                            <tr>
+                        <td><img src="../images/tw/space.gif" alt=" " width="10" height="26" /></td>
+                        <td width="99%"> 
+                                         
+                                         
+                                          &nbsp;&nbsp;&nbsp;‧<a href="/chinese/CP.aspx?s=294&n=10317" id="ctl00_rptTop6_ctl03_hylSubMenu" target="_blank">少年事件常見問題Q&A</a>&nbsp;&nbsp;&nbsp;</td>
+                      </tr>
+                        
+                            <tr>
+                        <td><img src="../images/tw/space.gif" alt=" " width="10" height="26" /></td>
+                        <td width="99%"> 
+                                         
+                                         
+                                          &nbsp;&nbsp;&nbsp;‧<a href="RequestNews.aspx?pa=88&n=10277" id="ctl00_rptTop6_ctl04_hylSubMenu">徵人</a>&nbsp;&nbsp;&nbsp;</td>
+                      </tr>
+                        
+                            <tr>
+                        <td><img src="../images/tw/space.gif" alt=" " width="10" height="26" /></td>
+                        <td width="99%"> 
+                                         
+                                         
+                                          &nbsp;&nbsp;&nbsp;‧<a href="/chinese/CP.aspx?s=410&n=10351" id="ctl00_rptTop6_ctl05_hylSubMenu">少年事件常見問題Q&A</a>&nbsp;&nbsp;&nbsp;</td>
+                      </tr>
+                        
+                    </table></td>
+                <td valign="top" background="../images/tw/left2_box_r4.jpg" bgcolor="#FFFFFF"><img src="../images/tw/left2_box_r4.jpg" alt=" " width="6" height="40" /></td>
+              </tr>
+              <tr>
+                <td bgcolor="#FFFFFF"><img src="../images/tw/p_left2_r1_c1.jpg" alt=" " width="6" height="8" /></td>
+                <td background="../images/tw/left2_box_r18_c2.jpg" bgcolor="#FFFFFF"><img src="../images/tw/left2_box_r18_c2.jpg" alt=" " width="6" height="8" /></td>
+                <td bgcolor="#FFFFFF"><img src="../images/tw/p_left2_r1_c4.jpg" alt=" " width="6" height="8" /></td>
+              </tr>
+            </table></td>
+          </tr>
+          
+        </table></td>
+        <td width="1%" valign="top"><img src="../images/tw/space.gif" alt=" " width="7" height="7" /></td>
+        <td width="99%" valign="top"><table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0" id="WideImage">
+          <tr>
+            <td><img src="../images/tw/p_box_r1_c1.jpg" alt=" " width="12" height="12" /></td>
+            <td background="../images/tw/p_box_r1_c2.jpg"><img src="../images/tw/p_box_r1_c2.jpg" alt=" " width="12" height="12" /></td>
+            <td><img src="../images/tw/p_box_r1_c23.jpg" alt=" " width="12" height="12" /></td>
+          </tr>
+          <tr>
+            <td valign="top" background="../images/tw/p_box_r15_c1.jpg"><img src="../images/tw/p_box_r3_c1.jpg" alt=" " width="12" height="534" /></td>
+            <td width="99%" valign="top" class="page_bg"><table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td width="1%" class="text_4pt white01"><a title="中間主要內容區，此區塊呈現網頁的網頁內容" accesskey="C" href="#">
+                              :::</a></td>
+                          <td width="37%" class="gray01">
+<table summary="版型表格" summary="版型表格" border="0" width="100%" cellspacing="0" cellpadding="0">
+												<tr>
+												    <td>
+													<div align="LEFT">
+														<table summary="版型表格" summary="版型表格" border="0" id="table261" cellspacing="0" class="text_14pt gray01" cellpadding="0">
+															<tr><td><p class="text_8pt white02"></td><td><a href="/" style="COLOR: #225C91;text-decoration: none;">Home</a> &gt; <span class="text_10pt green01">政府資訊公開專區 &gt; 預算及決算書、會計報告</span></td>
+															</tr>
+														</table>
+													</div>
+													</td>
+												</tr>
+											</table></td>
+                          <td width="62%" align="right" class="text2_10pt gray01" style="padding-right:10pt;"><noscript>
+    您的瀏覽器似乎不支援JavaScript語法，請使用"ctrl+P"進行列印。</p>
+    </noscript><img src="../images/tw/icon_008.gif" alt=" " width="23" height="15" align="middle" /><a href="send.aspx?n=10306">轉寄好友</a><img src="../images/tw/space.gif" alt=" " width="7" height="7" align="middle" /><img src="../images/tw/icon_009.gif" alt=" " width="23" height="15" align="middle" /><a href="javascript:print();">友善列印</a></td>
+                        </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td background="../images/tw/line_008.gif"><img src="../images/tw/line_008.gif" alt=" " width="10" height="15" /></td>
+                  </tr>
+                  <tr>
+                    <td style="padding-left:7pt;"><table summary="網頁美編排版用" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td style="padding-bottom:3pt;"><img src="../images/tw/icon_007.jpg" alt=" " width="23" height="21" /></td>
+                        <td class="black01 text_16pt"><strong><span id="ctl00_lblTitle">預算及決算書、會計報告</span></strong></td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td style="padding-top:5pt;">
+<div>
+<table width="100%" cellspacing="0" cellpadding="0" summary="網頁美編排版表格">
+   <tr>
+                    <td><p>■預算書</p>
+<p>&diams;106年度臺灣高雄少年及家事法院法定預算(<a href="/Upload/UserFiles/106預算總說明.doc">總說明</a>)(<a href="/Upload/UserFiles/106預算案.pdf">pdf檔</a>)(<a href="/Upload/UserFiles/106-預算案-XML(1).7z">xml檔</a>)(<a href="/Upload/UserFiles/106-預算案-EXCEL(1).7z">excel檔</a>)1050830</p>
+<p>&diams;105年度臺灣高雄少年及家事法院法定預算 <a href="/Upload/UserFiles/105年度單位預算.pdf">(pdf)</a> (<a target="_blank" href="/Upload/UserFiles/105年度法定預算(xml)(1).7z">xml</a>) (<a target="_blank" href="/Upload/UserFiles/105-法定預算(EXCEL及總說明WORD)(2).7z">excel.word</a>)1050128</p>
+<p>&diams;105年度臺灣高雄少年及家事法院單位預算案 <a target="_blank" href="/Upload/UserFiles/105年度臺灣高雄少年及家事法院單位預算案(1).pdf">(pdf)&nbsp;</a> <a target="_blank" href="/Upload/UserFiles/105-預算案.7z">(xml) </a>(<a target="_blank" href="/Upload/UserFiles/105-預算案(excel_word).7z">excel.word</a>)1040902</p>
+<p>&diams;<a href="/Upload/UserFiles/104年度法定預算(excel總說明word).7z">104單位預算(Excel.word)</a></p>
+<p>&diams;<a href="/Upload/UserFiles/104單位預算(xml).7z">104單位預算(xml)</a></p>
+<p>&diams;<a href="/Upload/UserFiles/104單位預算案(xml).7z">104單位預算案(xml)</a></p>
+<p>&diams;<a href="/Upload/UserFiles/1040305(4).pdf">104年度臺灣高雄少年及家事法院單位預算(1040305)</a></p>
+<p>&diams;<a href="/Upload/UserFiles/1030905.pdf">104年度臺灣高雄少年及家事法院單位預算案(1030905)</a></p>
+<p>&diams;<a href="/Upload/UserFiles/635288375325712500(2).pdf">103年度臺灣高雄少年及家事法院單位預算(103.02.24)&nbsp;</a></p>
+<p>&diams;<a href="/Upload/UserFiles/635137283378583750(1).pdf">103年度臺灣高雄少年及家事法院單位預算案(1020902) </a></p>
+<p>&diams;<a href="/Upload/UserFiles/634981845758592500.pdf">102年度臺灣高雄少年及家事法院單位預算(102.3.6)</a></p>
+<p>&diams;<a href="/Upload/UserFiles/634904735250000000.tiff">102年度臺灣高雄少年及家事法院單位預算案(101.12.7)</a></p>
+<p>&diams;<a href="/Upload/UserFiles/101年度臺灣高雄少年法院單位預算(101_02_13).tif">101年度臺灣高雄少年法院單位預算</a>(101.02.13)</p>
+<p>&diams;<a href="/Upload/UserFiles/100年度臺灣高雄少年法院單位預算.tif">100年度臺灣高雄少年法院單位預算</a>(100.03.02)&nbsp;</p>
+<p>&diams;<a href="/Upload/UserFiles/99年度臺灣高雄少年法院單位預算.tif">99年度臺灣高雄少年法院單位預算</a>(99.3.8)&nbsp;</p>
+<p>&diams;<a title="98年度臺灣高雄少年法院單位預算" target="_blank" href="/Upload/UserFiles/98年度臺灣高雄少年法院單位預算.tif">98年度臺灣高雄少年法院單位預算</a></p>
+<p>&diams;<a title="97年度臺灣高雄少年法院單位預算" target="_blank" href="/Upload/UserFiles/093-17120606.pdf">97年度臺灣高雄少年法院單位預算</a></p>
+<p>&diams;<a title="96年度臺灣高雄少年法院單位預算" target="_blank" href="/Upload/UserFiles/96單位預算.tif">96年度臺灣高雄少年法院單位預算</a></p>
+<p>&diams;<a title="95年度臺灣高雄少年法院單位預算" target="_blank" href="/Upload/UserFiles/95年度單位預算.tif">95年度臺灣高雄少年法院單位預算</a></p>
+<p>&diams;<a title="94年度臺灣高雄少年法院單位決算" target="_blank" href="/Upload/UserFiles/94年度單位決算.tif">94年度臺灣高雄少年法院單位決算</a></p></td>
+                  </tr>
+            </table>
+ </div>
+</td>
+              </tr>
+            </table></td>
+            <td valign="top" background="../images/tw/p_box_r15_c23.jpg"><img src="../images/tw/p_box_r3_c23.jpg" alt=" " width="12" height="509" /></td>
+          </tr>
+          <tr>
+            <td><img src="../images/tw/p_box_r19_c1.jpg" alt=" " width="12" height="12" /></td>
+            <td background="../images/tw/p_box_r19_c2.jpg"><img src="../images/tw/p_box_r19_c2.jpg" alt=" " width="12" height="12" /></td>
+            <td><img src="../images/tw/p_box_r19_c23.jpg" alt=" " width="12" height="12" /></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table id="MainTableFooter" summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td background="../images/tw/img_r60_c1.jpg"><img src="../images/tw/img_r60_c1.jpg" alt=" " width="6" height="29" /></td>
+      </tr>
+      <tr>
+        <td style="padding-bottom:7pt; padding-top:5pt;"><table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td class="text_12pt black01"><a href="http://ksy.judicial.gov.tw/chinese/CP.aspx?s=245&n=10284">本院位置</a><img src="../images/tw/img_r63_c5.jpg" alt=" " align="middle" /><a href="http://ksy.judicial.gov.tw/Chinese/cp.aspx?n=10255&s=230">隱私權及資訊安全宣告</a><img src="../images/tw/img_r63_c5.jpg" alt=" " align="middle" /><a href="mailto:ksyged@judicial.gov.tw"">檢舉信箱</a></td>
+            <td style="padding-right:7pt;"><table id="ctl00_tbThisPageInfo" summary="網頁美編排版用" border="0" align="right" cellpadding="0" cellspacing="0">
+	<tr>
+		<td class="text_12pt gray03" style="padding-right:8pt;">【 更新時間 】<span class="green01">2015.05.14</span></td>
+		<td class="text_12pt gray03" style="padding-right:8pt;">【 瀏覽人數 】<span class="green01"><span id="ctl00_lblCount" class="green01">1075798</span></span> 
+                    人次</td>
+		<td><a href="#top"><img src="../images/tw/img_r62_c46.jpg" alt="TOP" width="40" height="18" border="0" /></a></td>
+	</tr>
+</table>
+</td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td><table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td class="text_10pt gray03" style="padding-bottom:10pt;"><br />
+                本院少年法庭大樓（受理少年案件）地址：(81167)高雄市楠梓區興楠路182號 | <br />本院家事法庭大樓（受理家事案件）地址：(81167)高雄市楠梓區常順街89號 | <br /> 院所電話：07-3573511 | 院所傳真：07-3573626 | 檢舉電話：07-3573601<br />
+                &copy; 建置維護單位：臺灣高雄少年及家事法院 中華民國98年2月起至今 版權所有</td>
+            <td align="right" valign="top" style="padding-right:7pt;"><a href = "http://www.webguide.nat.gov.tw/enable.jsp?category=20100317142934" title = "無障礙網站" target="_blank" ><img src="../images/tw/img_r66_c41.jpg" alt="A+無障礙標章" width="88" height="31" border="0"/></a></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+ 
+    
+    
+
+<script type='text/javascript'>document.title += '; 政府資訊公開專區 - 預算及決算書、會計報告';</script></form>
+</body>
+</html>

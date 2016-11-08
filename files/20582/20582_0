@@ -1,0 +1,51 @@
+﻿
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>衛生福利部疾病管制署</title>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-38073643-1']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+<link href="css/error.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div id="wrapper">
+  <div id="package">
+    <div id="header">
+      <div class="bg_logo"><img src="http://www.cdc.gov.tw/images/errorlogo.png" alt="logo"></a></div>
+    </div>
+    <div id="content"></div>
+    <div class="search_box clearfix">
+      <div class="inquiry">查詢</div>
+      <div class="cari">
+        <div class="Search">
+	<form action="search.aspx?f=1" method ="post">
+          <input name="kword" type="text" size=""  class="input"/>
+          <input name="Search" type="submit" class="button id="Search" value="Search">
+        </form>
+        </div>
+      </div>
+    </div>
+    <div class="footer clearfix">
+      <div class="people"><a href="http://www.cdc.gov.tw/"> <img src="http://www.cdc.gov.tw/images/people.png"  alt="people" width="141" height="97" /></a> </div>
+      <div class="specialty"><a href="http://www.cdc.gov.tw/professional/index.aspx"><img src="http://www.cdc.gov.tw/images/specialty.png"  alt="specialty" width="141" height="97" /></a></div>
+      <div class="child"><a href="http://www.cdc.gov.tw/kids/"><img src="http://www.cdc.gov.tw/images/child.png"  alt="child" width="141" height="97" /></a></div>
+      <div class="english"><a href="http://www.cdc.gov.tw/english/index.aspx "><img src="http://www.cdc.gov.tw/images/english.png"  alt="english" width="141" height="97" /></a></div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
+

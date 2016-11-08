@@ -1,0 +1,548 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh-TW">
+<head>
+<meta name="Accessible_website" content="本網站通過第(2)優先等級無障礙網頁檢測">
+<meta http-equiv="Content-Type" content="text/html; charset=big5" />
+<title>法官學院 : 首頁  &gt; 政府資訊公開服務 > 決算書及預算書</title>
+<script type="text/javascript" src="highslide/highslide.js"></script>
+<script type="text/javascript">    
+    hs.graphicsDir = 'highslide/graphics/';
+    window.onload = function() {
+        hs.preloadImages(5);
+    }
+</script>
+<script src="Scripts/swfobject_modified.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+function mover(st) {
+st.style.backgroundColor = '#f2f2f2';
+}
+function mout(st) {
+st.style.backgroundColor = '';
+}
+
+//將頁面中的關鍵字高亮顯示,在body的onload中使用
+function HighLight(nWord){
+    var orange = document.body.createTextRange();    
+        while(orange.findText(nWord)){
+            orange.pasteHTML("<span style='color:red;'>" + orange.text + "</span>");
+            orange.moveStart('character',1);            
+    }    
+}
+
+//將頁面中的關鍵字高亮顯示,在body的onload中使用(支持多個關鍵字，多個關鍵字用空格分開)
+function highword(nWord)
+{
+    //將全形空格(逗號)轉半型空格
+    nWord = nWord.replace(/\　/g,"|");    
+    nWord = nWord.replace(/\,/g,"|");    
+    nWord = nWord.replace(/\，/,"|");    
+    nWord = nWord.replace(/\ /g,"|");
+        
+    var Arr = nWord.split("|");
+    for(var i=0;i<Arr.length;i++){        
+        HighLight(Arr[i]);
+    }
+}
+
+//-->
+</script>
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<link href="layout.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body onload="MM_preloadImages('images/index_r2_c14_f2.jpg','images/index_r2_c16_f2.jpg','images/index_r2_c24_f2.jpg','images/index_r2_c27_f2.jpg','images/index_r2_c21_f2.jpg','images/index_r4_c3_f2.jpg','images/index_r4_c7_f2.jpg','images/index_r4_c9_f2.jpg','images/index_r4_c11_f2.jpg','images/index_r4_c13_f2.jpg','images/index_r4_c21_f2.jpg')">
+<table width="10%" border="0" align="center" cellpadding="1" cellspacing="0" bgcolor="#CCCCCC" summary="網站排版用表格">
+  <tr>
+    <td>
+    <table width="10%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" summary="網站排版用表格">
+      <tr>
+        <td><img src="images/index_r1_c1.jpg" alt="" width="1000" height="10" /></td>
+      </tr>
+      <tr>
+        <td><table width="20%" border="0" cellspacing="0" cellpadding="0" summary="網站排版用表格">
+          <tr>
+              <td><img src="images/index_r2_c1.jpg" alt=" " width="646" height="19" align="absmiddle" /></td>
+              <td valign="middle" background="images/index_r2_c13.jpg"><a href="?sitemap=true" class="map" accesskey="T" title="上方選單列">:::</a></td>
+              <td><a href="index.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image31','','images/index_r2_c14_f2.jpg',1)"><img src="images/index_r2_c14.jpg" alt="回首頁" name="Image31" width="40" height="19" border="0" id="Image31" /></a></td>
+              <td><img src="images/index_r2_c15.jpg" width="8" height="19" alt="" /></td>
+              <td><a href="?contentID=61" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image35','','images/index_r2_c21_f2.jpg',1)"><img src="images/index_r2_c21.jpg" alt="聯絡資訊" name="Image35" width="52" height="19" border="0" id="Image35" /></a></td>
+              <td><img src="images/index_r2_c23.jpg" width="8" height="19" alt="" /></td>
+              <td><a href="?sitemap=true" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image32','','images/index_r2_c16_f2.jpg',1)"><img src="images/index_r2_c16.jpg" alt="網站導覽" name="Image32" width="52" height="19" border="0" id="Image32" /></a></td>
+              <td><img src="images/index_r2_c23.jpg" width="8" height="19" alt="" /></td>
+              <td><a href="?contentID=60" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image33','','images/index_r2_c24_f2.jpg',1)"><img src="images/index_r2_c24.jpg" alt="政府資訊公開服務" name="Image33" width="100" height="19" border="0" id="Image33" /></a></td>
+              <td><img src="images/index_r2_c26.jpg" width="8" height="19" alt="" /></td>
+              <td><a href="?struID=41&cid=41" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image34','','images/index_r2_c27_f2.jpg',1)"><img src="images/index_r2_c27.jpg" alt="English" name="Image34" width="46" height="19" border="0" id="Image34" /></a></td>
+              <td><img src="images/index_r2_c28.jpg" width="9" height="19" alt="" /></td>
+            </tr>
+          </table></td>
+      </tr>
+      <tr>
+        <td>
+          <object id="FlashID" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="1000" height="221">
+		  <param name="movie" value="images/banner.swf">
+		  <param name="quality" value="high">
+		  <param name="wmode" value="opaque">
+		  <param name="swfversion" value="9.0.45.0">
+		  <!-- 此 param 標籤會提示使用 Flash Player 6.0 r65 和更新版本的使用者下載最新版本的 Flash Player。如果您不想讓使用者看到這項提示，請將其刪除。 -->
+		  <param name="expressinstall" value="Scripts/expressInstall.swf">
+		  <!-- 下一個物件標籤僅供非 IE 瀏覽器使用。因此，請使用 IECC 將其自 IE 隱藏。 -->
+		  <!--[if !IE]>-->
+		  <object type="application/x-shockwave-flash" data="images/banner.swf" width="1000" height="221">
+		    <!--<![endif]-->
+		    <param name="quality" value="high">
+		    <param name="wmode" value="opaque">
+		    <param name="swfversion" value="9.0.45.0">
+		    <param name="expressinstall" value="Scripts/expressInstall.swf">
+		    <!-- 瀏覽器會為使用 Flash Player 6.0 和更早版本的使用者顯示下列替代內容。 -->
+		    <div>
+		      <h4>這個頁面上的內容需要較新版本的 Adobe Flash Player。</h4>
+		      <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="取得 Adobe Flash Player" width="112" height="33" /></a></p>
+	        </div>
+		    <!--[if !IE]>-->
+	      </object>
+		  <!--<![endif]-->
+	    </object>
+        </td>
+      </tr>
+      <tr>
+        <td><img src="images/index_r4_c1.jpg" width="170" height="41" alt="" /><a href="?struID=1&amp;navID=1&amp;cid=7" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image36','','images/index_r4_c3_f2.jpg',1)"><img src="images/index_r4_c3.jpg" alt="學院介紹" name="Image36" width="74" height="41" border="0" id="Image36" /></a><img src="images/index_r4_c5.jpg" width="46" height="41" alt="" /><a href="?struID=2&amp;navID=2&amp;cid=23" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image37','','images/index_r4_c7_f2.jpg',1)"><img src="images/index_r4_c7.jpg" alt="研習資訊" name="Image37" width="72" height="41" border="0" id="Image37" /></a><img src="images/index_r4_c8.jpg" width="50" height="41" alt="" /><a href="?struID=3&amp;navID=3&amp;cid=28" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image38','','images/index_r4_c9_f2.jpg',1)"><img src="images/index_r4_c9.jpg" alt="研究發展" name="Image38" width="68" height="41" border="0" id="Image38" /></a><img src="images/index_r4_c10.jpg" width="50" height="41" alt="" /><a href="?struID=4&amp;cid=4" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image39','','images/index_r4_c11_f2.jpg',1)"><img src="images/index_r4_c11.jpg" alt="環境介紹" name="Image39" width="66" height="41" border="0" id="Image39" /></a><img src="images/index_r4_c12.jpg" width="50" height="41" alt="" /><a href="?struID=5&amp;navID=5&amp;cid=29" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image40','','images/index_r4_c13_f2.jpg',1)"><img src="images/index_r4_c13.jpg" alt="線上研習" name="Image40" width="68" height="41" border="0" id="Image40" /></a><img src="images/index_r4_c17.jpg" width="46" height="41" alt="" /><a href="?struID=6&amp;cid=6" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image41','','images/index_r4_c21_f2.jpg',1)"><img src="images/index_r4_c21.jpg" alt="相關法規" name="Image41" width="68" height="41" border="0" id="Image41" /></a><img src="images/index_r4_c25.jpg" width="172" height="41" alt="" /></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><table width="100%" border="0" cellpadding="0" cellspacing="0" summary="網站排版用表格" style="padding:0px 20px">
+          <tr valign="top">
+            <td width="8%"><table width="100%" border="0" cellpadding="0" cellspacing="0" summary="網站排版用表格">
+              <tr>
+                <td><img src="images/index_r6_c2_f2.jpg" width="200" height="30" alt="資料查詢" /></td>
+                </tr>
+              <tr>
+                <td><img src="images/index_r7_c2.jpg" width="200" height="8" alt=" " /></td>
+                </tr>
+              <tr>
+                <td align="center" valign="middle" style="background:url(images/index_r8_c2.jpg) repeat-y"><form action="" method="get" name="searchform" class="searchform" >      
+                  <label for="label" style="color:#FFFFFF; font-size:0.1em">  查</label>
+                  <input name="keyword" type="text" class="textbox" id="label" value="請輸入關鍵字" size="15" accesskey="S"onblur="javascript: if(this.value=='') this.value='請輸入關鍵字';" onfocus="javascript: if(this.value=='請輸入關鍵字') this.value='';"/>
+                  <input name="search" type="hidden" class="textbox" id="search" value="true" /><input name="searchtype" type="hidden" value="website" />
+                  <input type="image" src="images/search.gif" alt="查詢" onClick="document.searchform.submit();" align="middle" >
+                  &nbsp;&nbsp;
+                  </form></td>
+                </tr>
+              <tr>
+                <td><img src="images/index_r12_c2.jpg" width="200" height="8" alt=" " /></td>
+                </tr>
+              <tr>
+                <td>&nbsp;</td>
+                </tr>
+              <tr>
+  <td><img src="images/iteam01.jpg" alt="學院介紹" width="200" height="63" /></td>
+  
+                </tr>
+              <tr><td style="background:url(images/index_r21_c2.jpg) repeat-y" align="center"><table width="82%" border="0" cellpadding="0" cellspacing="0" summary="網站排版用表格">
+              	<tr><td style="background:url(images/line05.gif) repeat-x bottom"><img src="images/line05.gif" width="6" height="3" alt="" /></td></tr>
+                
+                  <tr>
+                    <td align="left" valign="middle" class="selectTR"><img src="images/gif-0465.gif" alt="*" width="6" height="8" align="absmiddle" /> <a href="?struID=40&amp;contentID=60" title="政府資訊公開服務">政府資訊公開服務</a> </td>
+                    </tr>
+                  
+                  <tr>
+                    <td align="left" valign="middle" class="selectTR"><img src="images/gif-0465.gif" alt="*" width="6" height="8" align="absmiddle" /> <a href="?struID=40&amp;contentID=67" title="決算書及預算書">決算書及預算書</a> </td>
+                    </tr>
+                  
+                  <tr>
+                    <td align="left" valign="middle" class="selectTR"><img src="images/gif-0465.gif" alt="*" width="6" height="8" align="absmiddle" /> <a href="?struID=40&amp;contentID=68" title="歲入類會計月報">歲入類會計月報</a> </td>
+                    </tr>
+                  
+                  <tr>
+                    <td align="left" valign="middle" class="selectTR"><img src="images/gif-0465.gif" alt="*" width="6" height="8" align="absmiddle" /> <a href="?struID=40&amp;contentID=69" title="經費類會計月報">經費類會計月報</a> </td>
+                    </tr>
+                  
+                  <tr>
+                    <td align="left" valign="middle" class="selectTR"><img src="images/gif-0465.gif" alt="*" width="6" height="8" align="absmiddle" /> <a href="?struID=40&amp;contentID=359" title="XML格式會計月報表">XML格式會計月報表</a> </td>
+                    </tr>
+                  
+                  <tr>
+                    <td align="left" valign="middle" class="selectTR"><img src="images/gif-0465.gif" alt="*" width="6" height="8" align="absmiddle" /> <a href="?struID=40&amp;contentID=486" title="會計月報表(105年以後)">會計月報表(105年以後)</a> </td>
+                    </tr>
+                  
+                
+                </table></td>
+                </tr>
+              <tr>
+                <td style="background:url(images/index_r21_c2.jpg) repeat-y"><img src="images/space.gif" alt="" width="1" height="10" /></td>
+                </tr>
+              <tr>
+                <td><img src="images/index_r22_c2.jpg" alt="" width="200" height="10" /></td>
+                </tr>
+              </table></td>
+            <td width="98%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0" summary="網站排版用表格">
+              <tr>
+  <td width="96%" align="left" valign="top" bgcolor="#FFFFFF" class="norepeat" >                        
+    <div id="mainContent">
+    
+      <div class="navgate" style="float:right"><a href="?sitemap=true" class="map" accesskey="C" title="主要內容區">:::</a> ．<a href="?" title="首頁">首頁</a>
+             &gt; <a href='?struID=40&cid=40' title='政府資訊公開服務'>政府資訊公開服務</a>
+            &gt; 決算書及預算書</div>
+      
+        <h1>政府資訊公開服務</h1>
+        <h2>決算書及預算書</h2>
+        <p><table cellspacing="0" cellpadding="0" width="100%" style="font-family: Verdana, Arial, Helvetica, sans-serif; color: rgb(0,0,0); font-size: small">
+    <tbody>
+        <tr>
+            <th bgcolor="#999966" colspan="4" style="padding-bottom: 2px; background-color: rgb(153,153,102); padding-left: 2px; padding-right: 2px; color: rgb(255,255,255); vertical-align: middle; padding-top: 2px"><span class="style1">決算書及預算書&nbsp;<span class="style2" style="color: rgb(255,51,0)">※請使用[<strong>右鍵-&gt;另存目標</strong>]</span></span></th>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/94_account.pdf">94年度單位決算書</a></div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/95_budget.pdf">95年度單位預算書</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/95_account.pdf">95年度單位決算書</a></div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/96_budget.pdf">96年度單位預算書</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/96_account.pdf">96年度單位決算書</a></div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/97_budget.pdf">97年度單位預算書</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/97_account.pdf">97年度單位決算書(98.02.18)</a></div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/98_budget.pdf">98年度單位預算書(98.06.29)</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/98_account.pdf">98年度單位決算書(99.3.19)</a></div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/99_budget.pdf">99年度單位預算書(99.6.15)</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/99_account.pdf">99年度單位決算書(100.4.7)</a></div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/100_budget.pdf">100年度單位預算書(100.3.8)</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/100_account.pdf">100年度單位決算書(101.3.8)</a></div>
+            </td>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/101_budget.pdf">101年度單位預算書(101.2.8)</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/101_account.pdf">101年度單位決算書(102.3.12)</a></div>
+            </td>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/102_budget_case.pdf">102年度單位預算書(預算案,101.12.18)</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/102_account.pdf">102年度單位決算書(103.6.5)</a></div>
+            </td>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/102_budget_book.pdf">102年度單位預算書(102.3.6)</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/103_account.pdf">103年度單位決算書(104.3.17)</a></div>
+            </td>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/103_budget.pdf">103年度單位預算書(預算案,102.9.17)</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/103_account_xml.7z">103年度單位決算書(XML,104.8.4)</a></div>
+            </td>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/103_budget_book.pdf">103年度單位預算書(103.2.26)</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/104_account.pdf">104年度單位決算書(105.2.3)</a></div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;<img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" />&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/104_budget.pdf">104年度單位預算書(預算案,103.9.2)</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px"><img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" /></td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/104_account_xml.7z">104年度單位決算書(XML,105.2.3)</a></div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;<img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" />&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/104_budget_book.pdf">104年度單位預算書(PDF,104.3.5)</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left">&nbsp;</div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;<img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" />&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/104年度法官學院法定預算(XML格式).7z">104年度單位預算書(XML,104.3.5)</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left">&nbsp;</div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;<img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" />&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/104年度法官學院法定預算(Excel).7z">104年度單位預算書(主要及附屬表)(Excel檔)</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left">&nbsp;</div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;<img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" />&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/104年度法官學院預算總說明.doc">104年度法官學院預算總說明(Word檔)</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left">&nbsp;</div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;<img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" />&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/104年度預算案(XML).7z">104年度預算案(XML,104.5.27)</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left">&nbsp;</div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;<img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" />&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/105_budget_book.pdf">105年度單位預算案(PDF,104.9.7)</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left">&nbsp;</div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;<img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" />&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/105年度法官學院預算案總說明(Word檔).doc">105年度法官學院預算案總說明(Word檔)</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left">&nbsp;</div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;<img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" />&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/105年度單位預算書(主要及附屬表,Excel,104.9.7).7z">105年度單位預算案(主要及附屬表,Excel,104.9.7)</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left">&nbsp;</div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;<img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" />&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/105年度預算案(XML,104.9.7).7z">105年度預算案(XML,104.9.7)</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left">&nbsp;</div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;<img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" />&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/105年度單位預算書(PDF).pdf">105年度單位預算書(PDF,105.01.31)</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left">&nbsp;</div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;<img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" />&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/105年度法官學院預算總說明.doc">105年度法官學院預算總說明(Word檔)</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left">&nbsp;</div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;<img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" />&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/105年度單位預算書(主要表及附屬表)(EXCEL).7z">105年度單位預算書(主要表及附屬表,Excel,105.01.31)</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left">&nbsp;</div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;<img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" />&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/105年度單位預算書(XML).7z">105年度預算書(XML,105.01.31)</a>&nbsp;</div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left">&nbsp;</div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;<img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" />&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/106-預算案-excel-20160829173027.7z">106年度單位預算案(主要表及附屬表,Excel,105.08.29)</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left">&nbsp;</div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;<img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" />&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/106-預算案-excel-20160829173027.zip">106年度單位預算案(XML,105.08.29)</a>&nbsp;</div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left">&nbsp;</div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;<img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" />&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/106年度單位預算案.pdf">106年度單位預算案(PDF,105.08.29)</a></div>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#dee3e7" height="22" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left">&nbsp;</div>
+            </td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">&nbsp;<img alt="小圖示" width="16" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="/userfiles/gif130.gif" />&nbsp;</td>
+            <td bgcolor="#dee3e7" valign="top" align="center" style="padding-bottom: 0px; border-right-width: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; vertical-align: top; border-left-width: 0px; padding-top: 0px">
+            <div align="left"><a target="_blank" style="background-color: transparent; color: rgb(102,102,102); font-weight: bold; text-decoration: none" href="/userfiles/file/106年度預算總說明.doc">106年度單位預算案(總說明,Word檔)</a></div>
+            </td>
+        </tr>
+    </tbody>
+</table></p>
+        
+        <div align="left">
+          
+        <span class="clean"></span>
+        <div align="center" style="margin-top:40px; clear:both">
+          <input name="Submit" type="button" title="到最上方" onclick="window.location='#top';" onkeypress="window.location='#top';" value="到最上方" />
+          <input name="Submit" type="button" title="回上一頁" onclick="window.history.back();" onkeypress="window.history.back();" value="回上一頁" />
+          <input name="Submit" type="button" title="回首頁" onclick="window.location='?';" onkeypress="window.location='?';" value="回首頁" />
+          <noscript>
+            <a href="#top">到最上方</a><br />
+            您的瀏覽器並不支援此一Script回到上一頁的功能，建議您可使用瀏覽器上方的工具列【回上一頁】或快速鍵  ←(Backspace)，來達到回上一頁的功能。
+            </noscript>
+          </div>
+        
+      </div></td>
+                  </tr>
+                </table>           
+              </td>
+                  
+            </tr>
+          </table></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#24509C" summary="網站排版用表格">
+          <tr>
+            <td align="center"><p class="foot">法官學院版權所有 Judges Academy 2014 c , All Rights Reserved</p>
+<p class="foot">臺北市士林區文林路723號,電話：(02)8866-4433(總機)  <span class="foot">瀏覽人數：<img src=images/counter/0.gif align='absmiddle' alt='553855'><img src=images/counter/0.gif align='absmiddle' alt='553855'><img src=images/counter/5.gif align='absmiddle' alt='553855'><img src=images/counter/5.gif align='absmiddle' alt='553855'><img src=images/counter/3.gif align='absmiddle' alt='553855'><img src=images/counter/8.gif align='absmiddle' alt='553855'><img src=images/counter/5.gif align='absmiddle' alt='553855'><img src=images/counter/5.gif align='absmiddle' alt='553855'></span></p></td>
+            </tr>
+        </table></td>
+      </tr>
+    </table>
+  </td></tr>
+</table> 
+</body>
+</html>

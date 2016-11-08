@@ -1,0 +1,420 @@
+﻿<!DOCTYPE html>
+<head>
+<meta charset="utf-8" />
+<meta content="教育部單位預算會計月報" about="/node/20496" property="dc:title" />
+<meta about="/node/20496" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<script src="https://www.google.com/recaptcha/api.js?hl=zh-hant" async="async" defer="defer"></script>
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/node/20496" />
+<link rel="shortlink" href="/node/20496" />
+<title>教育部單位預算會計月報 |  政府資料開放平臺</title>
+<style type="text/css" media="all">@import url("http://data.gov.tw/modules/system/system.base.css?og2b5q");
+@import url("http://data.gov.tw/modules/system/system.menus.css?og2b5q");
+@import url("http://data.gov.tw/modules/system/system.messages.css?og2b5q");
+@import url("http://data.gov.tw/modules/system/system.theme.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.menu.min.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.autocomplete.min.css?og2b5q");</style>
+<style type="text/css" media="all">@import url("http://data.gov.tw/sites/all/modules/aet/aet_insert/aet_insert.css?og2b5q");
+@import url("http://data.gov.tw/modules/comment/comment.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/modules/date/date_api/date.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/modules/date/date_repeat_field/date_repeat_field.css?og2b5q");
+@import url("http://data.gov.tw/modules/field/theme/field.css?og2b5q");
+@import url("http://data.gov.tw/modules/node/node.css?og2b5q");
+@import url("http://data.gov.tw/modules/search/search.css?og2b5q");
+@import url("http://data.gov.tw/modules/user/user.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/modules/views/css/views.css?og2b5q");</style>
+<style type="text/css" media="all">@import url("http://data.gov.tw/sites/all/modules/ckeditor/ckeditor.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/modules/ctools/css/ctools.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/modules/panels/css/panels.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/modules/morecomments/morecomments.css?og2b5q");</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.css" media="all" />
+<style type="text/css" media="all">@import url("http://data.gov.tw/sites/all/modules/customer/wise_search/css/wise_search.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/modules/customer/metadataset_paging/css/metadataset_paging.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/modules/field_group/field_group.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/modules/fivestar/css/fivestar.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/modules/fivestar/widgets/hearts/hearts.css?og2b5q");
+@import url("http://data.gov.tw/modules/filter/filter.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/modules/field_group/field_group.field_ui.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/themes/execute_responsive_theme/reset.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/themes/execute_responsive_theme/font-awesome-4.3.0/css/font-awesome.min.css?og2b5q");</style>
+<style type="text/css" media="all">@import url("http://data.gov.tw/sites/all/themes/execute_responsive_theme/css/style.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/themes/execute_responsive_theme/css/style2.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/themes/execute_responsive_theme/css/media.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/themes/execute_responsive_theme/css/table.css?og2b5q");</style>
+<script type="text/javascript" src="http://data.gov.tw/sites/default/files/js/js_07JUX1vPULN96iPfZclB-e7D71ZMO0emltQkCw1R9tE.js"></script>
+<script type="text/javascript" src="http://data.gov.tw/sites/default/files/js/js_e33MVjlN7rwgNzlV2K6dmLHSKzhZbCLDNfeOD3-e3A8.js"></script>
+<script type="text/javascript" src="http://data.gov.tw/sites/default/files/js/js_vTQT2rYB5Ig3abHwO480a7jw2I2J2cIv4DH4zc2yKu0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = "/sites/all/libraries/ckeditor/"
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://data.gov.tw/sites/default/files/js/js_IoedIY0-Faub-xw_m_qPPgdBx5pOkXrYMQUXnBn-_AI.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.js"></script>
+<script type="text/javascript" src="sites/all/modules/customer/wise_search/js/kw_autocomplete.js"></script>
+<script type="text/javascript" src="http://data.gov.tw/sites/default/files/js/js_mpemQmTN0NXp9qWPJ2cq6JtxHDPBso45zXQWBTd5oWE.js"></script>
+<script type="text/javascript" src="http://data.gov.tw/sites/default/files/js/js_tWBHO4v_lWgNoCeGkW7P3OSIG8edC0lY_ejSGNZPsBk.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"execute_responsive_theme","theme_token":"dVjL1v9x7jxsXZRNNftVPFwlakijJSCppzxrR9pGWFw","jquery_version":"1.7","js":{"sites\/all\/modules\/ckeditor\/includes\/ckeditor.utils.js":1,"sites\/all\/libraries\/ckeditor\/ckeditor.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.menu.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/customer\/admin_author\/myscript.js":1,"sites\/all\/modules\/customer\/admin_author\/my_plugins.js":1,"sites\/all\/modules\/customer\/admin_dataset\/audit_dataset.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/aet\/aet_insert\/aet_insert.js":1,"sites\/all\/modules\/apachesolr_sort\/apachesolr_sort.js":1,"sites\/all\/modules\/customer\/rss\/user_rss.js":1,"0":1,"public:\/\/languages\/zh-hant_kJD63JO7sVpufKpwZmX-Jmwz7Ipn_kNfPdQ3L9YGf2w.js":1,"sites\/all\/modules\/panels\/js\/panels.js":1,"sites\/all\/modules\/customer\/dataset_tags\/handle_tags.js":1,"sites\/all\/modules\/captcha\/captcha.js":1,"sites\/all\/modules\/morecomments\/morecomments.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/jqueryui\/1.11.4\/jquery-ui.js":1,"sites\/all\/modules\/customer\/wise_search\/js\/kw_autocomplete.js":1,"sites\/all\/modules\/customer\/metadataset_paging\/js\/metadataset_paging.js":1,"sites\/all\/modules\/field_group\/field_group.js":1,"misc\/progress.js":1,"sites\/all\/modules\/fivestar\/js\/fivestar.ajax.js":1,"sites\/all\/modules\/fivestar\/js\/fivestar.js":1,"misc\/textarea.js":1,"modules\/filter\/filter.js":1,"sites\/all\/themes\/execute_responsive_theme\/js\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.menu.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"sites\/all\/modules\/aet\/aet_insert\/aet_insert.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/morecomments\/morecomments.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/jqueryui\/1.11.4\/jquery-ui.css":1,"sites\/all\/modules\/customer\/wise_search\/css\/wise_search.css":1,"sites\/all\/modules\/customer\/metadataset_paging\/css\/metadataset_paging.css":1,"sites\/all\/modules\/field_group\/field_group.css":1,"sites\/all\/modules\/fivestar\/css\/fivestar.css":1,"sites\/all\/modules\/fivestar\/widgets\/hearts\/hearts.css":1,"modules\/filter\/filter.css":1,"sites\/all\/modules\/field_group\/field_group.field_ui.css":1,"sites\/all\/themes\/execute_responsive_theme\/reset.css":1,"sites\/all\/themes\/execute_responsive_theme\/font-awesome-4.3.0\/css\/font-awesome.min.css":1,"sites\/all\/themes\/execute_responsive_theme\/style.css":1,"sites\/all\/themes\/execute_responsive_theme\/css\/style.css":1,"sites\/all\/themes\/execute_responsive_theme\/css\/style2.css":1,"sites\/all\/themes\/execute_responsive_theme\/css\/media.css":1,"sites\/all\/themes\/execute_responsive_theme\/css\/table.css":1}},"aet_insert":{"ajax_path":"\/aet_insert\/ajax\/field"},"morecomments_pager":"\u003Ca href = \u0027javascript:;\u0027 class=\u0027morecomments-button node-20496 page-1\u0027\u003EMore comments\u003C\/a\u003E","resource_content":{"title":""},"dataset_tags":{"currentNid":"20496"},"field_group":{"table":"full","hidden":"full","html5":"full"},"ajax":{"edit-vote--2":{"callback":"fivestar_ajax_submit","event":"change","url":"\/system\/ajax","submit":{"_triggering_element_name":"vote"}}},"ckeditor":{"input_formats":{"filtered_html":{"customConfig":"\/sites\/all\/modules\/ckeditor\/ckeditor.config.js?","defaultLanguage":"en","toolbar":"[\r\n    [\u0027Source\u0027],\r\n    [\u0027Cut\u0027,\u0027Copy\u0027,\u0027Paste\u0027,\u0027PasteText\u0027,\u0027PasteFromWord\u0027,\u0027-\u0027,\u0027SpellChecker\u0027,\u0027Scayt\u0027],\r\n    [\u0027Undo\u0027,\u0027Redo\u0027,\u0027Find\u0027,\u0027Replace\u0027,\u0027-\u0027,\u0027SelectAll\u0027,\u0027RemoveFormat\u0027],\r\n    [\u0027Image\u0027,\u0027Flash\u0027,\u0027Table\u0027,\u0027HorizontalRule\u0027,\u0027Smiley\u0027,\u0027SpecialChar\u0027,\u0027Iframe\u0027],\r\n    \u0027\/\u0027,\r\n    [\u0027Bold\u0027,\u0027Italic\u0027,\u0027Underline\u0027,\u0027Strike\u0027,\u0027-\u0027,\u0027Subscript\u0027,\u0027Superscript\u0027],\r\n    [\u0027NumberedList\u0027,\u0027BulletedList\u0027,\u0027-\u0027,\u0027Outdent\u0027,\u0027Indent\u0027,\u0027Blockquote\u0027,\u0027CreateDiv\u0027],\r\n    [\u0027JustifyLeft\u0027,\u0027JustifyCenter\u0027,\u0027JustifyRight\u0027,\u0027JustifyBlock\u0027,\u0027-\u0027,\u0027BidiRtl\u0027,\u0027BidiLtr\u0027],\r\n    [\u0027Link\u0027,\u0027Unlink\u0027,\u0027Anchor\u0027],\r\n    \u0027\/\u0027,\r\n    [\u0027Format\u0027,\u0027Font\u0027,\u0027FontSize\u0027],\r\n    [\u0027TextColor\u0027,\u0027BGColor\u0027],\r\n    [\u0027Maximize\u0027,\u0027ShowBlocks\u0027],\r\n    [\u0027DrupalBreak\u0027],\r\n    \u0027\/\u0027,\r\n    [\u0027Save\u0027,\u0027NewPage\u0027,\u0027Preview\u0027,\u0027Templates\u0027,\u0027Print\u0027,\u0027Form\u0027,\u0027Checkbox\u0027,\u0027Radio\u0027,\u0027TextField\u0027,\u0027Textarea\u0027,\u0027Select\u0027,\u0027Button\u0027,\u0027ImageButton\u0027,\u0027HiddenField\u0027]\r\n]","enterMode":1,"shiftEnterMode":2,"toolbarStartupExpanded":true,"width":"100%","skin":"moono","format_tags":"p;div;pre;address;h1;h2;h3;h4;h5;h6","show_toggle":"f","ss":"2","loadPlugins":{"drupalbreaks":{"name":"drupalbreaks","desc":"Plugin for inserting Drupal teaser and page breaks.","path":"\/sites\/all\/modules\/ckeditor\/plugins\/drupalbreaks\/","buttons":{"DrupalBreak":{"label":"DrupalBreak","icon":"images\/drupalbreak.png"}},"default":"t"}},"entities":false,"entities_greek":false,"entities_latin":false,"scayt_autoStartup":false,"output_pre_indent":false,"custom_formatting":{"indent":true,"breakBeforeOpen":true,"breakAfterOpen":true,"breakAfterClose":true,"breakBeforeClose":false},"filebrowserBrowseUrl":"\/imce?app=ckeditor%7Csendto%40ckeditor_imceSendTo%7C","stylesCombo_stylesSet":"drupal:\/sites\/all\/modules\/ckeditor\/ckeditor.styles.js","contentsCss":["\/sites\/all\/modules\/ckeditor\/ckeditor.css?o","\/sites\/all\/libraries\/ckeditor\/contents.css?o"]},"plain_text":{"customConfig":"\/sites\/all\/modules\/ckeditor\/ckeditor.config.js?","defaultLanguage":"en","toolbar":"[\r\n    [\u0027Source\u0027],\r\n    [\u0027Cut\u0027,\u0027Copy\u0027,\u0027Paste\u0027,\u0027PasteText\u0027,\u0027PasteFromWord\u0027,\u0027-\u0027,\u0027SpellChecker\u0027,\u0027Scayt\u0027],\r\n    [\u0027Undo\u0027,\u0027Redo\u0027,\u0027Find\u0027,\u0027Replace\u0027,\u0027-\u0027,\u0027SelectAll\u0027,\u0027RemoveFormat\u0027],\r\n    [\u0027Image\u0027,\u0027Flash\u0027,\u0027Table\u0027,\u0027HorizontalRule\u0027,\u0027Smiley\u0027,\u0027SpecialChar\u0027,\u0027Iframe\u0027],\r\n    \u0027\/\u0027,\r\n    [\u0027Bold\u0027,\u0027Italic\u0027,\u0027Underline\u0027,\u0027Strike\u0027,\u0027-\u0027,\u0027Subscript\u0027,\u0027Superscript\u0027],\r\n    [\u0027NumberedList\u0027,\u0027BulletedList\u0027,\u0027-\u0027,\u0027Outdent\u0027,\u0027Indent\u0027,\u0027Blockquote\u0027,\u0027CreateDiv\u0027],\r\n    [\u0027JustifyLeft\u0027,\u0027JustifyCenter\u0027,\u0027JustifyRight\u0027,\u0027JustifyBlock\u0027,\u0027-\u0027,\u0027BidiRtl\u0027,\u0027BidiLtr\u0027],\r\n    [\u0027Link\u0027,\u0027Unlink\u0027,\u0027Anchor\u0027],\r\n    \u0027\/\u0027,\r\n    [\u0027Format\u0027,\u0027Font\u0027,\u0027FontSize\u0027],\r\n    [\u0027TextColor\u0027,\u0027BGColor\u0027],\r\n    [\u0027Maximize\u0027,\u0027ShowBlocks\u0027],\r\n    [\u0027DrupalBreak\u0027],\r\n    \u0027\/\u0027,\r\n    [\u0027Save\u0027,\u0027NewPage\u0027,\u0027Preview\u0027,\u0027Templates\u0027,\u0027Print\u0027,\u0027Form\u0027,\u0027Checkbox\u0027,\u0027Radio\u0027,\u0027TextField\u0027,\u0027Textarea\u0027,\u0027Select\u0027,\u0027Button\u0027,\u0027ImageButton\u0027,\u0027HiddenField\u0027]\r\n]","enterMode":1,"shiftEnterMode":2,"toolbarStartupExpanded":true,"width":"100%","skin":"moono","format_tags":"p;div;pre;address;h1;h2;h3;h4;h5;h6","show_toggle":"f","ss":"2","loadPlugins":{"drupalbreaks":{"name":"drupalbreaks","desc":"Plugin for inserting Drupal teaser and page breaks.","path":"\/sites\/all\/modules\/ckeditor\/plugins\/drupalbreaks\/","buttons":{"DrupalBreak":{"label":"DrupalBreak","icon":"images\/drupalbreak.png"}},"default":"t"}},"entities":false,"entities_greek":false,"entities_latin":false,"scayt_autoStartup":false,"output_pre_indent":false,"custom_formatting":{"indent":true,"breakBeforeOpen":true,"breakAfterOpen":true,"breakAfterClose":true,"breakBeforeClose":false},"filebrowserBrowseUrl":"\/imce?app=ckeditor%7Csendto%40ckeditor_imceSendTo%7C","stylesCombo_stylesSet":"drupal:\/sites\/all\/modules\/ckeditor\/ckeditor.styles.js","contentsCss":["\/sites\/all\/modules\/ckeditor\/ckeditor.css?o","\/sites\/all\/libraries\/ckeditor\/contents.css?o"]},"full_html":{"customConfig":"\/sites\/all\/modules\/ckeditor\/ckeditor.config.js?","defaultLanguage":"en","toolbar":"[\r\n    [\u0027Source\u0027],\r\n    [\u0027Cut\u0027,\u0027Copy\u0027,\u0027Paste\u0027,\u0027PasteText\u0027,\u0027PasteFromWord\u0027,\u0027-\u0027,\u0027SpellChecker\u0027, \u0027Scayt\u0027],\r\n    [\u0027Undo\u0027,\u0027Redo\u0027,\u0027Find\u0027,\u0027Replace\u0027,\u0027-\u0027,\u0027SelectAll\u0027,\u0027RemoveFormat\u0027],\r\n    [\u0027Image\u0027,\u0027Media\u0027,\u0027Flash\u0027,\u0027Table\u0027,\u0027HorizontalRule\u0027,\u0027Smiley\u0027,\u0027SpecialChar\u0027,\u0027Iframe\u0027],\r\n    \u0027\/\u0027,\r\n    [\u0027Bold\u0027,\u0027Italic\u0027,\u0027Underline\u0027,\u0027Strike\u0027,\u0027-\u0027,\u0027Subscript\u0027,\u0027Superscript\u0027],\r\n    [\u0027NumberedList\u0027,\u0027BulletedList\u0027,\u0027-\u0027,\u0027Outdent\u0027,\u0027Indent\u0027,\u0027Blockquote\u0027,\u0027CreateDiv\u0027],\r\n    [\u0027JustifyLeft\u0027,\u0027JustifyCenter\u0027,\u0027JustifyRight\u0027,\u0027JustifyBlock\u0027,\u0027-\u0027,\u0027BidiLtr\u0027,\u0027BidiRtl\u0027],\r\n    [\u0027Link\u0027,\u0027Unlink\u0027,\u0027Anchor\u0027, \u0027Linkit\u0027],\r\n    [\u0027DrupalBreak\u0027],\r\n    \u0027\/\u0027,\r\n    [\u0027Format\u0027,\u0027Font\u0027,\u0027FontSize\u0027],\r\n    [\u0027TextColor\u0027,\u0027BGColor\u0027],\r\n    [\u0027Maximize\u0027, \u0027ShowBlocks\u0027]\r\n]\r\n    ","enterMode":1,"shiftEnterMode":2,"toolbarStartupExpanded":true,"width":"100%","skin":"moono","format_tags":"p;div;pre;address;h1;h2;h3;h4;h5;h6","show_toggle":"f","ss":"2","loadPlugins":{"drupalbreaks":{"name":"drupalbreaks","desc":"Plugin for inserting Drupal teaser and page breaks.","path":"\/sites\/all\/modules\/ckeditor\/plugins\/drupalbreaks\/","buttons":{"DrupalBreak":{"label":"DrupalBreak","icon":"images\/drupalbreak.png"}},"default":"t"}},"entities":false,"entities_greek":false,"entities_latin":false,"scayt_autoStartup":false,"stylesCombo_stylesSet":"drupal:\/sites\/all\/modules\/ckeditor\/ckeditor.styles.js","contentsCss":["\/sites\/all\/modules\/ckeditor\/ckeditor.css?o","\/sites\/all\/libraries\/ckeditor\/contents.css?o"]}},"plugins":[],"textarea_default_format":{"edit-comment-body-und-0-value":"plain_text"},"module_path":"\/sites\/all\/modules\/ckeditor","editor_path":"\/sites\/all\/libraries\/ckeditor\/","ajaxToken":"SHavxTUiCYu6WN6dcN8izb_5h0E6NyPcEjLcKAdWAQ0","xss_url":"\/ckeditor\/xss","theme":"execute_responsive_theme","elements":{"edit-comment-body-und-0-value":"plain_text"}}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-20496 node-type-metadataset i18n-zh-hant">
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-74374928-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<div id="header_wrapper">
+
+  <div id="inner_header_wrapper">
+
+    <header id="header">
+
+      <div class="top_left">
+                  <div id="logo"><a href="/" title="首頁"><img src="http://data.gov.tw/sites/all/themes/execute_responsive_theme/logo.png " alt="logo" width="270"/></a></div>
+                <h1 id="site-title">
+          <a href="/" title="首頁"></a>
+        </h1>
+          <div id="site-description"></div>
+      </div>
+
+
+
+      <div class="top_right">
+        <div class="menu_wrapper">
+         <div class="menu_inner_wrap clearfix">
+
+           
+           <nav id="main-menu"  role="navigation">
+            <a class="nav-toggle" href="#">主選單</a>
+            <div class="menu-navigation-container">
+              <ul class="menu"><li class="first leaf"><a href="/wise_search" title="列出平台上所有的資料集">全部資料集</a></li>
+<li class="expanded"><span title="查看會員的線上討論以及開放資料集的意見回饋" class="nolink">互動專區</span><ul class="menu"><li class="first leaf"><a href="/comments" title="列出所有資料集的意見回饋">我有話要說</a></li>
+<li class="leaf"><a href="/suggest_page" title="提供會員填寫新資料集需求之建議">我想要更多</a></li>
+<li class="leaf"><a href="/node/38054" title="">策展活動</a></li>
+<li class="last leaf"><a href="/applications" title="關於政府開放資料的活化應用">活化應用</a></li>
+</ul></li>
+<li class="leaf"><a href="/data_news" title="關於開放資料及本平臺的消息">最新消息</a></li>
+<li class="leaf"><a href="/consult_team">諮詢小組</a></li>
+<li class="last expanded"><span title="關於平臺的介紹、消息、常見問答、以及統計資訊" class="nolink">關於平臺</span><ul class="menu"><li class="first leaf"><a href="/about" title="說明政府開放資料以及相關規範">關於我們</a></li>
+<li class="leaf"><a href="/faq_list" title="關於開放資料以及本平臺的常見問答">常見問答</a></li>
+<li class="leaf"><a href="/node/1453" title="本網站所有功能列示">網站地圖</a></li>
+<li class="leaf"><a href="/site_analytics/all" title="顯示網站的使用統計資料">網站使用統計</a></li>
+<li class="leaf"><a href="/data_usage/dataset" title="">資料分類統計</a></li>
+<li class="leaf"><a href="/visual/3" title="">各部會資料開放情形</a></li>
+<li class="leaf"><a href="/visual/1" title="">各地方政府資料開放情形</a></li>
+<li class="last leaf"><a href="/visual/8?data=publish" title="">部會資料集即時資訊</a></li>
+</ul></li>
+</ul>            </div>
+            <div class="clear"></div>
+          </nav><!-- end main-menu -->
+
+        </div>
+      </div>
+      <div class="log_in_out">
+        <div><p><a style='color: rgb(255,255,255)' href='/user_loginpage'>登入/註冊</a></div>     </div>
+   </div>
+   <div class="clear"></div>
+
+ </header>
+
+</div>
+</div>
+
+<div id="container">
+  <div id="breadcrumbs"><h2 class="element-invisible">您在這裡</h2><nav class="breadcrumb"><a href="/">首頁</a> » <a href="/wise_search">資料集</a> » 教育部單位預算會計月報</nav></div>
+    <div class="container-wrap">
+    <div class="content-sidebar-wrap">
+      <div id="content">
+              </div>
+    </div>
+    <div class = "clear"></div>
+    <div class="post-main">
+      <div id="content">
+        <section id="post-content" role="main">
+                              <h1 class="title">教育部單位預算會計月報</h1>                                                  <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+                  
+    
+    
+  <div class="content node-metadataset">
+    <form class="right" action="/node/20496?page=1" method="post" id="rss-sent-form" accept-charset="UTF-8"><div><input type="hidden" name="nid" value="20496" />
+<input type="hidden" name="form_build_id" value="form-lJBvwsmNcxhIN0MPrPzVeHsKJMSMAldPJ5SbD5SASoc" />
+<input type="hidden" name="form_id" value="rss_sent_form" />
+<input type="submit" id="edit-rss" name="op" value="訂閱" class="form-submit" /><a href="http://data.gov.tw:80/node/5932" target="view_window">訂閱說明</a></div></form><section id="node_metadataset_full_group_left_btn" class="left_btn"><div class="field field-name-field-datavoting field-type-fivestar field-label-inline clearfix"><div class="field-label">資料集評分:&nbsp;</div><div class="field-items"><div class="field-item even"><form class="fivestar-widget" action="/node/20496?page=1" method="post" id="fivestar-custom-widget" accept-charset="UTF-8"><div><div  class="clearfix fivestar-average-text fivestar-average-stars fivestar-form-item fivestar-hearts"><div class="form-item form-type-fivestar form-item-vote">
+ <div class="form-item form-type-select form-item-vote">
+ <select id="edit-vote--2" name="vote" class="form-select"><option value="-">Select rating</option><option value="20">Give it 1/5</option><option value="40">Give it 2/5</option><option value="60">Give it 3/5</option><option value="80">Give it 4/5</option><option value="100">Give it 5/5</option></select>
+<div class="description"><div class="fivestar-summary fivestar-summary-average-count"><span class="empty">尚未評分</span></div></div>
+</div>
+
+</div>
+</div><input class="fivestar-submit form-submit" type="submit" id="edit-fivestar-submit" name="op" value="Rate" /><input type="hidden" name="form_build_id" value="form-_hiUKdjgmXVPuQWqrEz-6RdyQeEvhwqHvLOqOfomUp4" />
+<input type="hidden" name="form_id" value="fivestar_custom_widget" />
+</div></form></div></div></div></section><div class="date_right"></div><div id="node_metadataset_full_group_table" class="field-group-table group_table ">
+
+<table class="field-group-format group_table">
+<caption></caption>
+<tbody>
+ <tr class=""><th class="field-label">資料集描述</th><td class="field-content"><div class="field field-name-field-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">教育部單位預算7月份歲入經費類會計月報</div></div></div></td> </tr>
+ <tr class=""><th class="field-label">主要欄位說明</th><td class="field-content"><div class="field field-name-field-field-fielddesc field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">教育部單位預算7月份歲入經費類會計月報</div></div></div></td> </tr>
+ <tr class=""><th class="field-label">資料資源</th><td class="field-content"><div class="field field-name-field-gov-resource field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item even"><div class="view view-list-of-gov-field-collection-view view-id-list_of_gov_field_collection_view view-display-id-default view-dom-id-65f7552a4ed1ff2e0a5cc688ac3669a6">
+        
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-0" >
+       <tbody>
+          <tr class="view-res-c">
+                  <td class="views-field views-field-field-resource-url-g XML" >
+            <a href="/iisi/logaccess/16115?dataUrl=http://www.edu.tw/userfiles/url/20150814142952/6%E6%9C%88.rar&amp;ndctype=XML&amp;ndcnid=20496">XML</a>          </td>
+                  <td class="views-field views-field-nothing-3" >
+            <a href="/node/gov/resource/16115">檢視資料</a>          </td>
+                  <td class="views-field views-field-field-resource-description-g" >
+            104年6月份歲入經費類會計報告(XML)          </td>
+              </tr>
+          <tr class="view-res-c">
+                  <td class="views-field views-field-field-resource-url-g XML" >
+            <a href="/iisi/logaccess/16114?dataUrl=http://www.edu.tw/userfiles/url/20150814154332/7%E6%9C%88.rar&amp;ndctype=XML&amp;ndcnid=20496">XML</a>          </td>
+                  <td class="views-field views-field-nothing-3" >
+            <a href="/node/gov/resource/16114">檢視資料</a>          </td>
+                  <td class="views-field views-field-field-resource-description-g" >
+             104年7月份歲入經費類會計報告(XML)          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+      <h2 class="element-invisible">頁面</h2><div class="item-list"><ul class="pager"><li class="pager-first first"><a title="到第一頁" href="/node/20496">« 第一頁</a></li>
+<li class="pager-previous"><a title="到上一頁" href="/node/20496">‹ 上一頁</a></li>
+<li class="pager-item"><a title="到第 1 頁" href="/node/20496">1</a></li>
+<li class="pager-current last">2</li>
+</ul></div>  
+  
+  
+      <div class="view-footer">
+      <p><a href="/field-collection/field-gov-resource/add/node/20496?destination=node/20496"></a></p>
+    </div>
+  
+  
+</div></div></div></div></td> </tr>
+ <tr class=""><th class="field-label">資料集類型</th><td class="field-content"><div class="field field-name-field-datatype-name field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">原始資料</div></div></div></td> </tr>
+ <tr class=""><th class="field-label">資料集提供機關名稱</th><td class="field-content"><div class="field field-name-field-orgfullname field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><div><a href="http://data.gov.tw/wise_search?org=教育部會計處">教育部會計處</a></div></div></div></div></td> </tr>
+ <tr class=""><th class="field-label">更新頻率</th><td class="field-content"><div class="field field-name-field-updatefreq field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">每月</div></div></div></td> </tr>
+ <tr class=""><th class="field-label">授權方式</th><td class="field-content"><div class="field field-name-field-datalicense field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">政府資料開放授權條款-第1版</div></div></div></td> </tr>
+ <tr class=""><th class="field-label">授權說明網址</th><td class="field-content"><div class="field field-name-field-auth-link field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="http://data.gov.tw/license">http://data.gov.tw/license</a></div></div></div></td> </tr>
+ <tr class=""><th class="field-label">計費方式</th><td class="field-content"><div class="field field-name-field-charge field-type-list-text field-label-hidden"><div class="field-items"><div class="field-item even">免費</div></div></div></td> </tr>
+ <tr class=""><th class="field-label">資料集提供機關聯絡人</th><td class="field-content"><div class="field field-name-field-contactname field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">洪小姐</div></div></div></td> </tr>
+ <tr class=""><th class="field-label">資料集提供機關聯絡人電話</th><td class="field-content"><div class="field field-name-field-contactphone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">02-77365973</div></div></div></td> </tr>
+ <tr class=""><th class="field-label">發布時間</th><td class="field-content"><div class="field field-name-field-start-date field-type-datestamp field-label-hidden"><div class="field-items"><div class="field-item even">104年08月24日</div></div></div></td> </tr>
+ <tr class=""><th class="field-label">資料集語系</th><td class="field-content"><div class="field field-name-field-language-g field-type-list-text field-label-hidden"><div class="field-items"><div class="field-item even">中文</div></div></div></td> </tr>
+ <tr class=""><th class="field-label">資料集相關網址</th><td class="field-content"><div class="field field-name-field-landing-page-g field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="http://depart.moe.edu.tw/ED4400/News.aspx?n=6EDB50D0C1C2E827&amp;sms=70B0121B3ABF26B4">http://depart.moe.edu.tw/ED4400/News.aspx?n=6EDB50D0C1C2E827&amp;sms=70B0121B3ABF26B...</a></div></div></div></td> </tr>
+ <tr class=""><th class="field-label">資料集標籤</th><td class="field-content"><div class="field field-name-field-dataset-tags field-type-tag field-label-hidden"><div class="field-items"><div class="field-item even"><a href="http://data.gov.tw/wise_search?kt=教育部單位預算會計月報">教育部單位預算會計月報</a> </div></div></div></td> </tr>
+</tbody>
+</table>
+
+</div>
+  </div>
+  <div class="clear"></div>
+      <footer>
+      <ul class="links inline"><li class="statistics_counter first"><span>瀏覽次數：1001</span></li>
+<li class="statistics_download_counter last"><span>下載次數: 474</span></li>
+</ul>    </footer>
+  
+  <div id="comments" class="comment-wrapper">
+    <div id="comments_view">
+    </div>
+  
+      <div class = "add-new-comment">
+      <h2 class="title comment-form">發表新意見</h2>
+      <form class="comment-form user-info-from-cookie" action="/comment/reply/20496" method="post" id="comment-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">建議人(必填) <span class="form-required" title="此欄位是必需的。">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="30" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-textfield form-item-mail">
+  <label for="edit-mail">電子郵件 <span class="form-required" title="此欄位是必需的。">*</span></label>
+ <input type="text" id="edit-mail" name="mail" value="" size="30" maxlength="64" class="form-text required" />
+<div class="description">這個欄位的內容會保密，不會公開顯示。</div>
+</div>
+<input type="hidden" name="form_build_id" value="form-B-wcfsSwYFvJX8HRUmZcIu5Tljh__clNwxCt4ZjNZR0" />
+<input type="hidden" name="form_id" value="comment_node_metadataset_form" />
+<div class="field-type-list-text field-name-field-comment-type field-widget-options-select form-wrapper" id="edit-field-comment-type"><div class="form-item form-type-select form-item-field-comment-type-und">
+  <label for="edit-field-comment-type-und">意見類型選擇 <span class="form-required" title="此欄位是必需的。">*</span></label>
+ <select id="edit-field-comment-type-und" name="field_comment_type[und]" class="form-select required"><option value="_none">- 選取一個值 -</option><option value="1">資料集內容亂碼</option><option value="2">資料集下載連結有問題</option><option value="3">建議增加資料集內容</option><option value="5">肯定與鼓勵</option><option value="6">建議提供其他檔案類型</option><option value="7">其他</option><option value="8">資料集內容有誤</option></select>
+</div>
+</div><div class="form-item form-type-textfield form-item-subject">
+  <label for="edit-subject">標題 </label>
+ <input type="text" id="edit-subject" name="subject" value="" size="60" maxlength="64" class="form-text" />
+</div>
+<div class="field-type-text-long field-name-comment-body field-widget-text-textarea form-wrapper" id="edit-comment-body"><div id="comment-body-add-more-wrapper"><div class="text-format-wrapper"><div class="form-item form-type-textarea form-item-comment-body-und-0-value">
+  <label for="edit-comment-body-und-0-value">回應(您尚未登入，將以訪客身份留言。或可點選網頁上方「登入平臺」留言) <span class="form-required" title="此欄位是必需的。">*</span></label>
+ <div class="form-textarea-wrapper resizable"><textarea class="text-full ckeditor-mod form-textarea required" id="edit-comment-body-und-0-value" name="comment_body[und][0][value]" cols="60" rows="5"></textarea></div>
+</div>
+<fieldset class="filter-wrapper form-wrapper" id="edit-comment-body-und-0-format"><div class="fieldset-wrapper"><div class="filter-help form-wrapper" id="edit-comment-body-und-0-format-help"><p><a href="/filter/tips" target="_blank">更多關於文字格式選項的資訊</a></p></div><div class="filter-guidelines form-wrapper" id="edit-comment-body-und-0-format-guidelines"><div class="filter-guidelines-item filter-guidelines-plain_text"><h3>Plain text</h3><ul class="tips"><li>不允許使用 HTML 標籤。</li><li>自動將網址與電子郵件地址轉變為連結。</li><li>自動斷行和分段。</li></ul></div></div></div></fieldset>
+</div>
+</div></div><div class="captcha"><input type="hidden" name="captcha_sid" value="19231986" />
+<input type="hidden" name="captcha_token" value="511709b61e0253944332958c4888c3cf" />
+<input type="hidden" name="captcha_response" value="Google no captcha" />
+<div class="form-actions form-wrapper g-recaptcha" data-sitekey="6LcmzBMTAAAAAIGtQgHv9ZqkmLNdt3XH20c6-tpB" data-theme="light" data-type="image"></div></div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="儲存" class="form-submit" /></div></div></form>      <div>
+          </div>
+    </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+        </section> <!-- /#main -->
+      </div>
+          </div>
+  </div>
+  
+  </div>
+
+<div id="footer">
+  <div id="footer_wrapper">
+          <div id="footer-area" class="clearfix">
+                  <div class="region region-footer-first">
+  <div id="block-block-42" class="block block-block">
+
+      
+  <div class="content">
+    <div id="foot_menu">
+  <ul>
+    <li class="fa fa-play"><a href="/wise_search?nodetype=metadataset" title="全部資料集"><strong>全部資料集</strong>
+      <ul>
+        <li><a href="/wise_search?nodetype=metadataset&sort=Date_dt" title="最新資料集">最新資料集</a></li>
+        <li><a href="/wise_search?nodetype=metadataset&sort=BrowseCount_l" title="熱門資料集">熱門資料集</a></li>
+      </ul>
+    </li>
+  </ul>
+  <ul>
+    <li class="fa fa-play"><strong>規範&授權</strong>
+      <ul>
+        <li><a href="/node/9454" title="M2M專區">M2M專區</a></li>
+        <li><a href="/license" title="授權條款">授權條款</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<div id="foot_menu">
+  <ul>
+    <li class="fa fa-play"><strong>互動專區</strong>
+      <ul>
+        <li><a href="/comments" title="我有話要說">我有話要說</a></li>
+        <li><a href="/suggest_page" title="我想要更多">我想要更多</a></li>
+        <li><a href="/node/38054" title="策展活動">策展活動</a></li>
+        <li><a href="/applications" title="活化應用">活化應用</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<div id="foot_menu">
+  <ul>
+    <li class="fa fa-play"><a href="/data_news" title="最新消息"><strong>最新消息</strong>
+      <ul>
+        <li><a href="/columnslist" title="專欄文章">專欄文章</a></li>
+        <li><a href="/announcement" title="停機公告">停機公告</a></li>
+      </ul>
+    </li>
+  </ul>
+  <ul>
+    <li class="fa fa-play" style="border-bottom-style:none"><a href="/consult_team" title="諮詢小組"><strong>諮詢小組</strong></a></li>
+  </ul>
+  <ul>
+    <li class="fa fa-play"><strong>關於平臺</strong>
+      <ul>
+        <li><a href="/about" title="關於我們">關於我們</a></li>
+        <li><a href="/faq_list" title="停機公告">常見問題</a></li>
+        <li><a href="/node/1453" title="網站地圖">網站地圖</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<div id="foot_menu">
+  <ul>
+    <li class="fa fa-play"><strong>統計資料</strong>
+      <ul>
+        <li><a href="/site_analytics/all" title="網站使用統計">網站使用統計</a></li>
+        <li><a href="/data_usage/dataset" title="資料分類統計">資料分類統計</a></li>
+        <li><a href="/visual/3" title="各部會資料開放情形">各部會資料開放情形</a></li>
+        <li><a href="/visual/1" title="各地方政府資料開放情形">各地方政府資料開放情形</a></li>
+        <li><a href="/visual/8?data=publish" title="部會資料集即時資訊">部會資料集即時資訊</a></li>
+        <li><a href="/tags_cloud" title="標籤雲">標籤雲</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<div id="foot_menu">
+  <ul>
+    <li class="fa fa-play"><strong>相關連結</strong>
+      <ul>
+        <li><a href="/node/31547" title="各資料平臺網站連結">各資料平臺網站連結</a></li>
+        <li><a href="/node/31548" title="民間資料中心">民間資料中心</a></li>
+      </ul>
+    </li>
+  </ul>
+  <ul>
+    <li class="fa fa-play"><strong>民間回饋區</strong>
+      <ul>
+                <li><a href="/wise_search?nodetype=civic" title="民間資料集">民間資料集</a></li>
+        <li><a href="/rc_app" title="活化應用自助吧">活化應用自助吧</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+              </div>
+      </div>
+
+  <div class="footer_inner_credit">
+         <div id="foot">
+      <div class="region region-footer">
+  <div id="block-block-2" class="block block-block">
+
+      
+  <div class="content">
+    <div class="footer-container">
+ <ul>
+        <li>最佳瀏覽解析度為1280x1024以上。 
+          國家發展委員會 
+          地址:臺北市10020中正區寶慶路3號
+          電話：02-2316-5300
+          傳真電話：02-2394-2165
+          <a href="/node/5937" class="btn">隱私權保護、使用與資安政策</a>
+          <br>
+          如對本站有任何問題或意見歡迎聯絡客服中心
+          電話：02-2192-7111
+          信箱：egov@service.gov.tw 
+          © 2015 <a target="_blank" class="_blank" id="footer-link" href="http://www.ndc.gov.tw/">國家發展委員會</a>
+          <a href="/node/37299" class="btn">政府網站資料開放宣告</a>
+        </li>
+</ul>
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+    </div>  </div>
+</div>
+  <script type="text/javascript" src="http://data.gov.tw/sites/default/files/js/js_cFmL5YTJkSf_-PAsK6bf53kKc2DDeABuYCAjzHELSy8.js"></script>
+<script type="text/javascript" src="http://data.gov.tw/sites/all/libraries/ckeditor/ckeditor.js?og2b5q"></script>
+</body>
+</html>

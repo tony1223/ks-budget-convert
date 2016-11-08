@@ -1,0 +1,449 @@
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh-TW" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="urn:user-namespace-here" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>105年度廉政署法定預算書 - 政府資料開放 - 法務部全球資訊網</title>
+<meta name="title" content="105年度廉政署法定預算書"/>
+<meta name="description" content=""/>
+<link rel="image_src" href="http://www.moj.gov.tw/site/moj/public/MMO/moj/mojbanner.jpg"/><link href="xslGip/unit001/css/design.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit001/css/tabpanel1_class.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit001/css/print.css" rel="stylesheet" media="print" type="text/css"/>
+<link href="xslGip/unit001/css/fontS.css" rel="stylesheet" type="text/css" title="small"/>
+<link href="xslGip/unit001/css/fontM.css" rel="alternate stylesheet" type="text/css" title="medium"/>
+<link href="xslGip/unit001/css/fontL.css" rel="alternate stylesheet" type="text/css" title="large"/>
+<script type="text/javascript" src="xslGip/unit001/js/styleswitcher.js"></script>
+<script type="text/javascript" src="xslGip/unit001/js/multimenu.js"></script>
+<script type="text/javascript" src="xslGip/unit001/js/globals.js"></script>
+<script type="text/javascript" src="xslGip/unit001/js/tabpanel1_class.js"></script>
+<script type="text/javascript" src="xslGip/unit001/js/widgets_class.js"></script>
+<script type="text/javascript" src="xslGip/unit001/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="xslGip/unit001/js/showtab.js"></script>
+<script type="text/javascript" src="xslGip/unit001/js/changesubweb.js"></script><!--[if lt IE 9]>
+	<script>
+		$(function() {
+		
+			var el;
+			
+			$("select.subwebcat")
+				.each(function() {
+					el = $(this);
+					el.data("origWidth", el.outerWidth()) // IE 8 will take padding on selects
+				})
+			  .mouseenter(function(){
+			    $(this).css("width", "auto");
+			  })
+			  .bind("blur change", function(){
+			  	el = $(this);
+			    el.css("width", el.data("origWidth"));
+			  });
+		
+		});
+	</script>
+	<![endif]--> 
+<link rel="govtwsimpledc.xsd" href="http://www.gov.tw/schema/dc/" title="Dublin Core"/>
+<meta name="DC.Title" content="政府資料開放" />
+<meta name="DC.Creator" content="法務部" />
+<meta name="DC.Subject" content="政府資料開放" />
+<meta name="DC.Description" content="政府資料開放" />
+<meta name="DC.Contributor" content="法務部" />
+<meta name="DC.Type" content="文字" />
+<meta name="DC.Format" content="text" />
+<meta name="DC.Source" content="法務部" />
+<meta name="DC.Language" content="中文" />
+<meta name="DC.coverage.t.min" content="2016-03-01" />
+<meta name="DC.coverage.t.max" content="2036-03-01" />
+<meta name="DC.Publisher" content="法務部" />
+<meta name="DC.Date" content="2016-11-07" />
+<meta name="DC.Identifier" content="A11000000F" />
+<meta name="DC.Relation" content="GIP-moj" />
+<meta name="DC.Rights" content="法務部" />
+<meta name="Category.Theme" content="" />
+<meta name="Category.Cake" content="" />
+<meta name="Category.Service" content="" />
+<meta name="Keywords" content="" />
+  <script type="text/javascript"><!--
+		function MM_openBrWindow(theURL,winName,features) { //v2.0
+		  window.open(theURL,winName,features);
+		}
+		//-->
+		</script></head>
+<body>
+<div class="wrap">
+<div id="zone.head" class="top" xmlns="">
+<div class="header">
+<h1><a title="法務部全球資訊網" href="dp.asp?mp=001"><img src="/xslGip/unit001/images/logo.png" alt="法務部全球資訊網"></a></h1>
+<div class="nav">
+<ul>
+<li><a title="回首頁" href="dp.asp?mp=001">回首頁</a></li>
+<li><a title="網站導覽" href="sitemap.asp?mp=001">網站導覽</a></li><li><a href="https://www.moj.gov.tw/bbssp.asp?xdurl=mojBossmail.asp&mp=001">部長信箱</a></li>
+<li><a href="http://www.moj.gov.tw/np.asp?ctNode=27992">常見問答</a></li>
+<li><a href="http://www.moj.gov.tw/mp095.html">English</a></li>
+<li><a href="http://www.moj.gov.tw/mp11002.html" target="_nwGIP">行動版</a></li>
+<li><a href="ct.asp?xItem=185649&CtNode=27589&mp=001">緊急連絡電話</a></li>
+</ul>
+</div>
+<div class="fontSet">
+<ul>
+<li class="fontS"><a id="small" cat="font" href="xslgip/unit001/css/fontS.css" onclick="setActiveStyleSheet('small'); return false;" onkeypress="setActiveStyleSheet('small'); return false;"><img alt="小" src="xslgip/unit001/images/icon_font_space.gif"></a></li>
+<li class="fontM"><a id="medium" cat="font" href="xslgip/unit001/css/fontM.css" onclick="setActiveStyleSheet('medium'); return false;" onkeypress="setActiveStyleSheet('medium'); return false;"><img alt="中" src="xslgip/unit001/images/icon_font_space.gif"></a></li>
+<li class="fontL"><a id="large" cat="font" href="xslgip/unit001/css/fontL.css" onclick="setActiveStyleSheet('large'); return false;" onkeypress="setActiveStyleSheet('large'); return false;"><img alt="大" src="xslgip/unit001/images/icon_font_space.gif"></a></li>
+</ul>
+<noscript>字級大小SCRIPT，如您的瀏覽器不支援，IE6請利用鍵盤按住ALT鍵 + V → X → (G)最大(L)較大(M)中(S)較小(A)小，來選擇適合您的文字大小，如為IE7或Firefoxy瀏覽器則可利用鍵盤 Ctrl + (+)放大 (-)縮小來改變字型大小。</noscript>
+</div><div class="focus">
+      <select name="" id="organ" onchange="javascript:window.document.location.href=this.value;"><option selected="selected" value="#">選擇分眾</option>
+        <option value="http://www.moj.gov.tw/lp.asp?CtNode=27528&CtUnit=8988&BaseDSD=7&mp=001">一般民眾</option>
+        <option value="http://www.moj.gov.tw/lp.asp?CtNode=27529&CtUnit=8988&BaseDSD=7&mp=001">政府機關</option>
+        <option value="http://www.moj.gov.tw/lp.asp?CtNode=27530&CtUnit=8988&BaseDSD=7&mp=001">法治教育</option>
+      </select>
+      </div><div class="mlmenu menubg inaccesible arrow">
+<ul>
+<li><a href="np.asp?ctNode=27326&mp=001" title="法務部簡介">法務部簡介</a><ul>
+<li><a href="np.asp?ctNode=27888&mp=001" title="認識法務部">認識法務部</a></li>
+<li><a href="np.asp?ctNode=27889&mp=001" title="組織架構">組織架構</a></li>
+<li><a href="np.asp?ctNode=28122&mp=001" title="重大政策">重大政策</a></li>
+<li><a href="np.asp?ctNode=27335&mp=001" title="施政重點">施政重點</a></li>
+<li><a href="np.asp?ctNode=27609&mp=001" title="重要措施">重要措施</a></li>
+<li><a href="np.asp?ctNode=27334&mp=001" title="所屬機關介紹">所屬機關介紹</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=27954&mp=001" title="線上服務e點通">線上服務e點通</a><ul>
+<li><a href="np.asp?ctNode=27955&mp=001" title="查詢系統">查詢系統</a></li>
+<li><a href="np.asp?ctNode=27957&mp=001" title="線上申辦">線上申辦</a></li>
+<li><a href="https://www.moj.gov.tw/bbssp.asp?xdurl=mojBossmail.asp&mp=001" title="我要留言">我要留言</a></li>
+<li><a href="lp.asp?ctNode=27960&CtUnit=9177&BaseDSD=7&mp=001" title="申訴窗口">申訴窗口</a></li>
+<li><a href="np.asp?ctNode=27961&mp=001" title="法律諮詢資源">法律諮詢資源</a></li>
+<li><a href="np.asp?ctNode=27962&mp=001" title="外國人資訊服務網">外國人資訊服務網</a></li>
+<li><a href="lp.asp?ctNode=27964&CtUnit=18&BaseDSD=7&mp=001" title="陳情處理規定">陳情處理規定</a></li>
+<li><a href="lp.asp?ctNode=27965&CtUnit=8026&BaseDSD=7&mp=001" title="特約通譯名冊">特約通譯名冊</a></li>
+<li><a href="lp.asp?ctNode=27967&CtUnit=7586&BaseDSD=7&mp=001" title="就業資訊">就業資訊</a></li>
+<li><a href="lp.asp?ctNode=27968&CtUnit=6433&BaseDSD=7&mp=001" title="消費者保護">消費者保護</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=27975&mp=001" title="法務資料庫">法務資料庫</a><ul>
+<li><a href="http://www.moj.gov.tw/mp302.html" target="_nwGip" title="犯罪防治研究資料庫">犯罪防治研究資料庫</a></li>
+<li><a href="np.asp?ctNode=37231&mp=001" title="司法保護資料庫">司法保護資料庫</a></li>
+<li><a href="http://www.moj.gov.tw/trans/a_trans.html" target="_nwGip" title="學校法治教育人才資料庫">學校法治教育人才資料庫</a></li>
+<li><a href="http://www.moj.gov.tw/trans/b_trans.html" target="_nwGip" title="社區法律推廣人才資料庫">社區法律推廣人才資料庫</a></li>
+<li><a href="np.asp?ctNode=27977&mp=001" title="出版品">出版品</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=27985&mp=001" title="法治視窗">法治視窗</a><ul>
+<li><a href="np.asp?ctNode=27986&mp=001" title="法律資源">法律資源</a></li>
+<li><a href="np.asp?ctNode=30925&mp=001" title="法律推廣">法律推廣</a></li>
+<li><a href="np.asp?ctNode=30930&mp=001" title="重大犯罪專論與趨勢分析">重大犯罪專論與趨勢分析</a></li>
+<li><a href="np.asp?ctNode=27991&mp=001" title="公務員廉政倫理規範">公務員廉政倫理規範</a></li>
+<li><a href="lp.asp?ctNode=28250&CtUnit=9342&BaseDSD=7&mp=001" title="中央廉政委員會">中央廉政委員會</a></li>
+<li><a href="lp.asp?ctNode=28249&CtUnit=9341&BaseDSD=7&mp=001" title="國家廉政建設行動方案">國家廉政建設行動方案</a></li>
+<li><a href="lp.asp?ctNode=31318&CtUnit=11130&BaseDSD=7&mp=001" title="法眼明察獎專區">法眼明察獎專區</a></li>
+<li><a href="lp.asp?ctNode=31115&CtUnit=11020&BaseDSD=7&mp=001" title="本部廉政會報">本部廉政會報</a></li>
+<li><a href="np.asp?ctNode=27992&mp=001" title="法治Q＆A">法治Q＆A</a></li>
+</ul>
+</li>
+<li><a href="http://www.rjsd.moj.gov.tw" target="_nwGip" title="法務統計">法務統計</a></li>
+<li><a href="np.asp?ctNode=27346&mp=001" title="資訊公開">資訊公開</a><ul>
+<li><a href="np.asp?ctNode=27453&mp=001" title="政府資訊公開服務">政府資訊公開服務</a></li>
+<li><a href="np.asp?ctNode=28057&mp=001" title="應主動公開資訊">應主動公開資訊</a></li>
+<li><a href="lp.asp?ctNode=28053&CtUnit=7412&BaseDSD=7&mp=001" title="訴願決定書查詢">訴願決定書查詢</a></li>
+<li><a href="lp.asp?ctNode=36912&CtUnit=9196&BaseDSD=7&mp=001" title="法務研究計畫與成果">法務研究計畫與成果</a></li>
+<li><a href="np.asp?ctNode=33365&mp=001" title="遊說資訊專區">遊說資訊專區</a></li>
+<li><a href="np.asp?ctNode=27454&mp=001" title="電子公布欄">電子公布欄</a></li>
+<li><a href="np.asp?ctNode=27455&mp=001" title="中英網站專有名詞對照">中英網站專有名詞對照</a></li>
+<li><a href="http://www.poi.moj.gov.tw/" target="_nwGip" title="法務資訊系統架構(資訊的力量)">法務資訊系統架構(資訊的力量)</a></li>
+<li><a href="np.asp?ctNode=27458&mp=001" title="資訊安全行政規則">資訊安全行政規則</a></li>
+<li><a href="http://service.moj.gov.tw/reqinfo/" target="_nwGip" title="人民申請提供政府資訊案件統計">人民申請提供政府資訊案件統計</a></li>
+<li><a href="np.asp?ctNode=33532&mp=001" title="檢察官評鑑委員會專區">檢察官評鑑委員會專區</a></li>
+<li><a href="lp.asp?ctNode=44550&CtUnit=17925&BaseDSD=7&mp=001" title="檢察官人事審議委員會獎懲案件決議公告專區">檢察官人事審議委員會獎懲案件決議公告專區</a></li>
+<li><a href="lp.asp?ctNode=31791&CtUnit=11504&BaseDSD=7&mp=001" title="內部控制專區">內部控制專區</a></li>
+<li><a href="lp.asp?ctNode=32095&CtUnit=11740&BaseDSD=7&mp=001" title="政策宣導廣告經費彙整">政策宣導廣告經費彙整</a></li>
+<li><a href="np.asp?ctNode=32807&mp=001" title="請託關說登錄查察專區">請託關說登錄查察專區</a></li>
+<li><a href="np.asp?ctNode=33223&mp=001" title="性別主流化專區">性別主流化專區</a></li>
+<li><a href="lp.asp?ctNode=33979&CtUnit=13080&BaseDSD=7&mp=001" title="行動化應用軟體服務績效">行動化應用軟體服務績效</a></li>
+<li><a href="np.asp?ctNode=37018&mp=001" title="黑心油品事件專區">黑心油品事件專區</a></li>
+<li><a href="lp.asp?ctNode=38766&CtUnit=15519&BaseDSD=7&mp=001" title="貪污治罪條例第4條第1項第3款案例分享">貪污治罪條例第4條第1項第3款案例分享</a></li>
+<li><a href="np.asp?ctNode=42924&mp=001" title="法務部獎項（勵）專區">法務部獎項（勵）專區</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=27347&mp=001" title="下載專區">下載專區</a><ul>
+<li><a href="lp.asp?ctNode=27496&CtUnit=8021&BaseDSD=7&mp=001" title="Youtube影音下載">Youtube影音下載</a></li>
+<li><a href="lp.asp?ctNode=27485&CtUnit=9384&BaseDSD=7&mp=001" title="動畫下載(Video)">動畫下載(Video)</a></li>
+<li><a href="lp.asp?ctNode=28305&CtUnit=8321&BaseDSD=7&mp=001" title="影音下載(Audio)">影音下載(Audio)</a></li>
+<li><a href="http://www.moj.gov.tw/sp.asp?xdurl=album/NewsPhotoList.asp&mp=001" title="焦點新聞圖片區">焦點新聞圖片區</a></li>
+<li><a href="np.asp?ctNode=37352&mp=001" title="宣導資料下載">宣導資料下載</a></li>
+<li><a href="http://aedoc.moj.gov.tw/attch/" target="_nwGip" title="公文檔案附件下載系統">公文檔案附件下載系統</a></li>
+<li><a href="np.asp?ctNode=29573&mp=001" title="網站連結圖示">網站連結圖示</a></li>
+<li><a href="sp.asp?xdurl=album/albumList.asp&mp=001" title="網路相簿">網路相簿</a></li>
+</ul>
+</li>
+</ul>
+</div> <a onfocus="mlout();" href="javascript:"></a>
+			<noscript>TAB標籤功能，如不執行不影響您資料瀏覽</noscript></div>
+</div>
+<table class="layout" summary="layout table">
+<tr>
+<td class="center">
+<div class="main">
+<div class="accesskey"><a title="中欄，主要內容區" accesskey="C" class="accesskey" href="sitemap.asp?mp=001">:::</a></div>
+<div id="zone.content11">
+<div class="composite">
+<span class="organ">
+<form>
+<label for="subwebcat"></label>
+<select name="subwebcat" id="subwebcat" onchange="ChangeSubWeb(); return false;">
+<option selected="selected">請選擇機關類別</option>
+<option value="A" xmlns="">部內單位</option>
+<option value="B" xmlns="">檢察機關</option>
+<option value="C" xmlns="">矯正機關</option>
+<option value="E" xmlns="">行政執行機關</option>
+<option value="X" xmlns="">其他</option>
+</select>
+<span name="subwebarea" id="subwebarea">
+<select name="subweb" id="subweb">
+<option selected="selected">請先選擇左側類別</option>
+</select>
+</span>
+</form>
+</span>
+<div class="marquee" xmlns=""><marquee behavior="scroll" direction="left" scrolldelay="" scrollamount="8" onmouseover="this.stop()" onfocus="this.stop()" onmouseout="this.start()" onblur="this.start()"><div id="Block_20091014172353">
+<ul class="li_2">
+<li>
+</li>
+</ul>
+</div></marquee></div><div class="search" style="width:25%;">
+<style><!-- input.gsc-search-button { border-color: #923C99; background-color: #2c83ca; color:#FFF; border: 1px solid #81bded;  } //--></style>
+<div><script>
+  (function() {
+    var cx = '002134160576658380868:oljlnomcrfe';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only enableAutoComplete="true" resultsUrl="http://www.moj.gov.tw/bbssp.asp?xdurl=search/GSSForm.asp&mp=001&"></gcse:searchbox-only>
+</div>
+<!--
+<script language="JavaScript">
+$(function(){
+$("#textfield").focus(function(){ if($("#textfield").val()=='=P?i$JCvAd&r'){ $("#textfield").val(''); } });
+$("#searchBtn").click(function(){
+var query = encodeURI("http://www.moj.gov.tw/bbssp.asp?xdurl=search/GSSForm.asp&mp=001&keyword=") + encodeURI(document.getElementById("textfield").value);
+window.open(query, "_blank"); }); });
+</script>
+<noscript>=P3s52(l7j4M$J$f6i&f,d8_!A:t'}http://www.moj.gov.tw/bbssp.asp?xdurl=search/GSSForm.asp&mp=001</noscript>
+<form name="hysearch_form" title="%~$e@K/A">
+<label for="search" style="display:none ">%~$e@K/A</label>
+<input class="text" type="text" id="textfield" name="content" accesskey="S" value="=P?i$JCvAd&r" />
+<input class="btn" type="button" id="searchBtn" value=",d8_">
+</form>
+--> 
+</div>
+<div class="hot"><a target="_nwMof" href="http://www.moj.gov.tw/lp.asp?CtNode=36920&CtUnit=14980&BaseDSD=7&mp=001" title="熱門查詢：&#10;減刑 &#10;委任書 &#10;認罪協商 &#10;死刑 &#10;拍賣"><img src="/xslGip/unit555/images/hot.png" alt="熱門查詢：&#10;減刑 &#10;委任書 &#10;認罪協商 &#10;死刑 &#10;拍賣" /></a></div>
+</div>
+<div class="clear">
+<table summary="layout table">
+<tr>
+<td class="leftblock">
+<div class="menu" xmlns="">
+<ul>
+<li><a id="tabindex_27496" href="lp.asp?ctNode=27496&amp;CtUnit=8021&amp;BaseDSD=7&amp;mp=001" title="Youtube影音下載">Youtube影音下載</a></li>
+<li><a id="tabindex_27485" href="lp.asp?ctNode=27485&amp;CtUnit=9384&amp;BaseDSD=7&amp;mp=001" title="動畫下載(Video)">動畫下載(Video)</a></li>
+<li><a id="tabindex_28305" href="lp.asp?ctNode=28305&amp;CtUnit=8321&amp;BaseDSD=7&amp;mp=001" title="影音下載(Audio)">影音下載(Audio)</a></li>
+<li><a id="tabindex_36924" href="http://www.moj.gov.tw/sp.asp?xdurl=album/NewsPhotoList.asp&mp=001" title="焦點新聞圖片區">焦點新聞圖片區</a></li>
+<li class="data"><a id="tabindex_37352" href="np.asp?ctNode=37352&amp;mp=001" title="宣導資料下載">宣導資料下載</a></li>
+<li><a id="tabindex_36063" href="http://aedoc.moj.gov.tw/attch/" title="公文檔案附件下載系統">公文檔案附件下載系統</a></li>
+<li><a id="tabindex_29573" href="np.asp?ctNode=29573&amp;mp=001" title="網站連結圖示">網站連結圖示</a></li>
+<li><a id="tabindex_35154" href="sp.asp?xdurl=album/albumList.asp&mp=001" title="網路相簿">網路相簿</a></li>
+</ul>
+</div>
+</td>
+<td class="centerblock">
+<div class="friendly" xmlns="">
+<div class="path"><span class="before">現在位置</span><a title="首頁" href="mp.asp?mp=001">首頁</a><img src="xslGip/unit001/images/path_arrow.gif" alt="向右箭頭"><a href="np.asp?ctNode=27347&mp=001" title="下載專區">下載專區</a><img src="xslGip/unit001/images/path_arrow.gif" alt="向右箭頭"><a href="np.asp?ctNode=35949&mp=001" title="政府資料開放">政府資料開放</a></div>
+<div class="function">
+<ul>
+<li><a class="print" href="fp.asp?xItem=424161&ctNode=35949&mp=001">友善列印</a></li>
+<li><a class="forward" href="forward.asp?xItem=424161&ctNode=35949&mp=001">轉寄友人</a></li>
+<li><a href="javascript:history.go(-1);" class="back">回上一頁</a><NOSCRIPT>( alt + ← 回上一頁)</NOSCRIPT></li>
+</ul>
+</div></div>
+<div class="cp" xmlns="">
+<h2><span>政府資料開放</span><ul>
+<li><a title="plurk" href="javascript:void(window.open('http://www.plurk.com/?qualifier=shares&status='.concat(encodeURIComponent(location.href)).concat(' ').concat('(').concat(encodeURIComponent(document.title)).concat(')')));"><img alt="plurk" src="xslgip/unit001/images/plurk.gif"></a></li>
+<li><a title="facebook" href="javascript:desc='';via='';if(document.referrer)via=document.referrer;if(typeof(_ref)!='undefined')via=_ref;if(window.getSelection)desc=window.getSelection();if(document.getSelection)desc=document.getSelection();if(document.selection)desc=document.selection.createRange().text;void(open('http://www.facebook.com/share.php?u='+encodeURIComponent(location.href)));"><img alt="facebook" src="xslgip/unit001/images/facebook.gif"></a></li>
+<li><a title="twitter" href="javascript:void(window.open('http://twitter.com/home/?status='.concat(encodeURIComponent(document.title)).concat(' ').concat(encodeURIComponent(location.href))));"><img alt="twitter" src="xslgip/unit001/images/twitter.gif"></a></li>
+</ul>
+</h2>
+<h3>105年度廉政署法定預算書<span class="date">105/03/01</span></h3><br><div class="download">
+<h3>附件下載</h3>
+<ul>
+<li><a target="_nwGIP" href="HitCounter.asp?xItem=424161&ixCuAttach=138680" title="105年度廉政署法定預算書(PDF).pdf(開啟新視窗)">105年度廉政署法定預算書(PDF)</a><span class="note">(下載次數：138 次)</span></li>
+<li><a target="_nwGIP" href="HitCounter.asp?xItem=424161&ixCuAttach=138681" title="105年度廉政署法定預算書(XML).(開啟新視窗)">105年度廉政署法定預算書(XML)</a><span class="note">(下載次數：15 次)</span></li>
+</ul>
+</div><br><div><span class="btn_reset">點閱次數：109</span></div>
+</div>
+<div class="quickLink" xmlns="">
+<ul>
+<li><a href="#top" class="gotop"><img src="xslGip/unit001/images/top.png" alt="回本頁上方" title="回本頁上方"></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<div id="zone.footer">
+<div class="sildeCtrl" id="MapLink" xmlns="">
+<table summary="layout table">
+<tr>
+<td>
+<ul>
+<li><a href="np.asp?ctNode=27326&mp=001" title="法務部簡介">法務部簡介</a><ul>
+<li><a href="np.asp?ctNode=27888&mp=001" title="認識法務部">認識法務部</a></li>
+<li><a href="np.asp?ctNode=27889&mp=001" title="組織架構">組織架構</a></li>
+<li><a href="np.asp?ctNode=28122&mp=001" title="重大政策">重大政策</a></li>
+<li><a href="np.asp?ctNode=27335&mp=001" title="施政重點">施政重點</a></li>
+<li><a href="np.asp?ctNode=27609&mp=001" title="重要措施">重要措施</a></li>
+<li><a href="np.asp?ctNode=27334&mp=001" title="所屬機關介紹">所屬機關介紹</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="np.asp?ctNode=27975&mp=001" title="法務資料庫">法務資料庫</a><ul>
+<li><a href="http://www.moj.gov.tw/mp302.html" target="_nwGip" title="犯罪防治研究資料庫">犯罪防治研究資料庫</a></li>
+<li><a href="np.asp?ctNode=37231&mp=001" title="司法保護資料庫">司法保護資料庫</a></li>
+<li><a href="http://www.moj.gov.tw/trans/a_trans.html" target="_nwGip" title="學校法治教育人才資料庫">學校法治教育人才資料庫</a></li>
+<li><a href="http://www.moj.gov.tw/trans/b_trans.html" target="_nwGip" title="社區法律推廣人才資料庫">社區法律推廣人才資料庫</a></li>
+<li><a href="np.asp?ctNode=27977&mp=001" title="出版品">出版品</a></li>
+</ul>
+</li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="np.asp?ctNode=27954&mp=001" title="線上服務e點通">線上服務e點通</a><ul>
+<li><a href="np.asp?ctNode=27955&mp=001" title="查詢系統">查詢系統</a></li>
+<li><a href="np.asp?ctNode=27957&mp=001" title="線上申辦">線上申辦</a></li>
+<li><a href="https://www.moj.gov.tw/bbssp.asp?xdurl=mojBossmail.asp&mp=001" title="我要留言">我要留言</a></li>
+<li><a href="lp.asp?ctNode=27960&CtUnit=9177&BaseDSD=7&mp=001" title="申訴窗口">申訴窗口</a></li>
+<li><a href="np.asp?ctNode=27961&mp=001" title="法律諮詢資源">法律諮詢資源</a></li>
+<li><a href="np.asp?ctNode=27962&mp=001" title="外國人資訊服務網">外國人資訊服務網</a></li>
+<li><a href="lp.asp?ctNode=27964&CtUnit=18&BaseDSD=7&mp=001" title="陳情處理規定">陳情處理規定</a></li>
+<li><a href="lp.asp?ctNode=27965&CtUnit=8026&BaseDSD=7&mp=001" title="特約通譯名冊">特約通譯名冊</a></li>
+<li><a href="lp.asp?ctNode=27967&CtUnit=7586&BaseDSD=7&mp=001" title="就業資訊">就業資訊</a></li>
+<li><a href="lp.asp?ctNode=27968&CtUnit=6433&BaseDSD=7&mp=001" title="消費者保護">消費者保護</a></li>
+</ul>
+</li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="np.asp?ctNode=27346&mp=001" title="資訊公開">資訊公開</a><ul>
+<li><a href="np.asp?ctNode=27453&mp=001" title="政府資訊公開服務">政府資訊公開服務</a></li>
+<li><a href="np.asp?ctNode=28057&mp=001" title="應主動公開資訊">應主動公開資訊</a></li>
+<li><a href="lp.asp?ctNode=28053&CtUnit=7412&BaseDSD=7&mp=001" title="訴願決定書查詢">訴願決定書查詢</a></li>
+<li><a href="lp.asp?ctNode=36912&CtUnit=9196&BaseDSD=7&mp=001" title="法務研究計畫與成果">法務研究計畫與成果</a></li>
+<li><a href="np.asp?ctNode=33365&mp=001" title="遊說資訊專區">遊說資訊專區</a></li>
+<li><a href="np.asp?ctNode=27454&mp=001" title="電子公布欄">電子公布欄</a></li>
+<li><a href="np.asp?ctNode=27455&mp=001" title="中英網站專有名詞對照">中英網站專有名詞對照</a></li>
+<li><a href="http://www.poi.moj.gov.tw/" target="_nwGip" title="法務資訊系統架構(資訊的力量)">法務資訊系統架構(資訊的力量)</a></li>
+<li><a href="np.asp?ctNode=27458&mp=001" title="資訊安全行政規則">資訊安全行政規則</a></li>
+<li><a href="http://service.moj.gov.tw/reqinfo/" target="_nwGip" title="人民申請提供政府資訊案件統計">人民申請提供政府資訊案件統計</a></li>
+<li><a href="np.asp?ctNode=33532&mp=001" title="檢察官評鑑委員會專區">檢察官評鑑委員會專區</a></li>
+<li><a href="lp.asp?ctNode=44550&CtUnit=17925&BaseDSD=7&mp=001" title="檢察官人事審議委員會獎懲案件決議公告專區">檢察官人事審議委員會獎懲案件決議公告專區</a></li>
+<li><a href="lp.asp?ctNode=31791&CtUnit=11504&BaseDSD=7&mp=001" title="內部控制專區">內部控制專區</a></li>
+<li><a href="lp.asp?ctNode=32095&CtUnit=11740&BaseDSD=7&mp=001" title="政策宣導廣告經費彙整">政策宣導廣告經費彙整</a></li>
+<li><a href="np.asp?ctNode=32807&mp=001" title="請託關說登錄查察專區">請託關說登錄查察專區</a></li>
+<li><a href="np.asp?ctNode=33223&mp=001" title="性別主流化專區">性別主流化專區</a></li>
+<li><a href="lp.asp?ctNode=33979&CtUnit=13080&BaseDSD=7&mp=001" title="行動化應用軟體服務績效">行動化應用軟體服務績效</a></li>
+<li><a href="np.asp?ctNode=37018&mp=001" title="黑心油品事件專區">黑心油品事件專區</a></li>
+<li><a href="lp.asp?ctNode=38766&CtUnit=15519&BaseDSD=7&mp=001" title="貪污治罪條例第4條第1項第3款案例分享">貪污治罪條例第4條第1項第3款案例分享</a></li>
+<li><a href="np.asp?ctNode=42924&mp=001" title="法務部獎項（勵）專區">法務部獎項（勵）專區</a></li>
+</ul>
+</li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="np.asp?ctNode=27985&mp=001" title="法治視窗">法治視窗</a><ul>
+<li><a href="np.asp?ctNode=27986&mp=001" title="法律資源">法律資源</a></li>
+<li><a href="np.asp?ctNode=30925&mp=001" title="法律推廣">法律推廣</a></li>
+<li><a href="np.asp?ctNode=30930&mp=001" title="重大犯罪專論與趨勢分析">重大犯罪專論與趨勢分析</a></li>
+<li><a href="np.asp?ctNode=27991&mp=001" title="公務員廉政倫理規範">公務員廉政倫理規範</a></li>
+<li><a href="lp.asp?ctNode=28250&CtUnit=9342&BaseDSD=7&mp=001" title="中央廉政委員會">中央廉政委員會</a></li>
+<li><a href="lp.asp?ctNode=28249&CtUnit=9341&BaseDSD=7&mp=001" title="國家廉政建設行動方案">國家廉政建設行動方案</a></li>
+<li><a href="lp.asp?ctNode=31318&CtUnit=11130&BaseDSD=7&mp=001" title="法眼明察獎專區">法眼明察獎專區</a></li>
+<li><a href="lp.asp?ctNode=31115&CtUnit=11020&BaseDSD=7&mp=001" title="本部廉政會報">本部廉政會報</a></li>
+<li><a href="np.asp?ctNode=27992&mp=001" title="法治Q＆A">法治Q＆A</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="http://www.rjsd.moj.gov.tw" target="_nwGip" title="法務統計">法務統計</a><ul>
+</ul>
+</li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="np.asp?ctNode=27347&mp=001" title="下載專區">下載專區</a><ul>
+<li><a href="lp.asp?ctNode=27496&CtUnit=8021&BaseDSD=7&mp=001" title="Youtube影音下載">Youtube影音下載</a></li>
+<li><a href="lp.asp?ctNode=27485&CtUnit=9384&BaseDSD=7&mp=001" title="動畫下載(Video)">動畫下載(Video)</a></li>
+<li><a href="lp.asp?ctNode=28305&CtUnit=8321&BaseDSD=7&mp=001" title="影音下載(Audio)">影音下載(Audio)</a></li>
+<li><a href="http://www.moj.gov.tw/sp.asp?xdurl=album/NewsPhotoList.asp&mp=001" title="焦點新聞圖片區">焦點新聞圖片區</a></li>
+<li><a href="np.asp?ctNode=37352&mp=001" title="宣導資料下載">宣導資料下載</a></li>
+<li><a href="http://aedoc.moj.gov.tw/attch/" target="_nwGip" title="公文檔案附件下載系統">公文檔案附件下載系統</a></li>
+<li><a href="np.asp?ctNode=29573&mp=001" title="網站連結圖示">網站連結圖示</a></li>
+<li><a href="sp.asp?xdurl=album/albumList.asp&mp=001" title="網路相簿">網路相簿</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="np.asp?ctNode=" title=""></a><ul>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<div class="footer" xmlns="">
+<div class="visitor">
+<ul>
+<li>最近更新日期 : <em>105/11/04</em></li>
+<li>瀏覽人次：<span>21104955</span>人</li>
+</ul>
+</div><DIV class=copyright>
+<UL>
+<LI><A target="_nwMof" href="http://www.moj.gov.tw/ct.asp?xItem=28285&CtNode=27589" target=_nwMof>隱私權保護宣告</A></LI>
+<LI><A target="_nwMof" href="http://www.moj.gov.tw/np.asp?ctNode=27458" target=_nwMof>資訊安全政策宣告</A></LI>
+<LI><A href="https://www.moj.gov.tw/bbssp.asp?xdurl=mojBossmail.asp&mp=001" target=_nwMof>意見信箱</A></LI>
+<LI><A target="_nwMof" href="http://www.moj.gov.tw/ct.asp?xItem=193354&CtNode=27589" target=_nwMof>資料開放宣告</A></LI>
+<LI><A target="_nwMof" href="http://www.moj.gov.tw/content.asp?CuItem=186314" target=_nwMof>辦公時間</A></LI></UL></DIV>
+<P>法務部：10048 台北市重慶南路一段130號　電話：(02)2191-0189 <A target="_nwMof" href="http://www.moj.gov.tw/ct.asp?xItem=185221&CtNode=27589" target=_nwMof>交通資訊</A><BR>第二辦公室：10048 台北市貴陽街1段235號　電話：(02)2191-0189 <A target="_nwMof" href="http://www.moj.gov.tw/ct.asp?xItem=185215&CtNode=27589" target=_nwMof>交通資訊</A><BR>建議使用IE 9.0 以上版本　最佳觀看解析度1024x768 </P>
+<DIV class=aaa><A href="https://www.youtube.com/user/wwwmoj/about"><IMG title=法務部youtube(另開視窗) alt=youtube圖檔 src="http://www.moj.gov.tw/site/moj/public/MMO/moj/YouTube-avatar-generic%20(6).png" target="_gipNW" MMOID="401479"></A> <A href="https://plus.google.com/108235727840404172266#1082357278"><IMG title=法務部googl+(另開視窗)(另開視窗) alt=google+圖檔 src="http://www.moj.gov.tw/site/moj/public/MMO/moj/g-plus250.png" target="_gipNW" MMOID="401480"></A></A> <A target="_nwMof" href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20160603105435" title="無障礙網站" target=_nwMof><IMG alt=無障礙標章，本網站通過A+優先等級無障礙網頁檢測 src="http://www.moj.gov.tw/site/moj/public/MMO/moj/enable_aplus.jpg" MMOID="57104" border="0" width="88" height="31" ></A></DIV>
+<DIV class=egov><A target="_nwMof" href="http://www.gov.tw/" target=_nwMof><IMG alt=egov src="http://www.moj.gov.tw/site/moj/public/MMO/moj/egov.jpg"></A></DIV></div>
+</div>
+</div>
+</body>
+</html>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33007812-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https:/s/ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>

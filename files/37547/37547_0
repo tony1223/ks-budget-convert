@@ -1,0 +1,394 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="accessible_website" content="本網站符合a+等級無障礙網頁設計標準" /><title>
+	雲林縣警察局全球資訊網-公布欄-資料開放
+</title><link rel="govtwsimpledc.xsd" href="http://www.gov.tw/schema/dc/" title="Dublin Core" />
+<meta name="og:site_name"      content="雲林縣警察局全球資訊網" />
+<meta name="og:image"          content="http://www.ylhpb.gov.tw/images/img.jpg" />
+<meta name="og:title"          content="雲林縣警察局單位預算彙整表(資料開放-雲林縣警察局全球資訊網)" />
+<meta name="og:description"       content="業務單位：會計室雲林縣警察局單位預算彙整表" />
+<meta name="og:url"            content="http://www.ylhpb.gov.tw/form/Details.aspx?Parser=28,3,845,,,,380,63" />
+<meta name="og:type"           content="website" />
+<meta name="DC.Title"          content="雲林縣警察局全球資訊網" />
+<meta name="DC.Creator"        content="雲林縣警察局全球資訊網" />
+<meta name="DC.Subject"        content="雲林縣警察局單位預算彙整表" />
+<meta name="DC.Description"    content="業務單位：會計室雲林縣警察局單位預算彙整表" />
+<meta name="DC.Contributor"    content="雲林縣警察局全球資訊網" />
+<meta name="DC.Type"           content="text/html" />
+<meta name="DC.Format"         content="text" />
+<meta name="DC.Source"         content="雲林縣警察局全球資訊網" />
+<meta name="DC.Language"       content="中文" />
+<meta name="DC.coverage.t.max" content="2016-11-07" />
+<meta name="DC.coverage.t.min" content="2017-12-31" />
+<meta name="DC.Publisher"      content="雲林縣警察局全球資訊網" />
+<meta name="DC.Date"           content="2016-10-14" />
+<meta name="DC.Identifier"     content="376490200C" />
+<meta name="DC.Relation"       content="GIP-EY-LP-090730-MP01" />
+<meta name="DC.Rights"         content="雲林縣警察局全球資訊網" />
+<meta name="Category.Theme"    content="170,1Z0,100" />
+<meta name="Category.Service"  content="I00,I60,IZ0" />
+<meta name="Category.Cake"     content="100,140,142,14Z" />
+<meta name="Keywords"          content="雲林縣警察局全球資訊網 公布欄 資料開放 雲林縣警察局單位預算彙整表" />
+
+<script src="/Scripts/jquery.min.js" type="text/javascript"></script>
+<script src="/Content/df_js/menu.js" type="text/javascript"></script>
+<script src="/Content/df_js/bootstrap.js" type="text/javascript"></script>
+<script src="/Content/df_js/ekko-lightbox.js" type="text/javascript"></script>
+<script src="/Content/df_js/ChangeFontSize.js" type="text/javascript"></script>
+<script src="/Content/df_js/fancybox/jquery.mousewheel-3.0.4.pack.js" type="text/javascript"></script>
+<script src="/Content/df_js/fancybox/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
+<script src="/Content/df_js/readyfun.js" type="text/javascript"></script>
+<link href="../Content/aspnet.css" rel="stylesheet" type="text/css" />
+<link href="/css/layout.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div id="FontSizeArea">
+        <div class="Gotop">TOP</div>
+        <div id="header">
+    <div class="top">
+        <div id="logo">
+            <a href="../home.aspx" title="雲林縣警察局全球資訊網(回首頁)"></a>
+        </div>
+        <div class="menu_navigation">
+            <div class="menu_nav">
+                <a href="#" accesskey="U" title="上方區域" class="ace">:::</a>｜<a href="../sitemap/index.aspx?Parser=99,13,86">網站導覽</a>｜<a href="../content/index.aspx?Parser=1,12,83">檢索查詢</a>｜<a href="../links/index.aspx?Parser=12,11,82">相關連結</a>｜<a href="../home.aspx">回首頁</a>
+                <ul class="fontsize">
+                    字型：
+                    <li class="type"><a href="javascript:" title="A-" id="fontSizeS">小</a></li>
+                    <li class="type"><a href="javascript:" title="A" id="fontSizeM">中</a></li>
+                    <li class="type"><a href="javascript:" title="A+" id="fontSizeL">大</a></li>
+                    <br />
+                </ul>
+                <!--fontsize-->
+            </div>
+			
+                    <noscript class="no_txt">變更字變大小不影響資料瀏覽，替方式 [檢視]->[字型]->選擇[較大<br />、中、較小] 。或[Ctrl]+[+]放大，[Ctrl]+[-] 縮小</noscript>
+			
+        </div>
+        <div style="clear:both"></div>
+        <!--clean-->
+    </div>
+    <div id="main_menu">
+        <div id="menu_bth" style="position:relative">
+            <div class="b">
+                <i class="b1"></i>
+                <i class="b2"></i>
+                <i class="b3"></i>
+            </div>
+        </div>
+        <ul class="top_menu clearfix">
+            <li  style='background: url(../images/menu_hover.png);'><a href="../latestevent/index.aspx?Parser=9,3,30">公布欄</a> </li>
+            <li ><a href="../content/index.aspx?Parser=1,4,37">本局簡介</a></li>
+            <li ><a href="../latestevent/index.aspx?Parser=9,5,42">預防宣導</a></li>
+            <li ><a href="../pmail/index.aspx?Parser=1,6,93,49">民意廣場</a></li>
+            <li ><a href="../form/index.aspx?Parser=2,7,53">便民服務</a></li>
+            <li ><a href="../form/index.aspx?Parser=2,8,61">政府公開資訊</a></li>
+            <li ><a href="../form/index.aspx?Parser=2,9,71">主題專區</a></li>
+            <li ><a href="../gallery/index.aspx?Parser=16,10,79" style="background:none;">影音出版品</a></li>
+        </ul>
+        
+<ul class="menu2 mobile_menu">
+<li class="sub_menu" ><a   title="公布欄" href="../latestevent/index.aspx?Parser=9,3,30" >公布欄</a><div class="menu_icon"></div><div class="menu_icon-"></div></li>
+    <ul class="sub_sub" >
+  <li  class="sub_menu2 " ><a   title='警政消息'  href='../latestevent/index.aspx?Parser=9,3,30' >警政消息</a></li>
+  <li  class="sub_menu2 " ><a   title='公告資訊'  href='../latestevent/index.aspx?Parser=22,3,31' >公告資訊</a></li>
+  <li  class="sub_menu2 " ><a   title='公益勸募'  href='../latestevent/index.aspx?Parser=9,3,32' >公益勸募</a></li>
+  <li  class="sub_menu2 " ><a   title='活動訊息'  href='../latestevent/index.aspx?Parser=22,3,33' >活動訊息</a></li>
+  <li  class="sub_menu2 " ><a   title='人事動態'  href='../latestevent/index.aspx?Parser=9,3,35' >人事動態</a></li>
+  <li  class="sub_menu2 " ><a   title='資料開放'  href='../form/index.aspx?Parser=28,3,845' >資料開放</a></li>
+  </ul>
+<li class="sub_menu" ><a   title="本局簡介" href="../content/index.aspx?Parser=1,4,37" >本局簡介</a><div class="menu_icon"></div><div class="menu_icon-"></div></li>
+    <ul class="sub_sub" >
+  <li  class="sub_menu2 " ><a   title='轄區概況'  href='../content/index.aspx?Parser=1,4,37' >轄區概況</a></li>
+  <li  class="sub_menu2 " ><a   title='首長簡介'  href='../content/index.aspx?Parser=1,4,90,36' >首長簡介</a><div class="menu_icon"></div><div class="menu_icon-"></div></li>
+    <ul class="sub_sub2" >
+     <li class="sub_menu3 "><a  title="局長簡介"  href="../content/index.aspx?Parser=1,4,90,36">局長簡介</a></li>
+     <li class="sub_menu3 "><a  title="副局長簡介"  href="../content/index.aspx?Parser=1,4,91,36">副局長簡介</a></li>
+    </ul>
+  <li  class="sub_menu2 " ><a   title='組織編制'  href='../content/index.aspx?Parser=1,4,827' >組織編制</a></li>
+  <li  class="sub_menu2 " ><a   title='各單位介紹'  href='../content/index.aspx?Parser=1,4,38' >各單位介紹</a></li>
+  <li  class="sub_menu2 " ><a   title='交通位置'  href='../content/index.aspx?Parser=1,4,39' >交通位置</a></li>
+  <li  class="sub_menu2 " ><a   title='各單位聯絡電話'  href='../content_type/index.aspx?Parser=15,4,40' >各單位聯絡電話</a></li>
+  <li  class="sub_menu2 " ><a   title='各分局及直屬隊網站'  href='../content/index.aspx?Parser=1,4,41' >各分局及直屬隊網站</a></li>
+  <li  class="sub_menu2 " ><a  mhit=860  title='本局史蹟文物館(另開視窗)' target="_blark" href='http://ylhpb2038.pixnet.net/blog' >本局史蹟文物館</a></li>
+  </ul>
+<li class="sub_menu" ><a   title="預防宣導" href="../latestevent/index.aspx?Parser=9,5,42" >預防宣導</a><div class="menu_icon"></div><div class="menu_icon-"></div></li>
+    <ul class="sub_sub" >
+  <li  class="sub_menu2 " ><a   title='犯罪預防宣導'  href='../latestevent/index.aspx?Parser=9,5,42' >犯罪預防宣導</a></li>
+  <li  class="sub_menu2 " ><a   title='交通安全宣導'  href='../latestevent/index.aspx?Parser=9,5,43' >交通安全宣導</a></li>
+  <li  class="sub_menu2 " ><a   title='婦幼安全宣導'  href='../latestevent/index.aspx?Parser=9,5,44' >婦幼安全宣導</a></li>
+  <li  class="sub_menu2 " ><a   title='少年安全宣導'  href='../latestevent/index.aspx?Parser=9,5,45' >少年安全宣導</a></li>
+  <li  class="sub_menu2 " ><a   title='保防宣導'  href='../latestevent/index.aspx?Parser=9,5,46' >保防宣導</a></li>
+  <li  class="sub_menu2 " ><a   title='防制人口販運及外僑安全宣導'  href='../latestevent/index.aspx?Parser=9,5,47' >防制人口販運及外僑安全宣導</a></li>
+  <li  class="sub_menu2 " ><a   title='政風防貪宣導'  href='../latestevent/index.aspx?Parser=9,5,48' >政風防貪宣導</a></li>
+  </ul>
+<li class="sub_menu" ><a   title="民意廣場" href="../pmail/index.aspx?Parser=1,6,93,49" >民意廣場</a><div class="menu_icon"></div><div class="menu_icon-"></div></li>
+    <ul class="sub_sub" >
+  <li  class="sub_menu2 " ><a   title='局長信箱'  href='../pmail/index.aspx?Parser=1,6,93,49' >局長信箱</a><div class="menu_icon"></div><div class="menu_icon-"></div></li>
+    <ul class="sub_sub2" >
+     <li class="sub_menu3 "><a  title="我要寫信"  href="../pmail/index.aspx?Parser=1,6,93,49">我要寫信</a></li>
+     <li class="sub_menu3 "><a  title="案件查詢"  href="../pmail/query.aspx?Parser=99,6,94,49">案件查詢</a></li>
+     <li class="sub_menu3 "><a  title="未確認信件"  href="../pmail/unconfirm.aspx?Parser=99,6,95,49">未確認信件</a></li>
+    </ul>
+  <li  class="sub_menu2 " ><a   title='檢舉專區'  href='../pmail/index.aspx?Parser=1,6,101,50,97' >檢舉專區</a><div class="menu_icon"></div><div class="menu_icon-"></div></li>
+    <ul class="sub_sub2" >
+     <li class="sub_menu3 "><a  title="民眾意見反映"  href="../pmail/index.aspx?Parser=1,6,101,50,97">民眾意見反映</a><div class="menu_icon"></div><div class="menu_icon-"></div></li>
+     <ul class="sub_sub3" >
+      <li class="sub_menu3 "><a  title="我要寫信"  href="../pmail/index.aspx?Parser=1,6,101,50,97" >我要寫信</a><div class="menu_icon"></div><div class="menu_icon-"></div><li>
+      <li class="sub_menu3 "><a  title="案件查詢"  href="../pmail/query.aspx?Parser=99,6,102,50,97" >案件查詢</a><div class="menu_icon"></div><div class="menu_icon-"></div><li>
+      <li class="sub_menu3 "><a  title="未確認信件"  href="../pmail/unconfirm.aspx?Parser=99,6,103,50,97" >未確認信件</a><div class="menu_icon"></div><div class="menu_icon-"></div><li>
+     </ul>
+     <li class="sub_menu3 "><a  title="檢舉人口販運"  href="../content/index.aspx?Parser=1,6,99,50">檢舉人口販運</a></li>
+     <li class="sub_menu3 "><a  title="檢舉盜採砂石"  href="../pmail/index.aspx?Parser=99,6,105,50,100">檢舉盜採砂石</a><div class="menu_icon"></div><div class="menu_icon-"></div></li>
+     <ul class="sub_sub3" >
+      <li class="sub_menu3 "><a  title="我要寫信"  href="../pmail/index.aspx?Parser=99,6,105,50,100" >我要寫信</a><div class="menu_icon"></div><div class="menu_icon-"></div><li>
+      <li class="sub_menu3 "><a  title="案件查詢"  href="../pmail/query.aspx?Parser=99,6,106,50,100" >案件查詢</a><div class="menu_icon"></div><div class="menu_icon-"></div><li>
+      <li class="sub_menu3 "><a  title="未確認信件"  href="../pmail/unconfirm.aspx?Parser=99,6,107,50,100" >未確認信件</a><div class="menu_icon"></div><div class="menu_icon-"></div><li>
+     </ul>
+     <li class="sub_menu3 "><a  mhit=840 title="檢舉交通違規(另開視窗)" target="_blark" href="http://www.ylhpb.gov.tw/Sub/traffic/index.aspx?Parser=99,28,796,599">檢舉交通違規</a></li>
+    </ul>
+  <li  class="sub_menu2 " ><a   title='民意論壇'  href='../guest/index.aspx?Parser=99,6,51' >民意論壇</a></li>
+  <li  class="sub_menu2 " ><a   title='FAQ'  href='../faq/index.aspx?Parser=27,6,805,52' >FAQ</a><div class="menu_icon"></div><div class="menu_icon-"></div></li>
+    <ul class="sub_sub2" >
+     <li class="sub_menu3 "><a  title="常見問題"  href="../faq/index.aspx?Parser=27,6,805,52">常見問題</a></li>
+     <li class="sub_menu3 "><a  title="我要發問"  href="../guest/index.aspx?Parser=99,6,806,52">我要發問</a></li>
+    </ul>
+  </ul>
+<li class="sub_menu" ><a   title="便民服務" href="../form/index.aspx?Parser=2,7,53" >便民服務</a><div class="menu_icon"></div><div class="menu_icon-"></div></li>
+    <ul class="sub_sub" >
+  <li  class="sub_menu2 " ><a   title='便民服務相關資訊'  href='../form/index.aspx?Parser=2,7,53' >便民服務相關資訊</a></li>
+  <li  class="sub_menu2 " ><a   title='民眾申辦服務須知'  href='../form/index.aspx?Parser=2,7,54' >民眾申辦服務須知</a></li>
+  <li  class="sub_menu2 " ><a   title='民眾檔案下載'  href='../form/index.aspx?Parser=28,7,55' >民眾檔案下載</a></li>
+  <li  class="sub_menu2 " ><a   title='受理110報案'  href='../content/index.aspx?Parser=1,7,56' >受理110報案</a></li>
+  <li  class="sub_menu2 " ><a   title='線上申辦服務'  href='../content/index.aspx?Parser=1,7,111,57' >線上申辦服務</a><div class="menu_icon"></div><div class="menu_icon-"></div></li>
+    <ul class="sub_sub2" >
+     <li class="sub_menu3 "><a  title="申請身心障礙及年長者自願指紋捺印"  href="../content/index.aspx?Parser=1,7,111,57">申請身心障礙及年長者自願指紋捺印</a></li>
+     <li class="sub_menu3 "><a  mhit=851 title="申請犯罪預防宣導活動(另開視窗)" target="_blark" href="/Sub/tfcsafe/index.aspx?Parser=99,27,794,533">申請犯罪預防宣導活動</a></li>
+     <li class="sub_menu3 "><a  mhit=852 title="申請交通安全宣導活動(另開視窗)" target="_blark" href="/Sub/tfcsafe/index.aspx?Parser=99,28,795,599">申請交通安全宣導活動</a></li>
+     <li class="sub_menu3 "><a  title="申請舉家外出安全維護服務"  href="../content/index.aspx?Parser=1,7,836,57">申請舉家外出安全維護服務</a></li>
+     <li class="sub_menu3 "><a  title="申請警察局參訪預約"  href="../content/index.aspx?Parser=1,7,837,57">申請警察局參訪預約</a></li>
+     <li class="sub_menu3 "><a  title="其他申辦服務"  href="../links/index.aspx?Parser=11,7,112,57">其他申辦服務</a></li>
+    </ul>
+  <li  class="sub_menu2 " ><a   title='便民查詢'  href='../form/index.aspx?Parser=2,7,58' >便民查詢</a></li>
+  <li  class="sub_menu2 " ><a   title='服務滿意調查'  href='../question/index.aspx?Parser=99,7,59' >服務滿意調查</a></li>
+  <li  class="sub_menu2 " ><a   title='治安熱區圖'  href='../form/index.aspx?Parser=2,7,856,855' >治安熱區圖</a><div class="menu_icon"></div><div class="menu_icon-"></div></li>
+    <ul class="sub_sub2" >
+     <li class="sub_menu3 "><a  title="汽機車失竊"  href="../form/index.aspx?Parser=2,7,856,855">汽機車失竊</a></li>
+     <li class="sub_menu3 "><a  title="一般竊盜"  href="../form/index.aspx?Parser=2,7,857,855">一般竊盜</a></li>
+     <li class="sub_menu3 "><a  title="婦幼安全"  href="../form/index.aspx?Parser=2,7,858,855">婦幼安全</a></li>
+    </ul>
+  </ul>
+<li class="sub_menu" ><a   title="政府公開資訊" href="../form/index.aspx?Parser=2,8,61" >政府公開資訊</a><div class="menu_icon"></div><div class="menu_icon-"></div></li>
+    <ul class="sub_sub" >
+  <li  class="sub_menu2 " ><a   title='中央與地方法規命令'  href='../form/index.aspx?Parser=2,8,61' >中央與地方法規命令</a></li>
+  <li  class="sub_menu2 " ><a   title='本局法令園地'  href='../latestevent/index.aspx?Parser=9,8,816,859' >本局法令園地</a><div class="menu_icon"></div><div class="menu_icon-"></div></li>
+    <ul class="sub_sub2" >
+     <li class="sub_menu3 "><a  title="法制業務訊息"  href="../latestevent/index.aspx?Parser=9,8,816,859">法制業務訊息</a></li>
+     <li class="sub_menu3 "><a  title="主管自治法規"  href="../latestevent/index.aspx?Parser=9,8,813,859">主管自治法規</a></li>
+     <li class="sub_menu3 "><a  title="法令宣導影片"  href="../video/index.aspx?Parser=17,8,814,859">法令宣導影片</a></li>
+     <li class="sub_menu3 "><a  title="法令園地"  href="../form/index.aspx?Parser=2,8,815,859">法令園地</a></li>
+    </ul>
+  <li  class="sub_menu2 " ><a   title='解釋性規定及裁量基準'  href='../form/index.aspx?Parser=2,8,62' >解釋性規定及裁量基準</a></li>
+  <li  class="sub_menu2 " ><a   title='組織職掌及聯絡資訊'  href='../form/index.aspx?Parser=2,8,63' >組織職掌及聯絡資訊</a></li>
+  <li  class="sub_menu2 " ><a   title='行政指導有關文書'  href='../form/index.aspx?Parser=2,8,64' >行政指導有關文書</a></li>
+  <li  class="sub_menu2 " ><a   title='施政計劃'  href='../form/index.aspx?Parser=2,8,65' >施政計劃</a></li>
+  <li  class="sub_menu2 " ><a   title='請、訴願處理結果與決定'  href='../form/index.aspx?Parser=2,8,66' >請、訴願處理結果與決定</a></li>
+  <li  class="sub_menu2 " ><a   title='預算及決算書'  href='../form/index.aspx?Parser=2,8,67' >預算及決算書</a></li>
+  <li  class="sub_menu2 " ><a   title='警政統計'  href='../latestevent/index.aspx?Parser=22,8,846' >警政統計</a></li>
+  <li  class="sub_menu2 " ><a   title='公務統計報表'  href='../latestevent/index.aspx?Parser=22,8,848,847' >公務統計報表</a><div class="menu_icon"></div><div class="menu_icon-"></div></li>
+    <ul class="sub_sub2" >
+     <li class="sub_menu3 "><a  title="警政統計報表"  href="../latestevent/index.aspx?Parser=22,8,848,847">警政統計報表</a></li>
+     <li class="sub_menu3 "><a  title="共同性統計"  href="../latestevent/index.aspx?Parser=22,8,849,847">共同性統計</a></li>
+    </ul>
+  <li  class="sub_menu2 " ><a   title='相關補助資訊'  href='../form/index.aspx?Parser=2,8,68' >相關補助資訊</a></li>
+  <li  class="sub_menu2 " ><a   title='公共工程及採購'  href='../form/index.aspx?Parser=2,8,69' >公共工程及採購</a></li>
+  <li  class="sub_menu2 " ><a   title='合議制機關之會議紀錄'  href='../content/index.aspx?Parser=1,8,70' >合議制機關之會議紀錄</a></li>
+  </ul>
+<li class="sub_menu" ><a   title="主題專區" href="../form/index.aspx?Parser=2,9,71" >主題專區</a><div class="menu_icon"></div><div class="menu_icon-"></div></li>
+    <ul class="sub_sub" >
+  <li  class="sub_menu2 " ><a   title='個人資料保護專區'  href='../form/index.aspx?Parser=2,9,71' >個人資料保護專區</a></li>
+  <li  class="sub_menu2 " ><a  mhit=72  title='人權大步走(兩公約)專區(另開視窗)' target="_blark" href='http://www.humanrights.moj.gov.tw/' >人權大步走(兩公約)專區</a></li>
+  <li  class="sub_menu2 " ><a   title='性騷擾防治'  href='../content/index.aspx?Parser=1,9,73' >性騷擾防治</a></li>
+  <li  class="sub_menu2 " ><a   title='雲林警政APP'  href='../content/index.aspx?Parser=1,9,74' >雲林警政APP</a></li>
+  <li  class="sub_menu2 " ><a   title='Facebook粉絲專頁'  href='../content/index.aspx?Parser=1,9,75' >Facebook粉絲專頁</a></li>
+  <li  class="sub_menu2 " ><a   title='退警專區'  href='../content/index.aspx?Parser=1,9,800,76' >退警專區</a><div class="menu_icon"></div><div class="menu_icon-"></div></li>
+    <ul class="sub_sub2" >
+     <li class="sub_menu3 "><a  title="協會簡介"  href="../content/index.aspx?Parser=1,9,800,76">協會簡介</a></li>
+     <li class="sub_menu3 "><a  title="組織介紹"  href="../content/index.aspx?Parser=1,9,801,76">組織介紹</a></li>
+     <li class="sub_menu3 "><a  title="會務訊息"  href="../latestevent/index.aspx?Parser=9,9,802,76">會務訊息</a></li>
+     <li class="sub_menu3 "><a  title="檔案下載"  href="../form/index.aspx?Parser=2,9,803,76">檔案下載</a></li>
+     <li class="sub_menu3 "><a  title="退休所得試算"  href="../content/index.aspx?Parser=1,9,804,76">退休所得試算</a></li>
+    </ul>
+  <li  class="sub_menu2 " ><a   title='春安工作專區'  href='../latestevent/index.aspx?Parser=9,9,77' >春安工作專區</a></li>
+  <li  class="sub_menu2 " ><a   title='警政服務APP下載'  href='../content/index.aspx?Parser=1,9,78' >警政服務APP下載</a></li>
+  </ul>
+<li class="sub_menu" ><a   title="影音出版品" href="../gallery/index.aspx?Parser=16,10,79" >影音出版品</a><div class="menu_icon"></div><div class="menu_icon-"></div></li>
+    <ul class="sub_sub" >
+  <li  class="sub_menu2 " ><a   title='活動相簿'  href='../gallery/index.aspx?Parser=16,10,79' >活動相簿</a></li>
+  <li  class="sub_menu2 " ><a   title='雲警線上影音'  href='../video/index.aspx?Parser=17,10,80' >雲警線上影音</a></li>
+  <li  class="sub_menu2 " ><a   title='影音多媒體'  href='../latestevent/index.aspx?Parser=9,10,81' >影音多媒體</a></li>
+  </ul>
+<li class="sub_menu" ><a   title="相關連結" href="../links/index.aspx?Parser=12,11,82" >相關連結</a><div class="menu_icon"></div><div class="menu_icon-"></div></li>
+    <ul class="sub_sub" >
+  <li  class="sub_menu2 " ><a   title='相關連結'  href='../links/index.aspx?Parser=12,11,82' >相關連結</a></li>
+  </ul>
+<li class="sub_menu" ><a   title="檢索查詢" href="../content/index.aspx?Parser=1,12,83" >檢索查詢</a><div class="menu_icon"></div><div class="menu_icon-"></div></li>
+    <ul class="sub_sub" >
+  <li  class="sub_menu2 " ><a   title='檢索方式說明'  href='../content/index.aspx?Parser=1,12,83' >檢索方式說明</a></li>
+  <li  class="sub_menu2 " ><a   title='全文檢索'  href='../search/index.aspx?Parser=99,12,84' >全文檢索</a></li>
+  <li  class="sub_menu2 " ><a   title='分類檢索'  href='../search1/index.aspx?Parser=99,12,85' >分類檢索</a></li>
+  </ul>
+<li class="sub_menu" ><a   title="網站導覽" href="../sitemap/index.aspx?Parser=99,13,86" >網站導覽</a><div class="menu_icon"></div><div class="menu_icon-"></div></li>
+    <ul class="sub_sub" >
+  <li  class="sub_menu2 " ><a   title='網站地圖'  href='../sitemap/index.aspx?Parser=99,13,86' >網站地圖</a></li>
+  <li  class="sub_menu2 " ><a   title='隱私權保護政策'  href='../content/index.aspx?Parser=1,13,87' >隱私權保護政策</a></li>
+  <li  class="sub_menu2 " ><a   title='網站安全政策'  href='../content/index.aspx?Parser=1,13,88' >網站安全政策</a></li>
+  <li  class="sub_menu2 " ><a   title='政府網站資料開放宣告'  href='../content/index.aspx?Parser=1,13,89' >政府網站資料開放宣告</a></li>
+  </ul>
+  </ul>
+        
+       
+    </div>
+    <div class="clean"></div>
+    <!--clean-->
+</div>
+
+
+        <div class="container con">
+            <div class="row">
+                <!--選單-->
+                      <div class="col-md-3 left_menu">
+          <a href="#" title="左方區域" accesskey="L" class="ace">:::</a>
+
+          <ul class="menu2 " style="display:block">
+              <div class="left_title" style="background-image:url(../images/left_title01.png);"></div>
+
+  <li  class="sub_menu " ><a   title='警政消息'  href='../latestevent/index.aspx?Parser=9,3,30' >警政消息</a></li>
+  <li  class="sub_menu " ><a   title='公告資訊'  href='../latestevent/index.aspx?Parser=22,3,31' >公告資訊</a></li>
+  <li  class="sub_menu " ><a   title='公益勸募'  href='../latestevent/index.aspx?Parser=9,3,32' >公益勸募</a></li>
+  <li  class="sub_menu " ><a   title='活動訊息'  href='../latestevent/index.aspx?Parser=22,3,33' >活動訊息</a></li>
+  <li  class="sub_menu " ><a   title='人事動態'  href='../latestevent/index.aspx?Parser=9,3,35' >人事動態</a></li>
+  <li  class="sub_menu  sub_menu-" ><a   title='資料開放'  href='../form/index.aspx?Parser=28,3,845' >資料開放</a></li>
+     
+              
+            
+          </ul>
+   <script language="javascript" type="text/jscript">
+       $(".sub_sub").hide(); $(".sub_sub2").hide(); $(".sub_sub[mshow]").show(); $(".sub_sub2[mshow]").show(); $(".sub_menu a[href$='Parser=28,3,845,,,,380,63']").focus(); $(".sub_menu2 a[href$='Parser=28,3,845,,,,380,63']").focus(); $(".sub_menu3 a[href$='Parser=28,3,845,,,,380,63']").focus();
+   </script>
+      </div>
+
+				
+                <!--選單 end-->
+                <div class="col-md-9 col-sm-12 article">
+                    <!-- content-->
+                    <div id="content">
+                <div class="article_title">
+                  <ul class="place">
+                        <li><a accesskey="C" href="#" target="_self" title="中間區域,跳過分享功能項目請按[Enter]，繼續則按[Tab]">:::</a></li>                         
+                        <li><a href="../home.aspx">首頁</a></li>
+                         &gt; <li><a title="公布欄" href="../latestevent/index.aspx?Parser=9,3,30">公布欄</a> &gt; <li><a title="資料開放" href="../form/index.aspx?Parser=28,3,845">資料開放</a></li>
+                       
+                  </ul>
+                  <div class="title_box clearfix">
+                  	<h1 >資料開放</h1>
+                    <ul class="main_bn">
+                    	<li class="type1"><a href="javascript:"  id="print_content" title="列印">列印</a></li><noscript>[CTRL]+[P]列印</noscript>
+                    	<li class="type2"><a href="../forward/forward.aspx?m=28&m1=3&m2=845&id=380&sid=63&body=http%3a%2f%2fwww.ylhpb.gov.tw%2fform%2fDetails.aspx%3fParser%3d28%2c3%2c845%2c%2c%2c%2c380%2c63"  class="showpicf" title="轉寄">轉寄</a></li>
+                    	<li class="type3"><a href="http://www.facebook.com/sharer.php?u=http%3a%2f%2fwww.ylhpb.gov.tw%2fform%2fDetails.aspx%3fParser%3d28%2c3%2c845%2c%2c%2c%2c380%2c63" title="Facebook(另開新視窗)" target="_blank"></a></li>
+                    	<li class="type4"><a href="https://plus.google.com/share?url=http%3a%2f%2fwww.ylhpb.gov.tw%2fform%2fDetails.aspx%3fParser%3d28%2c3%2c845%2c%2c%2c%2c380%2c63" title="Google+(另開新視窗)" target="_blank"></a></li>
+                    </ul>
+                  </div>
+                  
+                  
+                  
+                  
+                  
+              </div>     
+                  
+<div class="content_txt">
+<div class="content_title">雲林縣警察局單位預算彙整表</div>
+
+<span class="latestevent_date">發布單位：
+會計室 &nbsp; 
+謝銘泰
+</span><br />
+業務單位： 會計室<br />雲林縣警察局單位預算彙整表
+</div><!--content-->
+
+<div class="download">
+    <ul>
+        <div class="tab_bg">
+	    <dt class="download_t1">檔案說明</dt>
+	    <dt class="download_t2"></dt><dt class="download_t3"></dt>
+	    
+	    <dt class="download_t2">下載檔案</dt>
+	    </div>
+
+                    <li>
+	                    <span class="w1">雲林縣警察局單位預算彙整表-103年歲入來源別決算表</span>
+	                    <span class="w2"></span><span class="w3"></span>
+	                    
+	                 <dl class="file">
+	                    <dd><a  href='../df_ufiles/a/051-雲林縣警察局單位預算彙整表-103年歲入來源別決算表.xls' target='_blank' title='下載 Excel 檔(051-雲林縣警察局單位預算彙整表-103年歲入來源別決算表.xls)_另開視窗'><img src='/Content/img/d09.gif' alt='下載 Excel 檔(051-雲林縣警察局單位預算彙整表-103年歲入來源別決算表.xls)_另開視窗' width='16' height='16' border='0' align='absmiddle'></a></dd></dl>
+                    </li>
+
+                    <li>
+	                    <span class="w1">雲林縣警察局單位預算彙整表-103年歲出機關別決算表</span>
+	                    <span class="w2"></span><span class="w3"></span>
+	                    
+	                 <dl class="file">
+	                    <dd><a  href='../df_ufiles/a/051-雲林縣警察局單位預算彙整表-103年歲出機關別決算表.xls' target='_blank' title='下載 Excel 檔(051-雲林縣警察局單位預算彙整表-103年歲出機關別決算表.xls)_另開視窗'><img src='/Content/img/d09.gif' alt='下載 Excel 檔(051-雲林縣警察局單位預算彙整表-103年歲出機關別決算表.xls)_另開視窗' width='16' height='16' border='0' align='absmiddle'></a></dd></dl>
+                    </li>
+
+</ul>
+</div>
+
+
+              
+                        
+                    </div>
+                    <!--content end-->
+                </div>
+                <!--article end-->
+          <ul class="goback" >
+        	
+			<li class="icon"><a href="javascript:history.back()">回上頁</a></li>
+            |
+            <li class="icon"><a href="#">到上面</a></li>
+        </ul>
+	    <div class="clean"></div><!--clean-->
+            </div>
+        </div>
+       		<div id="footer" class="clearfix">
+
+          
+          <div class="footer_img" style=" display:inline-block; vertical-align:top">
+		  <a href="#" target="_blank" title="本網站通過無障礙A+檢測(另開新視窗)"><img src="../images/a1.jpg" alt="本網站通過無障礙AA檢測" class="p_30"></a>
+          <a href="http://www.gov.tw" target="_blank" title="E政府(另開新視窗)"><img src="../images/icon_gov.png" alt="E政府" class="p_30"></a>
+          
+          </div>
+
+          <div class="footer_main">
+               Copyright&copy; 2016雲林縣警察局版權所有｜<a href="../content/index.aspx?Parser=1,13,87">隱私權保護政策</a>｜<a href="../content/index.aspx?Parser=1,13,88">網站安全政策</a>｜<a href="../content/index.aspx?Parser=1,13,89">政府網站資料開放宣告</a><br />
+              地址：64054 雲林縣斗六市大學路三段100號<span class="footer_bth"><a href="../content/index.aspx?Parser=1,4,39">位置圖</a></span>｜電話：(05)532-2042<span class="footer_bth"><a href="../content_type/index.aspx?Parser=15,4,40">分機</a></span><br />
+              內勤單位服務時間為上午8時至下午17時30分/本局各外勤單位24小時為您服務 <br />
+              請用IE、Firefox 或Chrome瀏覽器以及1024x768 pixels解析瀏覽本網站<br />
+              您是第 <span  class="fftt">84998 </span> 瀏覽者  更新日期<span class="fftt">2016-11-05</span>
+          </div>         
+        </div>
+    </div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85010124-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>
+ 

@@ -1,0 +1,1943 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<HTML lang=zh-TW><!-- InstanceBegin template="/Templates/miaoli.dwt" codeOutsideHTMLIsLocked="false" -->
+<HEAD>
+<!-- InstanceBeginEditable name="doctitle" -->
+
+<TITLE>苗栗區農業改良場 - 　5.1 預算</TITLE>
+
+<!-- InstanceEndEditable -->
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+<meta name="Description" content="" />
+<meta name="keywords" content="　5.1 預算">
+<meta name="title" content="　5.1 預算">
+
+
+
+<link href="css/real_css.css" rel="stylesheet" type="text/css">
+
+<link href="css/real_css_miaoli.css" rel="stylesheet" type="text/css">
+
+<script type="text/JavaScript">
+
+<!--
+function MM_preloadImages() { //v3.0
+
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+
+}
+
+function MM_swapImgRestore() { //v3.0
+
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+
+}
+
+function MM_findObj(n, d) { //v4.01
+
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+
+}
+
+
+
+function MM_swapImage() { //v3.0
+
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+
+}
+
+//-->
+</script>
+
+<script src="images_default/style2009/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+
+<script src="js/jquery.js" type="text/javascript"></script>
+<script src="js/jquery.cookie.js" type="text/javascript"></script>
+<script src="js/change_css.js" type="text/javascript"></script>
+
+
+<link rel="stylesheet" href="js/jquery-ui.css">
+<script src="js/jquery-ui.js"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+
+		/*顯示自動完成提示字*/
+		$("#keyword_q").autocomplete({
+			source: function(request, response) {
+				$.ajax({
+					url: "http://www.mdais.gov.tw/search_keyword_save.php",
+					dataType: "json",
+					data: {
+						style: "tips",
+						website: "1",
+						term: request.term
+					},
+					success: function(data) {
+						response(data);
+					}
+				});
+			},
+			minLength: 0
+		});		
+
+
+});
+
+</script>
+
+
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</HEAD>
+
+<BODY onload="MM_preloadImages('images_default/miaoli/btn_01_2.jpg','images_default/miaoli/btn_02_2.jpg','images_default/miaoli/btn_03_2.jpg','images_default/miaoli/btn_04_2.jpg','images_default/miaoli/btn_05_2.jpg','images_default/miaoli/btn_06_2.jpg','images_default/style2009/index2_02.jpg','images_default/style2009/index2_03.jpg','images_default/style2009/index2_04.jpg')">
+
+
+
+<table border="0" align=center cellpadding="0" cellspacing="0" class="body_line" summary="此為表格排版用">
+
+
+<tr>
+
+	<td colspan="3" align="right">
+
+		<div class="banner_description">
+
+		‧<a href="show_index.php"  title="回首頁" class="link4">回首頁</a> 
+		‧<a href="sitemap.php" title="網站地圖" class="link4">網站地圖</a>
+        ‧<A class="link4" title="ENGLISH" href="en/show_index.php" target="_blank">ENGLISH</A>
+        ‧<A class="link4" title="行動版" href="mobile_index.php" target="_blank">行動版</A>
+
+		</div>
+
+	</td>
+
+</tr>
+
+<TR>
+
+    <TD vAlign=top align=right colSpan=3>
+
+	<!--banner區-->
+
+      <DIV class=banner><A title="苗栗區農業改良場" href="show_index.php"></A>
+
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+
+        <TBODY>
+
+        <TR>
+
+          <TD vAlign=top><table width="1000" height="138" border="0" align="center" cellpadding="0" cellspacing="0" id="___01">
+
+            <!--DWLayoutTable-->
+
+         <tr>
+
+                  <td width="677" valign="bottom"><a href="show_index.php"><img src="images_default/style2009/banner1_01.jpg" alt="回首頁" width="677" height="48" border="0"></a></td>
+
+                  <td valign="bottom"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+                    <tr valign="bottom">
+
+                      <td height="18" colspan="6"><img src="images_default/style2009/banner1_02.jpg" width="323" height="18" alt="苗栗區農業改良場"></td>
+
+                      </tr>
+
+                    <tr>
+
+                      <td width="97" valign="bottom"><a href="view.php?catid=16" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image24','','images_default/style2009/banner1_03_1.jpg',1)"><img src="images_default/style2009/banner1_02-1.jpg" alt="植物展示區" name="Image24" width="97" height="30" border="0"></a></td>
+
+                      <td width="7" valign="bottom"><img src="images_default/style2009/banner1_04.jpg" width="7" height="30" alt=""></td>
+
+                      <td width="97" valign="bottom"><a href="view.php?catid=17" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image26','','images_default/style2009/banner1_05.jpg',1)"><img src="images_default/style2009/banner1_05-1.jpg" alt="休閒昆蟲展示區" name="Image26" width="97" height="30" border="0"></a></td>
+
+                      <td width="3" valign="bottom"><img src="images_default/style2009/banner1_06.jpg" width="6" height="30" alt=""></td>
+
+                      <td width="87" valign="bottom"><a href="view.php?catid=18" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image28','','images_default/style2009/banner1_07.jpg',1)"><img src="images_default/style2009/banner1_07_01.jpg" alt="生物防治展示區" name="Image28" width="96" height="30" border="0"></a></td>
+
+                      <td width="32" valign="bottom"><img src="images_default/style2009/banner1_08.jpg" width="20" height="30" alt=""></td>
+
+                    </tr>					
+
+                  </table></td>
+
+                </tr>
+
+            <tr>
+
+              <td height="88" colspan="4" valign="top"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+
+                  <!--DWLayoutTable-->
+
+                  <tr>
+
+                    <td width="1000" height="88" align="left" valign="top" background="images_default/style2009/index2_05.jpg">
+
+					<script type="text/javascript">
+
+					AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','1000','height','88','src','../images_default/style2009/123','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','wmode','transparent','movie','../images_default/style2009/123' ); //end AC code
+
+                    </script>
+
+                      <noscript>
+
+                      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="1000" height="88">
+
+                        <param name="movie" value="images_default/style2009/123.swf">
+
+                        <param name="quality" value="high">
+
+                        <param name="wmode" value="transparent">
+
+                        <embed src="images_default/style2009/123.swf" width="1000" height="88" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" wmode="transparent"></embed>
+
+                      </object>
+
+                      </noscript>					  </td>
+
+                  </tr>
+
+              </table>
+
+			  </td>
+
+            </tr>
+
+          </table> <A title="苗栗區農業改良場"  href="show_index.php"></A></TD>
+
+        </TR></TBODY></TABLE>
+
+      </DIV>
+
+	  <!--end banner -->
+
+    </TD>
+
+  </TR>
+
+<tr>
+
+	<td colspan="3">
+
+		<!--banner_bar區-->
+
+		<table width="100%"  border="0" cellpadding="0" cellspacing="0">
+
+          <tr >            
+
+            <td ><div class="banner_bar"> 
+
+            
+            <a href="view.php?catid=10" title="台灣蠶蜂昆蟲教育園區服務中心" class="top_bar_link" target="_self">台灣蠶蜂昆蟲教育園區服務中心</a>
+
+            
+            <a href="view.php?catid=11" title="農業博覽館" class="top_bar_link" target="_self">農業博覽館</a>
+
+            
+            <a href="view.php?catid=13" title="蜜蜂展示區" class="top_bar_link" target="_self">蜜蜂展示區</a>
+
+            
+            <a href="view.php?catid=12" title="天敵及夜間昆蟲展示區" class="top_bar_link" target="_self">天敵及夜間昆蟲展示區</a>
+
+            
+            <a href="view.php?catid=14" title="台灣蠶業文化館" class="top_bar_link" target="_self">台灣蠶業文化館</a>
+
+            
+            <a href="view.php?catid=4916" title="環境教育專區" class="top_bar_link" target="_self">環境教育專區</a>
+
+            
+            </div></td>
+
+          </tr>
+
+        </table>
+
+	</td>
+
+</tr>
+
+
+<tr>
+
+	
+	<td valign="top" class="lift_bar_photo">
+
+		<!--左邊側欄-->
+
+		<div class="links">			
+
+		<table border="0" cellpadding="0" cellspacing="0" summary="此為選單表格">	
+
+			<!--服務-->
+
+			<tr> 
+
+				<td height="5"><a href="sitemap.php" title="左方導覽區(引導使用網頁導覽器，前往左方選單區)" class="accesskey" accesskey="L" >:::</a></td>
+
+			</tr>
+
+			<tr>
+
+				<td >
+
+					
+					<div class="bosom_bar_link" >
+
+					
+					<a href="view.php?catid=3338"  class="bosom_bar_link" title="便民服務" target="">便民服務</a>
+
+					  	
+
+					</div>
+
+					
+					<div class="bosom_bar_link" >
+
+					
+					<a href="view.php?catid=60"  class="bosom_bar_link" title="最新資訊" target="">最新資訊</a>
+
+					  	
+
+					</div>
+
+					
+					<div class="bosom_bar_link" >
+
+					
+					<a href="http://www.coa.gov.tw/view.php?catid=19059" class="bosom_bar_link" title="重大政策" target="">重大政策</a>
+
+					  	
+
+					</div>
+
+					
+					<div class="bosom_bar_link" >
+
+					
+					<a href="view.php?catid=1"  class="bosom_bar_link" title="本場簡介" target="">本場簡介</a>
+
+					  	
+
+					</div>
+
+					
+					<div class="bosom_bar_link" >
+
+					
+					<a href="view.php?catid=3"  class="bosom_bar_link" title="農作物疫情警報" target="">農作物疫情警報</a>
+
+					  	
+
+					</div>
+
+					
+					<div class="bosom_bar_link" >
+
+					
+					<a href="view.php?catid=6"  class="bosom_bar_link" title="農業氣象" target="">農業氣象</a>
+
+					  	
+
+					</div>
+
+					
+					<div class="bosom_bar_link" >
+
+					
+					<a href="view.php?catid=43"  class="bosom_bar_link" title="政府資訊公開" target="">政府資訊公開</a>
+
+					  	
+
+					</div>
+
+					
+					<div class="bosom_bar_link" >
+
+					
+					<a href="view.php?catid=3226"  class="bosom_bar_link" title="農業主題館" target="">農業主題館</a>
+
+					  	
+
+					</div>
+
+					
+					<div class="bosom_bar_link" >
+
+					
+					<a href="view.php?catid=7"  class="bosom_bar_link" title="農業新知" target="">農業新知</a>
+
+					  	
+
+					</div>
+
+					
+					<div class="bosom_bar_link" >
+
+					
+					<a href="view.php?catid=8"  class="bosom_bar_link" title="出版刊物" target="">出版刊物</a>
+
+					  	
+
+					</div>
+
+					
+					<div class="bosom_bar_link" >
+
+					
+					<a href="view.php?catid=5"  class="bosom_bar_link" title="資料下載" target="">資料下載</a>
+
+					  	
+
+					</div>
+
+					
+					<div class="bosom_bar_link" >
+
+					
+					<a href="view.php?catid=63"  class="bosom_bar_link" title="Q & A" target="">Q & A</a>
+
+					  	
+
+					</div>
+
+					
+					<div class="bosom_bar_link" >
+
+					
+					<a href="view.php?catid=9"  class="bosom_bar_link" title="相關網站連結" target="">相關網站連結</a>
+
+					  	
+
+					</div>
+
+					
+					<div class="bosom_bar_link" >
+
+					
+					<a href="http://www.mdais.gov.tw/volunteer/" class="bosom_bar_link" title="志工園地" target="">志工園地</a>
+
+					  	
+
+					</div>
+
+					
+					<div class="bosom_bar_link" >
+
+					
+					<a href="view.php?catid=4706"  class="bosom_bar_link" title="場地租借申請" target="">場地租借申請</a>
+
+					  	
+
+					</div>
+
+					
+					<div class="bosom_bar_link" >
+
+					
+					<a href="view.php?catid=4893"  class="bosom_bar_link" title="廉政資訊專區" target="">廉政資訊專區</a>
+
+					  	
+
+					</div>
+
+					
+					<div class="bosom_bar_link" >
+
+					
+					<a href="view.php?catid=4911"  class="bosom_bar_link" title="性別平等及性騷擾防治專區" target="">性別平等及性騷擾防治專區</a>
+
+					  	
+
+					</div>
+
+					
+					<div class="bosom_bar_link" >
+
+					
+					<a href="view.php?catid=4916"  class="bosom_bar_link" title="環境教育專區" target="">環境教育專區</a>
+
+					  	
+
+					</div>
+
+					
+					<div class="bosom_bar_link" >
+
+					
+					<a href="view.php?catid=4938"  class="bosom_bar_link" title="全民督工聯繫窗口名冊" target="">全民督工聯繫窗口名冊</a>
+
+					  	
+
+					</div>
+
+					
+				</td>
+
+			</tr>
+
+			<!--相關服務-->
+
+			<tr>
+
+				<td class="links_link">	
+
+					<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#E8ECDD" summary="此為網站首頁選單表格">
+
+						<tr> 
+
+							<td class="links_link0" title="相關服務"></td>
+
+						</tr>
+
+						<tr> 
+
+							<td >
+
+							<div class="bosom_bar_link_02">
+
+														
+
+							<a href="http://www.mdais.gov.tw/service.php?type=service03" title="人員一覽表" class="bosom_bar_link_02" target="_self">人員一覽表</a>
+
+														
+
+							<a href="service.php" title="為民服務單一窗口信箱" class="bosom_bar_link_02" target="_self">為民服務單一窗口信箱</a>
+
+														
+
+							<a href="http://email.mdais.gov.tw/ChiefMail/jsp/mainPeople.jsp" title="首長信箱" class="bosom_bar_link_02" target="_self">首長信箱</a>
+
+														
+
+							<a href="view.php?catid=3132" title="廉政信箱" class="bosom_bar_link_02" target="_self">廉政信箱</a>
+
+														
+
+							<a href="http://163.29.155.10" title="館藏圖書" class="bosom_bar_link_02" target="_blank">館藏圖書</a>
+
+														
+
+							<a href="http://ecolife.epa.gov.tw/blog/345320000g" title="苗改場清境家園部落格" class="bosom_bar_link_02" target="_self">苗改場清境家園部落格</a>
+
+							
+							</div>		
+
+							</td>		
+
+						</tr>		
+
+					</table>
+
+				</td>
+
+			</tr>
+
+		</table> 
+
+		</div>
+
+	</td>
+
+	
+	<td width="81%" valign="top" bgcolor="#FFFFFF">
+
+		<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" summary="此為網站首頁表">
+
+			<tr>
+
+				<td align="left" valign="top">
+
+				<table width="100%" border="0" cellpadding="0" cellspacing="0" background="images_default/style1/coa_23-1.jpg" summary="此為網站內容表格">
+
+					
+					<!--站內搜尋-->
+
+					<tr>
+
+						<td valign="top" background="images_default/style1/coa_23-1.jpg">                        	
+
+							<div class="search1">                        	
+
+							<table width="100%" border="0" bordercolor="#FF0000" cellpadding="0" cellspacing="0" summary="此為站內搜尋表格">
+
+							<tr>
+
+							<td align="right">
+                               <div id="search_area">
+                               <form action="search_wg_tran.php" method="post" name="form_search">
+ <img src="images_default/style2/coa_22.jpg" alt="搜尋" width="28" height="26" vspace="0" align="absmiddle" class="search_icon" title="搜尋">
+                                   <input name="keyword_q" type="text" class="text" id="keyword_q" maxlength="40" onFocus="javascript: if	(this.value=='::請輸入關鍵字::') this.value='';" onBlur="javascript: if (this.value=='') this.value='::請輸入關鍵字::';" value="::請輸入關鍵字::" size="30" autocomplete="off">
+                                    <input name="SEARCH_1" type="submit" class="key_button" id="SEARCH_1" value="搜尋">   
+                                    
+
+							<img src="images_default/style1/coa_46.jpg" alt="" width="15" height="19" align="absmiddle"> 
+
+							<img src="images_default/style1/coa_42.jpg" alt="友善列印(將另開新視窗)" width="19" height="18" align="absmiddle">
+
+							<a href="/view.php?catid=2333&print=1" class="word3" title="友善列印(將另開新視窗)" target="_brank">友善列印</a>　                    
+
+
+                                                            
+                                                                    <br>
+                                  <span class="hot_word">熱門：</span>
+                                    
+                                                                       <a class="hot_searchs" href="search_wg_tran.php?keyword_q=草莓" title="草莓" target="_blank"> 草莓 </a>
+                                                                       <a class="hot_searchs" href="search_wg_tran.php?keyword_q=大黃瓜" title="大黃瓜" target="_blank"> 大黃瓜 </a>
+                                                                       <a class="hot_searchs" href="search_wg_tran.php?keyword_q=油菜" title="油菜" target="_blank"> 油菜 </a>
+                                                                       <a class="hot_searchs" href="search_wg_tran.php?keyword_q=紅棗" title="紅棗" target="_blank"> 紅棗 </a>
+                                                                       <a class="hot_searchs" href="search_wg_tran.php?keyword_q=愛玉子" title="愛玉子" target="_blank"> 愛玉子 </a>
+                                                                       <a class="hot_searchs" href="search_wg_tran.php?keyword_q=蜜蜂" title="蜜蜂" target="_blank"> 蜜蜂 </a>
+                                                                      								</form>
+
+                               </div>
+							</td>  
+
+							<td width="2%">&nbsp;</td>                  
+
+							</tr>
+
+							</table>
+
+							</div>                          
+
+						</td>
+
+					</tr>
+
+					<!--現在位置-->
+
+					<tr>
+
+						<td>
+
+							<table width="100%" border="0" cellpadding="0" cellspacing="0" summary="此為站內搜尋表格"   background="images_default/style1/coa_24.jpg">
+
+							<tr>
+
+							<td height="1" colspan="2"></td>
+
+							</tr>
+
+							<tr>
+
+							<td width="1%"></td>
+
+							<td><a href="show_index.php" title="首頁" class="link2">首頁</a> / <a href="view.php?catid=43" title="政府資訊公開" class="link2">政府資訊公開</a> / <span class="link2">　5.1 預算</span></td>
+
+							</tr>
+
+							</table>
+
+						</td>
+
+					</tr>
+
+					
+					<tr>
+
+						<td height="29" align="right" valign="middle" background="images_default/style1/coa_41.jpg">
+
+							<table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+
+							<tr>
+
+							<td width="1%" bgcolor="#7CDC07"></td>
+
+							<td align="left" class="word1">　5.1 預算</td>
+
+							</tr>
+
+							</table>
+
+						</td>
+
+					</tr>
+
+				</table>
+
+                
+
+				<br>
+
+
+
+				<table width="100%"  border="0">
+
+					<tr>
+
+						<td><!-- InstanceBeginEditable name="EditRegion1" -->
+
+
+
+                    
+
+
+
+                        
+		  				<table width="90%" summary=此為網頁內容表格 border="0" align="center" cellpadding="1" cellspacing="1">
+
+                        <tr> 
+
+                        	<td><div align="right"><span class="link4">共1頁 ;</span> <span class="link4">20筆;</span>　<span class="link4"><b>[1]</b></span>&nbsp;&nbsp;</div></td>
+
+                        </tr>
+
+                        </table>
+
+                        
+
+                        
+
+
+					                   
+
+
+
+      
+
+
+
+	                    <table width="90%" border="1" align="center" cellpadding="1" cellspacing="1" bordercolor="#bbc1b6" summary="此為網站列表頁排版用表格" style="border-collapse: collapse">	
+
+
+
+                            <tr>
+
+
+
+                              
+                              <td colspan="3" bgcolor="#e8ecdd">&nbsp;</td>
+
+                              
+
+
+                            </tr>
+
+
+
+									
+
+
+
+								
+
+
+
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+
+
+
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9"></td>		
+
+
+
+								<td width="80%">								
+
+
+
+								
+
+
+								<span class="link7">106年度單位預算案</span>
+
+
+
+																		
+
+
+
+								</td>					
+
+
+
+                                
+								<td width="17%" class="link7"><a href="files/web_articles_files/mdares/5100/1798.7z" title="7z 檔下載(81.12 K)-將另開新視窗" target="_brank" class="link7">7Z</a>、<a href="files/web_articles_files/mdares/5100/1799.7z" title="7z 檔下載(23.21 K)-將另開新視窗" target="_brank" class="link7">7Z</a>、<a href="files/web_articles_files/mdares/5100/1800.pdf" title="pdf 檔下載(12543.49 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+
+                                
+
+
+							</tr>
+
+
+
+										
+
+
+
+									
+
+
+
+								
+
+
+
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+
+
+
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9"></td>		
+
+
+
+								<td width="80%">						
+
+
+
+								
+
+
+								<span class="link7">105年度法定預算</span>
+
+
+
+											  
+
+
+
+								</td>
+
+
+
+                                
+								<td width="17%" class="link7"><a href="files/web_articles_files/mdares/4979/1754.pdf" title="pdf 檔下載(9255.20 K)-將另開新視窗" target="_brank" class="link7">PDF</a>、<a href="files/web_articles_files/mdares/4979/1755.7z" title="7z 檔下載(96.75 K)-將另開新視窗" target="_brank" class="link7">7Z</a>、<a href="files/web_articles_files/mdares/4979/1756.7z" title="7z 檔下載(24.60 K)-將另開新視窗" target="_brank" class="link7">7Z</a>&nbsp;</td>
+
+                                
+
+
+							</tr>
+
+
+
+										
+
+
+
+									
+
+
+
+								
+
+
+
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+
+
+
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9"></td>		
+
+
+
+								<td width="80%">								
+
+
+
+								
+
+
+								<span class="link7">105年度預算案</span>
+
+
+
+																		
+
+
+
+								</td>					
+
+
+
+                                
+								<td width="17%" class="link7"><a href="files/web_articles_files/mdares/4837/1631.7z" title="7z 檔下載(23.21 K)-將另開新視窗" target="_brank" class="link7">7Z</a>、<a href="files/web_articles_files/mdares/4837/1726.odt" title="odt 檔下載(367.80 K)-將另開新視窗" target="_brank" class="link7">ODT</a>、<a href="files/web_articles_files/mdares/4837/1647.pdf" title="pdf 檔下載(9253.26 K)-將另開新視窗" target="_brank" class="link7">PDF</a>、<a href="files/web_articles_files/mdares/4837/1648.doc" title="doc 檔下載(123900.35 K)-將另開新視窗" target="_brank" class="link7">DOC</a>、<a href="files/web_articles_files/mdares/4837/1649.xls" title="xls 檔下載(133 K)-將另開新視窗" target="_brank" class="link7">XLS</a>&nbsp;</td>
+
+                                
+
+
+							</tr>
+
+
+
+										
+
+
+
+									
+
+
+
+								
+
+
+
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+
+
+
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9"></td>		
+
+
+
+								<td width="80%">						
+
+
+
+								
+
+
+								<span class="link7">104年度預算案(xml壓縮檔)</span>
+
+
+
+											  
+
+
+
+								</td>
+
+
+
+                                
+								<td width="17%" class="link7"><a href="files/web_articles_files/mdares/4674/1653.7z" title="7z 檔下載(23.83 K)-將另開新視窗" target="_brank" class="link7">7Z</a>&nbsp;</td>
+
+                                
+
+
+							</tr>
+
+
+
+										
+
+
+
+									
+
+
+
+								
+
+
+
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+
+
+
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9"></td>		
+
+
+
+								<td width="80%">								
+
+
+
+								
+
+
+								<span class="link7">104年度法定預算(xml壓縮檔)</span>
+
+
+
+																		
+
+
+
+								</td>					
+
+
+
+                                
+								<td width="17%" class="link7"><a href="files/web_articles_files/mdares/4673/1602.7z" title="7z 檔下載(23.86 K)-將另開新視窗" target="_brank" class="link7">7Z</a>&nbsp;</td>
+
+                                
+
+
+							</tr>
+
+
+
+										
+
+
+
+									
+
+
+
+								
+
+
+
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+
+
+
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9"></td>		
+
+
+
+								<td width="80%">						
+
+
+
+								
+
+
+								<span class="link7">104年度單位法定預算(excel檔)</span>
+
+
+
+											  
+
+
+
+								</td>
+
+
+
+                                
+								<td width="17%" class="link7"><a href="files/web_articles_files/mdares/4913/1727.ods" title="ods 檔下載(43.43 K)-將另開新視窗" target="_brank" class="link7">ODS</a>、<a href="files/web_articles_files/mdares/4913/1728.xls" title="xls 檔下載(131.5 K)-將另開新視窗" target="_brank" class="link7">XLS</a>&nbsp;</td>
+
+                                
+
+
+							</tr>
+
+
+
+										
+
+
+
+									
+
+
+
+								
+
+
+
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+
+
+
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9"></td>		
+
+
+
+								<td width="80%">								
+
+
+
+								
+
+
+								<span class="link7">104年度單位法定預算(pdf檔)</span>
+
+
+
+																		
+
+
+
+								</td>					
+
+
+
+                                
+								<td width="17%" class="link7"><a href="files/web_articles_files/mdares/4659/1597.pdf" title="pdf 檔下載(11318.90 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+
+                                
+
+
+							</tr>
+
+
+
+										
+
+
+
+									
+
+
+
+								
+
+
+
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+
+
+
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9"></td>		
+
+
+
+								<td width="80%">						
+
+
+
+								
+
+
+								<span class="link7">104年度單位預算案</span>
+
+
+
+											  
+
+
+
+								</td>
+
+
+
+                                
+								<td width="17%" class="link7"><a href="files/web_articles_files/mdares/4660/1598.pdf" title="pdf 檔下載(26354.52 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+
+                                
+
+
+							</tr>
+
+
+
+										
+
+
+
+									
+
+
+
+								
+
+
+
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+
+
+
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9"></td>		
+
+
+
+								<td width="80%">								
+
+
+
+								
+
+
+								<span class="link7">104年度預算案預算書(2014.08.28)</span>
+
+
+
+																		
+
+
+
+								</td>					
+
+
+
+                                
+								<td width="17%" class="link7"><a href="files/web_articles_files/mdares/4541/1572.pdf" title="pdf 檔下載(26104.91 K)-將另開新視窗" target="_brank" class="link7">PDF</a>、<a href="files/web_articles_files/mdares/4541/1583.docx" title="docx 檔下載(1056.62 K)-將另開新視窗" target="_brank" class="link7">DOCX</a>、<a href="files/web_articles_files/mdares/4541/1584.docx" title="docx 檔下載(84.15 K)-將另開新視窗" target="_brank" class="link7">DOCX</a>、<a href="files/web_articles_files/mdares/4541/1729.odt" title="odt 檔下載(81.83 K)-將另開新視窗" target="_brank" class="link7">ODT</a>、<a href="files/web_articles_files/mdares/4541/1730.odt" title="odt 檔下載(48.76 K)-將另開新視窗" target="_brank" class="link7">ODT</a>&nbsp;</td>
+
+                                
+
+
+							</tr>
+
+
+
+										
+
+
+
+									
+
+
+
+								
+
+
+
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+
+
+
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9"></td>		
+
+
+
+								<td width="80%">						
+
+
+
+								
+
+
+								<span class="link7">103年度單位預算書(2014.02.11)</span>
+
+
+
+											  
+
+
+
+								</td>
+
+
+
+                                
+								<td width="17%" class="link7"><a href="files/web_articles_files/mdares/4210/1507.pdf" title="pdf 檔下載(22399.92 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+
+                                
+
+
+							</tr>
+
+
+
+										
+
+
+
+									
+
+
+
+								
+
+
+
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+
+
+
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9"></td>		
+
+
+
+								<td width="80%">								
+
+
+
+								
+
+
+								<span class="link7">103年度單位預算案</span>
+
+
+
+																		
+
+
+
+								</td>					
+
+
+
+                                
+								<td width="17%" class="link7"><a href="files/web_articles_files/mdares/4105/1440.pdf" title="pdf 檔下載(22625.12 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+
+                                
+
+
+							</tr>
+
+
+
+										
+
+
+
+									
+
+
+
+								
+
+
+
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+
+
+
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9"></td>		
+
+
+
+								<td width="80%">						
+
+
+
+								
+
+
+								<span class="link7">102年度單位預算</span>
+
+
+
+											  
+
+
+
+								</td>
+
+
+
+                                
+								<td width="17%" class="link7"><a href="files/web_articles_files/mdares/3941/1361.pdf" title="pdf 檔下載(47377.17 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+
+                                
+
+
+							</tr>
+
+
+
+										
+
+
+
+									
+
+
+
+								
+
+
+
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+
+
+
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9"></td>		
+
+
+
+								<td width="80%">								
+
+
+
+								
+
+
+								<span class="link7">102年度單位預算案</span>
+
+
+
+																		
+
+
+
+								</td>					
+
+
+
+                                
+								<td width="17%" class="link7"><a href="files/web_articles_files/mdares/3733/1228.pdf" title="pdf 檔下載(26474.66 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+
+                                
+
+
+							</tr>
+
+
+
+										
+
+
+
+									
+
+
+
+								
+
+
+
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+
+
+
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9"></td>		
+
+
+
+								<td width="80%">						
+
+
+
+								
+
+
+								<span class="link7">101年度單位預算</span>
+
+
+
+											  
+
+
+
+								</td>
+
+
+
+                                
+								<td width="17%" class="link7"><a href="files/web_articles_files/mdares/3546/1117.pdf" title="pdf 檔下載(21648.97 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+
+                                
+
+
+							</tr>
+
+
+
+										
+
+
+
+									
+
+
+
+								
+
+
+
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+
+
+
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9"></td>		
+
+
+
+								<td width="80%">								
+
+
+
+								
+
+
+								<span class="link7">100年度單位預算</span>
+
+
+
+																		
+
+
+
+								</td>					
+
+
+
+                                
+								<td width="17%" class="link7"><a href="files/web_articles_files/mdares/3138/891.pdf" title="pdf 檔下載(25692.54 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+
+                                
+
+
+							</tr>
+
+
+
+										
+
+
+
+									
+
+
+
+								
+
+
+
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+
+
+
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9"></td>		
+
+
+
+								<td width="80%">						
+
+
+
+								
+
+
+								<span class="link7">99年度預算書</span>
+
+
+
+											  
+
+
+
+								</td>
+
+
+
+                                
+								<td width="17%" class="link7"><a href="files/web_articles_files/mdares/3137/889.pdf" title="pdf 檔下載(17778.89 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+
+                                
+
+
+							</tr>
+
+
+
+										
+
+
+
+									
+
+
+
+								
+
+
+
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+
+
+
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9"></td>		
+
+
+
+								<td width="80%">								
+
+
+
+								
+
+
+								<span class="link7">98年度預算書</span>
+
+
+
+																		
+
+
+
+								</td>					
+
+
+
+                                
+								<td width="17%" class="link7"><a href="files/web_articles_files/mdares/3136/888.pdf" title="pdf 檔下載(10603.82 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+
+                                
+
+
+							</tr>
+
+
+
+										
+
+
+
+									
+
+
+
+								
+
+
+
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+
+
+
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9"></td>		
+
+
+
+								<td width="80%">						
+
+
+
+								
+
+
+								<span class="link7">97年度預算書</span>
+
+
+
+											  
+
+
+
+								</td>
+
+
+
+                                
+								<td width="17%" class="link7"><a href="files/web_articles_files/mdares/2353/551.pdf" title="pdf 檔下載(48492.15 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+
+                                
+
+
+							</tr>
+
+
+
+										
+
+
+
+									
+
+
+
+								
+
+
+
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+
+
+
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9"></td>		
+
+
+
+								<td width="80%">								
+
+
+
+								
+
+
+								<span class="link7">96年度預算書</span>
+
+
+
+																		
+
+
+
+								</td>					
+
+
+
+                                
+								<td width="17%" class="link7"><a href="files/web_articles_files/mdares/2350/552.pdf" title="pdf 檔下載(48717.21 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+
+                                
+
+
+							</tr>
+
+
+
+										
+
+
+
+									
+
+
+
+								
+
+
+
+							<tr onmouseover="this.bgColor='#F7F9E3';" onmouseout="this.bgColor='#FFFFFF';" onfocus="this.bgcolor='#F7F9E3';" onblur="this.bgcolor='#FFFFFF';">		
+
+
+
+								<td width="3%" align="center" ><img src="../images_default/style1/coa_20.jpg" alt="" width="9" height="9"></td>		
+
+
+
+								<td width="80%">						
+
+
+
+								
+
+
+								<span class="link7">95年度預算書</span>
+
+
+
+											  
+
+
+
+								</td>
+
+
+
+                                
+								<td width="17%" class="link7"><a href="files/web_articles_files/mdares/2348/553.pdf" title="pdf 檔下載(36303.41 K)-將另開新視窗" target="_brank" class="link7">PDF</a>&nbsp;</td>
+
+                                
+
+
+							</tr>
+
+
+
+										
+
+
+
+								
+
+
+
+						</table>
+
+
+
+						
+
+
+
+                        
+		  				<table width="90%" summary=此為網頁內容表格 border="0" align="center" cellpadding="1" cellspacing="1">
+
+                        <tr> 
+
+                        	<td><div align="right"><span class="link4">共1頁 ;</span> <span class="link4">20筆;</span>　<span class="link4"><b>[1]</b></span>&nbsp;&nbsp;</div></td>
+
+                        </tr>
+
+                        </table>
+
+                        
+
+                        
+
+
+                        
+
+
+
+					<!-- InstanceEndEditable -->
+                        
+				      </td>
+
+				  </tr>                
+
+				</table>
+
+				</td>
+
+			</tr>
+
+
+
+			
+			<tr>
+
+				<td height="29" align="right" background="images_default/style1/coa_51.jpg">&nbsp;</td>
+
+			</tr>
+
+			<tr>
+
+				<td align="left" valign="top">
+
+				<table width="25%" border="0" align="right" cellpadding="0" cellspacing="0">
+
+					<tr>
+
+					<td align="right" class="images_top"><div align="left"><a href="#" title="TOP"><img src="images_default/style1/space.gif" alt="TOP" width="58" height="17" border="0"></a></div></td>
+
+					<td class="images_next"><div align="left"><a href="get_backurl.php" title="回上一頁"><img img src="images_default/style1/space.gif"  alt="回上一頁" width="80" height="17" border="0"></a></div></td>
+
+					<td width="10%">&nbsp;</td>
+
+					</tr>
+
+				</table>
+
+				</td>
+
+			</tr>
+
+			<!--調寬度 -->
+
+			<tr>
+
+				<td valign="top"><img src="images_default/style1/space.gif" alt="排版圖片" width="730" height="45"></td>
+
+			</tr>
+
+			
+		</table>
+
+
+
+	</td>
+
+	<!--右邊側欄-->
+	<td valign="top">
+
+	</td>
+	
+
+</tr>
+
+
+<tr>
+
+
+
+	<td colspan="3">
+
+
+
+		<!--footer-->
+
+
+
+		<div>
+
+        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+
+          <tr><td align="right"><table width="20%" border="0" cellspacing="0" cellpadding="0">
+
+            <tr>
+
+			                <td><a href="view.php?catid=625" title="隱私權保護宣告" class="sub_link_01"></a></td>
+                            <td><a href="view.php?catid=626" title="資訊安全政策宣告" class="sub_link_02"></a></td>
+                            <td><a href="view.php?catid=627" title="政府網站資料開放宣告" class="sub_link_04"></a></td>
+                            <td><a href="view.php?catid=3048" title="本場位置圖" class="sub_link_03"></a></td>
+             
+            </tr>
+
+          </table></td>
+
+          </tr></table>
+
+        </div>
+
+		<div class="footer">
+
+		  <table border="0" cellpadding="0" cellspacing="0">
+
+            <tr>
+
+              <td width="10" class="under-left">&nbsp;</td>
+
+              <td width="105"><a href="view.php?catid=10" onMouseOver="MM_swapImage('U01','','images_default/miaoli/btn_01_2.jpg',1)" onMouseOut="MM_swapImgRestore()" onFocus="MM_swapImage('U01','','images_default/miaoli/btn_01_2.jpg',1)" onBlur="MM_swapImgRestore()"><img src="images_default/miaoli/btn_01.jpg" alt="導覽服務中心" name="U01" width="105" height="186" border="0" id="U01"></a></td>
+
+              <td width="101"><a href="view.php?catid=11" onMouseOver="MM_swapImage('U02','','images_default/miaoli/btn_02_2.jpg',1)" onMouseOut="MM_swapImgRestore()" onFocus="MM_swapImage('U02','','images_default/miaoli/btn_02_2.jpg',1)" onBlur="MM_swapImgRestore()"><img src="images_default/miaoli/btn_02.jpg" alt="農業博覽館" name="U02" width="101" height="186" border="0" id="U02"></a></td>
+
+              <td width="101"><a href="view.php?catid=12" onMouseOver="MM_swapImage('U03','','images_default/miaoli/btn_03_2.jpg',1)" onMouseOut="MM_swapImgRestore()" onFocus="MM_swapImage('U03','','images_default/miaoli/btn_03_2.jpg',1)" onBlur="MM_swapImgRestore()"><img src="images_default/miaoli/btn_03.jpg" alt="天敵及夜間昆蟲展示區" name="U03" width="101" height="186" border="0" id="U03"></a></td>
+
+              <td width="111"><a href="view.php?catid=13" onMouseOver="MM_swapImage('U04','','images_default/miaoli/btn_04_2.jpg',1)" onMouseOut="MM_swapImgRestore()" onFocus="MM_swapImage('U04','','images_default/miaoli/btn_04_2.jpg',1)" onBlur="MM_swapImgRestore()"><img src="images_default/miaoli/btn_04.jpg" alt="蜜蜂展示區" name="U04" width="111" height="186" border="0" id="U04"></a></td>
+
+              <td width="102"><a href="view.php?catid=14" onMouseOver="MM_swapImage('U05','','images_default/miaoli/btn_05_2.jpg',1)" onMouseOut="MM_swapImgRestore()" onFocus="MM_swapImage('U05','','images_default/miaoli/btn_05_2.jpg',1)" onBlur="MM_swapImgRestore()"><img src="images_default/miaoli/btn_05.jpg" alt="台灣蠶業文化館" name="U05" width="102" height="186" border="0" id="U05"></a></td>
+
+              <td width="111">&nbsp;</td>
+
+              <td width="240" rowspan="2" align="center" valign="bottom" class="under-txt">
+				<table id="fat-footer" border="0" width="100%" cellpadding="3" cellspacing="5">
+                	                                    	<tr>
+                                        	<td><a href="view.php?catid=3338" title="便民服務" target="_self">便民服務</a></td>
+                                        
+                                                            	<td><a href="view.php?catid=60" title="最新資訊" target="_self">最新資訊</a></td>
+                                    	</tr>
+                                        
+                                                        	<tr>
+                                        	<td><a href="view.php?catid=1" title="本場簡介" target="_self">本場簡介</a></td>
+                                        
+                                                            	<td><a href="view.php?catid=3" title="農作物疫情警報" target="_self">農作物疫情警報</a></td>
+                                    	</tr>
+                                        
+                                                        	<tr>
+                                        	<td><a href="view.php?catid=6" title="農業氣象" target="_self">農業氣象</a></td>
+                                        
+                                                            	<td><a href="view.php?catid=43" title="政府資訊公開" target="_self">政府資訊公開</a></td>
+                                    	</tr>
+                                        
+                                                        	<tr>
+                                        	<td><a href="view.php?catid=3226" title="農業主題館" target="_self">農業主題館</a></td>
+                                        
+                                                            	<td><a href="view.php?catid=7" title="農業新知" target="_self">農業新知</a></td>
+                                    	</tr>
+                                        
+                                                        	<tr>
+                                        	<td><a href="view.php?catid=8" title="出版刊物" target="_self">出版刊物</a></td>
+                                        
+                                                            	<td><a href="view.php?catid=5" title="資料下載" target="_self">資料下載</a></td>
+                                    	</tr>
+                                        
+                                                        	<tr>
+                                        	<td><a href="view.php?catid=63" title="Q & A" target="_self">Q & A</a></td>
+                                        
+                                                            	<td><a href="view.php?catid=9" title="相關網站連結" target="_self">相關網站連結</a></td>
+                                    	</tr>
+                                        
+                                                        	<tr>
+                                        	<td><a href="view.php?catid=4893" title="廉政資訊專區" target="_self">廉政資訊專區</a></td>
+                                        
+                                                            	<td><a href="view.php?catid=4911" title="性別平等及性騷擾防治專區" target="_self">性別平等及性騷擾防治專區</a></td>
+                                    	</tr>
+                                        
+                                                        	<tr>
+                                        	<td><a href="view.php?catid=4916" title="環境教育專區" target="_self">環境教育專區</a></td>
+                                        
+                                    </table>
+
+
+
+              </td>
+
+            </tr>
+
+                  <tr>
+
+                    <td>&nbsp;</td>
+
+                    <td colspan="6" class="under-txt">行政院農業委員會苗栗區農業改良場 &copy; 版權所有2016 mdares All Rights Reserved<br>(36346) 苗栗縣公館鄉館南村261號．電話：+886-37-222111．傳真:+886-37-221277<br>服務時間：AM8:00~ AM12:00及PM1:00~PM5:00  ．電子郵件信箱:mdais@mdais.gov.tw<br>網址:http://www.mdais.gov.tw  　 最佳瀏覽 1024＊768 以上最佳解析度<div align="right"><a href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20081016102208" target="_blank" title="無障礙網站(將另開新視窗)"><img src="images_style/aplus.jpg" border="0" width="88" height="31" alt="通過A+優先等級無障礙網頁檢測(將另開新視窗)"></a><img src="images_style/95.gif" border="0" alt="95金網獎"></div>
+
+</td>
+
+                  </tr>
+
+          </table>
+
+	  </div></td>
+
+
+
+</tr>
+
+
+</table>
+
+</BODY>
+<!-- InstanceEnd --></HTML>

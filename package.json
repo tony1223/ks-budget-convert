@@ -17,8 +17,12 @@
   },
   "homepage": "https://github.com/tony1223/tpe-2016-budget",
   "dependencies": {
+    "cheerio": "^0.22.0",
     "csv-parse": "^1.0.0",
+    "download-file": "^0.1.5",
     "fast-csv": "^0.6.0",
-    "promise": "^7.0.4"
+    "follow-redirects": "^1.1.0",
+    "promise": "^7.0.4",
+    "request": "^2.78.0"
   }
 }

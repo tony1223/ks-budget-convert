@@ -1,0 +1,228 @@
+
+	<?xml version="1.0"  encoding="utf-8" ?>
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="zh-TW" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="urn:user-namespace-here" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>公告法務部矯正署高雄第二監獄106年度預算案(XML) - 預算 - 法務部矯正署高雄第二監獄</title>
+<link href="xslGip/unit057/css/cp.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit057/css/common.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit057/css/style.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit057/css/mp.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit057/css/fontSizeS.css" rel="stylesheet" type="text/css" title="size1"/>
+<link href="xslGip/unit057/css/fontSizeM.css" rel="alternate stylesheet" type="text/css" title="size2"/>
+<link href="xslGip/unit057/css/fontSizeL.css" rel="alternate stylesheet" type="text/css" title="size3"/>
+<script type="text/javascript" src="xslGip/unit057/css/styleswitcher.js"></script>
+<script type="text/javascript" src="xslGip/unit057/css/multimenu.js"></script>
+<script type="text/javascript" src="xslGip/unit057/css/showtab.js"></script>
+<script type="text/javascript" src="xslGip/unit057/css/activeAD.js"></script> 
+<link rel="govtwsimpledc.xsd" href="http://www.gov.tw/schema/dc/" title="Dublin Core"/>
+<meta name="DC.Title" content="預算" />
+<meta name="DC.Creator" content="法務部" />
+<meta name="DC.Subject" content="預算" />
+<meta name="DC.Description" content="預算" />
+<meta name="DC.Contributor" content="法務部" />
+<meta name="DC.Type" content="文字" />
+<meta name="DC.Format" content="text" />
+<meta name="DC.Source" content="法務部" />
+<meta name="DC.Language" content="中文" />
+<meta name="DC.coverage.t.min" content="2016-09-07" />
+<meta name="DC.coverage.t.max" content="2036-09-07" />
+<meta name="DC.Publisher" content="法務部" />
+<meta name="DC.Date" content="2016-11-07" />
+<meta name="DC.Identifier" content="A11000000F" />
+<meta name="DC.Relation" content="GIP-moj" />
+<meta name="DC.Rights" content="法務部" />
+<meta name="Category.Theme" content="" />
+<meta name="Category.Cake" content="" />
+<meta name="Category.Service" content="" />
+<meta name="Keywords" content="" />
+ </head>
+<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+<script>$(function(){$('#tabindex_36620').children('a').focus();});</script>
+<body>
+<div id="all">
+<div id="WebTitle" xmlns="">
+<div class="logofont"><a href="mp.asp?mp=057" title="回法務部矯正署高雄第二監獄首頁"><img src="xslGip/unit057/images/%E7%BD%B2%E5%BE%BD2-22_20160421105200.png" alt="法務部矯正署高雄第二監獄" border="0"></a></div>
+<div class="ETitle"></div>
+</div>
+<div id="TopLink" xmlns="">
+<div class="TopLink_top"></div>
+<div class="TopLink_center"><span><a title="上欄" accesskey="U" href="#">:::</a></span><span><a title="網站導覽" href="sitemap.asp?mp=057">網站導覽</a></span><A title=回首頁 href="http://www.ksd.moj.gov.tw/">回首頁</A><A title=English href="http://www.ksd.moj.gov.tw/dp.asp?mp=151">English</A><A title=常見問題 href="http://www.ksd.moj.gov.tw/lp.asp?ctNode=43098&CtUnit=17241&BaseDSD=7&mp=057">常見問題</A><A title=首長信箱 href="http://www.ksd.moj.gov.tw/bbssp.asp?xdurl=bossmail.asp&mp=057">首長信箱</A><A title=行動版 href="http://www.ksd.moj.gov.tw/mp0571.html">行動版</A> </div>
+<div class="TopLink_bottom"></div>
+</div>
+<div class="fontSize" title="瀏覽字體設定" xmlns=""><ul>
+<li class="fontS"><a cat="font" href="xslGip/unit057/css/fontSizeS.css" onclick="setActiveStyleSheet('size1'); location.reload(); return false;" onkeypress="setActiveStyleSheet('size1'); location.reload(); return false;"><img src="images/null.gif" alt="小" title="小"></a></li>
+<li class="fontM"><a cat="font" href="xslGip/unit057/css/fontSizeM.css" onclick="setActiveStyleSheet('size2'); location.reload(); return false;" onkeypress="setActiveStyleSheet('size2'); location.reload(); return false;"><img src="images/null.gif" alt="中" title="中"></a></li>
+<li class="fontL"><a cat="font" href="xslGip/unit057/css/fontSizeL.css" onclick="setActiveStyleSheet('size3'); location.reload(); return false;" onkeypress="setActiveStyleSheet('size3'); location.reload(); return false;"><img src="images/null.gif" alt="大" title="大"></a></li>
+</ul>
+</div>
+<noscript xmlns="">當SCRIPT關閉時，選擇字型大小，請參考：IE6請利用鍵盤按住ALT鍵 + V → X → (G)最大(L)較大(M)中(S)較小(A)小，來選擇適合您的文字大小,而IE7、IE8或Firefox瀏覽器則可利用鍵盤 Ctrl + (+)放大 (-)縮小來改變字型大小。</noscript>
+<table id="Layout" summary="table for layout">
+<tr>
+<td class="Left">
+<a title="主選單" class="Accesskey" accesskey="L" href="#">:::</a>
+<div class="Lefttop"></div>
+<div class="mlmenu vertical menubg inaccesible">
+<div id="Menu" xmlns="">
+<div class="Menu_head"></div>
+<div class="Menu_body">
+<ul id="vertnav2">
+<li id="tabindex_36658" name="tabindex_36658"><a href="lp.asp?ctNode=36658&amp;CtUnit=14798&amp;BaseDSD=7&amp;mp=057" title="決算">決算</a></li>
+<li id="tabindex_36620" name="tabindex_36620"><a href="lp.asp?ctNode=36620&amp;CtUnit=14782&amp;BaseDSD=7&amp;mp=057" title="預算">預算</a></li>
+<li id="tabindex_41032" name="tabindex_41032"><a href="lp.asp?ctNode=41032&amp;CtUnit=16559&amp;BaseDSD=7&amp;mp=057" title="會計報告">會計報告</a></li>
+</ul>
+<ul id="vertnav" style="display: none;"></ul>
+</div>
+<div class="Menu_foot"></div>
+</div>
+</div>
+<div class="Leftbottom"></div>
+</td>
+<td class="Center">
+<a title="主要內容區" class="Accesskey" accesskey="C" href="#">:::</a>
+<div class="Centertop"><img src="xslGip/unit057/images/center_topleft.gif" alt="*"/></div>
+<div class="Centermiddle">
+<div id="PageTitle" xmlns="">預算</div>
+<div id="Path" xmlns="">
+		瀏覽路徑：<a title="首頁" href="mp.asp?mp=057">首頁</a><img src="xslGip/unit057/images/icom_menu_a01.gif" alt="*"><a href="np.asp?ctNode=20814&mp=057" title="公開資訊">公開資訊</a><img src="xslGip/unit057/images/icom_menu_a01.gif" alt="*"><a href="np.asp?ctNode=36603&mp=057" title="預算、決算及會計報告">預算、決算及會計報告</a><img src="xslGip/unit057/images/icom_menu_a01.gif" alt="*"><a href="np.asp?ctNode=36620&mp=057" title="預算">預算</a></div>
+<div id="Function" xmlns=""><a title="plurk" href="javascript:void(window.open('http://www.plurk.com/?qualifier=shares&status='.concat(encodeURIComponent(location.href)).concat(' ').concat('(').concat(encodeURIComponent(document.title)).concat(')')));"><img alt="plurk" src="xslgip/unit057/images/share_plurk.png"></a><a title="facebook" href="javascript:desc='';via='';if(document.referrer)via=document.referrer;if(typeof(_ref)!='undefined')via=_ref;if(window.getSelection)desc=window.getSelection();if(document.getSelection)desc=document.getSelection();if(document.selection)desc=document.selection.createRange().text;void(open('http://www.facebook.com/share.php?u='+encodeURIComponent(location.href)));"><img alt="facebook" src="xslgip/unit057/images/share_facebook.gif"></a><a title="twitter" href="javascript:void(window.open('http://twitter.com/home/?status='.concat(encodeURIComponent(document.title)).concat(' ').concat(encodeURIComponent(location.href))));"><img alt="twitter" src="xslgip/unit057/images/share_twitter.png"></a><noscript>您的瀏覽器不支援JavaScript功能，若網頁功能無法正常使用時，請開啟瀏覽器JavaScript狀態</noscript><a title="轉寄友人" href="forward.asp?xItem=444864&ctNode=36620&mp=057"><img alt="轉寄友人" src="xslgip/unit057/images/icon_forward.gif">轉寄友人</a><a href="javascript:history.go(-1);" title="回上一頁"><img src="xslGip/unit057/images/icon_back.gif" alt="回上一頁圖示">回上一頁</a><noscript>此段script提供回上一頁功能，若瀏覽器不支援script，請使用鍵盤的backspace或瀏覽器的回上一頁功能 </noscript>
+</div>
+<div id="Article" xmlns="">
+<div class="Head">公告法務部矯正署高雄第二監獄106年度預算案(XML)</div>
+<div class="Body"><br><p align="right">資料最後更新日期 105/09/07</p>
+</div>
+<div class="Foot"><img src="xslGip/unit057/images/articlefoot_bg.gif" alt="*"></div>
+</div>
+<h2 xmlns="">附件</h2>
+<ul xmlns="">
+<li><a target="_nwGIP" href="HitCounter.asp?xItem=444864&ixCuAttach=149332" title="公告法務部矯正署高雄第二監獄106年度預算案(XML).(開啟新視窗)">公告法務部矯正署高雄第二監獄106年度預算案(XML)</a></li>
+</ul>
+</div>
+<div class="Centerbottom"><img src="xslGip/unit057/images/center_bottomleft.gif" alt="*"/></div>
+</td>
+</tr>
+</table>
+<div class="sildeCtrl" xmlns="">
+<ul>
+<li><a href="np.asp?ctNode=6962&amp;mp=057" title="機關簡介">機關簡介</a><ul>
+<li><a href="np.asp?ctNode=6963&amp;mp=057" title="歷史沿革">歷史沿革</a></li>
+<li><a href="np.asp?ctNode=6964&amp;mp=057" title="首長介紹">首長介紹</a></li>
+<li><a href="http://www.ksd.moj.gov.tw/bbssp.asp?xdurl=bossmail.asp&mp=057" title="首長信箱">首長信箱</a></li>
+<li><a href="np.asp?ctNode=11350&amp;mp=057" title="組織編製">組織編製</a></li>
+<li><a href="np.asp?ctNode=20135&amp;mp=057" title="業務科介紹">業務科介紹</a></li>
+<li><a href="np.asp?ctNode=24755&amp;mp=057" title="行政科室介紹">行政科室介紹</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=6967&amp;mp=057" title="民眾導覽">民眾導覽</a><ul>
+<li><a href="np.asp?ctNode=6968&amp;mp=057" title="機關位置圖">機關位置圖</a></li>
+<li><a href="np.asp?ctNode=6969&amp;mp=057" title="接見室位置圖">接見室位置圖</a></li>
+<li><a href="lp.asp?ctNode=32270&amp;CtUnit=11870&amp;BaseDSD=7&amp;mp=057" title="接見須知">接見須知</a></li>
+<li><a href="np.asp?ctNode=31250&amp;mp=057" title="在地特色">在地特色</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=6970&amp;mp=057" title="為民服務">為民服務</a><ul>
+<li><a href="np.asp?ctNode=11351&amp;mp=057" title="便民措施">便民措施</a></li>
+<li><a href="np.asp?ctNode=6971&amp;mp=057" title="聯絡方式">聯絡方式</a></li>
+<li><a href="np.asp?ctNode=14026&amp;mp=057" title="預約接見">預約接見</a></li>
+<li><a href="np.asp?ctNode=14038&amp;mp=057" title="遠距接見">遠距接見</a></li>
+<li><a href="lp.asp?ctNode=6974&amp;CtUnit=13688&amp;BaseDSD=7&amp;mp=057" title="網路申辦">網路申辦</a></li>
+<li><a href="np.asp?ctNode=18788&amp;mp=057" title="開放參訪">開放參訪</a></li>
+<li><a href="np.asp?ctNode=18923&amp;mp=057" title="檔案應用申請">檔案應用申請</a></li>
+<li><a href="np.asp?ctNode=18685&amp;mp=057" title="移監作業申請">移監作業申請</a></li>
+<li><a href="lp.asp?ctNode=33630&amp;CtUnit=7728&amp;BaseDSD=7&amp;mp=057" title="就業資訊">就業資訊</a></li>
+<li><a href="lp.asp?ctNode=32261&amp;CtUnit=11855&amp;BaseDSD=7&amp;mp=057" title="影音專區">影音專區</a></li>
+<li><a href="np.asp?ctNode=35328&amp;mp=057" title="廉政園地">廉政園地</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=20316&amp;mp=057" title="活動看板">活動看板</a><ul>
+<li><a href="lp.asp?ctNode=40965&amp;CtUnit=16529&amp;BaseDSD=7&amp;mp=057" title="機關動態">機關動態</a></li>
+<li><a href="lp.asp?ctNode=20317&amp;CtUnit=4328&amp;BaseDSD=7&amp;mp=057" title="教化活動">教化活動</a></li>
+<li><a href="np.asp?ctNode=34052&amp;mp=057" title="才藝班">才藝班</a></li>
+<li><a href="lp.asp?ctNode=34054&amp;CtUnit=13146&amp;BaseDSD=7&amp;mp=057" title="藝文作品">藝文作品</a></li>
+<li><a href="lp.asp?ctNode=28869&amp;CtUnit=4030&amp;BaseDSD=7&amp;mp=057" title="役男活動區">役男活動區</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=20814&amp;mp=057" title="公開資訊">公開資訊</a><ul>
+<li><a href="lp.asp?ctNode=20815&amp;CtUnit=4640&amp;BaseDSD=7&amp;mp=057" title="組織職掌與聯絡資訊">組織職掌與聯絡資訊</a></li>
+<li><a href="lp.asp?ctNode=22399&amp;CtUnit=5711&amp;BaseDSD=7&amp;mp=057" title="法規命令">法規命令</a></li>
+<li><a href="np.asp?ctNode=22400&amp;mp=057" title="函釋與裁量基準">函釋與裁量基準</a></li>
+<li><a href="np.asp?ctNode=22401&amp;mp=057" title="行政指導文書">行政指導文書</a></li>
+<li><a href="lp.asp?ctNode=20816&amp;CtUnit=4643&amp;BaseDSD=7&amp;mp=057" title="施政計畫、業務統計與研究報告">施政計畫、業務統計與研究報告</a></li>
+<li><a href="np.asp?ctNode=36603&amp;mp=057" title="預算、決算及會計報告">預算、決算及會計報告</a></li>
+<li><a href="np.asp?ctNode=22402&amp;mp=057" title="請願、訴願">請願、訴願</a></li>
+<li><a href="lp.asp?ctNode=22403&amp;CtUnit=5715&amp;BaseDSD=7&amp;mp=057" title="公共工程採購契約">公共工程採購契約</a></li>
+<li><a href="lp.asp?ctNode=22404&amp;CtUnit=5716&amp;BaseDSD=7&amp;mp=057" title="支付或接受之補助">支付或接受之補助</a></li>
+<li><a href="np.asp?ctNode=31513&amp;mp=057" title="個人資料保護業務公開作業">個人資料保護業務公開作業</a></li>
+<li><a href="lp.asp?ctNode=34986&amp;CtUnit=12325&amp;BaseDSD=7&amp;mp=057" title="請託關說登錄查察">請託關說登錄查察</a></li>
+<li><a href="lp.asp?ctNode=42769&amp;CtUnit=17354&amp;BaseDSD=7&amp;mp=057" title="內部控制專區">內部控制專區</a></li>
+<li><a href="lp.asp?ctNode=43479&amp;CtUnit=17692&amp;BaseDSD=7&amp;mp=057" title="受刑人子女就學補助相關資訊">受刑人子女就學補助相關資訊</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=12409&amp;mp=057" title="統計園地">統計園地</a><ul>
+<li><a href="lp.asp?ctNode=12792&amp;CtUnit=757&amp;BaseDSD=7&amp;mp=057" title="園地導覽">園地導覽</a></li>
+<li><a href="np.asp?ctNode=12793&amp;mp=057" title="收容情形">收容情形</a></li>
+<li><a href="np.asp?ctNode=12795&amp;mp=057" title="業務成效">業務成效</a></li>
+<li><a href="lp.asp?ctNode=42207&amp;CtUnit=17095&amp;BaseDSD=7&amp;mp=057" title="統計輯要">統計輯要</a></li>
+<li><a href="http://www.rjsd.moj.gov.tw/RJSDWEB/common/SubMenu.aspx?menu=ANALYSIS" title="專題分析(另開新視窗)" target="_nwGip">專題分析</a></li>
+<li><a href="http://www.rjsd.moj.gov.tw/RJSDWEB/common/RelatedWebsite.aspx" title="相關網站(另開新視窗)" target="_nwGip">相關網站</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=15971&amp;mp=057" title="自營產品">自營產品</a><ul>
+<li><a href="np.asp?ctNode=15974&amp;mp=057" title="植物染">植物染</a></li>
+<li><a href="np.asp?ctNode=15973&amp;mp=057" title="牛軋糖">牛軋糖</a></li>
+<li><a href="np.asp?ctNode=21271&amp;mp=057" title="展售區">展售區</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=6975&amp;mp=057" title="承攬加工">承攬加工</a><ul>
+<li><a href="np.asp?ctNode=6976&amp;mp=057" title="承攬加工">承攬加工</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=6979&amp;mp=057" title="電子公佈欄">電子公佈欄</a><ul>
+<li><a href="lp.asp?ctNode=6980&amp;CtUnit=71&amp;BaseDSD=7&amp;mp=057" title="電子公佈欄">電子公佈欄</a></li>
+</ul>
+</li>
+<li><a href="http://www.edoc.moj.gov.tw" title="電子公文附件區">電子公文附件區</a></li>
+</ul>
+</div>
+<div class="Bottomtop" xmlns=""><img src="xslGip/unit057/images/bottom_topl.gif" alt="*"></div>
+<div class="Bottommiddle" xmlns="">
+<div id="Bottom"><P><IMG alt="QR code" 
+src="http://www.moj.gov.tw/site/moj/public/MMO/ksd/qrcode.png" MMOID="428402">&nbsp;&nbsp;<IMG title=100優良網站 alt=法務部矯正機關組網站評獎 src="http://www.moj.gov.tw/site/moj/public/MMO/ksd/法
+務部矯正機關組網站評獎.gif" MMOID="279221"> 
+<a href="http://www.handicap-free.nat.gov.tw/Applications/Detail?
+category=20160628091946" title="無障礙網站">
+    <img src="http://www.moj.gov.tw/site/moj/public/MMO/ksd/aplus.jpg" border="0" width="88" height="31" alt="通過A+優先等級無障礙網頁檢測" /></a>
+ <A target="_nwMof" href="http://www.moj.gov.tw/lp.asp?
+ctNode=28269&CtUnit=8057&BaseDSD=7" 
+target=_nwMof><IMG title=RSS alt=RSS 
+src="http://www.moj.gov.tw/site/moj/public/MMO/ksd/RSS.jpg" 
+MMOID="368918"></A>| | <A title=隱私權宣告 
+href="http://www.moj.gov.tw/ct.asp?
+xItem=28285&CtNode=27589">隱私權保護宣告</A> | | <A title=資訊安全政策宣告 href="http://www.moj.gov.tw/np.asp?ctNode=27458" target=_gipNW>資訊安全政策宣告</A> | | <A title=單一申辦窗口(另開視窗) 
+href="http://eservice.moj.gov.tw/eservice/index.asp?classsort=214" target=_gipNW>單一申辦窗口</A> | | <A title=首長信箱 href="http://www.ksd.moj.gov.tw/bbssp.asp?
+xdURL=./bossmail.asp&mailto=ksdh@mail.moj.gov.tw">首長信箱</A> | | <A title=資料開放宣告 href="http://www.ksd.moj.gov.tw/ct.asp?
+xItem=395505&ctNode=6980&mp=057">資料開放宣告
+</A></P>
+<P>法務部矯正署高雄第二監獄 地址:(824)高雄市燕巢區正德新村一號 總機:07-6152646<A title=機關位置 href="http://www.ksd.moj.gov.tw/ct.asp?
+xItem=1386&CtNode=6968&mp=057"> 交通資訊</A></P>
+<P>建議使用IE 8.0 以上版本　最佳觀看解析度1024x768</P></div>
+</div>
+<div class="Bottombottom" xmlns=""><img src="xslGip/unit057/images/bottom_bottoml.gif" alt="*"></div>
+</div>
+</body>
+</html>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38158979-1']);
+  _gaq.push(['_setDomainName', 'ksd.moj.gov.tw']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>

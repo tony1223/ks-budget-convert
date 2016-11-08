@@ -1,0 +1,652 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<script language="javascript">
+if("1"=="5" 
+||"1" == "5"  
+||"false"=="true"
+||""=="FileMgn/FileList.asp"
+||""=="FileMgn/searchFile.asp"
+||""=="FileMgn/FileOnlyList.asp"){
+	if("false" != "true"){
+		alert("您沒有權限檢視此網頁");
+		document.location.href="mp.asp?mp=1";
+	}
+}
+if("false" == "true" && "1" != "5" && "true" == "true"){
+	
+	document.location.href="mp.asp?mp=5";
+}
+
+</script>
+<html xml:lang="zh-TW" lang="zh-TW" xmlns:hyweb="urn:gip-hyweb-com" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>行政院農業委員會-水產試驗所全球資訊網
+				─ 105年預算案(XML)</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="DC.Title" content="105年預算案(XML)">
+<meta name="DC.Subject" content="105年預算案(XML)">
+<meta name="DC.Creator" content="黃詩涵">
+<meta name="DC.Description" content="105年預算案(XML)">
+<meta name="DC.Publisher" content="主計室">
+<meta name="DC.Contributor" content="">
+<meta name="DC.coverage.t.max" content="2018-9-2">
+<meta name="DC.coverage.t.min" content="2015-9-2">
+<meta name="DC.Date" content="2015-9-2 00:00">
+<meta name="DC.Type" content="文字">
+<meta name="DC.Format" content="文字">
+<meta name="DC.Identifier" content="277095">
+<meta name="DC.Relation" content="CP-277095">
+<meta name="DC.Source" content="">
+<meta name="DC.Language" content="">
+<meta name="DC.Coverage" content="">
+<meta name="DC.Rights" content="">
+<meta name="Category.Theme" content="500">
+<meta name="Category.Cake" content="E00">
+<meta name="Category.Service" content="I10">
+<link rel="alternate" type="application/rss+xml" title="公告與活動" href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=730">
+<link rel="alternate" type="application/rss+xml" title="消息公佈" href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=1231">
+<link rel="alternate" type="application/rss+xml" title="來函照登" href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=1233">
+<link rel="alternate" type="application/rss+xml" title="技轉公告" href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=1234">
+<link rel="alternate" type="application/rss+xml" title="澄清稿" href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=2489">
+<link rel="alternate" type="application/rss+xml" title="產學合作" href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=1202">
+<link rel="alternate" type="application/rss+xml" title="專利" href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=1205">
+<link rel="alternate" type="application/rss+xml" title="商標" href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=1206">
+<link rel="alternate" type="application/rss+xml" title="水產研究(1993年創刊)" href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=1209">
+<link rel="alternate" type="application/rss+xml" title="黑潮漁業數位典藏" href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=2441">
+<link rel="alternate" type="application/rss+xml" title="沿近海標本數位典藏" href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=2442">
+<link rel="alternate" type="application/rss+xml" title="漁業問答" href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=1225">
+<link rel="alternate" type="application/rss+xml" title="水產品食安專區" href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=2484">
+<link rel="alternate" type="application/rss+xml" title="水產新聞" href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=737">
+<link rel="alternate" type="application/rss+xml" title="政府資訊公開" href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=768">
+<link rel="alternate" type="application/rss+xml" title="招標資訊" href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=1253">
+<link rel="alternate" type="application/rss+xml" title="施政計畫　　" href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=1254">
+<link rel="alternate" type="application/rss+xml" title="就業資訊 " href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=774">
+<link rel="alternate" type="application/rss+xml" title="本所就業相關資訊 " href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=1258">
+<link rel="alternate" type="application/rss+xml" title="其他政府就業相關資訊" href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=1261">
+<link rel="alternate" type="application/rss+xml" title="重大政策 " href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=780">
+<link rel="alternate" type="application/rss+xml" title="農委會重大政策 " href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=1262">
+<link rel="alternate" type="application/rss+xml" title="行政院重大政策" href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=1263">
+<link rel="alternate" type="application/rss+xml" title="其他政府重大政策" href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=1264">
+<link rel="alternate" type="application/rss+xml" title="政風宣導" href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=1265">
+<link rel="alternate" type="application/rss+xml" title="請託關說登錄" href="search.getService.asp?serviceName=GIP.xdrss&mp=1&ctNodeId=2467">
+<meta name="Title" content="行政院、農委會、水產試驗所、全球資訊網"/>
+<meta name="Keywords" content="行政院、農委會、水產試驗所、全球資訊網"/>
+<link rel="stylesheet" type="text/css" href="GIPDSD/xslGip/xslExport/1/fri/css/design.css">
+</link>
+<link rel="stylesheet" type="text/css" href="GIPDSD/xslGip/xslExport/1/fri/css/tabpanel1_class.css">
+</link>
+<link rel="stylesheet" type="text/css" media="print" href="GIPDSD/xslGip/xslExport/1/fri/css/print.css">
+</link>
+<link rel="stylesheet" type="text/css" title="color1" cat="color" href="GIPDSD/xslGip/xslExport/1/fri/css/design.css">
+</link>
+<link rel="alternate stylesheet" type="text/css" title="color2" cat="color" href="GIPDSD/xslGip/xslExport/1/fri/css/design2.css">
+</link>
+<link rel="alternate stylesheet" type="text/css" title="color3" cat="color" href="GIPDSD/xslGip/xslExport/1/fri/css/design3.css">
+</link>
+<link rel="alternate stylesheet" type="text/css" title="color4" cat="color" href="GIPDSD/xslGip/xslExport/1/fri/css/design4.css">
+</link>
+<link href="js/jscalendar-1.0/calendar-system.css" rel="stylesheet" type="text/css"></link>
+<script type="text/javascript" src="js/jscalendar-1.0/calendar.js"></script>
+<script type="text/javascript" src="js/jscalendar-1.0/lang/calendar-en.js"></script>
+<script type="text/javascript" src="js/mootools.v1.11.js"></script>
+<script type="text/javascript" src="js/jscalendar-1.0/calendar-setup.js"></script>
+<script type="text/javascript" src="GIPDSD/xslGip/xslExport/1/fri/js/multimenu.js">
+</script>
+</head>
+<body>
+<a name="top"></a>
+<div class="wrap">
+<div id="zone.head" class="top"><div class="header">
+<h1><a title="行政院農業委員會-水產試驗所全球資訊網" href="mp.asp?mp=1"><img src="GIPDSD/xslGip/xslExport/1/fri/images/space.gif" title="行政院農業委員會-水產試驗所全球資訊網" alt="行政院農業委員會-水產試驗所全球資訊網"></a></h1>
+<div class="nav">
+<div class="accesskeyU"><a href="#" title="上方內容區塊" accesskey="U">:::</a></div><ul>
+          <li><a href="mp.asp?mp=1">回首頁</a></li>
+          <li><a href="sitemap.asp?mp=1">網站導覽</a></li>
+		  <li><a href="ct.asp?mp=1&xItem=157236&CtNode=2372">新舊網站對照</a></li>
+          <li><a href="mp.asp?mp=3">English</a></li>
+          <li><a href="Javascript: var win=window.open('mp.asp?mp=2', '行動版', config='width=335,height=440,resizable=yes,scrollbars=yes')" >行動版</a></li>
+          <li><a href="lp.asp?ctNode=1226&CtUnit=148&BaseDSD=7">雙語詞彙</a></li>
+          <li><a href="lp.asp?ctNode=1513&CtUnit=231&BaseDSD=7">RSS<img src="GIPDSD/xslGip/xslExport/1/fri/images/rss.gif" alt="rss" /></a></li></div>
+<div class="user">        <ul>
+          <li class="here"><a href="#">一般民眾</a></li>
+          <li><a href="mp.asp?mp=4">水產業者</a></li>
+          <li><a href="mp.asp?mp=5">本所人員</a></li>
+        </ul></div><script type="text/javascript" src="js/styleswitcher.js"></script><script type="text/javascript" src="GIPDSD/xslGip/xslExport/1/fri/js/multimenu.js"></script><script type="text/javascript" src="GIPDSD/xslGip/xslExport/1/fri/js/globals.js"></script><script type="text/javascript" src="GIPDSD/xslGip/xslExport/1/fri/js/tabpanel1_class.js"></script><script type="text/javascript" src="GIPDSD/xslGip/xslExport/1/fri/js/widgets_class.js"></script><link href="GIPDSD/xslGip/xslExport/1/fri/css/print.css" rel="stylesheet" media="print" type="text/css"><script type="text/javascript" src="GIPDSD/xslGip/xslExport/1/fri/js/jquery-1.4.2.min.js"></script><script type="text/javascript" src="GIPDSD/xslGip/xslExport/1/fri/js/jquery.jcarousel.min.js"></script><link rel="stylesheet" type="text/css" href="GIPDSD/xslGip/xslExport/1/fri/css/skin.css"><link rel="stylesheet" type="text/css" href="GIPDSD/xslGip/xslExport/1/fri/css/skin_ie7.css"><script type="text/javascript">
+
+			jQuery(document).ready(function() {
+				jQuery('#mycarousel ,#mycarouse2').jcarousel({
+					vertical: true,
+					scroll: 2
+
+				});
+
+			});
+
+			</script><script type="text/javascript">
+
+			jQuery(document).ready(function() {
+				// Initialise the first and second carousel by class selector.
+				// Note that they use both the same configuration options (none in this case).
+				jQuery('.first-and-second-carousel').jcarousel();
+				
+				// If you want to use a caoursel with different configuration options,
+				// you have to initialise it seperately.
+				// We do it by an id selector here.
+				jQuery('#third-carousel').jcarousel({
+					vertical: true
+				});
+			});
+
+
+			</script><script type="text/javascript" src="GIPDSD/xslGip/xslExport/1/fri/js/mootools.v1.11.js"></script><div class="custom">
+<link rel="stylesheet" type="text/css" href="GIPDSD/xslGip/xslExport/1/fri/css/fontS.css" title="small" cat="font">
+<link rel="alternate stylesheet" type="text/css" href="GIPDSD/xslGip/xslExport/1/fri/css/fontM.css" title="medium" cat="font">
+<link rel="alternate stylesheet" type="text/css" href="GIPDSD/xslGip/xslExport/1/fri/css/fontL.css" title="large" cat="font"><styleSwitcher cat="font"></styleSwitcher><div class="fontSet">
+<ul>
+<li class="fontS"><a id="small" cat="font" href="GIPDSD/xslGip/xslExport/1/fri/css/fontS.css" class="here" onclick="setActiveStyleSheet('small', 'font'); return false;" onkeypress="setActiveStyleSheet('small', 'font'); return false;"><img src="GIPDSD/xslGip/xslExport/1/fri/images/fontset_s.gif" alt="Font Size：S"></a></li>
+<li class="fontM"><a id="medium" cat="font" href="GIPDSD/xslGip/xslExport/1/fri/css/fontM.css" onclick="setActiveStyleSheet('medium', 'font'); return false;" onkeypress="setActiveStyleSheet('medium', 'font'); return false;"><img src="GIPDSD/xslGip/xslExport/1/fri/images/fontset_m.gif" alt="Font Size：M"></a></li>
+<li class="fontL"><a id="large" cat="font" href="GIPDSD/xslGip/xslExport/1/fri/css/fontL.css" onclick="setActiveStyleSheet('large', 'font'); return false;" onkeypress="setActiveStyleSheet('large', 'font'); return false;"><img src="GIPDSD/xslGip/xslExport/1/fri/images/fontset_l.gif" alt="Font Size：L"></a></li>
+</ul>
+</div><styleSwitcher cat="color"></styleSwitcher><div class="colorSet">
+<ul>
+<li><a id="color1" cat="color" href="GIPDSD/xslGip/xslExport/1/fri/css/design.css" onclick="setActiveStyleSheet('color1', 'color'); return false;" onkeypress="setActiveStyleSheet('color1', 'color'); return false;"><img src="GIPDSD/xslGip/xslExport/1/fri/images/color_blue.gif" alt="藍"></a></li>
+<li><a id="color2" cat="color" href="GIPDSD/xslGip/xslExport/1/fri/css/design2.css" onclick="setActiveStyleSheet('color2', 'color'); return false;" onkeypress="setActiveStyleSheet('color2', 'color'); return false;"><img src="GIPDSD/xslGip/xslExport/1/fri/images/color_green.gif" alt="綠"></a></li>
+<li><a id="color3" cat="color" href="GIPDSD/xslGip/xslExport/1/fri/css/design3.css" onclick="setActiveStyleSheet('color3', 'color'); return false;" onkeypress="setActiveStyleSheet('color3', 'color'); return false;"><img src="GIPDSD/xslGip/xslExport/1/fri/images/color_orange.gif" alt="橙"></a></li>
+<li><a id="color4" cat="color" href="GIPDSD/xslGip/xslExport/1/fri/css/design4.css" onclick="setActiveStyleSheet('color4', 'color'); return false;" onkeypress="setActiveStyleSheet('color4', 'color'); return false;"><img src="GIPDSD/xslGip/xslExport/1/fri/images/color_purple.gif" alt="紫"></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<table class="layout" summary="layout table">
+<tr>
+<td class="leftbg">
+<div class="side">
+<div class="accesskey"><a href="#" title="左方導覽區塊" accesskey="L">:::</a></div>
+<div id="zone.SideBarLeft"><script type="text/javascript" src="js/bgiframe/jquery.bgiframe.js"></script><div class="mlmenu menubg inaccesible arrow">
+<ul>
+<li><a href="np.asp?ctNode=730&amp;mp=1" title="公告與活動">公告與活動</a><ul id="selectMenu_730">
+<li><a href="lp.asp?ctNode=1231&amp;CtUnit=301&amp;BaseDSD=7&amp;mp=1" title="消息公佈">消息公佈</a></li>
+<li><a href="lp.asp?ctNode=1233&amp;CtUnit=303&amp;BaseDSD=7&amp;mp=1" title="來函照登">來函照登</a></li>
+<li><a href="lp.asp?ctNode=1234&amp;CtUnit=304&amp;BaseDSD=7&amp;mp=1" title="技轉公告">技轉公告</a></li>
+<li><a href="lp.asp?ctNode=2489&amp;CtUnit=379&amp;BaseDSD=7&amp;mp=1" title="澄清稿">澄清稿</a></li>
+</ul><script type="text/javascript">if(parseFloat(navigator.appVersion.match(/MSIE (\d\.*\d*)/i)[1])<7){$('#selectMenu_730').bgiframe();}</script></li>
+<li><a href="np.asp?ctNode=679&amp;mp=1" title="本所簡介">本所簡介</a><ul id="selectMenu_679">
+<li><a href="np.asp?ctNode=1187&amp;CtUnit=226&amp;BaseDSD=92&amp;mp=1" title="目標與願景">目標與願景</a></li>
+<li><a href="np.asp?ctNode=1188&amp;CtUnit=116&amp;BaseDSD=53&amp;mp=1" title="所長簡介">所長簡介</a></li>
+<li><a href="np.asp?ctNode=1190&amp;mp=1" title="組織編制">組織編制</a><ul id="selectMenu_1190">
+<li><a href="np.asp?ctNode=1189&amp;CtUnit=114&amp;BaseDSD=7&amp;mp=1" title="組織編制說明">組織編制說明</a></li>
+<li><a href="lp.asp?ctNode=1191&amp;CtUnit=117&amp;BaseDSD=54&amp;mp=1" title="組別與中心">組別與中心</a></li>
+</ul><script type="text/javascript">if(parseFloat(navigator.appVersion.match(/MSIE (\d\.*\d*)/i)[1])<7){$('#selectMenu_1190').bgiframe();}</script></li>
+<li><a href="lp.asp?ctNode=1192&amp;CtUnit=118&amp;BaseDSD=7&amp;mp=1" title="歷史沿革">歷史沿革</a></li>
+<li><a href="lp.asp?ctNode=1193&amp;CtUnit=119&amp;BaseDSD=55&amp;mp=1" title="歷任所長">歷任所長</a></li>
+<li><a href="lp.asp?ctNode=1194&amp;CtUnit=120&amp;BaseDSD=56&amp;mp=1" title="連絡資訊">連絡資訊</a></li>
+<li><a href="lp.asp?ctNode=2455&amp;CtUnit=361&amp;BaseDSD=7&amp;mp=1" title="本所Logo及Banner">本所Logo及Banner</a></li>
+</ul><script type="text/javascript">if(parseFloat(navigator.appVersion.match(/MSIE (\d\.*\d*)/i)[1])<7){$('#selectMenu_679').bgiframe();}</script></li>
+<li><a href="np.asp?ctNode=686&amp;mp=1" title="研究與成果">研究與成果</a><ul id="selectMenu_686">
+<li><a href="lp.asp?ctNode=1195&amp;CtUnit=122&amp;BaseDSD=57&amp;mp=1" title="研究計畫及成果">研究計畫及成果</a></li>
+<li><a href="lp.asp?ctNode=1200&amp;CtUnit=124&amp;BaseDSD=60&amp;mp=1" title="論文目錄">論文目錄</a></li>
+<li><a href="lp.asp?ctNode=1202&amp;CtUnit=126&amp;BaseDSD=62&amp;mp=1" title="產學合作">產學合作</a></li>
+<li><a href="np.asp?ctNode=1203&amp;mp=1" title="專利與技轉">專利與技轉</a><ul id="selectMenu_1203">
+<li><a href="lp.asp?ctNode=1204&amp;CtUnit=127&amp;BaseDSD=63&amp;mp=1" title="技術移轉">技術移轉</a></li>
+<li><a href="lp.asp?ctNode=1205&amp;CtUnit=128&amp;BaseDSD=64&amp;mp=1" title="專利">專利</a></li>
+<li><a href="lp.asp?ctNode=1206&amp;CtUnit=129&amp;BaseDSD=64&amp;mp=1" title="商標">商標</a></li>
+</ul><script type="text/javascript">if(parseFloat(navigator.appVersion.match(/MSIE (\d\.*\d*)/i)[1])<7){$('#selectMenu_1203').bgiframe();}</script></li>
+<li><a href="lp.asp?ctNode=1567&amp;CtUnit=130&amp;BaseDSD=102&amp;mp=1" title="研討會議">研討會議</a></li>
+</ul><script type="text/javascript">if(parseFloat(navigator.appVersion.match(/MSIE (\d\.*\d*)/i)[1])<7){$('#selectMenu_686').bgiframe();}</script></li>
+<li><a href="np.asp?ctNode=703&amp;mp=1" title="出版品">出版品</a><ul id="selectMenu_703">
+<li><a href="lp.asp?ctNode=1208&amp;CtUnit=131&amp;BaseDSD=67&amp;mp=1" title="出版品一覽表">出版品一覽表</a></li>
+<li><a href="lp.asp?ctNode=1209&amp;CtUnit=132&amp;BaseDSD=60&amp;mp=1" title="水產研究(1993年創刊)">水產研究(1993年創刊)</a></li>
+<li><a href="lp.asp?ctNode=1211&amp;CtUnit=133&amp;BaseDSD=60&amp;mp=1" title="水試專訊(2003年創刊)">水試專訊(2003年創刊)</a></li>
+<li><a href="lp.asp?ctNode=2507&amp;CtUnit=385&amp;BaseDSD=7&amp;mp=1" title="水產試驗所特刊">水產試驗所特刊</a></li>
+<li><a href="lp.asp?ctNode=2490&amp;CtUnit=382&amp;BaseDSD=7&amp;mp=1" title="水產試驗所技術手冊">水產試驗所技術手冊</a></li>
+<li><a href="sp.asp?xdurl=annual/AnnualList.asp&amp;ctNode=1212" title="年報">年報</a></li>
+<li><a href="lp.asp?ctNode=2493&amp;CtUnit=384&amp;BaseDSD=7&amp;mp=1" title="水產養殖魚介類圖說">水產養殖魚介類圖說</a></li>
+<li><a href="lp.asp?ctNode=1216&amp;CtUnit=138&amp;BaseDSD=60&amp;mp=1" title="試驗報告(1953~1991)">試驗報告(1953~1991)</a></li>
+<li><a href="lp.asp?ctNode=1217&amp;CtUnit=139&amp;BaseDSD=60&amp;mp=1" title="海水繁養殖研究(2003~2006)">海水繁養殖研究(2003~2006)</a></li>
+<li><a href="lp.asp?ctNode=1218&amp;CtUnit=140&amp;BaseDSD=60&amp;mp=1" title="潮訊(1989~2002)">潮訊(1989~2002)</a></li>
+</ul><script type="text/javascript">if(parseFloat(navigator.appVersion.match(/MSIE (\d\.*\d*)/i)[1])<7){$('#selectMenu_703').bgiframe();}</script></li>
+<li><a href="np.asp?ctNode=704&amp;CtUnit=141&amp;BaseDSD=7&amp;mp=1" title="圖書館藏">圖書館藏</a></li>
+<li><a class="here" name="MenuHere" href="np.asp?ctNode=705&amp;mp=1" title="水產資訊">水產資訊</a><ul id="selectMenu_705">
+<li><a href="np.asp?ctNode=2439&amp;mp=1" title="水產數位典藏">水產數位典藏</a><ul id="selectMenu_2439">
+<li><a href="np.asp?ctNode=2440&amp;CtUnit=142&amp;BaseDSD=76&amp;mp=1" title="水產數位典藏介紹">水產數位典藏介紹</a></li>
+<li><a href="lp.asp?ctNode=2441&amp;CtUnit=143&amp;BaseDSD=77&amp;mp=1" title="黑潮漁業數位典藏">黑潮漁業數位典藏</a></li>
+<li><a href="lp.asp?ctNode=2442&amp;CtUnit=144&amp;BaseDSD=77&amp;mp=1" title="沿近海標本數位典藏">沿近海標本數位典藏</a></li>
+<li><a href="lp.asp?ctNode=2443&amp;CtUnit=145&amp;BaseDSD=77&amp;mp=1" title="水產生物圖說">水產生物圖說</a></li>
+</ul><script type="text/javascript">if(parseFloat(navigator.appVersion.match(/MSIE (\d\.*\d*)/i)[1])<7){$('#selectMenu_2439').bgiframe();}</script></li>
+<li><a href="lp.asp?ctNode=1224&amp;CtUnit=146&amp;BaseDSD=7&amp;mp=1" title="水產知識淺說">水產知識淺說</a></li>
+<li><a class="here" name="MenuHere" href="lp.asp?ctNode=1225&amp;CtUnit=147&amp;BaseDSD=7&amp;mp=1" title="漁業問答">漁業問答</a></li>
+<li><a href="lp.asp?ctNode=1226&amp;CtUnit=148&amp;BaseDSD=7&amp;mp=1" title="雙語辭彙">雙語辭彙</a></li>
+<li><a href="np.asp?ctNode=1227&amp;mp=1" title="漁場動態">漁場動態</a><ul id="selectMenu_1227">
+<li><a href="lp.asp?ctNode=1228&amp;CtUnit=149&amp;BaseDSD=106&amp;mp=1" title="衛星海溫影像">衛星海溫影像</a></li>
+<li><a href="lp.asp?ctNode=1229&amp;CtUnit=150&amp;BaseDSD=83&amp;mp=1" title="試驗船預定航期表">試驗船預定航期表</a></li>
+<li><a href="lp.asp?ctNode=1230&amp;CtUnit=151&amp;BaseDSD=83&amp;mp=1" title="航次報告">航次報告</a></li>
+</ul><script type="text/javascript">if(parseFloat(navigator.appVersion.match(/MSIE (\d\.*\d*)/i)[1])<7){$('#selectMenu_1227').bgiframe();}</script></li>
+<li><a href="lp.asp?ctNode=2484&amp;CtUnit=376&amp;BaseDSD=7&amp;mp=1" title="水產品食安專區">水產品食安專區</a></li>
+<li><a href="lp.asp?ctNode=2497&amp;CtUnit=135&amp;BaseDSD=60&amp;mp=1" title="水產技術">水產技術</a></li>
+<li><a href="lp.asp?ctNode=2498&amp;CtUnit=136&amp;BaseDSD=72&amp;mp=1" title="水產多媒體">水產多媒體</a></li>
+<li><a href="http://wwwextra.tfrin.gov.tw/fish_recipes/" target="_blank" title="水產食譜, , 另開新視窗.">水產食譜</a></li>
+</ul><script type="text/javascript">if(parseFloat(navigator.appVersion.match(/MSIE (\d\.*\d*)/i)[1])<7){$('#selectMenu_705').bgiframe();}</script></li>
+<li><a href="np.asp?ctNode=737&amp;mp=1" title="水產新聞">水產新聞</a><ul id="selectMenu_737">
+<li><a href="lp.asp?ctNode=1198&amp;CtUnit=283&amp;BaseDSD=7&amp;mp=1" title="新聞稿">新聞稿</a></li>
+<li><a href="lp.asp?ctNode=1199&amp;CtUnit=284&amp;BaseDSD=113&amp;mp=1" title="記者會">記者會</a></li>
+<li><a href="lp.asp?ctNode=1236&amp;CtUnit=153&amp;BaseDSD=84&amp;mp=1" title="水試所電子報">水試所電子報</a></li>
+</ul><script type="text/javascript">if(parseFloat(navigator.appVersion.match(/MSIE (\d\.*\d*)/i)[1])<7){$('#selectMenu_737').bgiframe();}</script></li>
+<li><a href="np.asp?ctNode=744&amp;mp=1" title="為民服務">為民服務</a><ul id="selectMenu_744">
+<li><a href="np.asp?ctNode=1239&amp;mp=1" title="水產品檢驗服務">水產品檢驗服務</a><ul id="selectMenu_1239">
+<li><a href="np.asp?ctNode=1240&amp;mp=1" title="水產品檢驗服務(台西)">水產品檢驗服務(台西)</a></li>
+<li><a href="np.asp?ctNode=1243&amp;mp=1" title="水產品檢驗服務(七股)">水產品檢驗服務(七股)</a></li>
+<li><a href="np.asp?ctNode=1244&amp;mp=1" title="水產品檢驗服務(基隆)">水產品檢驗服務(基隆)</a></li>
+</ul><script type="text/javascript">if(parseFloat(navigator.appVersion.match(/MSIE (\d\.*\d*)/i)[1])<7){$('#selectMenu_1239').bgiframe();}</script></li>
+<li><a href="np.asp?ctNode=1245&amp;mp=1" title="水產技術諮詢服務">水產技術諮詢服務</a></li>
+<li><a href="np.asp?ctNode=1246&amp;mp=1" title="水產生物諮詢服務　">水產生物諮詢服務　</a></li>
+<li><a href="np.asp?ctNode=1247&amp;mp=1" title="魚苗繁殖推廣　">魚苗繁殖推廣　</a></li>
+<li><a href="np.asp?ctNode=1248&amp;mp=1" title="提供餌料生物種原">提供餌料生物種原</a></li>
+<li><a href="np.asp?ctNode=1249&amp;mp=1" title="水質分析　">水質分析　</a><ul id="selectMenu_1249">
+<li><a href="np.asp?ctNode=1251&amp;mp=1" title="水質分析(台南)">水質分析(台南)</a></li>
+</ul><script type="text/javascript">if(parseFloat(navigator.appVersion.match(/MSIE (\d\.*\d*)/i)[1])<7){$('#selectMenu_1249').bgiframe();}</script></li>
+<li><a href="np.asp?ctNode=1252&amp;mp=1" title="台灣沿近海衛星水溫資料">台灣沿近海衛星水溫資料</a></li>
+<li><a href="sp.asp?xdurl=onlineservice/Apply_Contactus.asp&amp;ctNode=2488" title="意見信箱">意見信箱</a></li>
+<li><a href="mailto:fridoc@mail.tfrin.gov.tw?cc=sssu@mail.tfrin.gov.tw " title="首長信箱">首長信箱</a></li>
+</ul><script type="text/javascript">if(parseFloat(navigator.appVersion.match(/MSIE (\d\.*\d*)/i)[1])<7){$('#selectMenu_744').bgiframe();}</script></li>
+<li><a href="np.asp?ctNode=768&amp;mp=1" title="政府資訊公開">政府資訊公開</a><ul id="selectMenu_768">
+<li><a href="lp.asp?ctNode=1253&amp;CtUnit=159&amp;BaseDSD=7&amp;mp=1" title="招標資訊">招標資訊</a></li>
+<li><a href="lp.asp?ctNode=1254&amp;CtUnit=323&amp;BaseDSD=7&amp;mp=1" title="施政計畫　　">施政計畫　　</a></li>
+<li><a href="lp.asp?ctNode=1255&amp;CtUnit=324&amp;BaseDSD=7&amp;mp=1" title="預算決算　">預算決算　</a></li>
+<li><a href="lp.asp?ctNode=2356&amp;CtUnit=335&amp;BaseDSD=111&amp;mp=1" title="行政法規">行政法規</a></li>
+<li><a href="lp.asp?ctNode=2471&amp;CtUnit=366&amp;BaseDSD=7&amp;mp=1" title="支付或接受之補助">支付或接受之補助</a></li>
+<li><a href="http://law.moj.gov.tw/" target="_blank" title="全國法規資料庫, , 另開新視窗.">全國法規資料庫</a></li>
+<li><a href="lp.asp?ctNode=1257&amp;CtUnit=326&amp;BaseDSD=7&amp;mp=1" title="其他">其他</a></li>
+</ul><script type="text/javascript">if(parseFloat(navigator.appVersion.match(/MSIE (\d\.*\d*)/i)[1])<7){$('#selectMenu_768').bgiframe();}</script></li>
+<li><a href="np.asp?ctNode=774&amp;mp=1" title="就業資訊 ">就業資訊 </a><ul id="selectMenu_774">
+<li><a href="lp.asp?ctNode=1258&amp;CtUnit=160&amp;BaseDSD=7&amp;mp=1" title="本所就業相關資訊 ">本所就業相關資訊 </a></li>
+<li><a href="http://www7.www.gov.tw/policy/2009career/index.html" target="_blank" title="行政院就業相關資訊, , 另開新視窗.">行政院就業相關資訊</a></li>
+<li><a href="lp.asp?ctNode=1261&amp;CtUnit=161&amp;BaseDSD=7&amp;mp=1" title="其他政府就業相關資訊">其他政府就業相關資訊</a></li>
+</ul><script type="text/javascript">if(parseFloat(navigator.appVersion.match(/MSIE (\d\.*\d*)/i)[1])<7){$('#selectMenu_774').bgiframe();}</script></li>
+<li><a href="np.asp?ctNode=780&amp;mp=1" title="重大政策 ">重大政策 </a><ul id="selectMenu_780">
+<li><a href="http://www.coa.gov.tw/ws.php?id=19059" target="_blank" title="農委會重大政策 , , 另開新視窗.">農委會重大政策 </a></li>
+<li><a href="http://www.ey.gov.tw/news.aspx?n=3D06E532B0D8316C" target="_blank" title="行政院重大政策, , 另開新視窗.">行政院重大政策</a></li>
+<li><a href="lp.asp?ctNode=1264&amp;CtUnit=163&amp;BaseDSD=7&amp;mp=1" title="其他政府重大政策">其他政府重大政策</a></li>
+</ul><script type="text/javascript">if(parseFloat(navigator.appVersion.match(/MSIE (\d\.*\d*)/i)[1])<7){$('#selectMenu_780').bgiframe();}</script></li>
+<li><a href="np.asp?ctNode=784&amp;mp=1" title="政風園地">政風園地</a><ul id="selectMenu_784">
+<li><a href="lp.asp?ctNode=1265&amp;CtUnit=185&amp;BaseDSD=14&amp;mp=1" title="政風宣導">政風宣導</a></li>
+<li><a href="lp.asp?ctNode=2427&amp;CtUnit=189&amp;BaseDSD=14&amp;mp=1" title="政風法令">政風法令</a></li>
+<li><a href="lp.asp?ctNode=2428&amp;CtUnit=181&amp;BaseDSD=14&amp;mp=1" title="廉政信箱">廉政信箱</a></li>
+<li><a href="lp.asp?ctNode=2467&amp;CtUnit=364&amp;BaseDSD=14&amp;mp=1" title="請託關說登錄">請託關說登錄</a></li>
+</ul><script type="text/javascript">if(parseFloat(navigator.appVersion.match(/MSIE (\d\.*\d*)/i)[1])<7){$('#selectMenu_784').bgiframe();}</script></li>
+<li><a href="lp.asp?ctNode=2518&amp;CtUnit=387&amp;BaseDSD=7&amp;mp=1" title="性別平等及性騷擾防治專區">性別平等及性騷擾防治專區</a></li>
+<li><a href="np.asp?ctNode=2481&amp;mp=1" title="無障礙旅遊專區">無障礙旅遊專區</a><ul id="selectMenu_2481">
+<li><a href="np.asp?ctNode=2482&amp;CtUnit=374&amp;BaseDSD=7&amp;mp=1" title="小丑魚主題館">小丑魚主題館</a></li>
+<li><a href="np.asp?ctNode=2483&amp;CtUnit=375&amp;BaseDSD=7&amp;mp=1" title="澎湖水族館">澎湖水族館</a></li>
+</ul><script type="text/javascript">if(parseFloat(navigator.appVersion.match(/MSIE (\d\.*\d*)/i)[1])<7){$('#selectMenu_2481').bgiframe();}</script></li>
+<li><a href="np.asp?ctNode=801&amp;mp=1" title="相關連結">相關連結</a><ul id="selectMenu_801">
+<li><a href="lp.asp?ctNode=1278&amp;CtUnit=174&amp;BaseDSD=7&amp;mp=1" title="國內連結">國內連結</a></li>
+<li><a href="lp.asp?ctNode=1279&amp;CtUnit=213&amp;BaseDSD=7&amp;mp=1" title="國外連結">國外連結</a></li>
+</ul><script type="text/javascript">if(parseFloat(navigator.appVersion.match(/MSIE (\d\.*\d*)/i)[1])<7){$('#selectMenu_801').bgiframe();}</script></li>
+<li><a href="np.asp?ctNode=1506&amp;mp=1" title="網站Q&A">網站Q&A</a><ul id="selectMenu_1506">
+<li><a href="lp.asp?ctNode=1508&amp;CtUnit=228&amp;BaseDSD=7&amp;mp=1" title="常見問答">常見問答</a></li>
+</ul><script type="text/javascript">if(parseFloat(navigator.appVersion.match(/MSIE (\d\.*\d*)/i)[1])<7){$('#selectMenu_1506').bgiframe();}</script></li>
+</ul>
+<div class="foot"></div>
+</div>
+<ul id="mycarousel" class="jcarousel jcarousel-skin-tango">
+<li><a title="農業創新育成中心" href="http://incubator-coa.nat.gov.tw/" target="_black" alt="農業創新育成中心"><img src="public/MMO/GIP2/incubation2.jpg" alt="農業創新育成中心"></a></li>
+<li><a title="YouTube" href="https://www.youtube.com/user/tfrin199" target="_black" alt="YouTube"><img src="public/MMO/GIP2/youtube.jpg" alt="YouTube"></a></li>
+<li><a title="Flickr" href="http://www.flickr.com/photos/104725903@N02/" target="_black" alt="Flickr"><img src="public/MMO/GIP2/flickr.jpg" alt="Flickr"></a></li>
+<li><a title="台灣水產技術影音網站" href="http://webgenie.tfrin.gov.tw:8080/avweb/" target="_black" alt="台灣水產技術影音網站"><img src="public/MMO/GIP2/mv.jpg" alt="台灣水產技術影音網站"></a></li>
+<li><a title="觀賞魚網站" href="http://wwwextra.tfrin.gov.tw/Ornamentalfish/index.html" target="_black" alt="觀賞魚網站"><img src="public/MMO/GIP2/buto.jpg" alt="觀賞魚網站"></a></li>
+<li><a title="公共藝術專題網站" href="http://wwwextra.tfrin.gov.tw/Art/index.html" target="_black" alt="公共藝術專題網站"><img src="public/MMO/GIP2/artbanner.gif" alt="公共藝術專題網站"></a></li>
+<li><a title="水產陳列館" href="http://exhibition.tfrin.gov.tw/" target="_black" alt="水產陳列館"><img src="public/MMO/GIP2/exhibition.jpg" alt="水產陳列館"></a></li>
+<li><a title="創新育成中心" href="http://wwwextra.tfrin.gov.tw/incubation/cultivation.html" target="_black" alt="創新育成中心"><img src="public/MMO/GIP2/buti.gif" alt="創新育成中心"></a></li>
+<li><a title="水產食譜" href="http://wwwextra.tfrin.gov.tw/fish_recipes/" target="_black" alt="水產食譜"><img src="public/MMO/GIP2/inbut.gif" alt="水產食譜"></a></li>
+</ul>
+</div>
+</div>
+</td>
+<td class="center">
+<div class="main">
+<div class="accesskey"><a href="#" title="中央內容區塊" accesskey="C">:::</a></div>
+<div id="zone.content11">
+<script type="text/javascript">
+if(!document.all) {
+	Node.prototype.__defineGetter__("xml",function(){ return (new XMLSerializer).serializeToString(this);});
+	Node.prototype.__defineGetter__("text",function(){ return this.textContent; });
+}
+function blen(xs) {			//檢測中英文夾雜字串實際長度
+	var xl = xs.length;
+	for(i=0; i<xl; i++) {
+		var intcode = xs.charCodeAt(i); 
+		if(intcode > 255 || intcode < 0) xl += 1;
+	}
+	return xl;
+}
+function date(){
+	var d = new Date();
+	return [d.getFullYear(), d.getMonth() > 8 ? d.getMonth() + 1 : '0' + (d.getMonth() + 1), d.getDate() > 9 ? d.getDate() : '0' + d.getDate()].join('/');
+}
+</script>
+
+<!--search star -->
+
+<div class="search">
+	
+	
+  
+	<label for="textfield">全站搜尋</label>
+	<form id="searchForm" name="searchForm" method="get" action="sp.asp">
+      <input type="hidden" value="search/searchList.asp" id="xdurl" name="xdurl">
+	 
+	  <input type="hidden" value="1" id="mp" name="mp">
+	  <input type="text" value="" accesskey="S" onblur="javascript: if(this.value=='') this.value='請輸入關鍵字';" onfocus="javascript: if(this.value=='請輸入關鍵字') this.value='';" name="q" id="q" class="text">
+	  <input type="image" src="images/search_btn.gif" alt="全站搜尋" onclick="javascript:goSearch();"  onkeypress="javascript:goSearch();">
+	  <input type="image" src="images/advsearch_btn.gif" alt="進階查詢" onclick="javascript:goAdvSearch();"  onkeypress="javascript:goAdvSearch();"/>
+	</form>
+	
+	<br>
+	<noscript>當script關閉時，請以後方連結取代</noscript>
+	<noscript><a href="http://www.tfrin.gov.tw:8080/searchg2-frontend/wSite/Control?function=BrowseCate&resource=&doReQuery=true&fieldName=fullText&groupNames=F003" target="_blank" alt="查詢替代連結" title="查詢替代連結">查詢替代連結</a></noscript>
+	<noscript><a href="http://www.tfrin.gov.tw:8080/searchg2-frontend/wSite/Control?function=SearchAdv&resource=" title="進階查詢替代連結" alt="進階查詢替代連結" target="_blank" >進階查詢替代連結</a></noscript>
+
+</div>
+
+<!--hot star -->
+<div class="hot">
+ 
+<!--
+<a href="#" onclick="javascript:goA('');" onkeypress="javascript:goA('');"></a> 
+-->
+
+</div>
+<script language="javascript">
+function OpenWindow(url){
+    var OpenWindow = window.open('', '水試所SearchG2查詢', 'height=700,width=1000,location=no');
+        OpenWindow.document.write('<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>SearchG2</title></head><frameset cols="100%"><frame name="main" title="search用框架" LONGDESC="link to:"'+url+'" src="'+url+'" marginwidth="0" marginheight="0" scrolling="auto"> <noframes><body><p>此網頁使用框架，但是您的瀏覽器並不支援。</p></body></noframes></frameset></html>');
+}
+function emptyword()
+{
+	document.getElementById("queryWord").value="";
+}
+function goA(qw)
+{
+	OpenWindow("http://www.tfrin.gov.tw:8080/searchg2-frontend/wSite/Control?function=BrowseCate&resource=&doReQuery=true&fieldName=fullText&groupNames=F003&queryWord="+encodeURIComponent(qw));
+
+}
+function goSearch(){
+	document.getElementById("searchForm").submit()
+}
+function goAdvSearch(){
+	
+	window.open("https://www.google.com.tw/advanced_search?hl=zh-TW&as_q=&num=100&as_sitesearch=www.tfrin.gov.tw&cof=FORID%3A10&ie=UTF-8&sa=%E6%90%9C%E5%B0%8B&siteurl=www");
+}
+</script>
+<div class="friendly">
+<div class="path"><span class="before">現在位置</span><a href="mp.asp?mp=1">首頁</a>
+				>
+				<a href="np.asp?ctNode=768&mp=1">政府資訊公開</a>
+				>
+				<a href="np.asp?ctNode=1255&mp=1">預算決算　</a></div>
+<div class="function">
+<ul>
+<li><a class="print" href="fp.asp?fpage=cp&xItem=277095&ctNode=1255&mp=1" title="友善列印">友善列印</a></li>
+<li><a class="forward" href="form.asp?fpage=cp&spec=form.forward&xItem=277095&ctNode=1255&mp=1" title="轉寄友人">轉寄友人</a></li>
+<li><a href="javascript:history.back();" class="back" alt="回上一頁" title="回上一頁">回上一頁</a></li>
+<noscript>javascript失效時請鍵盤Backspace取代回上一頁</noscript>
+</ul>
+</div>
+</div>
+<div class="lp"><br><div class="RightBtn"><input type="button" name="button" id="button" value="上一筆" class="btn" onclick="javascript:location.href='http://www.tfrin.gov.tw/ct.asp?xItem=277096&ctNode=1255&mp=1';" onkeypress="javascript:location.href='http://www.tfrin.gov.tw/ct.asp?xItem=277096&ctNode=1255&mp=1';"><noscript>
+							javascript失效時請以下列連結取代上一筆
+							<a href="http://www.tfrin.gov.tw/ct.asp?xItem=277096&ctNode=1255&mp=1">
+								上一筆
+							</a></noscript><input type="button" name="button" id="button" value="下一筆" class="btn" onclick="javascript:location.href='http://www.tfrin.gov.tw/ct.asp?xItem=276793&ctNode=1255&mp=1';" onkeypress="javascript:location.href='http://www.tfrin.gov.tw/ct.asp?xItem=276793&ctNode=1255&mp=1';"><noscript>
+							javascript失效時請以下列連結取代下一筆
+							<a href="http://www.tfrin.gov.tw/ct.asp?xItem=276793&ctNode=1255&mp=1">
+								下一筆
+							</a></noscript>
+</div>
+<h2><span>預算決算　</span></h2>
+<div class="webFun">
+<ul><script type="text/javascript" src="IVaFavor/js/favor.js"></script><li>書籤:
+				<a href="javascript:;" onclick="addFacebookBookmark()" onkeypress="addFacebookBookmark()" title=""><img title="facebook" alt="facebook" src="IVaFavor/images/facebook.gif" height="16" align="absmiddle" border="0"></a>&nbsp;
+				<a href="javascript:;" onclick="addPlurkBookmark()" onkeypress="addPlurkBookmark()" title=""><img title="plurk" alt="plurk" src="IVaFavor/images/plurk.gif" height="16" align="absmiddle" border="0"></a>&nbsp;
+				<a href="javascript:;" onclick="addFunPBookmark()" onkeypress="addFunPBookmark()" title=""><img title="funp" alt="funp" src="IVaFavor/images/funp.gif" width="16" height="16" align="absmiddle" border="0"></a>&nbsp;
+				<a href="javascript:;" onclick="addTwitterBookmark()" onkeypress="addTwitterBookmark()" title=""><img title="twitter" alt="twitter" src="IVaFavor/images/twitter.png" width="16" height="16" align="absmiddle" border="0"></a>&nbsp;
+				</li>
+<noscript>當javascript關閉時，請以後面連結代替</noscript>
+<noscript><a href="http://www.facebook.com/" alt="facebook" title="facebook">facebook</a></noscript>
+<noscript><a href="http://www.plurk.com/" alt="plurk" title="plurk">plurk</a></noscript>
+<noscript><a href="http://funp.com.tw/" alt="funp" title="funp">funp</a></noscript>
+<noscript><a href="https://twitter.com/" alt="twitter" title="twitter">twitter</a></noscript>
+<li class="clickFun">點閱: <em>47</em></li>
+<li class="diggFun">日期: <em>2015-9-2</em></li>
+</ul>
+</div>
+<div class="list2"><ul>
+<li>
+<table class="infotb" summary="排版用表格">
+<tr>
+<th>主題：</th>
+<td>105年預算案(XML)</td>
+</tr>
+<tr>
+<th>內文：</th>
+<td>105年預算案(XML)</td>
+</tr>
+<tr>
+<th>相關連結：</th>
+<td><a target="_blank" href=""></a></td>
+</tr>
+<tr>
+<th>登錄日期：</th>
+<td>2015/9/2</td>
+</tr>
+<tr>
+<th scope="row">相關檔案下載：</th>
+<td><a href="dl.asp?fileName=5928445271.7z" title="檔案類型：7z" alt="檔案類型：7z">
+						下載
+					</a></td>
+</tr>
+</table>
+</li>
+</ul>
+</div>
+<div class="RightBtn"><input type="button" name="button" id="button" value="上一筆" class="btn" onclick="javascript:location.href='http://www.tfrin.gov.tw/ct.asp?xItem=277096&ctNode=1255&mp=1';" onkeypress="javascript:location.href='http://www.tfrin.gov.tw/ct.asp?xItem=277096&ctNode=1255&mp=1';"><noscript>
+							javascript失效時請以下列連結取代上一筆
+							<a href="http://www.tfrin.gov.tw/ct.asp?xItem=277096&ctNode=1255&mp=1">
+								上一筆
+							</a></noscript><input type="button" name="button" id="button" value="下一筆" class="btn" onclick="javascript:location.href='http://www.tfrin.gov.tw/ct.asp?xItem=276793&ctNode=1255&mp=1';" onkeypress="javascript:location.href='http://www.tfrin.gov.tw/ct.asp?xItem=276793&ctNode=1255&mp=1';"><noscript>
+							javascript失效時請以下列連結取代下一筆
+							<a href="http://www.tfrin.gov.tw/ct.asp?xItem=276793&ctNode=1255&mp=1">
+								下一筆
+							</a></noscript>
+</div>
+<div class="quickLink">
+<ul>
+<li><a href="#top" class="gotop">回頁首</a></li>
+<li><a href="javascript:history.back();" class="back">回上一頁</a><noscript>
+						  ( alt + ← 回上一頁)
+						</noscript>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<table summary="layout table" class="clear">
+<tr>
+<td class="leftblock">
+<div id="zone.content121"></div>
+</td>
+<td class="rightblock">
+<div id="zone.content122"></div>
+</td>
+</tr>
+</table>
+<table summary="layout table" class="clear">
+<tr>
+<td class="col3block">
+<div id="zone.content131"></div>
+</td>
+<td class="col3block">
+<div id="zone.content132"></div>
+</td>
+<td class="col3block">
+<div id="zone.content133"></div>
+</td>
+</tr>
+</table>
+<div id="zone.content21">
+<!-- 
+
+<div class="cp">
+<h3>其他相關</h3>
+
+</div>
+<div class="cp">
+<h3>熱門文章</h3>
+<ul>
+
+</ul>
+</div>
+ --></div>
+<table summary="layout table" class="clear">
+<tr>
+<td class="leftblock">
+<div id="zone.content221"></div>
+</td>
+<td class="rightblock">
+<div id="zone.content222"></div>
+</td>
+</tr>
+</table>
+<table summary="layout table" class="clear">
+<tr>
+<td class="col3block">
+<div id="zone.content231"></div>
+</td>
+<td class="col3block">
+<div id="zone.content232"></div>
+</td>
+<td class="col3block">
+<div id="zone.content233"></div>
+</td>
+</tr>
+</table>
+<div id="zone.content31"></div>
+<table summary="layout table" class="clear">
+<tr>
+<td class="leftblock">
+<div id="zone.content321"></div>
+</td>
+<td class="rightblock">
+<div id="zone.content322"></div>
+</td>
+</tr>
+</table>
+<table summary="layout table" class="clear">
+<tr>
+<td class="col3block">
+<div id="zone.content331"></div>
+</td>
+<td class="col3block">
+<div id="zone.content332"></div>
+</td>
+<td class="col3block">
+<div id="zone.content333"></div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+<td class="rightbg hidden">
+<div class="side">
+<div class="accesskey"><a href="#" title="右方相關資訊區塊" accesskey="R">:::</a></div>
+<div id="zone.SideBarRight"></div>
+</div>
+</td>
+</tr>
+</table>
+<div id="zone.footer"><div class="footer"><p>
+最佳效果[IE 6+, FF 3+, 1024x768] <a href="http://www.tfrin.gov.tw/ct.asp?mp=1&xItem=157824&CtNode=2362" >版權所有</a> 行政院農業委員會水產試驗所<br />
+		  地址:(20246)基隆市和一路199號 ( <a href="http://maps.google.com.tw/maps?f=q&hl=zh-TW&geocode=&q=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%92%8C%E4%B8%80%E8%B7%AF199%E8%99%9F&sll=25.152413,121.770401&sspn=0.009304,0.014462&ie=UTF8&ll=25.154511,121.767654&spn=0.009303,0.014462&z=16&iwloc=addr&om=1" target="_blank">位置圖</a> )，電話:(+886) 02-24622101<br />
+</p>
+      <div class="copyright">
+            <ul>
+                <li><a href="ct.asp?mp=1&xItem=150876&CtNode=2362">隱私權政策</a></li>
+                <li><a href="ct.asp?mp=1&xItem=150877&CtNode=2363">網站安全政策</a></li>
+                <li><a href="/sp.asp?xdurl=onlineservice/Apply_Contactus.asp&ctNode=2488&mp=1">意見信箱</a></li>
+				<li><a href="mailto:fridoc@mail.tfrin.gov.tw?cc=sssu@mail.tfrin.gov.tw" title="首長信箱">首長信箱</a></li>
+            </ul>
+        </div><div class="copyright">
+<div class="copyright"></div>
+</div>
+<ul class="update2">
+<li>| 更新日期:<em>2016-11-04</em></li>
+<li>| 瀏覽人次: <em>35507373</em></li>
+<li>| 本日訪客人數：<em>719</em></li>
+<li>| 本小時訪客數：<em>52</em></li>
+</ul>
+<div class="aaa"><a target="_blank" href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20121023155802"><img src="images/aplus.jpg" alt="通過A+等級無障礙網頁檢測" title="通過A+等級無障礙網頁檢測"></a></div>
+<div class="egov"><a target="_blank" href="http://www.gov.tw/" title=""><img src="images/egov.png" alt="E政府"></a></div>
+</div><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19840730-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19840730-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><script>
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ 
+
+  ga('create', 'UA-74680135-1', 'auto');
+
+  ga('send', 'pageview');
+
+ 
+
+</script><noscript><iframe title="GoogleTagManager" src="//www.googletagmanager.com/ns.html?id=GTM-WPM2QX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WPM2QX');</script></div>
+</div>
+</body>
+</html>
+
+<script>
+function w3FP_close(reloadURL) {
+	if (reloadURL == "") {
+		location.reload();
+	} else{
+		location.reload(reloadURL);
+	}
+}
+</script>

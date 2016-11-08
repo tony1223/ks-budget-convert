@@ -1,0 +1,75 @@
+﻿
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-Frame-Options" content="deny">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<link href="/portal/tpl01/fileExchange/css/common.css" rel="stylesheet" type="text/css" />
+<link href="/portal/tpl01/fileExchange/css/calendar/calendar-blue.css" rel="stylesheet" type="text/css" />
+<link href="/portal/tpl01/fileExchange/css/colorbox/colorbox.css" rel="stylesheet" type="text/css" />
+<link href="/portal/tpl01/fileExchange/css/ekm.css" rel="stylesheet" type="text/css" />
+<link href="/portal/tpl01/fileExchange/css/fontsize2.css" rel="stylesheet" type="text/css" />
+<script type="text/JavaScript" src="/portal/js/jquery.js"></script>
+<script type="text/JavaScript" src="/portal/js/common.js"></script>
+</head>
+<!-- formUtil -->
+<script type="text/javascript" src="/portal/js/formUtil.js"></script>
+
+<script>
+
+/**
+ * 取代frm.submit()
+ */
+function doSubmit(){
+      init_doSubmit();
+
+      
+     isTextEmpty(frm.userDynaCode , "驗證碼" , "請填寫");
+     
+      if(!ckeckFormFlag)
+            FormUtil.Message(unCorrectColumn, unCorrectColumnSuggestInfo);
+
+      if(ckeckFormFlag)
+            frm.submit();
+
+}
+</script>
+</head>
+<body>
+
+<div class="MainTop"><h2>檔案交換-驗證</h2></div>
+
+<div class="MainBody">
+      <form name='frm' id='frm' method='post' action="/portal/files/2DF54D2E7A0CD628DCDA57356EF0D944BD3ACA93243F4D9D964FB1EA993EEA3D964E055E8D011B14" >
+      <input name="id" id="id" type="hidden" value="1679D8082529C2C9D0636733C6861689"/>
+                  
+      <table cellspacing="0" class="DataTable">
+
+      <tr>
+      <th colspan="2">下載檔案交換區：105年度原住民族委員會單位預算</th>
+      </tr>
+
+      
+            
+      
+      <tr>
+      <th><label for="userDynaCode">驗證碼<font color="red">*</font></label></th>
+      <td>
+      <input type="text" id="userDynaCode" name="userDynaCode" size="15" maxlength="15" />
+      <img id="DyCodeImg" src="/portal/dynaimage.jpg" alt="驗證碼">
+      </td>
+      </tr>
+
+
+      </table>
+
+      <div class="btncenter">
+      <input class="button" type="button" onClick="javascript:doSubmit()" OnKeypress="javascript:doSubmit()" value='確認進入'/>
+      </div>
+      
+      </form>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,332 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="head1">
+    <script type="text/javascript" src="/js/jquery-1.7.js"></script>
+    <script type="text/javascript" src="/js/jquery-blockUI-2.39.js"></script>    
+    <script type="text/javascript" src="/js/Util.js"></script>
+    <script type="text/javascript" src="/js/datepicker/WdatePicker.js"></script>
+    <script type="text/javascript" src="/js/jquery-bxslider/jquery.bxslider.js"></script>
+    <link id="Link2" type="text/css" rel="stylesheet" href="/js/jquery-bxslider/jquery.bxslider.css" />    
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-12166078-4', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.bxslider').bxSlider({
+                mode: 'fade',
+                auto: true,
+                captions: true,
+                pager: false,
+                pause: 5000,
+                onSliderLoad: function () {
+                    // do funky JS stuff here
+                    $('.m_BannerDiv').show();
+                    //alert('Slider has finished loading. Click OK to continue!');
+                }
+            });
+            
+            CrossFrameDisabled();
+            //民國年
+            $(".Wdate").attr('title', '日期格式為：' + getToday('yyy/MM/dd'));
+            $(".Wdate").live("click", function () {
+                WdatePicker({ dateFmt: 'yyy/MM/dd', realDateFmt: 'yyyy/MM/dd' });
+            });
+            //西元年
+            $(".Fdate").attr('title', '日期格式為：' + getToday('yyyy/MM/dd'));
+            $(".Fdate").live("click", function () {
+                WdatePicker({ dateFmt: 'yyyy/MM/dd', realDateFmt: 'yyyy/MM/dd' });
+            });
+
+            var PrintMode = '';
+            if (PrintMode == "1") {
+                $(".rightbox").css("float", "left");
+
+                var HideControls = new Array(".top_location", ".tool", "#m_BackButtonDiv", "#m_MoveButtonDiv", "#m_ImageBoxDiv"
+                    , "#m_TopButtonDiv", "#m_BottomButtonDiv", "#m_CCBoxDiv", "#m_BannerDiv");
+                $.each(HideControls, function (key, value) {
+                    if ($(value).length > 0) {
+                        $(value).hide();
+                    }
+                });
+
+                var HideParentControls = new Array(".Pager");
+                $.each(HideParentControls, function (key, value) {
+                    if ($(value).length > 0) {
+                        $(value).parent().hide();
+                    }
+                });
+            }
+
+        });
+    </script>
+
+    <title>
+	行政院農業委員會資料開放平台
+</title><link id="Link1" type="text/css" rel="stylesheet" href="../css/style.css" /><link type="text/css" rel="stylesheet" href="../css/reset.css" /><link type="text/css" rel="stylesheet" href="../css/opencoa_layout.css" />    
+    <style type="text/css">
+        #form1
+        {
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <form method="POST" action="./ServiceDetail.aspx?id=185" id="form1" class="css_form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNTU3NTY0Mzk0D2QWAmYPZBYEAgEPZBYCZg8VBhEvanMvanF1ZXJ5LTEuNy5qcxovanMvanF1ZXJ5LWJsb2NrVUktMi4zOS5qcwsvanMvVXRpbC5qcx0vanMvZGF0ZXBpY2tlci9XZGF0ZVBpY2tlci5qcyYvanMvanF1ZXJ5LWJ4c2xpZGVyL2pxdWVyeS5ieHNsaWRlci5qcycvanMvanF1ZXJ5LWJ4c2xpZGVyL2pxdWVyeS5ieHNsaWRlci5jc3NkAgMPZBYCAgsPZBYEAgUPDxYCHgtOYXZpZ2F0ZVVybAUsL1F1ZXJ5L1NlcnZpY2VEZXRhaWwuYXNweD9pZD0xODUmUHJpbnRNb2RlPTFkZAIJD2QWGgIBDxYCHgRUZXh0BSrooYzmlL/pmaLovrLmpa3lp5Tlk6HmnIMxMDTlubTluqbpoJDnrpfmoYhkAgMPFgIfAQUG5Li76KiIZAIFDxYCHwEFCeacg+ioiOWupGQCBw8WAh8BBQkxMDQvMDMvMDNkAgkPFgIfAQUD54ShZAILDxYCHwEFgAHmj5DkvpvooYzmlL/pmaLovrLmpa3lp5Tlk6HmnIMxMDTlubTluqbpoJDnrpfmoYjkuIvovInmqpTmoYg8YnIvPu+8nOacrOizh+aWmemBqeeUqOaUv+W6nOizh+aWmemWi+aUvuW5s+iHuuizh+aWmeS9v+eUqOimj+evhO+8nmQCDQ8WAh4HVmlzaWJsZWhkAg8PZBYGAgEPFgIfAmhkAgMPDxYGHwFlHwAFRmh0dHA6Ly9kYXRhLmNvYS5nb3YudHc6ODAvU2VydmljZS9SZWRpcmVjdFNlcnZpY2UuYXNweD9Vbml0SWQ9MTg1JnVybD0fAmhkZAIFDw8WAh8CaGRkAhEPFgIfAmhkAhMPFgIfAmgWAgIBDw8WAh8CaGRkAhUPFgIfAmhkAhkPFgIfAmcWAmYPFgIeC18hSXRlbUNvdW50AgEWAgIBD2QWBgIBDxYCHwEFHjEwNC3ovrLlp5TmnIPpoJDnrpfmoYgoeG1sKS43emQCAw8WAh8BBS0o5qqU5qGI6aGe5Z6L77yaN1rmqpTvvIzmqpTmoYjlpKflsI/vvJoxMTVLQilkAgUPDxYEHwEFHjEwNC3ovrLlp5TmnIPpoJDnrpfmoYgoeG1sKS43eh4PQ29tbWFuZEFyZ3VtZW50BQE3ZGQCGw8WAh8BBQM1NzNkZGhm81y5go2KjiJ/xL0Owbi3SbNm7aADrQsB5bYi+Ow/" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = {"name":"zh-TW","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":".","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":",","CurrencySymbol":"NT$","NaNSymbol":"不是一個數字","CurrencyNegativePattern":1,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"負無窮大","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":".","NumberGroupSeparator":",","CurrencyPositivePattern":0,"PositiveInfinitySymbol":"正無窮大","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":".","PercentGroupSeparator":",","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"上午","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402271999999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":0,"CalendarWeekRule":0,"FullDateTimePattern":"yyyy\u0027年\u0027M\u0027月\u0027d\u0027日\u0027 tt hh:mm:ss","LongDatePattern":"yyyy\u0027年\u0027M\u0027月\u0027d\u0027日\u0027","LongTimePattern":"tt hh:mm:ss","MonthDayPattern":"M\u0027月\u0027d\u0027日\u0027","PMDesignator":"下午","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"yyyy/M/d","ShortTimePattern":"tt hh:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"yyyy\u0027年\u0027M\u0027月\u0027","AbbreviatedDayNames":["週日","週一","週二","週三","週四","週五","週六"],"ShortestDayNames":["日","一","二","三","四","五","六"],"DayNames":["星期日","星期一","星期二","星期三","星期四","星期五","星期六"],"AbbreviatedMonthNames":["一月","二月","三月","四月","五月","六月","七月","八月","九月","十月","十一月","十二月",""],"MonthNames":["一月","二月","三月","四月","五月","六月","七月","八月","九月","十月","十一月","十二月",""],"IsReadOnly":true,"NativeCalendarName":"西曆 (中文)","AbbreviatedMonthGenitiveNames":["一月","二月","三月","四月","五月","六月","七月","八月","九月","十月","十一月","十二月",""],"MonthGenitiveNames":["一月","二月","三月","四月","五月","六月","七月","八月","九月","十月","十一月","十二月",""]},"eras":[1,"西元",null,0]};//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=Z8a1S8FB3zM_58i_NJguRMUD9jhC_8nwLuj9bGn39qUi3_kRqL3-Qk88t_iSBqEE4NAKFwXYrBgsSj3wlRmWyVRV-DGVZqJ-7IeWeHRLQZoSjsnwz3NV94Jev-vNeXJu-HTZxP-PVhff9mUKshVC47AESCGjI1yoLnAw4ixXQRrMS3MBU6v7g1iFZRFmpWgH0&amp;t=5f9d5645" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2D2DC36E" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAMxw69cV9i9dKBJIUoZkMhfhqYb22kR3VoRLBoP+o5KA+p6IBvKkOV76HzHD1argNhnBGzpNnCO5csGahguCOy43pUYpvITMfEeU0QQoXRvJA==" />
+        
+        <div id="WRAPPER_OPENCOA">
+            <div class="OPEN_COA">
+                <!--【TOP_LOGO等】-->
+                <script type='text/javascript'>
+                    function FontZoom(size) {
+                        var element = document.getElementsByTagName("p");
+                        var components = new Array();
+                        for (i = 0, j = 0; i < element.length; i++) {
+                            //attribute = element[i].getAttribute("id");
+                            //if(attribute == "WRAPPER_OPENCOA") {
+                            components[j] = element[i];
+                            j++;
+                            //}
+                        }
+                        for (k = 0; k < components.length; k++) {
+                            components[k].style.fontSize = size + 'px';
+                        }
+                    }
+                </script>
+
+                <!--【TOP_LOGO等】-->
+                <div class="TOP">
+                    <div class="left_logo">
+                        <h1><a href="../Default.aspx" id="A4" class="logo">DATA.COA 行政院農業委員會資料開放平台</a></h1>
+                    </div>
+                    <div class="tool">
+                        <a class="font_small" href="#" onclick="javascript:FontZoom(13)">小</a>
+                        <a class="font_medium" href="#" onclick="javascript:FontZoom(15)">中</a>
+                        <a class="font_large" href="#" onclick="javascript:FontZoom(17)">大</a>
+                        <a href="../About/SiteMap.aspx" id="A1" class="map"></a>
+                        <a href="../About/Contact.aspx" id="A2" class="mail"></a>
+                        <a href="../Default.aspx" id="A3" class="home"></a>
+                        <br class="CLEAR" />
+                    </div>
+                    <br class="CLEAR" />
+                </div>
+
+                <!--【中間區塊】-->
+                <!-- 字型 【大】是吃"fontbig" 【中】是吃"fontmedium" 【小】是吃"fontsmall"-->
+                <div class="CENTER fontmedium">
+                    <div id="m_TopButtonDiv" class="topbox">
+                        <!--上方按鈕-->
+                        <ul class="topbtn">
+                            <li class="aboutme">
+                                <h2><a href="../About/AboutUs.aspx">關於我們</a></h2>
+                            </li>
+                            <li class="news">
+                                <h2><a href="../News/News.aspx">平台消息</a></h2>
+                            </li>
+                            <li class="qa">
+                                <h2><a href="../FAQ/FAQ.aspx">常見問與答</a></h2>
+                            </li>
+                            <li class="open_data">
+                                <h2><a href="OpenData.aspx">開放資料</a></h2>
+                            </li>
+                            <li class="geography">
+                                <h2><a href="../Default.aspx?Type=Map">地理圖集</a></h2>
+                            </li>
+                            <li class="norms">
+                                <h2><a href="../Rule/Rule.aspx">資料使用規範</a></h2>
+                            </li>
+                        </ul>
+
+                    </div>
+
+                    <div id="m_BannerDiv" class="banner" style="display:block;">
+
+                        <ul class="bxslider">
+<li><a href="/"><img src="/Upload/Banner/20141215030845banner1.jpg"  style="width: 956px; height:182px"></a></li>
+<li><a href="/"><img src="/Upload/Banner/20141215031002banner2.jpg"  style="width: 956px; height:182px"></a></li>
+<li><a href="/"><img src="/Upload/Banner/20141215031237banner_03.jpg"  style="width: 956px; height:182px"></a></li>
+</ul>
+
+                        
+                    </div>
+
+                    <div class="data">
+                        
+                            <div id="m_ImageBoxDiv" class="imagebox">
+                                
+    <p class="open_data">開放資料</p>
+
+                            </div>
+                            <div class="rightbox">
+                                <div class="top_location">
+                                    <p class="location" id="locationDiv">
+                                        現在位置 >
+                                        <span id="m_SiteMapPath"><a href="#m_SiteMapPath_SkipLink"><img alt="Skip Navigation Links" src="/WebResource.axd?d=KBMezjRL-sHR03gNDI7YJx9Mc_ifvqu3dD6B1BHqqtFTxzMVc-GrsjB_S_zakBjZqwx0th8Wik_SFVTTYWCGAJ-FEZWWUw-pfjCgWcGk_0s1&amp;t=635802961220000000" width="0" height="0" border="0" /></a><span><a href="/Default.aspx">首頁</a></span><span><font color="#595757"> &gt; </font></span><span><a href="/Query/OpenData.aspx">開放資料</a></span><span><font color="#595757"> &gt; </font></span><span>資料查詢</span><a id="m_SiteMapPath_SkipLink"></a></span>
+                                    </p>
+                                    <p class="print" style="cursor: pointer;">
+                                        <a id="m_Print" href="/Query/ServiceDetail.aspx?id=185&amp;PrintMode=1" target="_blank">友善列印</a>
+                                    </p>
+                                    <p class="error" style="cursor: pointer;">
+                                        <a id="m_ErrorReport" href="javascript:__doPostBack(&#39;ctl00$m_ErrorReport&#39;,&#39;&#39;)">錯誤回報</a>
+                                    </p>
+                                    <br class="CLEAR" />
+                                </div>
+                                <div id="printDiv">
+                                    
+    <div class="olllistbox">
+        <ul class="listbox">
+            <li>
+                <p class="title_g15">
+                    行政院農業委員會104年度預算案
+                </p>
+                <br class="CLEAR"/>
+            </li>
+            <li class="fillbox">
+                <p class="gb_tit">資料分類</p>
+                <p class="result">
+                    主計
+                </p>
+                <p class="gb_tit">業務單位</p>
+                <p class="result">
+                    會計室
+                </p>
+                <p class="gb_tit">上架日期</p>
+                <p class="result">
+                    104/03/03
+                </p>
+                <p class="gb_tit">更新頻率</p>
+                <p class="result">
+                    無
+                </p>
+                <br class="CLEAR"/>
+            </li>
+            <li class="fillbox">
+                <p class="gb_tit">資料描述</p>
+                <p class="big_result">
+                    提供行政院農業委員會104年度預算案下載檔案<br/>＜本資料適用政府資料開放平臺資料使用規範＞
+                </p>
+                <br class="CLEAR"/>
+            </li>
+
+            
+
+            
+            <li class="fillbox">
+                
+                <p class="result">
+                    
+                </p>
+                <p class="btm_explain">
+                    
+                </p>
+                <br class="CLEAR" />
+            </li>
+            
+            
+            
+            
+            
+            
+            
+                        <li class="fillbox">
+                               <span id="Main_rptMore_lblmMutiFile" style="margin: 3px 10px 0px 0px; padding: 2px 4px; height: 18px; text-align: center; color: rgb(255, 255, 255); line-height: 18px; float: left; min-width: 56px; background-color: rgb(0, 121, 54);">檔案下載</span>                        
+                            <br class="CLEAR"/>
+                    
+                            <p class="result" style="width:200px">
+                                104-農委會預算案(xml).7z
+                            </p>
+                            <p class="result">
+                                (檔案類型：7Z檔，檔案大小：115KB)
+                            </p>  
+                            <p class="btm_download btm_now">
+                                <a id="Main_rptMore_lkMore_0" href="javascript:__doPostBack(&#39;ctl00$Main$rptMore$ctl01$lkMore&#39;,&#39;&#39;)">104-農委會預算案(xml).7z</a>
+                            </p> 
+                    
+                        <br class="CLEAR" />    
+                        </li>
+                    
+        </ul>
+        <p style="float: right; color: white;">瀏覽人次 : 573</p>
+        
+<div id="m_BackButtonDiv" class="button more_left">
+    <p class="btm_go">
+        <a href="../Default.aspx">回首頁</a>
+    </p>
+    <p id="Main_m_BackButton_m_BackwardP" class="btm_go">
+        <a href="javascript:history.back();">上一頁</a>
+    </p>
+    <br class="CLEAR">
+</div>
+
+
+    </div>
+
+                                </div>
+                            </div>
+                        
+                        
+                        <br class="CLEAR" />
+                    </div>
+                </div>
+
+                <!--【下方資訊】-->
+                <div class="statute" id="m_BottomButtonDiv">
+                    <ul class="bottombtn">
+                        <li class="information_security">
+                            <h3><a href="../About/DataPolicy.aspx">資訊安全政策宣導</a></h3>
+                        </li>
+                        <li class="privacy">
+                            <h3><a href="../About/Privacy.aspx">隱私權保護宣告</a></h3>
+                        </li>
+                        <br class="CLEAR" />
+                    </ul>
+                </div>
+
+                <div class="BOTTON">
+                    <div class="contact">
+                        <p>
+                            台北市中正區南海路37號 │ 服務時間：AM9:00~PM5:30 │ 服務電話：(02)2559-9901
+                                    <br />
+                            ※最佳瀏覽解析度為1024x768
+                        </p>
+                    </div>
+                    <div id="m_CCBoxDiv" class="cc_box">
+                        <p>
+                            除另有註明，網站之內容皆採用<br />
+                            <a target="_blank" href="http://data.gov.tw/?q=principle">政府資料開放平臺資料使用規範</a>
+                        </p>
+                    </div>
+                    <br class="CLEAR" />
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

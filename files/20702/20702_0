@@ -1,0 +1,743 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html __expr-val-dir="ltr" dir="ltr">
+<head><meta name="GENERATOR" content="Microsoft SharePoint" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><meta http-equiv="Expires" content="0" /><title>
+	 
+    政府資訊公開
+
+</title><link rel="stylesheet" type="text/css" href="/Style%20Library/zh-TW/Core%20Styles/controls.css"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/1028/styles/HtmlEditorCustomStyles.css?rev=C97NY10eck33ACDxOAVF%2Bg%3D%3D"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/1028/styles/HtmlEditorTableFormats.css?rev=RxTxmbSm4IBvvLpgRYJdTw%3D%3D"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/zh-TW/Core%20Styles/TWSEC.css"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/zz1_blue.css"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/1028/styles/core.css?rev=df41HXVPebzMrbyjJPoQBw%3D%3D"/>
+
+	<!--Styles used for positioning, font and spacing definitions-->
+	<script src="/_layouts/1028/init.js?rev=Xd2LgdVbbs4DxqD4f3XpzQ%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1028/core.js?rev=KvDdDgbyeK0MJO2K5dnH%2Fg%3D%3D" defer></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1028/non_ie.js?rev=yfNry4hY0Gwa%2FPDNGrqXVg%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1028/search.js?rev=Cv7HsYq0zgribioAZhMm3g%3D%3D" defer></script>
+
+	<!--Placeholder for additional overrides-->
+	
+<style>
+TD.ms-titleareaframe, .ms-pagetitleareaframe {
+	height: 10px;
+}
+Div.ms-titleareaframe {
+	height: 100%;
+}
+.ms-pagetitleareaframe table {
+	background: none;
+	height: 10px;
+}
+</style>
+</head>
+<body class="body" onload="javascript:_spBodyOnLoadWrapper();">
+	
+	<form name="aspnetForm" method="post" action="Govinfo.aspx" id="aspnetForm">
+<input type="hidden" name="__SPSCEditMenu" id="__SPSCEditMenu" value="true" />
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x360B5E7E66C9915919E783B1C8C6E627D57F1ABD523A5BB8FAABD57B77D267F0A78A121B5517D652D3AD633729D6228E94FB2053E711A9E6728CB7C2097B3FE2,06 Nov 2016 18:13:10 -0000" />
+<input type="hidden" name="MSOAuthoringConsole_FormContext" id="MSOAuthoringConsole_FormContext" value="" />
+<input type="hidden" name="MSOAC_EditDuringWorkflow" id="MSOAC_EditDuringWorkflow" value="" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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nKzlhazlj7jpoZjmma8fCQUP5pys5YWs5Y+46aGY5pmvHwoFJS8wMDMvUGFnZXMvQWJvdXRfVFdGSENTRUMvdmlzaW9uLmFzcHgfBGcfC2cfDAUlLzAwMy9QYWdlcy9BYm91dF9UV0ZIQ1NFQy92aXNpb24uYXNweB8NZ2QUKwACFg4fCAUM5oiQ56uL5rK/6Z2pHwkFDOaIkOeri+ayv+mdqR8KBSIvMDAzL1BhZ2VzL1RXRkhDU0VDL2V2b2x1dGlvbi5hc3B4HwRnHwtnHwwFIi8wMDMvUGFnZXMvVFdGSENTRUMvZXZvbHV0aW9uLmFzcHgfDWdkFCsAAhYOHwgFDOalreWLmeevhOWcjR8JBQzmpa3li5nnr4TlnI0fCgUtLzAwMy9QYWdlcy9BYm91dF9UV0ZIQ1NFQy9CdXNpbmVzc19TY29wZS5hc3B4HwRnHwtnHwwFLS8wMDMvUGFnZXMvQWJvdXRfVFdGSENTRUMvQnVzaW5lc3NfU2NvcGUuYXNweB8NZ2QUKwACFg4fCAUM57aT54ef5Y6f5YmHHwkFDOe2k+eHn+WOn+WJhx8KBTMvMDAzL1BhZ2VzL0Fib3V0X1RXRkhDU0VDL01hbmFnZW1lbnRfUHJpbmNpcGxlLmFzcHgfBGcfC2cfDAUzLzAwMy9QYWdlcy9BYm91dF9UV0ZIQ1NFQy9NYW5hZ2VtZW50X1ByaW5jaXBsZS5hc3B4Hw1nZBQrAAIWDh8IBQznmbzlsZXmlrnph50fCQUM55m85bGV5pa56YedHwoFMS8wMDMvUGFnZXMvQWJvdXRfVFdGSENTRUMvRGV2ZWxvcG1lbnRfUG9saWN5LmFzcHgfBGcfC2cfDAUxLzAwMy9QYWdlcy9BYm91dF9UV0ZIQ1NFQy9EZXZlbG9wbWVudF9Qb2xpY3kuYXNweB8NZ2QUKwACFg4fCAUM5YWs5Y+45L+h6KmVHwkFDOWFrOWPuOS/oeiplR8KBSsvMDAzL1BhZ2VzL0Fib3V0X1RXRkhDU0VDL0NyZWRpdFJhdGluZy5hc3B4HwRnHwtnHwwFKy8wMDMvUGFnZXMvQWJvdXRfVFdGSENTRUMvQ3JlZGl0UmF0aW5nLmFzcHgfDWdkFCsAAhYOHwgFBuW5tOWgsR8JBQblubTloLEfCgUsLzAwMy9QYWdlcy9BYm91dF9UV0ZIQ1NFQy9Bbm51YWxSZXBvcnRzLmFzcHgfBGcfC2cfDAUsLzAwMy9QYWdlcy9BYm91dF9UV0ZIQ1NFQy9Bbm51YWxSZXBvcnRzLmFzcHgfDWdkFCsAAhYQHwgFDOalreWLmeS7i+e0uR8JBQzmpa3li5nku4vntLkfCgUtLzAwMy9QYWdlcy9BYm91dF9UV0ZIQ1NFQy9CdXNpbmVzc19JbnRyby5hc3B4HgdUb29sVGlwBQzmpa3li5nku4vntLkfBGcfC2cfDAUtLzAwMy9QYWdlcy9BYm91dF9UV0ZIQ1NFQy9CdXNpbmVzc19JbnRyby5hc3B4Hw1nZBQrAAIWDh8IBQzmqpTmoYjkuIvovIkfCQUM5qqU5qGI5LiL6LyJHwoFMC8wMDMvUGFnZXMvU2VydmljZXNfb2ZfVFdGSENTRUMvT3VyU2VydmljZXMuYXNweB8EZx8LZx8MBTAvMDAzL1BhZ2VzL1NlcnZpY2VzX29mX1RXRkhDU0VDL091clNlcnZpY2VzLmFzcHgfDWdkFCsAAhYQHwgFDeWuouaItlEmYW1wO0EfCQUN5a6i5oi2USZhbXA7QR8KBSAvMDA1L0RvY3VtZW50cy9DdXN0b21lclFhbmRBLmh0bR8EZx8LZx8MBSAvMDA1L0RvY3VtZW50cy9DdXN0b21lclFhbmRBLmh0bR8NZx8OBQZfYmxhbmtkFCsAAhYQHwgFCeW4g+WRiuashB8JBQnluIPlkYrmrIQfCgUVL3NlY3Byb2ovYWxsbmV3cy5hc3B4HwRnHwtnHwwFFS9zZWNwcm9qL2FsbG5ld3MuYXNweB8NZx8OBQZfYmxhbmtkFCsAAhYOHwgFEuWuouaItuasiuebiuiqquaYjh8JBRLlrqLmiLbmrIrnm4roqqrmmI4fCgUkLzAwNS9QYWdlcy9UV0ZIQ1NFQy9DdXN0b21SaWdodC5hc3B4HwRnHwtnHwwFJC8wMDUvUGFnZXMvVFdGSENTRUMvQ3VzdG9tUmlnaHQuYXNweB8NZ2QUKwACFg4fCAUM5pyN5YuZ5pOa6bueHwkFDOacjeWLmeaTmum7nh8KBS4vMDA1L1BhZ2VzL0xvY2F0aW9uc19vZl9UV0ZIQ1NFQy9Mb2NhdGlvbi5hc3B4HwRnHwtnHwwFLi8wMDUvUGFnZXMvTG9jYXRpb25zX29mX1RXRkhDU0VDL0xvY2F0aW9uLmFzcHgfDWdkFCsAAhYOHwgFGOWFseWQjOihjOmKt+acjeWLmearg+aqrx8JBRjlhbHlkIzooYzpirfmnI3li5nmq4Pmqq8fCgU6LzAwNS9QYWdlcy9Mb2NhdGlvbnNfb2ZfVFdGSENTRUMvQ29tYXJrZXRpbmdfTG9jYXRpb24uYXNweB8EZx8LZx8MBTovMDA1L1BhZ2VzL0xvY2F0aW9uc19vZl9UV0ZIQ1NFQy9Db21hcmtldGluZ19Mb2NhdGlvbi5hc3B4Hw1nZBQrAAIWEB8IBQzoga/ntaHmiJHlgJEfCQUM6IGv57Wh5oiR5YCRHwoFKmh0dHBzOi8vd3d3LnR3Zmhjc2VjLmNvbS50dy9tYWlsL21haWwuYXNweB8EZx8LZx8MBSpodHRwczovL3d3dy50d2ZoY3NlYy5jb20udHcvbWFpbC9tYWlsLmFzcHgfDWcfDgUGX2JsYW5rZBQrAAIWDh8IBQzlpb3nq5nnm7jpgKMfCQUM5aW956uZ55u46YCjHwoFJS8wMDMvUGFnZXMvVFdGSENTRUMvUmVsYXRlZFNpdGVzLmFzcHgfBGcfC2cfDAUlLzAwMy9QYWdlcy9UV0ZIQ1NFQy9SZWxhdGVkU2l0ZXMuYXNweB8NZ2QUKwACFg4fCAUS5pS/5bqc6LOH6KiK5YWs6ZaLHwkFEuaUv+W6nOizh+ioiuWFrOmWix8KBSAvMDAzL1BhZ2VzL1RXRkhDU0VDL0dvdmluZm8uYXNweB8EZx8LZx8MBSAvMDAzL1BhZ2VzL1RXRkhDU0VDL0dvdmluZm8uYXNweB8NZ2QUKwACFg4fCAUM5YWs5Y+45rK755CGHwkFDOWFrOWPuOayu+eQhh8KBSQvMDAzL1BhZ2VzL1RXRkhDU0VDL2dvdmVybmFuY2UxLmFzcHgfBGcfC2cfDAUkLzAwMy9QYWdlcy9UV0ZIQ1NFQy9nb3Zlcm5hbmNlMS5hc3B4Hw1nZBQrAAIWEB8IBRLpgJrot6/loLHphazmj63pnLIfCQUS6YCa6Lev5aCx6YWs5o+t6ZyyHwoFOWh0dHA6Ly93d3cudHdmaGNzZWMuY29tLnR3LzAwNS9kb2N1bWVudHMvcmVtdW5lcmF0aW9uLnhscx8EZx8LZx8MBTlodHRwOi8vd3d3LnR3Zmhjc2VjLmNvbS50dy8wMDUvZG9jdW1lbnRzL3JlbXVuZXJhdGlvbi54bHMfDWcfDgUGX2JsYW5rZGQCIQ9kFgICBA9kFg4CAw8WAh8ACysEAWQCBQ8WAh8ACysEAWQCBw9kFgJmDw8WAh8BaGRkAgkPZBYCZg8PFgIfAWhkZAILD2QWAmYPDxYCHwFoZGQCDQ9kFgJmDw8WAh8BaGRkAg8PZBYCZg8PFgIfAWhkZGRMtHUwuRzDACi/BNMQS+2EkDdxhw==" />
+
+<script> var MSOWebPartPageFormName = 'aspnetForm';</script>
+<script src="/WebResource.axd?d=iUPwJwjhRv3BCt5Wei4Tog2&amp;t=633914570096951934" type="text/javascript"></script>
+	<table cellpadding="0" cellspacing="0" class="master" border="0" bordercolor="yellow">
+		<tr>
+			<td height="100%" class="shadowLeft">
+				<div class="spacer">
+				</div>
+			</td>
+			<td valign="top">
+				<table cellpadding="0" cellspacing="0" width="100%" class="masterContent" border="0" bordercolor="red">
+				<tr id="twLoginArea">
+					<td colspan="2" class="authoringRegion">
+							 <span class="siteActionMenu">
+								
+<!-- Begin Action Menu Markup -->
+<table height=100% class="ms-siteaction" cellpadding=0 cellspacing=0>
+	<tr>
+					   <td class="ms-siteactionsmenu" id="siteactiontd">
+					   
+					</td>
+	</tr>
+</table>
+<!-- End Action Menu Markup -->
+
+							</span>
+						<div class="sharepointLogin">
+						<!--Authentication for Authors only-->
+							<table cellpadding="0" cellspacing="0" >
+								<tr>
+									<td class="ms-globallinks">
+									</td>
+									<td class="ms-globallinks">
+									
+<table><tr>
+<td class="ms-globallinks"></td>
+<td class="ms-globallinks"></td>
+</tr></table>
+</td>
+									<td class="ms-globallinks">
+									
+<a id="ctl00_explitLogout_ExplicitLogin" href="http://www.twfhcsec.com.tw/003/_layouts/Authenticate.aspx?Source=%2F003%2FPages%2FTWFHCSEC%2FGovinfo%2Easpx" style="display:block;">登入</a>
+</td>
+								</tr>
+							</table>
+						</div>
+						<div class="console">
+							
+<!-- Console -->
+<span id="ctl00_ctl19_publishingContext1"></span>
+
+<!-- Console -->
+
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2" >
+						<table cellpadding="0" cellspacing="0" width="100%">
+							<tr>
+								<td id="GlobalTitleAreaImage" class="topArea" colspan="4"><A href="/">
+								<img id="ctl00_onetidHeadbnnr0" src="/SiteCollectionImages/Title.gif" alt="" border="0" /></A>
+								</td>
+							</tr>
+						<tr class="topNavContainer">
+							<td class="topNavRoundLeft">
+								<div class="glassSpacerLeft" />
+								
+							</td>
+							<td valign="top" width="100%" align="right">
+								<a href="#zz1_GlobalNav_SkipLink"><img alt="略過導覽連結" src="/WebResource.axd?d=5OOdrQMn0Y2hNAxUziCr7A2&amp;t=633914570096951934" width="0" height="0" border="0" /></a><table id="zz1_GlobalNav" class="topNav" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn0"><table class="topNavItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td><a class="topNavItem" href="/Pages/Index.aspx">回首頁</a></td>
+			</tr>
+		</table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn1"><table class="topNavItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td><a class="topNavItem" href="/Pages/TWFHCSEC/FullTextSearch.aspx">全文檢索</a></td>
+			</tr>
+		</table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn2"><table class="topNavItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td><a class="topNavItem" href="/003/Pages/TWFHCSEC/RelatedSites.aspx">好站相連</a></td>
+			</tr>
+		</table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn3"><table class="topNavItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td><a class="topNavItem" href="/Pages/TWFHCSEC/Site_Map_VB.aspx">網站地圖</a></td>
+			</tr>
+		</table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_GlobalNavn4"><table class="topNavItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td><a class="topNavItem" href="https://www.twfhcsec.com.tw/mail/mail.aspx" target="_blank">聯絡我們</a></td>
+			</tr>
+		</table></td><td width="0"></td>
+	</tr>
+</table><a id="zz1_GlobalNav_SkipLink"></a>
+						
+							</td>
+							<td style="display:none">
+								<div class="search">
+									
+										<div id="SRSB"> <div id="ctl00_PlaceHolderSearchArea_SearchBox">
+	<table class="ms-sbtable ms-sbtable-ex" border="0">
+		<tr class="ms-sbrow">
+			<td class="ms-sbcell ms-sbtext"><span title="搜尋" style="display:block;">搜尋</span></td><td class="ms-sbcell"><input name="ctl00$PlaceHolderSearchArea$SearchBox$SD06736D6_InputKeywords" type="text" maxlength="200" id="ctl00_PlaceHolderSearchArea_SearchBox_SD06736D6_InputKeywords" accesskey="S" title="輸入搜尋文字" class="ms-sbplain" alt="輸入搜尋文字" onkeypress="javascript:return SD06736D6_OSBEK(event);" style="width:100px;" /></td><td class="ms-sbgo ms-sbcell"><a id="ctl00_PlaceHolderSearchArea_SearchBox_SD06736D6_go" title="搜尋" href="javascript:SD06736D6_Submit()"><img title="搜尋" onmouseover="this.src='/_layouts/images/gosearch.gif'" onmouseout="this.src='/Style Library/Images/Search_Arrow.jpg'" alt="搜尋" src="/Style%20Library/Images/Search_Arrow.jpg" border="0" /></a></td><td class="ms-sbLastcell"></td>
+		</tr>
+	</table>
+</div></div>
+									
+								</div>
+							</td>
+							<td class="topNavRoundRight">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+							</td>
+						</tr>
+						</table>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">
+				    <table cellpadding="0" cellspacing="0" border="0" class="leftNavTable" valigh="top" aligh="right">
+				      <tr><td class="leftNavTop">&nbsp;</td></tr>
+				      <tr><td>
+					
+					
+					
+					<!-- Current Navigation -->
+						<a href="#zz2_CurrentNav_SkipLink"><img alt="略過導覽連結" src="/WebResource.axd?d=5OOdrQMn0Y2hNAxUziCr7A2&amp;t=633914570096951934" width="0" height="0" border="0" /></a><table id="zz2_CurrentNav" class="leftNav" cellpadding="0" cellspacing="0" border="0">
+	<tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn0">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td width="100%"><a class="leftNav1" href="https://168.twfhcsec.com.tw/BTSWeb/WebLogin.aspx" target="_blank" accesskey="3">證券下單</a></td>
+			</tr>
+		</table></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn1">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td width="100%"><a class="leftNav1" href="https://168.twfhcsec.com.tw/btsweb/download/CA/BTSCEM.exe" target="_blank">憑證作業</a></td>
+			</tr>
+		</table></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn2">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td width="100%"><a class="leftNav1" href="/FileDownloads/%e8%92%90%e9%9b%86%e8%99%95%e7%90%86%e5%8f%8a%e5%88%a9%e7%94%a8%e5%80%8b%e4%ba%ba%e8%b3%87%e6%96%99%e5%91%8a%e7%9f%a5%e6%9b%b8.pdf">個資告知書</a></td>
+			</tr>
+		</table></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn3">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td width="100%"><a class="leftNav1" href="https://cbas.btsec.com.tw/" target="_blank">可轉債資產交換系統</a></td>
+			</tr>
+		</table></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn4">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td width="100%"><a class="leftNav1" href="/003/Pages/etransactions.aspx">電子交易簡介</a></td>
+			</tr>
+		</table></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn5">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td width="100%"><a class="leftNav1" href="/003/Pages/About_TWFHCSEC/main.aspx">關於我們</a></td>
+			</tr>
+		</table></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="業務介紹" id="zz2_CurrentNavn6">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td width="100%"><a class="leftNav1" href="/003/Pages/About_TWFHCSEC/Business_Intro.aspx">業務介紹</a></td>
+			</tr>
+		</table></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn7">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td width="100%"><a class="leftNav1" href="/003/Pages/Services_of_TWFHCSEC/OurServices.aspx">檔案下載</a></td>
+			</tr>
+		</table></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn8">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td width="100%"><a class="leftNav1" href="/005/Documents/CustomerQandA.htm" target="_blank">客戶Q&amp;A</a></td>
+			</tr>
+		</table></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn9">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td width="100%"><a class="leftNav1" href="/secproj/allnews.aspx" target="_blank">布告欄</a></td>
+			</tr>
+		</table></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn10">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td width="100%"><a class="leftNav1" href="/005/Pages/TWFHCSEC/CustomRight.aspx">客戶權益說明</a></td>
+			</tr>
+		</table></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn11">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td width="100%"><a class="leftNav1" href="/005/Pages/Locations_of_TWFHCSEC/Location.aspx">服務據點</a></td>
+			</tr>
+		</table></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn12">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td width="100%"><a class="leftNav1" href="/005/Pages/Locations_of_TWFHCSEC/Comarketing_Location.aspx">共同行銷服務櫃檯</a></td>
+			</tr>
+		</table></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn13">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td width="100%"><a class="leftNav1" href="https://www.twfhcsec.com.tw/mail/mail.aspx" target="_blank">聯絡我們</a></td>
+			</tr>
+		</table></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn14">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td width="100%"><a class="leftNav1" href="/003/Pages/TWFHCSEC/RelatedSites.aspx">好站相連</a></td>
+			</tr>
+		</table></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn15">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td width="100%"><a class="leftNav1" href="/003/Pages/TWFHCSEC/Govinfo.aspx">政府資訊公開</a></td>
+			</tr>
+		</table></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn16">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td width="100%"><a class="leftNav1" href="/003/Pages/TWFHCSEC/governance1.aspx">公司治理</a></td>
+			</tr>
+		</table></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn17">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td width="100%"><a class="leftNav1" href="http://www.twfhcsec.com.tw/005/documents/remuneration.xls" target="_blank">通路報酬揭露</a></td>
+			</tr>
+		</table></td>
+	</tr>
+</table><div id="zz2_CurrentNavn4Items" class="leftNavFlyOuts" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn18">
+			<td><table class="leftNav2 leftNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td width="100%"><a class="leftNav2 leftNavFlyOutsItem" href="http://www.xq.com.tw/aphelp/WEBBTS/" target="_blank">新版web操作手冊</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn19">
+			<td><table class="leftNav2 leftNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td width="100%"><a class="leftNav2 leftNavFlyOutsItem" href="http://www.xq.com.tw/APHelp/DAQBTS/default.htm" target="_blank">AP操作手冊</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn20">
+			<td><table class="leftNav2 leftNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td width="100%"><a class="leftNav2 leftNavFlyOutsItem" href="/FileDownloads/%e6%89%8b%e6%a9%9f%e4%b8%8b%e5%96%ae%e8%bb%9f%e9%ab%94%e4%b8%8b%e8%bc%89%e6%96%b9%e5%bc%8f.pdf">手機下單軟體下載方式</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn21">
+			<td><table class="leftNav2 leftNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td width="100%"><a class="leftNav2 leftNavFlyOutsItem" href="/FileDownloads/%e6%96%b0%e6%86%91%e8%ad%89%e6%93%8d%e4%bd%9c%e8%aa%aa%e6%98%8e.pdf" target="_blank">新憑證操作說明</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn22">
+			<td><table class="leftNav2 leftNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td width="100%"><a class="leftNav2 leftNavFlyOutsItem" href="/005/Pages/TWFHCSEC/EmergencyMeasure.aspx">緊急應變措施</a></td>
+				</tr>
+			</table></td>
+		</tr>
+	</table><div class="leftNav2 leftNavFlyOutsItem" id="zz2_CurrentNavn4ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=qhqgzoD7xiV3ozGQHfxAZof7bDZ6P3CVYi43P-bILt41&amp;t=633914570096951934" alt="向上捲動" />
+	</div><div class="leftNav2 leftNavFlyOutsItem" id="zz2_CurrentNavn4ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=WyurCi8Rw6h9ogSSg4ifZQ2NXoKq39k1XUmCkB-tXt81&amp;t=633914570096951934" alt="向下捲動" />
+	</div>
+</div><div id="zz2_CurrentNavn5Items" class="leftNavFlyOuts" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn23">
+			<td><table class="leftNav2 leftNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td width="100%"><a class="leftNav2 leftNavFlyOutsItem" href="/003/Pages/About_TWFHCSEC/Head.aspx">首長簡介</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn24">
+			<td><table class="leftNav2 leftNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td width="100%"><a class="leftNav2 leftNavFlyOutsItem" href="/003/Pages/About_TWFHCSEC/Organization.aspx">證券組織</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn25">
+			<td><table class="leftNav2 leftNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td width="100%"><a class="leftNav2 leftNavFlyOutsItem" href="/003/Pages/About_TWFHCSEC/vision.aspx">本公司願景</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn26">
+			<td><table class="leftNav2 leftNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td width="100%"><a class="leftNav2 leftNavFlyOutsItem" href="/003/Pages/TWFHCSEC/evolution.aspx">成立沿革</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn27">
+			<td><table class="leftNav2 leftNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td width="100%"><a class="leftNav2 leftNavFlyOutsItem" href="/003/Pages/About_TWFHCSEC/Business_Scope.aspx">業務範圍</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn28">
+			<td><table class="leftNav2 leftNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td width="100%"><a class="leftNav2 leftNavFlyOutsItem" href="/003/Pages/About_TWFHCSEC/Management_Principle.aspx">經營原則</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn29">
+			<td><table class="leftNav2 leftNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td width="100%"><a class="leftNav2 leftNavFlyOutsItem" href="/003/Pages/About_TWFHCSEC/Development_Policy.aspx">發展方針</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn30">
+			<td><table class="leftNav2 leftNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td width="100%"><a class="leftNav2 leftNavFlyOutsItem" href="/003/Pages/About_TWFHCSEC/CreditRating.aspx">公司信評</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_CurrentNavn31">
+			<td><table class="leftNav2 leftNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td width="100%"><a class="leftNav2 leftNavFlyOutsItem" href="/003/Pages/About_TWFHCSEC/AnnualReports.aspx">年報</a></td>
+				</tr>
+			</table></td>
+		</tr>
+	</table><div class="leftNav2 leftNavFlyOutsItem" id="zz2_CurrentNavn5ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=qhqgzoD7xiV3ozGQHfxAZof7bDZ6P3CVYi43P-bILt41&amp;t=633914570096951934" alt="向上捲動" />
+	</div><div class="leftNav2 leftNavFlyOutsItem" id="zz2_CurrentNavn5ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=WyurCi8Rw6h9ogSSg4ifZQ2NXoKq39k1XUmCkB-tXt81&amp;t=633914570096951934" alt="向下捲動" />
+	</div>
+</div><a id="zz2_CurrentNav_SkipLink"></a>
+						
+					
+					
+					
+						<div class="leftNavSpacer"/>
+					
+				      </td></tr>
+				      <tr><td class="leftNavBottom">&nbsp;</td></tr>
+				    </table>
+				</td>
+				<td width="100%" valign="top">
+					<table cellpadding="0" cellspacing="0" width="100%" border="0" bordercolor="orange">
+						<tr class="twbreadcrumb">
+							<td width="100%">
+								
+							</td>
+							<td>
+								
+							</td>
+						</tr>
+					</table>
+					<div id="ctl00_MSO_ContentDiv" class="mainContainer">
+						<div class="pageTitle">
+							
+
+						</div>
+						<div class="mainContent">
+							
+<table style="padding-top:0px;" border="0" bordercolor="blue" cellpadding="0" cellspacing="0" ID="OuterZoneTable" width="100%">
+
+	<tr ID="OuterRow">
+		<td ID="OuterLeftCell" style="padding-left:10px;" width="76%" valign="top">
+		     	<table class="floatLeft">
+	  <tr>
+	   <td class="ms-pagebreadcrumb" colspan="2" style="background-color: #CEB370;">
+		<span id="ctl00_PlaceHolderMain_ContentMap"><span><a class="ms-sitemapdirectional" href="/Pages/Index.aspx">臺銀證券全球資訊網</a></span><span> &gt; </span><span class="ms-sitemapdirectional">管理部</span></span>
+	   </td>
+	  </tr>
+			    <tr>
+				<td valign="top">
+					<div id="ctl00_PlaceHolderMain_ImageField__ControlWrapper_RichImageField" style="display:inline"><span dir=""></span>&nbsp;</div>
+				</td>
+				<td class="caption">
+					<div id="ctl00_PlaceHolderMain_Content__ControlWrapper_RichHtmlField" style="display:inline"></div>
+				</td>
+			    </tr>
+		        </table>
+			<table border="0" cellpadding="0" cellspacing="0" ID="ZoneTable" width="100%">
+				<tr ID="TopRow" style="padding-top: 6px;padding-right: 6px;padding-left:6px;padding-bottom: 18px;">
+					<td valign="top" ID="TopCell" width="100%" colspan="3">
+						<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td id="MSOZoneCell_WebPartWPQ2" vAlign="top"><table TOPLEVEL border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td valign="top"><div WebPartID="414209c4-2add-4423-81c8-791baba12bac" HasPers="false" id="WebPartWPQ2" width="100%" class="ms-WPBody" allowDelete="false" style="" ><P align=center><FONT face=微軟正黑體 color=#026836 size=5><STRONG>政府資訊公開</STRONG></FONT></P>
+<P><FONT face=微軟正黑體><FONT face=新細明體><FONT face=微軟正黑體 color=#026836 size=5><STRONG>預算與決算書</STRONG></FONT></FONT></P>
+<P><FONT face=新細明體 color=#026836 size=4></FONT>&nbsp;</P>
+<P><FONT face=新細明體 color=#026836 size=4>預算書</FONT></P>
+<P><FONT face=新細明體 size=4>
+<FONT color=#026836>1.</FONT><A title="" href="/003/Documents/Sec_BS_budget_97.pdf" target=""><U><FONT color=#026836>97年度損益預計表</FONT></U></A>
+<BR><FONT color=#026836>2.</FONT><A title="" href="/003/Documents/Sec_IS_budget_97.pdf" target=""><U><FONT color=#026836>97年度資產負債預計表</FONT></U></A>
+<BR><FONT color=#026836>3.</FONT><A title="" href="/003/Documents/Sec_BS_budget_98.pdf" target=""><U><FONT color=#026836>98年度損益預計表</FONT></U></A>
+<BR><FONT color=#026836>4.</FONT><A title="" href="/003/Documents/Sec_IS_budget_98.pdf" target=""><U><FONT color=#026836>98年度資產負債預計表</FONT></U></A>
+<BR><FONT color=#026836>5.</FONT><A title="" href="/003/Documents/Sec_All_budget_99.pdf" target=""><U><FONT color=#026836>99年度法定預算書</FONT></U></A>
+<BR><FONT color=#026836>6.</FONT><A title="" href="/003/Documents/Sec_All_budget_100.pdf" target=""><U><FONT color=#026836>100年度法定預算書</FONT></U></A>
+<BR><FONT color=#026836>7.</FONT><A title="" href="/003/Documents/Sec_All_budget_101.pdf" target=""><U><FONT color=#026836>101年度法定預算書</FONT></U></A>
+<BR><FONT color=#026836>8.</FONT><A title="" href="/003/Documents/Sec_All_budget_102.pdf" target=""><U><FONT color=#026836>102年度預算書(行政院核定)</FONT></U></A>
+<BR><FONT color=#026836>9.</FONT><A title="" href="/003/Documents/Sec_All_budget_103.pdf" target=""><U><FONT color=#026836>103年度法定預算書</FONT></U></A>
+<BR><FONT color=#026836>10.</FONT><A title="" href="/003/Documents/Sec_All_budget_104.pdf" target=""><U><FONT color=#026836>104年度法定預算書</FONT></U></A>
+<BR><FONT color=#026836>11.105年度預算書(行政院核定)(<A title="" href="/003/Documents/Sec_All_temp_105.pdf" target=""><U><FONT color=#026836>PDF</FONT></U></A>&nbsp;&nbsp;<A title="" href="/003/Documents/Sec_All_temp_105(word_excel).zip" target=""><U><FONT color=#026836>Word及Excel</FONT></U></A>&nbsp;&nbsp;<A title="" href="/003/Documents/Sec_All_temp_105(xml).zip" target=""><U><FONT color=#026836>XML</FONT></U></A>
+<BR><FONT color=#026836>12.106年度預算書(行政院核定)(<A title="" href="/003/Documents/Sec_All_temp_106.pdf" target=""><U><FONT color=#026836>PDF</FONT></U></A>&nbsp;&nbsp;<A title="" href="/003/Documents/Sec_All_temp_106(word_excel).zip" target=""><U><FONT color=#026836>Word及Excel</FONT></U></A>&nbsp;&nbsp;<A title="" href="/003/Documents/Sec_All_temp_106(xml).zip" target=""><U><FONT color=#026836>XML</FONT></U></A>
+)</FONT>
+</P>
+
+<P></FONT><FONT face=新細明體 color=#026836 size=4></FONT>&nbsp;</P>
+<P><FONT face=新細明體 color=#026836 size=4>決算書</FONT></P>
+<P><FONT face=新細明體 size=4><FONT color=#026836>1.</FONT><A title="" href="/003/Documents/Sec_All_audited_97.pdf" target=""><U><FONT color=#026836>97年度審定決算書</FONT></U></A>
+<BR><FONT face=新細明體 size=4><FONT color=#026836>2.</FONT><A title="" href="/003/Documents/Sec_All_audited_98.pdf" target=""><U><FONT color=#026836>98年度審定決算書</FONT></U></A><BR>
+<FONT face=新細明體 size=4><FONT color=#026836>3.</FONT><A title="" href="/003/Documents/Sec_All_audited_99.pdf" target=""><U><FONT color=#026836>99年度審定決算書</FONT></U></A><BR>
+<FONT face=新細明體 size=4><FONT color=#026836>4.</FONT><A title="" href="/003/Documents/Sec_All_audited_100.pdf" target=""><U><FONT color=#026836>100年度審定決算書</FONT></U></A><BR>
+<FONT face=新細明體 size=4><FONT color=#026836>5.</FONT><A title="" href="/003/Documents/Sec_All_audited_101.pdf" target=""><U><FONT color=#026836>101年度審定決算書</FONT></U></A><BR>
+<FONT face=新細明體 size=4><FONT color=#026836>6.</FONT><A title="" href="/003/Documents/Sec_All_audited_102.pdf" target=""><U><FONT color=#026836>102年度審定決算書</FONT></U></A><BR>
+<FONT face=新細明體 size=4><FONT color=#026836>7.</FONT><A title="" href="/003/Documents/Sec_All_audited_103.pdf" target=""><U><FONT color=#026836>103年度審定決算書</FONT></U></A><BR>
+<FONT face=新細明體 size=4><FONT color=#026836>8.</FONT><A title="" href="/003/Documents/Sec_All_audited_104.pdf" target=""><U><FONT color=#026836>104年度審定決算書</FONT></U></A><BR>
+
+
+</P>
+<FONT face=新細明體 size=4><A title="" href="/003/Pages/TWFHCSEC/MonthlyReports.aspx" target=""><U><FONT color=#026836>會計月報</FONT></U></A><br>
+
+<P></FONT><FONT face=新細明體 color=#026836 size=4></FONT>&nbsp;</P>
+<P><FONT face=新細明體 color=#026836 size=4>本公司對民間團體補(捐)助執行情形</FONT></P>
+<P><FONT face=新細明體 size=4><FONT color=#026836>1.</FONT><A title="" href="/003/Documents/subsidy/Sec_subsidy_101_1.pdf" target=""><U><FONT color=#026836>101年第1季</FONT></U></A>
+<BR>
+<FONT face=新細明體 size=4><FONT color=#026836>2.</FONT><A title="" href="/003/Documents/subsidy/Sec_subsidy_101_2.pdf" target=""><U><FONT color=#026836>101年第2季</FONT></U></A><BR>
+<FONT face=新細明體 size=4><FONT color=#026836>3.</FONT><A title="" href="/003/Documents/subsidy/Sec_subsidy_101_3.pdf" target=""><U><FONT color=#026836>101年第3季</FONT></U></A><BR>
+<FONT face=新細明體 size=4><FONT color=#026836>4.</FONT><A title="" href="/003/Documents/subsidy/Sec_subsidy_101_4.pdf" target=""><U><FONT color=#026836>101年第4季</FONT></U></A><BR>
+<FONT face=新細明體 size=4><FONT color=#026836>5.</FONT><A title="" href="/003/Documents/subsidy/Sec_subsidy_102_1.pdf" target=""><U><FONT color=#026836>102年第1季</FONT></U></A><BR>
+
+<FONT face=新細明體 size=4><FONT color=#026836>6.</FONT><A title="" href="/003/Documents/subsidy/Sec_subsidy_102_2.pdf" target=""><U><FONT color=#026836>102年第2季</FONT></U></A><BR>
+
+<FONT face=新細明體 size=4><FONT color=#026836>7.</FONT><A title="" href="/003/Documents/subsidy/Sec_subsidy_102_3.pdf" target=""><U><FONT color=#026836>102年第3季</FONT></U></A><BR>
+<FONT face=新細明體 size=4><FONT color=#026836>8.</FONT><A title="" href="/003/Documents/subsidy/Sec_subsidy_102_4.pdf" target=""><U><FONT color=#026836>102年第4季</FONT></U></A><BR>
+<FONT face=新細明體 size=4><FONT color=#026836>9.</FONT><A title="" href="/003/Documents/subsidy/Sec_subsidy_103_1.pdf" target=""><U><FONT color=#026836>103年第1季</FONT></U></A><BR>
+<FONT face=新細明體 size=4><FONT color=#026836>10.</FONT><A title="" href="/003/Documents/subsidy/Sec_subsidy_103_2.pdf" target=""><U><FONT color=#026836>103年第2季</FONT></U></A><BR>
+<FONT face=新細明體 size=4><FONT color=#026836>11.</FONT><A title="" href="/003/Documents/subsidy/Sec_subsidy_103_3.pdf" target=""><U><FONT color=#026836>103年第3季</FONT></U></A><BR>
+<FONT face=新細明體 size=4><FONT color=#026836>12.</FONT><A title="" href="/003/Documents/subsidy/Sec_subsidy_103_4.pdf" target=""><U><FONT color=#026836>103年第4季</FONT></U></A><BR>
+<FONT face=新細明體 size=4><FONT color=#026836>13.</FONT><A title="" href="/003/Documents/subsidy/Sec_subsidy_104_1.pdf" target=""><U><FONT color=#026836>104年第1季</FONT></U></A><BR>
+<FONT face=新細明體 size=4><FONT color=#026836>14.</FONT><A title="" href="/003/Documents/subsidy/Sec_subsidy_104_2.pdf" target=""><U><FONT color=#026836>104年第2季</FONT></U></A><BR>
+<FONT face=新細明體 size=4><FONT color=#026836>15.</FONT><A title="" href="/003/Documents/subsidy/Sec_subsidy_104_3.pdf" target=""><U><FONT color=#026836>104年第3季</FONT></U></A><BR>
+<FONT face=新細明體 size=4><FONT color=#026836>16.</FONT><A title="" href="/003/Documents/subsidy/Sec_subsidy_104_4.pdf" target=""><U><FONT color=#026836>104年第4季</FONT></U></A><BR>
+<FONT face=新細明體 size=4><FONT color=#026836>17.</FONT><A title="" href="/003/Documents/subsidy/Sec_subsidy_105_1.pdf" target=""><U><FONT color=#026836>105年第1季</FONT></U></A><BR>
+<FONT face=新細明體 size=4><FONT color=#026836>18.</FONT><A title="" href="/003/Documents/subsidy/Sec_subsidy_105_2.pdf" target=""><U><FONT color=#026836>105年第2季</FONT></U></A><BR>
+<FONT face=新細明體 size=4><FONT color=#026836>19.</FONT><A title="" href="/003/Documents/subsidy/Sec_subsidy_105_3.pdf" target=""><U><FONT color=#026836>105年第3季</FONT></U></A><BR>
+</P>
+<br>
+<FONT face=新細明體 size=4><A title="" href="/003/Pages/TWFHCSEC/Govinfo_2.aspx" target=""><U><FONT color=#026836>辦理政策宣導廣告專區</FONT></U></A>
+<p></p>
+<FONT face=新細明體 size=4><A title="" href="/003/Documents/governance1/governance1_6.pdf" target=""><U><FONT color=#026836>本公司重要管理人員資格規範</FONT></U></A>
+
+</div></td>
+			</tr>
+		</table></td>
+	</tr>
+</table>
+					</td>
+				</tr>
+				<tr ID="MiddleRow" style="padding-top: 6px;padding-right: 6px;padding-left:6px;padding-bottom:0px;">
+					<td valign="top" ID="MiddleLeftCell" width="100%" style="padding-top: 6px;padding-right: 6px;padding-left:6px;padding-bottom: 6px;">
+						&nbsp;
+					</td>
+					<td>&nbsp;</td> 
+					<td valign="top" ID="MiddleRightCell" style="padding-top: 6px;padding-right: 6px;padding-left:6px;padding-bottom: 6px;">
+                                                &nbsp;
+					</td>
+				</tr>
+				<tr ID="BottomRow" style="padding-top: 0px;padding-right: 6px;padding-left:6px;padding-bottom: 6px;">
+					<td valign="top" ID="BottomCell" width="100%" colspan="3">
+						<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td id="MSOZoneCell_WebPartWPQ3" vAlign="top"><table TOPLEVEL border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td valign="top"><div WebPartID="8e0d67ca-2c1a-4ff3-982e-f53640035996" HasPers="false" id="WebPartWPQ3" width="100%" class="ms-WPBody" allowDelete="false" style="height:44px;overflow:auto;" ><html xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>臺灣金控</title>
+<style type="text/css">
+body {
+	font-family: 微軟正黑體;
+	font-size: 10px;
+}
+.linedTRBottom {
+	border-style: none none solid none;
+	border-width: 1px;
+	border-color: gray;
+	padding: 2px 0px 0px 0px;
+}
+.linedTRTop {
+	border-style: solid none none none;
+	border-width: 1px;
+	border-color: gray;
+	padding: 0px 0px 2px 0px;
+}
+.middleCell a {
+	padding: 0px 3px 0px 5px;
+	text-decoration:none;
+text-align:center;
+	font-size: 12px;
+	font-weight:normal;
+	color:gray;
+}
+</style>
+</head>
+
+<body><center>
+<table style="width: 100%;" cellspacing="0">
+	<tr><td colspan="6" class="linedTRBottom" style="height:1pt">&nbsp;</td></tr>
+	<tr align="center"><td width="15%">&nbsp;</td>
+		<td class="middleCell"><a href="/Pages/TWFHCSEC/Privacy.aspx" style="text-decoration:none;color:gray;">隱私保護</a></td>
+		<td class="middleCell"><a href="/Pages/TWFHCSEC/CopyRight.aspx" style="text-decoration:none;color:gray;">版權宣告</a></td>
+		<td class="middleCell"><a href="/Pages/TWFHCSEC/Custom_Protect.aspx" style="text-decoration:none;color:gray;">客戶保密措施</a></td>
+		<td class="middleCell"><a href="/Pages/TWFHCSEC/Linking_Notice.aspx" style="text-decoration:none;color:gray;">引用網站注意事項</a></td>
+		<td width="15%" style="height:1pt">&nbsp;</td>
+	</tr>
+	<tr><td colspan="6" class="linedTRTop">&nbsp;</td></tr>
+</table>
+</center>
+</body>
+
+</html>
+</div></td>
+			</tr>
+		</table><div class="ms-PartSpacingVertical"></div></td>
+	</tr><tr>
+		<td id="MSOZoneCell_WebPartWPQ5" vAlign="top"><table TOPLEVEL border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td valign="top"><div WebPartID="ad47025f-4cd7-468f-a00b-3ab9d9c2722f" HasPers="false" id="WebPartWPQ5" width="100%" class="ms-WPBody" allowDelete="false" style="" ><iframe title="計數器" frameBorder="0" id="MSOPageViewerWebPart_WebPartWPQ5" name="MSOPageViewerWebPart_WebPartWPQ5" width="100%" src="/secproj/counter.aspx" ddf_src="/secproj/counter.aspx">
+					<div class="UserGeneric">目前的瀏覽器不支援內含 IFRAME 項目的網頁。要使用此網頁組件，您必須使用支援此項目的瀏覽器，例如 Internet Explorer 5 或更新版本。</div>
+				</iframe></div></td>
+			</tr>
+		</table></td>
+	</tr>
+</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+		<td ID="OuterRightCell" style="padding-left:10px;padding-right:0px;" valign="top" height="100%" width="180px;" rowspan="3">
+				<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td id="MSOZoneCell_WebPartWPQ4" vAlign="top"><table TOPLEVEL border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td valign="top"><div WebPartID="4b4fe5a5-7477-4672-aa29-857f050970a3" HasPers="false" id="WebPartWPQ4" width="100%" class="ms-WPBody" allowDelete="false" style="height:620px;overflow:auto;" ><iframe title="右側五公司及全文檢索" frameBorder="0" id="MSOPageViewerWebPart_WebPartWPQ4" name="MSOPageViewerWebPart_WebPartWPQ4" width="100%" height="100%" src="/Pages/Home/twsecRightZone.htm" ddf_src="/Pages/Home/twsecRightZone.htm">
+					<div class="UserGeneric">目前的瀏覽器不支援內含 IFRAME 項目的網頁。要使用此網頁組件，您必須使用支援此項目的瀏覽器，例如 Internet Explorer 5 或更新版本。</div>
+				</iframe></div></td>
+			</tr>
+		</table></td>
+	</tr>
+</table>
+		</td>
+	</tr>
+</table>
+
+						</div>
+					</div>
+				</td>
+			</tr>
+
+		</table>
+		</td>
+		<td height="100%" class="shadowRight">
+			<div class="spacer">
+			</div>
+		</td>
+		</tr>
+						<tr style="height:0px"><td>
+										
+</td></tr>
+		</table>
+		
+	
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKcmsinDwLgqcJGiNzJ2FGxYFx8FL6B/4J1XWBignU=" />
+
+<script type="text/javascript">
+//<![CDATA[
+var __wpmExportWarning='此 Web 組件頁面已個人化。因此，可能有一或多個 Web 組件屬性包含機密資訊。請確定屬性包含的資訊供其他人讀取並沒有安全的顧慮。在匯出此 Web 組件之後，請使用如 Microsoft 記事本的文字編輯器，檢視 Web 組件描述檔 (.WebPart) 中的屬性。';var __wpmCloseProviderWarning='您即將關閉此 Web 組件。它目前正在提供資料給其他的 Web 組件，而如果關閉此 Web 組件，將會刪除這些連接。若要關閉此 Web 組件，請按一下 [確定]。若要保留此 Web 組件，請按一下 [取消]。';var __wpmDeleteWarning='您即將永久刪除此 Web 組件。您確定要這樣做嗎? 若要刪除此 Web 組件，請按一下 [確定]。若要保留此 Web 組件，請按一下 [取消]。';var zz1_GlobalNav_Data = new Object();
+zz1_GlobalNav_Data.disappearAfter = 500;
+zz1_GlobalNav_Data.horizontalOffset = 0;
+zz1_GlobalNav_Data.verticalOffset = -8;
+zz1_GlobalNav_Data.hoverClass = 'topNavFlyOutsHover';
+if (typeof(overrideMenu_HoverStatic) == 'function' && typeof(Menu_HoverStatic) == 'function')
+{
+_spBodyOnLoadFunctionNames.push('enableFlyoutsAfterDelay');
+Menu_HoverStatic = overrideMenu_HoverStatic;
+}
+var flyoutsAllowed = false;
+function enableFlyoutsAfterDelay()
+{
+setTimeout('flyoutsAllowed = true;', 50);
+}
+function overrideMenu_HoverStatic(item)
+{
+if (!flyoutsAllowed || (document.readyState != null && document.readyState != 'complete'))
+{
+setTimeout(delayMenu_HoverStatic(item), 50);
+}
+else
+{
+// this code is the default ASP.NET implementation of Menu_HoverStatic
+var node = Menu_HoverRoot(item);
+var data = Menu_GetData(item);
+if (!data) return;
+__disappearAfter = data.disappearAfter;
+Menu_Expand(node, data.horizontalOffset, data.verticalOffset);
+}
+}
+function delayMenu_HoverStatic(item)
+{
+return (function()
+{
+overrideMenu_HoverStatic(item);
+});
+}
+//]]>
+</script>
+<script type="text/javascript" language="JavaScript" defer>
+<!--
+function SD06736D6_Submit() {GoSearch(null,'ctl00_PlaceHolderSearchArea_SearchBox_SD06736D6_InputKeywords',null,true,false,null,null,null,null,'\u002fsearchcenter\u002fPages\u002fResults.aspx', '此網站','此清單', '此資料夾', '相關的網站', '\u002f003\u002f_layouts\u002fOSSSearchResults.aspx');}
+// -->
+</script><script type="text/javascript" language="JavaScript" >
+// append an onload event handler
+var SD06736D6__onload= document.body.onload;
+if(typeof document.body.onload == 'function')
+{
+ document.body.onload = function()
+ {
+SD06736D6__onload();        
+  document.getElementById('ctl00_PlaceHolderSearchArea_SearchBox_SD06736D6_InputKeywords').name = 'InputKeywords';
+ }
+}
+else
+{
+ document.body.onload = function()
+ {
+  eval(SD06736D6__onload);        
+  document.getElementById('ctl00_PlaceHolderSearchArea_SearchBox_SD06736D6_InputKeywords').name = 'InputKeywords';
+ }
+}
+
+function SD06736D6_OSBEK(event1) { 
+if((event1.which == 10) || (event1.which == 13))
+{   
+SD06736D6_Submit();
+}
+}
+// -->
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var zz2_CurrentNav_Data = new Object();
+zz2_CurrentNav_Data.disappearAfter = 500;
+zz2_CurrentNav_Data.horizontalOffset = 0;
+zz2_CurrentNav_Data.verticalOffset = 0;
+zz2_CurrentNav_Data.hoverClass = 'leftNavFlyOutsHover';
+//]]>
+</script>
+</form>
+<script type="text/javascript">
+function fLoginControl()
+{
+	var x = location.port;
+	if (x == 666)
+	{
+//		alert(x);
+		document.getElementById("twLoginArea").style.display="block";
+	}
+	else
+	{
+//		alert('B2');
+		document.getElementById("twLoginArea").style.display="none";
+	}
+}
+
+fLoginControl();
+</script>
+
+
+ </body>
+
+</html>

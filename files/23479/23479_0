@@ -1,0 +1,723 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>預算書 - 法務部調查局</title>
+    <link rel="shortcut icon" href="/images/favicon.png">
+
+<meta name="DC.Title" content="調查局網頁" />   
+<meta name="DC.Creator" content="調查局" />         
+<meta name="DC.Subject" content="調查局網頁" /> 
+<meta name="DC.Type" content="網頁" />              
+<meta name="DC.Publisher" content="法務部調查局" /> 
+<meta name="DC.Identifier" content="A11010000F" />  
+<meta name="DC.Date" content="2015-11-30" />        
+<meta name="Category.Theme" content="300" />        
+<meta name="Category.Cake" content="J30" />         
+<meta name="Category.Service" content="I00" />      
+
+    
+
+<!-- Chrome, Firefox OS and Opera -->
+<meta name="theme-color" content="#187be0">
+<!-- Windows Phone -->
+<meta name="msapplication-navbutton-color" content="#187be0">
+<!-- iOS Safari -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-71103131-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+    <!-- CSS FILES -->
+    
+    
+    
+    <link href="/Content/bootstrap.min.css" rel="stylesheet"/>
+<link href="/Content/font-awesome.min.css" rel="stylesheet"/>
+<link href="/css/layout/wide.css" rel="stylesheet"/>
+<link href="/css/fractionslider.css" rel="stylesheet"/>
+<link href="/css/style-fraction.css" rel="stylesheet"/>
+<link href="/css/googleandwesomefonts.css" rel="stylesheet"/>
+<link href="/css/style.css" rel="stylesheet"/>
+<link href="/css/767.css" rel="stylesheet"/>
+<link href="/css/buttons.css" rel="stylesheet"/>
+<link href="/css/menu_index.css" rel="stylesheet"/>
+
+    <script src="/Scripts/jquery-1.11.1.js"></script>
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+         <script src="/js/html5shiv.js"></script>
+         <script src="/js/respond.min.js"></script>
+       <![endif]-->
+    <!--[if (gte IE 6)&(lte IE 8)]>
+      <script type="text/javascript" src="~/scripts/selectivizr.js"></script>
+    <![endif]-->
+    <noscript>
+        您的瀏覽器不支援JavaScript功能，若網頁功能無法正常使用時，請開啟瀏覽器JavaScript狀態
+    </noscript>
+</head>
+
+<body>
+    <!--Start Header-->
+    <header id="header" class="top-bar">
+        <div id="top-bar">
+            <div class="container ">
+                <div class="row">
+                    <div class="hidden-xs  hidden-sm col-md-5 col-lg-5 top-info1">
+<p>現在是 民國105年11月7日星期一 <i class="fa fa-user"></i> 您是第 7326810 個訪客</p>
+
+                    </div>
+
+                    <div class="hidden-xs  hidden-sm col-md-5 col-lg-5 ">
+                        <div class="top-info22">
+                            <a accesskey="U" href="/EditPage/?PageID=951d5b13-2e79-42c5-ae77-9eaa0ddcac73" title="網站導覽">:::</a>
+                            <span class="top-info2"><a title="回首頁" href="/">回首頁</a></span>
+                            <span class="top-info2"><a title="網站導覽" href="/TreeView/Chinese">網站導覽&nbsp;</a></span>
+                            <span class="top-info2"><a title="常見問答" href="/EditPage/?PageID=a339c7af-8f7a-4131-be7d-9a46edeb3483">常見問答&nbsp;</a></span>
+                            <span class="top-info2"><a title="行政院公報資訊網『另開新視窗" target="_blank" href="http://gazette.nat.gov.tw/egFront/index.jsp">行政院公報資訊網&nbsp;</a></span>
+                            <span class="top-info2"><a title="English" href="/en">English&nbsp;</a></span>
+                        </div>
+                    </div>
+
+                    <div class="hidden-xs  hidden-sm col-md-2 col-lg-2 top-info">
+                        <ul>
+                            <li><a href="javascript:FontZoom(1.5)" class="my-tweet">大</a></li>
+                            <li><a href="javascript:FontZoom(1)" class="my-facebook">中</a></li>
+                            <li><a href="javascript:FontZoom(0.8)" class="my-skype">小</a></li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- LOGO 開始 -->
+        <div class="container">
+            <div class="row">
+
+                <div class="col-xs-12 col-sm-12  col-md-7  col-lg-5">
+                    <div class="logo">
+                        <a href="/"><img src="/images/logo.gif" alt="法務部調查局"> </a>
+                    </div>
+                </div>
+
+                <script>var fbhtml_url = window.location.toString();</script>
+                <!--在html超連結指令中，以偵測滑鼠點擊超連結選項，來開啟指定的網址。-->
+                <!--social-->
+                <div class="hidden-xs hidden-sm  col-md-2  col-lg-4">
+                    <div class="footer_social_right">
+                        <ul class="footbot_social">
+                            <li><a class="fb" target="_blank" href="https://www.facebook.com/taiwanmjib/?fref=ts" data-placement="top" data-toggle="tooltip" title="Facebook『另開新視窗』"><i class="fa fa-facebook"></i></a></li>
+                            <li><a class="youtube" target="_blank" href="https://www.youtube.com/channel/UCKdIZ6DedFLz-YXa6X-uEYA" data-placement="top" data-toggle="tooltip" title="Youtube『另開新視窗』"><i class="fa fa-youtube-play"></i></a></li>
+                            <li><a class="flickr" target="_blank" href="https://www.flickr.com/photos/mjibps/" data-placement="top" data-toggle="tooltip" title="Flickr『另開新視窗』"><i class="fa fa-flickr"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!--widget_search-->
+                <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                    <div class="sidebar">
+                        <div class="widget widget_search">
+                            <div class="site-search-area">
+                                <form method="get" id="site-searchform" action="#">
+                                            <script>
+                                                (function () {
+                                                    var cx = '011360505088646983649:xgs63vgsosa';
+                                                    var gcse = document.createElement('script');
+                                                    gcse.type = 'text/javascript';
+                                                    gcse.async = true;
+                                                    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                                                        '//cse.google.com/cse.js?cx=' + cx;
+                                                    var s = document.getElementsByTagName('script')[0];
+                                                    s.parentNode.insertBefore(gcse, s);
+                                                })();
+                                            </script>
+                                            <gcse:search></gcse:search>
+                                            <link rel="stylesheet" href="/css/GoogleSearch.css" />
+                                </form>
+                            </div><!-- end site search -->
+
+
+                        </div>
+                        
+                        <div class="frontlink02 hidden-xs hidden-sm ">
+                            <a href="https://www.google.com.tw/advanced_search?hl=zh-TW&amp;as_q&amp;num=100&amp;as_sitesearch=www.mjib.gov.tw&amp;cof=FORID%3A10&amp;ie=UTF-8">進階搜尋</a>
+                        </div>
+                    </div><!-- end sidebar -->
+                </div><!-- end col -->
+
+                <div class="frontlink01 hidden-xs hidden-sm col-md-3 col-lg-3 ">
+                    熱門：
+                    <a target="_blank" href="https://www.google.com.tw/#q=廉政+site:www.mjib.gov.tw">廉政</a>
+                    <a target="_blank" href="https://www.google.com.tw/#q=經濟犯罪防制+site:www.mjib.gov.tw">經濟犯罪防制</a>
+                    <a target="_blank" href="https://www.google.com.tw/#q=毒品防制+site:www.mjib.gov.tw">毒品防制</a>
+                    <a target="_blank" href="https://www.google.com.tw/#q=洗錢及資恐防制+site:www.mjib.gov.tw">洗錢及資恐防制</a>
+                    <a target="_blank" href="https://www.google.com.tw/#q=保防+site:www.mjib.gov.tw">保防</a>
+                    <a target="_blank" href="https://www.google.com.tw/#q=鑑識科技+site:www.mjib.gov.tw">鑑識科技</a>
+                </div>
+
+            </div>
+
+        </div>
+        <!--LOGO 結束-->
+
+    </header>
+    <!--End Header-->
+    <!--MENU 開始 -->
+    <div class="navbar navbar-inverse">
+
+        <div class="navbar-header">
+            <p>網站選單</p><button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="navbar-collapse collapse dropdown navbar-mjib">
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a href="/EditPage/?PageID=6f9619ff-8b86-d011-b42d-00c04fc964ff" class="dropdown-toggle" data-toggle="dropdown">本局簡介<b class="caret"></b></a>
+                    <ul class="dropdown-menu scrollable-menu">
+                        <li><a href="/EditPage/?PageID=8493a027-12e4-468f-8cb7-0b5281e13b30">局長介紹</a></li>
+                        <li><a href="/EditPage/?PageID=08d9a71a-4c64-4b36-bcba-659b71d90591">歷史沿革</a></li>
+                        <li><a href="/EditPage/?PageID=750fb6eb-aad6-440e-84e8-6d3689b13e6f">重大政策</a></li>
+                        <li><a href="/teach/or">組織架構</a></li>
+                        <li><a href="/EditPage/?PageID=68997624-8ae6-4d5d-955c-dd97c5ca1f87">調查局所屬單位地圖</a></li>
+                        <li><a href="/EditPage/?PageID=3be8afbb-f505-48d6-a184-b5e080aa612e">局徽說明</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a href="/news/Index?Module=1" class="dropdown-toggle" data-toggle="dropdown">新聞活動<b class="caret"></b></a>
+                    <ul class="dropdown-menu scrollable-menu">
+                        <li><a href="/news/Index?Module=1">新聞快報</a></li>
+                        <li><a href="/news/Index?Module=2">最新消息</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a href="/EditPage/?PageID=4c520d45-99a4-4c17-94ee-dd57ccfad60d" class="dropdown-toggle" data-toggle="dropdown">工作重點<b class="caret"></b></a>
+                    <ul class="dropdown-menu scrollable-menu">
+                        <li><a href="/EditPage/?PageID=a7b7e634-6e27-4ee1-87dc-a7cc9f2b79cf">維護國家安全及利益</a></li>
+                        <li><a href="/EditPage/?PageID=4c32c3b3-5602-45ec-939d-976679308760">犯罪調查</a></li>
+                        <li><a href="/EditPage/?PageID=f4369b11-c0ff-4049-a428-f975bfd5730e">科技鑑識與研訓</a></li>
+                        <li><a href="/mlpc">洗錢及資恐防制</a></li>
+                        <li><a href="/EditPage/?PageID=143ff222-6fb0-4c04-800a-5207bab9e6bb">機關保防</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a href="/eBooks/eBooks_CategoryList?UpCID=1" class="dropdown-toggle" data-toggle="dropdown">電子書櫃及宣導<b class="caret"></b></a>
+                    <ul class="dropdown-menu scrollable-menu">
+                        <li><a href="/eBooks/eBooks_CategoryList?UpCID=1">電子出版品</a></li>
+                        <li><a href="/eBooks/eBooks_CategoryList?UpCID=8">工作年報</a></li>
+                        <li><a href="/eBooks/eBooks_CategoryList?UpCID=17">宣導資料</a></li>
+                        <li><a href="/EditPage/?PageID=204a59f0-4e4e-4da6-be34-074179dec3b7">徵稿說明</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a href="/EditPage/?PageID=7cfb7f3f-263c-4b95-9838-694e78fba9ae" class="dropdown-toggle" data-toggle="dropdown">調查人員特考<b class="caret"></b></a>
+                    <ul class="dropdown-menu scrollable-menu">
+                        <li><a href="/EditPage/?PageID=1ebad97f-b348-41d9-96d5-c514a639fb09">特考資訊</a></li>
+                        <li><a href="/EditPage/?PageID=ca41bc83-3450-498b-9904-6a935f8bb500">展抱山莊</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a href="/EditPage/?PageID=e8106a15-00a9-45c5-88a7-0905b326d314" class="dropdown-toggle" data-toggle="dropdown">為民服務<b class="caret"></b></a>
+                    <ul class="dropdown-menu scrollable-menu">
+                        <li class="dropdown dropdown-submenu">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">陳情檢舉管道</a>
+                            <ul class="dropdown-menu scrollable-menu">
+                                <li><a href="/EditPage/?PageID=add74f0d-3b86-4f04-bdb5-092deb465f7d">電話、親自、信函陳情檢舉</a></li>
+                                <li><a href="https://www.mjib.gov.tw/Poll?Module=2&lang=TW">線上陳情檢舉</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/EditPage/?PageID=32f804bb-271b-47b3-b4b3-577ac75ec097">檢舉專用地址電話一覽表</a></li>
+                        <li class="dropdown dropdown-submenu">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">接待參觀服務</a>
+                            <ul class="dropdown-menu scrollable-menu">
+                                <li><a href="https://www.mjib.gov.tw/Visit/Create">進入預約系統</a></li>
+                                <li><a href="https://www.mjib.gov.tw/Visit/AllDetail">查詢所有預約</a></li>
+                                <li><a href="https://www.mjib.gov.tw/Visit/Detail">查詢預約結果</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/EditPage/?PageID=85631920-f741-4f90-b196-f645d909e9a2#3">資料參閱</a></li>
+                        <li><a href="/EditPage/?PageID=8a6b46f0-cd32-41ad-8e07-731c29572809">火焚及污(破)損鈔券鑑定</a></li>
+                        <li><a href="/EditPage/?PageID=27ed90a4-dd61-4334-99aa-5d8be779ad48">親子血緣關係鑑定</a></li>
+                        <li><a href="/EditPage/?PageID=819e87b6-b1ce-4b0d-ba38-0c678fd15734">退休人員專區</a></li>
+                        <li class="dropdown dropdown-submenu">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">六大重點服務</a>
+                            <ul class="dropdown-menu scrollable-menu">
+                                <li><a href="/EditPage/?PageID=b006bc65-a1b1-467d-8e9a-a7be04c21331">廉政</a></li>
+                                <li><a href="/news/Details?Module=4&amp;id=88">經濟犯罪防制</a></li>
+                                <li><a href="/news/Details?Module=5&amp;id=118">毒品防制</a></li>
+                                <li><a href="/mlpc" target="_blank">洗錢及資恐防制</a></li>
+                                <li><a href="/news/Details?Module=7&amp;id=119">保防</a></li>
+                                <li><a href="/EditPage/?PageID=9c6125ad-8e9b-453b-a8fc-31eeafb00ad1">鑑識科技</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/Crimes/Crimes_List">追緝外逃</a></li>
+                        <li><a href="/EditPage/?PageID=bac38e59-0022-488e-9422-437034535b3e">就業資訊</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a href="/EditPage/?PageID=407005b4-6b06-4054-9aee-ec2cef76d411" class="dropdown-toggle" data-toggle="dropdown">資訊公開<b class="caret"></b></a>
+                    <ul class="dropdown-menu scrollable-menu">
+                        <li><a href="/EditPage/?PageID=1713b1da-72df-4cb5-a9b0-326b62d6d1bd">政府資訊申請</a></li>
+                        <li><a href="/InfoOpen/List?Module=1">法務部調查局「資訊公開」目錄一覽表</a></li>
+                        <li><a href="/EditPage/?PageID=76a971b9-d165-4874-902d-0d53237ff574">資訊圖像化</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!--MENU 結束-->
+    <!--wrapper 開始-->
+    <div class="rwd_bg">
+        <section class="wrapper" id="wrapper">
+            <a href="#" accesskey="C" id="accesskeyC" title="中間區域" style="float: left; position: absolute;"></a>
+            
+
+
+    <link href="/css/p_line_height.css"  rel="stylesheet" type="text/css" />    <link href="/css/lightbox.css"  rel="stylesheet" type="text/css" >    <section class="page_head">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-12">
+                    <!--麵包屑-->
+                    <h2><!--本頁名稱-->預算書</h2>
+                    <nav id="breadcrumbs">
+                        <ul>
+                            <li><i class="fa fa-home"></i></li>>
+                            
+                                <!--上上層名稱-->
+                                <li><a href="/EditPage/?PageID=407005b4-6b06-4054-9aee-ec2cef76d411">資訊公開</a></li>
+
+                            <!--上上層名稱-->
+                            <li><a href="/EditPage/?PageID=87c64d77-4f70-4ef1-93ed-ac426e5b2440">預算、決算書</a></li>
+                            <!--本層名稱-->
+                            <li>預算書</li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </section>	<!--end page_head-->
+    <section class="content blog">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-12">
+                    <div class="blog_single">
+                        <div class="about_author">
+                            <!--顯示同層連結-->
+                            <div style="padding-bottom:4px">
+                                                <a href="/EditPage/?PageID=0d83a26a-43ad-40b4-b39f-78a2f54aff12" style="margin-bottom:2px" class="btn btn-primary HighLightClass">預算書</a> 
+                                                <a href="/EditPage/?PageID=84c4e0dc-9790-4f67-a477-908f305080d9" style="margin-bottom:2px" class="btn btn-primary ">決算書</a> 
+
+                            </div>
+                            <!--顯示子層連結-->
+                            <div style="padding-bottom:4px">
+
+                            </div>
+
+                            <link rel="stylesheet" href="/css/p_line_height.css" />
+                            <span id="ContentStart"></span>
+                            <div class="metaInfo">
+                                <span>
+                                    <i class="fa fa-calendar"></i>
+                                    
+                                    
+                                    <i class="WestToChinese">2016/09/07 上午 11:36:29</i>
+                                    
+
+
+                                </span>
+
+                            </div>
+                            <table align="center" border="1" bordercolor="#cccccc" style="width: 800px;" width="65%">
+	<tbody>
+		<tr>
+			<th bgcolor="#cbd5f9" colspan="2" height="44"><span style="font-size: 22px;">預算書</span></th>
+		</tr>
+		<tr>
+			<td><a href="/userfiles/files/07-%E4%B8%BB%E8%A8%88%E5%AE%A4/%E6%B3%95%E5%8B%99%E9%83%A8%E8%AA%BF%E6%9F%A5%E5%B1%80106%E5%B9%B4%E5%BA%A6%E5%96%AE%E4%BD%8D%E9%A0%90%E7%AE%97%E6%A1%88(pdf).pdf"><span style="font-size: 16px;">106年度單位預算(案)書</span></a><span style="font-size: 16px;"><a href="/userfiles/files/07-%E4%B8%BB%E8%A8%88%E5%AE%A4/%E6%B3%95%E5%8B%99%E9%83%A8%E8%AA%BF%E6%9F%A5%E5%B1%80106%E5%B9%B4%E5%BA%A6%E5%96%AE%E4%BD%8D%E9%A0%90%E7%AE%97%E6%A1%88(pdf).pdf">PDF</a>、<a href="/userfiles/files/07-%E4%B8%BB%E8%A8%88%E5%AE%A4/106-%E9%A0%90%E7%AE%97%E6%A1%88-20160901142912(xml)(1).7z">XML</a></span></td>
+			<td><span style="font-size: 16px;"><a href="../userfiles/files/%E8%B3%87%E8%A8%8A%E5%85%AC%E9%96%8B/99-3.pdf" target="_blank" title="另開視窗-連結99年度單位預算書.pdf">99年度單位預算書</a></span></td>
+		</tr>
+		<tr>
+			<td><span style="font-size: 16px;"><a href="../EditPage/?PageID=68761ff5-5524-4e07-8699-c6ec6f29a92a" target="_blank" title="另開視窗-連結105年度單位預算書">105年度單位預算書</a></span></td>
+			<td><span style="font-size: 16px;"><a href="../userfiles/files/%E8%B3%87%E8%A8%8A%E5%85%AC%E9%96%8B/98-3.pdf" target="_blank" title="另開視窗-連結98年度單位預算書">98年度單位預算書</a></span></td>
+		</tr>
+		<tr>
+			<td><span style="font-size: 16px;"><a href="../EditPage/?PageID=b287fd52-a912-406a-b47a-1237a9d86748" target="_blank" title="另開視窗-連結104年度單位預算案書.pdf">104年度單位預算書</a></span></td>
+			<td><span style="font-size: 16px;"><a href="../userfiles/files/%E8%B3%87%E8%A8%8A%E5%85%AC%E9%96%8B/97-3.pdf" target="_blank" title="另開視窗-連結97年度單位預算書.pdf">97年度單位預算書</a></span></td>
+		</tr>
+		<tr>
+			<td><span style="font-size: 16px;"><a href="../userfiles/files/%E8%B3%87%E8%A8%8A%E5%85%AC%E9%96%8B/103-1.pdf" target="_blank" title="另開視窗-連結103年度單位預算案書.pdf">103年度單位預算(案)書</a></span></td>
+			<td><span style="font-size: 16px;"><a href="../userfiles/files/%E8%B3%87%E8%A8%8A%E5%85%AC%E9%96%8B/96-3.pdf" target="_blank" title="另開視窗-連結96年度單位預算書.pdf">96年度單位預算書</a></span></td>
+		</tr>
+		<tr>
+			<td><span style="font-size: 16px;"><a href="../userfiles/files/%E8%B3%87%E8%A8%8A%E5%85%AC%E9%96%8B/103-1.pdf" target="_blank" title="另開視窗-連結103年度單位預算案書.pdf">103年度單位預算(案)書</a></span></td>
+			<td><span style="font-size: 16px;"><a href="../userfiles/files/%E8%B3%87%E8%A8%8A%E5%85%AC%E9%96%8B/96-2.pdf" target="_blank" title="另開視窗-連結96歲出機關別單位預算表.pdf">96年歲出機關別單位預算表</a></span></td>
+		</tr>
+		<tr>
+			<td><span style="font-size: 16px;"><a href="../userfiles/files/%E8%B3%87%E8%A8%8A%E5%85%AC%E9%96%8B/102-5.pdf" target="_blank" title="另開視窗-連結102年度單位預算案書.pdf">1</a><a href="../userfiles/files/%E8%B3%87%E8%A8%8A%E5%85%AC%E9%96%8B/102-4.pdf" target="_blank" title="另開視窗-連結102年度單位預算書.pdf">02年度單位預算書</a></span></td>
+			<td><span style="font-size: 16px;"><a href="../userfiles/files/%E8%B3%87%E8%A8%8A%E5%85%AC%E9%96%8B/96-1.pdf" target="_blank" title="另開視窗-連結96歲入來源別單位預算表.pdf">96年歲入來源別單位預算表</a></span></td>
+		</tr>
+		<tr>
+			<td><span style="font-size: 16px;"><a href="../userfiles/files/%E8%B3%87%E8%A8%8A%E5%85%AC%E9%96%8B/102-5.pdf" target="_blank" title="另開視窗-連結102年度單位預算案書.pdf">102年度單位預算(案)書</a></span></td>
+			<td><span style="font-size: 16px;"><a href="../userfiles/files/%E8%B3%87%E8%A8%8A%E5%85%AC%E9%96%8B/95a-3.pdf" target="_blank" title="另開視窗-連結95年度單位預算書.pdf">95年度單位預算書</a></span></td>
+		</tr>
+		<tr>
+			<td><span style="font-size: 16px;"><a href="../userfiles/files/%E8%B3%87%E8%A8%8A%E5%85%AC%E9%96%8B/101-3.pdf" target="_blank" title="另開視窗-連結101年度單位預算書.pdf">101年度單位預算書</a></span></td>
+			<td><span style="font-size: 16px;"><a href="../userfiles/files/%E8%B3%87%E8%A8%8A%E5%85%AC%E9%96%8B/95a-2.pdf" target="_blank" title="另開視窗-連結95歲出機關別單位預算表.pdf">95年歲出機關別單位預算表</a></span></td>
+		</tr>
+		<tr>
+			<td><span style="font-size: 16px;"><a href="../userfiles/files/%E8%B3%87%E8%A8%8A%E5%85%AC%E9%96%8B/100-3.pdf" target="_blank" title="另開視窗-連結100年度單位預算書.pdf">100年度單位預算書</a></span></td>
+			<td><span style="font-size: 16px;"><a href="../userfiles/files/%E8%B3%87%E8%A8%8A%E5%85%AC%E9%96%8B/95a-1.pdf" target="_blank" title="另開視窗-連結95歲入來源別單位預算表.pdf">95年歲入來源別單位預算表</a></span></td>
+		</tr>
+	</tbody>
+</table>
+
+							
+							
+							
+							  <!--lightbox\相簿 -->
+                           <div class="container gal-container">
+
+                            </div>
+                            <!--lightbox\相簿 -->
+							
+							
+							
+							
+
+<script>
+var fbhtml_url = window.location.toString();
+                            fbhtml_url = fbhtml_url.replace("&", "%26")</script>
+<!--在html超連結指令中，以偵測滑鼠點擊超連結選項，來開啟指定的網址。-->
+
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+    <div class="blog_large">
+        <article class="post">
+            <ul class="shares">
+                <li class="shareslabel"><i style="font-size:24px" class="fa fa-share-alt-square"></i></li>
+                <li><a class="facebook" href="javascript:void(0);" onkeypress="window.open('http://www.facebook.com/sharer/sharer.php?u='+fbhtml_url);return false;" onclick="window.open('http://www.facebook.com/sharer/sharer.php?u=' + fbhtml_url); return false;" target="_blank" data-placement="top" data-toggle="tooltip" title="Facebook"></a></li>
+                <!--在html超連結指令中，以偵測滑鼠點擊超連結選項，來開啟指定的網址。-->
+            </ul>
+        </article>
+    </div>
+</div>
+
+
+                        </div>
+                    </div>
+                </div><!--end col-->
+            </div><!--end row-->
+        </div><!--end container-->
+    </section>	<!--end content blog-->
+<script>
+    $(function () {
+        $("#accesskeyC").insertAfter("#ContentStart");
+    });
+</script>
+
+<script src="/js/lightbox.js"></script>
+
+
+
+
+
+        </section>
+    </div>
+    <!--end wrapper-->
+    <!--footer-top-area 開始-->
+    
+    <div class="panel-group2" id="accordion" role="tablist" aria-multiselectable="true">
+        <div class="panel2 panel-default2">
+
+            <div class="panel-heading" role="tab" id="headingTen" style="padding: 0;">
+                <h4 class="panel-title2" style="margin: 0;">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTen" aria-expanded="false" aria-controls="collapseTen" style="line-height: 70px; height: 70px;">
+                        
+                        <span class="accordian-icon2">全站導覽<i class="fa fa-hand-o-up fa-rotate-180"></i></span>
+                    </a>
+                </h4>
+            </div>
+
+            <div id="collapseTen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTen">
+                <div class="panel-body2 footerbg">
+                    <!--footer-top-area 開始-->
+                    <div class="footer-top-area img-responsive row">
+                        <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                            <div class="footer-menu">
+                                <h4 class="footer-wid-title">本局簡介</h4>
+                                <ul>
+                                    <li><a href="/EditPage/?PageID=8493a027-12e4-468f-8cb7-0b5281e13b30">局長介紹</a></li>
+                                    <li><a href="/EditPage/?PageID=08d9a71a-4c64-4b36-bcba-659b71d90591">歷史沿革</a></li>
+                                    <li><a href="/EditPage/?PageID=750fb6eb-aad6-440e-84e8-6d3689b13e6f">重大政策</a></li>
+                                    <li><a href="/teach/or">組織架構</a></li>
+                                    <li><a href="/EditPage/?PageID=68997624-8ae6-4d5d-955c-dd97c5ca1f87">調查局所屬單位地圖</a></li>
+                                    <li><a href="/EditPage/?PageID=3be8afbb-f505-48d6-a184-b5e080aa612e">局徽說明</a></li>
+                                </ul>
+
+                            </div>
+
+                            <div class="footer-menu">
+                                <h4 class="footer-wid-title">新聞活動</h4>
+                                <ul>
+                                    <li><a href="/news/Index?Module=1">新聞快報</a></li>
+                                    <li><a href="/news/Index?Module=2">最新消息</a></li>
+                                </ul>
+                            </div>
+
+                            <div class="footer-menu">
+                                <h4 class="footer-wid-title">工作重點</h4>
+                                <ul>
+                                    <li><a href="/EditPage/?PageID=a7b7e634-6e27-4ee1-87dc-a7cc9f2b79cf">維護國家安全及利益</a></li>
+                                    <li><a href="/EditPage/?PageID=4c32c3b3-5602-45ec-939d-976679308760">犯罪調查</a></li>
+                                    <li><a href="/EditPage/?PageID=f4369b11-c0ff-4049-a428-f975bfd5730e">科技鑑識與研訓</a></li>
+                                    <li><a href="/EditPage/?PageID=143ff222-6fb0-4c04-800a-5207bab9e6bb">機關保防</a></li>
+                                </ul>
+                            </div>
+
+                        </div>
+
+                        <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+
+                            <div class="footer-menu">
+                                <h4 class="footer-wid-title">電子書櫃及宣導</h4>
+                                <ul>
+                                    <li><a href="/eBooks/eBooks_CategoryList?UpCID=1">電子出版品</a></li>
+                                    <li><a href="/eBooks/eBooks_CategoryList?UpCID=8">工作年報</a></li>
+                                    <li><a href="/eBooks/eBooks_CategoryList?UpCID=17">宣導資料</a></li>
+                                </ul>
+                            </div>
+
+                            <div class="footer-menu">
+                                <h4 class="footer-wid-title">調查人員特考</h4>
+                                <ul>
+                                    <li><a href="/EditPage/?PageID=1ebad97f-b348-41d9-96d5-c514a639fb09">特考資訊</a></li>
+                                    <li><a href="/EditPage/?PageID=ca41bc83-3450-498b-9904-6a935f8bb500">展抱山莊</a></li>
+                                </ul>
+                            </div>
+
+                            <div class="footer-menu">
+                                <h4 class="footer-wid-title">為民服務</h4>
+                            </div>
+
+
+                            <ul class="footer-menu">
+                                <li>
+                                    <p>陳情檢舉管道</p>
+                                    <ul>
+                                        <li><a href="/EditPage/?PageID=add74f0d-3b86-4f04-bdb5-092deb465f7d">電話、親自、信函陳情檢舉</a></li>
+                                        <li><a href="https://www.mjib.gov.tw/Poll?Module=2&lang=TW">線上陳情檢舉</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+
+
+                            <ul class="footer-menu">
+                                <li><a href="/EditPage/?PageID=32f804bb-271b-47b3-b4b3-577ac75ec097">檢舉專用地址電話一覽表</a></li>
+                            </ul>
+
+                            <ul class="footer-menu">
+                                <li>
+                                    <p>接待參觀服務</p>
+                                    <ul>
+                                        <li><a href="https://www.mjib.gov.tw/Visit/Create">進入預約系統</a></li>
+                                        <li><a href="https://www.mjib.gov.tw/Visit/AllDetail">查詢所有預約</a></li>
+                                        <li><a href="https://www.mjib.gov.tw/Visit/Detail">查詢預約結果</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div><!--col-->
+
+                        <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+
+
+
+
+                            <ul class="footer-menu">
+                                <li><a href="/EditPage/?PageID=85631920-f741-4f90-b196-f645d909e9a2#3">資料參閱</a></li>
+                                <li><a href="/EditPage/?PageID=8a6b46f0-cd32-41ad-8e07-731c29572809">火焚及污(破)損鈔券鑑定</a></li>
+                                <li><a href="/EditPage/?PageID=27ed90a4-dd61-4334-99aa-5d8be779ad48">親子血緣關係鑑定</a></li>
+                                <li><a href="/EditPage/?PageID=819e87b6-b1ce-4b0d-ba38-0c678fd15734">退休人員專區</a></li>
+                            </ul>
+
+
+                            <ul class="footer-menu">
+                                <li>
+                                    <p>六大重點服務</p>
+                                    <ul>
+                                        <li><a href="/EditPage/?PageID=b006bc65-a1b1-467d-8e9a-a7be04c21331">廉政</a></li>
+                                        <li><a href="/news/Details?Module=4&amp;id=88">經濟犯罪防制</a></li>
+                                        <li><a href="/news/Details?Module=5&amp;id=118">毒品防制</a></li>
+                                        <li><a href="/mlpc" target="_blank">洗錢及資恐防制</a></li>
+                                        <li><a href="/news/Details?Module=7&amp;id=119">保防</a></li>
+                                        <li><a href="/EditPage/?PageID=9c6125ad-8e9b-453b-a8fc-31eeafb00ad1">鑑識科技</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+
+                            <ul class="footer-menu">
+                                <li><a href="/Crimes/Crimes_List">追緝外逃</a></li>
+                                <li><a href="/EditPage/?PageID=bac38e59-0022-488e-9422-437034535b3e">就業資訊</a></li>
+                            </ul>
+
+
+
+
+                        </div><!--col-->
+
+                        <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                            <div class="footer-menu">
+                                <h4 class="footer-wid-title">資訊公開</h4>
+                                <ul>
+                                    <li class="lastone" style="width:10em"><a href="/EditPage/?PageID=1713b1da-72df-4cb5-a9b0-326b62d6d1bd">政府資訊申請</a></li>
+                                    <li><a href="/InfoOpen/List?Module=1">法務部調查局「資訊公開」目錄一覽表</a></li>
+
+                                </ul>
+                            </div>
+
+                            <div class="footer-menu">
+                                <h4 class="footer-wid-title">便民專區</h4>
+                                <ul>
+                                    <li><a href="/EditPage/?PageID=8a6b46f0-cd32-41ad-8e07-731c29572809">鈔券鑑定</a></li>
+                                    <li><a href="/EditPage/?PageID=27ed90a4-dd61-4334-99aa-5d8be779ad48">DNA鑑定</a></li>
+                                    <li><a href="/EditPage/?PageID=cca02333-3bb7-4366-9c3e-0302560fd11d">接待參觀</a></li>
+                                    <li><a href="https://www.mjib.gov.tw/Poll?Module=2">線上檢舉</a></li>
+                                    <li><a href="/Video/?Module=19">媒體報導</a></li>
+                                    <li><a href="/EditPage/?PageID=750fb6eb-aad6-440e-84e8-6d3689b13e6f">重大政策</a></li>
+                                    <li><a href="/Crimes/Crimes_List?lang=1">追緝外逃</a></li>
+                                    <li><a href="/EditPage/?PageID=fec04ff5-21f6-43cd-9971-fcf808860305">友站連結</a></li>
+                                </ul>
+
+
+
+
+                            </div>
+
+                        </div><!--col-->
+                        <!--footer-top-area 結束-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--footer-top-area 結束-->
+    <!--start footer-bottom開始-->
+    
+<section class="footer_bottom img-responsive">
+    <div class="container">
+        <div class="row">
+
+            <!-- map -->
+            <div class="  col-xs-12  col-sm-7  col-md-12 col-lg-12">
+                <div class="footer-about-us">
+                    <p>
+                        <i class="fa fa-phone-square"></i>&nbsp;總機:(02)2911-2241 
+                        <i class="fa fa-fax"></i>&nbsp;傳真:(02)2918-8888 
+                        <i class="fa fa-map-marker"></i>&nbsp;地址：23149 新北市新店區中華路74號 
+                    </p>
+                </div>
+               
+            </div>
+			
+			   <div class="hidden-xs  hidden-sm col-md-6 col-lg-6 ">
+			 <div class="newsletter-form">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3616.882912635214!2d121.53902459999999!3d24.970098!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346801f517b95e69%3A0x701854bfe6ce52f7!2zMjMx5paw5YyX5biC5paw5bqX5Y2A5Lit6I-v6LevNzTomZ8!5e0!3m2!1szh-TW!2stw!4v1436262333789" title="地址:新北市新店區中華路74號" width="100%" height="80em" frameborder="0" style="border:0" allowfullscreen></iframe>
+                </div>
+			
+			 </div>
+			
+
+            <div class="    col-xs-4  col-sm-5  col-md-4  col-lg-3">
+                <div class="footer_socialB">
+                    <a class="btn btn-default4"><i class="fa fa-phone-square fa-1x"></i>檢舉專線電話：(02)2917-7777 </a>
+                    <a class="btn btn-default4"><i class="fa fa-phone-square fa-1x"></i>免付費檢舉專線：0800-007-007 </a>
+                </div>
+            </div>
+
+            <div class="hidden-xs  hidden-sm col-md-1 col-lg-3">
+                <div class="footer_social01">
+                    <a href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20160711154804" target="_blank"><img alt="無障礙A+標籤圖檔" src="/images/A_Plus.gif"></a>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- info  -->
+
+        <div class=" copyright col-xs-12 col-sm-12 col-md-12  col-lg-12 ">
+            <span><a href="/EditPage/?PageID=0513b043-dfff-4847-8e5b-f40cef67613f">資料開放宣告</a>&nbsp;</span>
+            <span><a href="/EditPage/?PageID=45a23953-ef7b-4a6a-a488-a3d57d9018d5">隱私權保護宣告</a>&nbsp;</span>
+            <span><a href="/EditPage/?PageID=4c1e5006-cbb4-40d6-8a34-73c1389db7ff">資訊安全政策宣告</a>&nbsp;</span>
+            <span><a href="/">回首頁</a></span>
+            <span><a href="/TreeView/Chinese">網站導覽&nbsp;</a></span>
+            <span><a href="/EditPage/?PageID=a339c7af-8f7a-4131-be7d-9a46edeb3483">常見問題&nbsp;</a></span>
+            <span><a target="_blank" href="http://gazette.nat.gov.tw/egFront/index.jsp" >行政院公報資訊網&nbsp;</a></span>
+            <span><a href="/en">English&nbsp;</a></span>
+        </div>
+
+        <div class=" copyright col-xs-12 col-sm-12 col-md-12  col-lg-12 ">
+            <p>
+                對本網站有任何意見，敬請來電指教：(02)29112241 分機2926 
+                <br>最佳瀏覽解析度為1024*768以上&nbsp; |  瀏覽本網站請使用Internet Explorer 10以上版本或Chrome  &nbsp; | 更新日期：2016/10/03
+            </p>
+        </div>
+
+    </div>
+
+</section>
+
+    <!--start footer-bottom 結束-->
+
+
+
+     
+
+
+
+    
+    <script src="/js/jquery-scrolltofixed-min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/jquery.easing.1.3.js"></script>
+<script src="/js/jquery.cookie.js"></script>
+<script src="/js/jquery.jcarousel.js"></script>
+<script src="/js/jquery.magnific-popup.min.js"></script>
+<script src="/js/swipe.js"></script>
+<script src="/js/script.js"></script>
+<script src="/Scripts/UUEI.js"></script>
+<script src="/js/main.js"></script>
+
+    <script>
+        //被點擊的該類選單變亮(class加active)
+        $("#87c64d77-4f70-4ef1-93ed-ac426e5b2440").addClass("active");
+    </script>
+</body>
+
+
+
+</html>

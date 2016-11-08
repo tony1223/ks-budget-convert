@@ -1,0 +1,3106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  <html>
+  <head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge; IE=10; IE=9; IE=8;">
+
+  <link rel="stylesheet" type="text/css" href="css/standard/jqueryslidemenu.css" />
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/jqueryslidemenu.js"></script>
+
+  <script type="text/javascript" src="js/centertab.js"></script>
+
+  <link rel="shortcut icon" href="../favicon.ico" />
+
+<!-- 分類檢索 -->
+
+
+<!--
+程式名稱：home_metatag.jsp
+說明：分類檢索
+開發者：chmei
+開發日期：99.12.06
+修改者：
+修改日期：
+版本：ver1.0
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+<link title="Dublin Core" href="http://www.gov.tw/schema/dc/" rel="govtwsimpledc.xsd">
+<meta name="DC.Title" content="主動公開之政府資訊專區">
+<meta name="DC.Creator" content="交通部">
+<meta name="DC.Subject" content="主動公開之政府資訊專區">
+<meta name="DC.Description" content="主動公開之政府資訊專區">
+<meta name="DC.Publisher" content="交通部">
+<meta name="DC.Contributor" content="交通部">
+<meta name="DC.Date" content="2011-12-01 11:52:42">
+<meta name="DC.Type" content="網頁">
+<meta name="DC.Format" content="text/html">
+<meta name="DC.Identifier" content="31500000H">
+<meta name="DC.Relation" content="GIP-MOTC-MP-1">
+<meta name="DC.Source" content="交通部">
+<meta name="DC.Language" content="Chinese">
+<meta name="DC.coverage" content="">
+<meta name="DC.Rights" content="歡迎連結使用交通部網站資料。引用時，請，請確保資料之完整性，不得任意增刪，亦不得作為商業使用。">
+<meta name="Category.Theme" content="600,610">
+<meta name="Category.Cake" content="800">
+<meta name="Category.Service" content="900,A00">
+<meta name="keywords" content="交通部.交通.MOTC.運輸.觀光.路政.航政.航空.鐵路.公路.郵政.海運">
+
+
+    
+  <script type="text/javascript" src="js/submenu.js"></script>
+  
+
+
+	  <link href="css/standard/default.css" rel=stylesheet type=text/css title=MediumText media=screen,print>
+  
+	  <link href="css/standard/jqueryslidemenu.css" rel=stylesheet type=text/css title=MediumText media=screen,print>
+  
+	  <link href="css/standard/css_m20130321.css" rel=stylesheet type=text/css title=MediumText media=screen,print>
+  
+	  <link href="css/standard/default.cssbak" rel=stylesheet type=text/css title=MediumText media=screen,print>
+  
+	  <link href="css/standard/css_m.cssbak" rel=stylesheet type=text/css title=MediumText media=screen,print>
+  
+	  <link href="css/standard/css_m.css" rel=stylesheet type=text/css title=MediumText media=screen,print>
+  
+	  <link href="css/standard/banner.css" rel=stylesheet type=text/css title=MediumText media=screen,print>
+  
+  
+  </head>
+  
+
+		  
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<!--
+程式名稱：standard_home3.jsp
+說明：民眾端內頁(一般版三欄式)
+開發者：chmei
+開發日期：100.07.30
+修改者：
+修改日期：
+版本：ver1.0
+-->
+
+
+
+
+
+
+
+
+
+
+	  
+	  <html>
+	  <head>
+	  <title>主動公開之政府資訊專區- - 中華民國交通部</title>
+
+	  <script type="text/JavaScript">
+	  <!--
+	  function MM_swapImgRestore() { //v3.0
+		  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+	  }
+	  
+	  function MM_preloadImages() { //v3.0
+		  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+		  var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+		  if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+	  }
+	  
+	  function MM_findObj(n, d) { //v4.01
+		  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+			  d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+		  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+		  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+		  if(!x && d.getElementById) x=d.getElementById(n); return x;
+	  }
+	  
+	  function MM_swapImage() { //v3.0
+		  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+			  if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+	  }
+	  //-->
+	  </script>
+	  
+	  </head>
+	  
+	  <body>
+	  <table width="50%" border="0" align="center" cellpadding="0" cellspacing="0">
+	    <tr>
+	      <td>
+	        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+	          <tr>
+	            <td rowspan="2"><a name="top"></a><a href="index.jsp" title="中華民國交通部"><img src="img/standard/motc_r1_c1.jpg" title="中華民國交通部" alt="中華民國交通部" width="345" height="64" border="0"></a></td>
+	            <td>
+	              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+	                <tr>
+	                  <td width="98%" align="right" valign="bottom" background="img/standard/top_bg.jpg">
+	                    
+
+<a href="main.jsp?prg=../ap/sitemap.jsp&maintitle=網站導覽" title="上方選單區" class="accesskey" accesskey="u">:::</a> 
+<a href="/index.jsp" class="top_1" title="回首頁">回首頁</a><span class="top_1">　|　</span>
+<a href="main.jsp?prg=../ap/sitemap.jsp&maintitle=網站導覽" class="top_1" title="網站導覽">網站導覽</a><span class="top_1">　|　</span>
+<a href="/en/index.jsp" class="top_1" title="English">English</a><span class="top_1">　|　</span>
+<a href="http://kids.motc.gov.tw" class="top_1" title="兒童版">兒童版</a><span class="top_1">　|　</span> 
+<a href="home.jsp?id=18&parentpath=0,8" class="top_1" title="雙語詞彙對照">雙語詞彙對照</a><span class="top_1">　|　</span>
+<a href="pda/index.jsp" class="top_1" title="行動版網站">行動版網站</a><span class="top_1">　|　</span>
+<a href="main.jsp?prg=../ap/mailbox.jsp&maintitle=部長(民意)信箱" class="top_1" title="部長(民意)信箱">部長(民意)信箱</a><span class="top_1">　|　</span>
+<a href="main.jsp?prg=../ap/rss.jsp&maintitle=RSS" class="top_1" title="RSS">RSS</a>
+
+	                  </td>
+	                  <td width="5%" align="right" valign="bottom" background="img/standard/top_bg.jpg"><img src="img/standard/top_bg.jpg" alt="*" width="14" height="55"></td>
+	                </tr>
+	              </table>
+	            </td>
+	          </tr>
+	          <tr>
+	            <td valign="bottom"><img src="img/standard/motc_r2_c16.jpg" alt="*" width="658" height="9"></td>
+	          </tr>
+	        </table>
+	      </td>
+	    </tr>
+	    <tr>
+	      <td>
+	        <table width="80%" border="0" align="center" cellpadding="0" cellspacing="0" background="img/standard/motc_r4_c2.jpg">
+	          <tr>
+	            <td>
+	              <table width="100%" border="0" cellpadding="0" cellspacing="0" background="img/standard/m_menu_bg.jpg">
+	                <tr>
+	                  <td width="1%" align="left"><img src="img/standard/motc_r3_c2.jpg" alt="*" width="9" height="40"></td>
+	                  <td width="98%">
+	                    
+
+<!--
+程式名稱：mainmenu.jsp
+說明：民眾端第一層架構
+開發者：chmei
+開發日期：100.07.26
+修改者：
+修改日期：
+版本：ver1.0
+-->
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+  //點閱率(Menu)
+  function read(menuid,menutable) {
+	  $.ajax({
+		  url: "ap/updatenumber_menu.jsp",
+		  type: "POST",
+		  data: "menuid=" + menuid + "&menutable=" + menutable
+	  });
+  }	 
+</script>
+
+
+<div id="myslidemenu" class="jqueryslidemenu">
+  <ul>
+    
+		      <li>
+		        
+		        	  <a tabindex="1" href="home.jsp?id=1&parentpath=0" title="交通部簡介" onclick="javascript:read('1','MotcChineseMenu')" onkeypress="javascript:read('1','MotcChineseMenu')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image1','','img/201107280704531.jpg',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image1','','img/201107280704531.jpg',1)"><img src="img/201107280704530.jpg" alt="交通部簡介" name="Image1" border="0"></a>
+		          
+		        	  <ul>
+		        	  
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=1552&parentpath=0,1" title="部長的話" onclick="javascript:read('1552','MotcChineseMenu')" onkeypress="javascript:read('1552','MotcChineseMenu')">部長的話</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=12&parentpath=0,1" title="首長小檔案" onclick="javascript:read('12','MotcChineseMenu')" onkeypress="javascript:read('12','MotcChineseMenu')">首長小檔案</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    		<a tabindex="1" href="http://www.motc.gov.tw/personnel/home.jsp?id=853&parentpath=0,852" title="歷任首長" target="_blank" onclick="javascript:read('896','MotcChineseMenu')" onkeypress="javascript:read('896','MotcChineseMenu')">歷任首長</a>
+		        	    	    	
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=717&parentpath=0,1" title="業務概況" onclick="javascript:read('717','MotcChineseMenu')" onkeypress="javascript:read('717','MotcChineseMenu')">業務概況</a>
+		        	    	    
+		        	    	    	<ul>
+		        	    	    	
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=721&parentpath=0,1,717" title="鐵路" onclick="javascript:read('721','MotcChineseMenu')" onkeypress="javascript:read('721','MotcChineseMenu')">鐵路</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=722&parentpath=0,1,717" title="公路" onclick="javascript:read('722','MotcChineseMenu')" onkeypress="javascript:read('722','MotcChineseMenu')">公路</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=726&parentpath=0,1,717" title="水運" onclick="javascript:read('726','MotcChineseMenu')" onkeypress="javascript:read('726','MotcChineseMenu')">水運</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=727&parentpath=0,1,717" title="港埠" onclick="javascript:read('727','MotcChineseMenu')" onkeypress="javascript:read('727','MotcChineseMenu')">港埠</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=723&parentpath=0,1,717" title="航空" onclick="javascript:read('723','MotcChineseMenu')" onkeypress="javascript:read('723','MotcChineseMenu')">航空</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=725&parentpath=0,1,717" title="觀光" onclick="javascript:read('725','MotcChineseMenu')" onkeypress="javascript:read('725','MotcChineseMenu')">觀光</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=724&parentpath=0,1,717" title="氣象" onclick="javascript:read('724','MotcChineseMenu')" onkeypress="javascript:read('724','MotcChineseMenu')">氣象</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=719&parentpath=0,1,717" title="郵政" onclick="javascript:read('719','MotcChineseMenu')" onkeypress="javascript:read('719','MotcChineseMenu')">郵政</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=720&parentpath=0,1,717" title="電信" onclick="javascript:read('720','MotcChineseMenu')" onkeypress="javascript:read('720','MotcChineseMenu')">電信</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    	</ul>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=728&parentpath=0,1" title="交通部職掌" onclick="javascript:read('728','MotcChineseMenu')" onkeypress="javascript:read('728','MotcChineseMenu')">交通部職掌</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=568&parentpath=0,1" title="交通部組織" onclick="javascript:read('568','MotcChineseMenu')" onkeypress="javascript:read('568','MotcChineseMenu')">交通部組織</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=730&parentpath=0,1" title="交通部部徽說明" onclick="javascript:read('730','MotcChineseMenu')" onkeypress="javascript:read('730','MotcChineseMenu')">交通部部徽說明</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=1073&parentpath=0,1" title="交通大事紀" onclick="javascript:read('1073','MotcChineseMenu')" onkeypress="javascript:read('1073','MotcChineseMenu')">交通大事紀</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=731&parentpath=0,1" title="來去交通部" onclick="javascript:read('731','MotcChineseMenu')" onkeypress="javascript:read('731','MotcChineseMenu')">來去交通部</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	  </ul>
+		          
+		      </li>    
+    	  
+		      <li>
+		        
+		        	  <a tabindex="1" href="home.jsp?id=2&parentpath=0" title="公務瀏覽" onclick="javascript:read('2','MotcChineseMenu')" onkeypress="javascript:read('2','MotcChineseMenu')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image2','','img/201107280705231.jpg',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image2','','img/201107280705231.jpg',1)"><img src="img/201107280705230.jpg" alt="公務瀏覽" name="Image2" border="0"></a>
+		          
+		        	  <ul>
+		        	  
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=14&parentpath=0,2" title="交通新聞稿" onclick="javascript:read('14','MotcChineseMenu')" onkeypress="javascript:read('14','MotcChineseMenu')">交通新聞稿</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=810&parentpath=0,2" title="施政重點" onclick="javascript:read('810','MotcChineseMenu')" onkeypress="javascript:read('810','MotcChineseMenu')">施政重點</a>
+		        	    	    
+		        	    	    	<ul>
+		        	    	    	
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=811&parentpath=0,2,810" title="立法院施政報告" onclick="javascript:read('811','MotcChineseMenu')" onkeypress="javascript:read('811','MotcChineseMenu')">立法院施政報告</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=812&parentpath=0,2,810" title="重要談話" onclick="javascript:read('812','MotcChineseMenu')" onkeypress="javascript:read('812','MotcChineseMenu')">重要談話</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    	</ul>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=640&parentpath=0,2" title="政府資訊公開" onclick="javascript:read('640','MotcChineseMenu')" onkeypress="javascript:read('640','MotcChineseMenu')">政府資訊公開</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=711&parentpath=0,2" title="科技研究" onclick="javascript:read('711','MotcChineseMenu')" onkeypress="javascript:read('711','MotcChineseMenu')">科技研究</a>
+		        	    	    
+		        	    	    	<ul>
+		        	    	    	
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=714&parentpath=0,2,711" title="委託研究成果報告摘要及文件下載" onclick="javascript:read('714','MotcChineseMenu')" onkeypress="javascript:read('714','MotcChineseMenu')">委託研究成果報告摘要及文件下載</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=715&parentpath=0,2,711" title="國內政府科技單位連結" onclick="javascript:read('715','MotcChineseMenu')" onkeypress="javascript:read('715','MotcChineseMenu')">國內政府科技單位連結</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    	</ul>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=15&parentpath=0,2" title="公告訊息" onclick="javascript:read('15','MotcChineseMenu')" onkeypress="javascript:read('15','MotcChineseMenu')">公告訊息</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    		<a tabindex="1" href="http://odmdoc.motc.gov.tw/IFDEWebBBS_MOTC/ExternalBBS.aspx" title="公告發布令" target="_blank" onclick="javascript:read('1017','MotcChineseMenu')" onkeypress="javascript:read('1017','MotcChineseMenu')">公告發布令</a>
+		        	    	    	
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=16&parentpath=0,2" title="招標資訊" onclick="javascript:read('16','MotcChineseMenu')" onkeypress="javascript:read('16','MotcChineseMenu')">招標資訊</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=17&parentpath=0,2" title="徵才資訊" onclick="javascript:read('17','MotcChineseMenu')" onkeypress="javascript:read('17','MotcChineseMenu')">徵才資訊</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=738&parentpath=0,2" title="部頒規範" onclick="javascript:read('738','MotcChineseMenu')" onkeypress="javascript:read('738','MotcChineseMenu')">部頒規範</a>
+		        	    	    
+		        	    	    	<ul>
+		        	    	    	
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=739&parentpath=0,2,738" title="部頒技術規範作業機制 " onclick="javascript:read('739','MotcChineseMenu')" onkeypress="javascript:read('739','MotcChineseMenu')">部頒技術規範作業機制 </a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=740&parentpath=0,2,738" title="部頒規範" onclick="javascript:read('740','MotcChineseMenu')" onkeypress="javascript:read('740','MotcChineseMenu')">部頒規範</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    	</ul>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=838&parentpath=0,2" title="業務專區" onclick="javascript:read('838','MotcChineseMenu')" onkeypress="javascript:read('838','MotcChineseMenu')">業務專區</a>
+		        	    	    
+		        	    	    	<ul>
+		        	    	    	
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=1102&parentpath=0,2,838" title="航政業務採用國際公約資訊" onclick="javascript:read('1102','MotcChineseMenu')" onkeypress="javascript:read('1102','MotcChineseMenu')">航政業務採用國際公約資訊</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    		  <a tabindex="1" href="http://event.motc.gov.tw/index.jsp?webid=201506260001" title="交通部政府資料開放專區" target="_blank" onclick="javascript:read('1463','MotcChineseMenu')" onkeypress="javascript:read('1463','MotcChineseMenu')">交通部政府資料開放專區</a>
+		    		        	    	    	  
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=843&parentpath=0,2,838" title="資訊標準格式" onclick="javascript:read('843','MotcChineseMenu')" onkeypress="javascript:read('843','MotcChineseMenu')">資訊標準格式</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=849&parentpath=0,2,838" title="個人資料保護專區" onclick="javascript:read('849','MotcChineseMenu')" onkeypress="javascript:read('849','MotcChineseMenu')">個人資料保護專區</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=842&parentpath=0,2,838" title="研究發展" onclick="javascript:read('842','MotcChineseMenu')" onkeypress="javascript:read('842','MotcChineseMenu')">研究發展</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=1074&parentpath=0,2,838" title="資通安全專區" onclick="javascript:read('1074','MotcChineseMenu')" onkeypress="javascript:read('1074','MotcChineseMenu')">資通安全專區</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    	</ul>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	  </ul>
+		          
+		      </li>    
+    	  
+		      <li>
+		        
+		        	  <a tabindex="1" href="home.jsp?id=3&parentpath=0" title="重大政策" onclick="javascript:read('3','MotcChineseMenu')" onkeypress="javascript:read('3','MotcChineseMenu')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image3','','img/201608251606461.jpg',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image3','','img/201608251606461.jpg',1)"><img src="img/201608251606460.jpg" alt="重大政策" name="Image3" border="0"></a>
+		          
+		        	  <ul>
+		        	  
+		        	    	<li>
+		        	    	  
+		        	    	    		<a tabindex="1" href="http://www.ey.gov.tw/Content_List.aspx?n=DCA5F1C7BC6A16AE" title="行政院政策與計畫" target="_blank" onclick="javascript:read('1593','MotcChineseMenu')" onkeypress="javascript:read('1593','MotcChineseMenu')">行政院政策與計畫</a>
+		        	    	    	
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=1594&parentpath=0,3" title="交通部重大政策" onclick="javascript:read('1594','MotcChineseMenu')" onkeypress="javascript:read('1594','MotcChineseMenu')">交通部重大政策</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	  </ul>
+		          
+		      </li>    
+    	  
+		      <li>
+		        
+		        	  <a tabindex="1" href="home.jsp?id=4&parentpath=0" title="交通資訊" onclick="javascript:read('4','MotcChineseMenu')" onkeypress="javascript:read('4','MotcChineseMenu')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image4','','img/201107280706161.jpg',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image4','','img/201107280706161.jpg',1)"><img src="img/201107280706160.jpg" alt="交通資訊" name="Image4" border="0"></a>
+		          
+		        	  <ul>
+		        	  
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=817&parentpath=0,4" title="即時路況資訊" onclick="javascript:read('817','MotcChineseMenu')" onkeypress="javascript:read('817','MotcChineseMenu')">即時路況資訊</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=818&parentpath=0,4" title="訂票服務" onclick="javascript:read('818','MotcChineseMenu')" onkeypress="javascript:read('818','MotcChineseMenu')">訂票服務</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=819&parentpath=0,4" title="陸運資訊" onclick="javascript:read('819','MotcChineseMenu')" onkeypress="javascript:read('819','MotcChineseMenu')">陸運資訊</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=820&parentpath=0,4" title="航空資訊" onclick="javascript:read('820','MotcChineseMenu')" onkeypress="javascript:read('820','MotcChineseMenu')">航空資訊</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=821&parentpath=0,4" title="海運資訊" onclick="javascript:read('821','MotcChineseMenu')" onkeypress="javascript:read('821','MotcChineseMenu')">海運資訊</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	  </ul>
+		          
+		      </li>    
+    	  
+		      <li>
+		        
+		        	  <a tabindex="1" href="home.jsp?id=5&parentpath=0" title="交通法規" onclick="javascript:read('5','MotcChineseMenu')" onkeypress="javascript:read('5','MotcChineseMenu')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image5','','img/201107280706471.jpg',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image5','','img/201107280706471.jpg',1)"><img src="img/201107280706470.jpg" alt="交通法規" name="Image5" border="0"></a>
+		          
+		        	  <ul>
+		        	  
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=35&parentpath=0,5" title="交通法規即時檢索系統" onclick="javascript:read('35','MotcChineseMenu')" onkeypress="javascript:read('35','MotcChineseMenu')">交通法規即時檢索系統</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	  </ul>
+		          
+		      </li>    
+    	  
+		      <li>
+		        
+		        	  <a tabindex="1" href="home.jsp?id=6&parentpath=0" title="交通統計" onclick="javascript:read('6','MotcChineseMenu')" onkeypress="javascript:read('6','MotcChineseMenu')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image6','','img/201107280707161.jpg',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image6','','img/201107280707161.jpg',1)"><img src="img/201107280707160.jpg" alt="交通統計" name="Image6" border="0"></a>
+		          
+		        	  <ul>
+		        	  
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=53&parentpath=0,6" title="布告欄" onclick="javascript:read('53','MotcChineseMenu')" onkeypress="javascript:read('53','MotcChineseMenu')">布告欄</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    		<a tabindex="1" href="http://stat.motc.gov.tw/mocdb/stmain.jsp?sys=100" title="交通部統計查詢網" target="_blank" onclick="javascript:read('1025','MotcChineseMenu')" onkeypress="javascript:read('1025','MotcChineseMenu')">交通部統計查詢網</a>
+		        	    	    	
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=54&parentpath=0,6" title="公共運輸市占率" onclick="javascript:read('54','MotcChineseMenu')" onkeypress="javascript:read('54','MotcChineseMenu')">公共運輸市占率</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=55&parentpath=0,6" title="統計專題分析" onclick="javascript:read('55','MotcChineseMenu')" onkeypress="javascript:read('55','MotcChineseMenu')">統計專題分析</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=56&parentpath=0,6" title="調查統計提要分析" onclick="javascript:read('56','MotcChineseMenu')" onkeypress="javascript:read('56','MotcChineseMenu')">調查統計提要分析</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=575&parentpath=0,6" title="重要參考指標" onclick="javascript:read('575','MotcChineseMenu')" onkeypress="javascript:read('575','MotcChineseMenu')">重要參考指標</a>
+		        	    	    
+		        	    	    	<ul>
+		        	    	    	
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=577&parentpath=0,6,575" title="重要參考指標統計表" onclick="javascript:read('577','MotcChineseMenu')" onkeypress="javascript:read('577','MotcChineseMenu')">重要參考指標統計表</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=576&parentpath=0,6,575" title="重要參考指標分析" onclick="javascript:read('576','MotcChineseMenu')" onkeypress="javascript:read('576','MotcChineseMenu')">重要參考指標分析</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    	</ul>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=578&parentpath=0,6" title="交通統計月報" onclick="javascript:read('578','MotcChineseMenu')" onkeypress="javascript:read('578','MotcChineseMenu')">交通統計月報</a>
+		        	    	    
+		        	    	    	<ul>
+		        	    	    	
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=579&parentpath=0,6,578" title="交通統計月報" onclick="javascript:read('579','MotcChineseMenu')" onkeypress="javascript:read('579','MotcChineseMenu')">交通統計月報</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=580&parentpath=0,6,578" title="交通統計月報電子書" onclick="javascript:read('580','MotcChineseMenu')" onkeypress="javascript:read('580','MotcChineseMenu')">交通統計月報電子書</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    	</ul>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=59&parentpath=0,6" title="交通統計要覽" onclick="javascript:read('59','MotcChineseMenu')" onkeypress="javascript:read('59','MotcChineseMenu')">交通統計要覽</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=60&parentpath=0,6" title="主要國家交通統計比較" onclick="javascript:read('60','MotcChineseMenu')" onkeypress="javascript:read('60','MotcChineseMenu')">主要國家交通統計比較</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=61&parentpath=0,6" title="交通統計名詞定義" onclick="javascript:read('61','MotcChineseMenu')" onkeypress="javascript:read('61','MotcChineseMenu')">交通統計名詞定義</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=62&parentpath=0,6" title="性別統計專區" onclick="javascript:read('62','MotcChineseMenu')" onkeypress="javascript:read('62','MotcChineseMenu')">性別統計專區</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=1228&parentpath=0,6" title="重要統計事項變更" onclick="javascript:read('1228','MotcChineseMenu')" onkeypress="javascript:read('1228','MotcChineseMenu')">重要統計事項變更</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=64&parentpath=0,6" title="道路長度及橋梁座數" onclick="javascript:read('64','MotcChineseMenu')" onkeypress="javascript:read('64','MotcChineseMenu')">道路長度及橋梁座數</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=65&parentpath=0,6" title="環境永續指數" onclick="javascript:read('65','MotcChineseMenu')" onkeypress="javascript:read('65','MotcChineseMenu')">環境永續指數</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=581&parentpath=0,6" title="統計處出版刊物" onclick="javascript:read('581','MotcChineseMenu')" onkeypress="javascript:read('581','MotcChineseMenu')">統計處出版刊物</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=1555&parentpath=0,6" title="調查統計資料開放連結" onclick="javascript:read('1555','MotcChineseMenu')" onkeypress="javascript:read('1555','MotcChineseMenu')">調查統計資料開放連結</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    		<a tabindex="1" href="http://www.motc.gov.tw/ch/home.jsp?id=67&parentpath=0,6&qclass1=135-%E7%B5%B1%E8%A8%88%E8%B3%87%E8%A8%8A&qclass2=136-%E5%9C%8B%E5%85%A7%E7%B5%B1%E8%A8%88%E8%B3%87%E8%A8%8A%E7%B6%B2%E7%AB%99" title="相關統計資訊網站連結" onclick="javascript:read('1462','MotcChineseMenu')" onkeypress="javascript:read('1462','MotcChineseMenu')">相關統計資訊網站連結</a>
+		        	    	    	
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=1099&parentpath=0,6" title="研究發展工作查證報告(統計資訊組)" onclick="javascript:read('1099','MotcChineseMenu')" onkeypress="javascript:read('1099','MotcChineseMenu')">研究發展工作查證報告(統計資訊組)</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    		<a tabindex="1" href="/en/home.jsp?id=154&parentpath=0" title="English Version" onclick="javascript:read('976','MotcChineseMenu')" onkeypress="javascript:read('976','MotcChineseMenu')">English Version</a>
+		        	    	    	
+		        	    	</li>
+		        	    
+		        	  </ul>
+		          
+		      </li>    
+    	  
+		      <li>
+		        
+		        	  <a tabindex="1" href="home.jsp?id=7&parentpath=0" title="交通刊物" onclick="javascript:read('7','MotcChineseMenu')" onkeypress="javascript:read('7','MotcChineseMenu')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image7','','img/201107280707471.jpg',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image7','','img/201107280707471.jpg',1)"><img src="img/201107280707470.jpg" alt="交通刊物" name="Image7" border="0"></a>
+		          
+		        	  <ul>
+		        	  
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=21&parentpath=0,7" title="交通年鑑" onclick="javascript:read('21','MotcChineseMenu')" onkeypress="javascript:read('21','MotcChineseMenu')">交通年鑑</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    		<a tabindex="1" href="http://www.motc.gov.tw/ebook/" title="電子圖書館" target="_blank" onclick="javascript:read('1121','MotcChineseMenu')" onkeypress="javascript:read('1121','MotcChineseMenu')">電子圖書館</a>
+		        	    	    	
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=22&parentpath=0,7" title="出版品" onclick="javascript:read('22','MotcChineseMenu')" onkeypress="javascript:read('22','MotcChineseMenu')">出版品</a>
+		        	    	    
+		        	    	    	<ul>
+		        	    	    	
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=778&parentpath=0,7,22" title="出版品類別" onclick="javascript:read('778','MotcChineseMenu')" onkeypress="javascript:read('778','MotcChineseMenu')">出版品類別</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=782&parentpath=0,7,22" title="銷售訊息" onclick="javascript:read('782','MotcChineseMenu')" onkeypress="javascript:read('782','MotcChineseMenu')">銷售訊息</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=783&parentpath=0,7,22" title="所屬機關出版品" onclick="javascript:read('783','MotcChineseMenu')" onkeypress="javascript:read('783','MotcChineseMenu')">所屬機關出版品</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=785&parentpath=0,7,22" title="作業規定" onclick="javascript:read('785','MotcChineseMenu')" onkeypress="javascript:read('785','MotcChineseMenu')">作業規定</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    		  <a tabindex="1" href="http://tpi.culture.tw/" title="臺灣出版資訊網" target="_blank" onclick="javascript:read('1498','MotcChineseMenu')" onkeypress="javascript:read('1498','MotcChineseMenu')">臺灣出版資訊網</a>
+		    		        	    	    	  
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    	</ul>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	  </ul>
+		          
+		      </li>    
+    	  
+		      <li>
+		        
+		        	  <a tabindex="1" href="home.jsp?id=8&parentpath=0" title="便民專區" onclick="javascript:read('8','MotcChineseMenu')" onkeypress="javascript:read('8','MotcChineseMenu')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image8','','img/201107280708161.jpg',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image8','','img/201107280708161.jpg',1)"><img src="img/201107280708160.jpg" alt="便民專區" name="Image8" border="0"></a>
+		          
+		        	  <ul>
+		        	  
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=1067&parentpath=0,8" title="災害緊急/交通運輸電話" onclick="javascript:read('1067','MotcChineseMenu')" onkeypress="javascript:read('1067','MotcChineseMenu')">災害緊急/交通運輸電話</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=574&parentpath=0,8" title="線上申辦及查詢" onclick="javascript:read('574','MotcChineseMenu')" onkeypress="javascript:read('574','MotcChineseMenu')">線上申辦及查詢</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=1068&parentpath=0,8" title="便民服務電話" onclick="javascript:read('1068','MotcChineseMenu')" onkeypress="javascript:read('1068','MotcChineseMenu')">便民服務電話</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=1551&parentpath=0,8" title="交通運輸自我安全防護" onclick="javascript:read('1551','MotcChineseMenu')" onkeypress="javascript:read('1551','MotcChineseMenu')">交通運輸自我安全防護</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=1465&parentpath=0,8" title="交通部暨所屬機關APP整合網頁專區" onclick="javascript:read('1465','MotcChineseMenu')" onkeypress="javascript:read('1465','MotcChineseMenu')">交通部暨所屬機關APP整合網頁專區</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=19&parentpath=0,8" title="相關網站" onclick="javascript:read('19','MotcChineseMenu')" onkeypress="javascript:read('19','MotcChineseMenu')">相關網站</a>
+		        	    	    
+		        	    	    	<ul>
+		        	    	    	
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=23&parentpath=0,8,19" title="知性之旅" onclick="javascript:read('23','MotcChineseMenu')" onkeypress="javascript:read('23','MotcChineseMenu')">知性之旅</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=24&parentpath=0,8,19" title="氣象和旅遊" onclick="javascript:read('24','MotcChineseMenu')" onkeypress="javascript:read('24','MotcChineseMenu')">氣象和旅遊</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=25&parentpath=0,8,19" title="交通安全專區" onclick="javascript:read('25','MotcChineseMenu')" onkeypress="javascript:read('25','MotcChineseMenu')">交通安全專區</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=865&parentpath=0,8,19" title="部外連結" onclick="javascript:read('865','MotcChineseMenu')" onkeypress="javascript:read('865','MotcChineseMenu')">部外連結</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=26&parentpath=0,8,19" title="國內相關機構" onclick="javascript:read('26','MotcChineseMenu')" onkeypress="javascript:read('26','MotcChineseMenu')">國內相關機構</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=27&parentpath=0,8,19" title="國外相關機構" onclick="javascript:read('27','MotcChineseMenu')" onkeypress="javascript:read('27','MotcChineseMenu')">國外相關機構</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=735&parentpath=0,8,19" title="外國人服務網" onclick="javascript:read('735','MotcChineseMenu')" onkeypress="javascript:read('735','MotcChineseMenu')">外國人服務網</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=736&parentpath=0,8,19" title="終身學習網" onclick="javascript:read('736','MotcChineseMenu')" onkeypress="javascript:read('736','MotcChineseMenu')">終身學習網</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    		  <li>
+		    		        	    	    
+		    		        	    	    	  <a tabindex="1" href="home.jsp?id=809&parentpath=0,8,19" title="影音多媒體" onclick="javascript:read('809','MotcChineseMenu')" onkeypress="javascript:read('809','MotcChineseMenu')">影音多媒體</a>
+		    		        	    	      
+		    		        	    	  </li> 
+		        	    	    	  
+		        	    	    	</ul>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=594&parentpath=0,8" title="活動訊息" onclick="javascript:read('594','MotcChineseMenu')" onkeypress="javascript:read('594','MotcChineseMenu')">活動訊息</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    	<a tabindex="1" href="home.jsp?id=489&parentpath=0,8" title="問卷調查" onclick="javascript:read('489','MotcChineseMenu')" onkeypress="javascript:read('489','MotcChineseMenu')">問卷調查</a>
+		        	    	    
+		        	    	</li>
+		        	    
+		        	  </ul>
+		          
+		      </li>    
+    	  
+		      <li>
+		        
+		        		  <a tabindex="1" href="http://join.gov.tw/" title="公共政策網路參與平台" target="_blank" onclick="javascript:read('10','MotcChineseMenu')" onkeypress="javascript:read('10','MotcChineseMenu')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image9','','img/201505071654421.jpg',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image9','','img/201505071654421.jpg',1)"><img src="img/201505071654420.jpg" alt="意見交流" name="Image9" border="0"></a>
+		        	  
+		        	  <ul>
+		        	  
+		        	    	<li>
+		        	    	  
+		        	    	    		<a tabindex="1" href="http://join.gov.tw/" title="公共政策網路參與平台" target="_blank" onclick="javascript:read('1438','MotcChineseMenu')" onkeypress="javascript:read('1438','MotcChineseMenu')">公共政策網路參與平台</a>
+		        	    	    	
+		        	    	</li>
+		        	    
+		        	  </ul>
+		          
+		      </li>    
+    	  
+		      <li>
+		        
+		        	  <a tabindex="1" href="home.jsp?id=742&parentpath=0" title="員工專區" onclick="javascript:read('742','MotcChineseMenu')" onkeypress="javascript:read('742','MotcChineseMenu')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image10','','img/201112161720191.jpg',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image10','','img/201112161720191.jpg',1)"><img src="img/201112161720190.jpg" alt="員工專區" name="Image10" border="0"></a>
+		          
+		        	  <ul>
+		        	  
+		        	    	<li>
+		        	    	  
+		        	    	    		<a tabindex="1" href="http://odmdoc.motc.gov.tw/IFDeWebBBS_MOTC/AttDownLoad/AttDownLoad.aspx" title="101年公文附件下載" target="_blank" onclick="javascript:read('957','MotcChineseMenu')" onkeypress="javascript:read('957','MotcChineseMenu')">公文附件下載</a>
+		        	    	    	
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    		<a tabindex="1" href="/orgplanning" title="「交通及建設部」組織規劃與員工權益保障專區" onclick="javascript:read('916','MotcChineseMenu')" onkeypress="javascript:read('916','MotcChineseMenu')">「交通及建設部」組織規劃與員工權益保障專區</a>
+		        	    	    	
+		        	    	</li>
+		        	    
+		        	    	<li>
+		        	    	  
+		        	    	    		<a tabindex="1" href="/association" title="公務人員協會" onclick="javascript:read('939','MotcChineseMenu')" onkeypress="javascript:read('939','MotcChineseMenu')">公務人員協會</a>
+		        	    	    	
+		        	    	</li>
+		        	    
+		        	  </ul>
+		          
+		      </li>    
+    	  
+  </ul>
+  <br style="clear: left" />
+</div>
+
+
+
+	                  </td>
+	                  <td width="1%" align="right"><img src="img/standard/motc_r3_c40.jpg" alt="*" width="9" height="40"></td>
+	                </tr>
+	              </table>
+	            </td>
+	          </tr>
+	          <tr>
+	            <td><img src="img/standard/motc_r4_c2.jpg" alt="*" width="961" height="8"></td>
+	          </tr>
+	          <tr>
+	            <td>
+	              <table width="80%" border="0" align="center" cellpadding="0" cellspacing="0">
+	                <tr>
+	                  <td>
+	                    <table width="100%" border="0" cellSpacing="0" cellPadding="0" style="height: 210px;">
+	                      <tr>
+	                        <td align="left">
+	                          
+
+
+
+
+
+
+
+
+<link type="text/css" href="/ch/css/topbanner.css" rel="stylesheet" title=MediumText media=screen,print/>
+<script type="text/javascript" src="/ch/js/jquery-latest.min.js"></script>
+<script type="text/javascript" src="/ch/js/topbanner.js"></script>
+<div id="abgne-block">
+    
+    <div class="photo">
+        <a id="banner_photo_atag" href="#" title="" target="_self">
+            <img tabindex="2"
+                 src="/uploaddowndoc?file=chbanner/201606141108080.jpg&filedisplay=%E9%AB%98%E5%85%AC%E5%B1%80%E5%9C%9608-%E6%9D%B1%E8%8D%89%E5%B1%AF%E4%BA%A4%E6%B5%81%E9%81%931.jpg&flag=pic"
+                 alt="美哉高速公路"/>
+
+            <div class="desc-block">
+                <div class="desc-bg"></div>
+                <div class="desc-title">美哉高速公路
+                </div>
+            </div>
+        </a>
+    </div>
+    
+    <div class="thumbs">
+        <div class="carousel">
+            <ul>
+                
+                <li><a tabindex="2" href="#" title="美哉高速公路"
+                       target="_self"><img
+                        src="/uploaddowndoc?file=chbanner/201606141108080.jpg&filedisplay=%E9%AB%98%E5%85%AC%E5%B1%80%E5%9C%9608-%E6%9D%B1%E8%8D%89%E5%B1%AF%E4%BA%A4%E6%B5%81%E9%81%931.jpg&flag=pic"
+                        alt="美哉高速公路"/></a></li>
+                
+                <li><a tabindex="2" href="#" title="觀光旅遊"
+                       target="_self"><img
+                        src="/uploaddowndoc?file=chbanner/201606141104470.jpg&filedisplay=%E8%A7%80%E5%85%89%E5%B1%80-%E5%9C%9603-512x179%28b%29.jpg&flag=pic"
+                        alt="觀光旅遊"/></a></li>
+                
+                <li><a tabindex="2" href="#" title="鐵路運輸"
+                       target="_self"><img
+                        src="/uploaddowndoc?file=chbanner/201606141101240.jpg&filedisplay=%E5%8F%B0%E9%90%B5%E5%9C%9602.jpg&flag=pic"
+                        alt="鐵路運輸"/></a></li>
+                
+                <li><a tabindex="2" href="#" title="海運"
+                       target="_self"><img
+                        src="/uploaddowndoc?file=chbanner/201606141057270.jpg&filedisplay=%E6%B8%AF%E5%8B%99%E5%85%AC%E5%8F%B812.jpg&flag=pic"
+                        alt="海運"/></a></li>
+                
+                <li><a tabindex="2" href="#" title="民航服務"
+                       target="_self"><img
+                        src="/uploaddowndoc?file=chbanner/201412011629280.jpg&filedisplay=1030530%E6%B0%91%E8%88%AA%E5%B1%80%E5%9C%9601.jpg&flag=pic"
+                        alt="民航服務"/></a></li>
+                
+            </ul>
+        </div>
+    </div>
+</div>
+	                        </td>
+	                        <td align="left"><img src="img/standard/0.gif" alt="*" width="6" height="10"></td>
+	                        <td>
+	                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+	                            <tr>
+	                              <td>
+	                                
+
+<!--
+程式名稱：mainbanner.jsp
+說明：主廣告(主頁右上方連結)
+開發者：johnson
+開發日期：100.10.01
+修改者：
+修改日期：
+版本：ver1.0
+-->
+
+
+
+
+
+
+
+
+  
+<style type="text/css">
+	#main-banner {
+		width: 224px;	/* 圖片的寬 */
+		height: 155px;	/* 圖片的高 */
+		overflow: hidden;
+	}
+	#main-banner a {
+		position: absolute;
+		top: 0; 
+		left: 0;
+	}
+	#main-banner a img {
+		border: none;
+
+	}
+
+	/* 以下是針對選單按鈕設定 */
+	#main-banner .abgne-controls {
+		list-style: none; 
+		position: absolute;
+		margin: 0;
+		padding: 0;
+		left: 0px;
+		bottom: 15px;
+		height: 0px;
+	}
+	#main-banner .abgne-controls li {
+		float: left;
+		width: 20px;
+		height: 15px;
+		line-height: 15px;
+		font-size: 10px;
+		font-weight: 900;
+		text-align: center;
+		cursor: pointer;
+		margin-right: 0px;
+		color: #24688a;
+		background-color: rgb(210, 210, 210);
+	}
+	#main-banner .abgne-controls li.current { 
+		color: #fff;
+		background-color: #24688a;
+	}
+</style>
+
+
+	<div id="main-banner" style="display: none;">
+	 
+		<a href="https://www.facebook.com/motcfilms" title="交通部臉書(Facebook)粉絲團(開啟新視窗)" target="_blank"><img style="width:224px;height:140px" src="/uploaddowndoc?file=main/201409221922000.jpg&filedisplay=224_140_2.jpg&flag=pic" alt="交通部臉書(Facebook)粉絲團" /></a>
+		        	  
+	</div>
+<script type="text/javascript">
+	$(function(){
+		// 先取得 #main-banner 及其相關區塊及元素
+		// 並依計算出每等份的寬度
+		var _slices = 9,	// 切成幾等份
+			_index = 0,		// 預設顯示第幾個
+			_zIndex = 1, 
+			$block = $('#main-banner').css('position', 'relative'), 
+			$slides = $block.find('a').css('z-index', _zIndex).hide(), 
+			_width = $block.width(), 
+			_height = $block.height(), 
+			_sliceWidth = _width / _slices,	// 每等份的寬度
+			_lastSliceWidth = _sliceWidth + (_width - _sliceWidth * _slices),	// 剩於的寬度
+			_img = $slides.eq(_index).show().find('img').attr('src'), 
+			timer, 
+			speed = 4000,	// 輪播速度
+			_animateSpeed = 600,	// 動畫速度
+			_isHover = false,	// 滑鼠是否移到 $block 上
+			_isComplete = true;	// 動畫是否已全部執行完
+
+		// 依 _slices 數量來產生相對應的 div 區塊
+		var _sliceDiv = '', _control = '';
+		for(var i=0;i<_slices;i++){
+			var _w = i == _slices - 1 ? _lastSliceWidth : _sliceWidth, _l = i * _sliceWidth;
+			_sliceDiv += '<div class="abgne-slice slide-' + i + '" style="left:' + _l + 'px;top:0;width:' + _w + 'px;height:100%;background-image:url(' + _img + ');background-position:-' + _l + 'px 0;position:absolute;background-repeat:no-repeat;"></div>';
+		}
+		
+		// 依 $slides 數量來產生按鈕
+		for(var i=0;i<$slides.length;i++){
+			_control += '<li class="abgne-control control-' + (i + 1) + '">' + (i + 1) + '</li>';
+		}
+		
+		// 分別把 div 區塊及按鈕加入到 $block 中
+		var $abgneSlides = $block.append(_sliceDiv, '<ul class="abgne-controls">' + _control + '</ul>').find('.abgne-slice'), 
+			$abgneControls = $block.find('.abgne-controls').css('z-index', _zIndex + 2).find('li').eq(_index).addClass('current').end();
+		setTimeout("document.getElementById('main-banner').style.display = '';", 1000);
+		// 當點擊到 .abgne-controls li 時
+		$abgneControls.click(function(){
+			// 若動畫未完成前不接受其它新的事件
+			if(!_isComplete) return;
+			
+			var $this = $(this), 
+				$slide = $slides.eq($this.index()), 
+				_completeTotal = 0;
+			
+			// 若現在顯示的跟點擊到的是同一個時, 就不處理
+			if($this.hasClass('current')) return;
+
+			// 幫點擊到的 li 加上 .current, 並移除上一個 .current 
+			$this.addClass('current').siblings('.current').removeClass('current');
+			_isComplete = false;
+			_index = $this.index();
+			
+			// 取得相對應的圖片的路徑
+			_img = $slide.find('img').attr('src');
+			// 先讓每一個區塊的背景圖片為剛剛取得的圖片
+			// 並進行動畫
+			$abgneSlides.each(function(i){
+				var $ele = $(this);
+				$ele.css({
+					top: i % 2 == 0 ? _height : -_height,
+					opacity: 0, 
+					zIndex: _zIndex + 1, 
+					backgroundImage: 'url(' + _img + ')'
+				}).stop().animate({
+					top: 0, 
+					opacity: 1
+				}, _animateSpeed, function(){
+					$ele.css('zIndex', _zIndex - 1);
+					if(i == _slices - 1){
+						$block.css('background-image', 'url(' + _img + ')');
+						$block.css('background-repeat', 'no-repeat');
+						$slide.show().siblings('a:visible').hide();
+						_isComplete = true;
+						// 當動畫完成且滑鼠沒有移到 $block 上時, 再啟動計時器
+						if(!_isHover)timer = setTimeout(auto, speed);
+					}
+				});
+			});
+		});
+		
+		$block.hover(function(){
+			// 當滑鼠移入 $block 時停止計時器
+			_isHover = true;
+			clearTimeout(timer);
+		}, function(){
+			// 當滑鼠移出 $block 時啟動計時器
+			_isHover = false;
+			timer = setTimeout(auto, speed);
+		});
+		
+		// 自動輪播使用
+		function auto(){
+			_index = (_index + 1) % $slides.length;
+			$abgneControls.eq(_index).click();
+		}
+		
+		// 啟動計時器
+		timer = setTimeout(auto, speed);
+	});
+</script>
+	                              </td>
+	                            </tr>
+	                            <tr>
+	                              <td>
+	                                
+
+
+
+
+
+<style type="text/css">
+    .hotkey {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px ;
+        line-height: 25px ;
+        font-weight: normal;
+        color: #000;
+        text-decoration: none;
+        padding-left: 5px;
+    }
+    .hotkey a:link{
+        color: #06F;
+        text-decoration: none;
+    }
+    .hotkey a:visited{
+        color: #06F;
+        text-decoration: none;
+    }
+    .hotkey a:hover{
+        color: #C03;
+        text-decoration: none;
+    }
+</style>
+
+<!--search2-->
+<table width="1%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td colspan="3">
+            <form name="searchform" method="post" action="http://search.motc.gov.tw/cgi-bin/search/query.cgi" target="_blank" style="display: inline;">
+                <input type="hidden" name="dbs" value="motc">
+                <input type="hidden" name="descps" value="中華民國交通部">
+                <input type="hidden" name="uilang" value="">
+
+                <table width="1%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                        <td width="1%"><img src="img&#x2f;standard/motc_r8_c27.jpg" alt="全文檢索" height="30"></td>
+                        <td width="96%" valign="bottom"><label for="search">
+                            <input accesskey="s" id="search" name="q" type="text" class="search_input" value="請輸入關鍵字"  onFocus="javascript: if (this.value=='請輸入關鍵字') this.value='';" onblur="javascript: if(this.value=='') this.value='請輸入關鍵字';">
+                        </label></td>
+                        <td width="1%"><input type="image" src="img&#x2f;standard/motc_r8_c34.jpg" title="全站搜尋" alt="全站搜尋" height="30" border="0"></td>
+                        <td width="1%" valign="bottom"><a href="http://search.motc.gov.tw/cgi-bin/admin/help.cgi?act=show&id=query.result&uilang=" target="_blank"><img src="img&#x2f;standard/s01.jpg" alt="範例" height="30" border="0"></a></td>
+                        <td width="1%" valign="bottom"><a href="#" onclick="window.open('http://search.motc.gov.tw/cgi-bin/search/qpage.cgi?act=adv&uilang=')" onkeypress="window.open('http://search.motc.gov.tw/cgi-bin/search/qpage.cgi?act=adv&uilang=')" ><img src="img&#x2f;standard/s02.jpg" alt="進階" height="30" border="0"></a></td>
+                    </tr>
+
+                </table>
+            </form>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="5" align="left"><img src="img/standard/motc_r9_c27.jpg" alt="*" width="226" height="7"></td>
+    </tr>
+    <tr><td>
+        
+                <span class="hotkey"> 熱門：
+        
+        <form name="searchform" method="post" action="http://search.motc.gov.tw/cgi-bin/search/query.cgi" target="_blank" style="display: inline; *margin-left: -15px;">
+            <input type="hidden" name="dbs" value="motc">
+            <input type="hidden" name="descps" value="中華民國交通部">
+            <input type="hidden" name="uilang" value="">
+            <input type="hidden" name="q" value="兩岸協議">
+            <a tabindex="1" onclick="parentNode.submit();" onkeypress="parentNode.submit();" title="兩岸協議" target="_blank" style="color: #06F;cursor: pointer;">
+                兩岸協議
+            </a> 、
+            </form>
+        
+        <form name="searchform" method="post" action="http://search.motc.gov.tw/cgi-bin/search/query.cgi" target="_blank" style="display: inline; *margin-left: -15px;">
+            <input type="hidden" name="dbs" value="motc">
+            <input type="hidden" name="descps" value="中華民國交通部">
+            <input type="hidden" name="uilang" value="">
+            <input type="hidden" name="q" value="即時路況">
+            <a tabindex="1" onclick="parentNode.submit();" onkeypress="parentNode.submit();" title="即時路況" target="_blank" style="color: #06F;cursor: pointer;">
+                即時路況
+            </a> 、
+            </form>
+        
+        <form name="searchform" method="post" action="http://search.motc.gov.tw/cgi-bin/search/query.cgi" target="_blank" style="display: inline; *margin-left: -15px;">
+            <input type="hidden" name="dbs" value="motc">
+            <input type="hidden" name="descps" value="中華民國交通部">
+            <input type="hidden" name="uilang" value="">
+            <input type="hidden" name="q" value="交通法規">
+            <a tabindex="1" onclick="parentNode.submit();" onkeypress="parentNode.submit();" title="交通法規" target="_blank" style="color: #06F;cursor: pointer;">
+                交通法規
+            </a> 
+            </form>
+        </span>
+    </td></tr>
+    <tr>
+        <td colspan="3"><img src="img&#x2f;standard/motc_r9_c27.jpg" alt="*" width="226" height="7"></td>
+    </tr>
+</table>
+
+	                              </td>
+	                            </tr>
+	                          </table>
+	                        </td>
+	                      </tr>
+	                    </table>
+	                  </td>
+	                </tr>
+	                <tr>
+	                  <td><img src="img/standard/0.gif" alt="*" width="6" height="8"></td>
+	                </tr>
+	                <tr>
+	                  <td>
+	                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+	                      <tr>
+	                        <td valign="top">
+	                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+	                            <tr>
+	                              <td>
+	                                
+
+<!--
+程式名稱：submenu.jsp
+說明：民眾端第二層架構
+開發者：chmei
+開發日期：100.07.31
+修改者：
+修改日期：
+版本：ver1.0
+-->
+
+<script type="text/javascript">
+  //點閱率(Menu)
+  function readsub(menuid,menutable) {
+	  $.ajax({
+		  url: "ap/updatenumber_menu.jsp",
+		  type: "POST",
+		  data: "menuid=" + menuid + "&menutable=" + menutable
+	  });
+  }	 
+</script>
+
+
+
+
+
+
+
+
+
+
+	  
+	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+	    <tr>
+	      <td>
+	        <table width="100%" border="0" cellpadding="0" cellspacing="0" background="img&#x2f;standard/motc_r12_c5.jpg">
+	          <tr>
+	            <td width="10%" align="left"><img src="img&#x2f;standard/home_r1_c1.jpg" alt="*" width="20" height="26"></td>
+	            <td width="80%" align="left" class="homemenutitle">公務瀏覽</td>
+	            <td width="6%" align="right"><a href="main.jsp?prg=../ap/sitemap.jsp&maintitle=網站導覽" title="左方選單區" class="accesskey" accesskey="l">:::</a></td>
+	            <td width="4%" align="right"><img src="img&#x2f;standard/home_r1_c5.jpg" alt="*" width="8" height="26"></td>
+	          </tr>
+	        </table>
+	      </td>
+	    </tr>
+	    <tr>
+	      <td>
+	        <div class="sidebarmenu">
+	          <ul id="sidebarmenu1">
+	            
+	            		  <li>
+	            		    
+	            		    	  <a href="home.jsp?id=14&parentpath=0,2" title="交通新聞稿" onclick="javascript:readsub('14','MotcChineseMenu')" onkeypress="javascript:readsub('14','MotcChineseMenu')">交通新聞稿</a>
+	            		      	            		      
+	            		  </li>
+	            	  
+	            		  <li>
+	            		    
+	            		    	  <a href="home.jsp?id=810&parentpath=0,2" title="施政重點" onclick="javascript:readsub('810','MotcChineseMenu')" onkeypress="javascript:readsub('810','MotcChineseMenu')">施政重點</a>
+	            		      
+	            		    	  <ul>
+	            		    	    
+	            		    	    	  <li>
+	            		    	    	    
+	            		    	    	    	  <a href="home.jsp?id=811&parentpath=0,2,810" title="立法院施政報告" onclick="javascript:readsub('811','MotcChineseMenu')" onkeypress="javascript:readsub('811','MotcChineseMenu')">立法院施政報告</a>
+	            		    	    	      
+	            		    	    	  </li>
+	            		    	      
+	            		    	    	  <li>
+	            		    	    	    
+	            		    	    	    	  <a href="home.jsp?id=812&parentpath=0,2,810" title="重要談話" onclick="javascript:readsub('812','MotcChineseMenu')" onkeypress="javascript:readsub('812','MotcChineseMenu')">重要談話</a>
+	            		    	    	      
+	            		    	    	  </li>
+	            		    	      
+	            		    	  </ul>
+	            		      	            		      
+	            		  </li>
+	            	  
+	            		  <li>
+	            		    
+	            		    	  <a href="home.jsp?id=640&parentpath=0,2" title="政府資訊公開" onclick="javascript:readsub('640','MotcChineseMenu')" onkeypress="javascript:readsub('640','MotcChineseMenu')">政府資訊公開</a>
+	            		      	            		      
+	            		  </li>
+	            	  
+	            		  <li>
+	            		    
+	            		    	  <a href="home.jsp?id=711&parentpath=0,2" title="科技研究" onclick="javascript:readsub('711','MotcChineseMenu')" onkeypress="javascript:readsub('711','MotcChineseMenu')">科技研究</a>
+	            		      
+	            		    	  <ul>
+	            		    	    
+	            		    	    	  <li>
+	            		    	    	    
+	            		    	    	    	  <a href="home.jsp?id=714&parentpath=0,2,711" title="委託研究成果報告摘要及文件下載" onclick="javascript:readsub('714','MotcChineseMenu')" onkeypress="javascript:readsub('714','MotcChineseMenu')">委託研究成果報告摘要及文件下載</a>
+	            		    	    	      
+	            		    	    	  </li>
+	            		    	      
+	            		    	    	  <li>
+	            		    	    	    
+	            		    	    	    	  <a href="home.jsp?id=715&parentpath=0,2,711" title="國內政府科技單位連結" onclick="javascript:readsub('715','MotcChineseMenu')" onkeypress="javascript:readsub('715','MotcChineseMenu')">國內政府科技單位連結</a>
+	            		    	    	      
+	            		    	    	  </li>
+	            		    	      
+	            		    	  </ul>
+	            		      	            		      
+	            		  </li>
+	            	  
+	            		  <li>
+	            		    
+	            		    	  <a href="home.jsp?id=15&parentpath=0,2" title="公告訊息" onclick="javascript:readsub('15','MotcChineseMenu')" onkeypress="javascript:readsub('15','MotcChineseMenu')">公告訊息</a>
+	            		      	            		      
+	            		  </li>
+	            	  
+	            		  <li>
+	            		    
+	    	    		    		  <a href="http://odmdoc.motc.gov.tw/IFDEWebBBS_MOTC/ExternalBBS.aspx" title="公告發布令" target="_blank" onclick="javascript:readsub('1017','MotcChineseMenu')" onkeypress="javascript:readsub('1017','MotcChineseMenu')">公告發布令</a>
+	    	    		    	  	            		      
+	            		  </li>
+	            	  
+	            		  <li>
+	            		    
+	            		    	  <a href="home.jsp?id=16&parentpath=0,2" title="招標資訊" onclick="javascript:readsub('16','MotcChineseMenu')" onkeypress="javascript:readsub('16','MotcChineseMenu')">招標資訊</a>
+	            		      	            		      
+	            		  </li>
+	            	  
+	            		  <li>
+	            		    
+	            		    	  <a href="home.jsp?id=17&parentpath=0,2" title="徵才資訊" onclick="javascript:readsub('17','MotcChineseMenu')" onkeypress="javascript:readsub('17','MotcChineseMenu')">徵才資訊</a>
+	            		      	            		      
+	            		  </li>
+	            	  
+	            		  <li>
+	            		    
+	            		    	  <a href="home.jsp?id=738&parentpath=0,2" title="部頒規範" onclick="javascript:readsub('738','MotcChineseMenu')" onkeypress="javascript:readsub('738','MotcChineseMenu')">部頒規範</a>
+	            		      
+	            		    	  <ul>
+	            		    	    
+	            		    	    	  <li>
+	            		    	    	    
+	            		    	    	    	  <a href="home.jsp?id=739&parentpath=0,2,738" title="部頒技術規範作業機制 " onclick="javascript:readsub('739','MotcChineseMenu')" onkeypress="javascript:readsub('739','MotcChineseMenu')">部頒技術規範作業機制 </a>
+	            		    	    	      
+	            		    	    	  </li>
+	            		    	      
+	            		    	    	  <li>
+	            		    	    	    
+	            		    	    	    	  <a href="home.jsp?id=740&parentpath=0,2,738" title="部頒規範" onclick="javascript:readsub('740','MotcChineseMenu')" onkeypress="javascript:readsub('740','MotcChineseMenu')">部頒規範</a>
+	            		    	    	      
+	            		    	    	  </li>
+	            		    	      
+	            		    	  </ul>
+	            		      	            		      
+	            		  </li>
+	            	  
+	            		  <li>
+	            		    
+	            		    	  <a href="home.jsp?id=838&parentpath=0,2" title="業務專區" onclick="javascript:readsub('838','MotcChineseMenu')" onkeypress="javascript:readsub('838','MotcChineseMenu')">業務專區</a>
+	            		      
+	            		    	  <ul>
+	            		    	    
+	            		    	    	  <li>
+	            		    	    	    
+	            		    	    	    	  <a href="home.jsp?id=1102&parentpath=0,2,838" title="航政業務採用國際公約資訊" onclick="javascript:readsub('1102','MotcChineseMenu')" onkeypress="javascript:readsub('1102','MotcChineseMenu')">航政業務採用國際公約資訊</a>
+	            		    	    	      
+	            		    	    	  </li>
+	            		    	      
+	            		    	    	  <li>
+	            		    	    	    
+	            		    	    	    		  <a href="http://event.motc.gov.tw/index.jsp?webid=201506260001" title="交通部政府資料開放專區" target="_blank" onclick="javascript:readsub('1463','MotcChineseMenu')" onkeypress="javascript:readsub('1463','MotcChineseMenu')">交通部政府資料開放專區</a>
+	            		    	    	    	  
+	            		    	    	  </li>
+	            		    	      
+	            		    	    	  <li>
+	            		    	    	    
+	            		    	    	    	  <a href="home.jsp?id=843&parentpath=0,2,838" title="資訊標準格式" onclick="javascript:readsub('843','MotcChineseMenu')" onkeypress="javascript:readsub('843','MotcChineseMenu')">資訊標準格式</a>
+	            		    	    	      
+	            		    	    	  </li>
+	            		    	      
+	            		    	    	  <li>
+	            		    	    	    
+	            		    	    	    	  <a href="home.jsp?id=849&parentpath=0,2,838" title="個人資料保護專區" onclick="javascript:readsub('849','MotcChineseMenu')" onkeypress="javascript:readsub('849','MotcChineseMenu')">個人資料保護專區</a>
+	            		    	    	      
+	            		    	    	  </li>
+	            		    	      
+	            		    	    	  <li>
+	            		    	    	    
+	            		    	    	    	  <a href="home.jsp?id=842&parentpath=0,2,838" title="研究發展" onclick="javascript:readsub('842','MotcChineseMenu')" onkeypress="javascript:readsub('842','MotcChineseMenu')">研究發展</a>
+	            		    	    	      
+	            		    	    	  </li>
+	            		    	      
+	            		    	    	  <li>
+	            		    	    	    
+	            		    	    	    	  <a href="home.jsp?id=1074&parentpath=0,2,838" title="資通安全專區" onclick="javascript:readsub('1074','MotcChineseMenu')" onkeypress="javascript:readsub('1074','MotcChineseMenu')">資通安全專區</a>
+	            		    	    	      
+	            		    	    	  </li>
+	            		    	      
+	            		    	  </ul>
+	            		      	            		      
+	            		  </li>
+	            	  
+	          </ul>
+	        </div>
+	      </td>
+	    </tr>
+	    <tr>
+	      <td><img src="img&#x2f;standard/home_r14_c2.jpg" alt="*" width="194" height="15"></td>
+	    </tr>
+	  </table>
+	  
+  	  
+	  
+	  
+
+	                              </td>
+	                            </tr>
+	                            <tr>
+	                              <td><img src="img/standard/0.gif" alt="*" width="6" height="8"></td>
+	                            </tr>
+	                          </table>
+	                          
+	                        </td>
+	                        <td><img src="img/standard/0.gif" alt="*" width="12" height="10"></td>
+	                        <td valign="top">
+	                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+	                            <tr>
+	                              <td>
+	                                
+
+
+<!--
+程式名稱：audience.jsp
+說明：分眾導覽
+開發者：chmei
+開發日期：100.07.30
+修改者：
+修改日期：
+版本：ver1.0
+-->
+
+
+  
+
+<span>
+  <a href="main.jsp?prg=../ap/sitemap.jsp&maintitle=網站導覽" title="中間選單區" class="accesskey" accesskey="c">:::</a>
+  <a  href="index.jsp?audience=general" class="location"><font color='#CC0000'><b>一般民眾</b></font></a> /
+  <a  href="index.jsp?audience=research" class="location">學術研究</a> /
+  <a  href="index.jsp?audience=business" class="location">工商企業</a> /
+  <a  href="index.jsp?audience=leisure" class="location" onblur="document.getElementById('taba1_1').focus()">休閒觀光</a> /
+</span>
+	                              </td>
+	                            </tr>
+	                            <tr>
+	                              <td align="left">
+	                                
+
+
+
+
+
+
+
+
+
+<span class="location">目前瀏覽位置：</span>
+<a href="/index.jsp" class="location">首頁</a>
+
+				  <span class="location">&gt; </span><a href="home.jsp?id=2&parentpath=0" class="location">公務瀏覽</a> 
+			  
+				  <span class="location">&gt; </span><a href="home.jsp?id=641&parentpath=0,2,639" class="location">主動公開之政府資訊專區</a> 
+			  
+
+
+
+
+	                              </td>
+	                            </tr>
+	                            <tr>
+	                              <td><img src="img/standard/motc2_r22_c11.jpg" alt="*" width="506" height="5"></td>
+	                            </tr>
+	                            <tr>
+	                              <td>
+	                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+	                                  <tr>
+	                                    <td align="left">
+	                                      
+
+<!--
+程式名稱：hotkey.jsp
+說明：轉寄好友、友善列印
+開發者：chmei
+開發日期：100.07.30
+修改者：
+修改日期：
+版本：ver1.0
+-->
+
+
+
+
+
+
+
+
+
+
+
+<table width="20%" border="0" cellspacing="0" cellpadding="2">
+	<tr>
+		<td><table width="100%" border="0" cellspacing="0"
+				cellpadding="0">
+				<tr>
+					
+					<td>
+						<a href="javascript:history.go(-1)" title="回上頁">
+							<img src="img&#x2f;standard/home_r3_c12.jpg" alt="回上頁" width="74" height="19" border="0"/>
+						</a>
+					</td>
+					<td>|</td>
+					<td>
+						<a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.motc.gov.tw%2Fch%2Fhome.jsp%3Fid%3D641%26websitelink%3Dinformation_list.jsp%26parentpath%3D0%2C2%2C639" title="張貼至「Facebook」(開啟新視窗)" target="_blank"> 
+							<img src="img/fb-1.png" alt="張貼至「Facebook」(開啟新視窗)" />
+						</a>
+					</td>
+					<td>&nbsp;&nbsp;</td>
+					<td>
+						<a href="http://www.plurk.com/?qualifier=shares&amp;status=http%3A%2F%2Fwww.motc.gov.tw%2Fch%2Fhome.jsp%3Fid%3D641%26websitelink%3Dinformation_list.jsp%26parentpath%3D0%2C2%2C639 ()"	title="張貼至「Plurk」(開啟新視窗)" target="_blank">
+							<img src="img/fb-2.png" alt="張貼至「Plurk」(開啟新視窗)" />
+						</a>
+					</td>
+					<td>&nbsp;&nbsp;</td>
+					<td>
+						<a href="http://twitthat.com/go?url=http%3A%2F%2Fwww.motc.gov.tw%2Fch%2Fhome.jsp%3Fid%3D641%26websitelink%3Dinformation_list.jsp%26parentpath%3D0%2C2%2C639&title=" title="張貼至「Twitter」(開啟新視窗)" target="_blank">
+							<img src="img/fb-3.png" alt="張貼至「Twitter」(開啟新視窗)" />
+						</a>
+					</td>
+					<td>&nbsp;&nbsp;</td>
+					<td>
+						<a href="http://plus.google.com/share?url=http%3A%2F%2Fwww.motc.gov.tw%2Fch%2Fhome.jsp%3Fid%3D641%26websitelink%3Dinformation_list.jsp%26parentpath%3D0%2C2%2C639&title=" title="張貼至「google+」(開啟新視窗)" target="_blank">
+							<img src="img/fb-4.png" alt="張貼至「google+」(開啟新視窗)" />
+						</a>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+	                                    </td>
+	                                    <td align="right">
+	                                      
+
+
+
+
+<script type="text/javascript">
+
+// 使用者字型大小
+function createCookie(name,value,days) {
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime()+(days*24*60*60*1000));
+        var expires = "; expires="+date.toGMTString();
+    }
+    else expires = "";
+    document.cookie = name+"="+value+expires+"; path=/";
+}
+
+function readCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0;i < ca.length;i++) {		
+        var c = ca[i];
+        while (c.charAt(0)==' ') 
+            c = c.substring(1,c.length);
+        if (c.indexOf(nameEQ) == 0) 
+            return c.substring(nameEQ.length,c.length);
+    }
+    return null;
+}
+
+function SetFont(size) {
+    if (size == '0.8em' ) {
+	     document.getElementById("fss").src='img/standard/home2_r3_c16.jpg';
+		 document.getElementById("fsm").src='img/standard/home_r3_c18.jpg';
+		 document.getElementById("fsl").src='img/standard/home_r3_c20.jpg';
+	}else if ( size == '1em' ) {
+	     document.getElementById("fss").src='img/standard/home_r3_c16.jpg';
+		 document.getElementById("fsm").src='img/standard/home2_r3_c18.jpg';
+		 document.getElementById("fsl").src='img/standard/home_r3_c20.jpg';
+	}else if ( size == '1.2em' ) {
+	     document.getElementById("fss").src='img/standard/home_r3_c16.jpg';
+		 document.getElementById("fsm").src='img/standard/home_r3_c18.jpg';
+		 document.getElementById("fsl").src='img/standard/home2_r3_c20.jpg';
+	}
+	
+    document.getElementById("fontcontent").style.fontSize=size;
+    createCookie('fontsize',size,30);
+}
+
+function LoadFont() {
+    var fontsize;
+    if(readCookie('fontsize') == null) {
+        createCookie('fontsize','1em',30);
+        fontsize='1em';
+    }else{
+        fontsize=readCookie('fontsize');
+    }       
+    
+    SetFont(fontsize);     
+}
+
+</script>
+
+<noscript>您的瀏覽器似乎不支援JavaScript語法，但沒關係，這裡的JavaScript語法並不會影響到內容的陳述，
+如需要選擇字級大小，IE6請利用鍵盤按住ALT鍵 + V → X → (G)最大(L)較大(M)中(S)較小(A)小，來選擇適合您的文字大小，
+而IE7或Firefox瀏覽器則可利用鍵盤 Ctrl + (+)放大 (-)縮小來改變字型大小。
+</noscript>
+
+
+<table width="20%" border="0" cellspacing="0" cellpadding="2">
+  <tr>
+    <td><img src="img&#x2f;standard/home_r3_c14.jpg" alt="字級設定" width="65" height="19"></td>
+    <td><a href="javascript:SetFont('0.8em');"><img id="fss" name="fss" src="img&#x2f;standard/home_r3_c16.jpg" alt="小" width="23" height="18" border="0"></a></td>
+    <td><a href="javascript:SetFont('1em');"><img id="fsm" name="fsm" src="img&#x2f;standard/home_r3_c18.jpg" alt="中" width="23" height="18" border="0"></a></td>
+    <td><a href="javascript:SetFont('1.2em');"><img id="fsl" name="fsl" src="img&#x2f;standard/home_r3_c20.jpg" alt="大" width="22" height="18" border="0"></a></td>
+  </tr>
+</table>
+
+
+	                                    </td>
+	                                  </tr>
+	                                </table>
+	                              </td>
+	                            </tr>
+	                            <tr>
+	                              <td>
+	                                <table width="100%" border="0" cellspacing="0" cellpadding="3">
+	                                  <tr>
+	                                    <td align="left">
+	                                      
+
+
+
+
+
+
+
+
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="1%" valign="middle"><img src="img&#x2f;standard/home_r6_c8.jpg" alt="*" width="20" height="16"></td>
+    <td width="99%" align="left" class="title">主動公開之政府資訊專區</td>
+  </tr>
+</table>
+
+
+	                                    </td>
+	                                  </tr>
+	                                  
+	                                  
+	                                  <tr id="fontcontent">
+	                                    <td>
+	                                      
+
+<!--
+程式名稱：information_list.jsp
+說明：政府資訊公開
+開發者：chmei
+開發日期：100.08.09
+修改者：
+修改日期：
+版本：ver1.0
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+<script>
+  function qry() {
+	  if ( document.getElementById("qptdate").value != '' ) {
+		  if ( document.getElementById("qptdate").value.length != '10' ) {
+			  alert("【日期長度錯誤】，請重新輸入！");
+			  return;
+		  }	  
+		  if ( document.getElementById("qptdate").value.indexOf("-") < 0 ) {
+			  alert("【日期格式錯誤】，請重新輸入！");
+			  return;
+		  }	  
+	  }	  
+	  if ( document.getElementById("qdldate").value != '' ) {
+		  if ( document.getElementById("qdldate").value.length != '10' ) {
+			  alert("【日期長度錯誤】，請重新輸入！");
+			  return;
+		  }	  
+		  if ( document.getElementById("qdldate").value.indexOf("-") < 0 ) {
+			  alert("【日期格式錯誤】，請重新輸入！");
+			  return;
+		  }	  
+	  }
+	  if ( document.getElementById("qptdate").value != '' && document.getElementById("qdldate").value != '' ) {
+		  if ( document.getElementById("qptdate").value > document.getElementById("qdldate").value ) {
+			  alert("查詢條件【日期】之【起】不可大於【迄】，請重新輸入！");
+			  return;
+		  }	
+	  }
+	  
+	  document.messageform.page.value = 1;
+	  document.getElementById("messageform").action = "home.jsp?id=641&parentpath=0%2C2%2C639&mcustomize=information_list.jsp";
+	  document.getElementById("messageform").method = "post";
+	  document.getElementById("messageform").submit();
+  }
+  
+  function clear1() {
+	  document.getElementById("keyword").value = "請輸入關鍵字";
+	  document.getElementById("qptdate").value = "";
+	  document.getElementById("qdldate").value = "";
+	  
+	  if ( document.getElementById("qclass") ) {
+		  document.getElementById("qclass").value = "";
+	  }
+  }
+  
+  //點閱率
+  function readone(id,datatablename,filetablename,mserno,detailno,readnumbertable,language,subject,flag) {
+	  $.ajax({
+  		  url: "ap/updatenumber_list.jsp",
+  		  type: "POST",
+  		  data: "menuid=" + id + "&datatablename=" + datatablename + "&filetablename=" + filetablename + "&dataserno=" + mserno + "&detailno=" + detailno + "&readnumbertable=" + readnumbertable + "&language=" + language + "&subject=" + subject + "&flag=" + flag
+  	  });
+  }	 
+
+</script>
+
+  
+<form id="messageform" name="messageform">
+<input type="hidden" name="intpage" />	
+
+<div class="news_a" style="padding-left:5px">
+  <span>發布日期</span>&nbsp;&nbsp;
+  
+
+<!--
+程式名稱：bdate.jsp
+說明：日期區間
+開發者：chmei
+開發日期：100.07.30
+修改者：
+修改日期：
+版本：ver1.0
+-->
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+
+  <title>日期區間</title>
+
+  
+
+<link type="text/css" rel="stylesheet" href="../pubprogram/calendar/css/calendar.css?random=20051112" media="screen" />
+<script type="text/javascript" src="../pubprogram/calendar/js/calendar.js?random=20060118"></script>
+
+<script type="text/javascript">
+  function mfocus() {
+  }
+</script>	
+
+</head>
+
+<body>
+  <input class="input" type="text" value="" size="10" id="qptdate" name="qptdate">&nbsp;&nbsp;<a href="javascript:mfocus()" title=""><img src="..&#x2f;pubprogram&#x2f;calendar/images/icon_nowtime.gif" alt="選擇日期" onclick="displayCalendar(document.getElementById('qptdate'),'yyyy-mm-dd',this)"  onkeypress="displayCalendar(document.getElementById('qptdate'),'yyyy-mm-dd',this)" border="0"></a>&nbsp;(起) ～
+  <input class="input" type="text" value="" size="10" id="qdldate" name="qdldate">&nbsp;&nbsp;<a href="javascript:mfocus()" title=""><img src="..&#x2f;pubprogram&#x2f;calendar/images/icon_nowtime.gif" alt="選擇日期" onclick="displayCalendar(document.getElementById('qdldate'),'yyyy-mm-dd',this)"  onkeypress="displayCalendar(document.getElementById('qdldate'),'yyyy-mm-dd',this)" border="0"></a>&nbsp;(迄)
+  
+</body>
+</html>
+
+<br>
+  <span>標題</span>&nbsp;&nbsp;
+  <input id="keyword" name="keyword" type="text" size="15" value="請輸入關鍵字" onFocus="javascript: if (this.value=='請輸入關鍵字') this.value='';" onBlur="javascript: if(this.value=='') this.value='請輸入關鍵字';">
+      	
+    	&nbsp;&nbsp;&nbsp;<span>分類</span>&nbsp;&nbsp;
+    	
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<!--
+程式名稱：qoneclass.jsp
+說明：分類程式
+開發者：chmei
+開發日期：100.08.09
+修改者：
+修改日期：
+版本：ver1.0
+-->
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <title>分類程式</title>
+
+</head>
+
+
+
+
+
+
+
+<body>
+
+
+<select id="qclass" name="qclass">
+    
+    <option value="" selected>---全部分類---</option>
+    
+    
+    <option value="201112010001" >&#x6cd5;&#x898f;&#x53ca;&#x884c;&#x653f;&#x898f;&#x5247;
+    </option>
+    
+    
+    <option value="201112010002" >&#x5c0d;&#x5916;&#x95dc;&#x4fc2;&#x6587;&#x66f8;
+    </option>
+    
+    
+    <option value="201112010003" >&#x689d;&#x7d04;
+    </option>
+    
+    
+    <option value="201112010004" >&#x884c;&#x653f;&#x6307;&#x5c0e;&#x6709;&#x95dc;&#x6587;&#x66f8;
+    </option>
+    
+    
+    <option value="201112010005" >&#x65bd;&#x653f;&#x8a08;&#x756b;
+    </option>
+    
+    
+    <option value="201112010006" >&#x696d;&#x52d9;&#x7d71;&#x8a08;
+    </option>
+    
+    
+    <option value="201112010007" >&#x59d4;&#x8a17;&#x7814;&#x7a76;&#x5831;&#x544a;
+    </option>
+    
+    
+    <option value="201112010008" >&#x516c;&#x52d9;&#x51fa;&#x570b;&#x5831;&#x544a;
+    </option>
+    
+    
+    <option value="201112010009" >&#x9810;&#x7b97;&#x53ca;&#x6c7a;&#x7b97;&#x66f8;
+    </option>
+    
+    
+    <option value="201112010010" >&#x8a34;&#x9858;&#x6c7a;&#x5b9a;&#x66f8;
+    </option>
+    
+    
+    <option value="201112010011" >&#x8acb;&#x9858;&#x8655;&#x7406;&#x7d50;&#x679c;
+    </option>
+    
+    
+    <option value="201112010012" >&#x516c;&#x5171;&#x5de5;&#x7a0b;&#x5951;&#x7d04;
+    </option>
+    
+    
+    <option value="201112010013" >&#x63a1;&#x8cfc;&#x5951;&#x7d04;
+    </option>
+    
+    
+    <option value="201112010014" >&#x652f;&#x4ed8;&#x6216;&#x63a5;&#x53d7;&#x4e4b;&#x88dc;&#x52a9;
+    </option>
+    
+    
+    <option value="201203090001" >&#x8fa6;&#x7406;&#x653f;&#x7b56;&#x5ba3;&#x5c0e;&#x4e4b;&#x5ee3;&#x544a;
+    </option>
+    
+    
+    <option value="201305090001" >&#x4ea4;&#x901a;&#x90e8;&#x53ca;&#x6240;&#x5c6c;&#x6a5f;&#x95dc;&#x884c;&#x52d5;&#x670d;&#x52d9;&#x767c;&#x5c55;&#x73fe;&#x6cc1;
+    </option>
+    
+</select>
+
+
+
+</body>
+</html>
+
+
+    
+  &nbsp;&nbsp;&nbsp;
+  <input type="button" class="btn" value=" 查詢  " onclick="javascript:qry()" onkeypress="javascript:qry()">
+  <input type="button" class="btn" value=" 重設  " onclick="javascript:clear1()" onkeypress="javascript:clear1()">
+</div>
+
+<br>
+  
+<table width="98%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <th width="6%" align="center" bgcolor="#23657E" class="font4">序號</th>
+          <th width="64%" align="center" bgcolor="#23657E" class="font4">標題</th>
+          <th width="30%" align="center" bgcolor="#23657E" class="font4">主辦單位/(保管場所)</th>
+        </tr>
+        <tr>
+          <td colspan="3"><img src="img&#x2f;standard/0.gif" alt="*" width="10" height="1"></td>
+        </tr>
+        
+        		  <tr onmousemove="this.style.backgroundColor='e7f1f2';" onmouseout="this.style.backgroundColor='#ffffff';"  onfocus="this.style.backgroundColor='e7f1f2';" onblur="this.style.backgroundColor='#ffffff';" style="height:28px">
+        		    <td class="news_b" align="center">1</td>
+        		    <td align="left">&nbsp;
+            	    
+            	    					  <a href="/uploaddowndoc?file=information/201610310921000.xlsx&filedisplay=%E4%BA%A4%E9%80%9A%E9%83%A8105%E5%B9%B4%E7%AC%AC3%E5%AD%A3%E5%B0%8D%E6%B0%91%E9%96%93%E5%9C%98%E9%AB%94%E5%8F%8A%E5%80%8B%E4%BA%BA%E8%A3%9C%E6%8D%90%E5%8A%A9%E6%98%8E%E7%B4%B0%E8%A1%A8.xlsx&flag=doc" title="交通部105年第3季對民間團體及個人補捐助明細(開啟新視窗)" target="_blank" class="news_a" onclick="javascript:readone('641','Information','InformationFile','201610310001','1','MotcReadNumber','chinese','交通部105年第3季對民間團體及個人補捐助明細','doc')" onkeypress="javascript:readone('641','Information','InformationFile','201610310001','1','MotcReadNumber','chinese','交通部105年第3季對民間團體及個人補捐助明細','doc')">交通部105年第3季對民間團體及個人補捐助明...</a>
+            	    				  
+            	    </td>
+            	    <td class="news_a" align="center">會計處<br></td>
+            	  </tr>
+            	  <tr>
+            	    <td colspan="3"><div class="line_list2"></div></td>
+            	  </tr>
+              
+        		  <tr onmousemove="this.style.backgroundColor='e7f1f2';" onmouseout="this.style.backgroundColor='#ffffff';"  onfocus="this.style.backgroundColor='e7f1f2';" onblur="this.style.backgroundColor='#ffffff';" style="height:28px">
+        		    <td class="news_b" align="center">2</td>
+        		    <td align="left">&nbsp;
+            	    
+            	    					  <a href="/uploaddowndoc?file=information/201610251129080.pdf&filedisplay=105Q3%E7%8D%8E%E8%A3%9C%E5%8A%A9%E8%B2%BB.pdf&flag=doc" title="交通部主管105年度第3季獎補助費明細表(開啟新視窗)" target="_blank" class="news_a" onclick="javascript:readone('641','Information','InformationFile','201610250001','1','MotcReadNumber','chinese','交通部主管105年度第3季獎補助費明細表','doc')" onkeypress="javascript:readone('641','Information','InformationFile','201610250001','1','MotcReadNumber','chinese','交通部主管105年度第3季獎補助費明細表','doc')">交通部主管105年度第3季獎補助費明細表</a>
+            	    				  
+            	    </td>
+            	    <td class="news_a" align="center">會計處<br></td>
+            	  </tr>
+            	  <tr>
+            	    <td colspan="3"><div class="line_list2"></div></td>
+            	  </tr>
+              
+        		  <tr onmousemove="this.style.backgroundColor='e7f1f2';" onmouseout="this.style.backgroundColor='#ffffff';"  onfocus="this.style.backgroundColor='e7f1f2';" onblur="this.style.backgroundColor='#ffffff';" style="height:28px">
+        		    <td class="news_b" align="center">3</td>
+        		    <td align="left">&nbsp;
+            	    
+            	    					  <a href="/uploaddowndoc?file=information/201610251130280.pdf&filedisplay=105Q3%E6%94%BF%E5%AE%A3.pdf&flag=doc" title="交通部主管105年度第3季辦理政策宣導廣告支出明細表(開啟新視窗)" target="_blank" class="news_a" onclick="javascript:readone('641','Information','InformationFile','201610250002','1','MotcReadNumber','chinese','交通部主管105年度第3季辦理政策宣導廣告支出明細表','doc')" onkeypress="javascript:readone('641','Information','InformationFile','201610250002','1','MotcReadNumber','chinese','交通部主管105年度第3季辦理政策宣導廣告支出明細表','doc')">交通部主管105年度第3季辦理政策宣導廣告支...</a>
+            	    				  
+            	    </td>
+            	    <td class="news_a" align="center">會計處<br></td>
+            	  </tr>
+            	  <tr>
+            	    <td colspan="3"><div class="line_list2"></div></td>
+            	  </tr>
+              
+        		  <tr onmousemove="this.style.backgroundColor='e7f1f2';" onmouseout="this.style.backgroundColor='#ffffff';"  onfocus="this.style.backgroundColor='e7f1f2';" onblur="this.style.backgroundColor='#ffffff';" style="height:28px">
+        		    <td class="news_b" align="center">4</td>
+        		    <td align="left">&nbsp;
+            	    
+            	    					  <a href="/uploaddowndoc?file=information/201610191438030.xlsx&filedisplay=105%E5%B9%B49%E6%9C%88%E8%BE%A6%E7%90%86%E6%94%BF%E7%AD%96%E5%AE%A3%E5%B0%8E%E7%9B%B8%E9%97%9C%E5%BB%A3%E5%91%8A%E6%94%AF%E5%87%BA%E6%98%8E%E7%B4%B0%E8%A1%A8.xlsx&flag=doc" title="交通部105年9月辦理政策宣導相關廣告支出明細表(開啟新視窗)" target="_blank" class="news_a" onclick="javascript:readone('641','Information','InformationFile','201610190001','1','MotcReadNumber','chinese','交通部105年9月辦理政策宣導相關廣告支出明細表','doc')" onkeypress="javascript:readone('641','Information','InformationFile','201610190001','1','MotcReadNumber','chinese','交通部105年9月辦理政策宣導相關廣告支出明細表','doc')">交通部105年9月辦理政策宣導相關廣告支出明...</a>
+            	    				  
+            	    </td>
+            	    <td class="news_a" align="center">會計處<br></td>
+            	  </tr>
+            	  <tr>
+            	    <td colspan="3"><div class="line_list2"></div></td>
+            	  </tr>
+              
+        		  <tr onmousemove="this.style.backgroundColor='e7f1f2';" onmouseout="this.style.backgroundColor='#ffffff';"  onfocus="this.style.backgroundColor='e7f1f2';" onblur="this.style.backgroundColor='#ffffff';" style="height:28px">
+        		    <td class="news_b" align="center">5</td>
+        		    <td align="left">&nbsp;
+            	    
+            	    		  <a href="home.jsp?id=641&parentpath=0%2C2%2C639&mcustomize=information_view.jsp&dataserno=201610140001&aplistdn=ou=data,ou=information,ou=chinese,ou=ap_root,o=motc,c=tw&toolsflag=Y&imgfolder=img%2Fstandard" title="交通部105年度9月會計月報" class="news_a">交通部105年度9月會計月報</a>
+            	    	  
+            	    </td>
+            	    <td class="news_a" align="center">會計處<br></td>
+            	  </tr>
+            	  <tr>
+            	    <td colspan="3"><div class="line_list2"></div></td>
+            	  </tr>
+              
+        		  <tr onmousemove="this.style.backgroundColor='e7f1f2';" onmouseout="this.style.backgroundColor='#ffffff';"  onfocus="this.style.backgroundColor='e7f1f2';" onblur="this.style.backgroundColor='#ffffff';" style="height:28px">
+        		    <td class="news_b" align="center">6</td>
+        		    <td align="left">&nbsp;
+            	    
+            	    	  <a href="home.jsp?id=641&parentpath=0%2C2%2C639&mcustomize=information_view.jsp&dataserno=201610130001&aplistdn=ou=data,ou=information,ou=chinese,ou=ap_root,o=motc,c=tw&toolsflag=Y&imgfolder=img%2Fstandard" title="105年度交通部含所屬機關辦理人民申請提供政府資訊案件統計第3季年統計總表" class="news_a">105年度交通部含所屬機關辦理人民申請提供政...</a>
+            	      
+            	    </td>
+            	    <td class="news_a" align="center">總務司<br>(交通部-總務司)</td>
+            	  </tr>
+            	  <tr>
+            	    <td colspan="3"><div class="line_list2"></div></td>
+            	  </tr>
+              
+        		  <tr onmousemove="this.style.backgroundColor='e7f1f2';" onmouseout="this.style.backgroundColor='#ffffff';"  onfocus="this.style.backgroundColor='e7f1f2';" onblur="this.style.backgroundColor='#ffffff';" style="height:28px">
+        		    <td class="news_b" align="center">7</td>
+        		    <td align="left">&nbsp;
+            	    
+            	    		  <a href="home.jsp?id=641&parentpath=0%2C2%2C639&mcustomize=information_view.jsp&dataserno=201610120002&aplistdn=ou=data,ou=information,ou=chinese,ou=ap_root,o=motc,c=tw&toolsflag=Y&imgfolder=img%2Fstandard" title="105年9月非營業特種基金公益支出、委託調查、會費捐助、睦鄰支出執行情形表" class="news_a">105年9月非營業特種基金公益支出、委託調查...</a>
+            	    	  
+            	    </td>
+            	    <td class="news_a" align="center">會計處<br></td>
+            	  </tr>
+            	  <tr>
+            	    <td colspan="3"><div class="line_list2"></div></td>
+            	  </tr>
+              
+        		  <tr onmousemove="this.style.backgroundColor='e7f1f2';" onmouseout="this.style.backgroundColor='#ffffff';"  onfocus="this.style.backgroundColor='e7f1f2';" onblur="this.style.backgroundColor='#ffffff';" style="height:28px">
+        		    <td class="news_b" align="center">8</td>
+        		    <td align="left">&nbsp;
+            	    
+            	    		  <a href="home.jsp?id=641&parentpath=0%2C2%2C639&mcustomize=information_view.jsp&dataserno=201610120001&aplistdn=ou=data,ou=information,ou=chinese,ou=ap_root,o=motc,c=tw&toolsflag=Y&imgfolder=img%2Fstandard" title="105年9月交通作業基金會計月報" class="news_a">105年9月交通作業基金會計月報</a>
+            	    	  
+            	    </td>
+            	    <td class="news_a" align="center">會計處<br></td>
+            	  </tr>
+            	  <tr>
+            	    <td colspan="3"><div class="line_list2"></div></td>
+            	  </tr>
+              
+        		  <tr onmousemove="this.style.backgroundColor='e7f1f2';" onmouseout="this.style.backgroundColor='#ffffff';"  onfocus="this.style.backgroundColor='e7f1f2';" onblur="this.style.backgroundColor='#ffffff';" style="height:28px">
+        		    <td class="news_b" align="center">9</td>
+        		    <td align="left">&nbsp;
+            	    
+            	    					  <a href="/uploaddowndoc?file=information/201610061638430.pdf&filedisplay=%E4%BA%A4%E9%80%9A%E9%83%A8%E5%8F%8A%E6%89%80%E5%B1%AC%E6%A9%9F%E9%97%9C105%E5%B9%B4%E7%AC%AC3%E5%AD%A3%E8%A1%8C%E5%8B%95%E6%87%89%E7%94%A8%E8%BB%9F%E9%AB%94%E6%9C%8D%E5%8B%99%E7%B8%BE%E6%95%88%E8%AA%BF%E6%9F%A5%E8%A1%A8.pdf&flag=doc" title="105年度第3季行動服務發展現況(開啟新視窗)" target="_blank" class="news_a" onclick="javascript:readone('641','Information','InformationFile','201610060001','1','MotcReadNumber','chinese','105年度第3季行動服務發展現況','doc')" onkeypress="javascript:readone('641','Information','InformationFile','201610060001','1','MotcReadNumber','chinese','105年度第3季行動服務發展現況','doc')">105年度第3季行動服務發展現況</a>
+            	    				  
+            	    </td>
+            	    <td class="news_a" align="center">管理資訊中心<br></td>
+            	  </tr>
+            	  <tr>
+            	    <td colspan="3"><div class="line_list2"></div></td>
+            	  </tr>
+              
+        		  <tr onmousemove="this.style.backgroundColor='e7f1f2';" onmouseout="this.style.backgroundColor='#ffffff';"  onfocus="this.style.backgroundColor='e7f1f2';" onblur="this.style.backgroundColor='#ffffff';" style="height:28px">
+        		    <td class="news_b" align="center">10</td>
+        		    <td align="left">&nbsp;
+            	    
+            	    		  <a href="home.jsp?id=641&parentpath=0%2C2%2C639&mcustomize=information_view.jsp&dataserno=201609300001&aplistdn=ou=data,ou=information,ou=chinese,ou=ap_root,o=motc,c=tw&toolsflag=Y&imgfolder=img%2Fstandard" title="104年振興經濟擴大公共建設特別決算-審定版(98~100年度保留)-執行" class="news_a">104年振興經濟擴大公共建設特別決算-審定版...</a>
+            	    	  
+            	    </td>
+            	    <td class="news_a" align="center">會計處<br></td>
+            	  </tr>
+            	  <tr>
+            	    <td colspan="3"><div class="line_list2"></div></td>
+            	  </tr>
+              
+        		  <tr onmousemove="this.style.backgroundColor='e7f1f2';" onmouseout="this.style.backgroundColor='#ffffff';"  onfocus="this.style.backgroundColor='e7f1f2';" onblur="this.style.backgroundColor='#ffffff';" style="height:28px">
+        		    <td class="news_b" align="center">11</td>
+        		    <td align="left">&nbsp;
+            	    
+            	    					  <a href="/uploaddowndoc?file=information/201609291007140.pdf&filedisplay=104%E5%B9%B4%E5%BA%A6%E8%8E%AB%E6%8B%89%E5%85%8B%E7%89%B9%E5%88%A5%E6%B1%BA%E7%AE%97%E5%AF%A9%E5%AE%9A%E7%89%88%28%E4%BA%A4%E9%80%9A%E9%83%A8%E4%B8%BB%E7%AE%A1%29.pdf&flag=doc" title="104年度莫拉克特別決算審定版(交通部主管)(開啟新視窗)" target="_blank" class="news_a" onclick="javascript:readone('641','Information','InformationFile','201609290003','1','MotcReadNumber','chinese','104年度莫拉克特別決算審定版(交通部主管)','doc')" onkeypress="javascript:readone('641','Information','InformationFile','201609290003','1','MotcReadNumber','chinese','104年度莫拉克特別決算審定版(交通部主管)','doc')">104年度莫拉克特別決算審定版(交通部主管)</a>
+            	    				  
+            	    </td>
+            	    <td class="news_a" align="center">會計處<br></td>
+            	  </tr>
+            	  <tr>
+            	    <td colspan="3"><div class="line_list2"></div></td>
+            	  </tr>
+              
+        		  <tr onmousemove="this.style.backgroundColor='e7f1f2';" onmouseout="this.style.backgroundColor='#ffffff';"  onfocus="this.style.backgroundColor='e7f1f2';" onblur="this.style.backgroundColor='#ffffff';" style="height:28px">
+        		    <td class="news_b" align="center">12</td>
+        		    <td align="left">&nbsp;
+            	    
+            	    		  <a href="home.jsp?id=641&parentpath=0%2C2%2C639&mcustomize=information_view.jsp&dataserno=201609290002&aplistdn=ou=data,ou=information,ou=chinese,ou=ap_root,o=motc,c=tw&toolsflag=Y&imgfolder=img%2Fstandard" title="104年度「擴大公共建設投資計畫特別決算」審定版(94、95及97年度保留)" class="news_a">104年度「擴大公共建設投資計畫特別決算」審...</a>
+            	    	  
+            	    </td>
+            	    <td class="news_a" align="center">會計處<br></td>
+            	  </tr>
+            	  <tr>
+            	    <td colspan="3"><div class="line_list2"></div></td>
+            	  </tr>
+              
+        		  <tr onmousemove="this.style.backgroundColor='e7f1f2';" onmouseout="this.style.backgroundColor='#ffffff';"  onfocus="this.style.backgroundColor='e7f1f2';" onblur="this.style.backgroundColor='#ffffff';" style="height:28px">
+        		    <td class="news_b" align="center">13</td>
+        		    <td align="left">&nbsp;
+            	    
+            	    					  <a href="/uploaddowndoc?file=information/201609190953290.pdf&filedisplay=106%E5%B9%B4%E5%BA%A6%E4%BA%A4%E9%80%9A%E9%83%A8%E4%B8%BB%E7%AE%A1%E9%A0%90%E7%AE%97%28%E9%A0%90%E7%AE%97%E6%A1%88%29.pdf&flag=doc" title="106年度交通部主管預算(預算案)(開啟新視窗)" target="_blank" class="news_a" onclick="javascript:readone('641','Information','InformationFile','201609190002','1','MotcReadNumber','chinese','106年度交通部主管預算(預算案)','doc')" onkeypress="javascript:readone('641','Information','InformationFile','201609190002','1','MotcReadNumber','chinese','106年度交通部主管預算(預算案)','doc')">106年度交通部主管預算(預算案)</a>
+            	    				  
+            	    </td>
+            	    <td class="news_a" align="center">會計處<br></td>
+            	  </tr>
+            	  <tr>
+            	    <td colspan="3"><div class="line_list2"></div></td>
+            	  </tr>
+              
+        		  <tr onmousemove="this.style.backgroundColor='e7f1f2';" onmouseout="this.style.backgroundColor='#ffffff';"  onfocus="this.style.backgroundColor='e7f1f2';" onblur="this.style.backgroundColor='#ffffff';" style="height:28px">
+        		    <td class="news_b" align="center">14</td>
+        		    <td align="left">&nbsp;
+            	    
+            	    		  <a href="home.jsp?id=641&parentpath=0%2C2%2C639&mcustomize=information_view.jsp&dataserno=201609190001&aplistdn=ou=data,ou=information,ou=chinese,ou=ap_root,o=motc,c=tw&toolsflag=Y&imgfolder=img%2Fstandard" title="交通部105年度8月會計月報" class="news_a">交通部105年度8月會計月報</a>
+            	    	  
+            	    </td>
+            	    <td class="news_a" align="center">會計處<br></td>
+            	  </tr>
+            	  <tr>
+            	    <td colspan="3"><div class="line_list2"></div></td>
+            	  </tr>
+              
+        		  <tr onmousemove="this.style.backgroundColor='e7f1f2';" onmouseout="this.style.backgroundColor='#ffffff';"  onfocus="this.style.backgroundColor='e7f1f2';" onblur="this.style.backgroundColor='#ffffff';" style="height:28px">
+        		    <td class="news_b" align="center">15</td>
+        		    <td align="left">&nbsp;
+            	    
+            	    		  <a href="home.jsp?id=641&parentpath=0%2C2%2C639&mcustomize=information_view.jsp&dataserno=201609120006&aplistdn=ou=data,ou=information,ou=chinese,ou=ap_root,o=motc,c=tw&toolsflag=Y&imgfolder=img%2Fstandard" title="105年8月非營業特種基金公益支出、委託調查、會費捐助、睦鄰支出執行情形表" class="news_a">105年8月非營業特種基金公益支出、委託調查...</a>
+            	    	  
+            	    </td>
+            	    <td class="news_a" align="center">會計處<br></td>
+            	  </tr>
+            	  <tr>
+            	    <td colspan="3"><div class="line_list2"></div></td>
+            	  </tr>
+              
+              <tr>
+                <td colspan="3"><img src="img&#x2f;standard/0.gif" alt="*" width="10" height="7"></td>
+              </tr>
+        	  <tr>
+                <td colspan="3" align="center">
+                  
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<!--
+程式名稱：page.jsp
+說明：頁數
+開發者：chmei
+開發日期：100.07.31
+修改者：
+修改日期：104.11.23
+版本：ver1.0
+-->
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>頁數</title>
+
+
+
+    
+
+<script language="javascript">
+ function list(page,intpage) {	 
+     var thisform = "document.messageform";
+     eval(thisform).page.value = page;
+     eval(thisform).pagesize.value = eval(thisform).pagesize.value;
+     eval(thisform).intpage.value = Number(intpage);
+     eval(thisform).action = "home.jsp?id=641&parentpath=0,2,639&mcustomize=";
+     eval(thisform).method = "post";
+     eval(thisform).submit();
+ }
+ 
+ function mlist() {
+     var thisform = "document.messageform";
+     eval(thisform).page.value = eval(thisform).page.value;
+     eval(thisform).pagesize.value = eval(thisform).pagesize.value;
+     eval(thisform).action = "home.jsp?id=641&parentpath=0,2,639&mcustomize=";
+     eval(thisform).method = "post";
+     eval(thisform).submit();
+ }
+</script>
+
+</head>
+
+<div id="controls"> 
+  <div id="navigation">    
+    
+    	  <a href="javascript:list(1,1)" class="page_font"><span style='color:#ee0000'>1</span></a>
+      
+    	  <a href="javascript:list(2,1)" class="page_font"><span >2</span></a>
+      
+    	  <a href="javascript:list(3,1)" class="page_font"><span >3</span></a>
+      
+    	  <a href="javascript:list(4,1)" class="page_font"><span >4</span></a>
+      
+    	  <a href="javascript:list(5,1)" class="page_font"><span >5</span></a>
+      
+    	  <a href="javascript:list(6,1)" class="page_font"><span >6</span></a>
+      
+    	  <a href="javascript:list(7,1)" class="page_font"><span >7</span></a>
+      
+    	  <a href="javascript:list(8,1)" class="page_font"><span >8</span></a>
+      
+    	  <a href="javascript:list(9,1)" class="page_font"><span >9</span></a>
+      
+    	  <a href="javascript:list(10,1)" class="page_font"><span >10</span></a>
+      
+    	  <a href="javascript:list(2,1)" title="下一頁"><img src="..&#x2f;img/next.gif" width="16" height="16" alt="下一頁" border="0"  /></a>
+    	  <a href="javascript:list(47,47)" title="最後一頁"><img src="..&#x2f;img/last.gif" width="16" height="16" alt="最後一頁" border="0" /></a>
+      
+      
+  </div><br>
+  
+  <div id="perpage" style&#x3d;&#x27;padding-left&#x3a;30px&#x27;>
+    <span>目前位於&nbsp;</span>
+    <select id="page" name="page" class="select" onchange="mlist()">
+    
+    	  <option value=1 selected>第1頁</option>
+      
+    	  <option value=2 >第2頁</option>
+      
+    	  <option value=3 >第3頁</option>
+      
+    	  <option value=4 >第4頁</option>
+      
+    	  <option value=5 >第5頁</option>
+      
+    	  <option value=6 >第6頁</option>
+      
+    	  <option value=7 >第7頁</option>
+      
+    	  <option value=8 >第8頁</option>
+      
+    	  <option value=9 >第9頁</option>
+      
+    	  <option value=10 >第10頁</option>
+      
+    	  <option value=11 >第11頁</option>
+      
+    	  <option value=12 >第12頁</option>
+      
+    	  <option value=13 >第13頁</option>
+      
+    	  <option value=14 >第14頁</option>
+      
+    	  <option value=15 >第15頁</option>
+      
+    	  <option value=16 >第16頁</option>
+      
+    	  <option value=17 >第17頁</option>
+      
+    	  <option value=18 >第18頁</option>
+      
+    	  <option value=19 >第19頁</option>
+      
+    	  <option value=20 >第20頁</option>
+      
+    	  <option value=21 >第21頁</option>
+      
+    	  <option value=22 >第22頁</option>
+      
+    	  <option value=23 >第23頁</option>
+      
+    	  <option value=24 >第24頁</option>
+      
+    	  <option value=25 >第25頁</option>
+      
+    	  <option value=26 >第26頁</option>
+      
+    	  <option value=27 >第27頁</option>
+      
+    	  <option value=28 >第28頁</option>
+      
+    	  <option value=29 >第29頁</option>
+      
+    	  <option value=30 >第30頁</option>
+      
+    	  <option value=31 >第31頁</option>
+      
+    	  <option value=32 >第32頁</option>
+      
+    	  <option value=33 >第33頁</option>
+      
+    	  <option value=34 >第34頁</option>
+      
+    	  <option value=35 >第35頁</option>
+      
+    	  <option value=36 >第36頁</option>
+      
+    	  <option value=37 >第37頁</option>
+      
+    	  <option value=38 >第38頁</option>
+      
+    	  <option value=39 >第39頁</option>
+      
+    	  <option value=40 >第40頁</option>
+      
+    	  <option value=41 >第41頁</option>
+      
+    	  <option value=42 >第42頁</option>
+      
+    	  <option value=43 >第43頁</option>
+      
+    	  <option value=44 >第44頁</option>
+      
+    	  <option value=45 >第45頁</option>
+      
+    	  <option value=46 >第46頁</option>
+      
+    	  <option value=47 >第47頁</option>
+      
+    </select>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;資料每頁顯示&nbsp;</span>
+    <select id="pagesize" name="pagesize" class="select" onchange="mlist()">
+      <option value="703">全部</option>
+      <option value="15" selected>15</option>
+      <option value="25" >25</option>
+      <option value="50" >50</option>
+      <option value="100" >100</option>
+    </select>
+    <span>筆&nbsp;&nbsp;&nbsp;&nbsp;頁數&nbsp;1 / 47&nbsp;&nbsp;&nbsp;&nbsp;共有&nbsp;<font color="red">703</font>&nbsp;筆資料</span>
+  </div>
+  
+</div>
+
+<div style="*height:30px"></div>
+
+</html>
+
+
+                </td>
+              </tr>
+        
+      </table>
+    </td>
+  </tr>  
+  <tr>
+    <td colspan="3"><img src="img&#x2f;standard/0.gif" alt="*" width="10" height="10"></td>
+  </tr>
+  <!-- 瀏覽人次 -->
+  <tr>
+    <td colspan="3" align="right">
+      
+
+
+
+
+
+
+<span class="foot_3">
+   瀏覽人次：11
+   人
+
+    	 &nbsp;&nbsp;&nbsp;&nbsp;最後更新日期：105-10-31
+     
+</span>
+
+<tr>
+  <td align="center">
+    <table width="98%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="right" background="img&#x2f;standard/motc_r22_c11.gif"><a href="#top">
+          <img src="img&#x2f;standard/top.gif" alt="top" width="37" height="19" border="0"></a>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+
+    </td>
+  </tr>    
+</table>
+</form>
+	                                    </td>
+	                                  </tr>
+	                                </table>
+	                              </td>
+	                            </tr>
+	                          </table>
+	                        </td>
+	                        <td><img src="img/standard/0.gif" alt="*" width="6" height="10"></td>
+	                        <td valign="top">
+	                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  
+
+<!--
+程式名稱：index_Rbanner.jsp
+說明：首頁右方banner
+-->
+
+
+
+
+
+
+
+
+
+<script>
+    //點閱率
+    function readone(id,datatablename,filetablename,mserno,detailno,readnumbertable,language,subject,flag) {
+        $.ajax({
+            url: "ap/updatenumber_list.jsp",
+            type: "POST",
+            data: "menuid=" + id + "&datatablename=" + datatablename + "&filetablename=" + filetablename + "&dataserno=" + mserno + "&detailno=" + detailno + "&readnumbertable=" + readnumbertable + "&language=" + language + "&subject=" + subject + "&flag=" + flag
+        });
+    }
+
+    //點閱率(Menu)
+    function read(menuid,menutable) {
+        $.ajax({
+            url: "ap/updatenumber_menu.jsp",
+            type: "POST",
+            data: "menuid=" + menuid + "&menutable=" + menutable
+        });
+    }
+</script>
+
+
+
+
+
+<tr>
+    <td>
+        <a href="http://www.motc.gov.tw/ch/home.jsp?id=1067&parentpath=0,8" title="災害緊急/交通運輸電話(開啟新視窗)" target="_self">
+            <img src="/uploaddowndoc?file=lbanner/201505271458210.png&filedisplay=motc_r11_c28.png&flag=pic" alt="災害緊急/交通運輸電話" border="0">
+        </a>
+    </td>
+</tr>
+
+<tr>
+    <td>
+        <a href="http://www.motc.gov.tw/ch/home.jsp?id=1068&parentpath=0,8" title="便民服務電話(開啟新視窗)" target="_self">
+            <img src="/uploaddowndoc?file=lbanner/201505271500550.jpg&filedisplay=motc_r11_c28.jpg&flag=pic" alt="便民服務電話" border="0">
+        </a>
+    </td>
+</tr>
+
+<tr>
+    <td>
+        <a href="http://www.motc.gov.tw/personnelo/home.jsp?id=1584&parentpath=0" title="性別平等專區(開啟新視窗)" target="_self">
+            <img src="/uploaddowndoc?file=lbanner/201607220900440.jpg&filedisplay=%E6%80%A7%E5%88%A5%E5%B9%B3%E7%AD%89%E5%B0%88%E5%8D%80.jpg&flag=pic" alt="性別平等專區" border="0">
+        </a>
+    </td>
+</tr>
+
+<tr>
+    <td>
+        <a href="http://www.motc.gov.tw/ch/home.jsp?id=941&parentpath=0,8" title="業務相關連結(開啟新視窗)" target="_self">
+            <img src="/uploaddowndoc?file=lbanner/201505271500040.jpg&filedisplay=motc_r16_c28.jpg&flag=pic" alt="業務相關連結" border="0">
+        </a>
+    </td>
+</tr>
+
+<tr>
+    <td>
+        <a href="http://www.motc.gov.tw/ch/home.jsp?id=10&parentpath=0&mstyle=3&mcustomize=epaper_register_form.jsp" title="訂閱電子報(開啟新視窗)" target="_self">
+            <img src="/uploaddowndoc?file=lbanner/201505271459050.jpg&filedisplay=motc_r14_c27.jpg&flag=pic" alt="訂閱電子報" border="0">
+        </a>
+    </td>
+</tr>
+
+<tr>
+    <td>
+        <a href="http://www.motc.gov.tw/ch/home.jsp?id=15&parentpath=0,2&mcustomize=multimessages_list.jsp&qclass=201601250001" title="交通運輸自我安全防護(開啟新視窗)" target="_self">
+            <img src="/uploaddowndoc?file=lbanner/201602041146580.jpg&filedisplay=%E4%BA%A4%E9%80%9A%E9%83%A8%E5%8F%B3%E5%81%B4banner.jpg&flag=pic" alt="交通運輸自我安全防護" border="0">
+        </a>
+    </td>
+</tr>
+
+<tr>
+    <td>
+        <a href="http://www.emic.gov.tw/Content.aspx?ID=21&MenuID=607" title="0206震災災後復原重建相關民眾濟助事項(開啟新視窗)" target="_blank">
+            <img src="/uploaddowndoc?file=lbanner/201604281701060.jpg&filedisplay=0206%E6%B0%91%E7%9C%BE%E7%81%BD%E5%AE%B3%E7%B7%8A%E6%80%A5%E6%BF%9F%E5%8A%A9%E4%BA%8B%E9%A0%85.jpg&flag=pic" alt="0206民眾災害緊急濟助事項" border="0">
+        </a>
+    </td>
+</tr>
+
+
+
+
+
+
+	                            <tr>
+	                              <td valign="top">
+	                                
+
+
+
+
+<!--      <a href="http://www.youtube.com/user/motcfilms" title="連結Youtube(開啟新視窗)" target="_blank"><img src="img&#x2f;standard/youtube.jpg" alt="Youtube" border="0"></a> -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="right">
+      <a href="https://www.facebook.com/motcfilms" title="連結facebook(開啟新視窗)" target="_blank"><img src="img&#x2f;standard/facebook.jpg" alt="FaceBook" border="0"></a>
+    </td>
+    <td align="left">
+      <a href="http://www.youtube.com/user/motcfilms" title="連結Youtube(開啟新視窗)" target="_blank"><img src="img&#x2f;standard/youtube1.jpg" alt="Youtube" border="0"></a>
+    </td>
+  </tr>
+ 
+</table>
+
+
+
+	                              </td>
+	                            </tr>
+	                            <tr>
+	                              <td><img src="img/standard/0.gif" alt="*" height="5"></td>
+	                            </tr>
+	                            <tr>
+	                              <td valign="top">
+	                                
+
+<!--
+程式名稱：index_R4.jsp
+說明：首頁影音
+開發者：chmei
+開發日期：101.01.06
+修改者：
+修改日期：
+版本：ver1.0
+-->
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="img&#x2f;standard/motc_r18_c27_2.jpg" alt="交通影音" width="226" height="38"></td>
+  </tr>
+  <tr>
+    <td align="center" background="img&#x2f;standard/motc_r26_c27.jpg">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>
+            
+            	  <embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://www.motc.gov.tw/videoplay/flvplayer.swf?file=http://www.motc.gov.tw/video/video/201507071154490.flv&image=http://www.motc.gov.tw/video/video/201507071154490.jpg&autostart=false&repeat=false&wmode=transparent" width="207" height="155" type="application/x-shockwave-flash" allowfullscreen="true" bgcolor="#000000" ></embed>	  
+              
+          </td>
+        </tr>
+		        <tr>
+          <td align="left"><span class="menu_3"><br/>鐵路業務介紹(交通部提供)<br/></span></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><img src="img&#x2f;standard/motc_r28_c27.jpg" alt="*" width="186" height="27"></td>
+          <td><a href="home.jsp?id=592&parentpath=0,9" title="更多影音媒體" onclick="javascript:read('592','MotcChineseMenu')" onkeypress="javascript:read('592','MotcChineseMenu')"><img src="img&#x2f;standard/motc_r28_c35.jpg" alt="更多影音媒體" width="40" height="27" border="0"></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+	                              </td>
+	                            </tr>
+	                            <tr>
+	                              <td valign="top">
+	                                
+
+<!--
+程式名稱：index_R7.jsp
+說明：首頁主題專區
+開發者：chmei
+開發日期：100.09.06
+修改者：
+修改日期：
+版本：ver1.0
+-->
+
+
+
+
+
+
+
+
+
+<script>
+  //點閱率
+  function readone(id,datatablename,filetablename,mserno,detailno,readnumbertable,language,subject,flag) {
+	  $.ajax({
+		  url: "ap/updatenumber_list.jsp",
+		  type: "POST",
+		  data: "menuid=" + id + "&datatablename=" + datatablename + "&filetablename=" + filetablename + "&dataserno=" + mserno + "&detailno=" + detailno + "&readnumbertable=" + readnumbertable + "&language=" + language + "&subject=" + subject + "&flag=" + flag
+	  });
+  }	 
+  
+  //點閱率(Menu)
+  function read(menuid,menutable) {
+	  $.ajax({
+		  url: "ap/updatenumber_menu.jsp",
+		  type: "POST",
+		  data: "menuid=" + menuid + "&menutable=" + menutable
+	  });
+  }	 
+</script>
+
+
+
+<body>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="img&#x2f;standard/home_r9_c23.jpg" alt="主題專區" width="226" height="39"></td>
+  </tr>
+  <tr>
+    <td align="center" background="img&#x2f;standard/motc_r26_c27.jpg">
+      <div id="myDiv">
+        <table width="97%" border="0" cellpadding="0" cellspacing="3" bgcolor="#FFFFFF">
+          <tr>
+            <td id="pic1">
+              <table width="100%" border="0" cellpadding="0" cellspacing="3" bgcolor="#FFFFFF">
+                
+        		  <tr>
+        		    <td align="center" bgcolor="#E4E4E4">
+        		      <table width="50%" border="0" cellpadding="0" cellspacing="1" bgcolor="#AAAAAA">
+        		        <tr>
+        		          <td><a href="http://transport-museum.nat.gov.tw/" title="交通部數位交通博物館主題網(開啟新視窗)" target="_blank"><img src="/uploaddowndoc?file=smallbanner/2016061415482100_small.png&filedisplay=120x50.png&flag=pic" alt="交通部數位交通博物館主題網" width="120" height="50" border="0" class="img_border3" onclick="javascript:readone('940','SmallBanner','','201606140001','','MotcReadNumber','chinese','交通部數位交通博物館主題網','')" onkeypress="javascript:readone('940','SmallBanner','','201606140001','','MotcReadNumber','chinese','交通部數位交通博物館主題網','')"></a></td>
+        		        </tr>
+        		      </table>
+        		    </td>
+        		  </tr>
+        	  
+        		  <tr>
+        		    <td align="center" bgcolor="#E4E4E4">
+        		      <table width="50%" border="0" cellpadding="0" cellspacing="1" bgcolor="#AAAAAA">
+        		        <tr>
+        		          <td><a href="http://reading.motc.gov.tw/" title="交通部漂書主題網(開啟新視窗)" target="_blank"><img src="/uploaddowndoc?file=smallbanner/2015122216252100_small.PNG&filedisplay=%E6%BC%82%E6%9B%B8BA%7E1.PNG&flag=pic" alt="交通部漂書主題網" width="120" height="50" border="0" class="img_border3" onclick="javascript:readone('940','SmallBanner','','201512220001','','MotcReadNumber','chinese','交通部漂書主題網','')" onkeypress="javascript:readone('940','SmallBanner','','201512220001','','MotcReadNumber','chinese','交通部漂書主題網','')"></a></td>
+        		        </tr>
+        		      </table>
+        		    </td>
+        		  </tr>
+        	  
+        		  <tr>
+        		    <td align="center" bgcolor="#E4E4E4">
+        		      <table width="50%" border="0" cellpadding="0" cellspacing="1" bgcolor="#AAAAAA">
+        		        <tr>
+        		          <td><a href="http://event.motc.gov.tw/index.jsp?webid=201411280001" title="推動我國加入TPP/RCEP專區(開啟新視窗)" target="_blank"><img src="/uploaddowndoc?file=smallbanner/2015042910543400_small.jpg&filedisplay=Tpp.jpg&flag=pic" alt="推動我國加入TPP/RCEP專區" width="120" height="50" border="0" class="img_border3" onclick="javascript:readone('940','SmallBanner','','201504290001','','MotcReadNumber','chinese','推動我國加入TPP/RCEP專區','')" onkeypress="javascript:readone('940','SmallBanner','','201504290001','','MotcReadNumber','chinese','推動我國加入TPP/RCEP專區','')"></a></td>
+        		        </tr>
+        		      </table>
+        		    </td>
+        		  </tr>
+        	  
+        		  <tr>
+        		    <td align="center" bgcolor="#E4E4E4">
+        		      <table width="50%" border="0" cellpadding="0" cellspacing="1" bgcolor="#AAAAAA">
+        		        <tr>
+        		          <td><a href="http://event.motc.gov.tw/index.jsp?webid=201312180001" title="交通部重要公共建設計畫(開啟新視窗)" target="_blank"><img src="/uploaddowndoc?file=smallbanner/2013122611242600_small.jpg&filedisplay=impp.jpg&flag=pic" alt="交通部重要公共建設計畫" width="120" height="50" border="0" class="img_border3" onclick="javascript:readone('940','SmallBanner','','201312260001','','MotcReadNumber','chinese','交通部重要公共建設計畫','')" onkeypress="javascript:readone('940','SmallBanner','','201312260001','','MotcReadNumber','chinese','交通部重要公共建設計畫','')"></a></td>
+        		        </tr>
+        		      </table>
+        		    </td>
+        		  </tr>
+        	  
+        		  <tr>
+        		    <td align="center" bgcolor="#E4E4E4">
+        		      <table width="50%" border="0" cellpadding="0" cellspacing="1" bgcolor="#AAAAAA">
+        		        <tr>
+        		          <td><a href="http://gist-map.motc.gov.tw/" title="交通路網數值圖服務網(開啟新視窗)" target="_blank"><img src="/uploaddowndoc?file=smallbanner/2013110808435200_small.jpg&filedisplay=%E4%BA%A4%E9%80%9A%E8%B7%AF%E7%B6%B2%E6%95%B8%E5%80%BC%E5%9C%96%E6%9C%8D%E5%8B%99%E7%B6%B2_126x56.jpg&flag=pic" alt="交通路網數值圖服務網" width="120" height="50" border="0" class="img_border3" onclick="javascript:readone('940','SmallBanner','','201311080001','','MotcReadNumber','chinese','交通路網數值圖服務網','')" onkeypress="javascript:readone('940','SmallBanner','','201311080001','','MotcReadNumber','chinese','交通路網數值圖服務網','')"></a></td>
+        		        </tr>
+        		      </table>
+        		    </td>
+        		  </tr>
+        	  
+        		  <tr>
+        		    <td align="center" bgcolor="#E4E4E4">
+        		      <table width="50%" border="0" cellpadding="0" cellspacing="1" bgcolor="#AAAAAA">
+        		        <tr>
+        		          <td><a href="http://event.motc.gov.tw/index.jsp?webid=201409050001" title="交通部招商專區(開啟新視窗)" target="_blank"><img src="/uploaddowndoc?file=smallbanner/2013091808593100_small.gif&filedisplay=bus.gif&flag=pic" alt="交通部招商專區" width="120" height="50" border="0" class="img_border3" onclick="javascript:readone('940','SmallBanner','','201309180001','','MotcReadNumber','chinese','交通部招商專區','')" onkeypress="javascript:readone('940','SmallBanner','','201309180001','','MotcReadNumber','chinese','交通部招商專區','')"></a></td>
+        		        </tr>
+        		      </table>
+        		    </td>
+        		  </tr>
+        	  
+        		  <tr>
+        		    <td align="center" bgcolor="#E4E4E4">
+        		      <table width="50%" border="0" cellpadding="0" cellspacing="1" bgcolor="#AAAAAA">
+        		        <tr>
+        		          <td><a href="http://gazette.nat.gov.tw/" title="行政院公報資訊網(開啟新視窗)" target="_blank"><img src="/uploaddowndoc?file=smallbanner/2013061716394900_small.gif&filedisplay=122x61_0.gif&flag=pic" alt="行政院公報資訊網" width="120" height="50" border="0" class="img_border3" onclick="javascript:readone('940','SmallBanner','','201306170001','','MotcReadNumber','chinese','行政院公報資訊網','')" onkeypress="javascript:readone('940','SmallBanner','','201306170001','','MotcReadNumber','chinese','行政院公報資訊網','')"></a></td>
+        		        </tr>
+        		      </table>
+        		    </td>
+        		  </tr>
+        	  
+        		  <tr>
+        		    <td align="center" bgcolor="#E4E4E4">
+        		      <table width="50%" border="0" cellpadding="0" cellspacing="1" bgcolor="#AAAAAA">
+        		        <tr>
+        		          <td><a href="http://airport-city.caa.gov.tw/" title="桃園航空城計畫(開啟新視窗)" target="_blank"><img src="/uploaddowndoc?file=smallbanner/2012110813393000_small.jpg&filedisplay=%E6%A1%83%E5%9C%92%E8%88%AA%E7%A9%BA%E5%9F%8E125x56.jpg&flag=pic" alt="桃園航空城計畫" width="120" height="50" border="0" class="img_border3" onclick="javascript:readone('940','SmallBanner','','201211080001','','MotcReadNumber','chinese','桃園航空城計畫','')" onkeypress="javascript:readone('940','SmallBanner','','201211080001','','MotcReadNumber','chinese','桃園航空城計畫','')"></a></td>
+        		        </tr>
+        		      </table>
+        		    </td>
+        		  </tr>
+        	  
+        		  <tr>
+        		    <td align="center" bgcolor="#E4E4E4">
+        		      <table width="50%" border="0" cellpadding="0" cellspacing="1" bgcolor="#AAAAAA">
+        		        <tr>
+        		          <td><a href="http://stat.motc.gov.tw/" title="交通部統計查詢網(開啟新視窗)" target="_blank"><img src="/uploaddowndoc?file=smallbanner/2011010604384466_small.gif&filedisplay=%E4%BA%A4%E9%80%9A%E9%83%A8%E7%B5%B1%E8%A8%88%E6%9F%A5%E8%A9%A2%E7%B6%B2.gif&flag=pic" alt="交通部統計查詢網" width="120" height="50" border="0" class="img_border3" onclick="javascript:readone('940','SmallBanner','','17555','','MotcReadNumber','chinese','交通部統計查詢網','')" onkeypress="javascript:readone('940','SmallBanner','','17555','','MotcReadNumber','chinese','交通部統計查詢網','')"></a></td>
+        		        </tr>
+        		      </table>
+        		    </td>
+        		  </tr>
+        	  
+        		  <tr>
+        		    <td align="center" bgcolor="#E4E4E4">
+        		      <table width="50%" border="0" cellpadding="0" cellspacing="1" bgcolor="#AAAAAA">
+        		        <tr>
+        		          <td><a href="http://168.motc.gov.tw/" title="168交通安全入口網(開啟新視窗)" target="_blank"><img src="/uploaddowndoc?file=smallbanner/201008100438441010_small.gif&filedisplay=168%E4%BA%A4%E9%80%9A%E5%AE%89%E5%85%A8%E5%85%A5%E5%8F%A3%E7%B6%B2.gif&flag=pic" alt="168交通安全入口網" width="120" height="50" border="0" class="img_border3" onclick="javascript:readone('940','SmallBanner','','17557','','MotcReadNumber','chinese','168交通安全入口網','')" onkeypress="javascript:readone('940','SmallBanner','','17557','','MotcReadNumber','chinese','168交通安全入口網','')"></a></td>
+        		        </tr>
+        		      </table>
+        		    </td>
+        		  </tr>
+        	  
+        		  <tr>
+        		    <td align="center" bgcolor="#E4E4E4">
+        		      <table width="50%" border="0" cellpadding="0" cellspacing="1" bgcolor="#AAAAAA">
+        		        <tr>
+        		          <td><a href="http://taiwan-ftz.com/" title="臺灣海港自由貿易港區(開啟新視窗)" target="_blank"><img src="/uploaddowndoc?file=smallbanner/201112220438441111_small.jpg&filedisplay=%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B8%AF%E8%87%AA%E7%94%B1%E8%B2%BF%E6%98%93%E6%B8%AF%E5%8D%80.jpg&flag=pic" alt="臺灣海港自由貿易港區" width="120" height="50" border="0" class="img_border3" onclick="javascript:readone('940','SmallBanner','','17558','','MotcReadNumber','chinese','臺灣海港自由貿易港區','')" onkeypress="javascript:readone('940','SmallBanner','','17558','','MotcReadNumber','chinese','臺灣海港自由貿易港區','')"></a></td>
+        		        </tr>
+        		      </table>
+        		    </td>
+        		  </tr>
+        	  
+        		  <tr>
+        		    <td align="center" bgcolor="#E4E4E4">
+        		      <table width="50%" border="0" cellpadding="0" cellspacing="1" bgcolor="#AAAAAA">
+        		        <tr>
+        		          <td><a href="http://www.ey.gov.tw/news.aspx?n=3D06E532B0D8316C&sms=4ACFA38B877F185F" title="重大政策(開啟新視窗)" target="_blank"><img src="/uploaddowndoc?file=smallbanner/201202091919560.gif&filedisplay=%E9%87%8D%E5%A4%A7%E6%94%BF%E7%AD%96.gif&flag=pic" alt="重大政策" width="120" height="50" border="0" class="img_border3" onclick="javascript:readone('940','SmallBanner','','17559','','MotcReadNumber','chinese','重大政策','')" onkeypress="javascript:readone('940','SmallBanner','','17559','','MotcReadNumber','chinese','重大政策','')"></a></td>
+        		        </tr>
+        		      </table>
+        		    </td>
+        		  </tr>
+        	  
+        		  <tr>
+        		    <td align="center" bgcolor="#E4E4E4">
+        		      <table width="50%" border="0" cellpadding="0" cellspacing="1" bgcolor="#AAAAAA">
+        		        <tr>
+        		          <td><a href="http://www7.www.gov.tw/policy/2009career/index.html" title="就業資訊(開啟新視窗)" target="_blank"><img src="/uploaddowndoc?file=smallbanner/201008100438441313_small.gif&filedisplay=%E5%B0%B1%E6%A5%AD%E8%B3%87%E8%A8%8A.gif&flag=pic" alt="就業資訊" width="120" height="50" border="0" class="img_border3" onclick="javascript:readone('940','SmallBanner','','17560','','MotcReadNumber','chinese','就業資訊','')" onkeypress="javascript:readone('940','SmallBanner','','17560','','MotcReadNumber','chinese','就業資訊','')"></a></td>
+        		        </tr>
+        		      </table>
+        		    </td>
+        		  </tr>
+        	  
+        		  <tr>
+        		    <td align="center" bgcolor="#E4E4E4">
+        		      <table width="50%" border="0" cellpadding="0" cellspacing="1" bgcolor="#AAAAAA">
+        		        <tr>
+        		          <td><a href="http://itaiwan.gov.tw/" title="iTaiwan 無線上網(開啟新視窗)" target="_blank"><img src="/uploaddowndoc?file=smallbanner/201111090438441414_small.jpg&filedisplay=iTaiwan+%E7%84%A1%E7%B7%9A%E4%B8%8A%E7%B6%B2.jpg&flag=pic" alt="iTaiwan 無線上網" width="120" height="50" border="0" class="img_border3" onclick="javascript:readone('940','SmallBanner','','20116','','MotcReadNumber','chinese','iTaiwan 無線上網','')" onkeypress="javascript:readone('940','SmallBanner','','20116','','MotcReadNumber','chinese','iTaiwan 無線上網','')"></a></td>
+        		        </tr>
+        		      </table>
+        		    </td>
+        		  </tr>
+        	  
+        		  <tr>
+        		    <td align="center" bgcolor="#E4E4E4">
+        		      <table width="50%" border="0" cellpadding="0" cellspacing="1" bgcolor="#AAAAAA">
+        		        <tr>
+        		          <td><a href="http://www.car-safety.org.tw/" title="車輛安全資訊網(開啟新視窗)" target="_blank"><img src="/uploaddowndoc?file=smallbanner/200801110440231414_small.gif&filedisplay=%E8%BB%8A%E8%BC%9B%E5%AE%89%E5%85%A8%E8%B3%87%E8%A8%8A%E7%B6%B2.gif&flag=pic" alt="車輛安全資訊網" width="120" height="50" border="0" class="img_border3" onclick="javascript:readone('940','SmallBanner','','5970','','MotcReadNumber','chinese','車輛安全資訊網','')" onkeypress="javascript:readone('940','SmallBanner','','5970','','MotcReadNumber','chinese','車輛安全資訊網','')"></a></td>
+        		        </tr>
+        		      </table>
+        		    </td>
+        		  </tr>
+        	  
+        		  <tr>
+        		    <td align="center" bgcolor="#E4E4E4">
+        		      <table width="50%" border="0" cellpadding="0" cellspacing="1" bgcolor="#AAAAAA">
+        		        <tr>
+        		          <td><a href="home.jsp?id=849&parentpath=0,2,838" title="交通部個人資料保護專區(開啟新視窗)" target="_blank"><img src="/uploaddowndoc?file=smallbanner/201202220134060.jpg&filedisplay=%E4%BA%A4%E9%80%9A%E9%83%A8%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%E4%BF%9D%E8%AD%B7%E5%B0%88%E5%8D%80.jpg&flag=pic" alt="交通部個人資料保護專區" width="120" height="50" border="0" class="img_border3" onclick="javascript:readone('940','SmallBanner','','20335','','MotcReadNumber','chinese','交通部個人資料保護專區','')" onkeypress="javascript:readone('940','SmallBanner','','20335','','MotcReadNumber','chinese','交通部個人資料保護專區','')"></a></td>
+        		        </tr>
+        		      </table>
+        		    </td>
+        		  </tr>
+        	  
+          </table>
+          </td>
+          </tr>
+        <tr>
+          <td id="pic2" align="center" bgcolor="#E4E4E4">
+            <table width="50%" border="0" cellpadding="0" cellspacing="1" bgcolor="#AAAAAA">
+              <tr>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table> 
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><img src="img&#x2f;standard/motc_r28_c27.jpg" alt="*" width="186" height="27"></td>
+          <td><a href="home.jsp?id=940&parentpath=0,8" title="更多主題專區" onclick="javascript:read('940','MotcChineseMenu')" onkeypress="javascript:read('940','MotcChineseMenu')"><img src="img&#x2f;standard/motc_r28_c35.jpg" alt="更多主題專區" width="40" height="27" border="0"></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+</body>
+
+<script> 
+	var Speed = 20;
+	var timer;
+	var myDiv = document.getElementById("myDiv");
+	var pic2 = document.getElementById("pic2");
+	
+	pic2.innerHTML = document.getElementById("pic1").innerHTML;
+	
+	function picMarqueer(){
+		if( myDiv.scrollTop == 0) {
+			myDiv.scrollTop = pic2.offsetHeight;
+		}else{
+			myDiv.scrollTop--;
+		}
+	} 
+	
+	timer = setInterval(picMarqueer,Speed);
+
+	myDiv.onmouseover=function() {
+		clearInterval(timer);
+	}
+	
+	myDiv.onmouseout=function() {
+		timer=setInterval(picMarqueer,Speed);
+	}
+</script>
+	                              </td>
+	                            </tr>
+	                          </table>
+	                        </td>
+	                      </tr>
+	                    </table>
+	                  </td>
+	                </tr>
+	              </table>
+	            </td>
+	          </tr>
+	          <tr>
+	            <td><img src="img/standard/motc_r41_c2.jpg" alt="*" width="962" height="14"></td>
+	          </tr>
+	          <tr>
+	            <td><img src="img/standard/0.gif" alt="*" width="10" height="16"></td>
+	          </tr>
+	          <tr>
+	            <td>
+	              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="1%" align="left"><img src="img/standard/motc_r43_c2.jpg" alt="中華民國交通部" width="225" height="94"></td>
+    <td width="99%" align="center" valign="top">
+      <table width="97%" border="0" cellspacing="0" cellpadding="2">
+        <tr>
+          <td width="84%" align="left" valign="bottom">
+            <a href="main.jsp?prg=../ap/mailbox.jsp&maintitle=部長(民意)信箱" class="foot_1" title="部長(民意)信箱">部長(民意)信箱</a><span class="foot_1"> │ </span>
+            <a href="mailto:dac@motc.gov.tw" class="foot_1" title="廉政信箱(另開新視窗)">廉政信箱</a><span class="foot_1"> │ </span>
+            <a href="main.jsp?prg=../ap/mailsuggest.jsp&maintitle=網站建議" class="foot_1" title="網站建議">網站建議</a><span class="foot_1"> │ </span>
+            <a href="home.jsp?id=28&parentpath=0,8" class="foot_1" title="常見問答集">常見問答集</a><span class="foot_1"> │ </span>
+            <a href="main.jsp?prg=../ap/artsublink.jsp&dataserno=201110300002&maintitle=%E5%AE%89%E5%85%A8%E6%94%BF%E7%AD%96" class="foot_1" title="安全政策">資訊安全政策</a><span class="foot_1"> │ </span>
+            <a href="main.jsp?prg=../ap/artsublink.jsp&dataserno=201110300001&maintitle=%E9%9A%B1%E7%A7%81%E6%AC%8A%E6%94%BF%E7%AD%96" class="foot_1" title="隱私權政策">隱私權政策</a><span class="foot_1"> │ </span><br/>
+          	<a href="home.jsp?id=1151&parentpath=0,1" class="foot_1" title="政府網站資料開放宣告">政府網站資料開放宣告</a><span class="foot_1"> │ </span>
+          	<a href="home.jsp?id=849&parentpath=0,2,838" class="foot_1" title="保有及管理個人資料">保有及管理個人資料</a><span class="foot_1"> │ </span>
+          </td>
+                    
+          <td width="12%" rowspan="2" align="left" valign="top">
+            <a href="http://www.ipv6forum.com/ipv6_enabled/public.php?id=3472" target="_blank" style="text-decoration: none;" title="檢視 IPV6 網站認證訊息">
+              <img src="images/ipv6/ipv6_logo.png" title="檢視 IPV6 網站認證訊息" alt="檢視 IPV6 網站認證訊息" border="0" />
+            </a>
+            <a href="http://www.gov.tw/" target="_blank" style="text-decoration: none;" title="我的E政府">
+              <img src="images/footericon_17.jpg" title="我的E政府" alt="我的E政府" width="45" height="55" border="0" >
+            </a>
+            <a href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20050620155716" title="通過AA優先等級無障礙網頁檢測(開啟新視窗)" target="_blank" style="text-decoration: none;">
+              <img src="img/standard/motc_r44_c32.jpg" alt="無障礙A+" width="88" height="31" border="0">
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" align="left" class="foot_3">
+                                地址：10052臺北市中正區仁愛路1段50號
+            &nbsp;&nbsp;&nbsp;
+上班時間：上午08:30至下午05:30
+
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" align="left" class="foot_3">
+            總機：886-2-2349-2900(代表號) ，交通部為民服務專線電話：0800-231-161。
+            &nbsp;&nbsp;&nbsp;&nbsp;
+<br/>採購稽核小組檢舉專線電話：886-49-2370030，傳真：886-49-2391517。<br/>廉政檢舉專線電話：886-2-2349-2543
+&nbsp;&nbsp;&nbsp;&nbsp;
+傳真：886-2-2349-2491。
+
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" align="left">
+            
+            	  <span class="foot_3">本網站支援IE、Chrome及Firefox等瀏覽器，建議使用螢幕解析度1024x768可得到最佳瀏覽效果；
+最佳列印：請設定紙張方向為橫向 </span><br>
+              
+            <span class="foot_4">您是自90年11月以來第44691385位到訪的朋友</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <span class="foot_2">最後更新日期：105-11-06</span>
+          </td>
+        </tr>
+        
+        	  <tr>
+        	    <td colspan="2" align="left" class="foot_3">本網站之內容皆為交通部所有</td>
+            </tr>
+          
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+	            </td>
+	          </tr>
+	        </table>
+	      </td>
+	    </tr>
+	  </table>
+	  </body>
+	</html>
+
+  
+
+
+
+
+	  
+
+<script type="text/javascript">LoadFont();</script>
+
+</html>
+
+
+
+
+

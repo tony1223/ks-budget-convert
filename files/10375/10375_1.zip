@@ -1,0 +1,3 @@
+<script>
+alert("您的瀏覽器未送出Cookie。請確定Cookie的設定已打開!")
+</script>

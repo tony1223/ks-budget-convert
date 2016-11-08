@@ -1,0 +1,35 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	未命名頁面
+</title></head>
+<body>
+    <form method="post" action="./ErrorMessage.aspx?aspxerrorpath=%2fModule%2fPageContent%2f800%2f779.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzgzNDMwNTMzZGRE7FE9s5zM6WRSrFVjkS89oo0dvVhk2dLVgyylqM4gKA==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="203A92CB" />
+    <div align="center">
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        您所瀏覽的網頁已移除，請回<a href="http://www.nvri.gov.tw/">首頁</a>瀏覽其他訊息</div>
+    </form>
+</body>
+</html>

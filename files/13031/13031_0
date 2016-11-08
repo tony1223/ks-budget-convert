@@ -1,0 +1,210 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 TRANSITIONAL//EN">
+<html>
+<head>
+<title>錯誤報告</title>
+
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.style1 {
+	font-size: 15px;
+	color: #006600;
+}
+a:link {
+	font-size: 13px;
+	font-weight: bolder;
+	color: #006600;
+}
+a:hover {
+	font-size: 13px;
+	font-weight: bolder;
+	color: #666666;
+}
+a:visited {
+	font-size: 13px;
+	font-weight: bolder;
+	color: #006600;
+}
+a:active {
+	font-size: 13px;
+	font-weight: bolder;
+	color: #006600;
+}
+.aa1 {font-size: 13px;
+	color: 006600;
+}
+.aa2 {font-size: 12px;
+	color: #000000;
+}
+.style2 {
+	color: #FF0000;
+	font-weight: bold;
+}
+.style2 {font-size: 12px; color: #000000; font-weight: bold; }
+.style3 {font-size: 12px; color: #FF6600; }
+-->
+</style>
+
+<LINK href="../theme/eip/css/toolbar.css" rel="stylesheet" type="text/css">
+<LINK href="../theme/eip/css/frontstyle.css" rel="stylesheet" type="text/css">
+<LINK href="../theme/eip/css/calendar-mos.css" rel="stylesheet" type="text/css">
+<LINK href="../theme/eip/css/theme.css" rel="stylesheet" type="text/css">
+<SCRIPT language="javascript" src="../theme/eip/script/common.js"></SCRIPT>
+<SCRIPT language="javascript" src="../theme/eip/script/toolbar.js"></SCRIPT>
+<SCRIPT language="javascript" src="../theme/eip/script/swfobject.js"></SCRIPT>
+<SCRIPT language="javascript" src="../theme/eip/script/var_dump.js"></SCRIPT>
+<SCRIPT language="javascript" src="../theme/eip/script/calendar.js"></SCRIPT>
+<SCRIPT language="javascript" src="../theme/eip/script/calendar-zh_tw.js"></SCRIPT>
+<SCRIPT language="javascript" src="../theme/eip/script/JSCookMenu.js"></SCRIPT>
+<SCRIPT LANGUAGE=JavaScript SRC='../script/online.js'></SCRIPT>
+<script language='JavaScript'>
+    function init() {
+        parent.document.location.href = 'javascript:scroll(0,0);';
+    }
+</script>
+</head>
+
+<body marginwidth='0' marginheight='0' onload='init();'>
+
+<TABLE width="717" border=0 cellpadding='0' cellspacing='0'>
+  <TBODY>
+    <tr>
+        <td valign="top" align="left" colspan='2'>
+            <!-- UI開頭小豆苗圖片 -->
+            <img alt="pic" border="0" src="../theme/eip/image/titlebar.jpg" />
+        </td>
+    </tr>
+    <tr>
+        <td colspan='2'>
+            <table width='90%'>
+                <tr class='navigatorbar'>
+                    <td style="PADDING-TOP: 15px; PADDING-LEFT:10px">
+                        <a href="#">首頁</a> &gt; <a href="#">錯誤報告</a>
+                    </td>
+                </tr>
+                <tr class='navigatorbar'>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr class='headerbar'>
+                    <td>
+                        <table width=100%>
+                        <tr>
+                            <td width=1%><img alt="*" border="0" src="../theme/eip/image/icon(2).gif" /></td>
+                            <td>錯誤報告</td>
+                        </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr class='spacebar'>
+                    <td align='right'>
+                            <input type='hidden' name="CURRENTSITEID" value=''>
+        <SCRIPT language=JavaScript src='/pccap2/script/common.js'></SCRIPT>
+    <SCRIPT language=JavaScript src='/pccap2/script/online.js'></SCRIPT>     
+    <table cellspacing="0" cellpadding="0" border="0">
+    <tbody>
+    <tr>
+                        <td valign="middle" align="left">
+            <img alt="列印" border="0" src="/pccap2/images/wordsize_04(1).gif" />
+        </td>
+        <td style="PADDING-TOP: 3px" valign="middle" nowrap="nowrap" align="left">
+            <a class="three" href="#" onClick="openNewWindowForPrint('http://www.pcc.gov.tw/pccap2');" onkeypress="openNewWindowForPrint('http://www.pcc.gov.tw/pccap2');">列印</a>
+        </td>
+                <!--td valign="middle" align="left">
+            <table>
+            <tr-->
+                <td valign="middle" align="left"><img alt="字級設定" border="0" src="/pccap2/images/wordsize_061.gif" /></td>
+                <td valign="middle" align="left" style="PADDING-TOP: 2px" nowrap>字級設定</td>
+                <td valign="middle" align="left"><a href="javascript:onClick=setFontSize('small')"><label id='smallfont'><img src="/pccap2/images/wordsize_07.gif" alt="小" border="0" /></label></a></td>
+                <td valign="middle" align="left"><a href="javascript:onClick=setFontSize('medium')"><label id='mediumfont'><img src="/pccap2/images/wordsize_18_s.gif" alt="中" border="0" /></label></a></td>
+                <td valign="middle" align="left"><a href="javascript:onClick=setFontSize('large')"><label id='largefont'><img src="/pccap2/images/wordsize_09.gif" alt="大" border="0" /></label></a></td>
+                <td valign="middle" align="left"><a href="javascript:onClick=setFontSize('huge')"><label id='hugefont'><img src="/pccap2/images/wordsize_10.gif" alt="巨" border="0" /></label></a></td>
+                					<script language='JavaScript'>
+						var fntsize = Get_Cookie('DEFAULTFONTSIZE');
+						if (fntsize)
+				     		setFontSize(fntsize);
+				    </script>				    
+			                <!--/tr>
+            </table>
+        </td-->
+    </tr>
+    </tbody>
+    </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+
+    <TR>
+    <TD align=middle colspan='3'>
+      <div style='width:90%; overflow-x:auto; overflow-y:no; position: relative; left: 7px;'>
+
+
+      <!-- BEGIN - Module HTML -->
+          <br><br>
+              <font color='red'>
+                  <b>
+    <!-- bundle: gov.pcc.filemgr.resource.FileMgrResources -->
+    	  	    	      系統發生錯誤，請聯絡系統管理員 <br>
+	    	          <!-- bundle: gov.pcc.filemgr.resource.FileMgrResources -->
+                      </b>
+              </font>
+          <br><br>
+          <table width='100%'>
+              <tr>
+                  <td align='right'>
+                      <table align="right">
+    <tr>
+       <td nowrap="nowrap" align="right">
+           <img src="/pccap2/images/back.jpg"  alt="上一頁"  width="12" height="13" border="0" />
+       </td>
+       <td style="PADDING-RIGHT: 2px; PADDING-TOP: 4px" nowrap="nowrap" align="right">
+           <a href="javascript:history.back()"    title="點此跳回剛剛瀏覽的頁面"  class="three">  上一頁 </a>
+       </td>
+       <td align="right">
+           <img src="/pccap2/images/home.jpg"  alt="回首頁"  width="13" height="12" border="0" />
+       </td>
+       <td align="right" nowrap="nowrap" class="three" style="PADDING-RIGHT: 2px; PADDING-TOP: 4px">
+                         <a class="three" href='/pccap2/Index.do;jsessionid=6FED1B5229D4720A51F12921974F32E5?site=' target='_parent'> 回首頁 </a>
+       </td>
+       <td nowrap="nowrap" align="right">
+           <img src="/pccap2/images/top.jpg" alt="TOP" width="13" height="12" border="0" />
+       </td>
+       <td nowrap="nowrap" align="right">
+           <font face="Arial, Helvetica, sans-serif" class="three">
+               <a class="three" href="#" onkeypress='parent.document.location.href = "javascript:scroll(0,0)";' onclick='parent.document.location.href = "javascript:scroll(0,0)";'>Top</a>
+           </font>
+       </td>
+    </tr>
+</table>
+    		<script language='JavaScript'>
+			var fntsize = Get_Cookie('DEFAULTFONTSIZE');
+			if (fntsize)
+	     		setFontSize(fntsize);
+	    </script>	
+                      </td>
+              </tr>
+          </table>
+
+      <!-- END - Module HTML -->
+
+      </div>
+    
+    </TD>
+    </TR>
+    <tr>
+        <td valign="top" align="left">
+            <img alt="圖片" border="0" src="../theme/eip/image/bootbar.jpg" />
+        </td>
+    </tr>
+
+   </TBODY>
+</TABLE>
+
+</body>
+</html>

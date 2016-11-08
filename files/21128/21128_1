@@ -1,0 +1,1033 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<HTML lang=zh-TW><!-- InstanceBegin template="Templates/content.dwt" codeOutsideHTMLIsLocked="false" -->
+<HEAD>
+<TITLE>預算及決算書 - 花蓮區農業改良場</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+<meta name="title" content="預算及決算書 - 花蓮區農業改良場" />
+<meta name="description" content="預算及決算書" />
+<meta name="Category.Theme" content="710"/>
+<meta name="Category.Cake" content="AX5"/>
+<meta name="Category.Service" content="I61"/>
+<meta name="keywords" content="花蓮區能業改良場, 花改場, 花蓮改良場,  水稻, 雜糧特作, 蔬菜, 花卉">
+<meta name="title" content="預算及決算書 - 花蓮區農業改良場">
+<link href="css/real_css.css" rel="stylesheet" type="text/css">
+<link href="css/fatfoot_css.css" rel="stylesheet" type="text/css">
+<script src="images_default/style2009/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<link rel="stylesheet" href="js/jquery-ui.css">
+<script src="js/jquery.js"></script>
+<script src="js/jquery-ui.js"></script>
+<script src="js/jquery.cookie.js" type="text/javascript"></script>
+<script type="text/javascript" src="js/fatfoot.js" ></script>
+<script language="JavaScript">
+$(document).ready(function($){
+	
+	/*顯示自動完成提示字*/
+
+		$("#keyword_q").autocomplete({
+
+			source: function(request, response) {
+
+				$.ajax({
+
+					url: "http://www.hdares.gov.tw/search_keyword_save.php",
+
+					dataType: "json",
+
+					data: {
+
+						style: "tips",
+
+						website: "1",
+
+						term: request.term
+
+					},
+
+					success: function(data) {
+
+						response(data);
+
+					}
+
+				});
+
+			},
+
+			minLength: 0
+
+		});	
+
+
+});
+</script>
+<!-- InstanceBeginEditable name="EditRegion2" -->
+<link rel="image_src" type="image/jpeg" href="">
+
+
+<!-- InstanceEndEditable -->
+</HEAD>
+<!-- InstanceBeginEditable name="EditRegion3" -->
+<BODY>
+<!-- InstanceEndEditable -->
+<BODY>
+<table border="0" align=center cellpadding="0" cellspacing="0" class="body_line" summary="此為表格排版用">
+<tr>
+	<td colspan="3">
+		<div class="banner_description"><a href="#" title="頁首" class="accesskey" accesskey="U" style="color:#b5a571;" >:::</a>
+		‧<a href="http://www.hdares.gov.tw/show_index.php"  title="回首頁" class="link4">回首頁</a> 
+		‧<a href="sitemap.php" title="網站導覽" class="link4">網站導覽</a>
+		‧<a href="mobile_index.php" title="行動版" class="link4">行動版</a>
+		‧<a href="eng/show_index.php" title="English Version -將另開新視窗" class="link4" target="_blank">English Version</a> 	
+		‧<a href="view.php?catid=1849" title="訂&#38321;RSS" class="link4">訂&#38321;RSS</a> 	        
+		</div> 
+	</td>
+</tr>
+<tr>
+    <td height="138" colSpan=3 align="left" valign="top"><!--banner區--><DIV class=banner_01><img src="images_default/style2009/banner.jpg" title="花蓮區農業改良場" alt="花蓮區農業改良場"></DIV><!--end banner --></td>
+</tr>
+<tr>
+	<td colspan="3">
+		<!--banner_bar區-->
+		<table width="100%"  border="0" cellpadding="0" cellspacing="0">
+          <tr >            
+            <td ><div class="banner_bar"> 
+                        <a href="hdais_service_mail.php?func=1" title="首長信箱" class="top_bar_link" target="_self">首長信箱</a>
+                        <a href="hdais_service_mail.php?func=2" title="單一窗口服務信箱" class="top_bar_link" target="_self">單一窗口服務信箱</a>
+                        <a href="view.php?catid=51" title="通訊錄" class="top_bar_link" target="_self">通訊錄</a>
+                        <a href="view.php?catid=53" title="政府資訊公開" class="top_bar_link" target="_self">政府資訊公開</a>
+                        <a href="view.php?catid=525" title="招標資訊" class="top_bar_link" target="_self">招標資訊</a>
+                        <a href="view.php?catid=526" title="技轉公告" class="top_bar_link" target="_self">技轉公告</a>
+                        <a href="epaper_join.php" title="訂閱電子報 " class="top_bar_link" target="_self">訂閱電子報 </a>
+                        <a href="view.php?catid=6213" title="廉政資訊專區" class="top_bar_link" target="_self">廉政資訊專區</a>
+                        <a href="view.php?catid=6211" title="性別平等專區" class="top_bar_link" target="_self">性別平等專區</a>
+                        <a href="view.php?catid=6212" title="相關法規" class="top_bar_link" target="_self">相關法規</a>
+                        <a href="survey.php?id=survey20160115142141&catid=2306" title="民眾滿意度調查" class="top_bar_link" target="_self">民眾滿意度調查</a>
+                        </div></td>
+          </tr>
+        </table>
+	</td>
+</tr>
+<tr >
+    <td style="font-size:xx-small; margin:0px; padding:0px;">&nbsp;</td>
+    <td rowspan="2" height="10" style="margin:0px; padding:0px;height:15px;"><div class="search" style="margin:0px; padding:0px;"><form action="search_wg_tran.php" method="post" name="form_search"><table width="100%" border="0" cellpadding="0" cellspacing="0" summary="此為站內搜尋表格" style="margin:0px; padding:0px;"><tr>
+							<td width="52%">&nbsp;</td>
+							<td width="20%" align="right">
+																<table width="100%" border="0" align="right" cellpadding="0" cellspacing="0" class="search_table" summary="此為站內搜尋表格">
+								<tr>
+								<td width="23%" align="right" valign="middle"><label for="search_src"> </label>
+								<img src="images_default/style1/coa_22.jpg" alt="搜尋" width="28" height="26" vspace="3" align="absbottom"></td>	
+								<td width="57%" align="center" valign="middle" nowrap class="search_content">
+								<label for="keyword"></label>
+								<input accesskey="s" name="keyword_q" type="text" class="text" id="keyword_q" onFocus="javascript: if	(this.value=='::請輸入關鍵字::') this.value='';" onBlur="javascript: if (this.value=='') this.value='::請輸入關鍵字::';" value="::請輸入關鍵字::" size="20">
+								</td>
+								<td width="20%" align="center" valign="middle" >
+								<input name="SEARCH_1" type="submit" class="key_button" id="SEARCH_1" value="搜尋">
+								</td>
+								</tr>
+                                                                     <tr>
+                                    <td></td>
+                                    <td colspan="2">
+                                    
+                                  <span class="hot_word">熱門：</span>
+
+                                    
+                                   <a class="hot_searchs" href="search_wg_tran.php?keyword_q=檸檬" title="檸檬" target="_blank"> 檸檬 </a>
+
+                                    
+                                   <a class="hot_searchs" href="search_wg_tran.php?keyword_q=苦瓜" title="苦瓜" target="_blank"> 苦瓜 </a>
+
+                                    
+                                   <a class="hot_searchs" href="search_wg_tran.php?keyword_q=水稻" title="水稻" target="_blank"> 水稻 </a>
+
+                                    
+                                   <a class="hot_searchs" href="search_wg_tran.php?keyword_q=地瓜" title="地瓜" target="_blank"> 地瓜 </a>
+
+                                    
+                                   <a class="hot_searchs" href="search_wg_tran.php?keyword_q=甘藷" title="甘藷" target="_blank"> 甘藷 </a>
+
+                                    
+                                 
+                                    </td>
+                                    </tr>
+                                     								</table> 
+										
+							</td>  
+							<td width="28%" align="left" valign="middle">
+							<img src="images_default/style1/coa_46.jpg" alt="" width="15" height="19" align="absmiddle"> 
+							<img src="images_default/style1/coa_42.jpg" alt="友善列印(將另開新視窗)" width="19" height="18" align="absmiddle">
+							<a href="/view.php?catid=2323&print=1" class="word3" title="友善列印(將另開新視窗)" target="_brank">友善列印</a>　                    
+							</td>                  
+							</tr></table></form></div></td>
+    <td style="height:3px;">&nbsp;</td>
+</tr>
+<tr>
+		<td rowspan="2"  valign="top" class="lift_bar_photo" style="margin-top:0px; padding-top:0px;">
+		<!--左邊側欄-->
+		<div class="links" style="margin-top:0px; padding-top:0px;">			
+		<table border="0" cellpadding="0" cellspacing="0" summary="此為選單表格">	
+			<!--服務-->
+			<tr>
+				<td ><a href="sitemap.php" title="左方導覽區(引導使用網頁導覽器，前往左方選單區)" class="accesskey"  style=" font-size:xx-small;" accesskey="L" >:::</a>
+				<ul class="nice-menu nice-menu-right">					
+                        						<li class="menuparent" >
+                            <div class="bosom_bar_link" ><a href="view.php?catid=2"  class="bosom_bar_link" title="最新消息">最新消息</a>  	
+   
+                                                                <ul>	
+                                                                      <li class="menuparent" ><a href="view.php?catid=64" title="本場新聞" class="bosom_bar_link_03"  >本場新聞</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=33" title="近期活動" class="bosom_bar_link_03"  >近期活動</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=32" title="最新訊息" class="bosom_bar_link_03"  >最新訊息</a>
+
+                                                                  
+                                                                    </ul>                   
+                                                       
+                            </div>
+						</li>
+                        						<li class="menuparent" >
+                            <div class="bosom_bar_link" ><a href="view.php?catid=3"  class="bosom_bar_link" title="本場簡介">本場簡介</a>  	
+   
+                                                                <ul>	
+                                                                      <li class="menuparent" ><a href="view.php?catid=65" title="影音簡介" class="bosom_bar_link_03"  >影音簡介</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=66" title="沿革及任務" class="bosom_bar_link_03"  >沿革及任務</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=69" title="轄區農業環境" class="bosom_bar_link_03"  >轄區農業環境</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=70" title="組織及編制" class="bosom_bar_link_03"  >組織及編制</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=71" title="場長" class="bosom_bar_link_03"  >場長</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=544" title="本場位置" class="bosom_bar_link_03"  >本場位置</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=545" title="本場農場" class="bosom_bar_link_03"  >本場農場</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=51" title="通訊錄" class="bosom_bar_link_03"  >通訊錄</a>
+
+                                                                  
+                                                                    </ul>                   
+                                                       
+                            </div>
+						</li>
+                        						<li class="menuparent" >
+                            <div class="bosom_bar_link" ><a href="view.php?catid=4621"  class="bosom_bar_link" title="重大政策">重大政策</a>  	
+   
+                                                                <ul>	
+                                                                      <li class="menuparent" ><a href="http://www.coa.gov.tw/ws.php?id=19059" title="農業委員會重大政策" class="bosom_bar_link_03"  target="_blank"  >農業委員會重大政策</a>
+
+                                                                  
+                                                                    </ul>                   
+                                                       
+                            </div>
+						</li>
+                        						<li class="menuparent" >
+                            <div class="bosom_bar_link" ><a href="view.php?catid=4622"  class="bosom_bar_link" title="就業資訊">就業資訊</a>  	
+   
+                                                                <ul>	
+                                                                      <li class="menuparent" ><a href="http://www8.www.gov.tw/policy/2009career/page3-1.html" title="就業情報站" class="bosom_bar_link_03"  target="_blank"  >就業情報站</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="http://www.taiwanjobs.gov.tw/Internet/index/index.aspx" title="台灣就業通網站" class="bosom_bar_link_03"  target="_blank"  >台灣就業通網站</a>
+
+                                                                  
+                                                                    </ul>                   
+                                                       
+                            </div>
+						</li>
+                        						<li class="menuparent" >
+                            <div class="bosom_bar_link" ><a href="view.php?catid=5"  class="bosom_bar_link" title="出版品">出版品</a>  	
+   
+                                                                <ul>	
+                                                                      <li class="menuparent" ><a href="view.php?catid=562" title="年報" class="bosom_bar_link_03"  >年報</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=8013" title="研究彙報" class="bosom_bar_link_03"  >研究彙報</a>
+
+                                                                                    <ul>	
+                                                                                              <li class="menuparent" ><a href="view.php?catid=563" class="bosom_bar_link_03"  >研究彙報中文版</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=2269" class="bosom_bar_link_03"  >研究彙報英文摘要版</a>
+                                                                                        </ul>	
+	                                                              
+                                                                      <li class="menuparent" ><a href="view.php?catid=745" title="農業專訊" class="bosom_bar_link_03"  >農業專訊</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=693" title="農技報導" class="bosom_bar_link_03"  >農技報導</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=566" title="農情月刊" class="bosom_bar_link_03"  >農情月刊</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=1612" title="專刊" class="bosom_bar_link_03"  >專刊</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=1486" title="食譜專欄" class="bosom_bar_link_03"  >食譜專欄</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=7108" title="原味廚房" class="bosom_bar_link_03"  >原味廚房</a>
+
+                                                                                    <ul>	
+                                                                                              <li class="menuparent" ><a href="view.php?catid=7922" class="bosom_bar_link_03"  >野菜料理家庭食譜</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=7168" class="bosom_bar_link_03"  >山蘇</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=7172" class="bosom_bar_link_03"  >馬告</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=7177" class="bosom_bar_link_03"  >過溝菜蕨</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=7197" class="bosom_bar_link_03"  >樹豆</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=7202" class="bosom_bar_link_03"  >刺蔥</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=7209" class="bosom_bar_link_03"  >黃麻</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=7211" class="bosom_bar_link_03"  >馬齒莧</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=7214" class="bosom_bar_link_03"  >香椿</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=7543" class="bosom_bar_link_03"  >麵包果</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=7158" class="bosom_bar_link_03"  >山苦瓜</a>
+                                                                                        </ul>	
+	                                                              
+                                                                      <li class="menuparent" ><a href="view.php?catid=569" title="已停刊" class="bosom_bar_link_03"  >已停刊</a>
+
+                                                                                    <ul>	
+                                                                                              <li class="menuparent" ><a href="view.php?catid=810" class="bosom_bar_link_03"  >推廣簡訊</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=811" class="bosom_bar_link_03"  >農情資訊</a>
+                                                                                        </ul>	
+	                                                              
+                                                                      <li class="menuparent" ><a href="view.php?catid=3694" title="出版品銷售資訊" class="bosom_bar_link_03"  >出版品銷售資訊</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=751" title="宣導資料" class="bosom_bar_link_03"  >宣導資料</a>
+
+                                                                  
+                                                                    </ul>                   
+                                                       
+                            </div>
+						</li>
+                        						<li class="menuparent" >
+                            <div class="bosom_bar_link" ><a href="view.php?catid=4"  class="bosom_bar_link" title="研究成果">研究成果</a>  	
+   
+                                                                <ul>	
+                                                                      <li class="menuparent" ><a href="bred_list.php" title="育成品種" class="bosom_bar_link_03"  >育成品種</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="autho_list.php" title="技術授權" class="bosom_bar_link_03"  >技術授權</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=548" title="歷年研究成果發表" class="bosom_bar_link_03"  >歷年研究成果發表</a>
+
+                                                                  
+                                                                    </ul>                   
+                                                       
+                            </div>
+						</li>
+                        						<li class="menuparent" >
+                            <div class="bosom_bar_link" ><a href="view.php?catid=4915"  class="bosom_bar_link" title="原鄉部落">原鄉部落</a>  	
+   
+                                                                <ul>	
+                                                                      <li class="menuparent" ><a href="view.php?catid=6056" title="新聞" class="bosom_bar_link_03"  >新聞</a>
+
+                                                                                    <ul>	
+                                                                                              <li class="menuparent" ><a href="view.php?catid=4916" class="bosom_bar_link_03"  >新聞稿</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=5051" class="bosom_bar_link_03"  >媒體報導</a>
+                                                                                        </ul>	
+	                                                              
+                                                                      <li class="menuparent" ><a href="view.php?catid=4917" title="活動" class="bosom_bar_link_03"  >活動</a>
+
+                                                                                    <ul>	
+                                                                                              <li class="menuparent" ><a href="view.php?catid=4927" class="bosom_bar_link_03"  >近期活動</a>
+                                                                                        </ul>	
+	                                                              
+                                                                      <li class="menuparent" ><a href="view.php?catid=7679" title="行動教室" class="bosom_bar_link_03"  >行動教室</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=4918" title="出版品" class="bosom_bar_link_03"  >出版品</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=6066" title="教學影片" class="bosom_bar_link_03"  >教學影片</a>
+
+                                                                                    <ul>	
+                                                                                              <li class="menuparent" ><a href="view.php?catid=6067" class="bosom_bar_link_b"  >原住民特色作物管理班(6月24日至6月26日)</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=7534" class="bosom_bar_link_b"  >部落特色作物栽培管理班(10月20日至10月22日)</a>
+                                                                                        </ul>	
+	                                                              
+                                                                    </ul>                   
+                                                       
+                            </div>
+						</li>
+                        						<li class="menuparent" >
+                            <div class="bosom_bar_link" ><a href="view.php?catid=63"  class="bosom_bar_link" title="網路資源">網路資源</a>  	
+   
+                                                                <ul>	
+                                                                      <li class="menuparent" ><a href="view.php?catid=1079" title="政府相關" class="bosom_bar_link_03"  >政府相關</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=1080" title="農業相關" class="bosom_bar_link_03"  >農業相關</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=1092" title="生活資訊" class="bosom_bar_link_03"  >生活資訊</a>
+
+                                                                  
+                                                                    </ul>                   
+                                                       
+                            </div>
+						</li>
+                        						<li class="menuparent" >
+                            <div class="bosom_bar_link" ><a href="view.php?catid=7"  class="bosom_bar_link" title="招標及公告">招標及公告</a>  	
+   
+                                                                <ul>	
+                                                                      <li class="menuparent" ><a href="view.php?catid=525" title="招標資訊" class="bosom_bar_link_03"  >招標資訊</a>
+
+                                                                                    <ul>	
+                                                                                              <li class="menuparent" ><a href="view.php?catid=1658" class="bosom_bar_link_03"  >最新招標資訊</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=1660" class="bosom_bar_link_03"  >歷史招標資訊</a>
+                                                                                        </ul>	
+	                                                              
+                                                                      <li class="menuparent" ><a href="view.php?catid=526" title="技轉公告" class="bosom_bar_link_03"  >技轉公告</a>
+
+                                                                                    <ul>	
+                                                                                              <li class="menuparent" ><a href="view.php?catid=1783" class="bosom_bar_link_03"  >最新公告資訊</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=1784" class="bosom_bar_link_03"  >歷史公告資訊</a>
+                                                                                        </ul>	
+	                                                              
+                                                                    </ul>                   
+                                                       
+                            </div>
+						</li>
+                        						<li class="menuparent" >
+                            <div class="bosom_bar_link" ><a href="view.php?catid=12"  class="bosom_bar_link" title="休閒樂活專區">休閒樂活專區</a>  	
+   
+                                                                <ul>	
+                                                                      <li class="menuparent" ><a href="http://www.hdares.gov.tw/map_show.php" title="花宜地區休閒導覽" class="bosom_bar_link_03"  >花宜地區休閒導覽</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=4997" title="「花宜農情WAY」APP" class="bosom_bar_link_03"  >「花宜農情WAY」APP</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=6204" title="探訪富麗有機樂活聚落" class="bosom_bar_link_03"  >探訪富麗有機樂活聚落</a>
+
+                                                                  
+                                                                    </ul>                   
+                                                       
+                            </div>
+						</li>
+                        						<li class="menuparent" >
+                            <div class="bosom_bar_link" ><a href="view.php?catid=8788"  class="bosom_bar_link" title="六級化產業">六級化產業</a>  	
+   
+                                                                <ul>	
+                                                                      <li class="menuparent" ><a href="view.php?catid=8789" title="新聞" class="bosom_bar_link_03"  >新聞</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=8790" title="活動" class="bosom_bar_link_03"  >活動</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=8791" title="食譜" class="bosom_bar_link_03"  >食譜</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=8798" title="產地&#39184;桌據點" class="bosom_bar_link_b"  >產地&#39184;桌據點</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=8794" title="技術研發" class="bosom_bar_link_03"  >技術研發</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=8795" title="出版品" class="bosom_bar_link_03"  >出版品</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=8796" title="其他相關平台" class="bosom_bar_link_03"  >其他相關平台</a>
+
+                                                                  
+                                                                    </ul>                   
+                                                       
+                            </div>
+						</li>
+                        						<li class="menuparent" >
+                            <div class="bosom_bar_link" ><a href="view.php?catid=4992"  class="bosom_bar_link" title="本場影音">本場影音</a>  	
+   
+                                                                <ul>	
+                                                                      <li class="menuparent" ><a href="view.php?catid=5577" title="本場影音" class="bosom_bar_link_03"  >本場影音</a>
+
+                                                                                    <ul>	
+                                                                                              <li class="menuparent" ><a href="view.php?catid=5717" class="bosom_bar_link_b"  >花蓮區農業改良場70週年紀念專輯</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=5634" class="bosom_bar_link_03"  >歷年試驗研究發表</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=5623" class="bosom_bar_link_b"  >東部有機樂活廊道研討會專刊</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=5608" class="bosom_bar_link_b"  >2012年有機農業研究團隊研發成果研討會</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=5591" class="bosom_bar_link_b"  >原住民農耕、文化復興與永續經營研討會</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=5579" class="bosom_bar_link_b"  >從種苗到觀光-蘭花產業多元應用與開發研討會</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=5578" class="bosom_bar_link_b"  >彈性雲端工具應用示範系列課程</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=5987" class="bosom_bar_link_b"  >2014有機農產加工技術暨產業發展研討會</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=6347" class="bosom_bar_link_b"  >104年度富麗有機樂活聚落環境教育研習</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=6636" class="bosom_bar_link_b"  >104 年度富麗有機樂活聚落環境教育研習</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=7413" class="bosom_bar_link_b"  >與自然和諧共生的農村發展:生態農業與里山倡議國際研討會--Rural Development in Harmony with Nature:The First international Conference of Ecoagriculture and Satoyama lnitiative, Taiwan</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=8750" class="bosom_bar_link_03"  >微電影專區</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=8823" class="bosom_bar_link_b"  >原鄉特色作物與傳統文化產業創新發展國際研討會The lnternational Conference of lndigenous Crops and Traditional Culture lndustry Development</a>
+                                                                                        </ul>	
+	                                                              
+                                                                      <li class="menuparent" ><a href="https://www.flickr.com/photos/115614246@N07/" title="本場相簿" class="bosom_bar_link_03"  target="_blank"  >本場相簿</a>
+
+                                                                  
+                                                                    </ul>                   
+                                                       
+                            </div>
+						</li>
+                        						<li class="menuparent" >
+                            <div class="bosom_bar_link" ><a href="http://web.hdares.gov.tw/hdais_weboffice/login_main.asp" class="bosom_bar_link_03" title="同仁專區-將另開新視窗" target="_blank">同仁專區</a>  	
+   
+                                                       
+                            </div>
+						</li>
+                        						<li class="menuparent" >
+                            <div class="bosom_bar_link" ><a href="view.php?catid=5108"  class="bosom_bar_link" title="農民學院教學影片">農民學院教學影片</a>  	
+   
+                                                                <ul>	
+                                                                      <li class="menuparent" ><a href="view.php?catid=5109" title="103年度農民學院" class="bosom_bar_link_03"  >103年度農民學院</a>
+
+                                                                                    <ul>	
+                                                                                              <li class="menuparent" ><a href="view.php?catid=5110" class="bosom_bar_link_03"  >入門班</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=5112" class="bosom_bar_link_03"  >進階班</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=5113" class="bosom_bar_link_03"  >高階班</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=6187" class="bosom_bar_link_03"  >回娘家</a>
+                                                                                        </ul>	
+	                                                              
+                                                                      <li class="menuparent" ><a href="view.php?catid=5776" title="硬質玉米栽培管理" class="bosom_bar_link_03"  >硬質玉米栽培管理</a>
+
+                                                                  
+                                                                      <li class="menuparent" ><a href="view.php?catid=6171" title="104年度農民學院" class="bosom_bar_link_03"  >104年度農民學院</a>
+
+                                                                                    <ul>	
+                                                                                              <li class="menuparent" ><a href="view.php?catid=6644" class="bosom_bar_link_03"  >入門班</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=6753" class="bosom_bar_link_03"  >初階班</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=7124" class="bosom_bar_link_03"  >進階班</a>
+                                                                                        </ul>	
+	                                                              
+                                                                      <li class="menuparent" ><a href="view.php?catid=8479" title="105年度農民學院" class="bosom_bar_link_03"  >105年度農民學院</a>
+
+                                                                                    <ul>	
+                                                                                              <li class="menuparent" ><a href="view.php?catid=8480" class="bosom_bar_link_03"  >初階班</a>
+                                                                                              <li class="menuparent" ><a href="view.php?catid=8482" class="bosom_bar_link_03"  >進階選修班</a>
+                                                                                        </ul>	
+	                                                              
+                                                                    </ul>                   
+                                                       
+                            </div>
+						</li>
+                        						<li class="menuparent" >
+                            <div class="bosom_bar_link" ><a href="eng/show_index.php" class="bosom_bar_link_03" title="English" target="_self">English</a>  	
+   
+                                                       
+                            </div>
+						</li>
+                        
+				  </ul>
+				</td>
+			</tr>
+			<!--相關服務-->
+			<tr>
+				<td class="links_link">	
+					<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#E8ECDD" summary="此為網站首頁選單表格">
+						<tr> 
+							<td class="links_link0" title="相關服務"></td>
+						</tr>
+						<tr> 
+							<td >
+							<div class="bosom_bar_link_02">
+														
+							<a href="view.php?catid=22" title="服務流程" class="bosom_bar_link_02" target="_self">服務流程</a>
+														
+							<a href="view.php?catid=3694" title="出版品銷售服務" class="bosom_bar_link_02" target="_self">出版品銷售服務</a>
+														
+							<a href="view.php?catid=23" title="農民服務站" class="bosom_bar_link_02" target="_self">農民服務站</a>
+														
+							<a href="view.php?catid=27" title="農業氣象" class="bosom_bar_link_02" target="_self">農業氣象</a>
+														
+							<a href="view.php?catid=30" title="病蟲害預測" class="bosom_bar_link_02" target="_self">病蟲害預測</a>
+														
+							<a href="view.php?catid=4045" title="土壤植體分析報告" class="bosom_bar_link_02" target="_self">土壤植體分析報告</a>
+														
+							<a href="member.php" title="會員專區" class="bosom_bar_link_02" target="_self">會員專區</a>
+														
+							<a href="view.php?catid=1" title="常見問題(FAQ)" class="bosom_bar_link_02" target="_self">常見問題(FAQ)</a>
+														
+							<a href="view.php?catid=9" title="相關表格下載" class="bosom_bar_link_02" target="_self">相關表格下載</a>
+														
+							<a href="view.php?catid=8" title="線上服務" class="bosom_bar_link_02" target="_self">線上服務</a>
+														</div>		
+							</td>		
+						</tr>		
+					</table>
+					<table width="100%" style="border:#E8ECDD 1px solid;" border="0" align="center" cellpadding="0" cellspacing="0" summary="此為網站排版">
+                      <tr>
+                        <td align="center"><a href="view.php?catid=4997" title="「花宜農情WAY」APP" class="bosom" >「花宜農情WAY」APP</a>
+                        <img src="images_default/android.bmp" alt="Android版" title="Android版" width="100" ><br><span style="font-size:12px;"><a href="https://play.google.com/store/apps/details?id=tw.gov.moa.hdares.hytour" title="Android版-將另開新視窗" target="_blank" class="link2">Android版</a></span>
+                        </td>
+	                  </tr>
+                      <tr>
+                        <td align="center" style="border-top:#E8ECDD 1px solid;">
+                        <img src="images_default/ios.bmp" alt="iOS版" title="iOS版" width="100" style="padding-top:5px;"><br><span style="font-size:12px;"><a href="https://itunes.apple.com/us/app/hua-yi-nong-qingway/id764929887?ls=1&mt=8" title="iOS版-將另開新視窗" target="_blank" class="link2">iOS版</a></span>
+                        </td>
+	                  </tr>
+                    </table>
+				</td>
+			</tr>
+		</table> 
+		</div>
+	</td>
+    <td height="3" style="height:3px;" >&nbsp;</td>
+</tr>
+<tr>
+		<td width="81%" valign="top" bgcolor="#FFFFFF">
+		<table width="100%" height="650" border="0" align="center" cellpadding="0" cellspacing="0" summary="此為網站首頁表格">
+			<tr>
+				<td align="left" valign="top">
+				<table width="100%" border="0" cellpadding="0" cellspacing="0" background="images_default/style1/coa_23.jpg" summary="此為網站內容表格">
+										<!--現在位置-->
+					<tr>
+						<td>
+							<table width="100%" border="0" cellpadding="0" cellspacing="0" summary="此為站內搜尋表格"   background="images_default/style1/coa_24.jpg">
+							<tr>
+							<td height="1" colspan="2"></td>
+							</tr>
+							<tr>
+							<td width="1%"><a href="sitemap.php" title="主要內容區" class="accesskey" accesskey="C" >:::</a></td>
+							<td><a href="show_index.php" title="首頁" class="link2">首頁</a> / <a href="view.php?catid=53" title="政府資訊公開" class="link2">政府資訊公開</a> / <a href="view.php?catid=54" title="本場資訊公開" class="link2">本場資訊公開</a> / <span class="link2">預算及決算書</span></td>
+							</tr>
+							</table>
+						</td>
+					</tr>
+										<tr>
+						<td height="29" align="right" valign="middle" background="images_default/style1/coa_41.jpg">
+							<table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+							<tr>
+							<td width="1%" bgcolor="#7CDC07"></td>
+							<td align="left" class="word1">預算及決算書</td>
+							</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+                
+				<br>
+
+				<table width="100%"  border="0">
+					<tr>
+						<td><!-- InstanceBeginEditable name="EditRegion1" -->
+					
+                    
+	                    <table width="98%" border="0" align="center" cellpadding="0" cellspacing="0" summary="表格內文排版用">
+							<tr>
+								<td height="5" align="right">
+						</td>
+							</tr>							
+							<tr>
+								<td class="word4">
+								<h2 style="LINE-HEIGHT: 32px">
+<a  title="
+PDF檔下戴 將另開新視窗"  href="/htmlarea_file/web_articles/hdais/2027/104-accounts.pdf" target="_blank"></a>預算及決算書</h2><p>
+本場隸屬於行政院農業委員會，依據其施政計畫，以「健康、效率、樂活、永續經營」全民農業為施政方針，以提供優質安全的農產品、自然舒適的休閒農業、和諧永續的生態環境，提高國人生活品質為願景，並針對當前社會狀況以及花蓮宜蘭地區農業未來發展需要，編定施政計畫以及執行預算，各年預算總說明如附件。</p><div class="field-label">
+附件：</div><div class="field-label">
+</div><div class="field-label">
+</div><div class="field-label">
+<a  title="
+106年度預算-excel檔OTHER檔下戴 將另開新視窗"  href="/htmlarea_file/web_articles/hdais/2027/106-legal-excel.rar" target="_blank">
+106年度預算-excel檔</a>&nbsp;<a title="rar 檔下載(72.96KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/106-legal-excel.rar" target="_blank"><img  border="0" alt=" rar 檔下載(72.96KB) 將另開新視窗" title=" rar 檔下載(72.96KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/106-legal-word.rar" target="_blank"title="
+106年度預算-word檔OTHER檔下戴 將另開新視窗">
+106年度預算-word檔</a>&nbsp;<a title="rar 檔下載(110.36KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/106-legal-word.rar" target="_blank"><img  border="0" alt=" rar 檔下載(110.36KB) 將另開新視窗" title=" rar 檔下載(110.36KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/106-legal-xml.rar" target="_blank"title="
+106年度預算-xml檔OTHER檔下戴 將另開新視窗">
+106年度預算-xml檔</a>&nbsp;<a title="rar 檔下載(21.23KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/106-legal-xml.rar" target="_blank"><img  border="0" alt=" rar 檔下載(21.23KB) 將另開新視窗" title=" rar 檔下載(21.23KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/106-legal.pdf" target="_blank"title="
+106年度預算PDF檔下戴 將另開新視窗">
+106年度預算</a>&nbsp;<a title="pdf 檔下載(5.62MB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/106-legal.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(5.62MB) 將另開新視窗" title=" pdf 檔下載(5.62MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></div><div class="field-label">
+<a  title="
+105年9月份會計月報OTHER檔下戴 將另開新視窗"  href="/htmlarea_file/web_articles/hdais/2027/10509-legal.rar" target="_blank">
+105年9月份會計月報</a>&nbsp;<a title="rar 檔下載(670.33KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/10509-legal.rar" target="_blank"><img border="0" alt=" rar 檔下載(670.33KB) 將另開新視窗" title=" rar 檔下載(670.33KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a  href="/htmlarea_file/web_articles/hdais/2027/10508-legal.rar" target="_blank"title="
+105年8月份會計月報OTHER檔下戴 將另開新視窗">
+105年8月份會計月報</a>&nbsp;<a title="rar 檔下載(682.62KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/10508-legal.rar" target="_blank"><img  border="0" alt=" rar 檔下載(682.62KB) 將另開新視窗" title=" rar 檔下載(682.62KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/10507-legal.rar" target="_blank"title="
+105年7月份會計月報OTHER檔下戴 將另開新視窗">
+105年7月份會計月報</a>&nbsp;<a href="/htmlarea_file/web_articles/hdais/2027/10507-legal.rar" target="_blank"><img  border="0" alt=" rar 檔下載(675.97KB) 將另開新視窗" title=" rar 檔下載(675.97KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/10506-legal.rar" target="_blank"title="
+105年6月份會計月報OTHER檔下戴 將另開新視窗">
+105年6月份會計月報</a>&nbsp;<a title="rar 檔下載(672.78KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/10506-legal.rar" target="_blank"><img  border="0" alt=" rar 檔下載(672.78KB) 將另開新視窗" title=" rar 檔下載(672.78KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/10505-legal.rar" target="_blank"title="
+105年5月份會計月報OTHER檔下戴 將另開新視窗">
+105年5月份會計月報</a>&nbsp;<a title="rar 檔下載(670.41KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/10505-legal.rar" target="_blank"><img  border="0" alt=" rar 檔下載(670.41KB) 將另開新視窗" title=" rar 檔下載(670.41KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/10504-BalanceSheet.rar" target="_blank"title="
+105年4月份會計月報平衡表OTHER檔下戴 將另開新視窗">
+105年4月份會計月報平衡表</a>&nbsp;<a title="rar 檔下載(56.87KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/10504-BalanceSheet.rar" target="_blank"><img  border="0" alt=" rar 檔下載(56.87KB) 將另開新視窗" title=" rar 檔下載(56.87KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/10504-legal.rar" target="_blank"title="
+105年4月份會計月報OTHER檔下戴 將另開新視窗">
+105年4月份會計月報</a>&nbsp;<a title="rar 檔下載(173.93KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/10504-legal.rar" target="_blank"><img  border="0" alt=" rar 檔下載(173.93KB) 將另開新視窗" title=" rar 檔下載(173.93KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/10503-BalanceSheet.rar" target="_blank"title="
+105年3月份會計月報平衡表OTHER檔下戴 將另開新視窗">
+105年3月份會計月報平衡表</a>&nbsp;<a title="rar 檔下載(56.51KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/10503-BalanceSheet.rar" target="_blank"><img  border="0" alt=" rar 檔下載(56.51KB) 將另開新視窗" title=" rar 檔下載(56.51KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/10503-legal.rar" target="_blank"title="
+105年3月份會計月報OTHER檔下戴 將另開新視窗">
+105年3月份會計月報</a>&nbsp;<a title="rar 檔下載(172.50KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/10503-legal.rar" target="_blank"><img  border="0" alt=" rar 檔下載(172.50KB) 將另開新視窗" title=" rar 檔下載(172.50KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/10502-BalanceSheet.rar" target="_blank"title="
+105年2月份會計月報平衡表OTHER檔下戴 將另開新視窗">
+105年2月份會計月報平衡表</a>&nbsp;<a title="rar 檔下載(56.65KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/10502-BalanceSheet.rar" target="_blank"><img  border="0" alt=" rar 檔下載(56.65KB) 將另開新視窗" title=" rar 檔下載(56.65KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/105monthly-2.rar" target="_blank"title="
+105年2月份會計月報OTHER檔下戴 將另開新視窗">
+105年2月份會計月報</a>&nbsp;<a title="rar 檔下載(166.73KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/105monthly-2.rar" target="_blank"><img  border="0" alt=" rar 檔下載(166.73KB) 將另開新視窗" title=" rar 檔下載(166.73KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a  title="
+105年1月份會計月報平衡表OTHER檔下戴 將另開新視窗"  href="/htmlarea_file/web_articles/hdais/2027/10501-BalanceSheet.rar" target="_blank">
+105年1月份會計月報平衡表</a>&nbsp;<a title="rar 檔下載(57.06KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/10501-BalanceSheet.rar" target="_blank"><img  border="0" alt=" rar 檔下載(57.06KB) 將另開新視窗" title=" rar 檔下載(57.06KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a>&nbsp;<a href="/htmlarea_file/web_articles/hdais/2027/10501-BalanceSheet.rar" target="_blank"title="
+OTHER檔下戴 將另開新視窗"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/105monthly.rar" target="_blank"title="
+105年1月份會計月報OTHER檔下戴 將另開新視窗">
+105年1月份會計月報</a>&nbsp;<a title="rar 檔下載(166.13KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/105monthly.rar" target="_blank"><img  border="0" alt=" rar 檔下載(166.13KB) 將另開新視窗" title=" rar 檔下載(166.13KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/105-legal.pdf" target="_blank"title="
+105法定預算PDF檔下戴 將另開新視窗">
+105法定預算</a>&nbsp;<a title="pdf 檔下載(48.53MB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/105-legal.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(48.53MB) 將另開新視窗" title=" pdf 檔下載(48.53MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/105-legal-word.rar" target="_blank"title="
+105法定預算-wordOTHER檔下戴 將另開新視窗">
+105法定預算-word</a>&nbsp;<a title="rar 檔下載(106.12KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/105-legal-word.rar" target="_blank"><img  border="0" alt=" rar 檔下載(106.12KB) 將另開新視窗" title=" rar 檔下載(106.12KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/105-legal-excel.rar" target="_blank"title="
+105法定預算-excelOTHER檔下戴 將另開新視窗">
+105法定預算-excel</a>&nbsp;<a title="rar 檔下載(72.37KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/105-legal-excel.rar" target="_blank"><img  border="0" alt=" rar 檔下載(72.37KB) 將另開新視窗" title=" rar 檔下載(72.37KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/105-legal-xml.rar" target="_blank"title="
+105法定預算-xml檔OTHER檔下戴 將另開新視窗">
+105法定預算-xml檔</a>&nbsp;<a title="rar 檔下載(20.66KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/105-legal-xml.rar" target="_blank"><img  border="0" alt=" rar 檔下載(20.66KB) 將另開新視窗" title=" rar 檔下載(20.66KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/105budgt_word.rar" target="_blank"title="
+105年預算案word檔OTHER檔下戴 將另開新視窗">
+105年預算案word檔</a>&nbsp;<a title="rar 檔下載(93.88KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/105budgt_word.rar" target="_blank"><img  border="0" alt=" rar 檔下載(93.88KB) 將另開新視窗" title=" rar 檔下載(93.88KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/105budgt_xml.rar" target="_blank"title="
+105年預算案xml檔OTHER檔下戴 將另開新視窗">
+105年預算案xml檔</a>&nbsp;<a title="rar 檔下載(21.03KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/105budgt_xml.rar" target="_blank"><img  border="0" alt=" rar 檔下載(21.03KB) 將另開新視窗" title=" rar 檔下載(21.03KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/105budget_excel.rar" target="_blank"title="
+105年預算案excel檔OTHER檔下戴 將另開新視窗">
+105年預算案excel檔</a>&nbsp;<a title="rar 檔下載(73.07KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/105budget_excel.rar" target="_blank"><img  border="0" alt=" rar 檔下載(73.07KB) 將另開新視窗" title=" rar 檔下載(73.07KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/105budgt.pdf" target="_blank"title="
+105年預算案PDF檔下戴 將另開新視窗">
+105年預算案</a>&nbsp;<a href="/htmlarea_file/web_articles/hdais/2027/105budgt.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(12.44MB) 將另開新視窗" title=" pdf 檔下載(12.44MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></div><div class="field-label">
+<a  title="
+104年度決算PDF檔下戴 將另開新視窗"  href="/htmlarea_file/web_articles/hdais/2027/104-accounts.pdf" target="_blank">
+104年度決算</a>&nbsp;<a title="pdf 檔下載(43.17MB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/104-accounts.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(43.17MB) 將另開新視窗" title=" pdf 檔下載(43.17MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a></div><div class="field-label">
+<a  title="
+104年12月份會計月報OTHER檔下戴 將另開新視窗"  href="/htmlarea_file/web_articles/hdais/2027/10412-legal.rar" target="_blank">
+104年12月份會計月報</a>&nbsp;<a title="rar 檔下載(776.19KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/10412-legal.rar" target="_blank"><img  border="0" alt=" rar 檔下載(776.19KB) 將另開新視窗" title=" rar 檔下載(776.19KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/104-11-5118.rar" target="_blank"title="
+104年11月份會計月報OTHER檔下戴 將另開新視窗">
+104年11月份會計月報</a>&nbsp;<a href="/htmlarea_file/web_articles/hdais/2027/104-11-5118.rar" target="_blank"><img  border="0" alt=" rar 檔下載(6.33KB) 將另開新視窗" title=" rar 檔下載(6.33KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a>&nbsp;<a href="/htmlarea_file/web_articles/hdais/2027/104-11-5118.rar" target="_blank"title="
+OTHER檔下戴 將另開新視窗"></a></div><div class="field-label">
+<a  title="
+104年10月份會計月報OTHER檔下戴 將另開新視窗"  href="/htmlarea_file/web_articles/hdais/2027/104-10-5118.rar" target="_blank">
+104年10月份會計月報</a>&nbsp;<a title="rar 檔下載(5.92KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/104-10-5118.rar" target="_blank"><img  border="0" alt=" rar 檔下載(5.92KB) 將另開新視窗" title=" rar 檔下載(5.92KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/104-09-5118.rar" target="_blank"title="
+104年9月份會計月報OTHER檔下戴 將另開新視窗">
+104年9月份會計月報</a>&nbsp;<a title="rar 檔下載(5.78KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/104-09-5118.rar" target="_blank"><img  border="0" alt=" rar 檔下載(5.78KB) 將另開新視窗" title=" rar 檔下載(5.78KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/104-08-5118-20150915085714.zip" target="_blank"title="
+104年8月份會計月報ZIP檔下戴 將另開新視窗">
+104年8月份會計月報</a>&nbsp;<a title="zip 檔下載(6.03KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/104-08-5118-20150915085714.zip" target="_blank"><img  border="0" alt=" zip 檔下載(6.03KB) 將另開新視窗" title=" zip 檔下載(6.03KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/zip_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/104-07.zip" target="_blank"title="
+104年7月份會計月報ZIP檔下戴 將另開新視窗">
+104年7月份會計月報</a>&nbsp;<a href="/htmlarea_file/web_articles/hdais/2027/104-07.zip" target="_blank"><img  border="0" alt=" zip 檔下載(5.33KB) 將另開新視窗" title=" zip 檔下載(5.33KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/zip_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/10406-20150721165651.zip" target="_blank"title="
+104年6月份會計月報ZIP檔下戴 將另開新視窗">
+104年6月份會計月報</a>&nbsp;<a href="/htmlarea_file/web_articles/hdais/2027/10406-20150721165651.zip" target="_blank"><img  border="0" alt=" zip 檔下載(6.16KB) 將另開新視窗" title=" zip 檔下載(6.16KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/zip_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/10405-20150721165255.zip" target="_blank"title="
+104年5月份會計月報ZIP檔下戴 將另開新視窗">
+104年5月份會計月報</a>&nbsp;<a title="zip 檔下載(6.13KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/10405-20150721165255.zip" target="_blank"><img  border="0" alt=" zip 檔下載(6.13KB) 將另開新視窗" title=" zip 檔下載(6.13KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/zip_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/10404-20150721165006.zip" target="_blank"title="
+104年4月份會計月報ZIP檔下戴 將另開新視窗">
+104年4月份會計月報</a>&nbsp;<a title="zip 檔下載(6.11KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/10404-20150721165006.zip" target="_blank"><img  border="0" alt=" zip 檔下載(6.11KB) 將另開新視窗" title=" zip 檔下載(6.11KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/zip_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/10403-20150721164724.zip" target="_blank"title="
+104年3月份會計月報ZIP檔下戴 將另開新視窗">
+104年3月份會計月報</a>&nbsp;<a title="zip 檔下載(6.19KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/10403-20150721164724.zip" target="_blank"><img  border="0" alt=" zip 檔下載(6.19KB) 將另開新視窗" title=" zip 檔下載(6.19KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/zip_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/10402-20150721164447.zip" target="_blank"title="
+104年2月份會計月報ZIP檔下戴 將另開新視窗">
+104年2月份會計月報</a>&nbsp;<a title="zip 檔下載(5.64KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/10402-20150721164447.zip" target="_blank"><img  border="0" alt=" zip 檔下載(5.64KB) 將另開新視窗" title=" zip 檔下載(5.64KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/zip_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/104-20150721164144.zip" target="_blank"title="
+104年1月份會計月報ZIP檔下戴 將另開新視窗">
+104年1月份會計月報</a>&nbsp;<a title="zip 檔下載(5.38KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/104-20150721164144.zip" target="_blank"><img  border="0" alt=" zip 檔下載(5.38KB) 將另開新視窗" title=" zip 檔下載(5.38KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/zip_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/104-XML_2.zip" target="_blank"title="
+104年度預算案XMLZIP檔下戴 將另開新視窗">
+104年度預算案XML</a>&nbsp;<a title="zip 檔下載(19.09KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/104-XML_2.zip" target="_blank"><img  border="0" alt=" zip 檔下載(19.09KB) 將另開新視窗" title=" zip 檔下載(19.09KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/zip_small.gif"></a>&nbsp;<a href="/htmlarea_file/web_articles/hdais/2027/104-XML_2.zip" target="_blank"title="
+ZIP檔下戴 將另開新視窗"></a></a>
+<br>
+<a href="/htmlarea_file/web_articles/hdais/2027/104_0305word.rar" target="_blank"title="
+104年度預算案word檔OTHER檔下戴 將另開新視窗">
+104年度預算案word檔</a>&nbsp;<a title="rar 檔下載(98.00KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/104_0305word.rar" target="_blank"><img  border="0" alt=" rar 檔下載(98.00KB) 將另開新視窗" title=" rar 檔下載(98.00KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a><br>
+<a href="/htmlarea_file/web_articles/hdais/2027/104_0305excel.rar" target="_blank"title="
+104年度預算案excel檔OTHER檔下戴 將另開新視窗">
+104年度預算案excel檔</a>&nbsp;<a href="/htmlarea_file/web_articles/hdais/2027/104_0305excel.rar" target="_blank"><img  border="0" alt=" rar 檔下載(70.30KB) 將另開新視窗" title=" rar 檔下載(70.30KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a><br>
+<a href="/htmlarea_file/web_articles/hdais/2027/104_XML.rar" target="_blank"title="
+104年度法定預算XMLOTHER檔下戴 將另開新視窗">
+104年度法定預算XML</a>&nbsp;<a href="/htmlarea_file/web_articles/hdais/2027/104_XML.rar" target="_blank"><img  border="0" alt=" rar 檔下載(20.89KB) 將另開新視窗" title=" rar 檔下載(20.89KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a><br>
+<a href="/htmlarea_file/web_articles/hdais/2027/104_word.rar" target="_blank"title="
+104年度法定預算word檔OTHER檔下戴 將另開新視窗">
+104年度法定預算word檔</a>&nbsp;<a title="rar 檔下載(98.00KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/104_word.rar" target="_blank"><img  border="0" alt=" rar 檔下載(98.00KB) 將另開新視窗" title=" rar 檔下載(98.00KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a><br>
+<a href="/htmlarea_file/web_articles/hdais/2027/104_excel.rar" target="_blank"title="
+104年度法定預算excel檔OTHER檔下戴 將另開新視窗">
+104年度法定預算excel檔</a>&nbsp;<a title="rar 檔下載(70.47KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/104_excel.rar" target="_blank"><img  border="0" alt=" rar 檔下載(70.47KB) 將另開新視窗" title=" rar 檔下載(70.47KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/rar_small.gif"></a><br>
+<a href="/htmlarea_file/web_articles/hdais/2027/104_00.pdf" target="_blank"title="
+104年度法定預算PDF檔下戴 將另開新視窗">
+104年度法定預算</a>&nbsp;<a title="pdf 檔下載(41.83MB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/104_00.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(41.83MB) 將另開新視窗" title=" pdf 檔下載(41.83MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a><br>
+<a href="/htmlarea_file/web_articles/hdais/2027/104_1.pdf" target="_blank"title="
+104年度預算案PDF檔下戴 將另開新視窗">
+104年度預算案</a>&nbsp;<a title="pdf 檔下載(16.00MB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/104_1.pdf" target="_blank"><img  border="0" alt=" pdf 檔下載(16.00MB) 將另開新視窗" title=" pdf 檔下載(16.00MB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/pdf_small.gif"></a><br>
+<a  title="
+103年度決算ZIP檔下戴 將另開新視窗"  href="/htmlarea_file/web_articles/hdais/2027/103-20150721163617.zip" target="_blank">
+103年度決算</a>&nbsp;<a title="zip 檔下載(6.20KB) 將另開新視窗" href="/htmlarea_file/web_articles/hdais/2027/103-20150721163617.zip" target="_blank"><img  border="0" alt=" zip 檔下載(6.20KB) 將另開新視窗" title=" zip 檔下載(6.20KB) 將另開新視窗" src="htmlarea_rc1/plugins/InsertFile/img/ext/zip_small.gif"></a></div><div class="field-label">
+<a href="/htmlarea_file/web_articles/hdais/2027/103_2.pdf" target="_blank"title="
+103年度決算PDF檔下戴 將另開新視窗">
+103年度決算</a><br>
+<a href="/htmlarea_file/web_articles/hdais/2027/103_00.pdf" target="_blank"title="
+103年度法定預算PDF檔下戴 將另開新視窗">
+103年度法定預算</a><br>
+<a  title="
+102年度決算PDF檔下戴 將另開新視窗"  href="/htmlarea_file/web_articles/hdais/2027/102_00.pdf" target="_blank">
+102年度決算</a><br>
+<a  title="
+102年度預算PDF檔下戴 將另開新視窗"  href="/htmlarea_file/web_articles/hdais/2027/102.pdf" target="_blank">
+102年度預算</a><br>
+<a  title="
+101年度決算PDF檔下戴 將另開新視窗"  href="/htmlarea_file/web_articles/hdais/2027/101_3.pdf" target="_blank">
+101年度決算</a><br>
+<a  title="
+101年度預算PDF檔下戴 將另開新視窗"  href="http://www.hdares.gov.tw/htmlarea_file/web_articles/hdais/2027/101_1.pdf" target="_blank">
+101年度預算</a> <br>
+<a  title="
+100年度決算PDF檔下戴 將另開新視窗"  href="http://www.hdares.gov.tw/htmlarea_file/web_articles/hdais/2027/101_2.pdf" target="_blank">
+100年度決算</a> <br>
+<a  title="
+100年度預算PDF檔下戴 將另開新視窗"  href="http://www.hdares.gov.tw/htmlarea_file/web_articles/hdais/2027/1000303_1.pdf" type="application/pdf; length=6168786" target="_blank">
+100年度預算</a> <br>
+<a  title="
+99年度決算PDF檔下戴 將另開新視窗"  href="http://www.hdares.gov.tw/htmlarea_file/web_articles/hdais/2027/99_2.pdf" type="application/pdf; length=4295393" target="_blank">
+99年度決算</a> <br>
+<a  title="
+99 年度預算PDF檔下戴 將另開新視窗"  href="http://www.hdares.gov.tw/htmlarea_file/web_articles/hdais/2027/99_1.pdf" type="application/pdf; length=23047659" target="_blank">
+99 年度預算</a> <br>
+<a  title="
+98年度決算PDF檔下戴 將另開新視窗"  href="http://www.hdares.gov.tw/htmlarea_file/web_articles/hdais/2027/98-1.pdf" type="application/pdf; length=14179916" target="_blank">
+98年度決算</a> <br>
+<a  title="
+98年度預算 PDF檔下戴 將另開新視窗"  href="http://www.hdares.gov.tw/htmlarea_file/web_articles/hdais/2027/980310.pdf" type="application/pdf; length=2436477" target="_blank">
+98年度預算 </a><br>
+<a  title="
+97年度決算 PDF檔下戴 將另開新視窗"  href="http://www.hdares.gov.tw/htmlarea_file/web_articles/hdais/2027/97-1.pdf" type="application/pdf; length=1836373" target="_blank">
+97年度決算 </a><br>
+<a  title="
+96年度決算PDF檔下戴 將另開新視窗"  href="http://www.hdares.gov.tw/htmlarea_file/web_articles/hdais/2027/96_2.pdf" type="application/pdf; length=15935530" target="_blank">
+96年度決算</a> </div><p>
+								
+								</td>
+							</tr>
+						</table>
+					
+					
+					
+					<!-- InstanceEndEditable --></td>
+					</tr>                
+				</table>
+				</td>
+			</tr>
+
+						<tr>
+				<td height="29" align="right" background="images_default/style1/coa_51.jpg">&nbsp;</td>
+			</tr>
+			<tr>
+				<td align="left" valign="top">
+				<table width="25%" border="0" align="right" cellpadding="0" cellspacing="0">
+					<tr>
+					<td align="right" class="images_top"><div align="left"><a href="#" title="TOP"><img src="images_default/style1/space.gif" alt="TOP" width="58" height="17" border="0"></a></div></td>
+					<td class="images_next"><div align="left"><a href="" title="回上一頁"><img img src="images_default/style1/space.gif"  alt="回上一頁" width="80" height="17" border="0"></a></div></td>
+					<td width="10%">&nbsp;</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<!--調寬度 -->
+			<tr>
+				<td valign="top"><img src="images_default/style1/space.gif" alt="" width="730" height="45"></td>
+			</tr>
+					</table>
+	</td>
+	<!--右邊側欄-->
+	<td valign="top">&nbsp;	</td>
+</tr>
+<tr>
+	<td colspan="3">
+		<!--footer-->
+		<div class="footer">
+		<!--footer區1-->	
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" summary="此為排版用的表格" >
+			<tr> 
+				<td align="center" class="footer_lin_down"><div id="fatfoot_set"><img id="bu_close_open" src="images_default/bu-close.png" alt="關閉"></div></td>
+			</tr>
+			<!---fatfootdata--str------------>
+            <tr id="footer_box" style="background-color:#E8E5D4;">
+            	<td>
+                  <div  class="footer-block01">
+                                         <dl>
+                        <dt><a href="view.php?catid=2" target="_self" title="最新消息">最新消息</a></dt>
+                                                    <dd><a href="view.php?catid=64" target="_self" title="本場新聞">本場新聞</a></dd>
+                                                    <dd><a href="view.php?catid=33" target="_self" title="近期活動">近期活動</a></dd>
+                                                    <dd><a href="view.php?catid=32" target="_self" title="最新訊息">最新訊息</a></dd>
+                                                                          
+                     </dl>
+                                         <dl>
+                        <dt><a href="view.php?catid=3" target="_self" title="本場簡介">本場簡介</a></dt>
+                                                    <dd><a href="view.php?catid=65" target="_self" title="影音簡介">影音簡介</a></dd>
+                                                    <dd><a href="view.php?catid=66" target="_self" title="沿革及任務">沿革及任務</a></dd>
+                                                    <dd><a href="view.php?catid=69" target="_self" title="轄區農業環境">轄區農業環境</a></dd>
+                                                    <dd><a href="view.php?catid=70" target="_self" title="組織及編制">組織及編制</a></dd>
+                                                    <dd><a href="view.php?catid=71" target="_self" title="場長">場長</a></dd>
+                                                                      
+                            <dd><a href="view.php?catid=3" target="_self" ><img class="space09" border="0" width="33" height="14" alt="更多本場簡介" title="更多本場簡介" src="images_default/button-more.gif"></a></dd>
+                                                  
+                     </dl>
+                                         <dl>
+                        <dt><a href="view.php?catid=4621" target="_self" title="重大政策">重大政策</a></dt>
+                                                    <dd><a href="http://www.coa.gov.tw/ws.php?id=19059" target="_blank" title="農業委員會重大政策-另開新視窗">農業委員會重大政策</a></dd>
+                                                                          
+                     </dl>
+                                         <dl>
+                        <dt><a href="view.php?catid=4622" target="_self" title="就業資訊">就業資訊</a></dt>
+                                                    <dd><a href="http://www8.www.gov.tw/policy/2009career/page3-1.html" target="_blank" title="就業情報站-另開新視窗">就業情報站</a></dd>
+                                                    <dd><a href="http://www.taiwanjobs.gov.tw/Internet/index/index.aspx" target="_blank" title="台灣就業通網站-另開新視窗">台灣就業通網站</a></dd>
+                                                                          
+                     </dl>
+                                         <dl>
+                        <dt><a href="view.php?catid=5" target="_self" title="出版品">出版品</a></dt>
+                                                    <dd><a href="view.php?catid=562" target="_self" title="年報">年報</a></dd>
+                                                    <dd><a href="view.php?catid=8013" target="_self" title="研究彙報">研究彙報</a></dd>
+                                                    <dd><a href="view.php?catid=745" target="_self" title="農業專訊">農業專訊</a></dd>
+                                                    <dd><a href="view.php?catid=693" target="_self" title="農技報導">農技報導</a></dd>
+                                                    <dd><a href="view.php?catid=566" target="_self" title="農情月刊">農情月刊</a></dd>
+                                                                      
+                            <dd><a href="view.php?catid=5" target="_self" ><img class="space09" border="0" width="33" height="14" alt="更多出版品" title="更多出版品" src="images_default/button-more.gif"></a></dd>
+                                                  
+                     </dl>
+                                         <dl>
+                        <dt><a href="view.php?catid=4" target="_self" title="研究成果">研究成果</a></dt>
+                                                    <dd><a href="bred_list.php" target="_self" title="育成品種">育成品種</a></dd>
+                                                    <dd><a href="autho_list.php" target="_self" title="技術授權">技術授權</a></dd>
+                                                    <dd><a href="view.php?catid=548" target="_self" title="歷年研究成果發表">歷年研究成果發表</a></dd>
+                                                                          
+                     </dl>
+                                         <dl>
+                        <dt><a href="view.php?catid=4915" target="_self" title="原鄉部落">原鄉部落</a></dt>
+                                                    <dd><a href="view.php?catid=6056" target="_self" title="新聞">新聞</a></dd>
+                                                    <dd><a href="view.php?catid=4917" target="_self" title="活動">活動</a></dd>
+                                                    <dd><a href="view.php?catid=7679" target="_self" title="行動教室">行動教室</a></dd>
+                                                    <dd><a href="view.php?catid=4918" target="_self" title="出版品">出版品</a></dd>
+                                                    <dd><a href="view.php?catid=6066" target="_self" title="教學影片">教學影片</a></dd>
+                                                                          
+                     </dl>
+                                         <dl>
+                        <dt><a href="view.php?catid=63" target="_self" title="網路資源">網路資源</a></dt>
+                                                    <dd><a href="view.php?catid=1079" target="_self" title="政府相關">政府相關</a></dd>
+                                                    <dd><a href="view.php?catid=1080" target="_self" title="農業相關">農業相關</a></dd>
+                                                    <dd><a href="view.php?catid=1092" target="_self" title="生活資訊">生活資訊</a></dd>
+                                                                          
+                     </dl>
+                                         <dl>
+                        <dt><a href="view.php?catid=7" target="_self" title="招標及公告">招標及公告</a></dt>
+                                                    <dd><a href="view.php?catid=525" target="_self" title="招標資訊">招標資訊</a></dd>
+                                                    <dd><a href="view.php?catid=526" target="_self" title="技轉公告">技轉公告</a></dd>
+                                                                          
+                     </dl>
+                                         <dl>
+                        <dt><a href="view.php?catid=12" target="_self" title="休閒樂活專區">休閒樂活專區</a></dt>
+                                                    <dd><a href="http://www.hdares.gov.tw/map_show.php" target="_self" title="花宜地區休閒導覽">花宜地區休閒導覽</a></dd>
+                                                    <dd><a href="view.php?catid=4997" target="_self" title="「花宜農情WAY」APP">「花宜農情WAY」APP</a></dd>
+                                                    <dd><a href="view.php?catid=6204" target="_self" title="探訪富麗有機樂活聚落">探訪富麗有機樂活聚落</a></dd>
+                                                                          
+                     </dl>
+                                         <dl>
+                        <dt><a href="view.php?catid=8788" target="_self" title="六級化產業">六級化產業</a></dt>
+                                                    <dd><a href="view.php?catid=8789" target="_self" title="新聞">新聞</a></dd>
+                                                    <dd><a href="view.php?catid=8790" target="_self" title="活動">活動</a></dd>
+                                                    <dd><a href="view.php?catid=8791" target="_self" title="食譜">食譜</a></dd>
+                                                    <dd><a href="view.php?catid=8798" target="_self" title="產地&#39184;桌據點">產地&#39184;桌據點</a></dd>
+                                                    <dd><a href="view.php?catid=8794" target="_self" title="技術研發">技術研發</a></dd>
+                                                                      
+                            <dd><a href="view.php?catid=8788" target="_self" ><img class="space09" border="0" width="33" height="14" alt="更多六級化產業" title="更多六級化產業" src="images_default/button-more.gif"></a></dd>
+                                                  
+                     </dl>
+                                         <dl>
+                        <dt><a href="view.php?catid=4992" target="_self" title="本場影音">本場影音</a></dt>
+                                                    <dd><a href="view.php?catid=5577" target="_self" title="本場影音">本場影音</a></dd>
+                                                    <dd><a href="https://www.flickr.com/photos/115614246@N07/" target="_blank" title="花蓮區農業改良場-Flickr-另開新視窗">本場相簿</a></dd>
+                                                                          
+                     </dl>
+                                         <dl>
+                        <dt><a href="view.php?catid=21" target="_self" title="為民服務">為民服務</a></dt>
+                                                    <dd><a href="view.php?catid=22" target="_self" title="服務流程">服務流程</a></dd>
+                                                    <dd><a href="view.php?catid=3694" target="_self" title="出版品銷售服務">出版品銷售服務</a></dd>
+                                                    <dd><a href="view.php?catid=23" target="_self" title="農民服務站">農民服務站</a></dd>
+                                                    <dd><a href="view.php?catid=27" target="_self" title="農業氣象">農業氣象</a></dd>
+                                                    <dd><a href="view.php?catid=30" target="_self" title="病蟲害預測">病蟲害預測</a></dd>
+                                                                      
+                            <dd><a href="view.php?catid=21" target="_self" ><img class="space09" border="0" width="33" height="14" alt="更多為民服務" title="更多為民服務" src="images_default/button-more.gif"></a></dd>
+                                                  
+                     </dl>
+                                         <dl>
+                        <dt><a href="view.php?catid=5108" target="_self" title="農民學院教學影片">農民學院教學影片</a></dt>
+                                                    <dd><a href="view.php?catid=5109" target="_self" title="103年度農民學院">103年度農民學院</a></dd>
+                                                    <dd><a href="view.php?catid=5776" target="_self" title="硬質玉米栽培管理">硬質玉米栽培管理</a></dd>
+                                                    <dd><a href="view.php?catid=6171" target="_self" title="104年度農民學院">104年度農民學院</a></dd>
+                                                    <dd><a href="view.php?catid=8479" target="_self" title="105年度農民學院">105年度農民學院</a></dd>
+                                                                          
+                     </dl>
+                       
+                    <div class="clean"></div>
+                  </div>
+                </td>            
+            </tr>
+            <!---fatfootdata--end------------>            
+			<tr id="footer_box_lin"> 
+				<td class="footer_lin_downII"><div id="fatfoot_setII"></div></td>
+			</tr>
+		</table>
+		<!--footer區2-->		
+		<table width="100%" border="0" cellpadding="0" cellspacing="0" summary="此為宣告版權內容表格">
+			<tr> 				
+                <!--<td width="1%" rowspan="2">				
+				<a href="#"><img src="../images_default/style1/coa_15.jpg" alt="footer圖片"  border="0" /></a>                
+				</td>-->
+				<td width="1%" rowspan="2">
+					<div>
+					<div class="sub_left"><a href="#" class="photo_end"><img src="images_default/style1/space.gif" alt="預算及決算書 - 花蓮區農業改良場" width="340" height="80" border="0" /></a></div>
+					</div>
+				</td>
+				<td colspan="2">
+					<table width="20%" border="0" align="right" cellpadding="0" cellspacing="0">
+						<tr>
+							<td><a href="view.php?catid=2011" title="隱私權保護宣告" class="sub_link_01"></a></td>
+							<td><a href="view.php?catid=2012" title="資訊安全政策宣告" class="sub_link_02"></a></td>
+							<td><a href="view.php?catid=2013" title="網站著作權聲明" class="sub_link_04"></a></td>
+							<td><a href="view.php?catid=544" title="本會位置圖" class="sub_link_03"></a></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" valign="top">
+					<div class="word5">
+					<div align="left"><table border="0" align="left" cellpadding="0" cellspacing="0" summary="此為表格排版用">
+											<tr><td colspan="2"><table class="word5" border="0"  width="100%" align="left" cellpadding="0" cellspacing="0" summary="此為表格排版用" >
+<tr><td colspan="2" align="left">花蓮區農業改良場 &copy; 版權所有 2016 hdais All Rights Reserved<br>
+Copyright &copy; 本網站全部圖文係版權所有非經本場同意不得將全部或部分內容，轉載於任何形式媒體</td></tr>
+<tr><td valign="top">花蓮本場&nbsp;</td><td>地址：97365 花蓮縣吉安鄉吉安村吉安路二段150號 電話：+886-3-852-1108～10<br>傳真：+886-3-853-5902</td></tr>
+<tr><td valign="top">蘭陽分場&nbsp;</td><td>地址：26645 宜蘭縣三星鄉大義村上將路三段81巷6號 電話：+886-3-989-9707～08<br>傳真：+886-3-989-9313</td></tr>
+<tr><td colspan="2" align="left">電子郵件：hdais2@hdares.gov.tw &nbsp;&nbsp;最佳瀏覽 1024＊768 以上最佳解析度</td></tr>
+<tr><td colspan="2" align="left">本場服務專線<br>農業諮詢服務：0800-521-108&nbsp;&nbsp;&nbsp;&nbsp;作物病蟲害診斷：0800-069-880&nbsp;&nbsp;&nbsp;&nbsp;土壤及作物營養：+886-3-853-4914</td></tr>
+</table></td></tr>
+<td><div class="word5" align="left"><font color="#FF0000">本網站發表之所有文章，係為學術研究成果，不得引用於產品及食品之標示、宣傳及廣告。<br>若不當引用，應自負法律責任。</font></div></td>
+<td valign="top"><a href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20140429100433" target="_blank" title="無障礙網站(將另開新視窗)"><img src="images_style/aplus.jpg" border="0" width="88" height="31" alt="通過A+優先等級無障礙網頁檢測(將另開新視窗)"></a></td></tr></table></div>
+					</div>
+				</td>
+			</tr>
+		</table>
+		</div>
+	</td>
+</tr>
+</table>
+</BODY>
+<!-- InstanceEnd --></HTML>

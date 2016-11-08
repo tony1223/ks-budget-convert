@@ -1,0 +1,727 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh-TW">
+<head>
+<meta name="Accessible_website" content="本網站通過第(1)優先等級無障礙網頁檢測">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="Content-Type" content="text/html; charset=big5" />
+<title>臺灣南投地方法院 : 首頁  &gt; 認識本院 &gt; 司法會計</title>
+<script type="text/javascript">
+<!--
+function mover(st) {
+st.style.backgroundColor = '#f2f2f2';
+}
+function mout(st) {
+st.style.backgroundColor = '';
+}
+
+//將頁面中的關鍵字高亮顯示,在body的onload中使用
+function HighLight(nWord){
+    var orange = document.body.createTextRange();    
+        while(orange.findText(nWord)){
+            orange.pasteHTML("<span style='color:red;'>" + orange.text + "</span>");
+            orange.moveStart('character',1);            
+    }    
+}
+
+//將頁面中的關鍵字高亮顯示,在body的onload中使用(支持多個關鍵字，多個關鍵字用空格分開)
+function highword(nWord)
+{
+    //將全形空格(逗號)轉半型空格
+    nWord = nWord.replace(/\　/g,"|");    
+    nWord = nWord.replace(/\,/g,"|");    
+    nWord = nWord.replace(/\，/,"|");    
+    nWord = nWord.replace(/\ /g,"|");
+        
+    var Arr = nWord.split("|");
+    for(var i=0;i<Arr.length;i++){        
+        HighLight(Arr[i]);
+    }
+}
+
+//顯示或隱藏區塊
+function showdiv(subID){
+        menu=document.getElementById(subID);
+        if( menu.style.display == "none")
+                menu.style.display = "";
+        else
+                menu.style.display = "none";
+}
+
+function MM_CheckFlashVersion(reqVerStr,msg){
+  with(navigator){
+    var isIE  = (appVersion.indexOf("MSIE") != -1 && userAgent.indexOf("Opera") == -1);
+    var isWin = (appVersion.toLowerCase().indexOf("win") != -1);
+    if (!isIE || !isWin){  
+      var flashVer = -1;
+      if (plugins && plugins.length > 0){
+        var desc = plugins["Shockwave Flash"] ? plugins["Shockwave Flash"].description : "";
+        desc = plugins["Shockwave Flash 2.0"] ? plugins["Shockwave Flash 2.0"].description : desc;
+        if (desc == "") flashVer = -1;
+        else{
+          var descArr = desc.split(" ");
+          var tempArrMajor = descArr[2].split(".");
+          var verMajor = tempArrMajor[0];
+          var tempArrMinor = (descArr[3] != "") ? descArr[3].split("r") : descArr[4].split("r");
+          var verMinor = (tempArrMinor[1] > 0) ? tempArrMinor[1] : 0;
+          flashVer =  parseFloat(verMajor + "." + verMinor);
+        }
+      }
+      // WebTV has Flash Player 4 or lower -- too low for video
+      else if (userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 4.0;
+
+      var verArr = reqVerStr.split(",");
+      var reqVer = parseFloat(verArr[0] + "." + verArr[2]);
+  
+      if (flashVer < reqVer){
+        if (confirm(msg))
+          window.location = "http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash";
+      }
+    }
+  } 
+}
+//-->
+</script>
+<script type="text/javascript">
+//v1.7
+// Flash Player Version Detection
+// Detect Client Browser type
+// Copyright 2005-2007 Adobe Systems Incorporated.  All rights reserved.
+var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+
+function ControlVersion()
+{
+	var version;
+	var axo;
+	var e;
+
+	// NOTE : new ActiveXObject(strFoo) throws an exception if strFoo isn't in the registry
+
+	try {
+		// version will be set for 7.X or greater players
+		axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.7");
+		version = axo.GetVariable("$version");
+	} catch (e) {
+	}
+
+	if (!version)
+	{
+		try {
+			// version will be set for 6.X players only
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.6");
+			
+			// installed player is some revision of 6.0
+			// GetVariable("$version") crashes for versions 6.0.22 through 6.0.29,
+			// so we have to be careful. 
+			
+			// default to the first public version
+			version = "WIN 6,0,21,0";
+
+			// throws if AllowScripAccess does not exist (introduced in 6.0r47)		
+			axo.AllowScriptAccess = "always";
+
+			// safe to call for 6.0r47 or greater
+			version = axo.GetVariable("$version");
+
+		} catch (e) {
+		}
+	}
+
+	if (!version)
+	{
+		try {
+			// version will be set for 4.X or 5.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
+			version = axo.GetVariable("$version");
+		} catch (e) {
+		}
+	}
+
+	if (!version)
+	{
+		try {
+			// version will be set for 3.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
+			version = "WIN 3,0,18,0";
+		} catch (e) {
+		}
+	}
+
+	if (!version)
+	{
+		try {
+			// version will be set for 2.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash");
+			version = "WIN 2,0,0,11";
+		} catch (e) {
+			version = -1;
+		}
+	}
+	
+	return version;
+}
+
+// JavaScript helper required to detect Flash Player PlugIn version information
+function GetSwfVer(){
+	// NS/Opera version >= 3 check for Flash plugin in plugin array
+	var flashVer = -1;
+	
+	if (navigator.plugins != null && navigator.plugins.length > 0) {
+		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+			var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
+			var descArray = flashDescription.split(" ");
+			var tempArrayMajor = descArray[2].split(".");			
+			var versionMajor = tempArrayMajor[0];
+			var versionMinor = tempArrayMajor[1];
+			var versionRevision = descArray[3];
+			if (versionRevision == "") {
+				versionRevision = descArray[4];
+			}
+			if (versionRevision[0] == "d") {
+				versionRevision = versionRevision.substring(1);
+			} else if (versionRevision[0] == "r") {
+				versionRevision = versionRevision.substring(1);
+				if (versionRevision.indexOf("d") > 0) {
+					versionRevision = versionRevision.substring(0, versionRevision.indexOf("d"));
+				}
+			}
+			var flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
+		}
+	}
+	// MSN/WebTV 2.6 supports Flash 4
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
+	// WebTV 2.5 supports Flash 3
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
+	// older WebTV supports Flash 2
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
+	else if ( isIE && isWin && !isOpera ) {
+		flashVer = ControlVersion();
+	}	
+	return flashVer;
+}
+
+// When called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
+function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision)
+{
+	versionStr = GetSwfVer();
+	if (versionStr == -1 ) {
+		return false;
+	} else if (versionStr != 0) {
+		if(isIE && isWin && !isOpera) {
+			// Given "WIN 2,0,0,11"
+			tempArray         = versionStr.split(" "); 	// ["WIN", "2,0,0,11"]
+			tempString        = tempArray[1];			// "2,0,0,11"
+			versionArray      = tempString.split(",");	// ['2', '0', '0', '11']
+		} else {
+			versionArray      = versionStr.split(".");
+		}
+		var versionMajor      = versionArray[0];
+		var versionMinor      = versionArray[1];
+		var versionRevision   = versionArray[2];
+
+        	// is the major.revision >= requested major.revision AND the minor version >= requested minor
+		if (versionMajor > parseFloat(reqMajorVer)) {
+			return true;
+		} else if (versionMajor == parseFloat(reqMajorVer)) {
+			if (versionMinor > parseFloat(reqMinorVer))
+				return true;
+			else if (versionMinor == parseFloat(reqMinorVer)) {
+				if (versionRevision >= parseFloat(reqRevision))
+					return true;
+			}
+		}
+		return false;
+	}
+}
+
+function AC_AddExtension(src, ext)
+{
+  if (src.indexOf('?') != -1)
+    return src.replace(/\?/, ext+'?'); 
+  else
+    return src + ext;
+}
+
+function AC_Generateobj(objAttrs, params, embedAttrs) 
+{ 
+  var str = '';
+  if (isIE && isWin && !isOpera)
+  {
+    str += '<object ';
+    for (var i in objAttrs)
+    {
+      str += i + '="' + objAttrs[i] + '" ';
+    }
+    str += '>';
+    for (var i in params)
+    {
+      str += '<param name="' + i + '" value="' + params[i] + '" /> ';
+    }
+    str += '</object>';
+  }
+  else
+  {
+    str += '<embed ';
+    for (var i in embedAttrs)
+    {
+      str += i + '="' + embedAttrs[i] + '" ';
+    }
+    str += '> </embed>';
+  }
+
+  document.write(str);
+}
+
+function AC_FL_RunContent(){
+  var ret = 
+    AC_GetArgs
+    (  arguments, ".swf", "movie", "clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+     , "application/x-shockwave-flash"
+    );
+  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+}
+
+function AC_SW_RunContent(){
+  var ret = 
+    AC_GetArgs
+    (  arguments, ".dcr", "src", "clsid:166B1BCA-3F9C-11CF-8075-444553540000"
+     , null
+    );
+  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+}
+
+function AC_GetArgs(args, ext, srcParamName, classid, mimeType){
+  var ret = new Object();
+  ret.embedAttrs = new Object();
+  ret.params = new Object();
+  ret.objAttrs = new Object();
+  for (var i=0; i < args.length; i=i+2){
+    var currArg = args[i].toLowerCase();    
+
+    switch (currArg){	
+      case "classid":
+        break;
+      case "pluginspage":
+        ret.embedAttrs[args[i]] = args[i+1];
+        break;
+      case "src":
+      case "movie":	
+        args[i+1] = AC_AddExtension(args[i+1], ext);
+        ret.embedAttrs["src"] = args[i+1];
+        ret.params[srcParamName] = args[i+1];
+        break;
+      case "onafterupdate":
+      case "onbeforeupdate":
+      case "onblur":
+      case "oncellchange":
+      case "onclick":
+      case "ondblClick":
+      case "ondrag":
+      case "ondragend":
+      case "ondragenter":
+      case "ondragleave":
+      case "ondragover":
+      case "ondrop":
+      case "onfinish":
+      case "onfocus":
+      case "onhelp":
+      case "onmousedown":
+      case "onmouseup":
+      case "onmouseover":
+      case "onmousemove":
+      case "onmouseout":
+      case "onkeypress":
+      case "onkeydown":
+      case "onkeyup":
+      case "onload":
+      case "onlosecapture":
+      case "onpropertychange":
+      case "onreadystatechange":
+      case "onrowsdelete":
+      case "onrowenter":
+      case "onrowexit":
+      case "onrowsinserted":
+      case "onstart":
+      case "onscroll":
+      case "onbeforeeditfocus":
+      case "onactivate":
+      case "onbeforedeactivate":
+      case "ondeactivate":
+      case "type":
+      case "codebase":
+      case "id":
+        ret.objAttrs[args[i]] = args[i+1];
+        break;
+      case "width":
+      case "height":
+      case "align":
+      case "vspace": 
+      case "hspace":
+      case "class":
+      case "title":
+      case "accesskey":
+      case "name":
+      case "tabindex":
+        ret.embedAttrs[args[i]] = ret.objAttrs[args[i]] = args[i+1];
+        break;
+      default:
+        ret.embedAttrs[args[i]] = ret.params[args[i]] = args[i+1];
+    }
+  }
+  ret.objAttrs["classid"] = classid;
+  if (mimeType) ret.embedAttrs["type"] = mimeType;
+  return ret;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function flvFTSS4(){//v1.04
+this.style.filter="";}
+
+function flvFTSS3(){//v1.04
+var v1=arguments,v2=v1[0],v3=MM_findObj(v2);if (v3&&v3.TSS1!=null){clearTimeout(v3.TSS1);}}
+
+function flvFTSS2(){//v1.04
+var v1=arguments,v2=v1[0],v3=MM_findObj(v2),v4=v1[1],v5=v1[2],v6,v7,v8,v9,v10,v11,v12=document;if (v3&&v3.TSS6){flvFTSS3(v2);v9="flvFTSS2('"+v2+"',"+v4+","+v5+")";if (v4==1){if (!v3.TSS4.complete){v3.TSS1=setTimeout(v9,50);return;}v6=v3.TSS8+1;if (v6>v3.TSS6.length-1){if (v3.TSS9==0){return;}else {v6=0;}}else if (v6<v3.TSS6.length-1){v3.TSS4=new Image();v3.TSS4.src=v3.TSS6[v6+1][0];}}else {if (!v3.TSS2.complete){v3.TSS1=setTimeout(v9,50);return;}v6=v3.TSS8-1;if (v6<0){if (v3.TSS9==0){return;}else {v6=v3.TSS6.length-1;}}else if (v6>0){v3.TSS2=new Image();v3.TSS2.src=v3.TSS6[v6-1][0];}}v10=v3.TSS6[v6][0];v11=v3.TSS6[v6][1];v7=(v3.filters&&!v12.TSS5&&v11<25);if (v7){if (v3.filters[0]&&v3.filters[0].status==2){v3.filters[0].Stop();}if (v11==0){v8="blendTrans(Duration="+v3.TSS7+")";}else {v8="revealTrans(Duration="+v3.TSS7+",Transition="+(v11-1)+")";}v3.style.filter=v8;v3.onfilterchange=flvFTSS4;v3.filters[0].Apply();}v3.src=v10;if (v7){v3.filters[0].Play();}v3.TSS8=v6;if (v5==1){v3.TSS1=setTimeout(v9,v3.TSS3);}}}
+
+function flvFTSS1(){//v1.04
+// Copyright 2003, Marja Ribbers-de Vroed, FlevOOware (www.flevooware.nl/dreamweaver/)
+var v1=arguments,v2=document,v3=v1[0],v4=MM_findObj(v3),v5,v6;if (v4){v2.TSS5=(navigator.userAgent.toLowerCase().indexOf("mac")!=-1);v4.TSS7=v1[1]/1000;v4.TSS3=v1[2]+v1[1];v6=v1[3];v4.TSS9=v1[4];v4.TSS6=new Array();for (var v7=5;v7<v1.length;v7+=2){v4.TSS6[v4.TSS6.length]=new Array(v1[v7],v1[v7+1]);}v4.TSS8=0;v4.TSS4=new Image();v4.TSS4.src=v1[7];v4.TSS2=new Image();v4.TSS2.src=v1[v1.length-2];if (v6==1){v5="flvFTSS2('"+v3+"',1,"+v6+")";v4.TSS1=setTimeout(v5,v4.TSS3);}}}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body onload=";MM_preloadImages('images/ntd_r1_c24_f2.jpg','images/ntd_r1_c30_f2.jpg','images/ntd_r1_c33_f2.jpg','images/ntd_r7_c4_f2.jpg','images/ntd_r7_c8_f2.jpg','images/ntd_r7_c11_f2.jpg','images/ntd_r7_c13_f2.jpg','images/ntd_r7_c15_f2.jpg','images/ntd_r7_c18_f2.jpg','images/ntd_r7_c20_f2.jpg','images/ntd_r7_c23_f2.jpg','images/ntd_r7_c31_f2.jpg','images/ntd_r7_c35_f2.jpg')">
+    <table width="10%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" summary="網站排版用表格" style="border-right-width:6px; border-right-style:solid; border-color:#FFF">
+      <tr>
+        <td><table width="100%" border="0" cellspacing="0" cellpadding="0" summary="網頁排版用表格">
+          <tr>
+            <td><img src="images/ntd_r1_c1.jpg" alt="*" width="203" height="43" id="Image1" /></td>
+            <td><img src="images/ntd_r1_c3.jpg" width="133" height="43" alt="網站搜尋引擎" /></td>
+            <td width="50%" background="images/ntd_r1_c9.jpg"><form action="" method="get" class="searchform" >
+              <label for="label" style="color:#FFFFFF; font-size:0.1em">查</label>
+              <input name="keyword" type="text" class="textbox" id="label" value="請輸入關鍵字" size="16" accesskey="S"onblur="javascript: if(this.value=='') this.value='請輸入關鍵字';" onfocus="javascript: if(this.value=='請輸入關鍵字') this.value='';"/>
+              <input name="searchtype" type="hidden" class="textbox" id="searchtype" value="website" />
+              <input name="search" type="hidden" class="textbox" id="search" value="true" />
+              <input type="submit" value=" 搜尋 " style="color:#FFFFFF; background-color:#09F; border: 2px; border-color: #FFF; font-size: 0.82em;" />
+            </form></td>
+            <td><img src="images/ntd_r1_c16.jpg" width="212" height="43" alt="*" /></td>
+            <td><a href="?" onfocus="MM_swapImage('Image01','','images/ntd_r1_c24_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image01','','images/ntd_r1_c24_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/ntd_r1_c24.jpg" alt="首頁" name="Image01" width="54" height="43" border="0" id="Image01" /></a></td>
+            <td><img src="images/ntd_r1_c28.jpg" width="15" height="43" alt="*" /></td>
+            <td><a href="?sitemap=true" onfocus="MM_swapImage('Image02','','images/ntd_r1_c30_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image02','','images/ntd_r1_c30_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/ntd_r1_c30.jpg" alt="網站地圖" name="Image02" width="60" height="43" border="0" id="Image02" /></a></td>
+            <td><img src="images/ntd_r1_c32.jpg" width="11" height="43" alt="*" /></td>
+            <td><a href="indexen.asp" onfocus="MM_swapImage('Image03','','images/ntd_r1_c33_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image03','','images/ntd_r1_c33_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/ntd_r1_c33.jpg" alt="English" name="Image03" width="59" height="43" border="0" id="Image03" /></a></td>
+            <td><img src="images/ntd_r1_c37.jpg" width="28" height="43" alt="*" /></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td><table width="100%" border="0" cellpadding="0" cellspacing="0" summary="網站排版用表格">
+            <tr valign="top">
+              <td width="8%" background="images/ntd_r14_c1.jpg" style="background-repeat:repeat-y"><img src="images/ntd_r2_c1.jpg" alt="臺灣南投地方法院" width="197" height="100" border="0" /><table width="100%" height="80%" border="0" cellpadding="0" cellspacing="0" summary="網站排版用表格" background="images/ntd_r5_c1.jpg" style="background-repeat:no-repeat">
+                <tr><td><a href="?sitemap=true" class="map" accesskey="L" title="左側選單列" style="color:#EEE">:::</a></td></tr>
+                <tr>  
+                  <td><hr width="90%" style="border-style:outset; border-width:1px;"/><div class="selectName">
+                      認識本院 >>
+             	  
+                  </div><hr width="90%" style="border-style:outset; border-width:1px;"/></td>
+                </tr>
+                <tr>
+                  <td>
+                  <table width="86%" border="0" cellpadding="0" cellspacing="0" style="margin-left:14px;" summary="網站排版用表格">
+                  
+                    <tr><td class="selectTR" valign="baseline" width="5%"><img src="images/gif-0112.png" alt="*" /></td>
+                      <td align="left" valign="middle" class="selectTR">
+                        <a href="?struID=1&amp;cid=9" title="關於院長">關於院長</a>
+						</td>
+                      </tr>
+                    
+                    <tr><td class="selectTR" valign="baseline" width="5%"><img src="images/gif-0112.png" alt="*" /></td>
+                      <td align="left" valign="middle" class="selectTR">
+                        <a href="?struID=1&amp;cid=10" title="歷史沿革">歷史沿革</a>
+						</td>
+                      </tr>
+                    
+                    <tr><td class="selectTR" valign="baseline" width="5%"><img src="images/gif-0112.png" alt="*" /></td>
+                      <td align="left" valign="middle" class="selectTR">
+                        <a href="?struID=1&amp;cid=11" title="組織系統">組織系統</a>
+						</td>
+                      </tr>
+                    
+                    <tr><td class="selectTR" valign="baseline" width="5%"><img src="images/gif-0112.png" alt="*" /></td>
+                      <td align="left" valign="middle" class="selectTR">
+                        <a href="?struID=1&amp;cid=12" title="本院管轄">本院管轄</a>
+						</td>
+                      </tr>
+                    
+                    <tr><td class="selectTR" valign="baseline" width="5%"><img src="images/gif-0112.png" alt="*" /></td>
+                      <td align="left" valign="middle" class="selectTR">
+                        <a href="?struID=1&amp;cid=14" title="大事紀要">大事紀要</a>
+						</td>
+                      </tr>
+                    
+                    <tr><td class="selectTR" valign="baseline" width="5%"><img src="images/gif-0112.png" alt="*" /></td>
+                      <td align="left" valign="middle" class="selectTR">
+                        <a href="?struID=1&amp;cid=267" title="認識法院">認識法院</a>
+						</td>
+                      </tr>
+                    
+                    <tr><td class="selectTR" valign="baseline" width="5%"><img src="images/gif-0112.png" alt="*" /></td>
+                      <td align="left" valign="middle" class="selectTR">
+                        <a href="?struID=1&amp;cid=303" title="司法會計">司法會計</a>
+						
+                        <table width="95%" border="0" align="center" summary="網站排版用表格">
+						
+                        </table>
+						</td>
+                      </tr>
+                    
+                    <tr><td class="selectTR" valign="baseline" width="5%"><img src="images/gif-0112.png" alt="*" /></td>
+                      <td align="left" valign="middle" class="selectTR">
+                        <a href="?struID=1&amp;cid=259" title="司法統計">司法統計</a>
+						</td>
+                      </tr>
+                    
+                  </table>
+                  </td>
+                </tr>               
+					<tr>
+					  <td height="80%">&nbsp;<br/><br/>
+                     </td>
+			    </tr>
+              </table>
+              <table width="100%" border="0" cellpadding="0" cellspacing="0" summary="網站排版用表格" style="vertical-align:bottom; bottom: 0px;">
+					<tr>
+					  <td><img src="images/ntd_r16_c1.jpg" width="197" height="62" alt="服務電話" /></td></tr>
+                    <tr>
+                      <td><img src="images/ntd_r17_c1.jpg" width="197" height="77" alt="南投地方法院電話：(049)2242590" /></td>
+                    </tr>
+                    <tr>
+                      <td><img src="images/ntd_r21_c1.jpg" width="197" height="79" alt="南投簡易庭電話：(049)2239550" /></td>
+                    </tr>
+                    <tr>
+                      <td><img src="images/ntd_r23_c1.jpg" width="197" height="86" alt="埔里簡易庭電話：(049)2995544" /></td></tr>
+              </table></td>
+            <td width="100%" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="0" summary="網站排版用表格">
+              <tr><td><img src="images/ntd_r2_c2.jpg" width="800" height="7" alt="*" /></td></tr>
+            <tr>
+              <td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="793" height="163" align="right" title="南投地方法院展示動畫">
+                <param name="movie" value="flash/index.swf" />
+                  <param name="quality" value="high" />
+                  <param name="wmode" value="opaque" />
+                  <embed src="flash/index.swf" width="793" height="163" align="right" quality="high" wmode="opaque" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash"></embed>
+                  <noembed>法院理念宣傳動畫：專業、親切、效率的服務。清明的法官、親民的司法。</noembed>
+                </object></td>
+            </tr>
+            <tr>
+              <td background="images/ntd_r6_c2.jpg" style="background-repeat:repeat-y"><a href="?sitemap=true" class="map" accesskey="U" title="主要選單列">:::</a></td>
+            </tr>
+            <tr>
+              <td><img src="images/ntd_r7_c2.jpg" alt="*" width="12" height="37" border="0" /><a href="?" onfocus="MM_swapImage('Image04','','images/ntd_r7_c4_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image04','','images/ntd_r7_c4_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/ntd_r7_c4.jpg" alt="本院首頁" name="Image04" width="68" height="37" border="0" id="Image04" /></a><img src="images/ntd_r7_c7.jpg" alt="*" width="11" height="37" border="0" /><a href="?struID=76&amp;navID=76&amp;cid=77" onfocus="MM_swapImage('Image05','','images/ntd_r7_c8_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image05','','images/ntd_r7_c8_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/ntd_r7_c8.jpg" alt="最新消息" name="Image05" width="68" height="37" border="0" id="Image05" /></a><img src="images/ntd_r7_c10.jpg" alt="*" width="13" height="37" border="0" /><a href="?struID=1&amp;navID=1&amp;cid=9" onfocus="MM_swapImage('Image06','','images/ntd_r7_c11_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image06','','images/ntd_r7_c11_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/ntd_r7_c11.jpg" alt="認識本院" name="Image06" width="68" height="37" border="0" id="Image06" /></a><img src="images/ntd_r7_c12.jpg" alt="*" width="12" height="37" border="0" /><a href="?struID=2&amp;navID=2&amp;cid=19" onfocus="MM_swapImage('Image07','','images/ntd_r7_c13_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image07','','images/ntd_r7_c13_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/ntd_r7_c13.jpg" alt="便民服務" name="Image07" width="68" height="37" border="0" id="Image07" /></a><img src="images/ntd_r7_c14.jpg" alt="*" width="11" height="37" border="0" /><a href="?struID=6&amp;navID=6&amp;cid=244" onfocus="MM_swapImage('Image08','','images/ntd_r7_c15_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image08','','images/ntd_r7_c15_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/ntd_r7_c15.jpg" alt="訴訟協助" name="Image08" width="68" height="37" border="0" id="Image08" /></a><img src="images/ntd_r7_c17.jpg" alt="*" width="12" height="37" border="0" /><a href="?struID=4&amp;navID=4&amp;cid=24" onfocus="MM_swapImage('Image09','','images/ntd_r7_c18_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image09','','images/ntd_r7_c18_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/ntd_r7_c18.jpg" alt="常見問題" name="Image09" width="68" height="37" border="0" id="Image09" /></a><img src="images/ntd_r7_c19.jpg" alt="*" width="13" height="37" border="0" /><a href="?struID=5&amp;navID=5&amp;cid=49" onfocus="MM_swapImage('Image10','','images/ntd_r7_c20_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','images/ntd_r7_c20_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/ntd_r7_c20.jpg" alt="書狀範例" name="Image10" width="68" height="37" border="0" id="Image10" /></a><img src="images/ntd_r7_c22.jpg" alt="*" width="12" height="37" border="0" /><a href="?struID=7&amp;navID=7&amp;cid=84" onfocus="MM_swapImage('Image11','','images/ntd_r7_c23_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','images/ntd_r7_c23_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/ntd_r7_c23.jpg" alt="少年園地" name="Image11" width="67" height="37" border="0" id="Image11" /></a><img src="images/ntd_r7_c29.jpg" alt="*" width="12" height="37" border="0" /><a href="?struID=48&amp;navID=48&amp;cid=107" onfocus="MM_swapImage('Image12','','images/ntd_r7_c31_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image12','','images/ntd_r7_c31_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/ntd_r7_c31.jpg" alt="廉政專欄" name="Image12" width="68" height="37" border="0" id="Image12" /></a><img src="images/ntd_r7_c34.jpg" alt="*" width="13" height="37" border="0" /><a href="?struID=172&amp;cid=172" onfocus="MM_swapImage('Image13','','images/ntd_r7_c35_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image13','','images/ntd_r7_c35_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/ntd_r7_c35.jpg" alt="電子信箱" name="Image13" width="68" height="37" border="0" id="Image13" /></a></td>
+            </tr>
+            </table>
+              <table width="100%" border="0" cellpadding="0" cellspacing="0" summary="網站排版用表格">
+            <tr><td width="95%" valign="top">
+              <table width="100%" border="0" cellpadding="0" cellspacing="0" class="navgate" summary="網站排版用表格" style="margin-top:5px;">
+                  <tr>
+                    <td valign="top"><a href="?sitemap=true" class="map" accesskey="C" title="主要內容區">:::</a><font color="#FFFFFF">-</font>&#8226; 您現在的位置 > <a href="?" title="首頁">首頁</a>
+                         &gt; <a href='?struID=1&cid=1' title='認識本院'>認識本院</a> &gt; <a href='?struID=1&cid=303' title='司法會計'>司法會計</a>                    </td>
+                    <td width="20%" align="right" valign="top" class="print">【<a href="print.asp?struID=1&cid=303" target="_blank" title="友善列印(另開新視窗)">友善列印</a>】</td>
+                    </tr>
+                </table>
+				
+                <div id="mainContent">
+                
+                  <h1>司法會計</h1>
+                
+                  <h2>&raquo; 法定預算</h2>
+                <p><p>105年度：(提供日期105.1.28)</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.<a href="/UserFiles/會計室/105年法定預算(PDF檔).pdf">105年法定預算(PDF檔).pdf</a>&nbsp;&nbsp;&nbsp; 2.<a href="/UserFiles/會計室/105年法定預算(EXCEL檔).zip">105年法定預算(EXCEL檔).zip</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.<a href="/UserFiles/會計室/105年法定預算(XML檔).zip">105年法定預算(XML檔).zip</a>&nbsp;&nbsp; 4.<a href="/UserFiles/會計室/105年度法定預算總說明.doc">105年度法定預算總說明.doc</a>&nbsp;</p>
+                  <h2>&raquo; 預算案</h2>
+                <p><p>106年度：（提供日期105.8.29)</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.&nbsp;<a href="/UserFiles/會計室/106年單位預算案書(PDF檔).pdf">106年單位預算案書(PDF檔).pdf</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. <a href="/UserFiles/會計室/106單位預算案書(Excel檔).zip">106單位預算案書(Excel檔).zip</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;<a href="/UserFiles/會計室/106年單位預算案書(Xml檔).zip">106年單位預算案書(Xml檔).zip</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.&nbsp;<a href="/UserFiles/會計室/106年單位預算案總說明.doc">106年單位預算案總說明.doc</a></p>
+<p>105年度：（提供日期104.9.3)</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.<a href="/UserFiles/會計室/105年單位預算案書.pdf">105年單位預算案書.pdf</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;2.<a href="/UserFiles/會計室/105年度單位預算案(EXCEL).zip"><font color="#810081">105年度單位預算案(EXCEL).zip</font></a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.<a href="/UserFiles/會計室/105年單位預算案(XML).zip">105年單位預算案(XML).zip</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.<a href="/UserFiles/會計室/105年度單位預算案總說明.doc">105年度單位預算案總說明.doc</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                  <h2>&raquo; 決算類</h2>
+                <p><p>104年度: 1.<a href="/UserFiles/會計室/104年中央政府總決算-臺灣南投地方法院(行政院修正版).pdf">104年中央政府總決算-臺灣南投地方法院(行政院修正版).pdf</a>&nbsp;(提供日期105.9.26)</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.<a href="/UserFiles/會計室/104-單位決算(XML壓縮下載檔)行政院修正版(提供日期105.9.26).zip">104-單位決算(XML壓縮下載檔)行政院修正版(提供日期105.9.26).zip</a></p>
+<p>104年度: 1.<a href="/UserFiles/會計室/104年中央政府總決算-臺灣南投地方法院.pdf">104年中央政府總決算-臺灣南投地方法院.pdf</a>&nbsp;(提供日期105.3.20)</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.<a href="/UserFiles/會計室/104-單位決算(XML壓縮下載檔)(提供日期105.3.20).zip">104-單位決算(XML壓縮下載檔)(提供日期105.3.20).zip</a></p>
+<p>103年度: 1.<a href="/UserFiles/會計室/一、103年度中央政府總決算-臺灣南投地方法院.pdf">103年度中央政府總決算-臺灣南投地方法院.pdf</a>(提供日期104.3.9)</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;2.<a href="/UserFiles/會計室/二、103-單位決算(XML壓縮下載檔)(提供日期104.7.21).zip">103-單位決算(XML壓縮下載檔)(提供日期104.7.21).zip</a></p>
+                  <h2>&raquo; 會計月報</h2>
+                <p><p>105年9月：<a href="/UserFiles/會計室/10509會計月報.pdf">10509會計月報.pdf</a>，<a href="/UserFiles/會計室/105-9-0551-會計月報(XML壓縮檔).rar">105-9-0551-會計月報(XML壓縮檔).rar</a></p>
+<p>105年8月：<a href="/UserFiles/會計室/10508會計月報.pdf">10508會計月報.pdf</a>，<a href="/UserFiles/會計室/105-8-0551-會計月報(XML壓縮檔).rar">105-8-0551-會計月報(XML壓縮檔).rar</a></p>
+<p>105年7月：<a href="/UserFiles/會計室/10507會計月報.pdf">10507會計月報.pdf</a>，<a href="/UserFiles/會計室/105-7-0551-會計月報(XML壓縮檔).rar">105-7-0551-會計月報(XML壓縮檔).rar</a></p>
+<p>105年6月：<a href="/UserFiles/會計室/10506會計月報.pdf">10506會計月報.pdf</a>，<a href="/UserFiles/會計室/105-6-0551-會計月報(XML壓縮檔).rar">105-6-0551-會計月報(XML壓縮檔).rar</a></p>
+<p>105年5月：<a href="/UserFiles/會計室/10505會計月報.pdf">10505會計月報.pdf</a>，<a href="/UserFiles/105-5-0551-會計月報(XML壓縮檔).rar">105-5-0551-會計月報(XML壓縮檔).rar</a></p>
+<p>105年4月：<a href="/UserFiles/會計室/10504會計月報.pdf">10504會計月報.pdf</a>，<a href="/UserFiles/會計室/105-4-0551-會計月報(XML壓縮檔).rar">105-4-0551-會計月報(XML壓縮檔).rar</a></p>
+<p>105年3月：<a href="/UserFiles/會計室/10503會計月報.pdf">10503會計月報.pdf</a>，<a href="/UserFiles/會計室/105-3-0551-會計月報(XML壓縮檔).rar">105-3-0551-會計月報(XML壓縮檔).rar</a></p>
+<p>105年2月：<a href="/UserFiles/會計室/10502會計月報.pdf">10502會計月報.pdf</a>&nbsp;，<a href="/UserFiles/會計室/105-2-0551-會計月報(XML壓縮檔).rar">105-2-0551-會計月報(XML壓縮檔).rar</a></p>
+<p>105年1月：<a href="/UserFiles/會計室/10501會計月報.pdf">10501會計月報.pdf</a>，<a href="/UserFiles/會計室/105-1-0551-會計月報(XML壓縮檔).rar">105-1-0551-會計月報(XML壓縮檔).rar</a></p>
+<p>104年12月：<a href="/UserFiles/會計室/10412歲入類會計月報.pdf">10412歲入類會計月報.pdf</a>,<a href="/UserFiles/會計室/10412經費類會計月報.pdf">10412經費類會計月報.pdf</a>,<a href="/UserFiles/會計室/104-12-0551-會計月報(XML壓縮檔).rar">104-12-0551-會計月報(XML壓縮檔).rar</a></p>
+<p>104年11月：<a href="/UserFiles/會計室/10411歲入類會計月報.pdf">10411歲入類會計月報.pdf</a>,<a href="/UserFiles/會計室/10411經費類會計月報.pdf">10411經費類會計月報.pdf</a>,<a href="/UserFiles/會計室/104-11-0551-會計月報(XML壓縮檔).rar">104-11-0551-會計月報(XML壓縮檔).rar</a></p>
+<p>104年10月：<a href="/UserFiles/會計室/10410歲入類會計月報.pdf">10410歲入類會計月報.pdf</a>,<a href="/UserFiles/會計室/10410經費類會計月報.pdf">10410經費類會計月報.pdf</a>,<a href="/UserFiles/會計室/104-10-0551-會計月報(XML壓縮檔)..rar">104-10-0551-會計月報(XML壓縮檔)..rar</a></p>
+<p>104年9月：<a href="/UserFiles/會計室/10409歲入類會計月報.pdf">10409歲入類會計月報.pdf</a>,<a href="/UserFiles/會計室/10409經費類會計月報.pdf">10409經費類會計月報.pdf</a>,<a href="/UserFiles/會計室/104-9-0551-會計月報(XML壓縮檔)..rar">104-9-0551-會計月報(XML壓縮檔)..rar</a></p>
+<p>104年8月：<a href="/UserFiles/會計室/10408歲入類會計月報.pdf">10408歲入類會計月報.pdf</a>,<a href="/UserFiles/會計室/10408經費類會計月報.pdf">10408經費類會計月報.pdf</a>,<a href="/UserFiles/會計室/104-8-0551-會計月報(XML壓縮檔).rar">104-8-0551-會計月報(XML壓縮檔).rar</a></p>
+<p>104年7月：<a href="/UserFiles/會計室/10407歲入類會計月報.pdf">10407歲入類會計月報.pdf</a>,<a href="/UserFiles/會計室/10407經費類會計月報.pdf">10407經費類會計月報.pdf</a>,<a href="/UserFiles/會計室/104-7-0551-會計月報(XML壓縮檔).rar">104-7-0551-會計月報(XML壓縮檔).rar</a></p>
+<p>104年6月：<a href="/UserFiles/會計室/10406歲入類會計月報.pdf">10406歲入類會計月報.pdf</a>, <a href="/UserFiles/會計室/10406經費類會計月報.pdf">10406經費類會計月報.pdf</a>,<a href="/UserFiles/會計室/104-6-0551-會計月報(XML壓縮檔).rar">104-6-0551-會計月報(XML壓縮檔).rar</a></p>
+<p>104年5月：<a href="/UserFiles/會計室/10405歲入類會計月報.pdf">10405歲入類會計月報.pdf</a>, <a href="/UserFiles/會計室/10405經費類會計月報.pdf">10405經費類會計月報.pdf</a>,<a href="/UserFiles/會計室/104-5-0551-會計月報(XML壓縮檔).rar">104-5-0551-會計月報(XML壓縮檔).rar</a></p>
+<p>104年4月：<a href="/UserFiles/會計室/10404歲入類會計月報.pdf">10404歲入類會計月報.pdf</a>, <a href="/UserFiles/會計室/10404經費類會計月報.pdf">10404經費類會計月報.pdf</a>,<a href="/UserFiles/會計室/104-4-0551-會計月報(XML壓縮檔).rar">104-4-0551-會計月報(XML壓縮檔).rar</a></p>
+<p>104年3月：<a href="/UserFiles/會計室/10403歲入類會計月報.pdf">&nbsp;10403歲入類會計月報.pdf</a>, <a href="/UserFiles/會計室/10403經費類會計月報.pdf">10403經費類會計月報.pdf</a>,<a href="/UserFiles/會計室/104-3-0551-會計月報(XML壓縮檔).rar">104-3-0551-會計月報(XML壓縮檔).rar</a></p>
+<p>104年2月： <a href="/UserFiles/會計室/10402歲入類會計月報.pdf">10402歲入類會計月報.pdf</a>, <a href="/UserFiles/會計室/10402經費類會計月報.pdf">10402經費類會計月報.pdf</a>,<a href="/UserFiles/會計室/104-2-0551-會計月報(XML壓縮檔).rar">104-2-0551-會計月報(XML壓縮檔).rar</a></p>
+<p>104年1月： <a href="/UserFiles/10401歲入類會計月報.pdf">10401歲入類會計月報.pdf</a>, <a href="/UserFiles/10401經費類會計月報.pdf">10401經費類會計月報.pdf</a>,<a href="/UserFiles/會計室/104-1-0551-會計月報(XML壓縮檔).rar">104-1-0551-會計月報(XML壓縮檔).rar</a></p>
+                  <h2>&raquo; 104年度臺灣南投地方法院中央政府總預算(104年3月6日)</h2>
+                <p>
+                  <span class="clean"></span>
+                  <p class="relate">相關檔案：<a href="UserFiles/二、104-法定預算(XML壓縮下載檔)(提供日期104.3.6).zip" title="二、104-法定預算(XML壓縮下載檔)(提供日期104.3.6).zip(另開新視窗下載)" target="_blank">二、104-法定預算(XML壓縮下載檔)(提供日期104.3.6).zip</a> <a href="UserFiles/三、104-法定預算(Excel壓縮檔)(提供日期104.3.6).zip" title="三、104-法定預算(Excel壓縮檔)(提供日期104.3.6).zip(另開新視窗下載)" target="_blank">三、104-法定預算(Excel壓縮檔)(提供日期104.3.6).zip</a> <a href="UserFiles/四、104中央政府總預算預算總說明-臺灣南投地方法院(提供日期104.3.6).doc" title="四、104中央政府總預算預算總說明-臺灣南投地方法院(提供日期104.3.6).doc(另開新視窗下載)" target="_blank">四、104中央政府總預算預算總說明-臺灣南投地方法院(提供日期104.3.6).doc</a></p>
+                
+                  <h2>&raquo; 104年度臺灣南投地方法院中央政府總預算PDF(104年3月6日)</h2>
+                <p>
+                  <span class="clean"></span>
+                  <p class="relate">相關檔案：<a href="UserFiles/一、104中央政府總預算-臺灣南投地方法院(提供日期104.3.6).pdf" title="一、104中央政府總預算-臺灣南投地方法院(提供日期104.3.6).pdf(另開新視窗下載)" target="_blank">一、104中央政府總預算-臺灣南投地方法院(提供日期104.3.6).pdf</a> <a href="UserFiles/" title="(另開新視窗下載)" target="_blank"></a> <a href="UserFiles/" title="(另開新視窗下載)" target="_blank"></a></p>
+                
+                  <h2>&raquo; 104年度臺灣南投地方法院單位預算案書(103年9月2日)</h2>
+                <p>
+                  <span class="clean"></span>
+                  <p class="relate">相關檔案：<a href="UserFiles/104年度臺灣南投地方法院中央政府總預算案書.pdf" title="104年度臺灣南投地方法院中央政府總預算案書.pdf(另開新視窗下載)" target="_blank">104年度臺灣南投地方法院中央政府總預算案書.pdf</a> <a href="UserFiles/104-預算案(XML壓縮下載檔)(提供日期104.3.5).zip" title="104-預算案(XML壓縮下載檔)(提供日期104.3.5).zip(另開新視窗下載)" target="_blank">104-預算案(XML壓縮下載檔)(提供日期104.3.5).zip</a> <a href="UserFiles/" title="(另開新視窗下載)" target="_blank"></a></p>
+                
+                  <h2>&raquo; 102年度臺灣南投地方法院單位決算-審定(103年8月7日)</h2>
+                <p>
+                  <span class="clean"></span>
+                  <p class="relate">相關檔案：<a href="UserFiles/102年度臺灣南投地方法院中央政府總決算0.pdf" title="102年度臺灣南投地方法院中央政府總決算0.pdf(另開新視窗下載)" target="_blank">102年度臺灣南投地方法院中央政府總決算0.pdf</a> <a href="UserFiles/" title="(另開新視窗下載)" target="_blank"></a> <a href="UserFiles/" title="(另開新視窗下載)" target="_blank"></a></p>
+                
+                  <h2>&raquo; 103年度臺灣南投地方法院中央政府總預算(103年3月14日)</h2>
+                <p>
+                  <span class="clean"></span>
+                  <p class="relate">相關檔案：<a href="UserFiles/103年度臺灣南投地方法院中央政府總預算.pdf" title="103年度臺灣南投地方法院中央政府總預算.pdf(另開新視窗下載)" target="_blank">103年度臺灣南投地方法院中央政府總預算.pdf</a> <a href="UserFiles/" title="(另開新視窗下載)" target="_blank"></a> <a href="UserFiles/" title="(另開新視窗下載)" target="_blank"></a></p>
+                
+                  <h2>&raquo; 103年度臺灣南投地方法院單位預算案書(102年8月30日)</h2>
+                <p>
+                  <span class="clean"></span>
+                  <p class="relate">相關檔案：<a href="UserFiles/103年度臺灣南投地方法院單位預算案書.pdf" title="103年度臺灣南投地方法院單位預算案書.pdf(另開新視窗下載)" target="_blank">103年度臺灣南投地方法院單位預算案書.pdf</a> <a href="UserFiles/" title="(另開新視窗下載)" target="_blank"></a> <a href="UserFiles/" title="(另開新視窗下載)" target="_blank"></a></p>
+                
+                  <h2>&raquo; 101年度臺灣南投地方法院單位決算(102年5月22日)</h2>
+                <p>
+                  <span class="clean"></span>
+                  <p class="relate">相關檔案：<a href="UserFiles/101年臺灣南投地方法院中央政府總決算.tif" title="101年臺灣南投地方法院中央政府總決算.tif(另開新視窗下載)" target="_blank">101年臺灣南投地方法院中央政府總決算.tif</a> <a href="UserFiles/" title="(另開新視窗下載)" target="_blank"></a> <a href="UserFiles/" title="(另開新視窗下載)" target="_blank"></a></p>
+                
+                  <h2>&raquo; 102年度臺灣南投地方法院單位預算(102年3月4日）</h2>
+                <p>
+                  <span class="clean"></span>
+                  <p class="relate">相關檔案：<a href="UserFiles/102年度臺灣南投地方法院單位預算.tif" title="102年度臺灣南投地方法院單位預算.tif(另開新視窗下載)" target="_blank">102年度臺灣南投地方法院單位預算.tif</a> <a href="UserFiles/" title="(另開新視窗下載)" target="_blank"></a> <a href="UserFiles/" title="(另開新視窗下載)" target="_blank"></a></p>
+                
+                  <h2>&raquo; 102年度臺灣南投地方法院單位預算案書(101年12月7日)</h2>
+                <p>
+                  <span class="clean"></span>
+                  <p class="relate">相關檔案：<a href="UserFiles/102年度臺灣南投地方法院單位預算案書.tif" title="102年度臺灣南投地方法院單位預算案書.tif(另開新視窗下載)" target="_blank">102年度臺灣南投地方法院單位預算案書.tif</a> <a href="UserFiles/" title="(另開新視窗下載)" target="_blank"></a> <a href="UserFiles/" title="(另開新視窗下載)" target="_blank"></a></p>
+                
+                  <h2>&raquo; 100年度臺灣南投地方法院單位決算(101年9月4日)</h2>
+                <p>
+                  <span class="clean"></span>
+                  <p class="relate">相關檔案：<a href="UserFiles/100年度臺灣南投地方法院單位決算0.tif" title="100年度臺灣南投地方法院單位決算0.tif(另開新視窗下載)" target="_blank">100年度臺灣南投地方法院單位決算0.tif</a> <a href="UserFiles/" title="(另開新視窗下載)" target="_blank"></a> <a href="UserFiles/" title="(另開新視窗下載)" target="_blank"></a></p>
+                
+                  <h2>&raquo; 101年度臺灣南投地方法院單位預算(101年2月10日）</h2>
+                <p>&nbsp;&nbsp;<a title="網站圖片" rel="lightbox[show]" href="/UserFiles/101年度南投地方法院單位預算.tif">‧101年度臺灣南投地方法院單位預算</a>&nbsp;
+                  <h2>&raquo; 99年度臺灣南投地方法院單位決算書（100年8月4日）</h2>
+                <p><ul>
+    <li><a title="99年度臺灣南投地方法院單位決算書" href="/UserFiles/img-99年度臺灣南投地方法院單位決算.tif">99年度臺灣南投地方法院單位決算</a> </li>
+</ul>
+                  <h2>&raquo; 100年度臺灣南投地方法院單位預算書（100年3月3日）</h2>
+                <p><ul>
+    <li><a href="/UserFiles/img-100年度臺灣南投地方法院單位預算.tif">100年度臺灣南投地方法院單位預算</a> </li>
+</ul>
+                  <h2>&raquo; 98年度臺灣南投地方法院單位決算書〈99年8月3日〉</h2>
+                <p><ul>
+    <li><a href="/UserFiles/98年度臺灣南投地方法院單位決算.tif">98年度臺灣南投地方法院單位決算.tif</a>&nbsp;&nbsp; </li>
+</ul>
+                  <h2>&raquo; 99年度臺灣南投地方法院單位預算書〈99年3月5日〉</h2>
+                <p><ul>
+    <li><a href="/UserFiles/99年度臺灣南投地方法院單位預算.tif">99年度臺灣南投地方法院單位預算.tif</a> </li>
+</ul>
+                  <h2>&raquo; 97年度臺灣南投地方法院單位決算書〈98年8月5日〉</h2>
+                <p><ul>
+    <li><a href="/UserFiles/97年度臺灣南投地方法院單位決算.tif">97年度臺灣南投地方法院單位決算.tif</a> </li>
+</ul>
+                  <h2>&raquo; 98年度臺灣南投地方法院單位預算書〈98年3月6日〉</h2>
+                <p><ul>
+    <li><a href="/UserFiles/98年度臺灣南投地方法院單位預算.tif">98年度臺灣南投地方法院單位預算.tif</a> </li>
+</ul>
+                  <h2>&raquo; 97年度臺灣南投地方法院單位預算書〈97年9月26日〉</h2>
+                <p><ul>
+    <li><a target="_blank" href="/UserFiles/97年度臺灣南投地方法院單位預算.tif">97年度臺灣南投地方法院單位預算.tif</a> </li>
+</ul>
+                  <h2>&raquo; 96年度臺灣南投地方法院單位決算書〈97年9月2日〉</h2>
+                <p><ul>
+    <li><a target="_blank" href="/UserFiles/96年度臺灣南投地方法院單位決算.tif">96年度臺灣南投地方法院單位決算.tif</a> </li>
+</ul>
+                  <h2>&raquo; 96年度臺灣南投地方法院單位預算書〈97年10月9日〉</h2>
+                <p><ul>
+    <li><a href="/UserFiles/96年度臺灣南投地方法院單位預算.tif">96年度臺灣南投地方法院單位預算.tif</a> </li>
+</ul>
+                  <h2>&raquo; 95年度臺灣南投地方法院單位決算書〈97年10月20日〉</h2>
+                <p><ul>
+    <li><a href="/UserFiles/95年度臺灣南投地方法院單位決算.tif">95年度臺灣南投地方法院單位決算.tif</a> </li>
+</ul>
+                  <h2>&raquo; 95年度臺灣南投地方法院單位預算書〈97年10月20日〉</h2>
+                <p><ul>
+    <li><a href="/UserFiles/95年度臺灣南投地方法院單位預算.tif">95年度臺灣南投地方法院單位預算.tif</a> </li>
+</ul>
+                  <h2>&raquo; 94年度臺灣南投地方法院單位決算書〈97年10月20日〉</h2>
+                <p><ul>
+    <li><a href="/UserFiles/94年度臺灣南投地方法院單位決算.tif">94年度臺灣南投地方法院單位決算.tif</a> </li>
+</ul>
+              </div>
+              </td>
+		      
+            </tr></table></td></tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td><img src="images/ntd_r27_c1.jpg" alt="*" /></td>
+      </tr>
+      <tr>
+        <td background="images/ntd_r28_c1_f2.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0" summary="網站排版用表格"><tr>
+          <td width="22%" align="center" class="foot"><span> 瀏覽人數：<br />
+          <img src=images/counter/1.gif align='absmiddle' alt='1'><img src=images/counter/7.gif align='absmiddle' alt='7'><img src=images/counter/2.gif align='absmiddle' alt='2'><img src=images/counter/2.gif align='absmiddle' alt='2'><img src=images/counter/0.gif align='absmiddle' alt='0'><img src=images/counter/9.gif align='absmiddle' alt='9'><img src=images/counter/9.gif align='absmiddle' alt='9'></span></td>
+          <td><img src="images/ntd_r30_c5.jpg" width="34" height="32" alt="*" /></td>
+              <td><p class="foot">臺灣南投地方法院 南投縣南投市中興路759號 049-2242590 .<br />
+              臺灣南投地方法院 版權所有&copy;2011 Taiwan Nantou District Court, All Rights Reserved.</p></td>
+              <td width="15%" align="center" valign="top"><a target="_blank" href="http://www.webguide.nat.gov.tw/enable.jsp?category=20051123125357" title="通過AA等級無障礙網頁檢測(另開新視窗)"><img src="images/aa.jpg" alt="通過AA等級無障礙網頁檢測(另開新視窗)" border="0" style="margin:3px; margin-top:15px;" title="通過A+等級無障礙網頁檢測(另開新視窗)" align="absmiddle"></a></td>
+              </tr></table>
+            </td>
+      </tr>
+        </td>
+      </tr>
+	  <tr>
+	    <td bgcolor="#FFFFFF">&nbsp;</td>
+	  </tr>	
+</table>
+</body>
+</html>

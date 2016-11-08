@@ -1,0 +1,567 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:hyweb="urn:gip-hyweb-com" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="DC.Title" content="104年7月份政策宣導之廣告預算執行情形">
+<meta name="DC.Subject" content="104年7月份政策宣導之廣告預算執行情形">
+<meta name="DC.Creator" content="行政院人事行政局">
+<meta name="DC.Description" content="">
+<meta name="DC.Publisher" content="行政院人事行政局">
+<meta name="DC.Contributor" content="行政院人事行政局">
+<meta name="DC.Date" content="2015/8/10 下午 02:02:00">
+<meta name="DC.Type" content="文字">
+<meta name="DC.Format" content="">
+<meta name="DC.Identifier" content="GIP-site-323000000A">
+<meta name="DC.Relation" content="CP-12740">
+<meta name="DC.Source" content="行政院人事行政局">
+<meta name="DC.Language" content="中文">
+<meta name="DC.Coverage" content="">
+<meta name="DC.Rights" content="行政院人事行政局">
+<meta name="Category.Theme" content="900">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title> 行政院人事行政總處-政策宣導之廣告預算執行情形 Directorate-General of Personnel Administration,Executive Yuan</title><script type="text/javascript" src="xslgip/cpa/js/multimenu.js"></script><script type="text/javascript" src="xslgip/cpa/js/globals.js"></script><script type="text/javascript" src="xslgip/cpa/js/tabpanel1_class.js"></script><script type="text/javascript" src="xslgip/cpa/js/widgets_class.js"></script><script type="text/javascript" src="xslgip/cpa/js/png.js"></script><link href="xslgip/cpa/css/default.css" rel="stylesheet" type="text/css">
+<link href="xslgip/cpa/css/tabpanel1_class.css" rel="stylesheet" type="text/css">
+<link href="xslgip/cpa/css/print.css" rel="stylesheet" media="print" type="text/css">
+<link href="xslgip/cpa/css/design.css" rel="stylesheet" type="text/css">
+<link rel="alternate stylesheet" type="text/css" href="xslgip/cpa/css/design2.css" title="color2" cat="color">
+<link rel="alternate stylesheet" type="text/css" href="xslgip/cpa/css/design3.css" title="color3" cat="color">
+<link rel="stylesheet" type="text/css" href="xslgip/cpa/css/fontS.css" title="small" cat="font">
+<link rel="alternate stylesheet" type="text/css" href="xslgip/cpa/css/fontM.css" title="medium" cat="font">
+<link rel="alternate stylesheet" type="text/css" href="xslgip/cpa/css/fontL.css" title="large" cat="font"><script type="text/javascript" src="/js/jscalendar-1.0/calendar.js"></script><script type="text/javascript" src="/js/jscalendar-1.0/lang/calendar-en.js"></script><script type="text/javascript" src="/js/jscalendar-1.0/lang/calendar-big5-utf8.js"></script><script type="text/javascript" src="/js/jscalendar-1.0/calendar-setup.js"></script><link href="/js/jscalendar-1.0/calendar-system.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="xslgip/cpa/css/gss.css"><styleSwitcher cat="color"></styleSwitcher><styleSwitcher cat="font"></styleSwitcher><script type="text/javascript" src="xslgip/cpa/js/jquery-1.4.2.min.js"></script><script type="text/javascript" src="xslgip/cpa/js/jquery.jcarousel.js"></script><script type="text/javascript" src="xslgip/cpa/js/jquery.jcarousel.min.js"></script><script type="text/javascript">
+ 
+jQuery(document).ready(function() {
+    jQuery('#mycarousel').jcarousel({
+        wrap: 'both'
+    });
+});
+ 
+</script><noscript>
+<style type="text/css">
+<!--
+.leftbg .mlmenu li ul {
+ margin-top: -1px;
+ margin-left: 0px;
+ display: block;
+ position: relative;
+ background-color: #fef3d4;
+}
+.leftbg .mlmenu li ul ul {
+ margin-top: -1px;
+ margin-left: 0px;
+ display: block;
+ position: relative;
+}
+.menubg ul li ul li {
+ font-size: 100%;
+}
+.menubg ul li ul li a {
+ padding:5px 8px 3px 18px;
+ text-align: left;
+ color: #333333;
+ margin: 0px;
+ background-color: #f8bf18;
+ width: 135px;
+ background-image: none;
+}
+.menubg ul li ul li a:hover {
+ padding-left: 18px;
+ padding-right: 8px;
+ text-align: left;
+ color: #333333;
+ margin: 0px;
+ background-color: #FADA43;
+ background-image: none;
+}
+.menubg ul li ul li ul {
+}
+.menubg ul li ul li ul li a {
+ padding:3px 21px 3px 32px;
+ text-align: left;
+ color: #333333;
+ margin: 0px;
+ background-color: #FFFFCC;
+ border-bottom-width: 1px;
+ border-bottom-style: dashed;
+ border-bottom-color: #333333;
+ border-top-style: none;
+ border-right-style: none;
+ border-left-style: none;
+ width: 110px;
+}
+.menubg ul li ul li ul li a:hover {
+ color: #333333;
+ padding:3px 15px 3px 32px;
+ text-align: left;
+ margin: 0px;
+ background-color: #FFFF99;
+ border-bottom-width: 1px;
+ border-bottom-style: dashed;
+ border-bottom-color: #006600;
+ border-top-style: none;
+ border-right-style: none;
+ border-left-style: none;
+ width: 110px;
+}
+.menubg ul li ul li ul li a:active {
+ color: #CC6600;
+ padding:3px 15px 3px 32px;
+ text-align: left;
+ margin: 0px;
+ background-color: #FFFF99;
+ border-bottom-width: 1px;
+ border-bottom-style: dashed;
+ border-bottom-color: #006600;
+ border-top-style: none;
+ border-right-style: none;
+ border-left-style: none;
+ width: 110px;
+}
+.jcarousel-skin-tango li{list-style-type:none; float:left;}
+-->
+</style>
+</noscript>
+</head>
+<body>
+<div class="wrap">
+<div id="zone.head" class="top">
+<div class="header">
+<h1><a title="行政院人事行政總處Directorate-General of Personnel Administration" href="mp.asp?mp=4"><img alt="行政院人事行政總處Directorate-General of Personnel Administration" border="0" title="行政院人事行政總處Directorate-General of Personnel Administration" src="public/data/201503101400083436985.png"></a></h1>
+<div class="nav">
+<ul>
+<li><a href="sitemap.asp" title="網站導覽">網站導覽</a></li>
+<li><a href="index.asp" title="首頁">首頁</a></li>
+<li><a href="https://chiefmesg.dgpa.gov.tw/spmail.asp?xdURL=mailbox/mail.asp&amp;mp=1" target="_nwGip" class="Contactus" title="意見信箱">意見信箱</a></li>
+<li><a href="https://ecpa.dgpa.gov.tw/" target="_nwGip" title="人事服務網">人事服務網</a></li>
+<li><a href="mp.asp?mp=10" title="English">English</a></li>
+<li><a href="mp.asp?mp=99" title="行動版">行動版</a></li>
+<li><a href="ct.asp?xItem=5463&amp;CtNode=594" title="相關網站">相關網站</a></li>
+</ul>
+</div>
+<div class="visitor"> 瀏覽人次：<em>52962147</em>人 </div>
+<div class="user">
+<ul>
+<li><a href="mp.asp?mp=1">民眾</a></li>
+<li><a href="mp.asp?mp=4">公務員</a></li>
+<li><a href="mp.asp?mp=7">人事人員</a></li>
+<li><a href="mp.asp?mp=11">退休人員</a></li>
+</ul>
+</div>
+<div class="custom">
+<div class="fontSet"><span><a id="toggleFont" href="#" onClick="MM_showHideLayers('fontSwitcherLayer','','bool'); return false;" onkeypress="MM_showHideLayers('fontSwitcherLayer','','bool'); return false;">字型大小</a></span><div id="fontSwitcherLayer">
+<ul>
+<li class="fontS"><a id="small" cat="font" href="xslgip/cpa/css/fontS.css" class="here" onclick="setActiveStyleSheet('small', 'font'); return false;" onkeypress="setActiveStyleSheet('small', 'font'); return false;">小</a></li>
+<li class="fontM"><a id="medium" cat="font" href="xslgip/cpa/css/fontM.css" onclick="setActiveStyleSheet('medium', 'font'); return false;" onkeypress="setActiveStyleSheet('medium', 'font'); return false;">中</a></li>
+<li class="fontL"><a id="large" cat="font" href="xslgip/cpa/css/fontL.css" onclick="setActiveStyleSheet('large', 'font'); return false;" onkeypress="setActiveStyleSheet('large', 'font'); return false;">大</a></li>
+</ul>
+</div>
+</div>
+<div class="colorSet"><span><a id="toggleColor" href="#" onClick="MM_showHideLayers('colorSwitcherLayer','','bool'); return false;" onkeypress="MM_showHideLayers('colorSwitcherLayer','','bool'); return false;">背景設定</a></span><div id="colorSwitcherLayer">
+<ul>
+<li><a id="color1" cat="color" href="mp.asp?mp=4"><img src="xslgip/cpa/images/color_green.gif" alt="綠"></a></li>
+<li><a id="color2" cat="color" href="
+				  mp.asp?mp=5
+				  "><img src="xslgip/cpa/images/color_purple.gif" alt="橘"></a></li>
+<li><a id="color3" cat="color" href="
+				  mp.asp?mp=6
+				  "><img src="xslgip/cpa/images/color_blue.gif" alt="藍"></a></li>
+</ul>
+</div>
+</div>
+<div class="colorSet"><span><a href="sp.asp?xdurl=personal/set.asp">個人化服務</a></span></div>
+</div><script language="javascript">
+			MM_showHideLayers('fontSwitcherLayer','','hide');
+			MM_showHideLayers('colorSwitcherLayer','','hide');
+			/*	var styleSwitcher1 = new Fx.Slide('fontSwitcherLayer').hide();
+				var styleSwitcher2 = new Fx.Slide('colorSwitcherLayer').hide();
+				window.addEvent('domready', function(){
+					$('toggleFont').addEvent('click', function(e){
+						e = new Event(e);
+						styleSwitcher2.slideOut();
+						styleSwitcher1.toggle();
+
+					});
+					$('toggleColor').addEvent('click', function(e){
+						e = new Event(e);
+						styleSwitcher1.slideOut();
+						styleSwitcher2.toggle();
+					});
+				});*/
+			</script><noscript>
+      當SCRIPT關閉時,您可藉由Tab配合Enter按鍵,選擇字型大小與背景色項目,
+      至於字級大小選擇,IE6請利用鍵盤按住ALT鍵 + V → X → (G)最大(L)較大(M)中(S)較小(A)小，來選擇適合您的文字大小,而IE7或Firefox瀏覽器則可利用鍵盤 Ctrl + (+)放大 (-)縮小來改變字型大小。
+      </noscript>
+</div>
+</div>
+<table class="layout" summary="首頁排版表格">
+<tr>
+<td class="leftbg">
+<div class="side">
+<div class="accesskey"><a href="sitemap.asp?mp=1" title="左方導覽區塊" accesskey="L">:::</a></div>
+<div id="zone.SideBarLeft">
+<div class="mlmenu menubg inaccesible arrow">
+<h2><img src="xslgip/cpa/images/menuh201.gif" alt="全球資訊網" title="全球資訊網"/></h2>
+<ul>
+<li><a href="np.asp?ctNode=1173&amp;mp=4">首長專欄</a><ul>
+<li><a href="np.asp?ctNode=1175&amp;CtUnit=114&amp;BaseDSD=7&amp;mp=4">人事長簡歷</a></li>
+<li><a href="np.asp?ctNode=1176&amp;CtUnit=117&amp;BaseDSD=7&amp;mp=4">副人事長簡歷</a></li>
+<li><a href="lp.asp?ctNode=1429&amp;CtUnit=503&amp;BaseDSD=7&amp;mp=4">歷任人事長介紹</a></li>
+<li><a href="np.asp?ctNode=1392&amp;mp=4">原人事局歷任首長簡介</a><ul>
+<li><a href="lp.asp?ctNode=1393&amp;CtUnit=118&amp;BaseDSD=7&amp;mp=4" title="原人事局歷任局長介紹">原人事局歷任局長介紹</a></li>
+<li><a href="lp.asp?ctNode=1394&amp;CtUnit=411&amp;BaseDSD=7&amp;mp=4" title="原人事局歷任副局長介紹">原人事局歷任副局長介紹</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=1179&amp;mp=4">關於人事總處</a><ul>
+<li><a href="ct.asp?CuItem=5161">願景</a></li>
+<li><a href="np.asp?ctNode=1181&amp;CtUnit=121&amp;BaseDSD=7&amp;mp=4">沿革</a></li>
+<li><a href="np.asp?ctNode=1183&amp;CtUnit=123&amp;BaseDSD=7&amp;mp=4">組織架構</a></li>
+<li><a href="lp.asp?ctNode=1147&CtUnit=124&BaseDSD=7&xq_xCat=A">施政計畫</a></li>
+<li><a href="np.asp?ctNode=1185&amp;CtUnit=125&amp;BaseDSD=7&amp;mp=4">單位電話一覽表</a></li>
+<li><a href="np.asp?ctNode=1186&amp;CtUnit=342&amp;BaseDSD=7&amp;mp=4">交通路線圖</a></li>
+</ul>
+</li>
+<li><a href="lp.asp?ctNode=1189&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">新聞稿</a></li>
+<li><a href="np.asp?ctNode=1194&amp;mp=4">人事頭條新聞</a></li>
+<li><a href="np.asp?ctNode=1197&amp;mp=4">法規查詢</a></li>
+<li><a href="np.asp?ctNode=1200&amp;mp=4">綜合規劃處</a><ul>
+<li><a href="lp.asp?ctNode=1201&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">綜合規劃</a></li>
+<li><a href="lp.asp?ctNode=1202&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">人事法制</a></li>
+<li><a href="lp.asp?ctNode=1203&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">人事人員管理</a></li>
+<li><a href="lp.asp?ctNode=1757&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">研訓創新</a></li>
+<li><a href="lp.asp?ctNode=2144&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">工友管理</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=1205&amp;mp=4">組編人力處</a><ul>
+<li><a href="lp.asp?ctNode=1206&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">員額管理</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=1210&amp;mp=4">培訓考用處</a><ul>
+<li><a href="lp.asp?ctNode=1213&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">國外培訓</a></li>
+<li><a href="lp.asp?ctNode=1382&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">國內培訓</a></li>
+<li><a href="lp.asp?ctNode=1207&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">考試分發</a></li>
+<li><a href="lp.asp?ctNode=1211&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">差勤獎懲</a></li>
+<li><a href="lp.asp?ctNode=2143&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">任免遷調</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=1215&amp;mp=4">給與福利處</a><ul>
+<li><a href="lp.asp?ctNode=1216&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">待遇加給</a></li>
+<li><a href="lp.asp?ctNode=1218&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">獎金費用</a></li>
+<li><a href="lp.asp?ctNode=1219&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">退撫保險</a></li>
+<li><a href="lp.asp?ctNode=1400&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">福利文康</a></li>
+<li><a href="np.asp?ctNode=1794&amp;mp=4">全國公教美展</a><ul>
+<li><a href="lp.asp?ctNode=1901&amp;CtUnit=671&amp;BaseDSD=7&amp;mp=4" title="103全國公教美展專輯 ">103全國公教美展專輯 </a></li>
+<li><a href="lp.asp?ctNode=1795&amp;CtUnit=595&amp;BaseDSD=7&amp;mp=4" title="102年全國公教美展">102年全國公教美展</a></li>
+<li><a href="lp.asp?ctNode=1796&amp;CtUnit=508&amp;BaseDSD=7&amp;mp=4" title="101年全國公教美展">101年全國公教美展</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=1224&amp;mp=4">人事資訊處</a><ul>
+<li><a href="lp.asp?ctNode=1225&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">人事資訊系統</a></li>
+<li><a href="https://pics.dgpa.gov.tw/" target="_nwGip">客服中心</a></li>
+</ul>
+</li>
+<li><a href="lp.asp?ctNode=1228&amp;CtUnit=127&amp;BaseDSD=7&amp;mp=4">業務Q&amp;A</a></li>
+<li><a href="np.asp?ctNode=1236&amp;mp=4">政府資訊公開專區</a><ul>
+<li><a href="http://law.moj.gov.tw/" target="_nwGip">法規</a></li>
+<li><a href="http://gazette.nat.gov.tw/" target="_nwGip">行政規則</a></li>
+<li><a href="np.asp?ctNode=1089&CtUnit=123&BaseDSD=7&mp=1">本總處組織及職掌</a></li>
+<li><a href="lp.asp?ctNode=1241&amp;CtUnit=124&amp;BaseDSD=7&amp;mp=4">施政計畫</a></li>
+<li><a href="np.asp?ctNode=1782&amp;mp=4">人力資源創新</a><ul>
+<li><a href="lp.asp?ctNode=1783&amp;CtUnit=554&amp;BaseDSD=7&amp;mp=4" title=" 相關規定 "> 相關規定 </a></li>
+<li><a href="lp.asp?ctNode=1784&amp;CtUnit=557&amp;BaseDSD=7&amp;mp=4" title="97年(第一屆)">97年(第一屆)</a></li>
+<li><a href="lp.asp?ctNode=1785&amp;CtUnit=556&amp;BaseDSD=7&amp;mp=4" title="98年(第二屆)">98年(第二屆)</a></li>
+<li><a href="lp.asp?ctNode=1786&amp;CtUnit=555&amp;BaseDSD=7&amp;mp=4" title="100年(第三屆)">100年(第三屆)</a></li>
+<li><a href="lp.asp?ctNode=1787&amp;CtUnit=588&amp;BaseDSD=7&amp;mp=4" title="102年(第四屆)">102年(第四屆)</a></li>
+<li><a href="lp.asp?ctNode=1930&amp;CtUnit=692&amp;BaseDSD=7&amp;mp=4" title="104年(第五屆) ">104年(第五屆) </a></li>
+</ul>
+</li>
+<li><a href="lp.asp?ctNode=1244&amp;CtUnit=129&amp;BaseDSD=7&amp;mp=4">研究發展</a></li>
+<li><a href="lp.asp?ctNode=1243&amp;CtUnit=128&amp;BaseDSD=7&amp;mp=4">研究報告</a></li>
+<li><a href="http://report.nat.gov.tw/ReportFront/index.jspx" target="_nwGip">出國考察報告</a></li>
+<li><a href="np.asp?ctNode=1779&amp;CtUnit=131&amp;BaseDSD=7&amp;mp=4">人事月刊</a></li>
+<li><a href="lp.asp?ctNode=1781&amp;CtUnit=132&amp;BaseDSD=7&amp;mp=4">出版品</a></li>
+<li><a href="lp.asp?ctNode=1369&amp;CtUnit=489&amp;BaseDSD=7&amp;mp=4">個人資料保護</a></li>
+<li><a href="lp.asp?ctNode=1246&amp;CtUnit=134&amp;BaseDSD=7&amp;mp=4">預算及決算書</a></li>
+<li><a href="np.asp?ctNode=1250&amp;CtUnit=138&amp;BaseDSD=7&amp;mp=4">支付或接受之補助</a></li>
+<li><a href="lp.asp?ctNode=1660&amp;CtUnit=582&amp;BaseDSD=7&amp;mp=4">政策宣導之廣告預算執行情形</a></li>
+<li><a href="np.asp?ctNode=1247&amp;CtUnit=135&amp;BaseDSD=7&amp;mp=4">請願之處理結果</a></li>
+<li><a href="lp.asp?ctNode=1248&amp;CtUnit=136&amp;BaseDSD=7&amp;mp=4">訴願之決定</a></li>
+<li><a href="np.asp?ctNode=1249&amp;CtUnit=137&amp;BaseDSD=7&amp;mp=4">書面之公共工程及採購契約</a></li>
+<li><a href="np.asp?ctNode=1240&amp;CtUnit=112&amp;BaseDSD=7&amp;mp=4">行政指導有關文書</a></li>
+<li><a href="np.asp?ctNode=1242&amp;CtUnit=133&amp;BaseDSD=7&amp;mp=4">業務統計</a></li>
+<li><a href="lp.asp?ctNode=1251&amp;CtUnit=139&amp;BaseDSD=7&amp;mp=4">本總處辦理國家賠償事件處理情形統計表</a></li>
+<li><a href="lp.asp?ctNode=1252&amp;CtUnit=468&amp;BaseDSD=7&amp;mp=4">本總處辦理人民申請提供政府資訊案件統計表</a></li>
+<li><a href="np.asp?ctNode=1904&amp;CtUnit=672&amp;BaseDSD=7&amp;mp=4">人事行政法制作業錦囊</a></li>
+<li><a href="mp.asp?mp=28" target="_nwGip">遊說法資訊專區</a></li>
+<li><a href="lp.asp?ctNode=2087&amp;CtUnit=694&amp;BaseDSD=7&amp;mp=4">開放資料</a></li>
+</ul>
+</li>
+<li><a href="lp.asp?ctNode=1253&amp;CtUnit=167&amp;BaseDSD=7&amp;mp=4">就業資訊</a></li>
+</ul>
+<div class="foot"></div>
+</div>
+<hr/>
+<div class="mlmenu menubg inaccesible arrow">
+<h2><img src="xslgip/cpa/images/menuh202.gif" alt="業務焦點" title="業務焦點"></h2>
+<ul>
+<li><a href="mp.asp?mp=39" title="行政院組織調整人事相關措施Q&amp;A">行政院組織調整人事相關措施Q&amp;A</a></li>
+<li><a href="mp.asp?mp=20" title="人事業務標準作業流程(另開新視窗)" target="_nwGip">人事業務標準作業流程</a></li>
+<li><a href="mp.asp?mp=62" title="行政法人專區(另開新視窗)" target="_nwGip">行政法人專區</a></li>
+<li><a href="ct.asp?xItem=3862&amp;ctNode=1258&amp;mp=4" title="人事資訊業務系統">人事資訊業務系統</a></li>
+<li><a href="mp.asp?mp=22" title="各國人事制度資料庫(另開新視窗)" target="_nwGip">各國人事制度資料庫</a></li>
+<li><a href="lp.asp?ctNode=767&amp;CtUnit=184&amp;BaseDSD=7" title="專業證照查詢">專業證照查詢</a></li>
+<li><a href="mp.asp?mp=36" title="中高階文官培訓園地(另開新視窗)" target="_nwGip">中高階文官培訓園地</a></li>
+<li><a href="mp.asp?mp=40" title="待遇專區(另開新視窗)" target="_nwGip">待遇專區</a></li>
+<li><a href="mp.asp?mp=210" title="委外及非典型人力運用專區(另開新視窗)" target="_nwGip">委外及非典型人力運用專區</a></li>
+<li><a href="mp.asp?mp=45" title="行政院組織改造專區(另開新視窗)" target="_nwGip">行政院組織改造專區</a></li>
+<li><a href="mp.asp?mp=46" title="頒發獎項專區(另開新視窗)" target="_nwGip">頒發獎項專區</a></li>
+</ul>
+<div class="more"><a href="np.asp?ctNode=1258&mp=4"><img src="xslgip/cpa/images/more.gif" alt="更多業務焦點" title="更多業務焦點"></a></div>
+<div class="foot"></div>
+</div>
+<div class="activities">
+<h2><img src="xslgip/cpa/images/activitiesh2.gif" alt="站內活動" title="站內活動"></h2>
+<div class="body">
+<ul>
+<li><a href="lp.asp?CtNode=500&amp;CtUnit=270&amp;BaseDSD=7&amp;mp=22&amp;xq_xCat=E" title="國外人事網站(另開新視窗)" target="_nwGip"><img src="public/Data/921811465771.jpg" alt="國外人事網站(另開新視窗)"></a></li>
+<li><a href="https://web3.dgpa.gov.tw/want03front/AP/WANTF00001.ASPX" title="事求人(另開新視窗)" target="_nwGip"><img src="public/Data/9171642171.gif" alt="事求人(另開新視窗)"></a></li>
+<li><a href="https://cpabom.dgpa.gov.tw/vlt" title="銀髮公教志工人力銀行(另開新視窗)" target="_nwGip"><img src="public/Data/07910231653.jpg" alt="銀髮公教志工人力銀行(另開新視窗)"></a></li>
+<li><a href="mp.asp?mp=61" title="公務人員考試分發專區(另開新視窗)" target="_nwGip"><img src="public/Data/2914971353.jpg" alt="公務人員考試分發專區(另開新視窗)"></a></li>
+</ul>
+<div class="more"><a href="np.asp?ctNode=1260&mp=4"><img src="xslgip/cpa/images/more.gif" alt="更多站內活動" title="更多站內活動"></a></div>
+</div>
+<div class="foot"></div>
+</div>
+</div>
+</div>
+</td>
+<td class="center">
+<div class="search"><label for="qStr">全文檢索</label><input name="qStr" id="qStr" type="text" value="請輸入關鍵字" class="Text" accesskey="S" onfocus="javascript:clearText(this);"><input name="advSearch" type="hidden" value="0"><input name="qbtn" type="image" src="xslgip/cpa/images/searchbutton.gif" class="Button" alt="查詢" onclick="javascript: SearchQ();" onkeypress="javascript: SearchQ();"><noscript>進階查詢功能使用SCRIPT編碼方式搜尋網站，如果您的瀏覽器不支援SCRIPT，請使用一般查詢功能進行網站搜尋</noscript><script type="text/javascript">
+				function SearchQ(){
+					window.location.href='sp.asp?xdURL=Search/GResult.asp&mp=4&q='+document.getElementById('qStr').value;
+				}
+			</script><script language="javascript">
+				function searchCheck() {
+					if( document.getElementById("qStr").value == ""){
+						alert("請輸入查詢條件");
+						document.gipSearch.qStr.focus();
+					}
+					//window.event.returnValue = false;
+				}
+				function advSearchLink(mp) {
+					//window.event.returnValue = false;
+					window.location.href = "/searchsp.asp?xdurl=search/advsearch.asp&mp=" + mp;
+				}
+
+				function clearText(x) {
+					if ("請輸入關鍵字"==x.value){
+						x.value="";
+					}
+				}
+
+				function doSubmitCheck() {
+					if (document.gipSearch.qStr.value=='請輸入關鍵字')	document.gipSearch.qStr.value='';
+					if (document.gipSearch.qStr.value == ''){
+						document.gipSearch.qStr.focus();
+					    return false;
+					}
+				}
+			</script></div>
+<div class="accesskey"><a href="sitemap.asp?mp=1" title="中央內容區塊" accesskey="C">:::</a></div>
+<div id="zone.content11">
+<div class="friendly">
+<div class="path"><span class="before">現在位置：</span><a href="mp.asp">首頁</a>
+				&gt;
+				<a href="np.asp?ctNode=1236">政府資訊公開專區</a>
+				&gt;
+				<a href="np.asp?ctNode=1660">政策宣導之廣告預算執行情形</a></div>
+<div class="function">
+<ul>
+<li><a class="print" href="fp.asp?fpage=cp&xItem=12740&ctNode=1660" title="友善列印(另開視窗)" target="_nwGip">
+						友善列印
+					</a></li>
+<li><a href="javascript:history.go(-1);" class="back" title="回上一頁">回上一頁</a></li>
+</ul>
+<div class="share"><span>分享：</span><ul>
+<li><a target="_blank" href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww%2Edgpa%2Egov%2Etw%2Fct%2Easp%3FxItem%3D12740%26ctNode%3D1660%26mp%3D4&title=104%E5%B9%B47%E6%9C%88%E4%BB%BD%E6%94%BF%E7%AD%96%E5%AE%A3%E5%B0%8E%E4%B9%8B%E5%BB%A3%E5%91%8A%E9%A0%90%E7%AE%97%E5%9F%B7%E8%A1%8C%E6%83%85%E5%BD%A2+"><img src="xslgip/cpa/images/share_f.gif" alt="facebook"></a></li>
+<li><a target="_blank" href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fwww%2Edgpa%2Egov%2Etw%2Fct%2Easp%3FxItem%3D12740%26ctNode%3D1660%26mp%3D4&text=104%E5%B9%B47%E6%9C%88%E4%BB%BD%E6%94%BF%E7%AD%96%E5%AE%A3%E5%B0%8E%E4%B9%8B%E5%BB%A3%E5%91%8A%E9%A0%90%E7%AE%97%E5%9F%B7%E8%A1%8C%E6%83%85%E5%BD%A2+&url=http%3A%2F%2Fwww%2Edgpa%2Egov%2Etw%2Fct%2Easp%3FxItem%3D12740%26ctNode%3D1660%26mp%3D4"><img src="xslgip/cpa/images/share_t.gif" alt="twitter"></a></li>
+<li><a href="javascript: void(window.open('http://www.plurk.com/?qualifier=shares&status=' .concat(encodeURIComponent(location.href)) .concat(' ') .concat('&#40;') .concat(encodeURIComponent(document.title)) .concat('&#41;')));"><img src="xslgip/cpa/images/share_p.gif" alt="plurk"></a></li>
+</ul>
+</div>
+<noscript>
+<div style="display:none;">本網頁使用Script但是您的瀏覽器並不支援</div>
+</noscript>
+<noscript>本網頁使用SCRIPT編碼方式執行回上一頁的動作，如果您的瀏覽器不支援SCRIPT，請直接使用「Alt+方向鍵向左按鍵」來返回上一頁</noscript>
+</div>
+</div>
+<div class="cp">
+<h2><span>政府資訊公開專區─政策宣導之廣告預算執行情形</span></h2>
+<h3>104年7月份政策宣導之廣告預算執行情形 </h3>
+<ul class="info">
+<li>張貼日期：<span>104.08.10</span></li>
+</ul>
+<p></p>
+<p align="right">單位：主計室第一科</p>
+<div class="download">
+<h3>附件下載</h3>
+<ul>
+<li><a target="_nwGIP" href="public/Attachment/58101444079.xls" title="104年7月份政策宣導之廣告預算執行情形 (xls)">104年7月份政策宣導之廣告預算執行情形 (xls)</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<div class="footer"><script type="text/javascript">
+				$(function(){
+					// 幫 div.qa_title 加上 hover 及 click 事件
+					// 同時把兄弟元素 div.qa_content 隱藏起來
+					$('div.sildeCtrl').click(function(){
+						// 當點到標題時，若答案是隱藏時則顯示它；反之則隱藏
+						$('.footer>.nav2>ul>li>ul').slideToggle(function(){
+							if($(this).is(':visible')){	$('.sildeCtrl span').contents().replaceWith('收合');}
+							else{$('.sildeCtrl span').contents().replaceWith('展開');}
+						});
+						$(this).toggleClass('close');
+					});
+				});
+			</script><div class="sildeCtrl"><span>展開</span></div>
+<div class="nav2">
+<ul>
+<li><a href="np.asp?ctNode=1173&amp;mp=4">首長專欄</a><ul>
+<li><a href="np.asp?ctNode=1175&amp;CtUnit=114&amp;BaseDSD=7&amp;mp=4">人事長簡歷</a></li>
+<li><a href="np.asp?ctNode=1176&amp;CtUnit=117&amp;BaseDSD=7&amp;mp=4">副人事長簡歷</a></li>
+<li><a href="lp.asp?ctNode=1429&amp;CtUnit=503&amp;BaseDSD=7&amp;mp=4">歷任人事長介紹</a></li>
+<li><a href="np.asp?ctNode=1392&amp;mp=4">原人事局歷任首長簡介</a><ul>
+<li><a href="lp.asp?ctNode=1393&amp;CtUnit=118&amp;BaseDSD=7&amp;mp=4" title="原人事局歷任局長介紹">原人事局歷任局長介紹</a></li>
+<li><a href="lp.asp?ctNode=1394&amp;CtUnit=411&amp;BaseDSD=7&amp;mp=4" title="原人事局歷任副局長介紹">原人事局歷任副局長介紹</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=1179&amp;mp=4">關於人事總處</a><ul>
+<li><a href="ct.asp?CuItem=5161">願景</a></li>
+<li><a href="np.asp?ctNode=1181&amp;CtUnit=121&amp;BaseDSD=7&amp;mp=4">沿革</a></li>
+<li><a href="np.asp?ctNode=1183&amp;CtUnit=123&amp;BaseDSD=7&amp;mp=4">組織架構</a></li>
+<li><a href="lp.asp?ctNode=1147&CtUnit=124&BaseDSD=7&xq_xCat=A">施政計畫</a></li>
+<li><a href="np.asp?ctNode=1185&amp;CtUnit=125&amp;BaseDSD=7&amp;mp=4">單位電話一覽表</a></li>
+<li><a href="np.asp?ctNode=1186&amp;CtUnit=342&amp;BaseDSD=7&amp;mp=4">交通路線圖</a></li>
+</ul>
+</li>
+<li><a href="lp.asp?ctNode=1189&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">新聞稿</a></li>
+<li><a href="np.asp?ctNode=1194&amp;mp=4">人事頭條新聞</a></li>
+<li><a href="np.asp?ctNode=1197&amp;mp=4">法規查詢</a></li>
+<li><a href="np.asp?ctNode=1200&amp;mp=4">綜合規劃處</a><ul>
+<li><a href="lp.asp?ctNode=1201&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">綜合規劃</a></li>
+<li><a href="lp.asp?ctNode=1202&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">人事法制</a></li>
+<li><a href="lp.asp?ctNode=1203&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">人事人員管理</a></li>
+<li><a href="lp.asp?ctNode=1757&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">研訓創新</a></li>
+<li><a href="lp.asp?ctNode=2144&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">工友管理</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=1205&amp;mp=4">組編人力處</a><ul>
+<li><a href="lp.asp?ctNode=1206&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">員額管理</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=1210&amp;mp=4">培訓考用處</a><ul>
+<li><a href="lp.asp?ctNode=1213&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">國外培訓</a></li>
+<li><a href="lp.asp?ctNode=1382&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">國內培訓</a></li>
+<li><a href="lp.asp?ctNode=1207&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">考試分發</a></li>
+<li><a href="lp.asp?ctNode=1211&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">差勤獎懲</a></li>
+<li><a href="lp.asp?ctNode=2143&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">任免遷調</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=1215&amp;mp=4">給與福利處</a><ul>
+<li><a href="lp.asp?ctNode=1216&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">待遇加給</a></li>
+<li><a href="lp.asp?ctNode=1218&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">獎金費用</a></li>
+<li><a href="lp.asp?ctNode=1219&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">退撫保險</a></li>
+<li><a href="lp.asp?ctNode=1400&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">福利文康</a></li>
+<li><a href="np.asp?ctNode=1794&amp;mp=4">全國公教美展</a><ul>
+<li><a href="lp.asp?ctNode=1901&amp;CtUnit=671&amp;BaseDSD=7&amp;mp=4" title="103全國公教美展專輯 ">103全國公教美展專輯 </a></li>
+<li><a href="lp.asp?ctNode=1795&amp;CtUnit=595&amp;BaseDSD=7&amp;mp=4" title="102年全國公教美展">102年全國公教美展</a></li>
+<li><a href="lp.asp?ctNode=1796&amp;CtUnit=508&amp;BaseDSD=7&amp;mp=4" title="101年全國公教美展">101年全國公教美展</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=1224&amp;mp=4">人事資訊處</a><ul>
+<li><a href="lp.asp?ctNode=1225&amp;CtUnit=105&amp;BaseDSD=7&amp;mp=4">人事資訊系統</a></li>
+<li><a href="https://pics.dgpa.gov.tw/" target="_nwGip">客服中心</a></li>
+</ul>
+</li>
+<li><a href="lp.asp?ctNode=1228&amp;CtUnit=127&amp;BaseDSD=7&amp;mp=4">業務Q&amp;A</a></li>
+<li><a href="np.asp?ctNode=1236&amp;mp=4">政府資訊公開專區</a><ul>
+<li><a href="http://law.moj.gov.tw/" target="_nwGip">法規</a></li>
+<li><a href="http://gazette.nat.gov.tw/" target="_nwGip">行政規則</a></li>
+<li><a href="np.asp?ctNode=1089&CtUnit=123&BaseDSD=7&mp=1">本總處組織及職掌</a></li>
+<li><a href="lp.asp?ctNode=1241&amp;CtUnit=124&amp;BaseDSD=7&amp;mp=4">施政計畫</a></li>
+<li><a href="np.asp?ctNode=1782&amp;mp=4">人力資源創新</a><ul>
+<li><a href="lp.asp?ctNode=1783&amp;CtUnit=554&amp;BaseDSD=7&amp;mp=4" title=" 相關規定 "> 相關規定 </a></li>
+<li><a href="lp.asp?ctNode=1784&amp;CtUnit=557&amp;BaseDSD=7&amp;mp=4" title="97年(第一屆)">97年(第一屆)</a></li>
+<li><a href="lp.asp?ctNode=1785&amp;CtUnit=556&amp;BaseDSD=7&amp;mp=4" title="98年(第二屆)">98年(第二屆)</a></li>
+<li><a href="lp.asp?ctNode=1786&amp;CtUnit=555&amp;BaseDSD=7&amp;mp=4" title="100年(第三屆)">100年(第三屆)</a></li>
+<li><a href="lp.asp?ctNode=1787&amp;CtUnit=588&amp;BaseDSD=7&amp;mp=4" title="102年(第四屆)">102年(第四屆)</a></li>
+<li><a href="lp.asp?ctNode=1930&amp;CtUnit=692&amp;BaseDSD=7&amp;mp=4" title="104年(第五屆) ">104年(第五屆) </a></li>
+</ul>
+</li>
+<li><a href="lp.asp?ctNode=1244&amp;CtUnit=129&amp;BaseDSD=7&amp;mp=4">研究發展</a></li>
+<li><a href="lp.asp?ctNode=1243&amp;CtUnit=128&amp;BaseDSD=7&amp;mp=4">研究報告</a></li>
+<li><a href="http://report.nat.gov.tw/ReportFront/index.jspx" target="_nwGip">出國考察報告</a></li>
+<li><a href="np.asp?ctNode=1779&amp;CtUnit=131&amp;BaseDSD=7&amp;mp=4">人事月刊</a></li>
+<li><a href="lp.asp?ctNode=1781&amp;CtUnit=132&amp;BaseDSD=7&amp;mp=4">出版品</a></li>
+<li><a href="lp.asp?ctNode=1369&amp;CtUnit=489&amp;BaseDSD=7&amp;mp=4">個人資料保護</a></li>
+<li><a href="lp.asp?ctNode=1246&amp;CtUnit=134&amp;BaseDSD=7&amp;mp=4">預算及決算書</a></li>
+<li><a href="np.asp?ctNode=1250&amp;CtUnit=138&amp;BaseDSD=7&amp;mp=4">支付或接受之補助</a></li>
+<li><a href="lp.asp?ctNode=1660&amp;CtUnit=582&amp;BaseDSD=7&amp;mp=4">政策宣導之廣告預算執行情形</a></li>
+<li><a href="np.asp?ctNode=1247&amp;CtUnit=135&amp;BaseDSD=7&amp;mp=4">請願之處理結果</a></li>
+<li><a href="lp.asp?ctNode=1248&amp;CtUnit=136&amp;BaseDSD=7&amp;mp=4">訴願之決定</a></li>
+<li><a href="np.asp?ctNode=1249&amp;CtUnit=137&amp;BaseDSD=7&amp;mp=4">書面之公共工程及採購契約</a></li>
+<li><a href="np.asp?ctNode=1240&amp;CtUnit=112&amp;BaseDSD=7&amp;mp=4">行政指導有關文書</a></li>
+<li><a href="np.asp?ctNode=1242&amp;CtUnit=133&amp;BaseDSD=7&amp;mp=4">業務統計</a></li>
+<li><a href="lp.asp?ctNode=1251&amp;CtUnit=139&amp;BaseDSD=7&amp;mp=4">本總處辦理國家賠償事件處理情形統計表</a></li>
+<li><a href="lp.asp?ctNode=1252&amp;CtUnit=468&amp;BaseDSD=7&amp;mp=4">本總處辦理人民申請提供政府資訊案件統計表</a></li>
+<li><a href="np.asp?ctNode=1904&amp;CtUnit=672&amp;BaseDSD=7&amp;mp=4">人事行政法制作業錦囊</a></li>
+<li><a href="mp.asp?mp=28" target="_nwGip">遊說法資訊專區</a></li>
+<li><a href="lp.asp?ctNode=2087&amp;CtUnit=694&amp;BaseDSD=7&amp;mp=4">開放資料</a></li>
+</ul>
+</li>
+<li><a href="lp.asp?ctNode=1253&amp;CtUnit=167&amp;BaseDSD=7&amp;mp=4">就業資訊</a></li>
+</ul>
+</div>
+</div><DIV class=footer>
+<DIV class=logo><IMG alt=logo src="xslgip/cpa/images/newfooterbgleft.jpg"></DIV><!--setting block start-->
+<DIV class=aaa><A title=無障礙網站 href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20141003151936" ><IMG border=0 alt=通過A+等級無障礙網頁檢測 src="xslgip/subcpa/images/aplus.jpg" width=88 height=31> </A></DIV><!--setting block end--><!--setting block start-->
+<DIV class=copyright>
+<DIV class=title>行政院人事行政總處</DIV>
+<UL>
+<LI><A href="content.asp?&amp;CuItem=13792">政府網站資料開放宣告</A></LI>
+<LI><A href="content.asp?&amp;CuItem=7853">網站著作權聲明</A></LI>
+<LI><A href="content.asp?&amp;CuItem=5054">隱私權宣告</A></LI>
+<LI><A href="content.asp?&amp;CuItem=5053">資訊安全政策</A></LI>
+<LI><A title="" href="content.asp?&amp;CuItem=6050">RSS訂閱說明</A></LI></UL></DIV><!--setting block end--><!--setting block start-->
+<P>‧行政院人事行政總處 版權所有 c2012 Directorate-General of Personnel Administration, Executive Yuan. <A href="ct.asp?xItem=6011&amp;CtNode=771">交通路線圖</A><BR>‧地址:10051台北巿濟南路一段2-2號10樓 Tel:(02)2397-9298 Fax:(02)2397-5565 建議瀏覽解析度 1024 x 768</P><!--setting block end--><!--setting block start-->
+<DIV class=egov><A title=我的e政府 href="http://www.gov.tw/" target=_blank><IMG title=我的e政府 alt=我的e政府 src="xslgip/cpa/images/egov.gif"></A> </DIV><!--setting block end--></DIV><!--footer End--><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6721194-2");
+pageTracker._trackPageview();
+} catch(err) {}
+</script></div>
+</body>
+</html>
+
+<script>
+function w3FP_close(reloadURL) {
+	if (reloadURL == "") {
+		location.reload();
+	} else{
+		location.reload(reloadURL);
+	}
+}
+</script>

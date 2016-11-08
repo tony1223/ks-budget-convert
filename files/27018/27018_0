@@ -1,0 +1,769 @@
+
+<!-- SCM Music Player http://scmplayer.net -->
+<script type="text/javascript" src="http://uld.judicial.gov.tw/SCM-Music-Player/script.js" 
+data-config="{'skin':'skins/orange/skin.css','volume':52,'autoplay':true,'shuffle':true,'repeat':0,'placement':'bottom','showplaylist':false,'playlist':[{'title':'love window','url':'http://uld.judicial.gov.tw/UserFiles/love window .mp3'},{'title':'愛的窗口','url':'http://uld.judicial.gov.tw/UserFiles/愛的窗口.mp3'}]}" ></script>
+<!-- SCM Music Player script end -->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh-TW">
+<head>
+<meta name="Accessible_website" content="本網站通過第(1)優先等級無障礙網頁檢測">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="Content-Type" content="text/html; charset=big5" />
+<title>臺灣雲林地方法院 : 首頁  &gt; 業務專欄 &gt; 會計專欄 > 資訊公開項目</title>
+<!--[if IE]>
+<script type="text/javascript" src="images/pngfix.js"></script>
+<![endif]--> 
+<script type="text/javascript">
+<!--
+function mover(st) {
+st.style.backgroundColor = '#f2f2f2';
+}
+function mout(st) {
+st.style.backgroundColor = '';
+}
+
+//將頁面中的關鍵字高亮顯示,在body的onload中使用
+function HighLight(nWord){
+    var orange = document.body.createTextRange();    
+        while(orange.findText(nWord)){
+            orange.pasteHTML("<span style='color:red;'>" + orange.text + "</span>");
+            orange.moveStart('character',1);            
+    }    
+}
+
+//將頁面中的關鍵字高亮顯示,在body的onload中使用(支持多個關鍵字，多個關鍵字用空格分開)
+function highword(nWord)
+{
+    //將全形空格(逗號)轉半型空格
+    nWord = nWord.replace(/\　/g,"|");    
+    nWord = nWord.replace(/\,/g,"|");    
+    nWord = nWord.replace(/\，/,"|");    
+    nWord = nWord.replace(/\ /g,"|");
+        
+    var Arr = nWord.split("|");
+    for(var i=0;i<Arr.length;i++){        
+        HighLight(Arr[i]);
+    }
+}
+
+
+function MM_CheckFlashVersion(reqVerStr,msg){
+  with(navigator){
+    var isIE  = (appVersion.indexOf("MSIE") != -1 && userAgent.indexOf("Opera") == -1);
+    var isWin = (appVersion.toLowerCase().indexOf("win") != -1);
+    if (!isIE || !isWin){  
+      var flashVer = -1;
+      if (plugins && plugins.length > 0){
+        var desc = plugins["Shockwave Flash"] ? plugins["Shockwave Flash"].description : "";
+        desc = plugins["Shockwave Flash 2.0"] ? plugins["Shockwave Flash 2.0"].description : desc;
+        if (desc == "") flashVer = -1;
+        else{
+          var descArr = desc.split(" ");
+          var tempArrMajor = descArr[2].split(".");
+          var verMajor = tempArrMajor[0];
+          var tempArrMinor = (descArr[3] != "") ? descArr[3].split("r") : descArr[4].split("r");
+          var verMinor = (tempArrMinor[1] > 0) ? tempArrMinor[1] : 0;
+          flashVer =  parseFloat(verMajor + "." + verMinor);
+        }
+      }
+      // WebTV has Flash Player 4 or lower -- too low for video
+      else if (userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 4.0;
+
+      var verArr = reqVerStr.split(",");
+      var reqVer = parseFloat(verArr[0] + "." + verArr[2]);
+  
+      if (flashVer < reqVer){
+        if (confirm(msg))
+          window.location = "http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash";
+      }
+    }
+  } 
+}
+//-->
+</script>
+<script type="text/javascript">
+//v1.7
+// Flash Player Version Detection
+// Detect Client Browser type
+// Copyright 2005-2007 Adobe Systems Incorporated.  All rights reserved.
+var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+
+function ControlVersion()
+{
+	var version;
+	var axo;
+	var e;
+
+	// NOTE : new ActiveXObject(strFoo) throws an exception if strFoo isn't in the registry
+
+	try {
+		// version will be set for 7.X or greater players
+		axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.7");
+		version = axo.GetVariable("$version");
+	} catch (e) {
+	}
+
+	if (!version)
+	{
+		try {
+			// version will be set for 6.X players only
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.6");
+			
+			// installed player is some revision of 6.0
+			// GetVariable("$version") crashes for versions 6.0.22 through 6.0.29,
+			// so we have to be careful. 
+			
+			// default to the first public version
+			version = "WIN 6,0,21,0";
+
+			// throws if AllowScripAccess does not exist (introduced in 6.0r47)		
+			axo.AllowScriptAccess = "always";
+
+			// safe to call for 6.0r47 or greater
+			version = axo.GetVariable("$version");
+
+		} catch (e) {
+		}
+	}
+
+	if (!version)
+	{
+		try {
+			// version will be set for 4.X or 5.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
+			version = axo.GetVariable("$version");
+		} catch (e) {
+		}
+	}
+
+	if (!version)
+	{
+		try {
+			// version will be set for 3.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
+			version = "WIN 3,0,18,0";
+		} catch (e) {
+		}
+	}
+
+	if (!version)
+	{
+		try {
+			// version will be set for 2.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash");
+			version = "WIN 2,0,0,11";
+		} catch (e) {
+			version = -1;
+		}
+	}
+	
+	return version;
+}
+
+// JavaScript helper required to detect Flash Player PlugIn version information
+function GetSwfVer(){
+	// NS/Opera version >= 3 check for Flash plugin in plugin array
+	var flashVer = -1;
+	
+	if (navigator.plugins != null && navigator.plugins.length > 0) {
+		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+			var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
+			var descArray = flashDescription.split(" ");
+			var tempArrayMajor = descArray[2].split(".");			
+			var versionMajor = tempArrayMajor[0];
+			var versionMinor = tempArrayMajor[1];
+			var versionRevision = descArray[3];
+			if (versionRevision == "") {
+				versionRevision = descArray[4];
+			}
+			if (versionRevision[0] == "d") {
+				versionRevision = versionRevision.substring(1);
+			} else if (versionRevision[0] == "r") {
+				versionRevision = versionRevision.substring(1);
+				if (versionRevision.indexOf("d") > 0) {
+					versionRevision = versionRevision.substring(0, versionRevision.indexOf("d"));
+				}
+			}
+			var flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
+		}
+	}
+	// MSN/WebTV 2.6 supports Flash 4
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
+	// WebTV 2.5 supports Flash 3
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
+	// older WebTV supports Flash 2
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
+	else if ( isIE && isWin && !isOpera ) {
+		flashVer = ControlVersion();
+	}	
+	return flashVer;
+}
+
+// When called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
+function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision)
+{
+	versionStr = GetSwfVer();
+	if (versionStr == -1 ) {
+		return false;
+	} else if (versionStr != 0) {
+		if(isIE && isWin && !isOpera) {
+			// Given "WIN 2,0,0,11"
+			tempArray         = versionStr.split(" "); 	// ["WIN", "2,0,0,11"]
+			tempString        = tempArray[1];			// "2,0,0,11"
+			versionArray      = tempString.split(",");	// ['2', '0', '0', '11']
+		} else {
+			versionArray      = versionStr.split(".");
+		}
+		var versionMajor      = versionArray[0];
+		var versionMinor      = versionArray[1];
+		var versionRevision   = versionArray[2];
+
+        	// is the major.revision >= requested major.revision AND the minor version >= requested minor
+		if (versionMajor > parseFloat(reqMajorVer)) {
+			return true;
+		} else if (versionMajor == parseFloat(reqMajorVer)) {
+			if (versionMinor > parseFloat(reqMinorVer))
+				return true;
+			else if (versionMinor == parseFloat(reqMinorVer)) {
+				if (versionRevision >= parseFloat(reqRevision))
+					return true;
+			}
+		}
+		return false;
+	}
+}
+
+function AC_AddExtension(src, ext)
+{
+  if (src.indexOf('?') != -1)
+    return src.replace(/\?/, ext+'?'); 
+  else
+    return src + ext;
+}
+
+function AC_Generateobj(objAttrs, params, embedAttrs) 
+{ 
+  var str = '';
+  if (isIE && isWin && !isOpera)
+  {
+    str += '<object ';
+    for (var i in objAttrs)
+    {
+      str += i + '="' + objAttrs[i] + '" ';
+    }
+    str += '>';
+    for (var i in params)
+    {
+      str += '<param name="' + i + '" value="' + params[i] + '" /> ';
+    }
+    str += '</object>';
+  }
+  else
+  {
+    str += '<embed ';
+    for (var i in embedAttrs)
+    {
+      str += i + '="' + embedAttrs[i] + '" ';
+    }
+    str += '> </embed>';
+  }
+
+  document.write(str);
+}
+
+function AC_FL_RunContent(){
+  var ret = 
+    AC_GetArgs
+    (  arguments, ".swf", "movie", "clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+     , "application/x-shockwave-flash"
+    );
+  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+}
+
+function AC_SW_RunContent(){
+  var ret = 
+    AC_GetArgs
+    (  arguments, ".dcr", "src", "clsid:166B1BCA-3F9C-11CF-8075-444553540000"
+     , null
+    );
+  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+}
+
+function AC_GetArgs(args, ext, srcParamName, classid, mimeType){
+  var ret = new Object();
+  ret.embedAttrs = new Object();
+  ret.params = new Object();
+  ret.objAttrs = new Object();
+  for (var i=0; i < args.length; i=i+2){
+    var currArg = args[i].toLowerCase();    
+
+    switch (currArg){	
+      case "classid":
+        break;
+      case "pluginspage":
+        ret.embedAttrs[args[i]] = args[i+1];
+        break;
+      case "src":
+      case "movie":	
+        args[i+1] = AC_AddExtension(args[i+1], ext);
+        ret.embedAttrs["src"] = args[i+1];
+        ret.params[srcParamName] = args[i+1];
+        break;
+      case "onafterupdate":
+      case "onbeforeupdate":
+      case "onblur":
+      case "oncellchange":
+      case "onclick":
+      case "ondblClick":
+      case "ondrag":
+      case "ondragend":
+      case "ondragenter":
+      case "ondragleave":
+      case "ondragover":
+      case "ondrop":
+      case "onfinish":
+      case "onfocus":
+      case "onhelp":
+      case "onmousedown":
+      case "onmouseup":
+      case "onmouseover":
+      case "onmousemove":
+      case "onmouseout":
+      case "onkeypress":
+      case "onkeydown":
+      case "onkeyup":
+      case "onload":
+      case "onlosecapture":
+      case "onpropertychange":
+      case "onreadystatechange":
+      case "onrowsdelete":
+      case "onrowenter":
+      case "onrowexit":
+      case "onrowsinserted":
+      case "onstart":
+      case "onscroll":
+      case "onbeforeeditfocus":
+      case "onactivate":
+      case "onbeforedeactivate":
+      case "ondeactivate":
+      case "type":
+      case "codebase":
+      case "id":
+        ret.objAttrs[args[i]] = args[i+1];
+        break;
+      case "width":
+      case "height":
+      case "align":
+      case "vspace": 
+      case "hspace":
+      case "class":
+      case "title":
+      case "accesskey":
+      case "name":
+      case "tabindex":
+        ret.embedAttrs[args[i]] = ret.objAttrs[args[i]] = args[i+1];
+        break;
+      default:
+        ret.embedAttrs[args[i]] = ret.params[args[i]] = args[i+1];
+    }
+  }
+  ret.objAttrs["classid"] = classid;
+  if (mimeType) ret.embedAttrs["type"] = mimeType;
+  return ret;
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<link href="layout.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body onload=";MM_preloadImages('images/uld_r4_c3_f2.jpg','images/uld_r4_c5_f2.jpg','images/uld_r4_c7_f2.jpg','images/uld_r4_c9_f2.jpg','images/uld_r4_c11_f2.jpg','images/uld_r4_c13_f2.jpg','images/uld_r4_c16_f2.jpg','images/uld_r4_c23_f2.jpg','images/topword_r1_c1_f2.gif','images/topword_r1_c3_f2.gif','images/topword_r1_c5_f2.gif')">
+<table width="10%" border="0" align="center" cellpadding="1" cellspacing="0" bgcolor="#CCCCCC" summary="網站排版用表格">
+  <tr>
+    <td>
+    <table width="10%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" summary="網站排版用表格">
+      <tr>
+        <td><table width="100%" border="0" cellspacing="0" cellpadding="0" summary="網站排版用表格">
+          <tr>
+            <td width="10%" rowspan="3"><img src="images/uld_r1_c1.jpg" width="703" height="140" alt="臺灣雲林地方法院" /></td>
+            <td><img src="images/uld_r1_c15.jpg" width="277" height="22" alt="" /></td>
+          </tr>
+          <tr>
+            <td background="images/uld_r2_c15.jpg" style="background-repeat:no-repeat"><img src="images/uld_r2_c14.jpg" alt="" width="86" height="23" align="absmiddle" /><a href="?sitemap=true" class="map" accesskey="U" title="上方主選單列">:::</a><img src="images/spacer.gif" width="4" height="1" alt="" /><a href="?" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image01','','images/topword_r1_c1_f2.gif',1)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image01','','images/topword_r1_c1_f2.gif',1)"><img src="images/topword_r1_c1.gif" alt="回到首頁" name="Image01" width="49" height="12" border="0" align="absmiddle" id="Image01" /></a><img src="images/spacer.gif" width="4" height="1" alt="" /><a href="?sitemap=true" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image02','','images/topword_r1_c3_f2.gif',1)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image02','','images/topword_r1_c3_f2.gif',1)"><img src="images/topword_r1_c3.gif" alt="網站地圖" name="Image02" width="50" height="12" border="0" align="absmiddle" id="Image02" /></a><img src="images/spacer.gif" width="4" height="1" alt="" /><a href="indexen.asp" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image03','','images/topword_r1_c5_f2.gif',1)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image03','','images/topword_r1_c5_f2.gif',1)"><img src="images/topword_r1_c5.gif" alt="English (Web)" name="Image03" width="50" height="12" border="0" align="absmiddle" id="Image03" /></a></td>
+          </tr>
+          <tr>
+            <td><img src="images/uld_r3_c15.jpg" width="277" height="95" alt="透明、效率、便民親民、清明的政治、清廉的法官" /></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td><table width="100%" border="0" cellspacing="0" cellpadding="0" summary="網站主選單排版用表格">
+          <tr>
+            <td><img src="images/uld_r4_c1.jpg" width="205" height="39" alt="" /></td>
+            <td><a href="?struID=1&amp;navID=1&amp;contentID=399" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image04','','images/uld_r4_c3_f2.jpg',1)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image04','','images/uld_r4_c3_f2.jpg',1)"><img src="images/uld_r4_c3.jpg" alt="認識本院" name="Image04" width="90" height="39" border="0" id="Image04" /></a></td>
+            <td><img src="images/uld_r4_c4.jpg" width="6" height="39" alt="" /></td>
+            <td><a href="?struID=3&amp;navID=3&amp;contentID=288" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image05','','images/uld_r4_c5_f2.jpg',1)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image05','','images/uld_r4_c5_f2.jpg',1)"><img src="images/uld_r4_c5.jpg" alt="便民服務" name="Image05" width="89" height="39" border="0" id="Image05" /></a></td>
+            <td><img src="images/uld_r4_c6.jpg" width="6" height="39" alt="" /></td>
+            <td><a href="?struID=4&amp;navID=4&amp;cid=13" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image06','','images/uld_r4_c7_f2.jpg',1)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image06','','images/uld_r4_c7_f2.jpg',1)"><img src="images/uld_r4_c7.jpg" alt="業務專欄" name="Image06" width="90" height="39" border="0" id="Image06" /></a></td>
+            <td><img src="images/uld_r4_c8.jpg" width="6" height="39" alt="" /></td>
+            <td><a href="?struID=5&amp;navID=5&amp;cid=37" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image07','','images/uld_r4_c9_f2.jpg',1)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image07','','images/uld_r4_c9_f2.jpg',1)"><img src="images/uld_r4_c9.jpg" alt="常見問答" name="Image07" width="89" height="39" border="0" id="Image07" /></a></td>
+            <td><img src="images/uld_r4_c10.jpg" width="6" height="39" alt="" /></td>
+            <td><a href="?struID=33&amp;navID=33&amp;cid=90" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image08','','images/uld_r4_c11_f2.jpg',1)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image08','','images/uld_r4_c11_f2.jpg',1)"><img src="images/uld_r4_c11.jpg" alt="書狀範例" name="Image08" width="90" height="39" border="0" id="Image08" /></a></td>
+            <td><img src="images/uld_r4_c12.jpg" width="6" height="39" alt="" /></td>
+            <td><a href="?struID=35&amp;cid=76" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image09','','images/uld_r4_c13_f2.jpg',1)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image09','','images/uld_r4_c13_f2.jpg',1)"><img src="images/uld_r4_c13.jpg" alt="少年園地" name="Image09" width="89" height="39" border="0" id="Image09" /></a></td>
+            <td><img src="images/uld_r4_c15.jpg" width="6" height="39" alt="" /></td>
+            <td><a href="?struID=15&amp;cid=28" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image10','','images/uld_r4_c16_f2.jpg',1)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','images/uld_r4_c16_f2.jpg',1)"><img src="images/uld_r4_c16.jpg" alt="廉政專欄" name="Image10" width="90" height="39" border="0" id="Image10" /></a></td>
+            <td><img src="images/uld_r4_c22.jpg" width="6" height="39" alt="" /></td>
+            <td><a href="?struID=7&amp;cid=7" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image11','','images/uld_r4_c23_f2.jpg',1)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','images/uld_r4_c23_f2.jpg',1)"><img src="images/uld_r4_c23.jpg" alt="聯絡信箱" name="Image11" width="89" height="39" border="0" id="Image11" /></a></td>
+            <td><img src="images/uld_r4_c28.jpg" width="15" height="39" alt="" /></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td><table width="100%" border="0" cellpadding="0" cellspacing="0" summary="網站排版用表格">
+            <tr valign="top">
+              <td width="8%" background="images/uld_r21_c1.jpg" ><table width="100%" border="0" cellpadding="0" cellspacing="0" summary="網站排版用表格">        
+                <tr>
+                  <td align="left"><img src="images/uld_r5_c1.jpg" width="191" height="115" alt="" /></td>
+                </tr>
+                <tr>
+                  <td align="center"><a href="?sitemap=true" class="map" accesskey="L" title="左側選單列">:::</a></td>
+                </tr>
+                <tr>
+                  <td align="left"><img src="images/uld_r9_c1.jpg" alt="資料查詢" width="191" height="53" border="0" /></td>
+                </tr>
+                <tr>
+                  <td align="center"><form action="" method="get" class="searchform" >
+                    <input name="searchtype" type="radio" value="bulletin" checked="checked" />
+                    公告
+  <input name="searchtype" type="radio" value="website" />
+                    站內資料
+                    <label for="label" style="color:#FFFFFF; font-size:0.1em">查</label>
+  <br />
+  <input name="keyword" type="text" class="textbox" id="label" value="請輸入關鍵字" size="13" accesskey="S"onblur="javascript: if(this.value=='') this.value='請輸入關鍵字';" onfocus="javascript: if(this.value=='請輸入關鍵字') this.value='';"/>
+  <input name="search" type="hidden" class="textbox" id="search" value="true" />
+                  <input type="submit" value="查詢" style="color:#FFFFFF; background-color:#FF6600; border-color:#FF9900; border-style: outset; border-width: 0.1ex;" />
+                  </form></td>
+             </tr>
+                <tr>
+                  <td>
+                      <img src="images/uld_r11_c1.jpg" alt="相關單元" width="191" height="52" />     
+                  </td>
+                </tr>
+                <tr>
+                  <td><img src="images/uld_r13_c1.jpg" alt="" width="191" height="10" /></td>
+                </tr>
+                <tr><td><table width="85%" border="0" cellpadding="0" cellspacing="0" style="margin-left:10px;" summary="網站排版用表格">
+                  
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/info2.gif" alt="*" width="20" height="20" align="absmiddle" />  
+                        <a href="?struID=4&amp;cid=13" title="民事業務"><strong>民事業務</strong></a>
+													</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/info2.gif" alt="*" width="20" height="20" align="absmiddle" />  
+                        <a href="?struID=4&amp;cid=93" title="家事業務"><strong>家事業務</strong></a>
+													</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/info2.gif" alt="*" width="20" height="20" align="absmiddle" />  
+                        <a href="?struID=4&amp;cid=18" title="民事執行"><strong>民事執行</strong></a>
+													</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/info2.gif" alt="*" width="20" height="20" align="absmiddle" />  
+                        <a href="?struID=4&amp;cid=12" title="刑事業務"><strong>刑事業務</strong></a>
+													</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/info2.gif" alt="*" width="20" height="20" align="absmiddle" />  
+                        <a href="?struID=4&amp;cid=16" title="會計專欄"><strong>會計專欄</strong></a>
+						
+                        <table width="95%" border="0" align="right" summary="網站排版用表格">
+						
+                        </table>
+													</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/info2.gif" alt="*" width="20" height="20" align="absmiddle" />  
+                        <a href="?struID=4&amp;cid=17" title="統計專欄"><strong>統計專欄</strong></a>
+													</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/info2.gif" alt="*" width="20" height="20" align="absmiddle" />  
+                        <a href="?struID=4&amp;cid=94" title="人事業務"><strong>人事業務</strong></a>
+													</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/info2.gif" alt="*" width="20" height="20" align="absmiddle" />  
+                        <a href="?struID=4&amp;cid=21" title="公證業務"><strong>公證業務</strong></a>
+													</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/info2.gif" alt="*" width="20" height="20" align="absmiddle" />  
+                        <a href="?struID=4&amp;cid=91" title="登記業務"><strong>登記業務</strong></a>
+													</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/info2.gif" alt="*" width="20" height="20" align="absmiddle" />  
+                        <a href="?struID=4&amp;cid=92" title="提存業務"><strong>提存業務</strong></a>
+													</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/info2.gif" alt="*" width="20" height="20" align="absmiddle" />  <a href="http://uld.judicial.gov.tw/?struID=5&cid=41" title="非訟業務(另開新視窗)" target="_blank"><strong>
+                        非訟業務</strong></a>
+                        							</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/info2.gif" alt="*" width="20" height="20" align="absmiddle" />  
+                        <a href="?struID=4&amp;cid=96" title="政風專欄"><strong>政風專欄</strong></a>
+													</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/info2.gif" alt="*" width="20" height="20" align="absmiddle" />  
+                        <a href="?struID=4&amp;cid=104" title="文書業務"><strong>文書業務</strong></a>
+													</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/info2.gif" alt="*" width="20" height="20" align="absmiddle" />  
+                        <a href="?struID=4&amp;cid=105" title="研考業務"><strong>研考業務</strong></a>
+													</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/info2.gif" alt="*" width="20" height="20" align="absmiddle" />  
+                        <a href="?struID=4&amp;cid=113" title="訴訟輔導"><strong>訴訟輔導</strong></a>
+													</td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><img src="images/info2.gif" alt="*" width="20" height="20" align="absmiddle" />  
+                        <a href="?struID=4&amp;cid=114" title="行政訴訟"><strong>行政訴訟</strong></a>
+													</td>
+                         </tr>
+                    
+                  </table></td>
+                  </tr>
+                  <tr>
+                    <td><img src="images/uld_r13_c1.jpg" alt="" /></td>
+                    </tr>
+                  <tr>
+                    <td><img src="images/uld_r21_c1.jpg" alt="" /></td>
+                    </tr>
+                  <tr>
+                    <td><img src="images/uld_r22_c1.jpg" alt="常用查詢" /></td>
+                    </tr>
+                  <tr><td>
+                      <div class="selectIL">
+                        <li><font color="#810081"><a target="_blank" href="http://www.judicial.gov.tw/db/alx.asp"><font color="#ff0000">法拍屋資訊服務站</font></a> </font></li>
+<li><a target="_blank" href="http://210.69.124.97/abbs/wkw/WHD1A01.jsp?court=ULD">裁判主文查詢</a> </li>
+<li><a target="_blank" href="http://nwjirs.judicial.gov.tw/Index.htm">裁判書查詢</a> </li>
+<li><a target="_blank" href="http://210.69.124.97/abbs/wkw/WHD3A01.jsp?court=ULD">庭期查詢服務</a> </li>
+<li><a target="_blank" href="http://www.judicial.gov.tw/ctstate/getctstate.asp?courtcode=ULD">開庭進度查詢</a> </li>
+<li><a target="_blank" href="http://nwjirs.judicial.gov.tw/Index.htm">法學資料檢索</a> </li>
+<li><a title="連結至司法院特約通譯名冊(另開新視窗)" target="_blank" href="http://www.judicial.gov.tw/Intrprtr/">特約通譯名冊</a> </li>
+<li><a title="各科室電話分機表" target="_blank" href="?struID=1&amp;cid=111&amp;selectID=397">各科室電話分機表</a> </li>
+<li><a href="/UserFiles/yung/105.09各類專業法庭（股）設置情形表.docx"><font color="#ff0000">專業法庭（股）設置情形</font></a></li></div>
+                    
+                  </td></tr>
+                
+                  
+
+                  <tr>
+                    <td><img src="images/uld_r21_c1.jpg" alt="" width="191" height="8" /></td>
+                  </tr>
+              </table></td>
+            <td width="100%" align="left" background="images/tpp_r3_c2.jpg" bgcolor="#FFFFFF" class="norepeat" >
+              <div id="mainContent">
+                <table width="100%" border="0" class="navgate" summary="排版用表格">
+                  <tr>
+                    <td><a href="?sitemap=true" class="map" accesskey="C" title="主要內容區">:::</a> <img src="images/home01.gif" alt="導覽首頁圖示" width="24" height="22" align="absmiddle" /><font color="#FFFFFF">-</font><a href="?" title="首頁">首頁</a>
+                         &gt; <a href='?struID=4&cid=4' title='業務專欄'>業務專欄</a> &gt; <a href='?struID=4&cid=16' title='會計專欄'>會計專欄</a>
+                      &gt; 資訊公開項目                    </td>
+                   
+                  </tr>
+                </table>
+                
+                  <h1>會計專欄</h1>
+                <h2>資訊公開項目</h2>
+                <p><p>預　　算：<a href="http://uld.judicial.gov.tw/歲入來源別預算表.pdf"><font color="#800080">1.95年歲入來源別預算表</font></a> 　　　　　<a href="http://uld.judicial.gov.tw/歲出機關別預算表.pdf"><font color="#0066cc">2.95年歲出機關別預算表</font></a><br />
+　　　　　<a href="http://uld.judicial.gov.tw/96年歲入來源別預算表.htm"><font color="#800080">3.96年歲入來源別預算表</font></a> 　　　　　<a href="http://uld.judicial.gov.tw/96年歲出機關別預算表.htm"><font color="#0066cc">4.96年歲出機關別預算表</font></a><br />
+　　　　　<a href="http://uld.judicial.gov.tw/97年歲入來源別預算表.htm"><font color="#800080">5.97年歲入來源別預算表</font></a> 　　　　　<a href="http://uld.judicial.gov.tw/97年歲出機關別預算表.htm"><font color="#0066cc">6.97年歲出機關別預算表</font></a></p>
+<p><br />
+決　　算：<a href="http://uld.judicial.gov.tw/94歲入來源別決算表.pdf"><font color="#0066cc">1.94年歲入來源別決算表</font></a> 　　　　　<a href="http://uld.judicial.gov.tw/94歲出機關別決算表.pdf"><font color="#0066cc">2.94年歲出機關別決算表</font></a> <a href="http://uld.judicial.gov.tw/94年度決算.pdf"><font color="#0066cc">94年度決算書 97.9.25</font></a><br />
+　　　　　<a href="http://uld.judicial.gov.tw/095-1.pdf"><font color="#0066cc">3.95年歲入來源別決算表</font></a> 　　　　　<a href="http://uld.judicial.gov.tw/095-2.pdf"><font color="#0066cc">4.95年歲出機關別決算表</font></a> <a href="http://uld.judicial.gov.tw/95年度決算.pdf"><font color="#0066cc">95年度決算書 97.9.25</font></a><br />
+　　　　　<a href="http://uld.judicial.gov.tw/096-1.pdf"><font color="#0066cc">5.96年歲入來源別決算表</font></a> 　　　　　<a href="http://uld.judicial.gov.tw/096-2.pdf"><font color="#0066cc">6.96年歲出機關別決算表</font></a> <a href="http://uld.judicial.gov.tw/96年度決算.pdf"><font color="#0066cc">96年度決算書 97.9.25</font></a><br />
+　　　　　<a href="http://uld.judicial.gov.tw/097-1.pdf"><font color="#0066cc">7.97年歲入來源別決算表</font></a> 　　　　　<a href="http://uld.judicial.gov.tw/097-2.pdf"><font color="#0066cc">8.97年歲出機關別決算表</font></a> <a href="http://uld.judicial.gov.tw/97年度決算書.pdf"><font color="#0066cc">97年度決算書 98.3.20</font></a><br />
+　　　　　<a href="http://uld.judicial.gov.tw/98年度決算書.pdf"><font color="#0066cc">9.98年度決算書 99.4.13</font></a> 　　　　&nbsp; &nbsp;<a href="http://uld.judicial.gov.tw/99年度決算書.pdf"><font color="#0066cc">10.99年度決算書 100.4.13</font></a><br />
+　　&nbsp; 　　<a href="/UserFiles/100單位決算.pdf">11.100單位決算書 101.5.10</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/UserFiles/101年度決算書102.05.16.pdf">12.101年度決算書102.5.16</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/UserFiles/joy214/102年度決算書.pdf">13.102年度決算書103.05.19</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/UserFiles/hch5327/13.102年度決算書(審定)103.09.10.pdf">14.102年度決算書(審定)103.9.10</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/UserFiles/103雲林地院決算公告檔.pdf">15.103年度決算書104.04.08</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/UserFiles/103年度單位決算起(XLM).zip">16.103年度決算書(XML)104.07.22</a>&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#0000ff">&nbsp;</font><a href="/UserFiles/103雲林地院決算公告檔.pdf"><font color="#0000ff">17</font></a>.&nbsp;<a href="/UserFiles/BOOK/104年度決算公告.pdf">104年度決算書(PDF)</a><font color="#0000ff">105.2.22</font>&nbsp;&nbsp;&nbsp;&nbsp; <a href="/UserFiles/103雲林地院決算公告檔.pdf"><font color="#0000ff">18</font></a>.<font color="#0000ff">104年度</font><a href="/UserFiles/book/104-12-0553-決算書表-20160222092119.7z">決算書</a>(<a href="/UserFiles/BOOK/104年單位決算(XML).zip">XML).105.2.22</a>&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/UserFiles/103雲林地院決算公告檔.pdf"><font color="#0000ff">19</font></a><font color="#0000ff">.</font>&nbsp;<font color="#0066cc"><a href="/UserFiles/BOOK/104年度決算公告檔(院修後版).pdf">104年度院修版決算書(PDF)</a><font color="#0000ff">105.9.23</font>&nbsp;&nbsp;&nbsp;&nbsp;<font color="#0000ff"> </font><a href="/UserFiles/103雲林地院決算公告檔.pdf"><font color="#0000ff">20</font></a>.<font color="#0066cc"><a href="/UserFiles/book/104-12-0553-決算書表-20160923165943.7z">104年度院修版決算書(XML)</a><a href="/UserFiles/BOOK/104年單位決算(XML).zip">105.9.23</a>&nbsp;</font></font></p>
+<p>法<font color="#0066cc">定預算：<a href="http://uld.judicial.gov.tw/100年預算公告.pdf"><font color="#0066cc">1.100年度 100.3.08 </font></a>　　　　　<a href="http://uld.judicial.gov.tw/99年度法定預算.pdf"><font color="#0066cc">2.99年度 99.3.22</font></a> 　　　　　<a href="http://uld.judicial.gov.tw/98年度法定預算.pdf"><font color="#0066cc">3.98年度 98.3.18</font></a><br />
+　　　　　<a href="http://uld.judicial.gov.tw/97年度法定預算.pdf"><font color="#800080">4.097年度 097.9.25</font></a> 　　　　　<a href="http://uld.judicial.gov.tw/96年度預算.pdf"><font color="#0066cc">5.96年度 97.9.25</font></a> 　　　　　<a href="http://uld.judicial.gov.tw/95年度預算.pdf"><font color="#0066cc">6.95年度 97.9.25</font></a><br />
+　　　　　<a href="/UserFiles/101年度預算.pdf">7.101年度102.2.16</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/UserFiles/102年度臺灣雲林地方法院單位預算-總預算.pdf">8.102年度 102.3.4</a> 　　　　&nbsp; <a href="/UserFiles/103年度單位預算.pdf"><font color="#0066cc">9.103年度 103.2.24</font></a><br />
+　　　&nbsp; 　<a target="_blank" href="/UserFiles/104年度.pdf">10.104年度104.3.6</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/UserFiles/104-法定預算XML.zip">11.104年度XML 104.3.6</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/UserFiles/104年度(Word. Excel).zip">12.104年度(Word. Excel) 104.3.6</a><br />
+　　　&nbsp; 　<a target="_blank" href="/UserFiles/105年度(PDF).pdf">13.105年度(PDF)105.1.27</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/UserFiles/105年度XML.zip">14.105年度(XML)105.1.27</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/UserFiles/105年度(Word.Excel).zip">15.105年度(Word.Excel)105.1.27</a><br />
+</font></p>
+<p>&nbsp;預 算 案：&nbsp;1.<a href="/UserFiles/102年度臺灣雲林地方法院單位預算.pdf">102年度&nbsp; 101.12.7</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;<a href="/UserFiles/103年度單位預算案.pdf">103年度 102.9.16</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.<a target="_blank" href="/UserFiles/sj309/１０４年度預算案.pdf">104年度 103.9.3</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.<a href="/UserFiles/104-預算案XML.zip">104年度XML 104.3.6</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.&nbsp;<a href="/UserFiles/hch5327/105年度.pdf">105年度 104.9.4</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6.<a target="_blank" href="/UserFiles/hch5327/105年度XML.zip">105年度XML 104.9.4</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.<a href="/UserFiles/hch5327/106年度(PDF).pdf">106年度(PDF).pdf</a>&nbsp;105.8.29&nbsp;&nbsp; &nbsp;&nbsp;8.<a href="/UserFiles/hch5327/106年度(Word.Excel).zip">106年度(Word.Excel).zip</a>&nbsp;105.829&nbsp; 9.<a href="/UserFiles/hch5327/106年度XML.zip">106年度XML.zip</a>&nbsp;105.829<br />
+<br />
+</p>
+<p>&nbsp;會計報告:&nbsp; 1.104年1月份會計報告(<a href="/UserFiles/hch5327/104-01-0553-會計月報-20150723103848.zip">104-01-0553-會計月報-XML.zip</a>&nbsp; <a href="/UserFiles/hch5327/104年1月.pdf">104年1月.pdf</a>&nbsp;)&nbsp;&nbsp;104.7.27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.104年2月份會計報告(<a href="/UserFiles/hch5327/104-02-0553-會計月報-20150723110432.zip">104-02-0553-會計月報-XML.zip</a>&nbsp;&nbsp; <a href="/UserFiles/hch5327/104年2月.pdf">104年2月.pdf</a>)&nbsp;104.7.27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.104年3月份會計報告(<a href="/UserFiles/hch5327/104-03-0553-會計月報-20150723110835.zip">104-03-0553-會計月報-XML.zip</a>&nbsp;&nbsp; <a href="/UserFiles/hch5327/104年3月.pdf">104年3月.pdf</a>)&nbsp; 104.7.27</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.104年4月份會計報告(<a href="/UserFiles/hch5327/104-04-0553-會計月報-20150723111050.ZIP">104-04-0553-會計月報-XML.ZIP</a>&nbsp; <a href="/UserFiles/hch5327/104年4月.pdf">104年4月.pdf</a>)&nbsp;&nbsp;104.7.27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.104年5月份會計報告(<a href="/UserFiles/hch5327/104-05-0553-會計月報-20150723111321.zip">104-05-0553-會計月報</a><a href="/UserFiles/book/105年5月XML.zip">.zip</a><a href="/UserFiles/hch5327/104-05-0553-會計月報-20150723111321.zip">XML.zip</a>&nbsp;&nbsp; <a href="/UserFiles/hch5327/104年5月.pdf">104年5月.pdf</a>)&nbsp;&nbsp;104.7.27&nbsp;&nbsp;&nbsp;&nbsp; </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6.104年6月份會計報告(<a href="/UserFiles/hch5327/104-06-0553-會計月報-20150723111620.zip">104-06-0553-會計月報-XML.zip</a>&nbsp;&nbsp; &nbsp;<a href="/UserFiles/hch5327/104年6月.pdf">104年6月.pdf</a>)&nbsp; 104.7.27&nbsp;&nbsp;&nbsp;&nbsp; </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.104年7月份會計報告(<a href="/UserFiles/hch5327/104-07-0553-會計月報-20150810104605.zip"><font color="#0000ff">104-07-0553-會計月報-XML.zip</font></a><font color="#0000ff">&nbsp;&nbsp;&nbsp;&nbsp;</font><a href="/UserFiles/hch5327/7月份會計報告PDF.pdf"><font color="#0000ff">104年7月.pdf</font></a>)&nbsp; 104.8.10&nbsp;&nbsp;&nbsp;&nbsp; </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 8.104年8月份會計報告(<a href="/UserFiles/book/8月份會計告(XML).zip">104-08-0553-會計月報告-XML.zip</a>&nbsp;&nbsp;<a href="/UserFiles/book/8月份會計報告(PDF).pdf">104年8月.pdf</a>)&nbsp; 104.9.14&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.104年9月份會計報告(<a href="/UserFiles/book/9月份會計報告(XLM).zip">104-09-0553-會計月報告-XLM.zip</a>&nbsp; <a href="/UserFiles/book/9月份會計報告(PDF).pdf">104年9月.pdf</a>&nbsp;) 104.10.13&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;10.104年10月份會計報告(<a href="/UserFiles/book/9月份會計報告(XLM).zip"><font color="#0000ff">104-10-0553-會</font></a><a href="/UserFiles/book/104年10月會計報告(XML).zip"><font color="#0000ff">計月報XML.zip</font></a><font color="#0000ff">&nbsp; </font><a href="/UserFiles/book/9月份會計報告(XLM).zip"></a><a href="/UserFiles/book/10月份會計報告(PDF).pdf"><font color="#0000ff">104年10月</font></a>.<a href="/UserFiles/book/9月份會計報告(PDF).pdf"><font color="#0000ff">pdf</font></a>&nbsp;) 104.11.11&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;11.104年11月份會計報告(<font style="BACKGROUND-COLOR: #ffffff" color="#0000ff">104-11-0553-會計月報</font><a href="/UserFiles/BOOK/11月份會計報告( XLM).zip"><font style="BACKGROUND-COLOR: #ffffff" color="#0000ff"> XLM.zip</font></a><font color="#0000ff">&nbsp; <u>104年11月.</u></font><a href="/UserFiles/BOOK/11月份會計報告(PDF).pdf"><font color="#0000ff">pdf</font></a>) 104.12.11&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12.104年12月份會計報告(<font color="#0000ff">104-12-0553會計</font><a href="/UserFiles/BOOK/12月份會計報告(XLM).zip"><font color="#0000ff">月報XLM.zip</font></a><font color="#0000ff">&nbsp;<u>104年12</u></font><a href="/UserFiles/BOOK/12月會計報告(PDF).pdf"><font color="#0000ff">月</font></a><u>.</u><a href="/UserFiles/BOOK/11月份會計報告(PDF).pdf"><font color="#0000ff">pdf</font></a>) 105.1.28&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13.105年1月份會計月報<a href="/UserFiles/book/105年1月份會計月報(XLM)0.zip">(</a><a href="/UserFiles/book/105年1月xml.zip">XML</a>)&nbsp;<a href="/UserFiles/BOOK/105年1月份會計月報(PDF).pdf">(</a><a href="/UserFiles/book/105年1月PDF.pdf">PDF</a><a href="/UserFiles/BOOK/105年1月份會計月報(PDF).pdf">)</a> 105.2.22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 14.105年2月份會計月報(<a href="/UserFiles/book/105年2月XML.zip">XML</a><a href="/UserFiles/BOOK/105年2月份會計月報(XML).zip">)</a>&nbsp;<font color="#0066cc"><a href="/UserFiles/BOOK/105年2月會計月報(PDF)0.pdf">(</a><a href="/UserFiles/book/105年2月PDF.pdf">PDF</a><a href="/UserFiles/BOOK/105年1月份會計月報(PDF).pdf">)</a> <font color="#000000">105.3.10</font>&nbsp;</font></p>
+<p><font color="#0066cc"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 15.105年3月份會計月報</font><font color="#0066cc"><a href="/UserFiles/book/105年3月會計月報(XML).zip">(</a><a href="/UserFiles/book/105年3月XML.zip">XML</a><a href="/UserFiles/BOOK/105年2月份會計月報(XML).zip">)</a><font color="#000000">&nbsp;<a href="/UserFiles/book/105年3月份會計月報(PDF).pdf">(</a><a href="/UserFiles/book/105年3月PDF.pdf">PDF</a></font><font color="#0066cc"><a href="/UserFiles/BOOK/105年1月份會計月報(PDF).pdf"><font color="#0066cc">)</font></a> </font></font></font><font color="#000000">105.4.12</font></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 16.105年4月份會計月報<font color="#0066cc"><a href="/UserFiles/book/105年3月會計月報(XML).zip"><font color="#0066cc">(</font></a><a href="/UserFiles/book/105年4月XML.zip">XML</a><a href="/UserFiles/BOOK/105年2月份會計月報(XML).zip"><font color="#0066cc">)</font></a><font color="#000000">&nbsp;<a href="/UserFiles/book/105年3月份會計月報(PDF).pdf"><font color="#0066cc">(</font></a><a href="/UserFiles/BOOK/105年4月PDF.pdf">PDF</a><a href="/UserFiles/book/105年4月份會計月報(PDF).pdf">)</a></font><font color="#0066cc"> </font></font><font color="#000000">105.5.11&nbsp;</font></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17.105年5月份會計月報<font color="#0066cc"><a href="/UserFiles/book/105年3月會計月報(XML).zip"><font color="#0066cc">(</font></a><a href="/UserFiles/book/105年5月XML.zip">XML</a><a href="/UserFiles/BOOK/105年2月份會計月報(XML).zip"><font color="#0066cc">)</font></a><font color="#000000">&nbsp;<a href="/UserFiles/book/105年3月份會計月報(PDF).pdf"><font color="#0066cc">(</font></a><font color="#0066cc"><a href="/UserFiles/BOOK/105年5月會計月報(PDF).pdf">(PDF)</a><a href="/UserFiles/book/105年4月份會計月報(PDF).pdf">)</a></font></font><font color="#0066cc"> </font></font><font color="#000000">105.6.13</font>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;18.105年6月份會計月報<font color="#0066cc"><a href="/UserFiles/BOOK/105年6月會計月報(XML) (3).zip">(</a><a href="/UserFiles/book/105年6月XML (1).zip">XML </a><a href="/UserFiles/BOOK/105年6月會計月報(XML) (3).zip">)</a><font color="#000000">&nbsp;<a href="/UserFiles/book/105年3月份會計月報(PDF).pdf"><font color="#0066cc">(</font></a><a href="/UserFiles/BOOK/105年6月會計月報(PDF)0.pdf">PDF)</a></font></font><font color="#000000">105.7.12</font>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;19.105年7月份會計月報<font color="#0066cc"><a href="/UserFiles/BOOK/105年6月會計月報(XML) (3).zip"><font color="#0066cc">(</font></a><a href="/UserFiles/book/105年7月(XML).zip">XML</a>)<font color="#000000">&nbsp;<a href="/UserFiles/book/105年3月份會計月報(PDF).pdf"><font color="#0066cc">(</font></a><a href="/UserFiles/book/105年7月會計月報(PDF).pdf">PDF</a><a href="/UserFiles/BOOK/105年6月會計月報(PDF)0.pdf"><font color="#0066cc">)</font></a></font></font><font color="#000000">105.8.10</font>&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20.105年8月份會計月報<font color="#0066cc"><a href="/UserFiles/BOOK/105年6月會計月報(XML) (3).zip"><font color="#0066cc">(</font></a><a href="/UserFiles/BOOK/105年8月份會計月報(XML).zip">XML)</a><font color="#000000">&nbsp;<a href="/UserFiles/book/105年3月份會計月報(PDF).pdf"><font color="#0066cc">(</font></a><a href="/UserFiles/BOOK/105年8月份會計月報(PDF).pdf">PDF</a><a href="/UserFiles/BOOK/105年6月會計月報(PDF)0.pdf"><font color="#0066cc">)</font></a></font></font><font color="#000000">105.9.10</font>&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 21.105年9月份會計月報<font color="#0066cc"><a href="/UserFiles/BOOK/105年6月會計月報(XML) (3).zip"><font color="#0066cc">(</font></a><a href="/UserFiles/book/10509(XML)1.zip">XML</a><a href="/UserFiles/BOOK/105年8月份會計月報(XML).zip"><font color="#0066cc">)</font></a><font color="#000000">&nbsp;<a href="/UserFiles/book/10509(PDF).pdf">(PDF)</a></font></font><font color="#000000">105.10.11</font></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p></p>
+                
+                  <div align="left">
+                    
+                  <span class="clean"></span>
+                  <p class="relate">相關檔案：<a href="UserFiles/103年度單位決算起(XLM).zip" title="103年度單位決算起(XLM).zip(另開新視窗下載)" target="_blank">103年度單位決算起(XLM).zip</a> <a href="UserFiles/" title="(另開新視窗下載)" target="_blank"></a> <a href="UserFiles/" title="(另開新視窗下載)" target="_blank"></a></p>
+                
+                  <span class="clean"></span>
+                  
+              </div></td>
+              <td width="10%" background="images/uld_r24_c19.jpg" >
+                <table width="100%" border="0" cellspacing="0" cellpadding="0"  align="center" summary="網站排版用表格">
+                  <tr>
+                    <td><img src="images/uld_r5_c19.jpg" alt="好站連結" width="171" height="58" /></td>
+                </tr>
+                  <tr>
+                    <td>
+                      <div class="selectIR" style="text-align: center; margin-top: 5px;">
+                    <p><marquee onmouseover="this.stop()" onmouseout="this.start()" class="mq" style="FONT-SIZE: 10pt; HEIGHT: 6px; FONT-FAMILY: 新細明體; WIDTH: 120px; font-color: #003366" height="6" width="120"><font color="#ff0000"><strong><a href="https://youtu.be/Vgq_9ciPiyI">人民參與審判微電影-裁量之間</a></strong></font></marquee></p>
+<p><a href="http://www.judicial.gov.tw/影音專區/index_video.asp"><img style="HEIGHT: 31px; WIDTH: 118px" alt="網站圖片" width="266" height="61" rel="lightbox[show]" src="/UserFiles/wuwww/宣導短片.png" /></a></p>
+<p><a target="_blank" href="https://efiling.judicial.gov.tw"><img style="HEIGHT: 30px; WIDTH: 114px" alt="網站圖片" width="114" height="37" rel="lightbox[show]" src="/UserFiles/wuwww/線上起訴.PNG" /></a></p>
+<p><a title="=" target="_blank" href="http://www.judicial.gov.tw/"><img title="連結至司法院(另開新視窗)" border="0" alt="司法院" align="middle" rel="lightbox[show]" src="/UserFiles/judicial.jpg" /></a></p>
+<p><a target="_blank" href="http://cpor.judicial.gov.tw/cqry/Login.do"><img border="0" alt="網站圖片" rel="lightbox[show]" src="/UserFiles/img案件進度查詢.jpg" /></a></p>
+<p><a target="_blank" href="http://www.judicial.gov.tw/ctstate/getctstate.asp?courtcode=ULD"><img border="0" alt="網站圖片" rel="lightbox[show]" src="/UserFiles/img開庭進度查詢.jpg" /></a></p>
+<p><a target="_blank" href="http://du.judicial.gov.tw/jud_k/wke/LoginFEXG.jsp"><img title="連結至司法院電子檔案交換平台(另開新視窗)" border="0" alt="司法院電子檔案交換平台" width="120" height="45" src="/UserFiles/電子檔案交換平臺.gif" /></a></p>
+<p><a target="_blank" href="http://www.judicial.gov.tw/db/alx.asp"><img border="0" alt="網站圖片" width="120" height="36" rel="lightbox[show]" src="/UserFiles/button02.gif" /></a></p>
+<p><a title="連結至我的E政府(另開新視窗)" target="_blank" href="http://www.gov.tw/"><img title="連結至我的E政府(另開新視窗)" border="0" alt="我的E政府" align="middle" rel="lightbox[show]" src="/UserFiles/egov.jpg" /></a></p>
+<p>&nbsp;&nbsp;<a target="_blank" href="http://web.pcc.gov.tw"><img title="連結至政府電子採購網(另開新視窗)" border="0" alt="政府電子採購網" align="middle" rel="lightbox[show]" src="/UserFiles/政府電子採購網.jpg" /></a></p>
+<p><a target="_blank" href="http://www.csptc.gov.tw/pages/list.aspx?Node=846&amp;Type=1&amp;Index=2"><img border="0" alt="網站圖片" width="120" height="54" rel="lightbox[show]" src="/UserFiles/item09.gif" /></a></p></div></td>
+                </tr>
+                  <tr>
+                    <td><img src="images/uld_r18_c19.jpg" alt="熱門查詢" width="171" height="50" border="0" /></td>
+                </tr>
+                  <tr>
+                    <td>
+                      <div class="selectIR">
+                        
+    <li>
+    <div align="left"><a target="_blank" width="120" height="45" href="http://www.judicial.gov.tw/assist/assist01.asp">法院訴訟須知</a> </div>
+    </li>
+    <li><a target="_blank" href="http://uld.judicial.gov.tw/sayfar.asp">法院遠距訊問作業</a> </li>
+    <li><a target="_blank" href="http://www.judicial.gov.tw/assist/assist03.asp">書狀參考範例</a> </li>
+    <li><a target="_blank" href="http://www.judicial.gov.tw/assist/assist04.asp#1">民事徵收費用標準</a> </li>
+    <li><a target="_blank" href="http://www.judicial.gov.tw/work/work04.asp">司法院調閱電子筆錄</a> </li>
+    <li><a target="_blank" href="http://uld.judicial.gov.tw/OpenArea.htm">政府資訊公開專區</a> </li>
+    <li><a href="?struID=6&amp;navID=6&amp;contentID=309">網路芳鄰</a> </li>
+    <li><a target="_blank" href="http://uld.judicial.gov.tw/?struID=6&amp;navID=6&amp;contentID=311">法律文宣資料</a> </li>
+    <li><a href="http://uld.judicial.gov.tw/?struID=6&amp;navID=6&amp;contentID=316">重要訊息</a>&nbsp; </li>
+    <li><a href="/UserFiles/司法院保有及管理個人資料之項目彙整表.doc">個資保護法</a>&nbsp; </li>
+    <li><a title="法院庭期查詢APP" target="_blank" href="https://play.google.com/store/apps/details?id=com.sertek.court"><font color="#000000">法院庭期查詢APP</font></a> </li>
+    <li><a title="司法院人權專區" target="_blank" href="http://www.judicial.gov.tw/rights"><font color="#000000">司法院人權專區</font></a> </li>
+    <li><a href="http://uld.judicial.gov.tw/?struID=6&amp;contentID=514">雲林縣政府駐法院家事服務中心 </a></li>
+    <li><a href="https://youtu.be/Vgq_9ciPiyI">人民參與審判微電影-裁量之間 </a></li>
+</div></td>
+                </tr>
+                  <tr>
+                    <td><img src="images/uld_r24_c19.jpg" alt="" width="171" height="8" /></td>
+                </tr>
+              </table></td>
+            </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td ><img src="images/uld_r24_c1_f2.jpg" width="980" height="19" alt="" /></td>
+      </tr>
+      <tr>
+        <td ><table width="100%" border="0" cellspacing="0" cellpadding="0" summary="網站排版用表格">
+          <tr>
+            <td width="5%"><img src="images/uld_logo.jpg" alt="臺灣雲林地方法院" width="164" height="30" border="0" style="margin:0px 15px;"/></td>
+            <td><p class="foot">臺灣雲林地方法院 63244 雲林縣虎尾鎮明正路38號‧<a href="?struID=6&amp;navID=6&amp;contentID=317">著作權聲明</a>‧
+              <br />
+                總機電話：(05)6336511‧傳真電話：(05)6363041‧<br />
+                版權所有 2011 Taiwan YunLin District Court, All Rights Reserved.<br/>
+                <a href="http://uld.judicial.gov.tw/?struID=1&cid=111&selectID=397"><img src="images/tel.bmp" alt="各行政科室電話分機表" border="0" align="absmiddlstyle="   width="40" /></a>
+				<a href="http://uld.judicial.gov.tw/?struID=1&cid=111&selectID=398"><img src="images/address.jpg" alt="地址" border="0" align="absmiddlstyle="   width="40" /></a>
+
+<p class="foot"></td>
+            <td width="2%"><a href = "http://www.webguide.nat.gov.tw/enable.jsp?category=20050519182612" title = "無障礙網站" target="_blank"><img src="images/aplus.jpg" alt="通過A+等級無障礙網頁檢測(另開新視窗)" border="0" align="absmiddle" style=" margin:5px 10px;" /></a></td>
+            <td width="5%"><div class="foot2">瀏覽人數：<br />
+              <img src=images/counter/0.gif align='absmiddle' alt='1855778'><img src=images/counter/1.gif align='absmiddle' alt='1855778'><img src=images/counter/8.gif align='absmiddle' alt='1855778'><img src=images/counter/5.gif align='absmiddle' alt='1855778'><img src=images/counter/5.gif align='absmiddle' alt='1855778'><img src=images/counter/7.gif align='absmiddle' alt='1855778'><img src=images/counter/7.gif align='absmiddle' alt='1855778'><img src=images/counter/8.gif align='absmiddle' alt='1855778'></div>              </td>
+          </tr>
+        </table></td>
+      </tr>
+    </table>
+  </td></tr>
+</table> 
+</body>
+</html>

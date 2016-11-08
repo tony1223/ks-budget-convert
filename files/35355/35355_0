@@ -1,0 +1,1361 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+<html xmlns="http://www.w3.org/1999/xhtml" ">
+<head id="Head1"><title>
+	106年預算資料(XML)
+</title>
+    <meta id="KeyWordMetaTag" name="keywords" content="家畜衛生試驗所,獸醫科技,獸醫研究,藥品檢定,動物疾病診斷" /><meta id="DesMetaTag" name="description" content="106年預算資料(XML)" /><meta http-equiv="content-type" content="text/html; charset=utf-8" /><meta http-equiv="content-language" content="zh-tw" />
+    <!-- 以下為 facebook專用-->
+   <meta id="ogtitle" property="og:title" content="106年預算資料(XML)" /><meta property="og:type" content="website" /><meta id="ogurl" property="og:url" content=" http://www.nvri.gov.tw/Module/PageContent/900/815.aspx?pid=6CYBUWMRpiE%3d" /><meta property="og:image" content="http://www.nvri.gov.tw/images/Logo.jpg" /><meta property="og:site_name" content="家畜衛生試驗所全球資訊網" /><meta id="ogdescription" property="og:description" content="106年預算資料(XML)" />
+    
+    <!-- over-->
+    
+    <link href="../../../App_Themes/Base_1017.css" rel="stylesheet" type="text/css" /><link href="../../../App_Themes/Content.css" rel="stylesheet" type="text/css" />
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+    <script type="text/javascript" src="//connect.facebook.net/zh_TW/all.js"></script>
+
+<!-- 將這個標記放在標頭中，或放在內文結尾標記前面。-->
+<script src="https://apis.google.com/js/platform.js" async defer>
+    { lang: 'zh-TW' }
+</script>
+<noscript>
+       此為標註網頁的語系的script，讓瀏覽器能更正確的解析與編碼
+  </noscript>
+ <div id="fb-root"></div>
+    <script>(function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v2.6";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+ 
+    
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-70407738-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+<noscript>
+       此為google分析的script
+  </noscript>
+    
+    <!--網頁跳轉-->
+    <script type="text/javascript">
+
+        var url = location.search;
+        var rid;
+        if (url.indexOf("?") == -1) {//電腦版網址後方沒有參數，就自動進入手機版判斷程式
+
+            if (navigator.userAgent.match(/Android|iPhone/i)) {
+                window.location = 'http://m1.nvri.gov.tw';
+            }
+
+        }
+        if (url.indexOf("?") != -1) {//電腦版網址後方有參數
+
+            if (url.indexOf("?") != -1) {//電腦版網址後方有參數
+
+                if (navigator.userAgent.match(/Android|iPhone/i)) {
+                    window.location = 'http://www.nvri.gov.tw/';
+                }
+
+            }
+        }
+
+    </script>
+<noscript>
+        此script功能為網頁跳轉,自動進入電腦版或手機版判斷程式
+  </noscript>
+    
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css" />
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.10.2.js"></script>
+     <noscript>
+        此為jquery的script功能,您的瀏覽器不支援此javascript
+  </noscript>
+    <script type="text/javascript" src="//code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
+    <noscript>
+        此為jquery的script功能,您的瀏覽器不支援此javascript
+  </noscript>
+    <script type="text/javascript">
+        $(function () {
+            $("#jmenu").menu();
+        });
+    </script>
+     <noscript>
+        此script為網站左側選單功能，當瀏覽器無法支援此javascript時，請連結到純網頁的代替頁面，以提供順暢的瀏覽環境，以下提供主要選單功能及次選單全部展開的純網頁的代替頁面：       
+        <br /><br />請按此連結到【<a href="http://www.nvri.gov.tw/Nvri.htm" title="此為家衛所中文官網，純網頁的代替頁面">家衛所中文官網，純網頁的代替頁面</a>】
+  </noscript>
+    <style type="text/css">
+        .ui-menu
+        {
+            width: 150px;
+        }
+        .style2
+        {
+            width: 157px;
+        }
+        .style5
+        {
+            width: 96%;
+        }
+        .title_cnew
+        {
+            font-weight: 700;
+            font-size: x-large;
+        }
+    </style>
+    
+
+</head>
+<body>
+    <form method="post" action="./815.aspx?pid=6CYBUWMRpiE%3d" id="form1">
+<input type="hidden" name="_TSM_HiddenField_" id="_TSM_HiddenField_" value="GHSb2VJ4Agn69oMuxfdmzK8wqYhmHaPO1j2W6fFS0Fc1" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<script language="javascript" type="text/javascript">
+<!--
+   function ShowPront(){
+       window.open('http://localhost:57416/WebSite/Module/PrintFriendly/Print.aspx?pid=6CYBUWMRpiE%3d');
+       return false;
+   }
+//-->
+</script>
+
+<script src="/ScriptResource.axd?d=KIzeqnRF7JKTlvRdUiRJaPvCAoJadBzpeFZzmhodZX0ZWh-R7xJn13QVD2Zua7FBEnCA3tBtvSVJqjjJP1EAIXyforHh4feVBC91hJy5iYCGIyrJdrRFIK5n0O3-CjLW0&amp;t=ffffffffda74082d" type="text/javascript"></script>
+<script src="/Module/PageContent/900/815.aspx?_TSM_CombinedScripts_=True&amp;v=GHSb2VJ4Agn69oMuxfdmzK8wqYhmHaPO1j2W6fFS0Fc1&amp;_TSM_Bundles_=&amp;cdn=False" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=W8DltJBO-Ebur02xGRbeX3H8AjR55uPXDcopQulybTSPp3IlILv4Uaj_QRIZ9vgLVFNj1oSEymenupfSj9mLUB5vKCSw4LHdJPOFLclGlIJeGcPpflU_f4mpl_sqsysP2I_8jW4bBM09c9gr_PYXHg2&amp;t=ffffffffda74082d" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=E6h4B3LM6B2Cb-em1wItW5ntADFcb9F9OWRAhU3EtKP_jgviaaWwRWaDjNMtnBEWoHIbd2_iWsMdTEJBjYxsD21qnKdHZUmOfub5Pu51V-CVvwDDu6PjIM74wmNvXMPpD3f9xrsyvV3A6Nh4T0Q8sQ2&amp;t=ffffffffda74082d" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="918126E0" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="ESOUQ2D7cPDOSl0p8vrkOVQ9wJTfAIkjp0psFy8ARscfPaLZzaTJhPHiJFh8rNUOoOnT0bNdwH7jzeaxRsEU6FToC9cJwAFKXOm1Yuy3bZN_475_fjiVGSpE_t5zh5LB0" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="i9jYPjvLNTHY9172fzLLPCXDLevtdIRDRdcxcv1xPpFeQ/sXwg7K3pb3UrKWgY52IMwWhMmj42K3Wrji0igzbVQaQ/vHixH/JrQFDkkvQc0Du1HjQBTkveEPV41wWpXoq3Fg5/dIzJd/enqMFXk8pxtbP/7/+t4ehe92QcnBCjROEwqpHczCPGb0dMpzTZxqes+xvCT6yOCh+TuiJfankWSohcVjpRqsUbJw/l/vMOEIHhPMWwXFbQHm+b/tNBAjCIbGJZ8lskqrCSG+E+NGJv5nHL7paT/cyf9jhYkf0ZggfO4dFd8Bh0Jj3SEmIYpeAGmyAsDcTqkQZMeaOFBuDxPEztuSV5J89rtqvzbJTJhb7MseOtC/a5l5zssJK3M6yeHvvYBMPIbOPOAE6UW3EDu/fyxKZvYng+zcZ7EpoyJIG0Mx8bAjkG9kut/ijUzZbHI429HOuMqImkSCMiDAyTvYcNm1/i8LeUqJsYzXmb7Ks+rX1IigieVs1wWyvYXIDC7g5OYPidRAGsssfz5u4Kn04Ti/Jbr6CxPCVEYSG/V/bn9vQyD8BeF/Ypnmi0op" />
+    <div id="Wrapper">
+        <div id="Header">
+            <div class="Elements">
+                <div class="Turf">
+                    <div class="Cover">
+                        <table cellpadding="0" cellspacing="0" style="width: 99%">
+                            <tr>
+                                <td style="width: 350px">
+                                    
+                                    <a href="http://www.nvri.gov.tw/" target="_self">
+                                        <img id="Image1" class="Logo" src="../../../images/Header1017/Logo.png" alt="家畜衛生試驗所全球資訊網LOGO" />
+                                    </a>
+                                </td>
+                                <td align="right" valign="top">
+                                    <div class="Links">
+                                        <nav>                                      
+                                          <ul>
+                                          <li><a id="top_alt" name="link_top" href="#link_top" accesskey="U" title="上方選單" >:::</a></li>
+                                          <li><a id="HyperLink21" accesskey="H" href="../../../index.aspx">回首頁</a></li>
+                                          <li><a href="../../SiteMap/SiteMap.aspx?sm=zO4l76wykT8%3d" id="aSiteMap" class="nav" target="_parent" title="網站地圖" accesskey="M">網站導覽</a></li>                                          
+                                          <li><a href="/Module/Dictionary/landic.aspx?ld=zO4l76wykT8%3d" id="aDic" class="nav" title="雙語詞彙">雙語詞彙</a></li> 
+                                          <li><a class="nav" href="/Module/SendMail/SendMail.aspx?info=zO4l76wykT8%3d" target="_parent" title="所長信箱">所長信箱</a></li>                                         
+                                          <li><a href="../../News/Update.aspx?up=zO4l76wykT8%3d" id="aUpdate" class="nav" target="_blank" title="維護日誌 將另開新視窗">維護日誌</a></li>
+                                          <li><a class="nav" href="http://m1.nvri.gov.tw" title="行動版本(另開新視窗)" target="_blank">行動版</a></li>
+                                          <li><a class="nav" href="http://eng.nvri.gov.tw/" target="_blank" title="English(另開新視窗)">English</a></li>  
+                                          <li><a href="http://www.nvri.gov.tw/main.aspx?pid=SX4RRwEZYzg%3d" id="a2" class="nav" title="常見問答">常見問答</a></li> 
+                                        </ul></nav>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+                        <div class="Search">
+                            <table style="width: 100%" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td>
+                                        <table border="0" cellpadding="0" cellspacing="3" summary="此為網站排版表格" align="right">
+                                            <tr>
+                                                <td>
+                                                    <span id="Label6">全站搜尋：</span>
+                                                </td>
+                                                <td>
+                                                  
+                                                </td>
+                                                <td>
+                                                 
+                                                    <input name="ctl00$tbKeyword" type="text" id="tbKeyword" />
+                                                    
+                                                    
+                                                </td>
+                                                <td>
+                                                 <input type="submit" name="ctl00$btnSearch" value="全站搜尋" id="btnSearch" class="btn" onkeypress="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" />
+                                                </td>
+                                                <td align="center" valign="middle">
+                                                    <a id="HyperLink22" accesskey="S" class="SearchHigh" href="../../GlobalSearch/advancesearch.aspx?ad=zO4l76wykT8%3d">進階搜尋</a>
+                                                    &nbsp;&nbsp;&nbsp;
+                                                </td>
+                                           <!--     <td align="center" valign="middle">
+                                                    <span id="Label7">熱門搜尋：</span>
+                                                </td>
+                                                <td align="left" valign="middle">
+                                                    <table id="dlHot" cellspacing="0">
+	<tr>
+		<td>
+                                                            <table border="0" cellpadding="0" cellspacing="0" summary="排版用表格">
+                                                                <tr>
+                                                                    <td style="padding-right: 2px;">
+                                                                        <a id="dlHot_hlHot_0" title="研討會" class="hl_a" href="../../GlobalSearch/FullText.aspx?kw=%e7%a0%94%e8%a8%8e%e6%9c%83&amp;type=0&amp;pageid=1">研討會</a>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td><td>
+                                                            <table border="0" cellpadding="0" cellspacing="0" summary="排版用表格">
+                                                                <tr>
+                                                                    <td style="padding-right: 2px;">
+                                                                        <a id="dlHot_hlHot_1" title="豬瘟" class="hl_a" href="../../GlobalSearch/FullText.aspx?kw=%e8%b1%ac%e7%98%9f&amp;type=0&amp;pageid=1">豬瘟</a>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td><td>
+                                                            <table border="0" cellpadding="0" cellspacing="0" summary="排版用表格">
+                                                                <tr>
+                                                                    <td style="padding-right: 2px;">
+                                                                        <a id="dlHot_hlHot_2" title="教育訓練" class="hl_a" href="../../GlobalSearch/FullText.aspx?kw=%e6%95%99%e8%82%b2%e8%a8%93%e7%b7%b4&amp;type=0&amp;pageid=1">教育訓練</a>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td><td>
+                                                            <table border="0" cellpadding="0" cellspacing="0" summary="排版用表格">
+                                                                <tr>
+                                                                    <td style="padding-right: 2px;">
+                                                                        <a id="dlHot_hlHot_3" title="人才培訓" class="hl_a" href="../../GlobalSearch/FullText.aspx?kw=%e4%ba%ba%e6%89%8d%e5%9f%b9%e8%a8%93&amp;type=0&amp;pageid=1">人才培訓</a>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td><td>
+                                                            <table border="0" cellpadding="0" cellspacing="0" summary="排版用表格">
+                                                                <tr>
+                                                                    <td style="padding-right: 2px;">
+                                                                        <a id="dlHot_hlHot_4" title="taf" class="hl_a" href="../../GlobalSearch/FullText.aspx?kw=taf&amp;type=0&amp;pageid=1">taf</a>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+	</tr>
+</table>
+                                                </td>-->
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                      <a id="a3" name="left" href="#left" accesskey="L" title="左方選單">:::</a></td>
+                                    <td>
+                                        &nbsp;</td>
+                                </tr>
+                            </table>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="Container">
+            <table cellpadding="0" cellspacing="0" style="width: 100%">
+                <tr>
+                    <td id="Secondary" align="center" valign="top">
+                        <div class="Item">
+                            <table cellpadding="0" cellspacing="0" width="100%">
+                                <tr>
+                                    <td>
+                                        <img id="Image4" src="../../../images/Secondary1017/Service.png" alt="服務選單" />
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center" class="Menu">
+                                        <ul id="jmenu">
+                                        <li><a href="../../../main.aspx?pid=Jk9i8ark2lg%3d">線上服務</a><ul><li><a href="../700/671.aspx?pid=nUsaGCJPM5c%3d">水生送樣服務</a></li><li><a href="../700/685.aspx?pid=H1ORja2BYW8%3d">獸醫防疫資料館線上報名服務</a></li><li><a href="../700/686.aspx?pid=PvrMrIxNkxw%3d">實驗動物產銷管理系統</a></li><li><a href="../700/692.aspx?pid=PUUYINYlYKI%3d">動物用藥品檢定服務網</a></li></ul></li><li><a href="../../../main.aspx?pid=MFu70kAXgzY%3d">所務介紹</a><ul><li><a href="../../../main.aspx?pid=OlpoJKf7Nr8%3d">首長</a></li><li><a href="../../../main.aspx?pid=AIEHaNpEln0%3d">副所長</a></li><li><a href="../../../main.aspx?pid=rEoAZCjKzWA%3d">主任秘書</a></li><li><a href="../100/3.aspx?pid=XM6KGqNfxTI%3d">業務職掌</a></li><li><a href="../100/39.aspx?pid=vTJriE8%2fLqI%3d">組織系統</a></li><li><a href="../100/41.aspx?pid=VcWcQQN8O3s%3d">沿     革</a></li><li><a href="../600/508.aspx?pid=r%2bdYWRgwSvs%3d">本所數位簡介</a></li><li><a href="../100/70.aspx?pid=UlDC3acRrno%3d">人員編制與分機</a></li><li><a href="../600/547.aspx?pid=fSTXgK93oeQ%3d">本所單位主管名錄</a></li><li><a href="../../../main.aspx?pid=AKmv4l%2fE4%2fA%3d">秘書室</a></li><li><a href="../500/430.aspx?pid=jsZCpMqEcrA%3d">人事室</a></li><li><a href="../700/644.aspx?pid=T0%2b2jdkW%2fbo%3d">主計室</a></li><li><a href="../../../main.aspx?pid=XGFa76zZ4X0%3d">生物研究組</a></li><li><a href="../../../main.aspx?pid=HnaibXbikRM%3d">豬瘟研究組</a></li><li><a href="../../../main.aspx?pid=AQ3ygpkFl%2fk%3d">疫學研究組</a></li><li><a href="../../../main.aspx?pid=g2mJsHqrsdM%3d">製劑研究組</a></li><li><a href="../../../main.aspx?pid=Qt%2fUkxZJXGA%3d">動物用藥品檢定分所 </a></li><li><a href="../500/436.aspx?pid=krhvDJ0ZNCA%3d">TAF實驗室認證服務統計表</a></li><li><a href="../700/693.aspx?pid=VJ3Ybd3Xd5M%3d">行政院農業委員會家畜衛生試驗所檢測（檢驗）服務項目收費標準</a></li><li><a href="../700/694.aspx?pid=9G9rbs7EsG4%3d">本所通過財團法人全國認證基金會TAF實驗室認證一覽表</a></li></ul></li><li><a href="../../../main.aspx?pid=eSEMv1t6lWU%3d">便民服務</a><ul><li><a href="../../../main.aspx?pid=y8scbRPsScE%3d">本所疫苗 </a></li><li><a href="../../../main.aspx?pid=BAUu2H9fSso%3d">種原庫 </a></li><li><a href="../../../main.aspx?pid=wMk2pJ81bek%3d">實驗動物供應</a></li><li><a href="../../../main.aspx?pid=6oeq%2fsrE%2bQM%3d">為民服務成果統計 </a></li><li><a href="../200/177.aspx?pid=eKKWuanDvHo%3d">為民服務白皮書 文件下載</a></li><li><a href="../600/541.aspx?pid=CY5cuOCCenQ%3d">牛隻血清委託檢測牛流行熱抗體清冊</a></li><li><a href="../600/591.aspx?pid=sELBHoOdf9w%3d">獸醫防疫技術資料館預約解說服務申請表</a></li><li><a href="../600/594.aspx?pid=xA2Hp3LSs2g%3d">犬布氏桿菌抗體檢測的申請流程及申請表</a></li><li><a href="../700/602.aspx?pid=wxjB6%2fFgeDo%3d">行政院農委會家畜衛生試驗所研習及實習管理要點</a></li><li><a href="../700/648.aspx?pid=56YzXvN9pt4%3d">檢測（檢驗）項目收費標準</a></li><li><a href="../800/776.aspx?pid=ASBVBY8b1MY%3d">廉政資訊專區</a></li><li><a href="../../../main.aspx?pid=HCP%2fvGG9eZk%3d">性別平等及性騷擾防治專區</a></li></ul></li><li><a href="../../../main.aspx?pid=ynJ4xAOrlBE%3d">畜衛所訊</a><ul><li><a href="818.aspx?pid=%2byc5%2bZ0grhI%3d">第四十三期</a></li><li><a href="816.aspx?pid=SfwgmvItlwA%3d">第四十二期</a></li><li><a href="811.aspx?pid=UYUSUQiII2I%3d">第四十一期</a></li><li><a href="801.aspx?pid=JGlB4Og8Z4A%3d">第四十期</a></li><li><a href="../800/793.aspx?pid=djNj%2boLrSDU%3d">第三十九期</a></li><li><a href="../800/771.aspx?pid=w0GWcM5tMIA%3d">第三十八期</a></li><li><a href="../800/769.aspx?pid=Bpc8sNuTql0%3d">第三十七期</a></li><li><a href="../800/768.aspx?pid=ItZMauaZ4m4%3d">第三十六期</a></li><li><a href="../800/748.aspx?pid=jg8zWGSMIJg%3d">第三十五期</a></li><li><a href="../800/747.aspx?pid=y0XNr2XnWYs%3d">第三十四期</a></li><li><a href="../800/743.aspx?pid=yEu1zZQRH2M%3d">第三十三期</a></li><li><a href="../800/737.aspx?pid=RyG0b2CWXP8%3d">第三十二期</a></li><li><a href="../800/730.aspx?pid=8bEJoPKWc2o%3d">第三十一期</a></li><li><a href="../800/726.aspx?pid=TXtjzSk9Zdc%3d">第三十期</a></li><li><a href="../800/725.aspx?pid=W%2b%2b4WV3UNfA%3d">第二十九期</a></li><li><a href="../800/718.aspx?pid=cJyabQM8dnU%3d">第二十八期</a></li><li><a href="../800/717.aspx?pid=zDl0jM1H0os%3d">第二十七期</a></li><li><a href="../800/714.aspx?pid=DSUXSXa7fnM%3d">第二十六期</a></li><li><a href="../800/710.aspx?pid=4wPRgUVjyvI%3d">第二十五期</a></li><li><a href="../800/708.aspx?pid=gqi7h1LH%2b08%3d">第二十四期</a></li><li><a href="../800/705.aspx?pid=dC2GOePwDXk%3d">第二十三期</a></li><li><a href="../800/703.aspx?pid=ZG5cuJZLVtM%3d">第二十二期</a></li><li><a href="../800/702.aspx?pid=DHRgYDbf%2fcU%3d">第二十一期</a></li><li><a href="../700/697.aspx?pid=7n0mTiwEafc%3d">第二十期</a></li><li><a href="../700/690.aspx?pid=F1Ip4OjhIss%3d">第十九期</a></li><li><a href="../700/689.aspx?pid=%2bi%2fFw8BcVF8%3d">第十八期</a></li><li><a href="../700/684.aspx?pid=wGwbc01gS3w%3d">第十七期</a></li><li><a href="../700/681.aspx?pid=r4QU8DOYcaA%3d">第十六期</a></li><li><a href="../700/673.aspx?pid=sMo1HdNqk%2bs%3d">第十五期</a></li><li><a href="../700/691.aspx?pid=mJgO0OW2IkA%3d">第十四期</a></li><li><a href="../700/667.aspx?pid=KrJDSjdfCbQ%3d">第十三期</a></li><li><a href="../700/663.aspx?pid=qy2V%2b8m2AAk%3d">第十二期</a></li><li><a href="../700/655.aspx?pid=TR6fxnPaXDw%3d">第十一期</a></li><li><a href="../700/653.aspx?pid=%2fEkuyOfOg58%3d">第十期</a></li><li><a href="../700/651.aspx?pid=pzL6is2Cc68%3d">第九期</a></li><li><a href="../700/647.aspx?pid=ZfNoDEN0z40%3d">第八期</a></li><li><a href="../700/646.aspx?pid=L09%2bRvJAeDM%3d">第七期</a></li><li><a href="../700/639.aspx?pid=Ifhov2DBEhw%3d">第六期</a></li><li><a href="../700/634.aspx?pid=vNw2CaWlWlc%3d">第五期</a></li><li><a href="../700/631.aspx?pid=CdFE%2fmDJcSo%3d">第四期</a></li><li><a href="../700/628.aspx?pid=CEs3FTx%2bm1c%3d">第三期</a></li><li><a href="../700/626.aspx?pid=sS7m%2bZzXx7c%3d">第二期</a></li><li><a href="../700/621.aspx?pid=MQMa2%2fq4zds%3d">第一期</a></li></ul></li><li><a href="../600/512.aspx?pid=yK64tWUA3dg%3d">重大政策</a></li><li><a href="../../../main.aspx?pid=GIgK4e27l0U%3d">就業資訊</a><ul><li><a href="http://www.nvri.gov.tw/module/news/MoreNews.aspx?type=%20Lk0omZdQzmo%3d&pageid=zO4l76wykT8%3d">本所就業資訊</a></li><li><a href="../600/514.aspx?pid=POTXg7hJNbU%3d">其他就業資訊</a></li></ul></li><li><a href="../../../main.aspx?pid=bL4HUEYdC38%3d">政府資訊公開</a><ul><li><a href="../../../main.aspx?pid=tFvAYbAE6Mg%3d">業務統計</a></li><li><a href="../../../main.aspx?pid=zd8D12Mw1Uw%3d">預算及決算</a></li><li><a href="../400/379.aspx?pid=n7CkI0cgkcY%3d">研究報告</a></li><li><a href="../400/380.aspx?pid=BA4BFRW%2bFkE%3d">施政計畫</a></li><li><a href="../400/381.aspx?pid=FoQtMNXnIos%3d">法律命令</a></li><li><a href="../../../main.aspx?pid=k6NsntdNu3Q%3d">書面之公共工程及採購契約</a></li><li><a href="../../../main.aspx?pid=Qvg9CC5Z14w%3d">招標文件範本及表格</a></li><li><a href="../600/528.aspx?pid=ml%2fhEROkCNo%3d">公開決標公告資料</a></li><li><a href="../700/605.aspx?pid=WIpJW9csI50%3d">行政院農業委員會家畜衛生試驗所保有及管理個人資料之項目彙整表</a></li><li><a href="../../../main.aspx?pid=kn9GtOFxPyM%3d">會議記錄</a></li><li><a href="../../../main.aspx?pid=iRWqhAjfFO8%3d">支付或接受之補助</a></li><li><a href="../700/699.aspx?pid=TwF8Tnp5Tmo%3d">行政院農業委員會家畜衛生試驗所人民申請案件處理期間表</a></li><li><a href="../../../main.aspx?pid=acO7FnkYggQ%3d">會計報告</a></li></ul></li><li><a href="../../../main.aspx?pid=gdg1f3KlZqE%3d">疫苗檢定</a><ul><li><a href="../../../main.aspx?pid=at39OiFCAxg%3d">一O五年</a></li><li><a href="../../../main.aspx?pid=c7S8ami%2fKek%3d">一O四年</a></li><li><a href="../../../main.aspx?pid=g2eWtFa0F3E%3d">一Ｏ三年</a></li><li><a href="../../../main.aspx?pid=cElehMGH6Ng%3d">一O二年</a></li><li><a href="../../../main.aspx?pid=0hb7D4gVxnA%3d">一O一年</a></li><li><a href="../../../main.aspx?pid=vPJ2nTcojUU%3d">一OO年</a></li><li><a href="../../../main.aspx?pid=URXBSLoXQmY%3d">九十九年</a></li><li><a href="../../../main.aspx?pid=TgiBdCfedQg%3d">九十八年</a></li><li><a href="../../../main.aspx?pid=%2bDf8FC3eNSw%3d">九十七年</a></li></ul></li><li><a href="../400/333.aspx?pid=oz0%2b4LXUhWY%3d">獸醫數位教材</a></li><li><a href="../100/42.aspx?pid=%2fiNURYazO0c%3d">獸醫資訊系統</a></li><li><a href="../600/576.aspx?pid=yXMfXLYmwLA%3d">生產醫學平台</a></li><li><a href="../../news/Morelink.aspx?l=zO4l76wykT8%3d">相關連結</a></li><li><a href="../../../main.aspx?pid=eye%2f0Ib5rxs%3d">禽流感資訊</a><ul><li><a href="http://ai.baphiq.gov.tw/">動植物防疫檢疫局禽流感資訊專區</a></li><li><a href="../500/491.aspx?pid=j1zj%2fT5CZH0%3d">家禽流行性感冒實驗室檢驗流程</a></li><li><a href="../400/337.aspx?pid=xKbzyqGuH1Y%3d">野鳥監測結果</a></li><li><a href="../400/348.aspx?pid=%2f2iULt8rDWk%3d">正黏液病毒</a></li></ul></li><li><a href="../../../main.aspx?pid=NO3gQUuAFZw%3d">狂犬病專區</a><ul><li><a href="../700/658.aspx?pid=4Z8QNuKr9LI%3d">台灣分離之狂犬病病毒序列分析資料</a></li><li><a href="../700/660.aspx?pid=SYadRcX1dMg%3d">家畜衛生試驗所狂犬病實驗室診斷流程</a></li></ul></li><li><a href="../../../main.aspx?pid=7YcsHpW%2flOk%3d">出版品</a><ul><li><a href="../800/790.aspx?pid=WcUCfvezIRQ%3d">104年度出版品</a></li><li><a href="../800/706.aspx?pid=KFT0J7hAtXs%3d">103年度出版品</a></li><li><a href="../700/656.aspx?pid=nO2q04nxYhs%3d">102年度出版品</a></li><li><a href="../700/623.aspx?pid=p9O5b2GotaQ%3d">101年度出版品</a></li><li><a href="../600/570.aspx?pid=bMpuOG4fUuo%3d">100年度出版品</a></li><li><a href="../600/562.aspx?pid=48OYodXGJbg%3d">99年度出版品</a></li><li><a href="../600/526.aspx?pid=2hE5AvoU748%3d">98年度出版品</a></li><li><a href="../500/489.aspx?pid=OmuNJJnO7c0%3d">97年度出版品</a></li><li><a href="../500/488.aspx?pid=Ur4lxG5b6mY%3d">96年度出版品</a></li><li><a href="../500/487.aspx?pid=7ZtPio8Z6B8%3d">95年度出版品</a></li><li><a href="../500/486.aspx?pid=PGa76pwXFPg%3d">94年度出版品</a></li><li><a href="../500/485.aspx?pid=d7sUWsAYZPI%3d">93年度出版品</a></li><li><a href="../500/484.aspx?pid=k8IHywZNAKg%3d">92年度出版品</a></li></ul></li><li><a href="../../../main.aspx?pid=SX4RRwEZYzg%3d">常見問答</a><ul><li><a href="../../../main.aspx?pid=xMFGbTUr4qk%3d">人畜共通疾病</a></li><li><a href="../../../main.aspx?pid=q2acXpG6hto%3d">口蹄疫</a></li><li><a href="../../../main.aspx?pid=dqNpzT%2bzy08%3d">動物生理</a></li><li><a href="../../../main.aspx?pid=ARSvmntyMjs%3d">動物用藥品　</a></li><li><a href="../../../main.aspx?pid=6kF0z%2b%2faksY%3d">有趣的動物病名</a></li><li><a href="../../../main.aspx?pid=94xP3F7Jb9M%3d">試驗研究</a></li><li><a href="../../../main.aspx?pid=k0Q9WwOdMnQ%3d">其他欄</a></li><li><a href="../../../main.aspx?pid=HkAnJ%2fItvRs%3d">農產品食安服務專區</a></li></ul></li><li><a href="../../../main.aspx?pid=ArgJaaX2b8c%3d">聯絡我們</a><ul><li><a href="../400/335.aspx?pid=DCCPOspTwFk%3d">所長與民有約</a></li><li><a href="../400/336.aspx?pid=OXGbnWmWrEI%3d">參訪本所</a></li></ul></li><li><a href="../500/464.aspx?pid=hOds4EIh7%2bU%3d">場地租借</a></li><li><a href="../../../main.aspx?pid=a50LOvdZY%2b4%3d">獸醫資料館</a><ul><li><a href="../600/590.aspx?pid=kl77tktQMjI%3d">獸醫資料館</a></li><li><a href="../../../GroupRegister.aspx">團體預約導覽線上申請(請使用Chrome開啟)</a></li></ul></li><li><a href="../800/729.aspx?pid=Zm25CC3dVn0%3d">下載專區</a></li></ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img id="Image5" src="../../../images/Secondary1017/ServiceFooter.png" alt="*" />
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                        <div class="Item">
+                            <input type="image" name="ctl00$ImageButton1" id="ImageButton1" onkeypress="~/Module/PageContent/100/48.aspx" src="../../../images/Secondary1017/MapNVRI.png" alt="本所地圖" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ImageButton1&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../100/48.aspx&quot;, false, false))" />
+                        </div>
+                        <div class="Item">
+                            <input type="image" name="ctl00$ImageButton2" id="ImageButton2" onkeypress="~/Module/PageContent/600/575.aspx" src="../../../images/Secondary1017/MapNRL.png" alt="分所地圖" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ImageButton2&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../600/575.aspx&quot;, false, false))" />
+                        </div>
+                        <div class="Item">
+                            <input type="image" name="ctl00$ImageButton3" id="ImageButton3" onkeypress="~/Module/SendMail/SendMail.aspx" src="../../../images/Secondary1017/InfoMail.png" alt="所長信箱" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ImageButton3&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../../SendMail/SendMail.aspx&quot;, false, false))" />
+                        </div>
+                        <div class="Item">
+                            <table cellpadding="0" cellspacing="0" width="100%">
+                                <tr>
+                                    <td>
+                                        <img id="Image6" src="../../../images/Secondary1017/Count.png" alt="統計人數" />
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="Menu" align="center">
+                                        <div class="List">
+                                            今日：<span id="lbltoday">119</span>
+                                            人<br />
+                                            總計：<span id="lbltotal">4028489</span>
+                                            人</div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img id="Image7" src="../../../images/Secondary1017/ServiceFooter.png" alt="*" />
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </td>
+                    <td id="Primary" valign="top" class="style5">
+                        <table summary="排版用表格" cellpadding="0" cellspacing="0" style="width: 100%">
+                            <tr id="trFunctionMenu">
+	<td valign="top" align="center" width="100%">
+                                    &nbsp;
+                                </td>
+</tr>
+
+                            <tr>
+                                
+                                <td align="left" valign="top" width="100%">
+                                    <table border="0" cellpadding="0" cellspacing="0" summary="排版用表格" style="width: 100%;
+                                        height: 300px;">
+                                        <tr>
+                                            <td class="BgLeftTop">
+                                                &nbsp;
+                                            </td>
+                                            <td valign="top">
+                                                <div style="padding-left: 10px">
+                                                    <table border="0" cellpadding="0" cellspacing="0" summary="此為排版用表格">
+                                                        <tr>
+                                                            <td valign="top">
+                                                                <a id="aCenter" accesskey="C" name="content" href="#content" title="內容區">:::</a>
+                                                            </td>
+                                                            <td>
+                                                                
+                                                                <span id="Label1" style="color: #006600">現在位置：</span>
+                                                            </td>
+                                                            
+                                                            <td class="fontpadding">
+                                                                <table border="0" cellpadding="0" cellspacing="0" summary="排版用表格">
+                                                                    <tr>
+                                                                        <td>
+                                                                            <table id="dlLocation" cellspacing="0" cellpadding="0" summary="">
+	<tr>
+		<td>
+                                                                                    <table border="0" summary="此為排版用表格">
+                                                                                        <tr>
+                                                                                            
+                                                                                            <td>
+                                                                                                <a id="dlLocation_hlLocation_0" title="家衛所網站" class="hl" href="../../../index.aspx" target="_parent">回首頁</a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </table>
+                                                                                </td><td>
+                                                                                    <table border="0" summary="此為排版用表格">
+                                                                                        <tr>
+                                                                                            <td id="dlLocation_td_1">
+                                                                                                >
+                                                                                            </td>
+		
+                                                                                            <td>
+                                                                                                <a id="dlLocation_hlLocation_1" title="政府資訊公開" class="hl" href="../../../main.aspx?pid=bL4HUEYdC38%3d" target="_parent">政府資訊公開</a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </table>
+                                                                                </td><td>
+                                                                                    <table border="0" summary="此為排版用表格">
+                                                                                        <tr>
+                                                                                            <td id="dlLocation_td_2">
+                                                                                                >
+                                                                                            </td>
+		
+                                                                                            <td>
+                                                                                                <a id="dlLocation_hlLocation_2" title="預算及決算" class="hl" href="../../../main.aspx?pid=zd8D12Mw1Uw%3d" target="_parent">預算及決算</a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </table>
+                                                                                </td><td>
+                                                                                    <table border="0" summary="此為排版用表格">
+                                                                                        <tr>
+                                                                                            
+                                                                                            <td>
+                                                                                                
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </table>
+                                                                                </td>
+	</tr>
+</table>
+                                                                        </td>
+                                                                        <td>
+                                                                            
+                                                                        </td>
+                                                                        <td class="style2" style="padding-top: 0px; padding-left: 4px;">
+                                                                            
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </div>
+                                            </td>
+                                            <td class="BgRightTop">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="BgLeft" valign="bottom">
+                                                &nbsp;
+                                            </td>
+                                            <td valign="top">
+                                                <div id="Content">
+                                                    <div id="PageHeader">
+                                                        <div id="tr_pagetitle" class="Title">
+                                                            <table style="width: 100%" cellpadding="0" cellspacing="0" summary="">
+                                                                <tr>
+                                                                    <td style="font-weight: bold; padding-left: 35px;">
+                                                                        <span id="lblparenttitle">預算及決算</span>
+                                                                    </td>
+                                                                    <td style="width: 100px">
+                                                                        
+                                                                         <img id="imgPrint" accesskey="P" onkeypress="" OnClick="javascript:return ShowPront();" src="../../../images/MasterPage/PagePrint.png" alt="友善列印(P)" />                                                                           
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </div>
+                                                        <div>
+                                                            <table style="width: 100%" cellpadding="0" cellspacing="1" summary="">
+                                                                <tr>
+                                                                    <td tabindex="1">
+                                                                        <span id="lblcount" style="font-size: medium"><font size="3">點閱數：33人</font></span>
+                                                                        <br />
+                                                                        <span id="lblupdateDate">更新日期：105-09-06</span>
+                                                                        <br />
+                                                                        <span id="lblcreatedate">發布日期：105-09-06</span>
+                                                                    </td>
+                                                                    <td tabindex="2" align="right" valign="top"><div style="text-align:right"><span id="lblplurk"><a target='_blank' href='http://plurk.com/?qualifier=shares&status=[分享]/Module/PageContent/900/815.aspx?pid=6CYBUWMRpiE%3d' title='分享到噗浪！'><img alt='分享到噗浪！' src='http://s.plurk.com/2980c7bcb4eb012159e7701a61cb2e75.png'width='60px' hight='20px' /></a></span>
+                                                                        <span id="lblFB"><div class='fb-share-button' data-href='http://www.nvri.gov.tw//Module/PageContent/900/815.aspx?pid=6CYBUWMRpiE%3d' data-layout='button_count'></div></span>
+                                                                        <span id="lblgoogle"><g:plus action='share' data-width='200'data-annotation='none'></g:plus></span>
+                                                                        
+<!-- 在您要顯示「分享按鈕」的位置放上這個標記。--> </div>
+                                                                    </td>
+                                                                    <td align="right" valign="top" tabindex="3" style="width:120px">
+                                                                        <input type="submit" name="ctl00$btnBack" value="上一頁" onclick="javascript:history.back();return false;" id="btnBack" title="上一頁" class="btn" onkeypress="" />
+                                                                        <input type="submit" name="ctl00$btnBackHome" value="回首頁" id="btnBackHome" title="回首頁" class="btn" onkeypress="" /><noscript>本Script功能提供返回上一頁及列印功能，若您的瀏覽器不支援友善列印請您點選鍵盤「Ctrl+P
+                                                                                組合鍵」來使用本功能。返回上一頁請您點選鍵盤「Home 按鍵」或「Alt+← 組合鍵」或「Backspace 鍵」來使用本功能。</noscript>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="font-size: 120%; font-weight: 700">
+                                                                        106年預算資料(XML)
+                                                                    </td>
+                                                                    <td style="font-size: 120%; font-weight: 700">
+                                                                        &nbsp;</td>
+                                                                    <td align="right">
+                                                                        &nbsp;
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="noscript" colspan="3">
+                                                                        <noscript>
+                                                                            <a id="hlPF" href="http://www.nvri.gov.tw/Module/PrintFriendly/Print.aspx?pid=6CYBUWMRpiE%3d" target="_blank">友善列印請按此</a></noscript>
+                                                                        <span id="Label2"></span>
+                                                                        <br />
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </div>
+                                                        <div class="FloatRight">
+                                                        </div>
+                                                    </div>
+                                            
+                                                    
+<div  style="text-align:center;">
+   <table class="table_cnew3" border="0" summary="排版表格" >
+       <tr>
+<td style="text-align:left;">
+
+       </td>
+</tr>
+   <tr>
+<td>
+<table summary="此為網站排版表格" align="center"  cellpadding="6" cellspacing="0" class="AppSet">
+<tr>
+<td class="App2" align="center" colspan="5">檔案及附件下載區</td>
+</tr>
+<tr>
+<th class="tdSet9">編號</th>
+<th>檔案名稱</th>
+<th>檔案簡述</th>
+<th class="tdSet10">檔案類型</th>
+<th class="tdSet9">下載</th>
+</tr>
+<tr class="trBgcolor">
+<td class="Appl" style="text-align: center">1</td>
+<td class="App" style="text-align: left"><a class="Appl" href="../PageFile/1827.xml" title="106-5108-人事費用分析表-20160906092211" target="_blank">106-5108-人事費用分析表-20160906092211</a></td>
+<td class="Appl"></td>
+<td class="Appl">xml</td>
+<td class="hl" style="text-align: center">
+<a href="../PageFile/1827.xml" title="106-5108-人事費用分析表-20160906092211xml文件下載" target="_blank"><img alt="106-5108-人事費用分析表-20160906092211xml文件下載" border="0" src="../../../images/FileType/xml.gif" /></a>
+</td>
+</tr>
+<tr>
+<td class="Appl" style="text-align: center">2</td>
+<td class="App" style="text-align: left"><a class="hl" href="../PageFile/1828.xml" title="106-5108-公務車輛明細表-20160906092211" target="_blank">106-5108-公務車輛明細表-20160906092211</a></td>
+<td class="Appl"></td>
+<td class="Appl">xml</td>
+<td class="hl" style="text-align: center">
+<a href="../PageFile/1828.xml" title="106-5108-公務車輛明細表-20160906092211xml文件下載" target="_blank"><img alt="106-5108-公務車輛明細表-20160906092211xml文件下載" border="0" src="../../../images/FileType/xml.gif" /></a>
+</td>
+</tr>
+<tr class="trBgcolor">
+<td class="Appl" style="text-align: center">3</td>
+<td class="App" style="text-align: left"><a class="Appl" href="../PageFile/1829.xml" title="106-5108-各項費用彙計表-20160906092210" target="_blank">106-5108-各項費用彙計表-20160906092210</a></td>
+<td class="Appl"></td>
+<td class="Appl">xml</td>
+<td class="hl" style="text-align: center">
+<a href="../PageFile/1829.xml" title="106-5108-各項費用彙計表-20160906092210xml文件下載" target="_blank"><img alt="106-5108-各項費用彙計表-20160906092210xml文件下載" border="0" src="../../../images/FileType/xml.gif" /></a>
+</td>
+</tr>
+<tr>
+<td class="Appl" style="text-align: center">4</td>
+<td class="App" style="text-align: left"><a class="hl" href="../PageFile/1830.xml" title="106-5108-收支併列案款對照表-20160906092211" target="_blank">106-5108-收支併列案款對照表-20160906092211</a></td>
+<td class="Appl"></td>
+<td class="Appl">xml</td>
+<td class="hl" style="text-align: center">
+<a href="../PageFile/1830.xml" title="106-5108-收支併列案款對照表-20160906092211xml文件下載" target="_blank"><img alt="106-5108-收支併列案款對照表-20160906092211xml文件下載" border="0" src="../../../images/FileType/xml.gif" /></a>
+</td>
+</tr>
+<tr class="trBgcolor">
+<td class="Appl" style="text-align: center">5</td>
+<td class="App" style="text-align: left"><a class="Appl" href="../PageFile/1831.xml" title="106-5108-派員出國計畫預算總表-20160906092211" target="_blank">106-5108-派員出國計畫預算總表-20160906092211</a></td>
+<td class="Appl"></td>
+<td class="Appl">xml</td>
+<td class="hl" style="text-align: center">
+<a href="../PageFile/1831.xml" title="106-5108-派員出國計畫預算總表-20160906092211xml文件下載" target="_blank"><img alt="106-5108-派員出國計畫預算總表-20160906092211xml文件下載" border="0" src="../../../images/FileType/xml.gif" /></a>
+</td>
+</tr>
+<tr>
+<td class="Appl" style="text-align: center">6</td>
+<td class="App" style="text-align: left"><a class="hl" href="../PageFile/1832.xml" title="106-5108-派員出國計畫類別表-考察-20160906092211" target="_blank">106-5108-派員出國計畫類別表-考察-20160906092211</a></td>
+<td class="Appl"></td>
+<td class="Appl">xml</td>
+<td class="hl" style="text-align: center">
+<a href="../PageFile/1832.xml" title="106-5108-派員出國計畫類別表-考察-20160906092211xml文件下載" target="_blank"><img alt="106-5108-派員出國計畫類別表-考察-20160906092211xml文件下載" border="0" src="../../../images/FileType/xml.gif" /></a>
+</td>
+</tr>
+<tr class="trBgcolor">
+<td class="Appl" style="text-align: center">7</td>
+<td class="App" style="text-align: left"><a class="Appl" href="../PageFile/1833.xml" title="106-5108-派員出國計畫類別表-進修-20160906092212" target="_blank">106-5108-派員出國計畫類別表-進修-20160906092212</a></td>
+<td class="Appl"></td>
+<td class="Appl">xml</td>
+<td class="hl" style="text-align: center">
+<a href="../PageFile/1833.xml" title="106-5108-派員出國計畫類別表-進修-20160906092212xml文件下載" target="_blank"><img alt="106-5108-派員出國計畫類別表-進修-20160906092212xml文件下載" border="0" src="../../../images/FileType/xml.gif" /></a>
+</td>
+</tr>
+<tr>
+<td class="Appl" style="text-align: center">8</td>
+<td class="App" style="text-align: left"><a class="hl" href="../PageFile/1834.xml" title="106-5108-派員出國計畫類別表-開會-20160906092211" target="_blank">106-5108-派員出國計畫類別表-開會-20160906092211</a></td>
+<td class="Appl"></td>
+<td class="Appl">xml</td>
+<td class="hl" style="text-align: center">
+<a href="../PageFile/1834.xml" title="106-5108-派員出國計畫類別表-開會-20160906092211xml文件下載" target="_blank"><img alt="106-5108-派員出國計畫類別表-開會-20160906092211xml文件下載" border="0" src="../../../images/FileType/xml.gif" /></a>
+</td>
+</tr>
+<tr class="trBgcolor">
+<td class="Appl" style="text-align: center">9</td>
+<td class="App" style="text-align: left"><a class="Appl" href="../PageFile/1835.xml" title="106-5108-捐助經費分析表-20160906092211" target="_blank">106-5108-捐助經費分析表-20160906092211</a></td>
+<td class="Appl"></td>
+<td class="Appl">xml</td>
+<td class="hl" style="text-align: center">
+<a href="../PageFile/1835.xml" title="106-5108-捐助經費分析表-20160906092211xml文件下載" target="_blank"><img alt="106-5108-捐助經費分析表-20160906092211xml文件下載" border="0" src="../../../images/FileType/xml.gif" /></a>
+</td>
+</tr>
+<tr>
+<td class="Appl" style="text-align: center">10</td>
+<td class="App" style="text-align: left"><a class="hl" href="../PageFile/1836.xml" title="106-5108-歲入來源別預算表-20160906092209" target="_blank">106-5108-歲入來源別預算表-20160906092209</a></td>
+<td class="Appl"></td>
+<td class="Appl">xml</td>
+<td class="hl" style="text-align: center">
+<a href="../PageFile/1836.xml" title="106-5108-歲入來源別預算表-20160906092209xml文件下載" target="_blank"><img alt="106-5108-歲入來源別預算表-20160906092209xml文件下載" border="0" src="../../../images/FileType/xml.gif" /></a>
+</td>
+</tr>
+<tr class="trBgcolor">
+<td class="Appl" style="text-align: center">11</td>
+<td class="App" style="text-align: left"><a class="Appl" href="../PageFile/1837.xml" title="106-5108-歲入項目說明提要表-20160906092210" target="_blank">106-5108-歲入項目說明提要表-20160906092210</a></td>
+<td class="Appl"></td>
+<td class="Appl">xml</td>
+<td class="hl" style="text-align: center">
+<a href="../PageFile/1837.xml" title="106-5108-歲入項目說明提要表-20160906092210xml文件下載" target="_blank"><img alt="106-5108-歲入項目說明提要表-20160906092210xml文件下載" border="0" src="../../../images/FileType/xml.gif" /></a>
+</td>
+</tr>
+<tr>
+<td class="Appl" style="text-align: center">12</td>
+<td class="App" style="text-align: left"><a class="hl" href="../PageFile/1838.xml" title="106-5108-歲出用途別科目分析表-20160906092211" target="_blank">106-5108-歲出用途別科目分析表-20160906092211</a></td>
+<td class="Appl"></td>
+<td class="Appl">xml</td>
+<td class="hl" style="text-align: center">
+<a href="../PageFile/1838.xml" title="106-5108-歲出用途別科目分析表-20160906092211xml文件下載" target="_blank"><img alt="106-5108-歲出用途別科目分析表-20160906092211xml文件下載" border="0" src="../../../images/FileType/xml.gif" /></a>
+</td>
+</tr>
+<tr class="trBgcolor">
+<td class="Appl" style="text-align: center">13</td>
+<td class="App" style="text-align: left"><a class="Appl" href="../PageFile/1839.xml" title="106-5108-歲出按職能及經濟性綜合分類表-20160906092212" target="_blank">106-5108-歲出按職能及經濟性綜合分類表-20160906092212</a></td>
+<td class="Appl"></td>
+<td class="Appl">xml</td>
+<td class="hl" style="text-align: center">
+<a href="../PageFile/1839.xml" title="106-5108-歲出按職能及經濟性綜合分類表-20160906092212xml文件下載" target="_blank"><img alt="106-5108-歲出按職能及經濟性綜合分類表-20160906092212xml文件下載" border="0" src="../../../images/FileType/xml.gif" /></a>
+</td>
+</tr>
+<tr>
+<td class="Appl" style="text-align: center">14</td>
+<td class="App" style="text-align: left"><a class="hl" href="../PageFile/1840.xml" title="106-5108-歲出機關別預算表-20160906092210" target="_blank">106-5108-歲出機關別預算表-20160906092210</a></td>
+<td class="Appl"></td>
+<td class="Appl">xml</td>
+<td class="hl" style="text-align: center">
+<a href="../PageFile/1840.xml" title="106-5108-歲出機關別預算表-20160906092210xml文件下載" target="_blank"><img alt="106-5108-歲出機關別預算表-20160906092210xml文件下載" border="0" src="../../../images/FileType/xml.gif" /></a>
+</td>
+</tr>
+<tr class="trBgcolor">
+<td class="Appl" style="text-align: center">15</td>
+<td class="App" style="text-align: left"><a class="Appl" href="../PageFile/1844.xml" title="106-5108-歲出計畫提要及分支計畫概況表-20160906092210" target="_blank">106-5108-歲出計畫提要及分支計畫概況表-20160906092210</a></td>
+<td class="Appl"></td>
+<td class="Appl">xml</td>
+<td class="hl" style="text-align: center">
+<a href="../PageFile/1844.xml" title="106-5108-歲出計畫提要及分支計畫概況表-20160906092210xml文件下載" target="_blank"><img alt="106-5108-歲出計畫提要及分支計畫概況表-20160906092210xml文件下載" border="0" src="../../../images/FileType/xml.gif" /></a>
+</td>
+</tr>
+<tr>
+<td class="Appl" style="text-align: center">16</td>
+<td class="App" style="text-align: left"><a class="hl" href="../PageFile/1845.xml" title="106-5108-資本支出分析表-20160906092211" target="_blank">106-5108-資本支出分析表-20160906092211</a></td>
+<td class="Appl"></td>
+<td class="Appl">xml</td>
+<td class="hl" style="text-align: center">
+<a href="../PageFile/1845.xml" title="106-5108-資本支出分析表-20160906092211xml文件下載" target="_blank"><img alt="106-5108-資本支出分析表-20160906092211xml文件下載" border="0" src="../../../images/FileType/xml.gif" /></a>
+</td>
+</tr>
+<tr class="trBgcolor">
+<td class="Appl" style="text-align: center">17</td>
+<td class="App" style="text-align: left"><a class="Appl" href="../PageFile/1846.xml" title="106-5108-預算員額明細表-20160906092211" target="_blank">106-5108-預算員額明細表-20160906092211</a></td>
+<td class="Appl"></td>
+<td class="Appl">xml</td>
+<td class="hl" style="text-align: center">
+<a href="../PageFile/1846.xml" title="106-5108-預算員額明細表-20160906092211xml文件下載" target="_blank"><img alt="106-5108-預算員額明細表-20160906092211xml文件下載" border="0" src="../../../images/FileType/xml.gif" /></a>
+</td>
+</tr>
+<tr>
+<td class="Appl" style="text-align: center">18</td>
+<td class="App" style="text-align: left"><a class="hl" href="../PageFile/1847.xml" title="106-5108-辦公房舍明細表-20160906092211" target="_blank">106-5108-辦公房舍明細表-20160906092211</a></td>
+<td class="Appl"></td>
+<td class="Appl">xml</td>
+<td class="hl" style="text-align: center">
+<a href="../PageFile/1847.xml" title="106-5108-辦公房舍明細表-20160906092211xml文件下載" target="_blank"><img alt="106-5108-辦公房舍明細表-20160906092211xml文件下載" border="0" src="../../../images/FileType/xml.gif" /></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+                                                </div>
+                                                
+                                                <br/>
+                                                <center>
+    
+
+        <div id="LinkStyle" align="center">
+                <table align="center" cellpadding="5" cellspacing="5" style="width:100%">
+                   <tr>
+                       <td>
+                          </td>
+                   </tr>
+                     <tr>
+                        <td>
+                            <div>
+                                <ul style="text-align: left">
+                                    <li style="display: inline; padding-right: 15px"><a style="font-size: 15px;" title="畜衛所FB粉絲團(另開新視窗)"
+                                        href="http://facebook.com.tw/ahrigov" target="_blank">
+                                        <img id="ImgFacebook" src="../../../images/Footer1017/facebook.png" alt="畜衛所FB粉絲團(另開新視窗)" style="vertical-align: middle" />&nbsp&nbsp畜衛所粉絲團</a>
+                                    </li>
+                                    <li style="display: inline; padding-right: 15px"><a style="font-size: 15px;" title="畜衛所影音(另開新視窗)"
+                                        href="http://www.youtube.com/channel/UCvmrIbic9yvcqfhhb_ZhgKA/videos" target="_blank">
+                                        <img id="ImgYoutube" src="../../../images/Footer1017/youtube.png" alt="畜衛所影音(另開新視窗)" style="vertical-align: middle" />&nbsp&nbsp畜衛所影音</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" class="BorderStyle">
+                            <br />
+                            <table id="dlfoot" cellspacing="0">
+	<tr>
+		<td align="left" valign="top" width="200"><font size="3">
+                                    <div id="dlfoot_divPageFoodChild_0" style="padding: 0 20px 20px 0;">
+                                        <a id="dlfoot_hlfoot_0" title="線上服務" href="../../../main.aspx?pid=Jk9i8ark2lg%3d" style="display:inline-block;text-decoration: none; font-weight: bold; font-size: medium;">線上服務</a>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <table id="dlfoot_dlfootChild_0" cellspacing="0">
+			<tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_0_hlfoot_0" title="水生送樣服務" href="../700/671.aspx?pid=nUsaGCJPM5c%3d" style="text-decoration: none;">水生送樣服務</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_0_hlfoot_1" title="獸醫防疫資料館線上報名服務" href="../700/685.aspx?pid=H1ORja2BYW8%3d" style="text-decoration: none;">獸醫防疫資料館線上...</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_0_hlfoot_2" title="實驗動物產銷管理系統" href="../700/686.aspx?pid=PvrMrIxNkxw%3d" style="text-decoration: none;">實驗動物產銷管理系...</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_0_hlfoot_3" title="動物用藥品檢定服務網" href="../700/692.aspx?pid=PUUYINYlYKI%3d" style="text-decoration: none;">動物用藥品檢定服務...</a>
+                                                </div>
+                                            </font></td>
+			</tr>
+		</table>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <input type="submit" name="ctl00$dlfoot$ctl00$btnMorePageFoot" value="更多線上服務" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$dlfoot$ctl00$btnMorePageFoot&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../../../main.aspx?pid=Jk9i8ark2lg%3d&quot;, false, false))" id="dlfoot_btnMorePageFoot_0" class="btn" onkeypress="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" onfocus="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" />
+                                        <br />
+                                        <br />
+                                    </div>
+                                    
+                                </font></td><td align="left" valign="top" width="200"><font size="3">
+                                    <div id="dlfoot_divPageFoodChild_1" style="padding: 0 20px 20px 0;">
+                                        <a id="dlfoot_hlfoot_1" title="所務介紹" href="../../../main.aspx?pid=MFu70kAXgzY%3d" style="display:inline-block;text-decoration: none; font-weight: bold; font-size: medium;">所務介紹</a>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <table id="dlfoot_dlfootChild_1" cellspacing="0">
+			<tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_1_hlfoot_0" title="首長" href="../../../main.aspx?pid=OlpoJKf7Nr8%3d" style="text-decoration: none;">首長</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_1_hlfoot_1" title="副所長" href="../../../main.aspx?pid=AIEHaNpEln0%3d" style="text-decoration: none;">副所長</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_1_hlfoot_2" title="主任秘書" href="../../../main.aspx?pid=rEoAZCjKzWA%3d" style="text-decoration: none;">主任秘書</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_1_hlfoot_3" title="業務職掌" href="../100/3.aspx?pid=XM6KGqNfxTI%3d" style="text-decoration: none;">業務職掌</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_1_hlfoot_4" title="組織系統" href="../100/39.aspx?pid=vTJriE8%2fLqI%3d" style="text-decoration: none;">組織系統</a>
+                                                </div>
+                                            </font></td>
+			</tr>
+		</table>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <input type="submit" name="ctl00$dlfoot$ctl01$btnMorePageFoot" value="更多所務介紹" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$dlfoot$ctl01$btnMorePageFoot&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../../../main.aspx?pid=MFu70kAXgzY%3d&quot;, false, false))" id="dlfoot_btnMorePageFoot_1" class="btn" onkeypress="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" onfocus="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" />
+                                        <br />
+                                        <br />
+                                    </div>
+                                    
+                                </font></td><td align="left" valign="top" width="200"><font size="3">
+                                    <div id="dlfoot_divPageFoodChild_2" style="padding: 0 20px 20px 0;">
+                                        <a id="dlfoot_hlfoot_2" title="便民服務" href="../../../main.aspx?pid=eSEMv1t6lWU%3d" style="display:inline-block;text-decoration: none; font-weight: bold; font-size: medium;">便民服務</a>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <table id="dlfoot_dlfootChild_2" cellspacing="0">
+			<tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_2_hlfoot_0" title="本所疫苗 " href="../../../main.aspx?pid=y8scbRPsScE%3d" style="text-decoration: none;">本所疫苗 </a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_2_hlfoot_1" title="種原庫 " href="../../../main.aspx?pid=BAUu2H9fSso%3d" style="text-decoration: none;">種原庫 </a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_2_hlfoot_2" title="實驗動物供應" href="../../../main.aspx?pid=wMk2pJ81bek%3d" style="text-decoration: none;">實驗動物供應</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_2_hlfoot_3" title="為民服務成果統計 " href="../../../main.aspx?pid=6oeq%2fsrE%2bQM%3d" style="text-decoration: none;">為民服務成果統計 </a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_2_hlfoot_4" title="為民服務白皮書 文件下載" href="../200/177.aspx?pid=eKKWuanDvHo%3d" style="text-decoration: none;">為民服務白皮書 文...</a>
+                                                </div>
+                                            </font></td>
+			</tr>
+		</table>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <input type="submit" name="ctl00$dlfoot$ctl02$btnMorePageFoot" value="更多便民服務" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$dlfoot$ctl02$btnMorePageFoot&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../../../main.aspx?pid=eSEMv1t6lWU%3d&quot;, false, false))" id="dlfoot_btnMorePageFoot_2" class="btn" onkeypress="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" onfocus="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" />
+                                        <br />
+                                        <br />
+                                    </div>
+                                    
+                                </font></td><td align="left" valign="top" width="200"><font size="3">
+                                    <div id="dlfoot_divPageFoodChild_3" style="padding: 0 20px 20px 0;">
+                                        <a id="dlfoot_hlfoot_3" title="畜衛所訊" href="../../../main.aspx?pid=ynJ4xAOrlBE%3d" style="display:inline-block;text-decoration: none; font-weight: bold; font-size: medium;">畜衛所訊</a>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <table id="dlfoot_dlfootChild_3" cellspacing="0">
+			<tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_3_hlfoot_0" title="第四十三期" href="818.aspx?pid=%2byc5%2bZ0grhI%3d" style="text-decoration: none;">第四十三期</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_3_hlfoot_1" title="第四十二期" href="816.aspx?pid=SfwgmvItlwA%3d" style="text-decoration: none;">第四十二期</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_3_hlfoot_2" title="第四十一期" href="811.aspx?pid=UYUSUQiII2I%3d" style="text-decoration: none;">第四十一期</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_3_hlfoot_3" title="第四十期" href="801.aspx?pid=JGlB4Og8Z4A%3d" style="text-decoration: none;">第四十期</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_3_hlfoot_4" title="第三十九期" href="../800/793.aspx?pid=djNj%2boLrSDU%3d" style="text-decoration: none;">第三十九期</a>
+                                                </div>
+                                            </font></td>
+			</tr>
+		</table>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <input type="submit" name="ctl00$dlfoot$ctl03$btnMorePageFoot" value="更多畜衛所訊" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$dlfoot$ctl03$btnMorePageFoot&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../../../main.aspx?pid=ynJ4xAOrlBE%3d&quot;, false, false))" id="dlfoot_btnMorePageFoot_3" class="btn" onkeypress="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" onfocus="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" />
+                                        <br />
+                                        <br />
+                                    </div>
+                                    
+                                </font></td><td align="left" valign="top" width="200"><font size="3">
+                                    <div id="dlfoot_divPageFoodChild_4" style="padding: 0 20px 20px 0;">
+                                        <a id="dlfoot_hlfoot_4" title="就業資訊" href="../../../main.aspx?pid=GIgK4e27l0U%3d" style="display:inline-block;text-decoration: none; font-weight: bold; font-size: medium;">就業資訊</a>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <table id="dlfoot_dlfootChild_4" cellspacing="0">
+			<tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_4_hlfoot_0" title="本所就業資訊" href="http://www.nvri.gov.tw/module/news/MoreNews.aspx?type=%20Lk0omZdQzmo%3d&amp;pageid=zO4l76wykT8%3d" style="text-decoration: none;">本所就業資訊</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_4_hlfoot_1" title="其他就業資訊" href="../600/514.aspx?pid=POTXg7hJNbU%3d" style="text-decoration: none;">其他就業資訊</a>
+                                                </div>
+                                            </font></td>
+			</tr>
+		</table>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <input type="submit" name="ctl00$dlfoot$ctl04$btnMorePageFoot" value="更多就業資訊" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$dlfoot$ctl04$btnMorePageFoot&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../../../main.aspx?pid=GIgK4e27l0U%3d&quot;, false, false))" id="dlfoot_btnMorePageFoot_4" class="btn" onkeypress="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" onfocus="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" />
+                                        <br />
+                                        <br />
+                                    </div>
+                                    
+                                </font></td>
+	</tr><tr>
+		<td align="left" valign="top" width="200"><font size="3">
+                                    <div id="dlfoot_divPageFoodChild_5" style="padding: 0 20px 20px 0;">
+                                        <a id="dlfoot_hlfoot_5" title="政府資訊公開" href="../../../main.aspx?pid=bL4HUEYdC38%3d" style="display:inline-block;text-decoration: none; font-weight: bold; font-size: medium;">政府資訊公開</a>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <table id="dlfoot_dlfootChild_5" cellspacing="0">
+			<tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_5_hlfoot_0" title="業務統計" href="../../../main.aspx?pid=tFvAYbAE6Mg%3d" style="text-decoration: none;">業務統計</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_5_hlfoot_1" title="預算及決算" href="../../../main.aspx?pid=zd8D12Mw1Uw%3d" style="text-decoration: none;">預算及決算</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_5_hlfoot_2" title="研究報告" href="../400/379.aspx?pid=n7CkI0cgkcY%3d" style="text-decoration: none;">研究報告</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_5_hlfoot_3" title="施政計畫" href="../400/380.aspx?pid=BA4BFRW%2bFkE%3d" style="text-decoration: none;">施政計畫</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_5_hlfoot_4" title="法律命令" href="../400/381.aspx?pid=FoQtMNXnIos%3d" style="text-decoration: none;">法律命令</a>
+                                                </div>
+                                            </font></td>
+			</tr>
+		</table>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <input type="submit" name="ctl00$dlfoot$ctl05$btnMorePageFoot" value="更多政府資訊公開" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$dlfoot$ctl05$btnMorePageFoot&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../../../main.aspx?pid=bL4HUEYdC38%3d&quot;, false, false))" id="dlfoot_btnMorePageFoot_5" class="btn" onkeypress="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" onfocus="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" />
+                                        <br />
+                                        <br />
+                                    </div>
+                                    
+                                </font></td><td align="left" valign="top" width="200"><font size="3">
+                                    <div id="dlfoot_divPageFoodChild_6" style="padding: 0 20px 20px 0;">
+                                        <a id="dlfoot_hlfoot_6" title="疫苗檢定" href="../../../main.aspx?pid=gdg1f3KlZqE%3d" style="display:inline-block;text-decoration: none; font-weight: bold; font-size: medium;">疫苗檢定</a>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <table id="dlfoot_dlfootChild_6" cellspacing="0">
+			<tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_6_hlfoot_0" title="一O五年" href="../../../main.aspx?pid=at39OiFCAxg%3d" style="text-decoration: none;">一O五年</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_6_hlfoot_1" title="一O四年" href="../../../main.aspx?pid=c7S8ami%2fKek%3d" style="text-decoration: none;">一O四年</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_6_hlfoot_2" title="一Ｏ三年" href="../../../main.aspx?pid=g2eWtFa0F3E%3d" style="text-decoration: none;">一Ｏ三年</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_6_hlfoot_3" title="一O二年" href="../../../main.aspx?pid=cElehMGH6Ng%3d" style="text-decoration: none;">一O二年</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_6_hlfoot_4" title="一O一年" href="../../../main.aspx?pid=0hb7D4gVxnA%3d" style="text-decoration: none;">一O一年</a>
+                                                </div>
+                                            </font></td>
+			</tr>
+		</table>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <input type="submit" name="ctl00$dlfoot$ctl06$btnMorePageFoot" value="更多疫苗檢定" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$dlfoot$ctl06$btnMorePageFoot&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../../../main.aspx?pid=gdg1f3KlZqE%3d&quot;, false, false))" id="dlfoot_btnMorePageFoot_6" class="btn" onkeypress="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" onfocus="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" />
+                                        <br />
+                                        <br />
+                                    </div>
+                                    
+                                </font></td><td align="left" valign="top" width="200"><font size="3">
+                                    <div id="dlfoot_divPageFoodChild_7" style="padding: 0 20px 20px 0;">
+                                        <a id="dlfoot_hlfoot_7" title="禽流感資訊" href="../../../main.aspx?pid=eye%2f0Ib5rxs%3d" style="display:inline-block;text-decoration: none; font-weight: bold; font-size: medium;">禽流感資訊</a>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <table id="dlfoot_dlfootChild_7" cellspacing="0">
+			<tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_7_hlfoot_0" title="動植物防疫檢疫局禽流感資訊專區" href="http://ai.baphiq.gov.tw/" style="text-decoration: none;">動植物防疫檢疫局禽...</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_7_hlfoot_1" title="家禽流行性感冒實驗室檢驗流程" href="../500/491.aspx?pid=j1zj%2fT5CZH0%3d" style="text-decoration: none;">家禽流行性感冒實驗...</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_7_hlfoot_2" title="野鳥監測結果" href="../400/337.aspx?pid=xKbzyqGuH1Y%3d" style="text-decoration: none;">野鳥監測結果</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_7_hlfoot_3" title="正黏液病毒" href="../400/348.aspx?pid=%2f2iULt8rDWk%3d" style="text-decoration: none;">正黏液病毒</a>
+                                                </div>
+                                            </font></td>
+			</tr>
+		</table>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <input type="submit" name="ctl00$dlfoot$ctl07$btnMorePageFoot" value="更多禽流感資訊" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$dlfoot$ctl07$btnMorePageFoot&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../../../main.aspx?pid=eye%2f0Ib5rxs%3d&quot;, false, false))" id="dlfoot_btnMorePageFoot_7" class="btn" onkeypress="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" onfocus="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" />
+                                        <br />
+                                        <br />
+                                    </div>
+                                    
+                                </font></td><td align="left" valign="top" width="200"><font size="3">
+                                    <div id="dlfoot_divPageFoodChild_8" style="padding: 0 20px 20px 0;">
+                                        <a id="dlfoot_hlfoot_8" title="狂犬病專區" href="../../../main.aspx?pid=NO3gQUuAFZw%3d" style="display:inline-block;text-decoration: none; font-weight: bold; font-size: medium;">狂犬病專區</a>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <table id="dlfoot_dlfootChild_8" cellspacing="0">
+			<tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_8_hlfoot_0" title="台灣分離之狂犬病病毒序列分析資料" href="../700/658.aspx?pid=4Z8QNuKr9LI%3d" style="text-decoration: none;">台灣分離之狂犬病病...</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_8_hlfoot_1" title="家畜衛生試驗所狂犬病實驗室診斷流程" href="../700/660.aspx?pid=SYadRcX1dMg%3d" style="text-decoration: none;">家畜衛生試驗所狂犬...</a>
+                                                </div>
+                                            </font></td>
+			</tr>
+		</table>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <input type="submit" name="ctl00$dlfoot$ctl08$btnMorePageFoot" value="更多狂犬病專區" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$dlfoot$ctl08$btnMorePageFoot&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../../../main.aspx?pid=NO3gQUuAFZw%3d&quot;, false, false))" id="dlfoot_btnMorePageFoot_8" class="btn" onkeypress="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" onfocus="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" />
+                                        <br />
+                                        <br />
+                                    </div>
+                                    
+                                </font></td><td align="left" valign="top" width="200"><font size="3">
+                                    <div id="dlfoot_divPageFoodChild_9" style="padding: 0 20px 20px 0;">
+                                        <a id="dlfoot_hlfoot_9" title="出版品" href="../../../main.aspx?pid=7YcsHpW%2flOk%3d" style="display:inline-block;text-decoration: none; font-weight: bold; font-size: medium;">出版品</a>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <table id="dlfoot_dlfootChild_9" cellspacing="0">
+			<tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_9_hlfoot_0" title="104年度出版品" href="../800/790.aspx?pid=WcUCfvezIRQ%3d" style="text-decoration: none;">104年度出版品</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_9_hlfoot_1" title="103年度出版品" href="../800/706.aspx?pid=KFT0J7hAtXs%3d" style="text-decoration: none;">103年度出版品</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_9_hlfoot_2" title="102年度出版品" href="../700/656.aspx?pid=nO2q04nxYhs%3d" style="text-decoration: none;">102年度出版品</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_9_hlfoot_3" title="101年度出版品" href="../700/623.aspx?pid=p9O5b2GotaQ%3d" style="text-decoration: none;">101年度出版品</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_9_hlfoot_4" title="100年度出版品" href="../600/570.aspx?pid=bMpuOG4fUuo%3d" style="text-decoration: none;">100年度出版品</a>
+                                                </div>
+                                            </font></td>
+			</tr>
+		</table>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <input type="submit" name="ctl00$dlfoot$ctl09$btnMorePageFoot" value="更多出版品" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$dlfoot$ctl09$btnMorePageFoot&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../../../main.aspx?pid=7YcsHpW%2flOk%3d&quot;, false, false))" id="dlfoot_btnMorePageFoot_9" class="btn" onkeypress="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" onfocus="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" />
+                                        <br />
+                                        <br />
+                                    </div>
+                                    
+                                </font></td>
+	</tr><tr>
+		<td align="left" valign="top" width="200"><font size="3">
+                                    <div id="dlfoot_divPageFoodChild_10" style="padding: 0 20px 20px 0;">
+                                        <a id="dlfoot_hlfoot_10" title="常見問答" href="../../../main.aspx?pid=SX4RRwEZYzg%3d" style="display:inline-block;text-decoration: none; font-weight: bold; font-size: medium;">常見問答</a>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <table id="dlfoot_dlfootChild_10" cellspacing="0">
+			<tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_10_hlfoot_0" title="人畜共通疾病" href="../../../main.aspx?pid=xMFGbTUr4qk%3d" style="text-decoration: none;">人畜共通疾病</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_10_hlfoot_1" title="口蹄疫" href="../../../main.aspx?pid=q2acXpG6hto%3d" style="text-decoration: none;">口蹄疫</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_10_hlfoot_2" title="動物生理" href="../../../main.aspx?pid=dqNpzT%2bzy08%3d" style="text-decoration: none;">動物生理</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_10_hlfoot_3" title="動物用藥品　" href="../../../main.aspx?pid=ARSvmntyMjs%3d" style="text-decoration: none;">動物用藥品　</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_10_hlfoot_4" title="有趣的動物病名" href="../../../main.aspx?pid=6kF0z%2b%2faksY%3d" style="text-decoration: none;">有趣的動物病名</a>
+                                                </div>
+                                            </font></td>
+			</tr>
+		</table>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <input type="submit" name="ctl00$dlfoot$ctl10$btnMorePageFoot" value="更多常見問答" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$dlfoot$ctl10$btnMorePageFoot&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../../../main.aspx?pid=SX4RRwEZYzg%3d&quot;, false, false))" id="dlfoot_btnMorePageFoot_10" class="btn" onkeypress="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" onfocus="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" />
+                                        <br />
+                                        <br />
+                                    </div>
+                                    
+                                </font></td><td align="left" valign="top" width="200"><font size="3">
+                                    <div id="dlfoot_divPageFoodChild_11" style="padding: 0 20px 20px 0;">
+                                        <a id="dlfoot_hlfoot_11" title="聯絡我們" href="../../../main.aspx?pid=ArgJaaX2b8c%3d" style="display:inline-block;text-decoration: none; font-weight: bold; font-size: medium;">聯絡我們</a>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <table id="dlfoot_dlfootChild_11" cellspacing="0">
+			<tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_11_hlfoot_0" title="所長與民有約" href="../400/335.aspx?pid=DCCPOspTwFk%3d" style="text-decoration: none;">所長與民有約</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_11_hlfoot_1" title="參訪本所" href="../400/336.aspx?pid=OXGbnWmWrEI%3d" style="text-decoration: none;">參訪本所</a>
+                                                </div>
+                                            </font></td>
+			</tr>
+		</table>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <input type="submit" name="ctl00$dlfoot$ctl11$btnMorePageFoot" value="更多聯絡我們" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$dlfoot$ctl11$btnMorePageFoot&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../../../main.aspx?pid=ArgJaaX2b8c%3d&quot;, false, false))" id="dlfoot_btnMorePageFoot_11" class="btn" onkeypress="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" onfocus="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" />
+                                        <br />
+                                        <br />
+                                    </div>
+                                    
+                                </font></td><td align="left" valign="top" width="200"><font size="3">
+                                    <div id="dlfoot_divPageFoodChild_12" style="padding: 0 20px 20px 0;">
+                                        <a id="dlfoot_hlfoot_12" title="獸醫資料館" href="../../../main.aspx?pid=a50LOvdZY%2b4%3d" style="display:inline-block;text-decoration: none; font-weight: bold; font-size: medium;">獸醫資料館</a>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <table id="dlfoot_dlfootChild_12" cellspacing="0">
+			<tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_12_hlfoot_0" title="獸醫資料館" href="../600/590.aspx?pid=kl77tktQMjI%3d" style="text-decoration: none;">獸醫資料館</a>
+                                                </div>
+                                            </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                                <div style="padding: 0 0px;">
+                                                    <a id="dlfoot_dlfootChild_12_hlfoot_1" title="團體預約導覽線上申請(請使用Chrome開啟)" href="../../../GroupRegister.aspx" style="text-decoration: none;">團體預約導覽線上申...</a>
+                                                </div>
+                                            </font></td>
+			</tr>
+		</table>
+                                        <div style="padding: 0 0 5px 0;">
+                                        </div>
+                                        <input type="submit" name="ctl00$dlfoot$ctl12$btnMorePageFoot" value="更多獸醫資料館" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$dlfoot$ctl12$btnMorePageFoot&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../../../main.aspx?pid=a50LOvdZY%2b4%3d&quot;, false, false))" id="dlfoot_btnMorePageFoot_12" class="btn" onkeypress="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" onfocus="~/module/news/MoreNews.aspx?type=MFu70kAXgzY%3d&amp;pageid=zO4l76wykT8%3d" />
+                                        <br />
+                                        <br />
+                                    </div>
+                                    
+                                </font></td><td align="left" valign="top" width="200"><font size="3">
+                                    
+                                    <table id="dlfoot_dlfootNoChild_13" cellspacing="0">
+			<tr>
+				<td align="left"><font size="3">
+                                            <div>
+                                                <a id="dlfoot_dlfootNoChild_13_hlfoot_0" title="重大政策" href="../600/512.aspx?pid=yK64tWUA3dg%3d" style="display:inline-block;text-decoration: none; font-weight: bold; font-size: medium;">重大政策</a>
+                                            </div>
+                                        </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                            <div>
+                                                <a id="dlfoot_dlfootNoChild_13_hlfoot_1" title="獸醫數位教材" href="../400/333.aspx?pid=oz0%2b4LXUhWY%3d" style="display:inline-block;text-decoration: none; font-weight: bold; font-size: medium;">獸醫數位教材</a>
+                                            </div>
+                                        </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                            <div>
+                                                <a id="dlfoot_dlfootNoChild_13_hlfoot_2" title="獸醫資訊系統" href="../100/42.aspx?pid=%2fiNURYazO0c%3d" style="display:inline-block;text-decoration: none; font-weight: bold; font-size: medium;">獸醫資訊系統</a>
+                                            </div>
+                                        </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                            <div>
+                                                <a id="dlfoot_dlfootNoChild_13_hlfoot_3" title="生產醫學平台" href="../600/576.aspx?pid=yXMfXLYmwLA%3d" style="display:inline-block;text-decoration: none; font-weight: bold; font-size: medium;">生產醫學平台</a>
+                                            </div>
+                                        </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                            <div>
+                                                <a id="dlfoot_dlfootNoChild_13_hlfoot_4" title="相關連結" href="../../news/Morelink.aspx?l=zO4l76wykT8%3d" style="display:inline-block;text-decoration: none; font-weight: bold; font-size: medium;">相關連結</a>
+                                            </div>
+                                        </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                            <div>
+                                                <a id="dlfoot_dlfootNoChild_13_hlfoot_5" title="場地租借" href="../500/464.aspx?pid=hOds4EIh7%2bU%3d" style="display:inline-block;text-decoration: none; font-weight: bold; font-size: medium;">場地租借</a>
+                                            </div>
+                                        </font></td>
+			</tr><tr>
+				<td align="left"><font size="3">
+                                            <div>
+                                                <a id="dlfoot_dlfootNoChild_13_hlfoot_6" title="下載專區" href="../800/729.aspx?pid=Zm25CC3dVn0%3d" style="display:inline-block;text-decoration: none; font-weight: bold; font-size: medium;">下載專區</a>
+                                            </div>
+                                        </font></td>
+			</tr>
+		</table>
+                                </font></td><td><font size="3"></font></td>
+	</tr>
+</table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center"  >
+                            <table style="width:100%" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td align="center">
+                            
+                                    </td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.820580785993!2d121.43173650000001!3d25.175535399999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a54f98c731af%3A0xe9fb6708920c0e40!2zMjUx5paw5YyX5biC5reh5rC05Y2A5Lit5q2j6LevMzc26Jmf!5e0!3m2!1szh-TW!2stw!4v1430128965477" 
+                                frameborder="0" 
+                                style="border-style: none; border-color: inherit; border-width: 0; height: 250px; width: 100%; margin-left: 0px;" 
+                                title="家畜衛生試驗所地圖" id="I1" name="I1"></iframe>
+                                </tr>
+                            </table>
+                            </td>
+                    </tr>
+                </table>
+            </div>
+            </center>
+                                            </td>
+                                            <td class="BgRight" valign="bottom">
+                                                &nbsp;
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="BgLeftBottom" valign="bottom">
+                                                &nbsp;
+                                            </td>
+                                            <td valign="top" align="center">
+                                                <table border="0" summary="排版用表格">
+                                                    <tr>
+                                                        <td align="center">
+                                                            <table border="0" summary="排版用表格">
+                                                                <tr>
+                                                                    <td>
+                                                                        <input name="ctl00$btnTop" type="button" id="btnTop" class="btn" onclick="javascript: window.scrollTo(0, 0);" title="TOP" value="TOP" onkeypress="javascript:window.scrollTo(0,0);" />
+                                                                    </td>
+                                                                    <td>
+                                                                        
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>                                                        
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                            <td class="BgRightBottom" valign="bottom">
+                                                &nbsp;
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td valign="top" id="E">
+                        
+                        
+                    </td>
+                </tr>
+            </table>
+        </div>        
+        <div id="Footer">            
+            <table cellpadding="5" cellspacing="0" align="center">
+                <tr>
+                    <td style="width: 100px" valign="top" align="center">
+                        <a href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20160929171651" title="無障礙網站">
+    <img src="http://www.nvri.gov.tw/images/MasterPage/aplus.jpg" border="0" width="88" height="31" alt="通過A+優先等級無障礙網頁檢測" />
+    </a></td>
+                    <td style="width: 100px" valign="top" align="center">
+                        <img id="Image9" title="qrcdoe" src="../../../images/Footer1017/150327175052.jpg" alt="二維條碼QRcode" height="75" width="80" /></td>
+                    <td style="width: 50px" valign="top" align="center">
+                       <a href="http://www.gov.tw/" title="我的E政府(另開新視窗)" target="_blank"><img id="Image8" src="../../../images/MasterPage/egov.gif" alt="我的E政府(另開新視窗)" /></a>
+                        </td>
+                    <td align="left">
+                        <address>
+                            <a href="http://www.nvri.gov.tw/Module/PageContent/800/786.aspx?pid=8phZI7kCPk0%3d" id="aB" class="copyright-b08" target="_blank" title="隱私權保護與資訊安全政策宣告">隱私權保護與資訊安全政策宣告</a>｜<a href="../100/48.aspx?pid=REDxVoh4lzk%3d" id="aMap1" class="copyright-b08" title="本所位置圖">本所位置圖</a>｜<a href="http://www.nvri.gov.tw/Module/PageContent/800/787.aspx?pid=aY1lpCSekeY%3d" id="A1" class="copyright-b08" title="免責聲明">免責聲明</a>｜<a href="http://www.nvri.gov.tw/Module/PageContent/800/788.aspx?pid=W1TSsoGcWyI%3d" target="_blank" title="政府網站資料開放宣告(另開新視窗)">政府網站資料開放宣告
+</a><br />
+                            <span id="Label3">行政院農業委員會家畜衛生試驗所版權所有 ©2015 AHRI All Rights Reserved </span><br />
+                            <span id="Label4">25158 新北市淡水區中正路 376 號‧TEL：0800-068112、+886-2-26212111</span><br />
+                            <span id="Label5">最佳瀏覽狀態為 Chrome‧1280 * 768 以上解析度最佳</span></address>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.AutoCompleteBehavior, {"delimiterCharacters":"","id":"aceFullText","minimumPrefixLength":1,"serviceMethod":"GetCompletionList","servicePath":"../../../AutoComplete.asmx"}, null, null, $get("tbKeyword"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>
+

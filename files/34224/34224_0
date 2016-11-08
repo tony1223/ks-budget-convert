@@ -1,0 +1,240 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="keywords" content="最高法院 ">
+<meta name="description" content="最高法院 ">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>會計專欄, 最高法院</title>
+<link href="../css/imw.css" rel="stylesheet" type="text/css" />
+<link href="../css/common.css" rel="stylesheet" type="text/css" />
+<link href="../css/style.css" rel="stylesheet" type="text/css" />
+<script defer type="text/javascript" src="http://tps.judicial.gov.tw/libraries/js/js/pngfix.js"></script>
+<noscript>抱歉您的瀏覽器不支援Javascript，請使用IE6.0或Netscape7.1以上瀏覽~</noscript>
+
+<script src="http://tps.judicial.gov.tw/libraries/js/movePosition.js" type="text/javascript"></script>
+<noscript>抱歉您的瀏覽器不支援Javascript，請使用IE6.0或Netscape7.1以上瀏覽~</noscript>
+
+<script src="http://tps.judicial.gov.tw/libraries/js/Com_FontSizeFromUserCookie.js" type="text/javascript"></script>
+<noscript>您的瀏覽器似乎不支援JavaScript語法，但沒關係，這裡的JavaScript語法並不會影響到內容的陳述，
+如需要選擇字級大小，IE6請利用鍵盤按住ALT鍵 + V → X → (G)最大(L)較大(M)中(S)較小(A)小，來選擇適合您的文字大小，而IE7或Firefox
+瀏覽器則可利用鍵盤 Ctrl + (+)放大 (-)縮小來改變字型大小，
+如需要回到上一頁可使用瀏覽器提供的 Alt+左方向鍵(←) 快速鍵功能，
+列印可使用瀏覽器提供的(Ctrl+P)功能。</noscript>
+
+<script src="http://tps.judicial.gov.tw/libraries/js/jquery-1.4.2.js" type="text/javascript"></script>
+<noscript>抱歉您的瀏覽器不支援Javascript，請使用IE6.0或Netscape7.1以上瀏覽~</noscript>
+
+<style type="text/css">
+.acc_footer{
+	font-size: 20px;
+
+}
+
+/*其他*/
+#box_center {
+	width: 960px;
+	min-height:350px;
+	position: absolute;
+	z-index: 10;
+	margin-top:245px;
+	float:left;
+	background-image: url(../images/me/main_bg.gif);
+	background-repeat: no-repeat;
+	background-position: left 47px;
+}
+/* 版面寬度設定 */
+#page {
+	width: 960px;
+	margin: 0 auto;
+	height:auto;
+}
+/* 頁尾 logo */
+#footer_logo {
+	background-image: url(../images/me/footer_logo.jpg);
+	background-repeat:no-repeat;
+	background-position:center bottom;
+	width:200px;
+	min-height:51px;
+	float:left;
+	clear: left;
+	padding-top: 20px;
+
+}
+</style>
+
+<noscript>抱歉您的瀏覽器不支援Javascript，請使用IE6.0或Netscape7.1以上瀏覽~</noscript>
+</head>
+<body>
+
+<div id="page_matter">
+<div id="page">
+	<div id="box_center">
+		<div id="box_center_content">
+			<div id="box_main">
+            	<div id="menu"><img src="../flash/menu.png" width="760" height="47" border="0" usemap="#Map" alt="選單"/>
+                  <map name="Map" id="Map">
+                    <area shape="rect" coords="94,9,166,42" href="/about/" alt="認識本院" title="認識本院" />
+                    <area shape="rect" coords="172,9,247,42" href="/ms_news/?CLASSID=n" alt="公告事項" title="公告事項"/>
+                    <area shape="rect" coords="254,9,357,42" href="/faq/" alt="資訊查詢服務" title="資訊查詢服務"/>
+                    <area shape="rect" coords="363,9,442,42" href="/politics/" alt="政風專欄" title="政風專欄"/>
+                    <area shape="rect" coords="445,9,520,42" href="/accounting/" alt="會計專區" title="會計專區"/>
+                    <area shape="rect" coords="525,9,599,42" href="/statistic/" alt="統計專區" title="統計專區"/>
+                    <area shape="rect" coords="604,9,677,42" href="/service/" alt="便民服務" title="便民服務"/>
+                    <area shape="rect" coords="684,9,756,42" href="/links/" alt="相關網站" title="相關網站"/>
+                  </map>
+           	  </div>
+       	    <div id="font_size"><span id="acc_center"><a href="#" accesskey="c" title="中間區塊">:::</a></span> &nbsp; 文字大小：<span class="size_s"><a href="javascript:SetFont('14px');" title="小">小</a> </span> <span class="size_m"><a href="javascript:SetFont('16px');" title="中">中</a> </span> <span class="size_l"><a href="javascript:SetFont('18px');" title="大">大</a> </span> <span class="print">
+<a href="./?mode=fprint&parent_id=8" target="_blank" title="友善列印">友善列印</a>
+</span></div><div id="path">
+<div id="path">
+			<a href='/index.php' title='首頁' >首頁</a>        
+        
+		
+				 &#8250; 
+		
+			<a href='/accounting/index.php?parent_id=8' title='會計專欄' >會計專欄</a>        
+        
+		
+		
+	</div>
+</div>
+  <div id="is_title">
+    <h1>預算類</h1>
+  </div>
+  <div id="is_content">
+						
+						<div style="float: left">
+								<div style="padding-left:15px;" >
+					<li><a href="http://tps.judicial.gov.tw/archive/10610.doc" title="最高法院106年度預算案書總說明(Word檔)(1050831) ">最高法院106年度預算案書總說明(Word檔)(1050831) </a></li>
+				</div>
+								<div style="padding-left:15px;" >
+					<li><a href="http://tps.judicial.gov.tw/archive/10608.7z" title="最高法院106年度預算案書(Excel檔)(1050831) ">最高法院106年度預算案書(Excel檔)(1050831) </a></li>
+				</div>
+								<div style="padding-left:15px;" >
+					<li><a href="http://tps.judicial.gov.tw/archive/10604.7z" title="最高法院106年度預算案書(XML檔)(1050831) ">最高法院106年度預算案書(XML檔)(1050831) </a></li>
+				</div>
+								<div style="padding-left:15px;" >
+					<li><a href="http://tps.judicial.gov.tw/archive/10601.pdf" title="最高法院106年度預算案書(pdf檔)(1050831)">最高法院106年度預算案書(pdf檔)(1050831)</a></li>
+				</div>
+								<div style="padding-left:15px;" >
+					<li><a href="http://tps.judicial.gov.tw/archive/10506.7z" title="最高法院105年度法定預算書(Excel檔)(1050217) ">最高法院105年度法定預算書(Excel檔)(1050217) </a></li>
+				</div>
+								<div style="padding-left:15px;" >
+					<li><a href="http://tps.judicial.gov.tw/archive/10505.7z" title="最高法院105年度法定預算書(XML檔)(1050217) ">最高法院105年度法定預算書(XML檔)(1050217) </a></li>
+				</div>
+								<div style="padding-left:15px;" >
+					<li><a href="http://tps.judicial.gov.tw/archive/10503.pdf" title="最高法院105年度法定預算書(pdf檔)(1050217) ">最高法院105年度法定預算書(pdf檔)(1050217) </a></li>
+				</div>
+								<div style="padding-left:15px;" >
+					<li><a href="http://tps.judicial.gov.tw/archive/10507.doc" title="最高法院105年度法定預算書總說明(Word檔)(1050217) ">最高法院105年度法定預算書總說明(Word檔)(1050217) </a></li>
+				</div>
+								<div style="padding-left:15px;" >
+					<li><a href="http://tps.judicial.gov.tw/archive/10508.7z" title="最高法院105年度預算案書(Excel檔)(1040904) ">最高法院105年度預算案書(Excel檔)(1040904) </a></li>
+				</div>
+								<div style="padding-left:15px;" >
+					<li><a href="http://tps.judicial.gov.tw/archive/10504.7z" title="最高法院105年度預算案書(XML檔)(1040904) ">最高法院105年度預算案書(XML檔)(1040904) </a></li>
+				</div>
+							</div>
+  </div>
+      <div id="btn_list">
+    <div id="page_box"></div>
+    <div id="return_button">	<div>
+				<div id="page_box">
+			
+共 28 筆, 頁數: 
+
+
+<span class="page_outline_color">1</span>&nbsp;<a href="?page=2&parent_id=220" class="page_outline">2</a>&nbsp;<a href="?page=3&parent_id=220" class="page_outline">3</a>&nbsp;
+	<a href="?page=2&parent_id=220" class="page_outline_skip">下一頁</a>
+
+		</div>
+			</div>
+</div>
+    
+  </div>
+  </div>
+</div>﻿<a href="#" accesskey="l" title="左側區塊" class="acc">:::</a>
+		<div id="box_center_menu">
+			<div id="main_menu">
+				<div id="menu_public">
+					<div class="left_title"><img src="../images/me/left_title_accounting.png" width="200" height="54" alt="會計專欄" /></div>
+					<div class="left_center">
+						<ul>
+							              <li><a href="../accounting/index.php?parent_id=220" title="預算類" >預算類</a></li>
+                            <li><a href="../accounting/index.php?parent_id=177" title="決算類" >決算類</a></li>
+                            <li><a href="../accounting/index.php?parent_id=711" title="會計月報" >會計月報</a></li>
+              						</ul>
+					</div>
+					<div class="left_footer"></div>
+				</div>
+				<div id="menu_search">
+					<div class="left_title">會計專欄搜尋</div>
+					<div class="left_center">
+          <form action="./" method="get" enctype="application/x-www-form-urlencoded" onsubmit="if(this.keywords.value=='請輸入關鍵字'){ this.keywords.value='';}" >
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td valign="middle"><input name="keywords" type="text" class="search" value="請輸入關鍵字" onfocus="if(this.value=='請輸入關鍵字'){ this.value='';}" onblur="if(this.value==''){ this.value='請輸入關鍵字';}"  /></td>
+								<td width="10">&nbsp;</td>
+								<td valign="middle"><input name="imageField" type="image" id="imageField" src="../images/default/btn_search.gif" alt="搜尋" /><input name="mode" type="hidden" value="search" /></td>
+							</tr>
+						</table>
+           </form>
+          <div id="search_tip" style="display:none;">
+            <div align="left">搜尋小技巧：</div>
+            <div align="left">準確搜尋 - 使用 "and" 或空白間隔來找出符合全部條件之內容，如：A and B，或 A B</div>
+            <div align="left">模糊搜尋 - 使用 "or" 來找出符合其中一個條件的內容，如：A or B</div>
+          </div>
+					</div>
+					<div class="left_footer"></div>
+				</div>
+			</div>
+		</div>
+<script src="../Scripts/swfobject_modified.js" type="text/javascript"></script>
+<noscript>抱歉您的瀏覽器不支援Javascript，請使用IE6.0或Netscape7.1以上瀏覽~</noscript>
+      <div id="footer">
+		<div id="footer_logo"></div>
+		<div id="footer_right">
+			<div id="footer_text"><p>◎本院地址：10048臺北市長沙街一段六號　聯絡電話：(02)23141160<br />
+<a href="http://tps.judicial.gov.tw/privacy/">著作權宣告 / 隱私權保護 / 網站安全政策</a><br />
+&nbsp;</p> 訪客人次: 1,189,831  建議使用:IE7‧FireFox2.0　解析度1024 X 768<div id="footer_acc"><a href="#" accesskey="G" title="下方區塊">:::</a></div></div>
+			<div id="footer_copyright"></div>
+		</div>
+        <div id="aplus"><a href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20110223215045" title = "無障礙網站" ><img src="../images/me/aplus.gif" alt = "通過A+優先等級無障礙網頁檢測" width="88" height="31" border="0" /></a></div>
+	</div>
+	</div>
+    <div id="box_top">
+		<div id="banner">
+    	<div id="banner_title"><div id="header_acc"><a href="#" accesskey="T" title="上方區塊">:::</a></div> <div id="header_url"><a href="/" title="首頁">首頁</a>&nbsp; | &nbsp;<a href="/english/" title="English">English</a>&nbsp; | &nbsp;<a href="/service_terms/" title="網站導覽">網站導覽</a></div> </div>
+      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="960" height="292" id="FlashID" accesskey="a" tabindex="h" title="首頁橫幅FLASH">
+        <param name="movie" value="../flash/banner.swf" />
+        <param name="quality" value="high" />
+        <param name="wmode" value="opaque" />
+        <param name="swfversion" value="9.0.45.0" />
+        <!-- 此 param 標籤會提示使用 Flash Player 6.0 r65 和更新版本的使用者下載最新版本的 Flash Player。如果您不想讓使用者看到這項提示，請將其刪除。 -->
+        <param name="expressinstall" value="../Scripts/expressInstall.swf" />
+        <!-- 下一個物件標籤僅供非 IE 瀏覽器使用。因此，請使用 IECC 將其自 IE 隱藏。 -->
+        <!--[if !IE]>-->
+        <object type="application/x-shockwave-flash" data="../flash/banner.swf" width="960" height="292">
+          <!--<![endif]-->
+          <param name="quality" value="high" />
+          <param name="wmode" value="opaque" />
+          <param name="swfversion" value="9.0.45.0" />
+          <param name="expressinstall" value="../Scripts/expressInstall.swf" />
+          <!-- 瀏覽器會為使用 Flash Player 6.0 和更早版本的使用者顯示下列替代內容。 -->
+          <div>
+            <h4>這個頁面上的內容需要較新版本的 Adobe Flash Player。</h4>
+            <p><a href="http://www.adobe.com/go/getflashplayer" title="getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="取得 Adobe Flash Player" width="112" height="33" /></a></p>
+          </div>
+          <!--[if !IE]>-->
+        </object>
+        <!--<![endif]-->
+      </object>
+      
+		</div>
+	</div>
+</div>
+</div>
+
+
+</body>
+</html>

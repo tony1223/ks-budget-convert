@@ -1,0 +1,89 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv="Content-Language" content="zh-tw">
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<title>106年度臺灣橋頭地方法院單位預算案-Excel</title>
+<meta name="Microsoft Theme" content="nature 1011">
+<link rel="File-List" href="ctdgba.files/filelist.xml">
+<!--[if !mso]>
+<style>
+v\:*         { behavior: url(#default#VML) }
+o\:*         { behavior: url(#default#VML) }
+.shape       { behavior: url(#default#VML) }
+</style>
+<![endif]--><!--[if gte mso 9]>
+<xml><o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]-->
+</head>
+
+<body>
+
+<p><!--[if gte vml 1]><v:shapetype id="_x0000_t136"
+ coordsize="21600,21600" o:spt="136" adj="10800" path="m@7,l@8,m@5,21600l@6,21600e">
+ <v:formulas>
+  <v:f eqn="sum #0 0 10800"/>
+  <v:f eqn="prod #0 2 1"/>
+  <v:f eqn="sum 21600 0 @1"/>
+  <v:f eqn="sum 0 0 @2"/>
+  <v:f eqn="sum 21600 0 @3"/>
+  <v:f eqn="if @0 @3 0"/>
+  <v:f eqn="if @0 21600 @1"/>
+  <v:f eqn="if @0 0 @2"/>
+  <v:f eqn="if @0 @4 21600"/>
+  <v:f eqn="mid @5 @6"/>
+  <v:f eqn="mid @8 @5"/>
+  <v:f eqn="mid @7 @8"/>
+  <v:f eqn="mid @6 @7"/>
+  <v:f eqn="sum @6 0 @5"/>
+ </v:formulas>
+ <v:path textpathok="t" o:connecttype="custom" o:connectlocs="@9,0;@10,10800;@11,21600;@12,10800"
+  o:connectangles="270,180,90,0"/>
+ <v:textpath on="t" fitshape="t"/>
+ <v:handles>
+  <v:h position="#0,bottomRight" xrange="6629,14971"/>
+ </v:handles>
+ <o:lock v:ext="edit" text="t" shapetype="t"/>
+</v:shapetype><v:shape id="_x0000_s1025" type="#_x0000_t136" style='width:85.54528mm;
+ height:12.4604mm' fillcolor="#369" stroked="f">
+ <v:shadow on="t" color="#b2b2b2" opacity="52429f" offset="3pt"/>
+ <v:textpath style='font-family:"標楷體";v-text-reverse:t;v-text-kern:t' trim="t"
+  fitpath="t" string="會計報表公告"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=362 height=55
+src="ctdgba.files/image001.gif" alt=會計報表公告 v:shapes="_x0000_s1025"><![endif]></p>
+<p>預算</p>
+<table border="1" width="100%">
+	<tr>
+		<td width="111" align="center"><font color="#FF0000">公布日期</font></td>
+		<td width="622">
+		<p align="center"><font color="#FF0000">名&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+		稱</font></td>
+		<td>
+		<p align="center"><font color="#FF0000">備&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+		註</font></td>
+	</tr>
+	<tr>
+		<td width="111" align="center"><font color="#0000FF">105/10/21</font></td>
+		<td width="622"><a href="/UserFiles/1051021支出實現數與公庫撥入數分析表.pdf">
+		支出實現數與公庫撥入數分析表</a><p><a href="/UserFiles/1051021平衡表.pdf">平衡表</a></p>
+		<p><a href="/UserFiles/1051021收入支出彙計表.pdf">收入支出彙計表</a></p>
+		<p><a href="/UserFiles/1051021收入實現數與繳付公庫數分析表.pdf">收入實現數與繳付公庫數分析表</a></p>
+		<p><a href="/UserFiles/1051021會計月報_歲入累計表.pdf">會計月報_歲入累計表</a></p>
+		<p><a href="/UserFiles/1051021會計月報_經費累計表.pdf">會計月報_經費累計表</a></p>
+		<p><a href="/UserFiles/1051021會計月報xml..zip">會計月報xml</a></p>
+		<p><a href="/UserFiles/1051021歲出用途別累計表.pdf">歲出用途別累計表</a></td>
+		<td>　</td>
+	</tr>
+	<tr>
+		<td width="111" align="center"><font color="#0000FF">105/09/02</font></td>
+		<td width="622"><a href="/UserFiles/106年度臺灣橋頭地方法院單位預算案-Excel.7z">106年度臺灣橋頭地方法院單位預算案</a>（XLS）<p>
+		<a href="/UserFiles/106年度臺灣橋頭地方法院單位預算案-XML.7z">106年度臺灣橋頭地方法院單位預算案</a>（XML）</p>
+		<p><a href="/UserFiles/106年度臺灣橋頭地方法院單位預算案-pdf.pdf">106年度臺灣橋頭地方法院單位預算案書</a>（PDF）</p>
+		<p><a href="/UserFiles/106年度臺灣橋頭地方法院單位預算案總說明.doc">106年度臺灣橋頭地方法院單位預算總說明</a>（DOC）</td>
+		<td>　</td>
+	</tr>
+</table>
+
+</body>
+
+</html>

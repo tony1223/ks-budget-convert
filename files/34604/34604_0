@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<!--[if IE 8]>
+  <html lang="en" class="ie8">
+  <![endif]-->
+  <!--[if IE 9]>
+    <html lang="en" class="ie9">
+    <![endif]-->
+    <!--[if !IE]><!-->
+      <html lang="en">
+      <!--<![endif]-->
+      
+      <head>
+        <!-- Meta -->
+         <meta charset="utf-8">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9">
+        <title>
+          文化部文化資產局-預算及決算書
+        </title>
+        <meta name="description" content="文化部文化資產入口網">
+        <meta name="keywords" content="文化部文化資產入口網">
+        <!-- Favicon -->
+        <link rel="shortcut icon" href="http://www.boch.gov.tw/themes/36/favicon.ico">
+        <link rel="stylesheet" href="http://www.boch.gov.tw/themes/36/css/style.css">
+        <!-- script --> 
+<script src="http://www.boch.gov.tw/themes/36/js/jquery.min.js"></script> 
+<script src="http://www.boch.gov.tw/themes/36/js/jquery.nicescroll.js"></script> 
+<script src="http://www.boch.gov.tw/themes/36/js/footable.js"></script> 
+<script src="http://www.boch.gov.tw/themes/36/js/script.js"></script> 
+<script type="text/javascript " src="http://www.boch.gov.tw/themes/36/js/sorkefront.js"></script> 
+<style>
+  .list tr:nth-child(even){background: #EEE;} 
+</style>
+<script>
+$(function(){
+  //rwd table
+  $('#culture-list table.list').footable();
+});
+</script>
+      </head>
+      
+<body>
+ <!-- top-header -->    <div id="top-header">      <div class="wrap">        <!--<h1>          文化部        </h1>-->        <div class="function stabfunction">                 <form action="searchall.html" class="topsearch">              <input type="text" placeholder="請輸入關鍵字" accesskey="S" name="q" class="stab">              <button type="submit" class="stab">                全文檢索              </button>            </form>                    <a class="mail" href="onlineobject_198_76.html" title="首長信箱"></a>          <a class="lang">Language</a>          <ul>           <li><a href="/">中文版</a></li>        <li><a href="http://en.boch.gov.tw/" target="_blank" title="English">English</a></li>        <li><a href="http://jp.boch.gov.tw/" target="_blank" title="日本語">日本語</a></li>        <li><a href="http://fr.boch.gov.tw/" target="_blank" title="French" id="langfr">French</a></li>          </ul>        </div>        <div class="links stablink">        <a accesskey="U" href="#">&nbsp;&nbsp;&nbsp;</a>           <span><a title="回首頁" href="/">回首頁</a><a title="加到我的最愛" href="javascript:void(0);" id="btnFav">加到我的最愛</a></span>          <a title="網站導覽" href="sitemap.html">網站導覽</a>          <a title="RSS" href="rss.html">RSS</a>          <a title="FB" href="https://www.facebook.com/%E6%96%87%E5%8C%96%E9%83%A8%E6%96%87%E5%8C%96%E8%B3%87%E7%94%A2%E5%B1%80-440130549422213/" target="_blank">FACEBOOK</a>          <a title="FAQ" href="qa_150.html">FAQ</a>          <!--<a title="兒童版" href="http://www.boch.gov.tw/boch/frontsite/kids/" target="_blank" sk-row="delete">兒童版</a>-->        </div>      </div>    </div>    <!-- header -->    <div id="header">      <div class="wrap">        <a href="/"><h1>文化部資產局</h1></a>        <nav>        
+<ul id="navigation">          <li>            <a href="content_129.html" >關於本局</a>          </li>
+<li>            <a href="caselatestlist_140.html" >行政公告</a>          </li>
+<li>            <a href="informationlist_149.html" >便民服務</a>          </li>
+<li>            <a href="informationlist_152.html" >政府資訊公開</a>          </li>
+<li>            <a href="informationlist_160.html" >法令規章</a>          </li>
+<li>            <a href="links_164.html" >相關連結</a>          </li>
+<li>            <a href="informationlist_165.html" >相關文件</a>          </li>
+                                                                    </ul>        </nav>      </div>    </div>        <script>     $(function(){      $("#btnFav").click(function(){        AddFavorite();        return false;      });            $('#top-header .function .lang').siblings('ul').click(function(e) {       $(this).hide();      });             var tabindex=1;                $(".stablink").find("a").each(function(index,item){          $(item).attr("tabindex",tabindex);          tabindex++;        });                $(".stab").each(function(index,item){          $(item).attr("tabindex",tabindex);          tabindex++;        });                $(".stabfunction").find("a").each(function(index,item){          $(item).attr("tabindex",tabindex);          tabindex++;        });                $(".lang").focus(function(){          $(this).siblings("ul").show();        });                $("#langfr").blur(function(){          $(this).parents("ul").hide();        });            });            function AddFavorite() {    var title = document.title;    var url = encodeURI(location.href);        try{               window.external.addFavorite(url, title);           }catch(e) {               try{                   window.sidebar.addPanel(title, url, "");               }catch (e) {                   alert("加到我的最愛失敗，請使用Ctrl+D手動添加.");            }           }}    </script>
+        <!-- category -->    <ul id="category">      <li class="btn-1">        <a title="古蹟" href="culturacase_175.html?assetsClassifyId=1.1">          古蹟        </a>      </li>      <li class="btn-2">        <a title="歷史建築" href="culturacase_175.html?assetsClassifyId=1.2">          歷史建築        </a>      </li>      <li class="btn-3">        <a title="聚落建築群" href="culturacase_175.html?assetsClassifyId=1.3">          聚落建築群        </a>      </li>      <li class="btn-4">        <a title="考古遺址" href="culturacase_175.html?assetsClassifyId=2.1">          考古遺址        </a>      </li>      <li class="btn-5">        <a title="文化景觀" href="culturacase_175.html?assetsClassifyId=3.1">          文化景觀        </a>      </li>      <li class="btn-6">        <a title="傳統表演藝術、傳統工藝" href="culturacase_175.html?assetsClassifyId=4.1">          傳統表演藝術、傳統工藝        </a>      </li>      <li class="btn-7">        <a title="民俗" href="culturacase_175.html?assetsClassifyId=5.1">          民俗        </a>      </li>      <li class="btn-8">        <a title="古物" href="culturacase_175.html?assetsClassifyId=6.1">          古物        </a>      </li>    </ul>
+   
+      <!-- banner -->    <div id="banner">    </div>
+        
+        <!-- container -->
+<div id="container"> 
+ <!-- left -->
+ <div class="left">       <a accesskey="L" href="#" style="text-decoration: none; position: absolute;        z-index: 2; margin-left: -10px; margin-top: 0px; color: #000; font-size: 12px;        font-weight: 100;">&nbsp;&nbsp;&nbsp;</a>      <a class="menu">選單列表</a>                    <ul><li class="active"> <a>政府資訊公開</a><ul> <li><a href="informationlist_152.html" >施政計畫</a></li> <li><a href="informationlist_153.html" >業務統計</a></li> <li><a href="informationlist_154.html" >研究暨出國報告</a></li> <li><a href="informationlist_155.html" >預算及決算書</a></li> <li><a href="http://appeal.moc.gov.tw/Open_Appeal_Service.asp"  target="_blank">訴願案件查詢</a></li> <li><a href="informationlist_157.html" >接受及支付補助金</a></li> <li><a href="awardgrantlist_158.html" >補助法規</a></li></ul></li></ul>      </div>
+ 
+ <!-- right -->
+ <div class="right"> 
+ <!-- path -->
+  <a accesskey="C" href="#" style="text-decoration: none; position: absolute;        z-index: 2; margin-left: -35px; margin-top: 0px; color: #000; font-size: 12px;        font-weight: 100;">          &nbsp;&nbsp;&nbsp;        </a>     
+<div id="path">                          <a class="home" href="/">        首頁          </a>        <label>        <a href="informationlist_152.html">政府資訊公開</a>                </label>
+<label>                <span>預算及決算書</span>        </label>
+    </div>
+  
+  <!-- main-title -->
+  <h2 id="main-title">預算及決算書</h2>
+   
+    <!-- tab -->
+
+<div>
+<div class="tab">
+    <nav>
+     <ul class="owl-carousel owl-theme">
+<li  >
+       <a href="informationlist_155_793_1.html">預算</a>        
+      </li>
+<li  >
+       <a href="informationlist_155_794_1.html">決算</a>        
+      </li>
+<li  >
+       <a href="informationlist_155_795_1.html">會報</a>        
+      </li>
+
+     </ul>
+    </nav>
+   </div>
+   </div>
+  <!-- culture-list -->
+  <div id="culture-list">   
+   <!-- search -->
+   <form action="informationlist_155.html"> 
+   
+   <div class="search">
+    <div class="name" style="width:80%;"><span>關鍵字</span>
+     <input type="text" placeholder="請輸入關鍵字" name="searchkey" accesskey="S" value="">
+    </div>
+    <button type="submit" style="position:relative; top:0; right:0;">查詢</button>
+    </div>
+   </form>
+   <br>
+  
+
+<div>
+   <!-- list -->
+   <table class="list tablet footable-loaded" border="0" cellspacing="0" cellpadding="0">
+    <thead>
+     <tr>
+      <th data-class="expand" class="footable-first-column" style="width:50%;">主題</th>
+
+<th data-hide="phone">類別</th>
+      <th data-hide="phone">發佈日期</th>
+      <th data-hide="phone" class="footable-last-column">點閱率</th>
+     </tr>
+    </thead>
+    <tbody>
+<tr>
+      <td class="expand footable-first-column" style="text-align:left;">
+       <a href="information_155_54628.html" title="105年度9月份會計月報（PDF檔）"  onclick="goCount(54628,'676ACD246210A65F56F279B59FB1D700');" onkeypress="goCount(54628,'676ACD246210A65F56F279B59FB1D700');">105年度9月份會計月報（PDF檔）</a></td>
+
+<td>會報</td>
+      <td>2016-10-11</td>
+      <td class="footable-last-column"><span>20</span></td>
+     </tr>
+<tr>
+      <td class="expand footable-first-column" style="text-align:left;">
+       <a href="information_155_54627.html" title="105年度9月份會計月報（XML檔）"  onclick="goCount(54627,'676ACD246210A65F56F279B59FB1D700');" onkeypress="goCount(54627,'676ACD246210A65F56F279B59FB1D700');">105年度9月份會計月報（XML檔）</a></td>
+
+<td>會報</td>
+      <td>2016-10-11</td>
+      <td class="footable-last-column"><span>9</span></td>
+     </tr>
+<tr>
+      <td class="expand footable-first-column" style="text-align:left;">
+       <a href="information_155_54136.html" title="105年度8月份會計月報（PDF檔） "  onclick="goCount(54136,'676ACD246210A65F56F279B59FB1D700');" onkeypress="goCount(54136,'676ACD246210A65F56F279B59FB1D700');">105年度8月份會計月報（PDF檔） </a></td>
+
+<td>會報</td>
+      <td>2016-09-10</td>
+      <td class="footable-last-column"><span>53</span></td>
+     </tr>
+<tr>
+      <td class="expand footable-first-column" style="text-align:left;">
+       <a href="information_155_54134.html" title="105年度8月份會計月報（XML檔） "  onclick="goCount(54134,'676ACD246210A65F56F279B59FB1D700');" onkeypress="goCount(54134,'676ACD246210A65F56F279B59FB1D700');">105年度8月份會計月報（XML檔） </a></td>
+
+<td>會報</td>
+      <td>2016-09-10</td>
+      <td class="footable-last-column"><span>45</span></td>
+     </tr>
+<tr>
+      <td class="expand footable-first-column" style="text-align:left;">
+       <a href="information_155_54032.html" title="106年度本局單位預算案(XML檔)"  onclick="goCount(54032,'676ACD246210A65F56F279B59FB1D700');" onkeypress="goCount(54032,'676ACD246210A65F56F279B59FB1D700');">106年度本局單位預算案(XML檔)</a></td>
+
+<td>預算</td>
+      <td>2016-09-02</td>
+      <td class="footable-last-column"><span>112</span></td>
+     </tr>
+<tr>
+      <td class="expand footable-first-column" style="text-align:left;">
+       <a href="information_155_54015.html" title="106年度本局單位預算案"  onclick="goCount(54015,'676ACD246210A65F56F279B59FB1D700');" onkeypress="goCount(54015,'676ACD246210A65F56F279B59FB1D700');">106年度本局單位預算案</a></td>
+
+<td>預算</td>
+      <td>2016-09-01</td>
+      <td class="footable-last-column"><span>145</span></td>
+     </tr>
+<tr>
+      <td class="expand footable-first-column" style="text-align:left;">
+       <a href="information_155_53810.html" title="105年度7月份會計月報（XML檔） "  onclick="goCount(53810,'676ACD246210A65F56F279B59FB1D700');" onkeypress="goCount(53810,'676ACD246210A65F56F279B59FB1D700');">105年度7月份會計月報（XML檔） </a></td>
+
+<td>會報</td>
+      <td>2016-08-24</td>
+      <td class="footable-last-column"><span>46</span></td>
+     </tr>
+<tr>
+      <td class="expand footable-first-column" style="text-align:left;">
+       <a href="information_155_53809.html" title="105年度7月份會計月報（PDF檔） "  onclick="goCount(53809,'676ACD246210A65F56F279B59FB1D700');" onkeypress="goCount(53809,'676ACD246210A65F56F279B59FB1D700');">105年度7月份會計月報（PDF檔） </a></td>
+
+<td>會報</td>
+      <td>2016-08-24</td>
+      <td class="footable-last-column"><span>66</span></td>
+     </tr>
+<tr>
+      <td class="expand footable-first-column" style="text-align:left;">
+       <a href="information_155_53808.html" title="105年度6月份會計月報（XML檔）"  onclick="goCount(53808,'676ACD246210A65F56F279B59FB1D700');" onkeypress="goCount(53808,'676ACD246210A65F56F279B59FB1D700');">105年度6月份會計月報（XML檔）</a></td>
+
+<td>會報</td>
+      <td>2016-08-24</td>
+      <td class="footable-last-column"><span>44</span></td>
+     </tr>
+<tr>
+      <td class="expand footable-first-column" style="text-align:left;">
+       <a href="information_155_53807.html" title="105年度6月份會計月報（PDF檔）"  onclick="goCount(53807,'676ACD246210A65F56F279B59FB1D700');" onkeypress="goCount(53807,'676ACD246210A65F56F279B59FB1D700');">105年度6月份會計月報（PDF檔）</a></td>
+
+<td>會報</td>
+      <td>2016-08-24</td>
+      <td class="footable-last-column"><span>64</span></td>
+     </tr>
+
+    </tbody>
+   </table>   
+    <!-- page -->
+   <div id="page"><span>共<b>41</b>筆</span>
+<div class="wrap">
+  
+    <label>
+                  <a class="first" href="informationlist_155_1.html"></a>
+                </label>
+     <label>
+                  <a class="prev" href="informationlist_155_1.html"></a>
+                </label>
+                
+                
+ <a class="num active" href="javascript:void(0);">1</a>
+<a class="num" href="informationlist_155_2.html">2</a>
+<a class="num" href="informationlist_155_3.html">3</a>
+<a class="num" href="informationlist_155_4.html">4</a>
+<a class="num" href="informationlist_155_5.html">5</a>
+                <label>
+                  <a class="next" href="informationlist_155_2.html"></a>
+                </label>
+                <label>
+                  <a class="last" href="informationlist_155_5.html"></a>
+                </label>
+   </div>
+
+</div>
+   
+   </div>
+</div>
+ </div>
+ </div>
+   <!-- footer -->    <div id="footer">      <!-- fb -->      <div class="fb">       <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2F%25E6%2596%2587%25E5%258C%2596%25E9%2583%25A8%25E6%2596%2587%25E5%258C%2596%25E8%25B3%2587%25E7%2594%25A2%25E5%25B1%2580-440130549422213%2F&tabs=timeline&width=260&height=550&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=407592642744366" width="100%" height="550" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" title="facebook"></iframe>      </div>      <!-- links -->      <div class="links">        <div class="row-1">          <dl>            <dt>              關於本局            </dt>            
+<dd>              <p>                <a href="content_129.html" >組織沿革</a>              </p>
+<p>                <a href="content_130.html" >局長介紹</a>              </p>
+<p>                <a href="content_135.html" >組織團隊</a>              </p>
+<p>                <a href="content_137.html" >交通資訊</a>              </p>
+<p>                <a href="content_136.html" >環境設施</a>              </p>
+            </dd>          </dl>          <dl>            <dt>              行政公告            </dt>            
+<dd>              <p>                <a href="caselatestlist_140.html" >近期公告文化資產</a>              </p>
+<p>                <a href="informationlist_141.html" >採購</a>              </p>
+<p>                <a href="informationlist_142.html" >徵才</a>              </p>
+<p>                <a href="informationlist_143.html" >勞務主持人名冊</a>              </p>
+<p>                <a href="informationlist_144.html" >工地負責人</a>              </p>
+<p>                <a href="informationlist_145.html" >傳統匠師名冊</a>              </p>
+<p>                <a href="informationlist_146.html" >研習及研討會名單公告</a>              </p>
+<p>                <a href="informationlist_147.html" >其他公告</a>              </p>
+            </dd>          </dl>          <dl>            <dt>              便民服務            </dt>            
+<dd>              <p>                <a href="informationlist_149.html" >表單下載</a>              </p>
+<p>                <a href="qa_150.html" >常見問題FAQ</a>              </p>
+            </dd>          </dl>          <dl>            <dt>              政府資訊公開            </dt>            
+<dd>              <p>                <a href="informationlist_152.html" >施政計畫</a>              </p>
+<p>                <a href="informationlist_153.html" >業務統計</a>              </p>
+<p>                <a href="informationlist_154.html" >研究暨出國報告</a>              </p>
+<p>                <a href="informationlist_155.html" >預算及決算書</a>              </p>
+<p>                <a href="http://appeal.moc.gov.tw/Open_Appeal_Service.asp"  target="_blank" >訴願案件查詢</a>              </p>
+<p>                <a href="informationlist_157.html" >接受及支付補助金</a>              </p>
+<p>                <a href="awardgrantlist_158.html" >補助法規</a>              </p>
+            </dd>          </dl>          <dl>            <dt>              法令規章            </dt>            
+<dd>              <p>                <a href="informationlist_160.html" >法律</a>              </p>
+<p>                <a href="informationlist_161.html" >行政命令</a>              </p>
+<p>                <a href="informationlist_162.html" >行政規則</a>              </p>
+<p>                <a href="informationlist_163.html" >函釋</a>              </p>
+            </dd>          </dl>          <dl>            <dt>              新聞看板            </dt>            
+<dd>              <p>                <a href="informationlist_166.html" >最新消息</a>              </p>
+<p>                <a href="informationlist_170_0_1.html" >新聞回顧</a>              </p>
+            </dd>          </dl>        </div>        <div class="row-2">          <dl>            <dt>              活動快遞            </dt>            
+<dd>              <p>                <a href="activitylist_172.html" >活動專區</a>              </p>
+<p>                <a href="bochactivitynewlist_173.html" >活動花絮報導</a>              </p>
+            </dd>          </dl>          <dl>            <dt>              文化資產查詢            </dt>            
+<dd>              <p>                <a href="culturacase_175.html" >文化資產個案導覽</a>              </p>
+<p>                <a href="casesearch1_176.html" >類別查詢</a>              </p>
+<p>                <a href="culturacasesearch_177.html" >綜合查詢</a>              </p>
+<p>                <a href="culturacase_178.html" >廢止與撤銷</a>              </p>
+<p>                <a href="culturacasestatistic_179.html" >文化資產統計表</a>              </p>
+<p>                <a href="http://www.forest.gov.tw/"  target="_blank" >自然地景</a>              </p>
+<p>                <a href="researchlist_181.html" >相關報告薈萃</a>              </p>
+<p>                <a href="multimedialist_182.html" >多媒體檢索</a>              </p>
+            </dd>          </dl>          <dl>            <dt>              保存技術            </dt>            
+<dd>              <p>                <a href="skillsearch_184.html" >保存技術查詢</a>              </p>
+<p>                <a href="informationlist_185.html" >保存修復技術諮詢</a>              </p>
+<p>                <a href="reserverlist_186.html" >無形資產保存人才庫</a>              </p>
+            </dd>          </dl>          <dl>            <dt>              知識典藏室            </dt>            
+<dd>              <p>                <a href="termlist_188.html" >線上詞條</a>              </p>
+<p>                <a href="informationlist_189.html" >相關文章專欄</a>              </p>
+<p>                <a href="informationlist_190.html" >深入報導</a>              </p>
+            </dd>          </dl>          <dl>            <dt>              出版品資訊            </dt>            
+<dd>              <p>                <a href="informationlist_192.html" >博碩士論文</a>              </p>
+<p>                <a href="http://report.boch.gov.tw/wise/s.jsp"  target="_blank" >文化資產保存年報</a>              </p>
+<p>                <a href="informationlist_194.html" >文化資產保存學刊</a>              </p>
+<p>                <a href="bochpublicationlist_195.html" >出版品</a>              </p>
+            </dd>          </dl>          <dl class="special">            <dd>              <p>                <a href="links_164.html">相關連結</a>              </p>              <p>                <a href="informationlist_165.html">相關文件</a>              </p>              <p>                <a href="informationlist_196.html">文化資產欣賞</a>              </p>              <p>                <a href="photolist_214.html">相簿影音輯</a>              </p>               <p>                <a href="informationlist_226.html">雙語詞彙</a>              </p>              <p>                <a href="onlineobject_198_76.html">首長信箱</a>              </p>              <p>                <a href="content_211.html">資安政策</a>              </p>              <p>                <a href="content_212.html">隱私權宣示</a>              </p>              <p>                <a href="content_213.html">機關保有個人資料彙整表</a>              </p>               <p>                <a href="content_225.html">網站資料開放宣告</a>              </p>            </dd>          </dl>        </div>      </div>    </div>
+        <!-- copyright -->    <div id="copyright">    <a accesskey="Z" href="#" style="text-decoration: none; position: absolute;left:0px;  z-index: 2; color: #fff; font-size: 12px; font-weight: 100;">&nbsp;&nbsp;&nbsp;</a>       <b>        文化部文化資產局 © 版權所有      </b>      <ul>        <li class="phone">          電話：(04)2229-5848        </li>        <li class="fax">          傳真：(04)22291993        </li>        <li class="address">          地址：40247台中市南區復興路三段362號、700台南市中西區中正路1-1號        </li>      </ul>       <p>        網頁更新日期： 105-11-07      </p>      <p>        最佳瀏覽狀態：螢幕解析度1280x720      </p>            <p>        網站相關操作問題：        <a href="mailto:ch0020@boch.gov.tw">          ch0020@boch.gov.tw        </a>      </p>       <p>         <a href="http://www.webguide.nat.gov.tw/enable.jsp?category=" title="無障礙網站，另開新視窗" target="_blank">      <img src="http://www.boch.gov.tw/themes/36/images/accessibility.jpg" alt="無障礙"></a>      <a href="http://www.gov.tw/" title="我的E政府，另開新視窗" target="_blank"><img src="http://www.boch.gov.tw/themes/36/images/gov.png" alt="gov"></a>      </p>    </div>        <!-- mask 遮罩層 --><div id="mask"></div>   <script type="text/javascript">         $(function () {      var $allVideos = $(".right").find("iframe[src^='http://www.youtube.com'],iframe[src^='https://www.youtube.com'],iframe[src^='http://maps.google.com'],iframe[src^='https://www.google.com']"),      $fluidEl = $(".right");      if ($fluidEl.length != 0) { $allVideos.each(function      () { $(this).attr('data-aspectratio', '0.5625').removeAttr('height').removeAttr('width');      });      $(window).resize(function () { var newWidth = $fluidEl.width(); $allVideos.each(function      () { var $el = $(this); $el.width(newWidth).height(newWidth * $el.attr('data-aspectratio'));      }); }).resize(); } });      </script>    <script type="text/javascript">  var _gaq = _gaq || [];  _gaq.push(['_setAccount', 'UA-34163567-1']);  _gaq.push(['_trackPageview']);  (function() {    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();</script>
+        
+</body>
+      
+      </html>

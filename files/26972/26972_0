@@ -1,0 +1,502 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ZH" xml:lang="ZH">
+<head>
+<meta name="Accessible_website" content="本網站通過第(2)優先等級無障礙網頁檢測">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="Content-Type" content="text/html; charset=big5" />
+<title>臺灣高等法院臺中分院 : 首頁  &gt; 業務專欄 &gt; 會計專欄 > 預算書</title>
+<!--[if IE]>
+<script type="text/javascript" src="images/pngfix.js"></script>
+<![endif]--> 
+<script src="Scripts/swfobject_modified.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+function mover(st) {
+st.style.backgroundColor = '#f2f2f2';
+}
+function mout(st) {
+st.style.backgroundColor = '';
+}
+
+//將頁面中的關鍵字高亮顯示,在body的onload中使用
+function HighLight(nWord){
+    var orange = document.body.createTextRange();    
+        while(orange.findText(nWord)){
+            orange.pasteHTML("<span style='color:red; background-color:#ffc'>" + orange.text + "</span>");
+            orange.moveStart('character',1);            
+    }    
+}
+
+//將頁面中的關鍵字高亮顯示,在body的onload中使用(支持多個關鍵字，多個關鍵字用空格分開)
+function highword(nWord)
+{
+    //將全形空格(逗號)轉半型空格
+    nWord = nWord.replace(/\　/g,"|");    
+    nWord = nWord.replace(/\,/g,"|");    
+    nWord = nWord.replace(/\，/,"|");    
+    nWord = nWord.replace(/\ /g,"|");
+        
+    var Arr = nWord.split("|");
+    for(var i=0;i<Arr.length;i++){        
+        HighLight(Arr[i]);
+    }
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<link href="layout.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body onload="MM_preloadImages('images/uld_r4_c16_f2.jpg','images/uld_r4_c23_f2.jpg','images/index_r1_c23_f2.gif','images/index_r1_c27_f2.gif','images/index_r1_c30_f2.gif','images/index_r3_c11_f2.jpg','images/index_r3_c13_f2.jpg','images/index_r3_c15_f2.jpg','images/index_r3_c17_f2.jpg','images/index_r3_c19_f2.jpg','images/index_r3_c21_f2.jpg','images/index_r3_c25_f2.jpg','images/index_r3_c29_f2.jpg')">
+<table width="10%" border="0" align="center" cellpadding="1" cellspacing="0" bgcolor="#CCCCCC" summary="網站排版用表格">
+  <tr>
+    <td>
+    <table width="10%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" summary="網站排版用表格">
+      <tr>
+        <td><table width="100%" border="0" cellspacing="0" cellpadding="0" summary="網站排版用表格">
+          <tr>
+            <td width="10%" rowspan="4"><a href="?"><img src="images/index_r1_c1.jpg" alt="臺灣高等法院臺中分院" width="270" height="96" border="0" title="回到網站首頁" /></a></td>
+            <td bgcolor="#FFFFFF"><img src="images/spacer.gif" width="506" height="1" alt="" /><a href="?sitemap=true" class="map" accesskey="U" title="上方主選單列">:::</a><img src="images/spacer.jpg" width="4" height="1" alt="" /><a href="?" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image01','','images/index_r1_c23_f2.jpg',1)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image01','','images/index_r1_c23_f2.jpg',1)"><img src="images/index_r1_c23.jpg" alt="回到首頁" name="Image01" width="52" height="22" border="0" align="absmiddle" id="Image01" /></a><img src="images/index_r1_c26.jpg" alt="" width="10" height="22" align="top" /><a href="?sitemap=true" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image02','','images/index_r1_c27_f2.jpg',1)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image02','','images/index_r1_c27_f2.jpg',1)"><img src="images/index_r1_c27.jpg" alt="網站地圖" name="Image02" width="54" height="22" border="0" align="absmiddle" id="Image02" /></a><img src="images/index_r1_c28.jpg" alt="" width="10" height="22" align="top" /><a href="indexen.asp" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image03','','images/index_r1_c30_f2.jpg',1)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image03','','images/index_r1_c30_f2.jpg',1)"><img src="images/index_r1_c30.jpg" alt="English (Web)" name="Image03" width="50" height="22" border="0" align="absmiddle" id="Image03" /></a></td>
+          </tr>
+          <tr>
+            <td><img src="images/index_r2_c9.jpg" width="730" height="10" alt="" /></td>
+          </tr>
+          <tr>
+            <td><img src="images/index_r3_c9.jpg" width="20" height="30" alt="" /><a href="?struID=1&amp;navID=1&amp;contentID=1" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image04','','images/index_r3_c11_f2.jpg',1)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image04','','images/index_r3_c11_f2.jpg',1)"><img src="images/index_r3_c11.jpg" alt="認識本院" name="Image04" width="76" height="30" border="0" id="Image04" /></a><img src="images/index_r3_c12.jpg" width="6" height="30" alt="" /><a href="?struID=2&amp;cid=11" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image05','','images/index_r3_c13_f2.jpg',1)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image05','','images/index_r3_c13_f2.jpg',1)"><img src="images/index_r3_c13.jpg" alt="本院公告" name="Image05" width="76" height="30" border="0" id="Image05" /></a><img src="images/index_r3_c12.jpg" width="6" height="30" alt="" /><a href="?struID=6&amp;contentID=66" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image07','','images/index_r3_c17_f2.jpg',1)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image07','','images/index_r3_c17_f2.jpg',1)"><img src="images/index_r3_c17.jpg" alt="查詢服務" name="Image07" width="76" height="30" border="0" id="Image07" /></a><img src="images/index_r3_c12.jpg" width="6" height="30" alt="" /><a href="?struID=3&amp;contentID=5" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image06','','images/index_r3_c15_f2.jpg',1)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image06','','images/index_r3_c15_f2.jpg',1)"><img src="images/index_r3_c15.jpg" alt="便民服務" name="Image06" width="76" height="30" border="0" id="Image06" /></a><img src="images/index_r3_c12.jpg" width="6" height="30" alt="" /><a href="?struID=33&amp;navID=33&amp;cid=35" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image08','','images/index_r3_c19_f2.jpg',1)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image08','','images/index_r3_c19_f2.jpg',1)"><img src="images/index_r3_c19.jpg" alt="多媒體專區" name="Image08" width="92" height="30" border="0" id="Image08" /></a><img src="images/index_r3_c12.jpg" width="6" height="30" alt="" /><a href="?struID=4&amp;navID=4&amp;cid=15" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image09','','images/index_r3_c21_f2.jpg',1)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image09','','images/index_r3_c21_f2.jpg',1)"><img src="images/index_r3_c21.jpg" alt="業務專欄" name="Image09" width="76" height="30" border="0" id="Image09" /></a><img src="images/index_r3_c12.jpg" width="6" height="30" alt="" /><a href="?struID=5&amp;navID=5&amp;cid=18" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image10','','images/index_r3_c25_f2.jpg',1)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','images/index_r3_c25_f2.jpg',1)"><img src="images/index_r3_c25.jpg" alt="常見問題" name="Image10" width="76" height="30" border="0" id="Image10" /></a><img src="images/index_r3_c12.jpg" width="6" height="30" alt="" /><a href="?struID=7&amp;cid=7" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image11','','images/index_r3_c29_f2.jpg',1)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','images/index_r3_c29_f2.jpg',1)"><img src="images/index_r3_c29.jpg" alt="電子信箱" name="Image11" width="76" height="30" border="0" id="Image11" /></a><img src="images/index_r3_c32.jpg" width="44" height="30" alt="" /></td>
+          </tr>
+          <tr>
+            <td><img src="images/index_r4_c9.jpg" width="730" height="34" alt="" /></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td><table width="100%" border="0" cellpadding="0" cellspacing="0" summary="網站排版用表格">
+            <tr valign="top">
+              <td width="1%"><img src="images/spacer.gif" width="20" height="1" alt="" /></td>
+              <td width="8%"><table width="100%" border="0" cellpadding="0" cellspacing="0" summary="網站排版用表格">        
+                <tr>
+                  <td align="left"><img src="images/index_r5_c2.jpg" alt="資料查詢" width="222" height="36" border="0" /></td>
+                </tr>
+                <tr>
+                  <td align="center" background="images/index_r7_c2.jpg" style="background-repeat:repeat-y"><form action="" method="get" class="searchform" ><a href="?sitemap=true" class="map" accesskey="L" title="左側選單列">:::</a>
+                    <input name="searchtype" id="searchtype" type="hidden" value="website" />
+                    <label for="label" style="color:#FFFFFF; font-size:0.1em">查</label>
+                    <input name="keyword" type="text" class="searchbox" id="label" value="請輸入關鍵字" size="15" accesskey="S"onblur="javascript: if(this.value=='') this.value='請輸入關鍵字';" onfocus="javascript: if(this.value=='請輸入關鍵字') this.value='';"/>
+                    <input name="search" type="hidden" class="textbox" id="search" value="true" /> <input name="go" type="image" id="go" src="images/go.gif" ALT="開始查詢" align="middle">
+                  </form></td>
+             </tr>
+                <tr>
+                  <td align="left"><img src="images/index_r9_c2.jpg" alt="" width="222" height="18" border="0" /></td>
+                </tr>
+                
+                <tr>
+                  <td>
+                  
+                      <img src="images/index_r11_c2.jpg" alt="相關單元" width="222" height="58" />
+                         
+                  </td>
+                </tr>
+                <tr><td><table width="85%" border="0" cellpadding="0" cellspacing="0" style="margin-left:18px;" summary="網站排版用表格">
+                  
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><a href="?struID=16&amp;contentID=81" title="會計月報"><strong>會計月報</strong></a> </td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><a href="?struID=16&amp;contentID=83" title="預算書"><strong>預算書</strong></a> </td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><a href="?struID=16&amp;contentID=84" title="決算書"><strong>決算書</strong></a> </td>
+                         </tr>
+                    
+                    <tr>
+                      <td align="left" valign="middle" class="selectTR"><a href="?struID=16&amp;contentID=82" title="會計資訊"><strong>會計資訊</strong></a> </td>
+                         </tr>
+                    
+                  </table></td>
+                  </tr>
+                  <tr><td><img src="images/spacer.gif" width="1" height="5" alt="" /></td></tr>
+                  
+                  <tr>
+                    <td><img src="images/index_r19_c2.jpg" alt="熱門連結" /></td>
+                    </tr>
+                  <tr><td>
+                      <div class="selectIL">
+                        <ul>
+    <li><a title="連結至司法院電子筆錄調閱服務(另開新視窗)" target="_blank" href="http://www.judicial.gov.tw/work/work04.asp">電子筆錄調閱服務網 </a></li>
+    <li><a title="連結至司法院遠距訊問(另開新視窗)" target="_blank" href="http://www.judicial.gov.tw/work/work05.asp">法院遠距訊問 </a></li>
+    <li><a title="連結至司法院民事徵收費用標準(另開新視窗)" target="_blank" href="http://www.judicial.gov.tw/assist/assist04.asp">民事徵收費用標準 </a></li>
+    <li><a title="連結至司法院書狀參考範例(另開新視窗)" target="_blank" href="http://www.judicial.gov.tw/assist/assist03.asp">書狀參考範例 </a></li>
+    <li><a title="連結至法律扶助基金會(另開新視窗)" target="_blank" href="http://www.laf.org.tw/tw/index.php">法律扶助基金會</a> </li>
+    <li><a title="連結至本院消債專區" href="?struID=3&contentID=29">消債專區 </a></li>
+    <li><a title="連結至本院多元化繳費" href="?struID=3&contentID=28">多元化繳費 </a></li>
+    <li><a title="連結至書狀上傳區(另開新視窗)" target="_blank" href="http://du.judicial.gov.tw/jud_k/wke/LoginFEXG.jsp">書狀上傳區</a> </li>
+    <li><a title="連結至律師單一登入窗口(另開新視窗)" target="_blank" href="http://portal.ezlawyer.com.tw/Login.do">律師單一登入窗口</a> </li>
+</ul></div>
+                    
+                  </td></tr>
+              </table></td>
+            <td width="100%" align="left" bgcolor="#FFFFFF" class="norepeat" >
+              <div id="mainContent">
+              
+                <table width="100%" border="0" class="navgate" summary="排版用表格">
+                  <tr>
+                    <td><a href="?sitemap=true" class="map" accesskey="C" title="主要內容區">:::</a><img src="images/home01.gif" alt="導覽首頁圖示" width="24" height="22" align="absmiddle" /><font color="#FFFFFF">-</font><a href="?" title="首頁">首頁</a>
+                         &gt; <a href='?struID=16&cid=4' title='業務專欄'>業務專欄</a> &gt; <a href='?struID=16&cid=16' title='會計專欄'>會計專欄</a>
+                      &gt; 預算書                    </td>
+                    <td width="20%" align="right" style="font-size: 0.9em"><img src="images/printer01.gif" alt="printer" width="22" height="22" align="absmiddle" /><a href="print.asp?struID=16&contentID=83" target="_blank" style="color:#4183AF" title="友善列印(另開新視窗)">【友善列印】</a></td>
+                  </tr>
+                </table>
+                
+                  <h1>會計專欄</h1>
+                <h2>預算書</h2>
+                <p><table border="1" cellspacing="0" summary="臺灣高等法院臺中分院年度預算書" cellpadding="3" width="100%" align="center">
+    <caption>
+    <h3>預算書</h3>
+    </caption>
+    <tbody>
+        <tr>
+            <th width="6%" align="center">年度</th>
+            <th width="10%" align="center">日期</th>
+            <th width="37%" align="center">預算書</th>
+        </tr>
+        <tr>
+            <th width="6%" align="left">
+            <div align="center">95</div>
+            </th>
+            <th width="10%" align="left">
+            <div align="center">97.10.20</div>
+            </th>
+            <th height="40" width="37%" align="center">
+            <p align="center"><a href="userfiles/臺灣高等法院台中分院95年度單位預算書.pdf">95年度單位預算書</a></p>
+            </th>
+        </tr>
+        <tr>
+            <th height="40" width="6%" align="left">
+            <div align="center">96</div>
+            </th>
+            <th width="10%" align="left">
+            <div align="center">97.07.22</div>
+            </th>
+            <th height="39" width="37%" align="center">
+            <p align="center"><a href="userfiles/臺灣高等法院台中分院96年度單位預算書.pdf">96年度單位預算書</a></p>
+            </th>
+        </tr>
+        <tr>
+            <th width="6%" align="left">
+            <div align="center">97</div>
+            </th>
+            <th width="10%" align="left">
+            <div align="center">97.07.20</div>
+            </th>
+            <th height="40" width="37%" align="center">
+            <p align="center"><a href="userfiles/臺灣高等法院台中分院97年度單位預算書.pdf">97年度單位預算書</a></p>
+            </th>
+        </tr>
+        <tr>
+            <th height="40" width="6%" align="left">
+            <div align="center">98</div>
+            </th>
+            <th width="10%" align="left">
+            <div align="center">98.03.17</div>
+            </th>
+            <th height="40" width="37%" align="center">
+            <p align="center"><a href="userfiles/臺灣高等法院台中分院98年度單位預算書.pdf">98年度單位預算書</a></p>
+            </th>
+        </tr>
+        <tr>
+            <th height="40" width="6%" align="left">
+            <div align="center">99</div>
+            </th>
+            <th width="10%" align="left">
+            <div align="center">99.03.05</div>
+            </th>
+            <th height="40" width="37%" align="center">
+            <p align="center"><a href="userfiles/臺灣高等法院台中分院99年度單位預算書.pdf">99年度單位預算書</a></p>
+            </th>
+        </tr>
+        <tr>
+            <th height="40" width="6%" align="left">
+            <div align="center">100</div>
+            </th>
+            <th width="10%" align="left">
+            <div align="center">100.02.22</div>
+            </th>
+            <th height="40" width="37%" align="center">
+            <p align="center"><a href="userfiles/臺灣高等法院台中分院100年度單位預算書.pdf">100年度單位預算書</a></p>
+            </th>
+        </tr>
+        <tr>
+            <th height="40" width="6%" align="left">
+            <div align="center">101</div>
+            </th>
+            <th width="10%" align="left">
+            <div align="center">101.02.02</div>
+            </th>
+            <th height="40" width="37%" align="center">
+            <p align="center"><a href="userfiles/臺灣高等法院台中分院101年度單位預算書.pdf">101年度單位預算書</a></p>
+            </th>
+        </tr>
+        <tr>
+            <th height="40" width="6%" align="left">
+            <div align="center">102</div>
+            </th>
+            <th width="10%" align="left">
+            <div align="center">101.12.06</div>
+            </th>
+            <th height="40" width="37%" align="center">
+            <p align="center"><a href="userfiles/臺灣高等法院台中分院102年度單位預算案.pdf">102年度單位預算案</a></p>
+            </th>
+        </tr>
+        <tr>
+            <th height="40" width="6%" align="left">
+            <div align="center">102</div>
+            </th>
+            <th width="10%" align="left">
+            <div align="center">102.02.20</div>
+            </th>
+            <th height="40" width="37%" align="center">
+            <p align="center"><a href="userfiles/臺灣高等法院台中分院102年度法定預算書.pdf">102年度單位預算書</a></p>
+            </th>
+        </tr>
+        <tr>
+            <th height="40" width="6%" align="left">
+            <div align="center">103</div>
+            </th>
+            <th width="10%" align="left">
+            <div align="center">102.09.03</div>
+            </th>
+            <th height="40" width="37%" align="center">
+            <p align="center"><a href="userfiles/臺灣高等法院台中分院103年度單位預算案.pdf">103年度單位預算案</a></p>
+            </th>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <th height="40" width="6%" align="left">
+            <div align="center">103</div>
+            </th>
+            <th width="10%" align="left">
+            <div align="center">103.03.31</div>
+            </th>
+            <th height="40" width="37%" align="center">
+            <p align="center"><a href="userfiles/臺灣高等法院台中分院103年度單位預算.pdf">103年度單位預算</a></p>
+            </th>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <th height="40" width="6%" align="left">
+            <div align="center">104</div>
+            </th>
+            <th width="10%" align="left">
+            <div align="center">103.09.03</div>
+            </th>
+            <th height="40" width="37%" align="center">
+            <p align="center"><a href="userfiles/104年度單位預算案書.pdf">104年度單位預算案書</a></p>
+            </th>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <th height="40" width="6%" align="left">
+            <div align="center">104</div>
+            </th>
+            <th width="10%" align="left">
+            <div align="center">104.02.12</div>
+            </th>
+            <th height="40" width="37%" align="center">
+            <p align="center"><a href="userfiles/臺灣高等法院台中分院104年度單位預算書.pdf">104年度單位預算書</a></p>
+            </th>
+        </tr>
+        <tr>
+            <th height="40" width="6%" align="left">
+            <div align="center">104</div>
+            </th>
+            <th width="10%" align="left">
+            <div align="center">104.03.04</div>
+            </th>
+            <th height="40" width="37%" align="center">
+            <p align="center"><a href="userfiles/104年度單位預算案-XML.zip">104年度單位預算案書(XML)</a></p>
+            </th>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <th height="40" width="6%" align="center">
+            <div align="center">104</div>
+            </th>
+            <th width="10%" align="left">
+            <div align="center">104.03.04</div>
+            </th>
+            <th height="40" width="37%" align="center">
+            <p align="center"><a href="userfiles/104年度單位預算書-XML.zip">104年度單位預算書(XML)</a></p>
+            </th>
+        </tr>
+        <tr>
+            <th height="40" width="6%" align="center">104</th>
+            <th width="10%" align="center">104.03.06</th>
+            <th height="40" width="37%" align="center"><a href="userfiles/104.02.10--104年預算總說明.doc">104年度預算總說明WORD檔</a><a href="userfiles/104.02.10--104年預算總說明.doc"></a></th>
+        </tr>
+        <tr>
+            <th height="40" width="6%" align="center">104</th>
+            <th width="10%" align="center">104.03.06</th>
+            <th height="40" width="37%" align="center"><a href="userfiles/104-法定預算-EXCEL.zip">104年度法定預算書各表(excel)</a></th>
+        </tr>
+        <tr>
+            <th height="40" width="6%" align="center">105</th>
+            <th width="10%" align="center">104.09.01</th>
+            <th height="40" width="37%" align="center">
+            <p align="center"><a href="userfiles/105年度單位預算案(XML檔).zip">105年度單位預算案書(XML)</a></p>
+            </th>
+        </tr>
+        <tr>
+            <th height="40" width="6%" align="center">105</th>
+            <th width="10%" align="center">104.09.01</th>
+            <th height="40" width="37%" align="center"><a href="userfiles/105年度單位預算案.pdf">105年度單位預算案書（PDF檔）</a></th>
+        </tr>
+        <tr>
+            <th height="40" width="6%" align="center">105</th>
+            <th width="10%" align="center">104.09.01</th>
+            <th height="40" width="37%" align="center"><a href="userfiles/105年度單位預算案(excel檔).zip">105年度單位預算案書(excel)</a></th>
+        </tr>
+        <tr>
+            <th height="40" width="6%" align="center">105</th>
+            <th width="10%" align="center">105.01.26</th>
+            <th height="40" width="37%" align="center"><a href="userfiles/105年度單位預算書(Excel檔).zip">105年度單位預算書(excel)</a></th>
+        </tr>
+        <tr>
+            <th height="40" width="6%" align="center">105</th>
+            <th width="10%" align="center">105.01.26</th>
+            <th height="40" width="37%" align="center"><u><font color="#0000ff"><a href="userfiles/105年度單位預算書(PDF檔).pdf">105年度單位預算書(PDF檔)</a></font></u></th>
+        </tr>
+        <tr>
+            <th height="40" width="6%" align="center">105</th>
+            <th width="10%" align="center">105.01.26</th>
+            <th height="40" width="37%" align="center"><u><font color="#0000ff"><a href="userfiles/105年度單位預算書(XML檔).zip">105年度單位預算書(XML檔)</a></font></u></th>
+        </tr>
+        <tr>
+            <th height="40" width="6%" align="center">105</th>
+            <th width="10%" align="center">105.01.26</th>
+            <th height="40" width="37%" align="center"><u><font color="#0000ff"><a href="userfiles/105年度預算總說明(WORD檔).doc">105年度預算總說明(WORD檔)</a></font></u></th>
+        </tr>
+        <tr>
+            <th height="40" width="6%" align="center">106</th>
+            <th width="10%" align="center">105.08.26</th>
+            <th height="40" width="37%" align="center"><a href="userfiles/106年度單位預算案書(Excel檔).zip">106年度單位預算案書(excel)</a></th>
+        </tr>
+        <tr>
+            <th height="40" width="6%" align="center">106</th>
+            <th width="10%" align="center">105.08.26</th>
+            <th height="40" width="37%" align="center"><u><font color="#0000ff"><a href="userfiles/106年度單位預算案書(PDF檔).pdf">106年度單位預算案書(PDF檔)</a></font></u></th>
+        </tr>
+        <tr>
+            <th height="40" width="6%" align="center">106</th>
+            <th width="10%" align="center">105.08.26</th>
+            <th height="40" width="37%" align="center"><u><font color="#0000ff"><a href="userfiles/106年度單位預算案書(XML檔).zip">106年度單位預算案書(XML檔)</a></font></u></th>
+        </tr>
+        <tr>
+            <th height="40" width="6%" align="center">106</th>
+            <th width="10%" align="center">105.08.26</th>
+            <th height="40" width="37%" align="center"><u><font color="#0000ff"><a href="userfiles/106年度單位預算案總說明(WORD檔).doc">106年度單位預算案總說明(WORD檔)</a></font></u></th>
+        </tr>
+    </tbody>
+</table>
+<center></center></p>
+                
+                  <div align="left">
+                    
+                  <span class="clean"></span>
+                  
+              </div></td>
+              <td width="10%">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0"  align="center" summary="網站排版用表格">
+                  <tr>
+                    <td><img src="images/index_r5_c23.jpg" alt="常用查詢" width="200" height="28" /></td>
+                </tr>
+                  <tr>
+                    <td><img src="images/index_r7_c23.jpg" alt=" " width="200" height="16" border="0" /></td>
+                </tr>
+                  <tr>
+                    <td background="images/index_r9_c23.jpg" style="background-repeat:repeat-y">
+                      <div class="selectIR">
+                    <ul>
+    <li><a title="連結至司法院裁判書查詢(另開新視窗)" target="_blank" href="http://jirs.judicial.gov.tw/FJUD/">裁判書查詢</a> </li>
+    <li><a title="連結至司法院裁判主文查詢(另開新視窗)" target="_blank" href="http://csdi.judicial.gov.tw/abbs/wkw/WHD1A01.jsp?court=tch">裁判主文查詢</a> </li>
+    <li><a title="連結至司法院案件進度查詢(另開新視窗)" target="_blank" href="http://cpor.judicial.gov.tw/cqry/Login.do">案件進度查詢 </a></li>
+    <li><a title="連結至司法院庭期查詢服務(另開新視窗)" target="_blank" href="http://csdi.judicial.gov.tw/abbs/wkw/WHD3A01.jsp?court=tch">庭期查詢服務</a> </li>
+    <li><a title="連結至司法院開庭進度查詢(另開新視窗)" target="_blank" href="http://www.judicial.gov.tw/ctstate/getctstate.asp?courtcode=TCH">開庭進度查詢</a> </li>
+    <li><a title="連結至法學資料檢索(另開新視窗)" target="_blank" href="http://jirs.judicial.gov.tw/Index.htm">法學資料檢索</a> </li>
+    <li><a title="連結至本院訴訟須知" href="?struID=3&amp;contentID=8">訴訟須知</a> </li>
+    <li><a title="連結至本院收受書狀服務" href="?struID=3&amp;contentID=31">收受書狀服務</a> </li>
+</ul></div></td>
+                </tr>
+                  <tr>
+                    <td><img src="images/index_r10_c23.jpg" alt="" width="200" height="18" border="0" /></td>
+                </tr>
+                  <tr>
+                    <td><img src="images/index_r18_c23.jpg" alt="好站連結" width="200" height="55" border="0" /></td>
+                </tr>
+                  <tr>
+                    <td background="images/index_r20_c23.jpg" style="background-repeat:repeat-y">
+                      <div class="selectIR" style="text-align: center; margin-top: 5px;">
+                        <p><a target="_blank" href="http://www.judicial.gov.tw/ctstate/getctstate.asp?courtcode=TCH"><img title="連結至司法院開庭進度查詢(另開新視窗)" border="0" alt="開庭進度查詢" width="150" height="58" rel="lightbox[show]" src="/UserFiles/開庭進度查詢.gif" /></a></p>
+<p><a target="_blank" href="http://cpor.judicial.gov.tw/cqry/Login.do"><img title="連結至司法院案件進度查詢(另開新視窗)" border="0" alt="案件進度查詢" width="150" height="58" rel="lightbox[show]" src="/UserFiles/案件進度查詢.gif" /></a></p>
+<p><a target="_blank" href="http://www.judicial.gov.tw/ByLaw/index.html"><img title="連結至法治教育網(另開新視窗)" border="0" alt="法治教育網" rel="lightbox[show]" src="/UserFiles/法治教育網.gif" /></a></p>
+<p><a target="_blank" href="http://www.judicial.gov.tw/museum/"><img title="連結至司法博物館(另開新視窗)" border="0" alt="司法博物館" rel="lightbox[show]" src="/UserFiles/司法博物館.gif" /></a></p>
+<p><a target="_blank" href="http://www.judicial.gov.tw/db/cnt.asp?court=tch"><img title="連結至司法院主文公告(另開新視窗)" border="0" alt="主文公告" rel="lightbox[show]" src="/UserFiles/主文公告.gif" /></a></p>
+<p><a target="_blank" href="http://du.judicial.gov.tw/jud_k/wke/LoginFEXG.jsp"><img title="連結至司法院書狀上傳區(另開新視窗)" border="0" alt="書狀上傳區" width="150" height="58" rel="lightbox[show]" src="/UserFiles/書狀上傳區.gif" /></a></p>
+<p><a target="_blank" href="http://tpmr.moj.gov.tw/"><img title="連結至兒童及青少年犯罪預防宣導網(另開新視窗)" border="0" alt="兒童及青少年犯罪預防宣導網" width="150" height="55" src="UserFiles/banner_00.gif" /></a></p>
+<p><a target="_blank" href="https://www.youtube.com/watch?v=Vgq_9ciPiyI"><img title="裁量之間(另開新視窗)" border="0" alt="裁量之間" width="150" height="55" src="UserFiles/裁量之間.jpg" /></a></p>
+<p><a target="_blank" href="https://compete.law.moj.gov.tw/lawcompete/"><img title="第八屆全國法規資料庫競賽活動(另開新視窗)" border="0" alt="兒第八屆全國法規資料庫競賽活動" width="150" height="55" src="UserFiles/law.gif" /></a></p></div></td>
+                </tr>
+                  <tr>
+                    <td><img src="images/index_r26_c23.jpg" alt="" width="200" height="20" /></td>
+                </tr>
+              </table></td><td width="1%"><img src="images/spacer.gif" width="10" height="1" alt="" /></td>
+            </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td><img src="images/spacer.gif" width="1" height="15" alt="" /></td></tr>
+      <tr>
+        <td ><table width="100%" border="0" cellspacing="0" cellpadding="0" summary="網站排版用表格" style="background-color:#9F9C8D">
+          <tr>
+            <td width="24%" align="center"><div class="foot2">瀏覽人數：<br />
+              <img src=images/counter/0.gif align='absmiddle' alt='1266259'><img src=images/counter/1.gif align='absmiddle' alt='1266259'><img src=images/counter/2.gif align='absmiddle' alt='1266259'><img src=images/counter/6.gif align='absmiddle' alt='1266259'><img src=images/counter/6.gif align='absmiddle' alt='1266259'><img src=images/counter/2.gif align='absmiddle' alt='1266259'><img src=images/counter/5.gif align='absmiddle' alt='1266259'><img src=images/counter/9.gif align='absmiddle' alt='1266259'></div></td>
+            <td><img src="images/index_r29_c5.jpg" width="20" height="63" alt="" /></td>
+            <td><p class="foot"><img src="images/tch_logo.jpg" width="150" height="21" alt="高等法院台中分院LOGO" /> <a title="連結至司法院版權宣告/隱私權保護/網站安全政策(另開視窗)" target="_blacnk" href="http://www.judicial.gov.tw/privacy.asp"> 版權宣告 / 隱私權保護 / 網站安全政策</a><br/>
+            40246 臺中市南區五權南路九十九號‧ 04-22600600 <a title="連結至本院停車資訊" href="?struID=1&contentID=3#6">停車資訊</a><br />
+            版權所有 2012 Taiwan High Court Taichung Branch Court, All Rights Reserved.  </p></td>
+            <td><img src="images/index_r29_c5.jpg" width="20" height="63" alt="" /></td>
+            <td align="center"><a href = "http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20041026161202" title = "無障礙網站" target="_blank"><img src="images/aaa.jpg" alt="通過AAA等級無障礙網頁檢測(另開新視窗)" border="0" align="absmiddle" style=" margin:5px 10px;" /></a><img src="images/QR_CODE.png" alt="台灣高等法院臺中分院 OR CODE" width="100" height="100" align="middle" style="margin: 3px;" /></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table>
+  </td></tr>
+</table> 
+</body>
+</html>

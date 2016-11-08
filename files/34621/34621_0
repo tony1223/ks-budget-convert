@@ -1,0 +1,1506 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "">
+<html lang="zh-TW">
+
+<head>
+	<title>國立中正紀念堂全球資訊網-></title>
+	<meta http-equiv="X-UA-Compatible" content="edge">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="DC.Title" content="預算及決算書">
+	<meta name="DC.Creator" content="國立中正紀念堂管理處">
+	<meta name="DC.Subject" content="預算及決算書">
+	<meta name="DC.Description" content="預算及決算書">
+	<meta name="DC.Contributor" content="國立中正紀念堂管理處">
+	<meta name="DC.Type" content="文章">
+	<meta name="DC.Format" content="TEXT">
+	<meta name="DC.Source" content="國立中正紀念堂管理處">
+	<meta name="DC.Language" content="中文">
+	<meta name="DC.Coverage" content="中華民國（台灣）">
+	<meta name="DC.Publisher" content="國立中正紀念堂管理處">
+	<meta name="DC.Date" content="2016-11-07">
+	<meta name="DC.Identifier" content="379030100D">
+	<meta name="DC.Relation" content="http://www.ntdmh.gov.tw/">
+	<meta name="DC.Rights" content="國立中正紀念堂管理處 著作權聲明">
+	<meta name="Category.Theme" content="">
+	<meta name="Category.Cake" content="">
+	<meta name="Category.Service" content="">
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+	<script language="javascript">
+	<!--
+		var _CurrentURL			= '/index.php?act=index';
+		var _RequestURI			= '/index.php?code=list&ids=58';
+		var _PHP_SELF			= '/index.php';
+		var SYS_BO				= '%SYS_BO%';
+		var OrderURL			= '/index.php?code=list&ids=58';
+		var CurOrderField		= '';
+		var CurOrderMode		= '';
+		var lang_notnull		= '不能為空';
+		var lang_neednumeric	= '只能輸入數字';
+		var lang_needfloat		= '必須輸入整數或小數';
+		var lang_needemail		= '不正確的EMAIL地址格式';
+		var lang_uid			= '不正確的身份證格式';
+		var lang_neededate		= '不正確的日期格式';
+		var lang_nosel			= '請先選擇要管理的資料';
+		var lang_opt_confirm	= '是否確定刪除所選定的項目?';
+		var lang_logout_confirm	= '是否確定離開管理系統?';
+		var lang_delete_confirm	= '是否確定要刪除此項目?';
+		var lang_minlength		= '最少字符數為: ';
+		var lang_maxlength		= '最大字符數為: ';
+		var lang_err_fileformat	= '上傳了無效的檔案格式, 只能上傳: %s 類型的檔案';
+	-->
+	</script>
+
+
+
+
+<div style="display:none;">
+{xajax_content}
+</div>
+
+<link rel="stylesheet" href="./cache/css1.css">
+
+<script language="javascript" src="./js/ie8.js"></script>
+<script language="javascript" src="./js/count_checkbox.js"></script>
+<script language="javascript" src="./js/common.js"></script>
+<link rel="stylesheet" href="./js/calendar/calendar-mos.css">
+<script language="javascript" src="./js/calendar/calendar.js"></script>
+<script language="javascript" src="./js/calendar/lang/calendar-en.js"></script>
+<script language="javascript" src="./js/jquery-1.11.1.min.js"></script>
+<script language="javascript">
+	var calendar = null;
+
+	function selected(cal, date) {
+		cal.sel.value = date;
+	}
+
+	function closeHandler(cal) {
+		cal.hide();
+		Calendar.removeEvent(document, "mousedown", checkCalendar);
+	}
+
+	function checkCalendar(ev) {
+		var el = Calendar.is_ie ? Calendar.getElement(ev) : Calendar.getTargetElement(ev);
+
+		for (; el != null; el = el.parentNode)
+		if (el == calendar.element || el.tagName == "A") break;
+		if (el == null) {
+			calendar.callCloseHandler();
+			Calendar.stopEvent(ev);
+		}
+	}
+
+	function showCalendar(id) {
+		var el = document.getElementById(id);
+		var cal = new Calendar(true, null, selected, closeHandler);
+
+		calendar = cal;
+		cal.setRange(1900, 2070);
+		calendar.create();
+
+		calendar.sel = el;
+		calendar.showAtElement(el);
+
+		Calendar.addEvent(document, "mousedown", checkCalendar);
+	}
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-34109519-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+<!-- {style_font} -->
+
+<body topmargin="0" leftmargin="0">
+<link rel="stylesheet" href="./css/history.css">
+<link rel="stylesheet" href="./external/css/style.css">
+<script src="./external/js/jquery-1.11.1.min.js"></script>
+<script src="./external/js/custom.js"></script>
+<style type="text/css">
+.position_001 A:link { /* 未瀏覽的連結 */
+        font-size:15px;
+        text-decoration:none;
+        color : #ffffff;
+ }
+.position_001 A:visited { /* 已瀏覽的連結 */
+        font-size:15px;
+        text-decoration:none;
+        color : #ffffff;
+}
+.position_001 A:hover { /* 移動至連結時 */
+        font-size:15px;
+        color : #ffffff;
+        text-decoration:underline;
+ }
+.position_001 A:focus { /* 聚焦時 */
+        font-size:13px;
+        color : #ffffff;
+        text-decoration:underline;
+}
+.position_001 A:active { /* 瀏覽連結時 */
+        font-size:15px;
+        text-decoration:none;
+         color : #ffffff;
+}
+.position_001 {
+        font-size:13px;
+        text-decoration:none;
+         color : #ffffff;
+}
+</style>
+<table width="20%" border="0" align="center" cellpadding="0" cellspacing="0" summary="*">
+  <tr>
+    <td align="center" valign="top" bgcolor="#FFFFFF"><span style="BACKGROUND-REPEAT: repeat-y"><style type="text/css">
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(../upload/webstyle_2/bg_01.jpg);
+	background-repeat: repeat-x;
+}
+
+a:link {
+	font-size: 97%;
+	color: #005599;
+	text-decoration: none;
+}
+a:visited {
+	font-size: 97%;
+	color: #005599;
+	text-decoration: none;
+}
+a:hover {
+	font-size: 97%;
+	color: #005599;
+	text-decoration: underline;
+}
+a:active {
+	font-size: 97%;
+	color: #005599;
+	text-decoration: none;
+}
+.blue1:link {
+	font-size: x-small;
+	color: #1e50a0;
+}
+.blue1:visited {
+	font-size: x-small;
+	color: #1e50a0;
+}
+.blue1:hover {
+	font-size: x-small;
+	color: #1e50a0;
+}
+.blue1:active {
+	font-size: x-small;
+	color: #1e50a0;
+}
+.menu:link {
+	font-size: x-small;
+	color: #ffffff;
+	text-decoration: none;
+	line-height: 1.4em;
+}
+.menu:visited {
+	font-size: x-small;
+	color: #ffffff;
+	text-decoration: none;
+	line-height: 1.4em;
+}
+.menu:hover {
+	font-size: x-small;
+	color: #ffffff;
+	text-decoration: underline;
+	line-height: 1.4em;
+}
+.menu:active {
+	font-size: x-small;
+	color: #ffffff;
+	text-decoration: none;
+	line-height: 1.4em;
+}
+.menu1:link {
+	font-size: x-small;
+	color: #3a0396;
+	text-decoration: none;
+	line-height: 1.4em;
+}
+.menu1:visited {
+	font-size: x-small;
+	color: #3a0396;
+	text-decoration: none;
+	line-height: 1.4em;
+}
+.menu1:hover {
+	font-size: x-small;
+	color: #3a0396;
+	text-decoration: underline;
+	line-height: 1.4em;
+}
+.menu1:active {
+	font-size: x-small;
+	color: #3a0396;
+	text-decoration: none;
+	line-height: 1.4em;
+}
+.menu2:link {
+	font-size: x-small;
+	color: #ffffff;
+	text-decoration: none;
+	line-height: 1.4em;
+}
+.menu2:visited {
+	font-size: x-small;
+	color: #ffffff;
+	text-decoration: none;
+	line-height: 1.4em;
+}
+.menu2:hover {
+	font-size: x-small;
+	color: #ffffff;
+	text-decoration: underline;
+	line-height: 1.4em;
+}
+.menu2:active {
+	font-size: x-small;
+	color: #ffffff;
+	text-decoration: none;
+	line-height: 1.4em;
+}
+.aa:link {
+	font-size: x-small;
+	color: #6e6e6e;
+	text-decoration: none;
+}
+.aa:visited {
+	font-size: x-small;
+	color: #6e6e6e;
+	text-decoration: none;
+}
+.aa:hover {
+	font-size: x-small;
+	color: #6e6e6e;
+	text-decoration: underline;
+}
+.aa:active {
+	font-size: x-small;
+	color: #6e6e6e;
+	text-decoration: none;
+}
+.bb a:link {
+	font-size: x-small;
+	color: #fa7800;
+	text-decoration: none;
+}
+.bb a:visited {
+	font-size: x-small;
+	color: #fa7800;
+	text-decoration: none;
+}
+.bb a:hover {
+	font-size: x-small;
+	color: #fa7800;
+	text-decoration: underline;
+}
+.bb a:active {
+	font-size: x-small;
+	color: #fa7800;
+	text-decoration: none;
+}
+.title {
+	font-size: 102%;
+	color: #755225;
+}
+.a1 {
+	font-size: 93%;
+	color: #464646;
+}
+.a2 {
+	font-size: x-small;
+	color: #ffffff;
+	line-height: 16px;
+}
+.a3 {
+	font-size: 102%;
+	color: #464646;
+}
+.a4 {
+	font-size: 100%;
+	color: #000000;
+}
+.a5 {
+	font-size: 101%;
+	color: #fa7800;
+}
+.a6 {
+	font-size: 200%;
+	color: #578dd6;
+}
+.a7 {
+	font-size: 100%;
+	color: #466175;
+}
+.a8 {
+	font-size: 80%;
+	color: #464646;
+}
+.bottom {
+	font-size: x-small;
+	color: #464646;
+}
+.index_act {
+	font-size: x-small;
+	color: #464646;
+}
+.position_style01 {
+	font-size: x-small;
+	color: #464646;
+	line-height: 1.4em;
+}
+.menu_icon {
+	font-size: x-small;
+}
+.search_style {
+	font-size: x-small;
+}
+.update_style {
+	font-size: x-small;
+}
+table,td,th {
+	font-size: medium;
+         letter-spacing:0px;
+         line-height:1.5em;
+}
+</style>
+<!--<script type="text/javascript">
+//<![CDATA[
+  (function() {
+    var shr = document.createElement('script');
+    shr.setAttribute('data-cfasync', 'false');
+    shr.src = '//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js';
+    shr.type = 'text/javascript'; shr.async = 'true';
+    shr.onload = shr.onreadystatechange = function() {
+      var rs = this.readyState;
+      if (rs && rs != 'complete' && rs != 'loaded') return;
+      var site_id = '69216d9392166d264f9810e4c0a94f4a';
+      try { Shareaholic.init(site_id); } catch (e) {}
+    };
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(shr, s);
+  })();
+//]]>
+</script>-->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-554c26cd7ac558b2" async="async"></script>
+<style type="text/css">
+.position_001 A:link { /* 未瀏覽的連結 */
+        font-size:14px;
+        text-decoration:none;
+        color : #195d98;
+ }
+.position_001 A:visited { /* 已瀏覽的連結 */
+        font-size:14px;
+        text-decoration:none;
+        color : #195d98;
+}
+.position_001 A:hover { /* 移動至連結時 */
+        font-size:14px;
+        color : #195d98;
+        text-decoration:underline;
+ }
+.position_001 A:focus { /* 聚焦時 */
+        font-size:14px;
+        color : #195d98;
+        text-decoration:underline;
+}
+.position_001 A:active { /* 瀏覽連結時 */
+        font-size:14px;
+        text-decoration:none;
+         color : #195d98;
+}
+.position_001 { 
+        font-size:13px;
+         color : #195d98;
+}
+</style>
+<table border="0" cellspacing="0" summary="*" cellpadding="0" width="100%">
+    <tbody>
+        <tr>
+            <td valign="top" align="center"><style type="text/css">
+.table_width{
+    width:302px;
+    height:138px;
+    }
+    .table_width2{
+    width:302px;
+    height:46px;
+    }
+    form{margin-bottom:0;}
+</style>
+<div style="background-image:url(../upload/attachment/6ee061700f928b38146ff70bae145a9d.jpg); background-repeat:no-repeat;">
+<table cellspacing="0" cellpadding="0" width="100%" border="0" summary="*">
+    <tbody>
+        <tr>
+            <td width="1%" align="left" valign="top">
+            <div id="Top" style="Z-INDEX: 2; POSITION: absolute"><a class="TOP" title="上方連結區" accesskey="U" href="#TOParea" tabindex="1"><font color="#007cc3">:::</font></a></div>
+            <table border="0" cellspacing="0" cellpadding="0" width="100%" summary="*">
+                <tbody>
+                    <tr>
+                        <td valign="top" align="left" class="table_width2"><a tabindex="2" href="index.php" title="國立中正紀念堂管理處"><img border="0" alt="國立中正紀念堂管理處" src="../upload/attachment/c395978d032407bfed391e61be01136e.png" /></a></td>
+                    </tr>
+                    <tr>
+                        <td valign="top" align="left"  class="table_width">
+                        <table border="0" cellspacing="0" cellpadding="0" width="100%" summary="*">
+                            <tbody>
+                                <tr>
+                                    <td valign="top" align="right"  style="padding-top:5px"><style type="text/css">
+
+#google_icon {
+	position: absolute;
+	margin:23px 0px 0px 53px;
+	
+}
+.search_10{
+	font-size:13px;
+	}
+</style>
+<form action="./index.php?act=article&code=search" method="post" name="frm">
+<input type="hidden" name="csrf" id="csrf" value="3210378169dd3dc6a42b4805936f99e2">
+<table cellspacing="0" cellpadding="0" width="10%" border="0" summary="*">
+        <tbody> 
+            <tr>
+              <td valign="top" align="right"><table width="10%" border="0" cellspacing="1" cellpadding="3">
+  <tr>
+    <td align="left" valign="middle" class="search_10"><strong>全站搜尋</strong><br><input id="keyword" onFocus="if (this.value=='請輸入欲檢索之字串') {this.value='';}" size="25" name="keyword" value="請輸入欲檢索之字串" accesskey="S" tabindex="4"/></td>
+  </tr>
+</table>
+              </td>
+          </tr>
+            <tr>
+              <td valign="top" align="right"><table width="10%" border="0" cellspacing="1" cellpadding="3">
+                <tr>
+                  <td align="left" valign="middle"><input type="image" alt="搜尋" title="搜尋" src="upload/webstyle_2/ddd_05.jpg" name="action" tabindex="4"/></td>
+                  <td align="left" valign="middle"><a href="index.php?act=article_class" title="分類檢索" tabindex="4"><img alt="分類檢索" border="0" src="upload/webstyle_2/ddd_08.jpg" /></a></td>
+                  <td align="left" valign="middle"><a href="index.php?act=article&code=google" tabindex="5" title="google進階檢索"><img alt="google進階檢索" border="0" src="http://www.cksmh.gov.tw/upload/attachment/google_icon.png" /></a></td>
+                </tr>
+              </table></td>
+            </tr>
+         <input type="hidden" name="refer" value="./index.php" />
+
+</table>   
+</form>
+                                    <script>
+                                         (function() {
+                                           var cx = '007441810936037069743:zuaptrmhaci';
+                                           var gcse = document.createElement('script');
+                                           gcse.type = 'text/javascript';
+                                           gcse.async = true;
+                                           gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+                                           var s = document.getElementsByTagName('script')[0];
+                                           s.parentNode.insertBefore(gcse, s);
+                                         })();
+                                        </script>
+                                        google熱門關鍵字
+                                        <gcse:searchbox-only></gcse:searchbox-only>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+            <td width="99%" align="left" valign="top">
+            <table border="0" cellspacing="0" cellpadding="0" width="100%" summary="*">
+                <tbody>
+                    <tr>
+                        <td align="right" valign="top" bgcolor="#FFFFFF">
+                        <table border="0" cellspacing="0" cellpadding="0" width="10%" summary="*">
+                            <tbody>
+                                <tr>
+                                    <td valign="top" align="left"><img border="0" alt="" src="upload/webstyle_2/head_12.jpg" /></td>
+                                    <td valign="top" align="left"><a tabindex="3" href="index.php?code=list&ids=143" title="網站導覽"><img border="0" alt="網站導覽" src="upload/webstyle_2/head_13.jpg" /></a></td>
+                                    <td valign="top" align="left"><a tabindex="3" href="index.php" title="回首頁"><img border="0" alt="回首頁" src="upload/webstyle_2/head_14.jpg" /></a></td>
+                                    <td valign="top" align="left"><a tabindex="3" href="index.php?code=list&ids=144" title="常見問答"><img border="0" alt="常見問答" src="upload/webstyle_2/head_15.jpg" /></a></td>
+                                    <td valign="top" align="left"><a tabindex="3" href="index.php?code=list&ids=145" title="處長信箱"><img border="0" alt="處長信箱" src="upload/webstyle_2/head_16.jpg" /></a></td>
+                                    <td valign="top" align="left"><a tabindex="3" href="index.php?code=list&ids=15" title="RSS訂閱"><img border="0" alt="RSS訂閱" src="upload/webstyle_2/head_17.jpg" /></a></td>
+                                    <td valign="top" align="left"><a tabindex="3" href="index.php?launage=utf-8" title="正體中文版"><img border="0" alt="正體中文版" src="upload/webstyle_2/head_26.jpg" /></a></td>
+                                    <td valign="top" align="left"><img border="0" alt="" src="upload/webstyle_2/head_27.jpg" /></td>
+                                    <!--<td valign="top" align="left"><a tabindex="2" target="_blank" href="index.php?launage=gb"><img border="0" alt="簡體中文版" src="upload/webstyle_2/head_18.jpg" /></a></td>
+                                    <td valign="top" align="left"><img border="0" alt="" src="upload/webstyle_2/head_19.jpg" /></td>-->
+                                    <td valign="top" align="left"><a tabindex="3" target="_blank" href="http://www.cksmh.gov.tw/eng/" title="English（另開新視窗）"><img border="0" alt="English（另開新視窗）" src="upload/webstyle_2/head_20.jpg" /></a></td>
+                                    <td valign="top" align="left"><img border="0" alt="" src="upload/webstyle_2/head_21.jpg" /></td>
+                                    <td valign="top" align="left"><a tabindex="3" target="_blank" href="http://www.cksmh.gov.tw/jp/" title="日本語（另開新視窗）"><img border="0" alt="日本語（另開新視窗）" src="upload/webstyle_2/head_22.jpg" /></a></td>
+                                    <td valign="top" align="left"><img border="0" alt="" src="upload/webstyle_2/head_23.jpg" /></td>
+                                    <td valign="top" align="left"><a tabindex="3" target="_blank" href="http://www.cksmh.gov.tw/index.php?code=list&ids=258" title="行動版（另開新視窗）"><img border="0" alt="行動版（另開新視窗）" src="upload/webstyle_2/head_24.jpg" /></a></td>
+                                    <td valign="top" align="left"><img border="0" alt="" src="upload/webstyle_2/head_25.jpg" /></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                      </td>
+                  </tr>
+                </tbody>
+            </table>
+          </td>
+      </tr>
+    </tbody>
+</table>
+</div></td>
+        </tr>
+        <tr>
+            <td valign="top" align="center"><script type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<table cellspacing="0" cellpadding="0" width="100%" border="0" summary="*">
+    <tbody>
+        <tr>
+            <td valign="top" align="left"><img border="0" alt="*" src="upload/webstyle_2/menu_01.jpg" /></td>
+            <td valign="top" align="left"><a tabindex="5" onmouseover="MM_swapImage('Image1','','upload/webstyle_2/menu_13.jpg',1)" onfocus="MM_swapImage('Image1','','upload/webstyle_2/menu_13.jpg',1)" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" href="index.php?code=list&ids=2" title="公布欄"><img border="0" name="Image1" alt="公布欄" src="upload/webstyle_2/menu_02.jpg" /></a></td>
+            <td valign="top" align="left"><a tabindex="5" onmouseover="MM_swapImage('Image2','','upload/webstyle_2/menu_14.jpg',1)" onfocus="MM_swapImage('Image2','','upload/webstyle_2/menu_14.jpg',1)" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" href="index.php?code=list&ids=3" title="本處簡介"><img border="0" name="Image2" alt="本處簡介" src="upload/webstyle_2/menu_03.jpg" /></a></td>
+            <td valign="top" align="left"><a tabindex="5" onmouseover="MM_swapImage('Image3','','upload/webstyle_2/menu_15.jpg',1)" onfocus="MM_swapImage('Image3','','upload/webstyle_2/menu_15.jpg',1)" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" href="index.php?code=list&ids=4" title="展覽活動"><img border="0" name="Image3" alt="展覽活動" src="upload/webstyle_2/menu_04.jpg" /></a></td>
+            <td valign="top" align="left"><a tabindex="5" onmouseover="MM_swapImage('Image4','','upload/webstyle_2/menu_16.jpg',1)" onfocus="MM_swapImage('Image4','','upload/webstyle_2/menu_16.jpg',1)" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" href="index.php?code=list&ids=5" title="文教活動"><img border="0" name="Image4" alt="文教活動" src="upload/webstyle_2/menu_05.jpg" /></a></td>
+            <td valign="top" align="left"><a tabindex="5" onmouseover="MM_swapImage('Image050','','upload/article/menu_101-1.jpg',1)" onfocus="MM_swapImage('Image050','','upload/article/menu_101-1.jpg',1)" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" href="index.php?code=list&ids=394" title="研究典藏"><img border="0" name="Image050" alt="研究典藏" src="upload/article/menu_101.jpg" /></a></td>
+            <td valign="top" align="left"><!--<a onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image5','','upload/webstyle_2/menu_17.jpg',1)" onmouseover="MM_swapImage('Image5','','upload/webstyle_2/menu_17.jpg',1)" tabindex="19" onmouseout="MM_swapImgRestore()" href="index.php?code=list&ids=291">--><a tabindex="5" onmouseover="MM_swapImage('Image5','','upload/attachment/3bd256cc126d002f2ab8da0c5ea0b1eb.jpg',1)" onfocus="MM_swapImage('Image5','','upload/attachment/3bd256cc126d002f2ab8da0c5ea0b1eb.jpg',1)" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" a="" href="index.php?code=list&ids=6" title="園區導覽"><img border="0" name="Image5" alt="園區導覽" src="upload/attachment/f76733d2105ab2bf637e2a71549cab4c.jpg" /></a></td>
+            <td valign="top" align="left"><!--<a onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image6','','upload/webstyle_2/menu_18.jpg',1)" onmouseover="MM_swapImage('Image6','','upload/webstyle_2/menu_18.jpg',1)" tabindex="20" onmouseout="MM_swapImgRestore()" href="index.php?code=list&ids=43">--><a tabindex="5" onmouseover="MM_swapImage('Image6','','upload/article/menu_103-1.jpg',1)" onfocus="MM_swapImage('Image6','','upload/article/menu_103-1.jpg',1)" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" href="index.php?code=list&ids=7" title="便民服務"><img border="0" name="Image6" alt="便民服務" src="upload/article/menu_103(2).jpg" /></a></td>
+            <td valign="top" align="left"><!--<a onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image7','','upload/webstyle_2/menu_19.jpg',1)" onmouseover="MM_swapImage('Image7','','upload/webstyle_2/menu_19.jpg',1)" tabindex="21" onmouseout="MM_swapImgRestore()" href="index.php?code=list&ids=52">--><a tabindex="5" onmouseover="MM_swapImage('Image7','','upload/article/menu_104-1.jpg',1)" onfocus="MM_swapImage('Image7','','upload/article/menu_104-1.jpg',1)" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" href="index.php?code=list&ids=8" title="政府資訊公開"><img border="0" name="Image7" alt="政府資訊公開" src="upload/article/menu_104(2).jpg" /></a></td>
+            <td valign="top" align="left"><!--<a onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image8','','upload/webstyle_2/menu_20.jpg',1)" onmouseover="MM_swapImage('Image8','','upload/webstyle_2/menu_20.jpg',1)" tabindex="22" onmouseout="MM_swapImgRestore()" href="index.php?code=list&ids=63">--><a tabindex="5" onmouseover="MM_swapImage('Image8','','upload/article/menu_105-1.jpg',1)" onfocus="MM_swapImage('Image8','','upload/article/menu_105-1.jpg',1)" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" href="index.php?code=list&ids=9" title="多媒體專區"><img border="0" name="Image8" alt="多媒體專區" src="upload/article/menu_105(2).jpg" /></a></td>
+            <td valign="top" align="left"><!--<a onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image9','','upload/webstyle_2/menu_21.jpg',1)" onmouseover="MM_swapImage('Image9','','upload/webstyle_2/menu_21.jpg',1)" tabindex="23" onmouseout="MM_swapImgRestore()" href="index.php?code=list&ids=75">--><a tabindex="5" onmouseover="MM_swapImage('Image9','','upload/article/menu_106-1.jpg',1)" onfocus="MM_swapImage('Image9','','upload/article/menu_106-1.jpg',1)" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" href="index.php?code=list&ids=12" title="志工園地"><img border="0" name="Image9" alt="志工園地" src="upload/article/menu_106(2).jpg" /></a></td>
+            <!--<td valign="top" align="left"><a onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image10','','upload/webstyle_2/menu_22.jpg',1)" onmouseover="MM_swapImage('Image10','','upload/webstyle_2/menu_22.jpg',1)" tabindex="24" onmouseout="MM_swapImgRestore()" target="_blank" href="http://192.192.134.15/lib1/"><img border="0" name="Image10" alt="圖書館" src="upload/webstyle_2/menu_11.jpg" /></a></td>-->
+            <td valign="top" align="left"><img border="0" alt="*" src="upload/webstyle_2/menu_12.jpg" /></td>
+        </tr>
+    </tbody>
+</table></td>
+        </tr>
+        <tr>
+            <td valign="top" background="upload/webstyle_2/bottom_10.jpg" align="left">
+            <table border="0" cellspacing="0" summary="*" cellpadding="0" width="100%">
+                <tbody>
+                    <tr>
+                        <td valign="top" align="left" width="1%">
+                        <div id="left" style="Z-INDEX: 2; POSITION: absolute"><a accesskey="L" class="left" title="左方連結區" tabindex="50" href="#leftarea"><font color="#007cc3">:::</font></a></div>
+                        <table border="0" cellspacing="0" summary="*" cellpadding="0" width="100%">
+                            <tbody>
+                                <tr>
+                                    <td style="PADDING-TOP: 5px" valign="top" align="left"> <style type="text/css">
+.menu_001 A:link { /* 未瀏覽的連結 */
+        font-size:15px;
+        text-decoration:none;
+        color : #ffffff;
+ }
+.menu_001 A:visited { /* 已瀏覽的連結 */
+        font-size:15px;
+        text-decoration:none;
+        color : #ffffff;
+}
+.menu_001 A:hover { /* 移動至連結時 */
+        font-size:15px;
+        color : #ffffff;
+        text-decoration:underline;
+ }
+.menu_001 A:focus { /* 聚焦時 */
+        font-size:15px;
+        color : #ffffff;
+        text-decoration:underline;
+}
+.menu_001 A:active { /* 瀏覽連結時 */
+        font-size:15px;
+        text-decoration:none;
+         color : #ffffff;
+}
+</style>
+<table cellspacing="0" cellpadding="0" width="10%" border="0" summary="*">
+  <tr>
+    <td align="left" valign="top" style="padding-left:15px">
+    <table width="10%" border="0" cellpadding="0" cellspacing="1" summary="*">
+      <tr>
+        <td align="left" valign="top"><img src="upload/webstyle_2/l_01.jpg" alt="內容選單" border="0"></td>
+      </tr>
+      <tr onMouseOver="this.style.background='#234a8b'" onMouseOut="this.style.background='#0c4f94'" onfocus="this.style.background='#234a8b'" onblur="this.style.background='#0c4f94'"bgcolor="#0c4f94">
+        <td align="left" valign="top" style="padding-left:10px; padding-top:3px; padding-right:5px">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="*">
+          <tr>
+            <td width="99%" align="left" valign="top" class="menu_001"><a href="index.php?code=list&ids=570" title="政策宣導相關廣告" class="menu" tabindex="51"><strong>本處年報</strong></a></td>
+            <td width="1%" align="left" valign="top" class="a2"> </td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr onMouseOver="this.style.background='#234a8b'" onMouseOut="this.style.background='#0c4f94'" onfocus="this.style.background='#234a8b'" onblur="this.style.background='#0c4f94'"bgcolor="#0c4f94">
+        <td align="left" valign="top" style="padding-left:10px; padding-top:3px; padding-right:5px">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="*">
+          <tr>
+            <td width="99%" align="left" valign="top" class="menu_001"><a href="index.php?code=list&ids=378" title="政策宣導相關廣告" class="menu" tabindex="51"><strong>政策宣導相關廣告</strong></a></td>
+            <td width="1%" align="left" valign="top" class="a2"> </td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr onMouseOver="this.style.background='#234a8b'" onMouseOut="this.style.background='#0c4f94'" onfocus="this.style.background='#234a8b'" onblur="this.style.background='#0c4f94'"bgcolor="#0c4f94">
+        <td align="left" valign="top" style="padding-left:10px; padding-top:3px; padding-right:5px">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="*">
+          <tr>
+            <td width="99%" align="left" valign="top"  class="menu_001"><a href="index.php?code=list&ids=52" title="法令規章" class="menu" tabindex="51"><strong>法令規章</strong></a></td>
+            <td width="1%" align="left" valign="top" class="a2"> </td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr onMouseOver="this.style.background='#234a8b'" onMouseOut="this.style.background='#0c4f94'" onfocus="this.style.background='#234a8b'" onblur="this.style.background='#0c4f94'"bgcolor="#0c4f94">
+        <td align="left" valign="top" style="padding-left:10px; padding-top:3px; padding-right:5px">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="*">
+          <tr>
+            <td width="99%" align="left" valign="top"  class="menu_001"><a href="index.php?code=list&ids=53" title="行政規則" class="menu" tabindex="51"><strong>行政規則</strong></a></td>
+            <td width="1%" align="left" valign="top" class="a2"> </td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr onMouseOver="this.style.background='#234a8b'" onMouseOut="this.style.background='#0c4f94'" onfocus="this.style.background='#234a8b'" onblur="this.style.background='#0c4f94'"bgcolor="#0c4f94">
+        <td align="left" valign="top" style="padding-left:10px; padding-top:3px; padding-right:5px">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="*">
+          <tr>
+            <td width="99%" align="left" valign="top"  class="menu_001"><a href="index.php?code=list&ids=54" title="行政指導有關文書" class="menu" tabindex="51"><strong>行政指導有關文書</strong></a></td>
+            <td width="1%" align="left" valign="top" class="a2"> </td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr onMouseOver="this.style.background='#44729e'" onMouseOut="this.style.background='#247bce'" onfocus="this.style.background='#44729e'" onblur="this.style.background='#247bce'"bgcolor="#247bce">
+        <td align="left" valign="top" style="padding-left:10px; padding-top:3px; padding-right:5px">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="*">
+          <tr>
+            <td width="99%" align="left" valign="top"  class="menu_001"><a href="index.php?code=list&ids=237" title="‧申請書範例" class="menu" tabindex="51"><strong>‧申請書範例</strong></a></td>
+            <td width="1%" align="left" valign="top" class="a2"></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr onMouseOver="this.style.background='#44729e'" onMouseOut="this.style.background='#247bce'" onfocus="this.style.background='#44729e'" onblur="this.style.background='#247bce'"bgcolor="#247bce">
+        <td align="left" valign="top" style="padding-left:10px; padding-top:3px; padding-right:5px">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="*">
+          <tr>
+            <td width="99%" align="left" valign="top"  class="menu_001"><a href="index.php?code=list&ids=238" title="‧作業流程圖" class="menu" tabindex="51"><strong>‧作業流程圖</strong></a></td>
+            <td width="1%" align="left" valign="top" class="a2"></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr onMouseOver="this.style.background='#234a8b'" onMouseOut="this.style.background='#0c4f94'" onfocus="this.style.background='#234a8b'" onblur="this.style.background='#0c4f94'"bgcolor="#0c4f94">
+        <td align="left" valign="top" style="padding-left:10px; padding-top:3px; padding-right:5px">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="*">
+          <tr>
+            <td width="99%" align="left" valign="top"  class="menu_001"><a href="index.php?code=list&ids=55" title="施政計畫" class="menu" tabindex="51"><strong>施政計畫</strong></a></td>
+            <td width="1%" align="left" valign="top" class="a2"> </td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr onMouseOver="this.style.background='#234a8b'" onMouseOut="this.style.background='#0c4f94'" onfocus="this.style.background='#234a8b'" onblur="this.style.background='#0c4f94'"bgcolor="#0c4f94">
+        <td align="left" valign="top" style="padding-left:10px; padding-top:3px; padding-right:5px">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="*">
+          <tr>
+            <td width="99%" align="left" valign="top"  class="menu_001"><a href="index.php?code=list&ids=56" title="業務統計" class="menu" tabindex="51"><strong>業務統計</strong></a></td>
+            <td width="1%" align="left" valign="top" class="a2"> </td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr onMouseOver="this.style.background='#234a8b'" onMouseOut="this.style.background='#0c4f94'" onfocus="this.style.background='#234a8b'" onblur="this.style.background='#0c4f94'"bgcolor="#0c4f94">
+        <td align="left" valign="top" style="padding-left:10px; padding-top:3px; padding-right:5px">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="*">
+          <tr>
+            <td width="99%" align="left" valign="top"  class="menu_001"><a href="index.php?code=list&ids=57" title="研究報告" class="menu" tabindex="51"><strong>研究報告</strong></a></td>
+            <td width="1%" align="left" valign="top" class="a2"> </td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr onMouseOver="this.style.background='#234a8b'" onMouseOut="this.style.background='#0c4f94'" onfocus="this.style.background='#234a8b'" onblur="this.style.background='#0c4f94'"bgcolor="#0c4f94">
+        <td align="left" valign="top" style="padding-left:10px; padding-top:3px; padding-right:5px">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="*">
+          <tr>
+            <td width="99%" align="left" valign="top"  class="menu_001"><a href="index.php?code=list&ids=58" title="預算及決算書" class="menu" tabindex="51"><strong>預算及決算書</strong></a></td>
+            <td width="1%" align="left" valign="top" class="a2"> </td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr onMouseOver="this.style.background='#234a8b'" onMouseOut="this.style.background='#0c4f94'" onfocus="this.style.background='#234a8b'" onblur="this.style.background='#0c4f94'"bgcolor="#0c4f94">
+        <td align="left" valign="top" style="padding-left:10px; padding-top:3px; padding-right:5px"><table width="100%" border="0" cellspacing="0" cellpadding="0" summary="*">
+          <tr>
+            <td width="99%" align="left" valign="top"  class="menu_001"><a href="index.php?code=list&ids=470" title="會計報告" class="menu" tabindex="51"><strong>會計報告</strong></a></td>
+            <td width="1%" align="left" valign="top" class="a2"> </td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr onMouseOver="this.style.background='#234a8b'" onMouseOut="this.style.background='#0c4f94'" onfocus="this.style.background='#234a8b'" onblur="this.style.background='#0c4f94'"bgcolor="#0c4f94">
+        <td align="left" valign="top" style="padding-left:10px; padding-top:3px; padding-right:5px">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="*">
+          <tr>
+            <td width="99%" align="left" valign="top"  class="menu_001"><a href="index.php?code=list&ids=59" title="請願處理結果及訴願決定" class="menu" tabindex="51"><strong>請願處理結果及訴願決定</strong></a></td>
+            <td width="1%" align="left" valign="top" class="a2"> </td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr onMouseOver="this.style.background='#234a8b'" onMouseOut="this.style.background='#0c4f94'" onfocus="this.style.background='#234a8b'" onblur="this.style.background='#0c4f94'"bgcolor="#0c4f94">
+        <td align="left" valign="top" style="padding-left:10px; padding-top:3px; padding-right:5px">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="*">
+          <tr>
+            <td width="99%" align="left" valign="top"  class="menu_001"><a href="index.php?code=list&ids=61" title="書面之公共工程及採購契約" class="menu" tabindex="51"><strong>書面之公共工程及採購契約</strong></a></td>
+            <td width="1%" align="left" valign="top" class="a2"> </td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr onMouseOver="this.style.background='#234a8b'" onMouseOut="this.style.background='#0c4f94'" onfocus="this.style.background='#234a8b'" onblur="this.style.background='#0c4f94'"bgcolor="#0c4f94">
+        <td align="left" valign="top" style="padding-left:10px; padding-top:3px; padding-right:5px">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="*">
+          <tr>
+            <td width="99%" align="left" valign="top"  class="menu_001"><a href="index.php?code=list&ids=62" title="支付或接受補助" class="menu" tabindex="51"><strong>支付或接受補助</strong></a></td>
+            <td width="1%" align="left" valign="top" class="a2"> </td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr onMouseOver="this.style.background='#234a8b'" onMouseOut="this.style.background='#0c4f94'" onfocus="this.style.background='#234a8b'" onblur="this.style.background='#0c4f94'"bgcolor="#0c4f94">
+        <td align="left" valign="top" style="padding-left:10px; padding-top:3px; padding-right:5px">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="*">
+          <tr>
+            <td width="99%" align="left" valign="top"  class="menu_001"><a href="index.php?code=list&ids=235" title="本處組織職掌及連絡資訊" class="menu" tabindex="51"><strong>本處組織職掌及連絡資訊</strong></a></td>
+            <td width="1%" align="left" valign="top" class="a2"></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr onMouseOver="this.style.background='#44729e'" onMouseOut="this.style.background='#247bce'" onfocus="this.style.background='#44729e'" onblur="this.style.background='#247bce'"bgcolor="#247bce">
+        <td align="left" valign="top" style="padding-left:10px; padding-top:3px; padding-right:5px">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="*">
+          <tr>
+            <td width="99%" align="left" valign="top"  class="menu_001"><a href="index.php?code=list&ids=22" title="‧組織職掌" class="menu" tabindex="51"><strong>‧組織職掌</strong></a></td>
+            <td width="1%" align="left" valign="top" class="a2"></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr onMouseOver="this.style.background='#44729e'" onMouseOut="this.style.background='#247bce'" onfocus="this.style.background='#44729e'" onblur="this.style.background='#247bce'"bgcolor="#247bce">
+        <td align="left" valign="top" style="padding-left:10px; padding-top:3px; padding-right:5px">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="*">
+          <tr>
+            <td width="99%" align="left" valign="top"  class="menu_001"><a href="index.php?code=list&ids=82" title="‧開放時間" class="menu" tabindex="51"><strong>‧開放時間</strong></a></td>
+            <td width="1%" align="left" valign="top" class="a2"></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr onMouseOver="this.style.background='#44729e'" onMouseOut="this.style.background='#247bce'" onfocus="this.style.background='#44729e'" onblur="this.style.background='#247bce'"bgcolor="#247bce">
+        <td align="left" valign="top" style="padding-left:10px; padding-top:3px; padding-right:5px">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="*">
+          <tr>
+            <td width="99%" align="left" valign="top"  class="menu_001"><a href="index.php?code=list&ids=84" title="‧位置及交通資訊" class="menu" tabindex="51"><strong>‧位置及交通資訊</strong></a></td>
+            <td width="1%" align="left" valign="top" class="a2"></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr onMouseOver="this.style.background='#234a8b'" onMouseOut="this.style.background='#0c4f94'" onfocus="this.style.background='#234a8b'" onblur="this.style.background='#0c4f94'"bgcolor="#0c4f94">
+        <td align="left" valign="top" style="padding-left:10px; padding-top:3px; padding-right:5px">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="*">
+          <tr>
+            <td width="99%" align="left" valign="top"  class="menu_001"><a href="index.php?code=list&ids=236" title="合議制機關之會議紀錄" class="menu" tabindex="51"><strong>合議制機關之會議紀錄</strong></a></td>
+            <td width="1%" align="left" valign="top" class="a2"></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr onMouseOver="this.style.background='#234a8b'" onMouseOut="this.style.background='#0c4f94'" onfocus="this.style.background='#234a8b'" onblur="this.style.background='#0c4f94'"bgcolor="#0c4f94">
+        <td align="left" valign="top" style="padding-left:10px; padding-top:3px; padding-right:5px">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="*">
+          <tr>
+            <td width="99%" align="left" valign="top"  class="menu_001"><a href="index.php?code=list&ids=577" title="出國及赴大陸計畫執行情形報告表" class="menu" tabindex="51"><strong>出國及赴大陸計畫執行情形報告表</strong></a></td>
+            <td width="1%" align="left" valign="top" class="a2"></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </td>
+                        <td style="PADDING-TOP: 6px" valign="top" width="99%" align="right">
+                        <table cellspacing="0" cellpadding="0" width="95%" summary="*" border="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="top" align="left">
+                                    <div id="TOP" style="Z-INDEX: 2; POSITION: absolute"><a accesskey="C" title="中間連結區" href="#middlearea" tabindex="100"><font color="#007cc3" size="-1">:::</font></a></div>
+                                    <table border="0" cellspacing="0" cellpadding="0" width="100%" summary="*">
+                                        <tbody>
+                                            <tr>
+                                                <td class="position_style01 position_001" style="PADDING-LEFT: 10px" valign="middle" align="left" width="93%" background="upload/webstyle_2/n_01.jpg">>><a title="首頁" href="index.php" tabindex="101">首頁</a> / <a href="index.php?code=list&ids=8" class="position" title=政府資訊公開 tabindex="101">政府資訊公開</a>&nbsp;>&nbsp;<a href="index.php?code=list&ids=58" class="position" title=預算及決算書 tabindex="101">預算及決算書</a></td>
+                                                <td valign="middle" width="1%" align="left"><a title="回上一頁" href="javascript:history.back();" tabindex="101"><img border="0" alt="回上一頁" src="upload/webstyle_2/n_02.jpg" /></a></td>
+                                                <td valign="middle" width="1%" align="left"><img border="0" alt="字級設定" title="字級設定" src="upload/webstyle_2/n_03.jpg" /></td>
+                                                <td valign="middle" width="1%" align="left"><table cellspacing="0" cellpadding="0" width="10%" border="0" summary="*">
+    <tbody>
+        <tr>
+            <td valign="middle" align="left" width="1%"><a href="./index.php?act=style&size=1&refer=%2Findex.php%3Fcode%3Dlist%26ids%3D58" title="字級設定-小" tabindex="101"><img alt="字級設定-小" border="0" src="upload/webstyle_2/n_04_01.jpg" /></a></td>
+            <td valign="middle" align="left" width="1%"><a href="./index.php?act=style&size=2&refer=%2Findex.php%3Fcode%3Dlist%26ids%3D58" title="字級設定-中" tabindex="101"><img alt="字級設定-中" border="0" src="upload/webstyle_2/n_05_01.jpg" /></a></td>
+            <td valign="middle" align="left" width="1%"><a href="./index.php?act=style&size=3&refer=%2Findex.php%3Fcode%3Dlist%26ids%3D58" title="字級設定-大" tabindex="101"><img alt="字級設定-大" border="0" src="upload/webstyle_2/n_06_01.jpg" /></a></td>
+            <td valign="middle" align="left" width="1%"><a href="./index.php?act=style&size=4&refer=%2Findex.php%3Fcode%3Dlist%26ids%3D58" title="字級設定-巨" tabindex="101"><img alt="字級設定-巨" border="0" src="upload/webstyle_2/n_07_01.jpg" /></a></td>
+      </tr>
+    </tbody>
+</table></td>
+                                                <td valign="middle" width="1%" align="left"><img alt="" border="0" src="upload/webstyle_2/n_08.jpg" /></td>
+                                            </tr>
+                                        </tbody>
+                                    </table><noscript><div align="right" style="padding-top:5px">「回上頁」替代方案，可按鍵盤「Backspace」。「字級大小」替代方案，可按鍵盤「Alt+V」檢視字型轉換大中小。</div></noscript>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign="top" align="left" background="upload/webstyle_2/n_bg.jpg"><table border="0" cellspacing="2" summary="*" cellpadding="5" width="100%">
+    <tbody>
+        <tr>
+            <td style="PADDING-LEFT: 5px" valign="middle" align="left">
+            <table border="0" cellspacing="0" summary="*" cellpadding="0" width="97%">
+                <tbody>
+                    
+                    <tr>
+                        <td bgcolor="#ffffff">
+                        <table border="0" cellspacing="1" summary="*" cellpadding="1" width="100%">
+                            <tbody>
+                                <tr>
+                                    <td valign="top" align="left">
+                                    <table border="0" cellspacing="0" summary="*" cellpadding="0" width="100%" align="center">
+                                        <tbody>
+                                            <tr>
+                                              <td valign="middle" width="6%" nowrap="nowrap" align="right" style="padding-right:5px"><font color="#fab400"><strong>‧</strong></font>100-09-21</td>
+                                                <td valign="middle" width="94%" align="left"><strong><a href="http://kids.cksmh.gov.tw/webppr/eqpaper.htm" alt="基金預算執行狀況查詢系統（另開新視窗）" target="new" title="基金預算執行狀況查詢系統（另開新視窗）" tabindex="102">基金預算執行狀況查詢系統（另開新視窗）</a></strong></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign="top" align="right"><img src="upload/webstyle_2/x_01.jpg" alt="" border="0" /></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td bgcolor="#ffffff">
+                        <table border="0" cellspacing="1" summary="*" cellpadding="1" width="100%">
+                            <tbody>
+                                <tr>
+                                    <td valign="top" align="left">
+                                    <table border="0" cellspacing="0" summary="*" cellpadding="0" width="100%" align="center">
+                                        <tbody>
+                                            <tr>
+                                              <td valign="middle" width="6%" nowrap="nowrap" align="right" style="padding-right:5px"><font color="#fab400"><strong>‧</strong></font>105-09-05</td>
+                                                <td valign="middle" width="94%" align="left"><strong><a href="index.php?code=list&ids=582" alt="106年度" title="106年度" tabindex="102">106年度</a></strong></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign="top" align="right"><img src="upload/webstyle_2/x_01.jpg" alt="" border="0" /></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td bgcolor="#ffffff">
+                        <table border="0" cellspacing="1" summary="*" cellpadding="1" width="100%">
+                            <tbody>
+                                <tr>
+                                    <td valign="top" align="left">
+                                    <table border="0" cellspacing="0" summary="*" cellpadding="0" width="100%" align="center">
+                                        <tbody>
+                                            <tr>
+                                              <td valign="middle" width="6%" nowrap="nowrap" align="right" style="padding-right:5px"><font color="#fab400"><strong>‧</strong></font>104-08-26</td>
+                                                <td valign="middle" width="94%" align="left"><strong><a href="index.php?code=list&ids=497" alt="105年度" title="105年度" tabindex="102">105年度</a></strong></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign="top" align="right"><img src="upload/webstyle_2/x_01.jpg" alt="" border="0" /></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td bgcolor="#ffffff">
+                        <table border="0" cellspacing="1" summary="*" cellpadding="1" width="100%">
+                            <tbody>
+                                <tr>
+                                    <td valign="top" align="left">
+                                    <table border="0" cellspacing="0" summary="*" cellpadding="0" width="100%" align="center">
+                                        <tbody>
+                                            <tr>
+                                              <td valign="middle" width="6%" nowrap="nowrap" align="right" style="padding-right:5px"><font color="#fab400"><strong>‧</strong></font>103-09-03</td>
+                                                <td valign="middle" width="94%" align="left"><strong><a href="index.php?code=list&ids=456" alt="104年度" title="104年度" tabindex="102">104年度</a></strong></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign="top" align="right"><img src="upload/webstyle_2/x_01.jpg" alt="" border="0" /></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td bgcolor="#ffffff">
+                        <table border="0" cellspacing="1" summary="*" cellpadding="1" width="100%">
+                            <tbody>
+                                <tr>
+                                    <td valign="top" align="left">
+                                    <table border="0" cellspacing="0" summary="*" cellpadding="0" width="100%" align="center">
+                                        <tbody>
+                                            <tr>
+                                              <td valign="middle" width="6%" nowrap="nowrap" align="right" style="padding-right:5px"><font color="#fab400"><strong>‧</strong></font>102-08-29</td>
+                                                <td valign="middle" width="94%" align="left"><strong><a href="index.php?code=list&ids=434" alt="103年度" title="103年度" tabindex="102">103年度</a></strong></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign="top" align="right"><img src="upload/webstyle_2/x_01.jpg" alt="" border="0" /></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td bgcolor="#ffffff">
+                        <table border="0" cellspacing="1" summary="*" cellpadding="1" width="100%">
+                            <tbody>
+                                <tr>
+                                    <td valign="top" align="left">
+                                    <table border="0" cellspacing="0" summary="*" cellpadding="0" width="100%" align="center">
+                                        <tbody>
+                                            <tr>
+                                              <td valign="middle" width="6%" nowrap="nowrap" align="right" style="padding-right:5px"><font color="#fab400"><strong>‧</strong></font>101-10-29</td>
+                                                <td valign="middle" width="94%" align="left"><strong><a href="index.php?code=list&ids=380" alt="102年度" title="102年度" tabindex="102">102年度</a></strong></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign="top" align="right"><img src="upload/webstyle_2/x_01.jpg" alt="" border="0" /></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td bgcolor="#ffffff">
+                        <table border="0" cellspacing="1" summary="*" cellpadding="1" width="100%">
+                            <tbody>
+                                <tr>
+                                    <td valign="top" align="left">
+                                    <table border="0" cellspacing="0" summary="*" cellpadding="0" width="100%" align="center">
+                                        <tbody>
+                                            <tr>
+                                              <td valign="middle" width="6%" nowrap="nowrap" align="right" style="padding-right:5px"><font color="#fab400"><strong>‧</strong></font>100-09-21</td>
+                                                <td valign="middle" width="94%" align="left"><strong><a href="index.php?code=list&ids=363" alt="101年度" title="101年度" tabindex="102">101年度</a></strong></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign="top" align="right"><img src="upload/webstyle_2/x_01.jpg" alt="" border="0" /></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td bgcolor="#ffffff">
+                        <table border="0" cellspacing="1" summary="*" cellpadding="1" width="100%">
+                            <tbody>
+                                <tr>
+                                    <td valign="top" align="left">
+                                    <table border="0" cellspacing="0" summary="*" cellpadding="0" width="100%" align="center">
+                                        <tbody>
+                                            <tr>
+                                              <td valign="middle" width="6%" nowrap="nowrap" align="right" style="padding-right:5px"><font color="#fab400"><strong>‧</strong></font>100-08-23</td>
+                                                <td valign="middle" width="94%" align="left"><strong><a href="index.php?code=list&ids=360" alt="100年度" title="100年度" tabindex="102">100年度</a></strong></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign="top" align="right"><img src="upload/webstyle_2/x_01.jpg" alt="" border="0" /></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td bgcolor="#ffffff">
+                        <table border="0" cellspacing="1" summary="*" cellpadding="1" width="100%">
+                            <tbody>
+                                <tr>
+                                    <td valign="top" align="left">
+                                    <table border="0" cellspacing="0" summary="*" cellpadding="0" width="100%" align="center">
+                                        <tbody>
+                                            <tr>
+                                              <td valign="middle" width="6%" nowrap="nowrap" align="right" style="padding-right:5px"><font color="#fab400"><strong>‧</strong></font>99-04-07</td>
+                                                <td valign="middle" width="94%" align="left"><strong><a href="index.php?code=list&ids=331" alt="99年度" title="99年度" tabindex="102">99年度</a></strong></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign="top" align="right"><img src="upload/webstyle_2/x_01.jpg" alt="" border="0" /></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td bgcolor="#ffffff">
+                        <table border="0" cellspacing="1" summary="*" cellpadding="1" width="100%">
+                            <tbody>
+                                <tr>
+                                    <td valign="top" align="left">
+                                    <table border="0" cellspacing="0" summary="*" cellpadding="0" width="100%" align="center">
+                                        <tbody>
+                                            <tr>
+                                              <td valign="middle" width="6%" nowrap="nowrap" align="right" style="padding-right:5px"><font color="#fab400"><strong>‧</strong></font>97-10-03</td>
+                                                <td valign="middle" width="94%" align="left"><strong><a href="index.php?code=list&ids=253" alt="98年度" title="98年度" tabindex="102">98年度</a></strong></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign="top" align="right"><img src="upload/webstyle_2/x_01.jpg" alt="" border="0" /></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </td>
+                    </tr>
+                    
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" align="center"><style type="text/css">
+<!--
+.PAGE-1 {color: #336633; font: bold 12px "細明體"; FONT-SIZE: 12px; LINE-HEIGHT: 16pt; word-break:break-all;}
+.PAGE-2 {color: #336633; font: bold 12px "細明體"; FONT-SIZE: 12px; LINE-HEIGHT: 16pt; word-break:break-all;}
+.PAGE-3 {color: #333333; font: normal 12px/16pt Arial, Helvetica, sans-serif; word-break:break-all;}
+.PAGE-4 {color: darkred; font: bold 12px "細明體"; FONT-SIZE: 12px; LINE-HEIGHT: 16pt; word-break: break-all; font-family: Arial, Helvetica, sans-serif; }
+.PAGE-5 {color: #555555; font: bold 12px "細明體"; FONT-SIZE: 12px; LINE-HEIGHT: 16pt; word-break: break-all; font-family: Arial, Helvetica, sans-serif; }
+-->
+</style>
+
+<table  border="0" align="center" cellpadding="0" cellspacing="2" class="normaltable" style='border:none' summary="分頁列表">
+  <tr>
+    <td><img src="./front/images/spacer.gif" alt="" width="1"></td>
+    <td><a href="#" tabindex="199"><span style='font-weight: bold'><img alt="上一頁" title="上一頁" src="./front/images/upone.gif" border="0" /></span></a></td>
+    <td><img src="./front/images/spacer.gif" alt="" width="1"></td>
+    <td align=center><Div class="PAGE-3" id=spanPageList></Div></td>
+    <td><img src="./front/images/spacer.gif" alt="" width="1"></td>
+    <td><a href="#" tabindex="199"><span style='font-weight: bold'><img alt="下一頁" title="下一頁" src="./front/images/downone.gif" border="0" /></span></a></td>
+    <td><img src="./front/images/spacer.gif" alt="" width="1"></td>
+    <td class="PAGE-5">&nbsp;&nbsp;  第 <span class="PAGE-4">1</span> / <span class="PAGE-4">1</span> 頁 </td>
+    <td><img src="./front/images/spacer.gif" alt="" width="1"></td>
+  </tr>
+</table>
+
+<script language="javascript">
+<!--
+	var page	= parseInt('1');
+	var pageCount	= parseInt('1');
+	var pageSize	= parseInt('10');
+	var recordCount	= parseInt('10');
+	var int_page_start = Math.floor(page / 10) * 10;
+
+	var str = '';
+
+	for(var i = int_page_start; i <= int_page_start + 10 && i <= pageCount; i++)
+	{
+		if(i == 0) continue;
+		str += ' ';
+
+		if(page == i) str += '<strong>[' + i + ']</strong>';
+		else str += "<a href='#' style='cursor:hand' onKeyPress='goPage(" + i + ")' onclick='goPage(" + i + ")' tabindex='199' title='" + i + "'>" + i + "</a>";
+
+		str += ' ';
+	}
+	spanPageList.innerHTML = str;
+
+	function goPage(i)
+	{
+		location = _RequestURI.replace(/&page=[\-0-9]*/, '') + "&page=" + i + "";
+		return false;
+	}
+
+	function btnPage(act)
+	{
+		var pageNum = 0;
+		var previous10 = 0, next10 = 0;
+
+		switch(act.toLowerCase())
+		{
+			case 'previous10':
+				previous10 = page - 10;
+				if(previous10 < 0) return;
+				pageNum = previous10;
+				break;
+
+			case 'previous':
+				if(page <= 1) return false;
+				else pageNum = page - 1;
+				break;
+
+			case 'next':
+				if(page >= pageCount) return false;
+				else pageNum = page + 1;
+				break;
+
+			case 'next10':
+				next10 = page + 10;
+				if(next10 > pageCount) return;
+				pageNum = next10;				
+				break;
+		}
+
+		if(pageNum == 0) pageNum = 1;
+		if(pageNum != 0) window.location = _RequestURI.replace(/&page=[\-0-9]*/, '') + "&page=" + pageNum + "";
+	}
+-->
+</script></td>
+        </tr>
+    </tbody>
+</table></td>
+                                </tr>
+                                <tr>
+                                    <td valign="top" align="right"><img alt="" border="0" src="upload/webstyle_2/n_09.jpg" /></td>
+                                </tr>
+                                <tr>
+                                    <td style="PADDING-RIGHT: 15px" valign="top" align="right">
+                                    <table border="0" cellspacing="1" cellpadding="3" width="100%" summary="*">
+                                        <tbody>
+                                            <tr>
+                                              <td valign="middle" align="right"><div class="addthis_native_toolbox"></div></td>
+                                                <td valign="middle" align="right">
+                                                <table border="0" cellspacing="1" cellpadding="3" width="100%" summary="*">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="update_style" valign="top" nowrap="nowrap" align="left">最後更新日期：2015-08-26</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                </td>
+                                                <td valign="middle" align="right">
+                                                <table border="0" cellspacing="1" cellpadding="3" width="100%" summary="*">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td valign="middle" align="left"><img alt="好友推薦" border="0" src="upload/webstyle_2/n_10.jpg" /></td>
+                                                            <td valign="middle" nowrap="nowrap" align="left"><a class="aa" title="好友推薦" target="_blank" href="index.php?act=article&code=resend&ids=58&flag=list" tabindex="199">好友推薦</a></td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                </td>
+                                                <td valign="middle" align="right">
+                                                <table border="0" cellspacing="1" cellpadding="3" width="100%" summary="*">
+                                                    <tbody>
+                                                        <tr>
+                                                          <td valign="middle" align="left"><img alt="友善列印" border="0" src="upload/webstyle_2/n_11.jpg" /></td>
+                                                            <td align="left" valign="middle" nowrap="nowrap"><a href="./index.php?act=article&code=listprint&ids=58&page=1&pageSize=" title="友善列印" class="aa" tabindex="199">友善列印</a></td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                </td>
+                                                <td valign="middle" align="right">
+                                                <table border="0" cellspacing="1" cellpadding="3" width="100%" summary="*">
+                                                    <tbody>
+                                                        <tr>
+                                                          <td valign="middle" align="left"><img alt="回上頁" border="0" src="upload/webstyle_2/n_12.jpg" /></td>
+                                                            <td align="left" valign="middle" nowrap="nowrap"><a href="javascript:history.back();" title="回上頁" class="aa" tabindex="199">回上頁</a></td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                </td>
+                                                <td valign="middle" align="right">
+                                                <table border="0" cellspacing="1" cellpadding="3" width="100%" summary="*">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td valign="middle" align="left"><img alt="TOP" border="0" src="upload/webstyle_2/n_13.jpg" /></td>
+                                                            <td valign="middle" nowrap="nowrap" align="left"><a class="aa" title="TOP" href="#" tabindex="199">TOP</a></td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table><noscript><div style="padding-top:2px">「友善列印」替代方案，可按鍵盤「Ctrl + P」。「回上頁」替代方案，可按鍵盤「Backspace」。</div></noscript>
+                                  </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+    </tbody>
+</table></span></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-17559226-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+<style type="text/css">
+.class1{
+ font-size:16px;
+    line-height:1.8em;
+    color: #707070;
+    letter-spacing:1px;
+    font-family:"微軟正黑體";
+}
+.class2{
+ font-size:13px;
+    line-height:1.5em;
+    color: #707070;
+    letter-spacing:1px;
+    font-family:"微軟正黑體";
+}
+.class2 A:link { /* 未瀏覽的連結 */
+        font-size:13px;
+    line-height:1.5em;
+    color: #707070;
+    letter-spacing:1px;
+        text-decoration:none;
+        font-family:"微軟正黑體";
+ }
+.class2  A:visited { /* 已瀏覽的連結 */
+        font-size:13px;
+    line-height:1.5em;
+    color: #707070;
+    letter-spacing:1px;
+        text-decoration:none;
+        font-family:"微軟正黑體";
+}
+.class2 A:hover { /* 移動至連結時 */
+        font-size:13px;
+    line-height:1.5em;
+    color: #133c8e;
+    letter-spacing:1px;
+        text-decoration:underline;
+        font-family:"微軟正黑體";
+ }
+.class2 A:focus { /* 聚焦時 */
+        font-size:13px;
+    line-height:1.5em;
+    color: #707070;
+    letter-spacing:1px;
+        text-decoration: none;
+        font-family:"微軟正黑體";
+}
+.class2 A:active { /* 瀏覽連結時 */
+         font-size:13px;
+    line-height:1.5em;
+    color: #707070;
+    letter-spacing:1px;
+        text-decoration: none;
+        font-family:"微軟正黑體";
+}
+.class1 A:link { /* 未瀏覽的連結 */
+        font-size:16px;
+    line-height:1.5em;
+    color: #707070;
+    letter-spacing:1px;
+        text-decoration:none;
+        font-family:"微軟正黑體";
+ }
+.class1  A:visited { /* 已瀏覽的連結 */
+        font-size:16px;
+    line-height:1.5em;
+    color: #707070;
+    letter-spacing:1px;
+        text-decoration:none;
+        font-family:"微軟正黑體";
+}
+.class1 A:hover { /* 移動至連結時 */
+        font-size:16px;
+    line-height:1.5em;
+    color: #133c8e;
+    letter-spacing:1px;
+        text-decoration:underline;
+        font-family:"微軟正黑體";
+ }
+.class1 A:focus { /* 聚焦時 */
+        font-size:16px;
+    line-height:1.5em;
+    color: #707070;
+    letter-spacing:1px;
+        text-decoration: none;
+        font-family:"微軟正黑體";
+}
+.class1 A:active { /* 瀏覽連結時 */
+         font-size:16px;
+    line-height:1.5em;
+    color: #707070;
+    letter-spacing:1px;
+        text-decoration: none;
+        font-family:"微軟正黑體";
+}
+.class3{
+ font-size:18px;
+    line-height:1.5em;
+    color: #707070;
+    letter-spacing:1px;
+    font-family:"微軟正黑體";
+}
+</style>
+<div><img src="../upload/attachment/17e2fedc4dd4112599ed5fbd3f626b9e.jpg" alt="" /></div>
+<div align="center" style="background-image:url(../upload/attachment/10e5927bdeecce902ffff5016176b158.jpg); background-repeat: repeat-y; ">
+<div align="left" class="class3" style="padding:0px 10px 10px 25px"><strong>網站導覽</strong></div>
+<table width="97%" border="0" cellspacing="3" cellpadding="5">
+  <tr align="left" valign="top">
+    <td nowrap class="class1"><strong><a href="index.php?code=list&ids=2">公布欄</a></strong></td>
+    <td nowrap class="class1"><strong><a href="index.php?code=list&ids=3">本處簡介</a></strong></td>
+    <td nowrap class="class1"><strong><a href="index.php?code=list&ids=4">展覽活動</a></strong></td>
+    <td nowrap class="class1"><strong><a href="index.php?code=list&ids=5">文教活動</a></strong></td>
+    <td nowrap class="class1"><strong><a href="index.php?code=list&ids=394">研究典藏</a></strong></td>
+    <td nowrap class="class1"><strong><a href="index.php?code=list&ids=6">園區導覽</a></strong></td>
+    <td nowrap class="class1"><strong><a href="index.php?code=list&ids=7">便民服務</a></strong></td>
+    <td nowrap class="class1"><strong><a href="index.php?code=list&ids=8">政府資訊公開</a></strong></td>
+    <td nowrap class="class1"><strong><a href="index.php?code=list&ids=9">多媒體專區</a></strong></td>
+    <td nowrap class="class1"><strong><a href="index.php?code=list&ids=12">志工園地</a></strong></td>
+  </tr>
+  <tr align="left" valign="top">
+    <td nowrap class="class2">‧<a href="index.php?code=list&ids=18">最新消息</a><br>‧<a href="index.php?code=list&ids=19">新聞稿</a><br>‧<a href="index.php?code=list&ids=20">招標公告</a><br>‧<a href="index.php?code=list&ids=329">其它公告</a></td>
+    <td nowrap class="class2">‧<a href="index.php?code=list&ids=21">處長簡介</a><br>‧<a href="index.php?code=list&ids=22">組織架構</a><br>‧<a href="index.php?code=list&ids=3">緣起沿革</a><br>‧<a href="index.php?code=list&ids=24">目標願景</a><br>
+      <a href="index.php?code=list&ids=25">‧設計理念</a><br>‧<a href="index.php?code=list&ids=26">設施介紹</a><br>
+      <a href="index.php?code=list&ids=27">‧參觀資訊</a><br>‧<a href="index.php?code=list&ids=415">本處Logo</a><br>
+      <a href="index.php?">‧民國史上的今天</a>
+      </td>
+    <td nowrap class="class2">‧<a href="index.php?code=list&ids=28">藝文展覽</a><br>‧<a href="index.php?code=list&ids=29">線上特展</a><!--<br>‧<a href="index.php?code=list&ids=50">展覽、典藏<br>及導覽解說</a><br>‧<a href="index.php?code=list&ids=31">合作提案</a>--><br>‧<a href="index.php?code=list&ids=128">展場申請</a><br>‧<a href="index.php?code=list&ids=215">蔣中正總統<br>文物展視室</a><br>‧<a href="index.php?code=list&ids=362">展覽年鑑</a></td>
+    <td nowrap class="class2">‧<a href="index.php?code=list&ids=308">活動快遞</a><br>‧<a href="http://event.culture.tw/CKSMH" target="_blank">生活美學<br>研習</a><br>‧<a tabindex="205" href="index.php?code=list&ids=519">中正藝學堂</a><br>‧<a href="http://event.culture.tw/CKSMH" target="_blank">兒童青少年<br>研習</a><br>‧<a href="index.php?code=list&ids=37">專題講座</a><br>‧<a href="index.php?act=album&code=album&cat=3">活動成果</a><br><a href="index.php?code=list&ids=226">‧學習專區</a></td>
+    <td nowrap class="class2">‧<a href="index.php?code=list&ids=394">學術研究</a><br>
+      <a href="index.php?code=list&ids=399">‧文物典藏</a><br>‧<a href="index.php?code=list&ids=402">品牌與圖<br>像授權</a><br>
+      <!--<a href="http://lib.moc.gov.tw/F?func=find-b-0&local_base=mca02" target="_blank">‧圖書室</a>--><a href="http://www.cksmh.gov.tw/index.php?code=list&ids=410" target="_blank">‧圖書室</a><br>
+      <a href="index.php?code=list&ids=416">‧講座活動</a><!--<br> <a href="index.php?code=list&ids=496">‧數位典藏</a>--></td>
+    <td nowrap class="class2">‧<a href="index.php?code=list&ids=291">公園簡介</a><br>‧<a href="index.php?code=list&ids=39">遊憩專區</a><br>‧<a href="index.php?code=list&ids=40">公園景緻</a><br>‧<a href="index.php?code=list&ids=41">動物昆蟲<br>專區</a><!--<br>‧<a href="index.php?code=list&ids=501">特色植物</a>--><br>
+    ‧<a href="index.php?code=list&ids=502">歷史集錦</a></td>
+    <td nowrap class="class2">‧<a href="index.php?code=list&ids=520">無障礙服務</a><br>‧<a href="index.php?act=form">滿意度問<br>卷調查</a><br>‧<a href="index.php?act=faq">常見問答</a><br>‧<a href="index.php?code=list&ids=47">下載專區</a><br>‧<a href="index.php?code=list&ids=513">課程及活<br>動文宣</a><br>‧<a href="index.php?code=list&ids=48">場地租借</a><br>
+      <a href="index.php?code=list&ids=49">‧展覽申請</a><!--<br>‧<a href="index.php?code=list&ids=43">為民服務<br>白皮書</a><br>‧<a href="index.php?act=chief_mailbox2">首長與民<br>有約</a>--><br>‧<a href="index.php?code=list&ids=50">導覽服務</a><br>‧<a href="index.php?code=list&ids=51">意見反應</a></td>
+    <td nowrap class="class2"><a href="index.php?code=list&ids=378">‧政策宣導<br>相關廣告</a><br>‧<a href="index.php?code=list&ids=52">法令規章</a><br>‧行政規則<br>
+      <a href="index.php?code=list&ids=54">‧行政指導<br>有關文書</a><br>‧<a href="index.php?code=list&ids=55" target="_blank">施政計畫</a><br>‧<a href="index.php?code=list&ids=56">業務統計</a><br>‧<a href="index.php?code=list&ids=57">研究報告</a><br>‧<a href="index.php?code=list&ids=58">預算及決算書</a><br>‧<a href="index.php?code=list&ids=59">請願處理結果及<br>訴願決定</a><br>‧<a href="index.php?code=list&ids=61">書面之公共工程<br>及採購契約</a><br>‧<a href="index.php?code=list&ids=62">支付或接受補助</a><br>‧<a href="index.php?code=list&ids=235">本處組織職掌及<br>連絡資訊</a><br>‧<a href="index.php?code=list&ids=236">合議制機關之會<br>議紀錄</a></td>
+    <td nowrap class="class2">‧<a href="index.php?code=list&ids=63">景點導覽</a><br>‧<a href="index.php?code=list&ids=64">虛擬實景<br>360VR</a><br>‧<a href="index.php?act=ecard">電子賀卡</a><br>‧<a href="index.php?act=tablecloth">桌布下載</a><br>‧<a href="index.php?code=list&ids=67">出版品</a></td>
+    <td nowrap class="class2">‧<a href="index.php?code=list&ids=71">學生公共<br>服務</a><br>‧<a href="index.php?act=volunteer&code=add">志工招募<br>及報名</a><br>‧<a href="index.php?code=list&ids=73">志工相關<br>法規</a><br>‧<a href="index.php?code=list&ids=74">志工訓練</a><br>‧<a href="index.php?code=list&ids=75">活動訊息</a><br>‧<a href="index.php?code=list&ids=76">活動剪影</a><br>‧<a href="index.php?code=list&ids=254">志工下載<br>專區</a></td>
+  </tr>
+</table></div>
+<div id="down" style="Z-INDEX: 2; POSITION: absolute"><a class="down" title="下方連結區" accesskey="B" href="#downarea" tabindex="300">
+<font color="#007cc3">:::</font></a></div>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" summary="*">
+    <tbody>
+        <tr>
+            <td valign="top" align="left"><img border="0" alt="*" src="upload/webstyle_2/bottom_01.jpg" /></td>
+        </tr>
+        <tr>
+            <td valign="top" background="upload/webstyle_2/bottom_10.jpg" align="left">
+            <table border="0" cellspacing="0" cellpadding="0" width="100%" summary="*">
+                <tbody>
+                    <tr>
+                        <td style="PADDING-LEFT: 128px" class="bottom" valign="bottom" width="1%" nowrap="nowrap" align="left">總瀏覽人次：<img alt="40977559" src="index.php?act=counter&counter=40977559" /></td>
+                        <td style="PADDING-LEFT: 15px" class="bottom" valign="bottom" align="left">網站更新日期：2016-11-06</td>
+                        <td valign="bottom" width="1%" align="left">
+                        <table border="0" cellspacing="0" cellpadding="0" width="100%" summary="*">
+                            <tbody>
+                                <tr>
+                                    <td valign="top" align="left"><a target="_blank" href="http://www.adobe.com/tw/downloads/" tabindex="301" title="flash下載（另開新視窗）"><img border="0" alt="flash下載（另開新視窗）" src="upload/webstyle_2/bottom_02.jpg" /></a></td>
+                                    <td valign="top" align="left"><a href="index.php?code=list&ids=17" tabindex="302" title="隱私權及資訊安全政策"><img border="0" alt="隱私權及資訊安全政策" src="upload/webstyle_2/bottom_03.jpg" /></a></td>
+                                    <td valign="top" align="left"><a href="index.php?act=chief_mailbox" tabindex="303" title="首長信箱"><img border="0" alt="首長信箱" src="upload/webstyle_2/bottom_05.jpg" /></a></td>
+                                    <td valign="top" align="left"><a href="index.php?code=list&flag=detail&ids=15&article_id=1883" tabindex="304" title="RSS訂閱說明"><img border="0" alt="RSS訂閱說明" src="upload/webstyle_2/bottom_06.jpg" /></a></td>
+                                    <td valign="top" align="left"><img border="0" alt="*" src="upload/webstyle_2/bottom_07.jpg" /></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <tr>
+            <td style="PADDING-BOTTOM: 5px; PADDING-TOP: 5px" valign="top" background="upload/webstyle_2/bottom_10.jpg" align="left">
+            <table border="0" cellspacing="0" cellpadding="0" width="100%" summary="*">
+                <tbody>
+                    <tr>
+                        <td style="PADDING-LEFT: 30px" valign="middle" width="1%" align="left"><a title="無障礙網站（另開新視窗）" target="_blank" href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20140210150124" tabindex="305"><img border="0" alt="通過A+等級無障礙網頁檢測（另開新視窗）" width="88" height="31" src="upload/webstyle_2/bottom_08.jpg" /></a></td>
+                        <td style="PADDING-LEFT: 10px" class="bottom" valign="middle" align="left">地址：10048- 臺北市中正區中山南路21號　　電話：02-2343-1100<br />
+                        建議使用Microsoft Internet Explorer 8.0 以上的版本 螢幕解析度1024*768　　Copyright © 國立中正紀念堂管理處 All Rights Reserved.</td>
+                        <td style="PADDING-RIGHT: 30px" valign="middle" width="1%" align="left"><a target="_blank" href="http://www.gov.tw" tabindex="306" title="我的E政府（另開新視窗）"><img border="0" alt="我的E政府（另開新視窗）" src="upload/webstyle_2/bottom_09.jpg" /></a></td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+  </tr>
+</table>
+<!--
+<p align="center">
+
+-->
+</html>

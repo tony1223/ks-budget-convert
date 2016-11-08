@@ -1,0 +1,252 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>會計室專區</title>
+<style type="text/css">
+<!--
+body,td,th {
+	color: #D4D0C8;
+	text-align: center;
+}
+body {
+	background-color: #FFFFFF;
+	color: #F00;
+}
+.style4 {
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: x-large;
+}
+.style6 {color: #000000; font-weight: bold; }
+.style7 {
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 12px;
+}
+.test {
+	color: #F00;
+	font-family: 新細明體;
+}
+    .style8
+    {
+        font-weight: bold;
+    }
+    .style9
+    {
+        color: #F00;
+    }
+    .style10
+    {
+        height: 60px;
+    }
+    .style11
+    {
+        color: #F00;
+        font-family: 新細明體;
+    }
+    .style12
+    {
+        color: #000099;
+        font-family: 新細明體;
+    }
+    .style13
+    {
+        font-family: 新細明體;
+    }
+    .style14
+    {
+        font-family: "標楷體";
+    }
+    .style15
+    {
+        color: #CC3300;
+        font-weight: bold;
+    }
+    .style16
+    {
+        height: 61px;
+    }
+    .style17
+    {
+        background-color: #FFFFFF;
+    }
+-->
+</style>
+</head>
+
+<body>
+<div align="center">
+  <form id="Form2" name="Form1" action="WebForm6.aspx" method="post">
+    <div>
+    <input id="__VIEWSTATE3" type="hidden" value="/wEPDwULLTEwODM1ODE1MzUPZBYCAgEPZBYCAgEPPCsADQEADxYEHgtfIURhdGFCb3VuZGceC18hSXRlbUNvdW50AgJkFgJmD2QWBgIBD2QWBmYPDxYCHgRUZXh0BQExZGQCAQ8PFgIfAgUM5ZyL5paHICAgICAgZGQCAg8PFgIfAgUUTDEgICAgICAgICAgICAgICAgICBkZAICD2QWBmYPDxYCHwIFATRkZAIBDw8WAh8CBQzoi7HmlocgICAgICBkZAICDw8WAh8CBRRMMSAgICAgICAgICAgICAgICAgIGRkAgMPDxYCHgdWaXNpYmxlaGRkGAEFCUdyaWRWaWV3Mg88KwAJAQgCAWRHt0RGT8Z/EwuqZDgFtJrC/6BCfQ==" name="__VIEWSTATE3" />
+    <font face="新細明體">&nbsp;</font>
+    <div>
+      <table width="805" height="960" border="0" cellpadding="4" cellspacing="0" id="GridView3" style="WIDTH: 908px; COLOR: #333333; BORDER-COLLAPSE: collapse">
+        <tbody>
+          <tr style="FONT-WEIGHT: bold; COLOR: white; BACKGROUND-COLOR: #1c5e55">
+            <th scope="col" class="style10"><span class="style4">台灣高等法院台南分院會計室專區</span></th>
+             </tr>
+               <tr style="BACKGROUND-COLOR: #e3eaeb">
+             <td height="60">
+            <div align="center" class="style17">
+                <span class="style6">
+                <a href="105年度法定預算.pdf">本院105年度法定預算(pdf)<span class="test">(105.1.20公告)</span> </a>
+                    <br />
+                <a href="105-法定預算-(Excel、Word)20160120113203.zip">本院105年度單法定預算(Excel,word)<span class="test">(105.1.20公告)</span> </a>
+                    <br />
+                <a href="105-法定預算-(Xml)20160120113433.zip">本院105年度法定預算(xml)<span class="test">(105.1.20公告) </span></a>
+                            </div>    </td> </span>
+          </tr>
+               <tr style="BACKGROUND-COLOR: #e3eaeb">                                    
+               
+            <td class="style10">
+            
+                <span class="style6">
+                <a href="105年度單位預算案.pdf">本院105年度單位預算案<span class="style14"><span class="style12" lang="zh-tw">(pdf)</span></span><span class="test">(10<span 
+                    lang="zh-tw">4</span>.<span 
+                    lang="zh-tw">9</span>.<span lang="zh-tw">3</span>公告)</span> </a>
+                    <br />
+                <a href="105-預算案-(Excel、Word)20150902183830.zip">本院105年度單位預算案<span class="style14"><span class="style12" lang="zh-tw">(Excel,word)</span></span><span class="test">(10<span 
+                    lang="zh-tw">4</span>.<span 
+                    lang="zh-tw">9</span>.<span lang="zh-tw">3</span>公告)</span> </a>
+                    <br />
+                <a href="105-預算案-(XML)20150902184007.zip">本院105年度單位預算案<span class="style14"><span class="style12" lang="zh-tw">(xml)</span></span><span class="test">(10<span 
+                    lang="zh-tw">4</span>.<span  lang="zh-tw">9</span>.<span lang="zh-tw">3</span>公告)</span> </a>
+                                </td>
+          </tr>
+               <tr style="BACKGROUND-COLOR: #e3eaeb">
+            <td height="60">
+            
+            <div align="center" class="style17">
+                <br />
+                <span class="style6">
+            
+                <a href="103年決算公告版.pdf">本院10<span lang="zh-tw">3</span>年度<a href="103年決算公告版.pdf">中央政府總決算書</a><span class="style14"><span class="style12" lang="zh-tw">(pdf)</span></span><span class="test">(10<span 
+                    lang="zh-tw">4</span>.<span 
+                    lang="zh-tw">4</span>.<span lang="zh-tw">23</span>公告)</span> </a>
+                    <br />
+                <a href="103年決算書表XML.zip">本院10<span lang="zh-tw">3</span>年度中央政府總決算書</a><span class="style14"><span class="style12" lang="zh-tw">(xml)</span></span><span class="test">(10<span 
+                    lang="zh-tw">4</span>.<span 
+                    lang="zh-tw">4</span>.<span lang="zh-tw">23</span>公告)<br />
+                </span><br />
+                                </div>
+            
+            <div align="center" class="style16"><span class="style6"> <a href="104年度法定預算.pdf">               
+                本院104年度法定預算書(pdf)<span class="style9"></span></a></span><span class="style8"><span 
+                    class="style12" lang="zh-tw"></span></span><span class="style6"><span class="test">(104.3.3)<br />
+                <span class="style11"> <a href="104法定預算.zip">               
+                本院104年度法定預算書<span class="style9"></span></a></span></span><span class="style14"><span 
+                    class="style13"><span class="style8"><span class="style12" lang="zh-tw">(xml)</span></span><span 
+                    class="style15">(104.3.<span lang="zh-tw">3</span>)<br />
+                   <span class="style6"><span class="style11"> <a href="104-法定預算(ZIP).zip">               
+                本院104年度法定預算書<span class="style9"></span></a></span></span><span class="style8"><span class="style12" lang="zh-tw">(xls,doc)</span></span>(104.3.<span lang="zh-tw">3</span>)</span></span></span></span></div>
+                                </td>
+          </tr>
+            <tr style="BACKGROUND-COLOR: #e3eaeb">
+            <td bgcolor="#FFFFFF" class="style10"><div align="center"><span class="style6">
+                <a href="104年度單位預算案.pdf">本院104年度單位預算案<span class="style14"><span class="style12" lang="zh-tw">(pdf)</span></span><span class="test">(103.<span 
+                    lang="zh-tw">9</span>.<span lang="zh-tw">3</span>公告)</span> </a>
+                    <br /><a href="104預算案.zip">本院104年度單位預算案<span class="style14"><span class="style12" lang="zh-tw">(xml)</span></span><span class="test">(103.<span 
+                    lang="zh-tw">9</span>.<span lang="zh-tw">3</span>公告)</span></a></div></td>
+          </tr>
+            </tr>
+                <tr style="BACKGROUND-COLOR: #e3eaeb">
+            <td height="60"><div align="center"><span class="style6"><a href="102年單位決算書.pdf">
+                
+                本院102年度中央政府總決算書<span class="test">(103.3.10)</td>
+          </tr>
+            <tr style="BACKGROUND-COLOR: #e3eaeb">
+            <td height="60" bgcolor="#FFFFFF"><div align="center"><span class="style6">
+                <a href="103法定預算書.pdf">
+                本院103年度法定預算書<span class="test">(103.3.5公告)</span></div></td>
+          </tr>
+                <tr style="BACKGROUND-COLOR: #e3eaeb">
+            <td height="60"><div align="center"><span class="style6"><a href="103單位預算案.pdf">
+                本院10<span lang="zh-tw">3</span>年度中央政府總預算案<span lang="zh-tw"></span></a></span><span class="test">(10<span 
+                    lang="zh-tw">2.9</span>.<span lang="zh-tw">3</span>公告)</span>1&gt;</td>
+          </tr>
+            <tr style="BACKGROUND-COLOR: #e3eaeb">
+            <td height="60" bgcolor="#FFFFFF"><div align="center"><span class="style6">
+                <a href="102法定預算書.pdf">
+                本院10<span lang="zh-tw">2</span>年度<span lang="zh-tw">法定</span>預算書</a></span><span class="test">(102.3.4公告)</span></div></td>
+          </tr>
+             <tr style="BACKGROUND-COLOR: #e3eaeb">
+            <td height="60"><div align="center"><span class="style6"><a href="102預算書.pdf">
+                本院102年度中央政府總預算書</a></span><span class="test">(101.12.21公告)</span>1</div></td>
+          </tr>
+            <tr style="BACKGROUND-COLOR: #e3eaeb">
+            <td height="60" bgcolor="#FFFFFF"><div align="center"><span class="style6"><a href="101年單位決算書.pdf">
+                本院10<span lang="zh-tw">1</span>年度中央政府總決算書</a></span><span class="test">(10<span 
+                    lang="zh-tw">2</span>.<span lang="zh-tw">2</span>.2<span lang="zh-tw">3</span>公告)</span></div></td>
+          </tr>
+            <tr style="BACKGROUND-COLOR: #e3eaeb">
+            <td height="60"><div align="center"><span class="style6"><a href="101單位總預算.pdf">
+                本院101年度中央政府總預算書</a></span><span class="test">(101.2.2公告)</span>1</div></td>
+          </tr>
+          <tr style="BACKGROUND-COLOR: #e3eaeb">
+            <td height="60" bgcolor="#FFFFFF"><div align="center"><span class="style6"><a href="100決算書.pdf">
+                本院100年度中央政府總決算書</a></span><span class="test">(101.3.2公告)</span></div></td>
+          </tr>
+          
+          <tr style="BACKGROUND-COLOR: #e3eaeb">
+            <td height="60"><div align="center"><span class="style6"><a href="100年中央政府總預算.pdf">
+                本院100年度中央政府總預算書</a></span><span class="test">(100.3.7公告)</span></div></td>
+          </tr>
+          <tr style="BACKGROUND-COLOR: #e3eaeb">
+            <td height="60" bgcolor="#FFFFFF"><div align="center"><span class="style6"><a href="99年度中央政府總決算.pdf">
+                本院99年度中央政府總決算書</a></span><span class="test">(100.2.18公告)</span></div></td>
+          </tr>
+          <tr style="BACKGROUND-COLOR: #e3eaeb">
+            <td height="60"><p align="center"><span class="style6"><a href="99年中央政府總預算.pdf">
+                本院99年度中央政府總預算書</a></span><span class="test">(99.3.18公告)</span></p>              </td>
+          </tr>
+          <tr style="BACKGROUND-COLOR: #e3eaeb">
+            <td height="60" bgcolor="#FFFFFF"><div align="center"><span class="style6"><a href="98年中央政政總預算.pdf">
+                本院98年度中央政府總決算書</a></span><span class="test">(99.2.23公告)</span></div></td>
+            </tr>
+          
+          <tr style="BACKGROUND-COLOR: white">
+            <td bgcolor="#E3EAEB"><div align="center"><span class="style6"><a href="98年中央政政總預算.pdf">
+                本院98年度中央政府總預算書</a></span><span class="test">(98.3.2公告)</span></div></td>
+          </tr>
+          <tr style="BACKGROUND-COLOR: white">
+            <td height="60" bgcolor="#FFFFFF"><div align="center"><span class="style6"><a href="97決算.pdf">
+                本院97年度中央政府總決算書</a></span><span class="test">(98.2.25公告)</span></div></td>
+          </tr>
+          <tr style="BACKGROUND-COLOR: white">
+            <td height="60" bgcolor="#E3EAEB"><div align="center"><span class="style6"><a href="97中央政府總預算書.pdf">
+                本院97年度中央政府總預算書</a></span><span class="test">(97.7.18公告)</span></div></td>
+          </tr>
+          <tr style="BACKGROUND-COLOR: white">
+            <td height="60" bgcolor="#FFFFFF"><b><a href="96年度中央政府總決算.pdf">
+                本院96年度中央政府總決算書</a></b><span class="test">(97.9.30公告)</span></td>
+          </tr>
+          <tr style="BACKGROUND-COLOR: white">
+            <td height="60" bgcolor="#E3EAEB"><div align="center"><b><a href="96年度預算書.pdf">
+                本院96年度中央政府總預算書</a></b><span class="test">(97.10.13公告)</span></div></td>
+          </tr>
+          <tr style="BACKGROUND-COLOR: white">
+            <td height="60" bgcolor="#FFFFFF"><b><a href="95年決算.pdf">本院95年度中央政府總決</a><a 
+                    href="96年度預算書.pdf">算書</a></b><span class="test">(97.9.30公告)</span></td>
+          </tr>
+           <tr style="BACKGROUND-COLOR: white">
+             <td height="60" bgcolor="#E3EAEB"><div align="center"><a href="95年度預算書.pdf" 
+                     class="style8">
+                 本院95年度中央政府總預算書</a><span class="test">(97.10.20公告)</span></div></td>
+           </tr>
+           <tr style="BACKGROUND-COLOR: white">
+            <td height="60" bgcolor="#E3EAEB"><div align="center"><a href="94年決算.pdf" 
+                    class="style8">
+                本院94年度中央政府總決算書</a><span class="test">(97.10.20公告)</span></div></td>
+          </tr>
+          <tr style="BACKGROUND-COLOR: white">
+            <td height="60" bgcolor="#1C5E55"><div align="center" class="style7">
+              <div align="right">10<span lang="zh-tw">2</span>/0<span lang="zh-tw">3</span>/0<span 
+                      lang="zh-tw">4</span>更新
+  <PagerStyle BackColor="#666666" ForeColor="White" HorizontalAlign="Center" />
+  <HeaderStyle BackColor="#1C5E55" Font-Bold="True" ForeColor="White" />
+</asp:GridView>
+</body>
+</html>

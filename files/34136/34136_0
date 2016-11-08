@@ -1,0 +1,403 @@
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<title>臺灣台南地方法院 Taiwan Tainan District Court</title>
+<meta name="author" CONTENT="網頁設計：chun-cheng chen 095-507-507-1">
+
+<link href="Css/tnd.css" type="text/css" rel="stylesheet">
+
+<style type="text/css">
+<!--
+.style9 {	font-size: 18px;
+	font-family: "標楷體";
+	color: #FF6600;
+	font-weight: bold;
+}
+-->
+</style>
+</head>
+
+
+<body style="margin:0 0 0 0" onLoad="MM_preloadImages('images/but1a.gif','images/but2a.gif','images/but3a.gif','images/but4a.gif','images/but5a.gif')" bgcolor="#EAFAFD">
+
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<NOSCRIPT><P>您的瀏覽器不支援 JavaScript，可能會影響您讀取本網站的內容。</P></NOSCRIPT>
+<script language="JavaScript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function favority() {
+	var myfar;
+	var mytitle;
+	myfar="http://tnd.judicial.gov.tw/";
+	mytitle="臺灣臺南地方法院全球資訊網";
+	if (navigator.appName!="Netscape"){
+		window.external.AddFavorite(myfar, mytitle);
+	}else{
+		window.location = myfar;
+	}
+}
+//-->
+</script>
+<NOSCRIPT><P>您的瀏覽器不支援 JavaScript，可能會影響您讀取本網站的內容。</P></NOSCRIPT>
+
+<table border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#0156B6" id="AutoNumber1" style="width:1003px;" summary="排版用表格">
+  <tr>
+    <td align="center"><a href="#" title="上方瀏覽區塊" class="aa" accesskey="U" tabindex="1">:::</a></td>
+    <td width="44%" align="right">
+    <img border="0" src="images/top2.gif" width="399" height="34" alt=""></td>
+    
+    <td width="2%" align="center">
+    	<a href="index1.asp" onMouseOut="MM_swapImgRestore()" onBlur="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image2','','images/but1a.gif',1)" onFocus="MM_swapImage('Image2','','images/but1a.gif',1)" title="回首頁" tabindex="3">
+    		<img src="images/but1.gif" name="Image2" border="0" width="78" height="34" alt="回首頁"></a></td>
+    <!--<td width="2%" align="center">
+    	<a onfocus="MM_swapImage('Image4','','images/but3a.gif',1)" onmouseout="MM_swapImgRestore()" href="#" onblur="MM_swapImgRestore()" title="設為首頁" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://tnd.judicial.gov.tw');" onmouseover="MM_swapImage('Image4','','images/but3a.gif',1)" tabindex="3" onkeypress="this.style.behavior='url(#default#homepage)';this.setHomePage('http://tnd.judicial.gov.tw');">
+    		<img src="images/but3.gif" name="Image4" border="0" width="78" height="34" alt="設為首頁" tabindex="2"></a></td>-->
+    <td width="2%" align="center">
+    	<a href="SiteMap.asp" onMouseOut="MM_swapImgRestore()" onBlur="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image5','','images/but4a.gif',1)" onFocus="MM_swapImage('Image5','','images/but4a.gif',1)" title="網站導覽" tabindex="4">
+    		<img src="images/but4.gif" name="Image5" border="0" width="77" height="34" alt="網站導覽"></a></td>
+  <td width="2%" align="center">
+    	<a href="./en/index1.asp" onMouseOut="MM_swapImgRestore()" onBlur="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image6','','images/but5a.gif',1)" onFocus="MM_swapImage('Image6','','images/but5a.gif',1)" title="English Version [英文版]" tabindex="5">
+    		<img src="images/but5.gif" name="Image6" border="0" width="76" height="34" alt="English Version [英文版]"></a></td>
+    <td width="2%" align="center" background="images/top3.gif">&nbsp;</td>
+  </tr>
+</table>
+
+
+<table border="0" align="center" cellpadding="0" cellspacing="0" id="AutoNumber2" style="width:1003px;" summary="排版用表格">
+  <tr>
+    <td height="145" align="center">
+    <img border="0" src="images/top4.gif" width="207" height="145" alt="台灣台南地方法院：台南市健康路3段308號  06-2956566（總機） 06-2956315（傳真）"><img border="0" src="images/top5.gif" width="399" height="145" alt="台灣台南地方法院：台南市健康路3段308號  06-2956566（總機） 06-2956315（傳真）" /></td>
+    <td width="25%" align="center" bgcolor="#AFEEFD">
+   	  <script type="text/javascript">
+			AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','373','height','139','title','臺南地方法院建築物外觀輪播Flash動畫','src','images/top1','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','images/top1' ); //end AC code
+		</script>
+		<NOSCRIPT>
+			<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="373" height="139">
+      		<param name="movie" value="images/top1.swf">
+     		<param name="quality" value="high">
+      		<embed src="images/top1.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="373" height="139"></embed>臺南地方法院建築物外觀輪播Flash動畫
+    		</object>
+    	</NOSCRIPT>
+    </td>
+    <td width="5%" align="center" background="images/top6.gif">&nbsp;</td>
+  </tr>
+</table>
+
+<table border="0" align="center" cellpadding="0" cellspacing="0" style="width:1003px;" summary="排版用表格" id="tb_Menu">
+  <tr>
+    <td width="1005" valign="middle" background="images/Button/bg.jpg"><div align="center">
+    	<a href="HitTakeDown.asp?wp=111" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('b1','','images/Button/bt1_2.jpg',1)" onfocus="MM_swapImage('b1','','images/Button/bt1_2.jpg',1)" onblur="MM_swapImgRestore()" tabindex="5"><img src="images/Button/bt1_1.jpg" name="b1" width="83" height="26" border="0" alt="認識本院"></a>&nbsp;
+    	<a href="HitTakeDown.asp?wp=224" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('b2','','images/Button/bt2_2.jpg',1)" onfocus="MM_swapImage('b2','','images/Button/bt2_2.jpg',1)" onblur="MM_swapImgRestore()" tabindex="6"><img src="images/Button/bt2_1.jpg" name="b2" width="83" height="26" border="0" alt="業務簡介"></a>&nbsp;
+    	<a href="HitTakeDown.asp?wp=334" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('b3','','images/Button/bt3_2.jpg',1)" onfocus="MM_swapImage('b3','','images/Button/bt3_2.jpg',1)" onblur="MM_swapImgRestore()" tabindex="7"><img src="images/Button/bt3_1.jpg" name="b3" width="83" height="26" border="0" alt="便民服務"></a>&nbsp;
+    	<a href="HitTakeDown.asp?wp=440" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('b4','','images/Button/bt4_2.jpg',1)" onfocus="MM_swapImage('b4','','images/Button/bt4_2.jpg',1)" onblur="MM_swapImgRestore()" tabindex="8"><img src="images/Button/bt4_1.jpg" name="b4" width="83" height="26" border="0" alt="公告查詢"></a>&nbsp;
+    	<a href="HitTakeDown.asp?wp=511" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('b5','','images/Button/bt5_2.jpg',1)" onfocus="MM_swapImage('b5','','images/Button/bt5_2.jpg',1)" onblur="MM_swapImgRestore()" target="_blank" tabindex="9"><img src="images/Button/bt5_1.jpg" name="b5" width="83" height="26" border="0" alt="少家園地[開新視窗]"></a>&nbsp;
+    	<a href="HitTakeDown.asp?wp=512" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('b10','','images/Button/bt10_2.jpg',1)" onfocus="MM_swapImage('b10','','images/Button/bt10_2.jpg',1)" onblur="MM_swapImgRestore()" target="_blank" tabindex="10"><img src="images/Button/bt10_1.jpg" name="b10" width="83" height="26" border="0" alt="家事園地[開新視窗]"></a>&nbsp;
+    	<a href="HitTakeDown.asp?wp=61" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('b6','','images/Button/bt6_2.jpg',1)" onfocus="MM_swapImage('b6','','images/Button/bt6_2.jpg',1)" onblur="MM_swapImgRestore()" tabindex="11"><img src="images/Button/bt6_1.jpg" name="b6" width="83" height="26" border="0" alt="採購公告"></a>&nbsp;
+    	<a href="HitTakeDown.asp?wp=71" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('b7','','images/Button/bt7_2.jpg',1)" onfocus="MM_swapImage('b7','','images/Button/bt7_2.jpg',1)" onblur="MM_swapImgRestore()" tabindex="12"><img src="images/Button/bt7_1.jpg" name="b7" width="83" height="26" border="0" alt="徵才公告"></a>&nbsp;
+    	<a href="HitTakeDown.asp?wp=81" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('b8','','images/Button/bt8_2.jpg',1)" onfocus="MM_swapImage('b8','','images/Button/bt8_2.jpg',1)" onblur="MM_swapImgRestore()" tabindex="13"><img src="images/Button/bt8_1.jpg" name="b8" width="83" height="26" border="0" alt="重要訊息"></a>&nbsp;
+   		<a href="HitTakeDown.asp?wp=91" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('b9','','images/Button/bt9_2.jpg',1)" onfocus="MM_swapImage('b9','','images/Button/bt9_2.jpg',1)" onblur="MM_swapImgRestore()" tabindex="14"><img src="images/Button/bt9_1.jpg" name="b9" width="83" height="26" border="0" alt="網路芳鄰"></a>&nbsp;</div></td>
+  </tr>
+</table>
+
+
+<table height="60%" border="0" align="center" cellpadding="0" cellspacing="0" summary="排版用表格" style="width:1003px;">
+  <tr>
+    <td width="200" valign="top"><a href="#" title="左方導覽區塊" class="bb" accesskey="L">:::</a><br>
+    
+ 
+      <table width="197" border="0" align="center" cellpadding="0" cellspacing="0" summary="排版用表格">
+        <tr>
+          <td><img src="images/P0/M2L.jpg" alt="業務簡介" width="197" height="34"></td>
+        </tr>
+        <tr>
+          <td height="25" background="images/P0/UL2.jpg"><br />
+            <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" summary="排版用表格">
+            <tr>
+              <td width="26%" height="25"><div align="center"><img src="images/Dot/dot_t1.gif" alt="*" width="13" height="13"></div></td>
+              <td width="74%" height="25"><a href="HitTakeDown.asp?wp=224" class="DBlueLink">公證業務</a></td>
+            </tr>
+            <tr>
+              <td colspan="2" background="images/P0/BLine.jpg"></td>
+              </tr>
+          </table>
+		    <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" summary="排版用表格">
+              <tr>
+                <td width="26%" height="25"><div align="center"><img src="images/Dot/dot_t1.gif" alt="*" width="13" height="13"></div></td>
+                <td width="74%" height="25"><a href="HitTakeDown.asp?wp=225" class="DBlueLink">提存業務</a></td>
+              </tr>
+              <tr>
+                <td colspan="2" background="images/P0/BLine.jpg"></td>
+              </tr>
+            </table>
+		    <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" summary="排版用表格">
+              <tr>
+                <td width="26%" height="25"><div align="center"><img src="images/Dot/dot_t1.gif" alt="*" width="13" height="13"></div></td>
+                <td width="74%" height="25"><a href="HitTakeDown.asp?wp=226" class="DBlueLink">登記業務</a></td>
+              </tr>
+              <tr>
+                <td colspan="2" background="images/P0/BLine.jpg"></td>
+              </tr>
+            </table>
+		    <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" summary="排版用表格">
+              <tr>
+                <td width="26%" height="25"><div align="center"><img src="images/Dot/dot_t1.gif" alt="*" width="13" height="13"></div></td>
+                <td width="74%" height="25"><a href="HitTakeDown.asp?wp=227" class="DBlueLink">會計業務</a></td>
+              </tr>
+              <tr>
+                <td colspan="2" background="images/P0/BLine.jpg"></td>
+              </tr>
+            </table>
+	        <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" summary="排版用表格">
+              <tr>
+                <td width="26%" height="25"><div align="center"><img src="images/Dot/dot_t1.gif" alt="*" width="13" height="13"></div></td>
+                <td width="74%" height="25"><a href="HitTakeDown.asp?wp=228" class="DBlueLink">出納業務</a></td>
+              </tr>
+              <tr>
+                <td colspan="2" background="images/P0/BLine.jpg"></td>
+              </tr>
+            </table>
+            <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" summary="排版用表格">
+              <tr>
+                <td width="26%" height="25"><div align="center"><img src="images/Dot/dot_t1.gif" alt="*" width="13" height="13"></div></td>
+                <td width="74%" height="25"><a href="HitTakeDown.asp?wp=229" class="DBlueLink">現金保業務</a></td>
+              </tr>
+              <tr>
+                <td colspan="2" background="images/P0/BLine.jpg"></td>
+              </tr>
+            </table>
+            <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" summary="排版用表格">
+              <tr>
+                <td width="26%" height="25"><div align="center"><img src="images/Dot/dot_t1.gif" alt="*" width="13" height="13"></div></td>
+                <td width="74%" height="25"><a href="HitTakeDown.asp?wp=233" class="DBlueLink">行政訴訟業務</a></td>
+              </tr>
+              <tr>
+                <td colspan="2" background="images/P0/BLine.jpg"></td>
+              </tr>
+            </table>
+            <!--
+            <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" summary="排版用表格">
+              <tr>
+                <td width="26%" height="25"><div align="center"><img src="images/Dot/dot_t1.gif" alt="*" width="13" height="13"></div></td>
+                <td width="74%" height="25"><a href="HitTakeDown.asp?wp=230" class="DBlueLink">民事執行業務</a></td>
+              </tr>
+              <tr>
+                <td colspan="2" background="images/P0/BLine.jpg"></td>
+              </tr>
+            </table>
+            <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" summary="排版用表格">
+              <tr>
+                <td width="26%" height="25"><div align="center"><img src="images/Dot/dot_t1.gif" alt="*" width="13" height="13"></div></td>
+                <td width="74%" height="25"><a href="HitTakeDown.asp?wp=231" class="DBlueLink">民事業務</a></td>
+              </tr>
+              <tr>
+                <td colspan="2" background="images/P0/BLine.jpg"></td>
+              </tr>
+            </table>
+            <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" summary="排版用表格">
+              <tr>
+                <td width="26%" height="25"><div align="center"><img src="images/Dot/dot_t1.gif" alt="*" width="13" height="13"></div></td>
+                <td width="74%" height="25"><a href="HitTakeDown.asp?wp=232" class="DBlueLink">刑事業務</a></td>
+              </tr>
+              <tr>
+                <td colspan="2" background="images/P0/BLine.jpg"></td>
+              </tr>
+            </table>
+            -->
+          <br /></td>
+        </tr>
+        <tr>
+          <td><img src="images/P0/UL3.jpg" alt=" " width="197" height="8"></td>
+        </tr>
+      </table>
+
+</td>
+    <td valign="top"><a href="#" title="中央內容區" class="bb" accesskey="C">:::</a><br>
+      <table width="98%" border="0" align="center" cellpadding="0" cellspacing="0" summary="排版用表格">
+      <tr>
+        <td><img src="Titles/P07_Title.jpg" alt="會計業務" width="163" height="63"><span class="style9">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;單位預算</span></td>
+      </tr>
+    </table>
+    <br>
+    <table width="98%" border="0" align="center" cellpadding="3" cellspacing="3" summary="排版用表格">
+      <tr>
+        <td width="15%"><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td width="46%"><a href="Html/106年度臺灣臺南地方法院單位預算案(PDF).pdf" title="106年度臺灣臺南地方法院單位預算案(PDF).pdf" class="DBlueLink">106年度臺灣臺南地方法院單位預算案(PDF)</a></td>
+        <td width="39%">105年8月26日</td>
+      </tr>
+      <tr>
+        <td width="15%"><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td width="46%"><a href="Html/106年度臺灣臺南地方法院單位預算案(XLS).7z" title="106年度臺灣臺南地方法院單位預算案(XLS).7z" class="DBlueLink">106年度臺灣臺南地方法院單位預算案(XLS)</a></td>
+        <td width="39%">105年8月26日</td>
+      </tr>
+      <tr>
+        <td width="15%"><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td width="46%"><a href="Html/106年度臺灣臺南地方法院單位預算案(XML).7z" title="106年度臺灣臺南地方法院單位預算案(XML).7z" class="DBlueLink">106年度臺灣臺南地方法院單位預算案(XML)</a></td>
+        <td width="39%">105年8月26日</td>
+      </tr>
+      <tr>
+        <td width="15%"><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td width="46%"><a href="Html/106年度臺灣臺南地方法院單位預算案總說明.doc" title="106年度臺灣臺南地方法院單位預算案總說明.doc" class="DBlueLink">106年度臺灣臺南地方法院單位預算案總說明</a></td>
+        <td width="39%">105年8月26日</td>
+      </tr>
+           
+      
+      <tr>
+        <td width="15%"><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td width="46%"><a href="Html/105年度臺灣臺南地方法院單位預算(PDF).pdf" title="105年度臺灣臺南地方法院單位預算(PDF).pdf" class="DBlueLink">105年度臺灣臺南地方法院單位預算(PDF)</a></td>
+        <td width="39%">105年1月30日</td>
+      </tr>
+      <tr>
+        <td width="15%"><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td width="46%"><a href="Html/105年度臺灣臺南地方法院單位預算(XLS).7z" title="105年度臺灣臺南地方法院單位預算(XLS).7z" class="DBlueLink">105年度臺灣臺南地方法院單位預算(XLS)</a></td>
+        <td width="39%">105年1月30日</td>
+      </tr>
+      <tr>
+        <td width="15%"><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td width="46%"><a href="Html/105年度臺灣臺南地方法院單位預算(XML).7z" title="105年度臺灣臺南地方法院單位預算(XML).7z" class="DBlueLink">105年度臺灣臺南地方法院單位預算(XML)</a></td>
+        <td width="39%">105年1月30日</td>
+      </tr>
+      <tr>
+        <td width="15%"><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td width="46%"><a href="Html/105年度臺灣臺南地方法院單位預算總說明.doc" title="105年度臺灣臺南地方法院單位預算總說明.doc" class="DBlueLink">105年度臺灣臺南地方法院單位預算總說明</a></td>
+        <td width="39%">105年1月30日</td>
+      </tr>
+      
+      <tr>
+        <td width="15%"><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td width="46%"><a href="Html/105年度臺灣臺南地方法院單位預算案總說明.doc" title="105年度臺灣臺南地方法院單位預算案總說明.doc" class="DBlueLink">105年度臺灣臺南地方法院單位預算案總說明</a></td>
+        <td width="39%">104年9月7日</td>
+      </tr>
+      <tr>
+        <td width="15%"><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td width="46%"><a href="Html/105年度臺灣臺南地方法院單位預算案(PDF).pdf" title="105年度臺灣臺南地方法院單位預算案(PDF).pdf" class="DBlueLink">105年度臺灣臺南地方法院單位預算案(PDF)</a></td>
+        <td width="39%">104年9月3日</td>
+      </tr>
+      <tr>
+        <td width="15%"><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td width="46%"><a href="Html/105年度臺灣臺南地方法院單位預算案(XML).7z" title="105年度臺灣臺南地方法院單位預算案(XML).7z" class="DBlueLink">105年度臺灣臺南地方法院單位預算案(XML)</a></td>
+        <td width="39%">104年9月3日</td>
+      </tr>
+      
+      <tr>
+        <td width="15%"><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td width="46%"><a href="Html/104年度臺灣臺南地方法院單位預算總說明.doc" title="104年度臺灣臺南地方法院單位預算總說明.doc" class="DBlueLink">104年度臺灣臺南地方法院單位預算總說明</a></td>
+        <td width="39%">104年3月6日</td>
+      </tr>
+      <tr>
+        <td width="15%"><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td width="46%"><a href="Html/104年度臺灣臺南地方法院單位預算(EXCEL).zip" title="104年度臺灣臺南地方法院單位預算(EXCEL).zip" class="DBlueLink">104年度臺灣臺南地方法院單位預算(EXCEL)</a></td>
+        <td width="39%">104年3月6日</td>
+      </tr>
+      <tr>
+        <td width="15%"><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td width="46%"><a href="Html/104年度臺灣臺南地方法院單位預算案(XML).zip" title="104年度臺灣臺南地方法院單位預算案(XML).zip" class="DBlueLink">104年度臺灣臺南地方法院單位預算案(XML)</a></td>
+        <td width="39%">104年3月6日</td>
+      </tr>
+      <tr>
+        <td width="15%"><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td width="46%"><a href="Html/104年度臺灣臺南地方法院單位預算(XML).zip" title="104年度臺灣臺南地方法院單位預算(XML).zip" class="DBlueLink">104年度臺灣臺南地方法院單位預算(XML)</a></td>
+        <td width="39%">104年3月6日</td>
+      </tr>
+      <tr>
+        <td width="15%"><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td width="46%"><a href="Html/104年度臺灣臺南地方法院單位預算.pdf" title="104年度臺灣臺南地方法院單位預算.pdf" class="DBlueLink">104年度臺灣臺南地方法院單位預算</a></td>
+        <td width="39%">104年3月4日</td>
+      </tr>
+      <tr>
+        <td width="15%"><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td width="46%"><a href="Html/104年度臺灣臺南地方法院單位預算(預算案).pdf" title="104年度臺灣臺南地方法院單位預算(預算案).pdf" class="DBlueLink">104年度臺灣臺南地方法院單位預算(預算案)</a></td>
+        <td width="39%">103年8月29日</td>
+      </tr>
+      <tr>
+        <td width="15%"><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td width="46%"><a href="Html/103年度臺灣臺南地方法院單位預算.pdf" title="103年度臺灣臺南地方法院單位預算.pdf" class="DBlueLink">103年度臺灣臺南地方法院單位預算</a></td>
+        <td width="39%">103年2月27日</td>
+      </tr>
+      <tr>
+        <td width="15%"><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td width="46%"><a href="Html/103年度臺灣臺南地方法院單位預算(預算案).pdf" title="103年度臺灣臺南地方法院單位預算(預算案).pdf" class="DBlueLink">103年度臺灣臺南地方法院單位預算(預算案)</a></td>
+        <td width="39%">102年9月2日</td>
+      </tr>
+      <tr>
+        <td width="15%"><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td width="46%"><a href="Html/102年度臺灣臺南地方法院單位預算.pdf" title="102年度臺灣臺南地方法院單位預算.pdf" class="DBlueLink">102年度臺灣臺南地方法院單位預算</a></td>
+        <td width="39%">102年3月5日</td>
+      </tr>
+      <tr>
+        <td width="15%"><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td width="46%"><a href="Html/102年度臺灣臺南地方法院單位預算(預算案).pdf" title="102年度臺灣臺南地方法院單位預算(預算案).pdf" class="DBlueLink">102年度臺灣臺南地方法院單位預算(預算案)</a></td>
+        <td width="39%">101年12月7日</td>
+      </tr>
+      <tr>
+        <td width="15%"><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td width="46%"><a href="Html/101年度單位預算.pdf" title="101年度單位預算.pdf" class="DBlueLink">101年度臺灣臺南地方法院單位預算</a></td>
+        <td width="39%">101年2月7日</td>
+      </tr>
+      <tr>
+        <td width="15%"><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td width="46%"><a href="Html/100年度單位預算.pdf" title="100年度單位預算.pdf" class="DBlueLink">100年度臺灣臺南地方法院單位預算</a></td>
+        <td width="39%">100年3月4日</td>
+      </tr>
+      <tr>
+        <td><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td><a href="Html/99年度單位預算.pdf" title="99年度單位預算.pdf" class="DBlueLink">99年度臺灣臺南地方法院單位預算</a></td>
+        <td>99年3月19日</td>
+      </tr>
+      <tr>
+        <td><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td><a href="Html/98年度單位預算.pdf" title="98年度單位預算.pdf" class="DBlueLink">98年度臺灣臺南地方法院單位預算</a></td>
+        <td>98年3月</td>
+      </tr>
+      <tr>
+        <td><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td><a href="html/97年度臺灣臺南地方法院單位預算.TIF" title="97年度臺灣臺南地方法院單位預算.TIF" class="DBlueLink">97年度臺灣臺南地方法院單位預算</a></td>
+        <td>97年6月</td>
+      </tr>
+      <tr>
+        <td><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td><a href="html/96年度臺灣臺南地方法院單位預算.pdf" title="96年度臺灣臺南地方法院單位預算.pdf" class="DBlueLink">96年度臺灣臺南地方法院單位預算</a></td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><div align="right"><img src="images/Dot/dot_t10.gif" alt="*" width="13" height="13"></div></td>
+        <td><a href="html/95預算.pdf" title="95預算.pdf" class="DBlueLink">95年度臺灣臺南地方法院單位預算</a></td>
+        <td>&nbsp;</td>
+      </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+<table border="0" align="center" cellpadding="0" cellspacing="0" id="AutoNumber4" style="width:1003px;" summary="排版用表格">
+  <tr>
+    <td align="center" valign="middle" background="images/bottom_center.gif" bgcolor="#0156B6">
+      <a href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20101224150914" title="無障礙網站"><img src="images/aplus.jpg" border="0" width="88" height="31" alt="通過A+等級無障礙網頁檢測"></a>&nbsp;&nbsp;<span class="style1"><span class="style5">版權所有 &copy; 2007 
+    臺灣臺南地方法院 Taiwan Tainan District Court, All Rights 
+    Reserved.&nbsp;&nbsp;&nbsp; 您是第</span> <span class="style4">02039484</span> <span class="style5">位訪客.</span></span></td>
+  </tr>
+</table>
+</body>
+</html>

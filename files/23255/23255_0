@@ -1,0 +1,560 @@
+﻿	
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="zh-TW" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="urn:user-namespace-here" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>法務部矯正署臺北少年觀護所</title>
+<link href="xslGip/unit088/css/mp.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit088/css/style.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit088/css/common.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit088/css/fontSizeS.css" rel="stylesheet" type="text/css" title="size1"/>
+<link href="xslGip/unit088/css/fontSizeM.css" rel="alternate stylesheet" type="text/css" title="size2"/>
+<link href="xslGip/unit088/css/fontSizeL.css" rel="alternate stylesheet" type="text/css" title="size3"/>
+<script type="text/javascript" src="xslGip/unit088/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="xslGip/unit088/js/styleswitcher.js"></script>
+<script type="text/javascript" src="xslGip/unit088/js/multimenu.js"></script>
+<script type="text/javascript" src="xslGip/unit088/js/widgets_class.js"></script>
+<script type="text/javascript" src="xslGip/unit088/js/tab.js"></script>
+<script type="text/javascript" src="xslGip/unit088/css/showtab.js"></script>
+<script type="text/javascript" src="xslGip/unit088/js/jquery.flexslider.js"></script> <meta name="DC.Title" content="法務部矯正署臺北少年觀護所" />
+<meta name="DC.Creator" content="法務部矯正署臺北少年觀護所" />
+<meta name="DC.Subject" content="法務部矯正署臺北少年觀護所首頁" />
+<meta name="DC.Description" content="提供法務部矯正署臺北少年觀護所的所有訊息" />
+<meta name="DC.Contributor" content="法務部矯正署臺北少年觀護所" />
+<meta name="DC.Type" content="文字" />
+<meta name="DC.Format" content="text" />
+<meta name="DC.Source" content="法務部矯正署臺北少年觀護所" />
+<meta name="DC.Language" content="中文" />
+<meta name="DC.coverage.t.min" content="2008-05-01" />
+<meta name="DC.coverage.t.max" content="2100-12-31" />
+<meta name="DC.Publisher" content="法務部矯正署臺北少年觀護所" />
+<meta name="DC.Date" content="2008-05-01" />
+<meta name="DC.Identifier" content="A11047100F" />
+<meta name="DC.Relation" content="GIP-tpj-MP-088" />
+<meta name="DC.Rights" content="法務部矯正署臺北少年觀護所" />
+<meta name="Category.Theme" content="300" />
+<meta name="Category.Cake" content="600" />
+<meta name="Category.Service" content="I00" />
+ <script type="text/javascript">
+				/*--- Begin of 20150817 --- for the height of mlmenu when two levels, by Vincent */
+				$(function(){
+					var menuWordCnt=0;
+					$(".mlmenu > ul > li > a:first-child").each(function(index){menuWordCnt += $(this).html().length;});
+					$(".mlmenu").height(menuWordCnt<40?"30px":menuWordCnt<80?"60px":"90px");
+				});
+				/*--- end of 20150817 ---*/</script>
+<noscript>
+<style type="text/css">
+					<!--
+					#vertnav ul, #vertnav ul ul {
+						display: block;
+						position: relative;
+						top: 0px;
+						left: 0px;
+					}
+					-->
+					</style>
+</noscript>
+</head>
+<body>
+<div id="all">
+<div class="top" xmlns="">
+<div id="WebTitle"><div class="logofont"><a href="mp.asp?mp=088" title="回法務部矯正署臺北少年觀護所首頁"><img src="xslGip/unit088/images/20151216_20151216104722.jpg" alt="法務部矯正署臺北少年觀護所" border="0"></a></div><div class="ETitle"></div></div>
+<div id="TopLink">
+<div class="TopLink_top"></div>
+<div class="TopLink_center"><span><a title="上欄" accesskey="U" href="#">:::</a></span><span><a title="網站導覽" href="sitemap.asp?mp=088">網站導覽</a></span><A title="" href="http://www.tpj.moj.gov.tw/ct.asp?xItem=6493&CtNode=7582&mp=088">服務電話</A> <A title=(另開視窗)(另開視窗) href="mailto:tpjmail@mail.moj.gov.tw" target=_gipNW>首長信箱</A> <A title="" href="http://www.tpj.moj.gov.tw/bbssp.asp?xdURL=/bossmail.asp&mp=088&EmailID=2">民意信箱</A> <A title="" href="http://www.tpj.moj.gov.tw/ct.asp?xItem=17344&CtNode=7595&mp=088">檢舉信箱</A> <A title=問答集(pdf檔案下載;另開新視窗) href="http://www.tpj.moj.gov.tw/ct.asp?xItem=61845&ctNode=15883" target=_new>問答集</A> <A title="" href="http://www.tpj.moj.gov.tw/mp088.html">回首頁</A> <A title="" href="http://www.tpj.moj.gov.tw/mp0881.html">行動版</A><A title=English href="http://www.tpj.moj.gov.tw/mp182.html">English</A></div>
+<div class="TopLink_bottom"></div>
+</div>
+<div class="fontSize" title="瀏覽字體設定"><ul>
+<li class="fontS"><a cat="font" href="#" onclick="setActiveStyleSheet('size1'); return false;" onkeypress="setActiveStyleSheet('size1'); return false;"><img src="images/null.gif" alt="小" title="小"></a></li>
+<li class="fontM"><a cat="font" href="#" onclick="setActiveStyleSheet('size2'); return false;" onkeypress="setActiveStyleSheet('size2'); return false;"><img src="images/null.gif" alt="中" title="中"></a></li>
+<li class="fontL"><a cat="font" href="#" onclick="setActiveStyleSheet('size3'); return false;" onkeypress="setActiveStyleSheet('size3'); return false;"><img src="images/null.gif" alt="大" title="大"></a></li>
+</ul>
+</div>
+<noscript>當SCRIPT關閉時，選擇字型大小，請參考：IE6請利用鍵盤按住ALT鍵 + V → X → (G)最大(L)較大(M)中(S)較小(A)小，來選擇適合您的文字大小,而IE7、IE8或Firefox瀏覽器則可利用鍵盤 Ctrl + (+)放大 (-)縮小來改變字型大小。</noscript>
+<div class="mlmenu menubg inaccesible arrow">
+<ul>
+<li><a href="np.asp?ctNode=7574&amp;mp=088" title="機關簡介">機關簡介</a><ul>
+<li><a href="np.asp?ctNode=7575&amp;mp=088" title="歷史沿革">歷史沿革</a></li>
+<li><a href="np.asp?ctNode=7576&amp;mp=088" title="首長介紹">首長介紹</a></li>
+<li><a href="np.asp?ctNode=7577&amp;mp=088" title="首長信箱(另開新視窗)" target="_nwGip">首長信箱</a></li>
+<li><a href="np.asp?ctNode=15708&amp;mp=088" title="組織架構">組織架構</a></li>
+<li><a href="np.asp?ctNode=15710&amp;mp=088" title="業務介紹">業務介紹</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=7578&amp;mp=088" title="民眾導覽">民眾導覽</a><ul>
+<li><a href="np.asp?ctNode=20500&amp;mp=088" title="機關位置圖">機關位置圖</a></li>
+<li><a href="http://www.tpj.moj.gov.tw/bbssp.asp?xdURL=/bossmail.asp&mp=088&EmailID=2" title="民意信箱(另開新視窗)" target="_nwGip">民意信箱</a></li>
+<li><a href="lp.asp?ctNode=7579&amp;CtUnit=1496&amp;BaseDSD=7&amp;mp=088" title="便民服務專區">便民服務專區</a></li>
+<li><a href="np.asp?ctNode=7580&amp;mp=088" title="接見室位置圖">接見室位置圖</a></li>
+<li><a href="np.asp?ctNode=15695&amp;mp=088" title="遠距接見">遠距接見</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=7581&amp;mp=088" title="為民服務">為民服務</a><ul>
+<li><a href="lp.asp?ctNode=40063&amp;CtUnit=15948&amp;BaseDSD=7&amp;mp=088" title="行政流程－標準作業程序">行政流程－標準作業程序</a></li>
+<li><a href="np.asp?ctNode=7582&amp;mp=088" title="連絡方式">連絡方式</a></li>
+<li><a href="lp.asp?ctNode=32177&amp;CtUnit=11788&amp;BaseDSD=7&amp;mp=088" title="檔案應用服務">檔案應用服務</a></li>
+<li><a href="lp.asp?ctNode=28241&amp;CtUnit=9335&amp;BaseDSD=7&amp;mp=088" title="表單下載及申辦">表單下載及申辦</a></li>
+<li><a href="np.asp?ctNode=14285&amp;mp=088" title="為民服務白皮書">為民服務白皮書</a></li>
+<li><a href="lp.asp?ctNode=19476&amp;CtUnit=3762&amp;BaseDSD=7&amp;mp=088" title="民意調查">民意調查</a></li>
+<li><a href="lp.asp?ctNode=23463&amp;CtUnit=6507&amp;BaseDSD=7&amp;mp=088" title="便民措施問答集">便民措施問答集</a></li>
+<li><a href="np.asp?ctNode=24326&amp;mp=088" title="便民措施申辦系統">便民措施申辦系統</a></li>
+<li><a href="lp.asp?ctNode=23042&amp;CtUnit=6192&amp;BaseDSD=7&amp;mp=088" title="提升服務品質執行成果">提升服務品質執行成果</a></li>
+<li><a href="http://www.moj.gov.tw/bbssp.asp?xdurl=mojEpaper.asp" title="法務部電子報訂閱(另開新視窗)" target="_nwGip">法務部電子報訂閱</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=20614&amp;mp=088" title="政府資訊公開">政府資訊公開</a><ul>
+<li><a href="lp.asp?ctNode=43277&amp;CtUnit=7746&amp;BaseDSD=7&amp;mp=088" title="重大政策">重大政策</a></li>
+<li><a href="lp.asp?ctNode=41407&amp;CtUnit=16840&amp;BaseDSD=7&amp;mp=088" title="政府資料開放">政府資料開放</a></li>
+<li><a href="np.asp?ctNode=36577&amp;mp=088" title="會計報告、預算書及決算書">會計報告、預算書及決算書</a></li>
+<li><a href="lp.asp?ctNode=40066&amp;CtUnit=15949&amp;BaseDSD=7&amp;mp=088" title="政府資訊公開法">政府資訊公開法</a></li>
+<li><a href="lp.asp?ctNode=31117&amp;CtUnit=11023&amp;BaseDSD=7&amp;mp=088" title="施政計畫">施政計畫</a></li>
+<li><a href="lp.asp?ctNode=20617&amp;CtUnit=2297&amp;BaseDSD=7&amp;mp=088" title="本所行政規則">本所行政規則</a></li>
+<li><a href="lp.asp?ctNode=22820&amp;CtUnit=6028&amp;BaseDSD=7&amp;mp=088" title="業務統計(另開新視窗)" target="_nwGip">業務統計</a></li>
+<li><a href="lp.asp?ctNode=22821&amp;CtUnit=6537&amp;BaseDSD=7&amp;mp=088" title="採購公告">採購公告</a></li>
+<li><a href="lp.asp?ctNode=22822&amp;CtUnit=6030&amp;BaseDSD=7&amp;mp=088" title="補充說明彙總表">補充說明彙總表</a></li>
+<li><a href="lp.asp?ctNode=33723&amp;CtUnit=12921&amp;BaseDSD=7&amp;mp=088" title="保有及管理個人資料檔案彙整表">保有及管理個人資料檔案彙整表</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=43278&amp;mp=088" title="業務園地">業務園地</a><ul>
+<li><a href="lp.asp?ctNode=43279&amp;CtUnit=14364&amp;BaseDSD=7&amp;mp=088" title="公益服務">公益服務</a></li>
+<li><a href="lp.asp?ctNode=43280&amp;CtUnit=11445&amp;BaseDSD=7&amp;mp=088" title="生命及品格教育專區">生命及品格教育專區</a></li>
+<li><a href="lp.asp?ctNode=43281&amp;CtUnit=4529&amp;BaseDSD=7&amp;mp=088" title="親子教育研究">親子教育研究</a></li>
+<li><a href="lp.asp?ctNode=43282&amp;CtUnit=6517&amp;BaseDSD=7&amp;mp=088" title="青雲學苑期刊">青雲學苑期刊</a></li>
+<li><a href="lp.asp?ctNode=43383&amp;CtUnit=17653&amp;BaseDSD=7&amp;mp=088" title="青雲有愛">青雲有愛</a></li>
+<li><a href="np.asp?ctNode=43283&amp;mp=088" title="衛生業務成效">衛生業務成效</a></li>
+<li><a href="lp.asp?ctNode=43284&amp;CtUnit=10348&amp;BaseDSD=7&amp;mp=088" title="醫療資訊">醫療資訊</a></li>
+<li><a href="lp.asp?ctNode=43382&amp;CtUnit=1016&amp;BaseDSD=7&amp;mp=088" title="矯正體系中英文對照表">矯正體系中英文對照表</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=7592&amp;mp=088" title="廉政天地">廉政天地</a><ul>
+<li><a href="lp.asp?ctNode=32586&amp;CtUnit=12096&amp;BaseDSD=7&amp;mp=088" title="請託關說登錄查察專區">請託關說登錄查察專區</a></li>
+<li><a href="lp.asp?ctNode=33203&amp;CtUnit=12565&amp;BaseDSD=7&amp;mp=088" title="廉政問卷調查">廉政問卷調查</a></li>
+<li><a href="lp.asp?ctNode=43296&amp;CtUnit=17605&amp;BaseDSD=7&amp;mp=088" title="獎勵保護檢舉貪污瀆職專區">獎勵保護檢舉貪污瀆職專區</a></li>
+<li><a href="np.asp?ctNode=29649&amp;mp=088" title="業務執掌">業務執掌</a></li>
+<li><a href="np.asp?ctNode=7595&amp;mp=088" title="檢舉信箱">檢舉信箱</a></li>
+<li><a href="lp.asp?ctNode=7596&amp;CtUnit=386&amp;BaseDSD=7&amp;mp=088" title="政風宣導">政風宣導</a></li>
+<li><a href="lp.asp?ctNode=7594&amp;CtUnit=5765&amp;BaseDSD=7&amp;mp=088" title="公務員廉政倫理規範專區">公務員廉政倫理規範專區</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=12370&amp;mp=088" title="統計園地">統計園地</a><ul>
+<li><a href="lp.asp?ctNode=13213&amp;CtUnit=757&amp;BaseDSD=7&amp;mp=088" title="園地導覽">園地導覽</a></li>
+<li><a href="np.asp?ctNode=13214&amp;mp=088" title="收容情形">收容情形</a></li>
+<li><a href="np.asp?ctNode=13216&amp;mp=088" title="業務成效">業務成效</a></li>
+<li><a href="lp.asp?ctNode=42213&amp;CtUnit=17098&amp;BaseDSD=7&amp;mp=088" title="統計輯要">統計輯要</a></li>
+<li><a href="http://www.rjsd.moj.gov.tw/RJSDWEB/common/SubMenu.aspx?menu=ANALYSIS" title="專題分析(另開新視窗)" target="_nwGip">專題分析</a></li>
+<li><a href="http://www.rjsd.moj.gov.tw/RJSDWEB/common/RelatedWebsite.aspx" title="法務部統計相關網站(另開新視窗)" target="_nwGip">法務部統計相關網站</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=26056&amp;mp=088" title="影音專區">影音專區</a><ul>
+<li><a href="http://www.moj.gov.tw/lp.asp?ctNode=27496&CtUnit=8021&BaseDSD=7&mp=001" title="影音下載(Youtube)(另開新視窗)" target="_nwGip">影音下載(Youtube)</a></li>
+<li><a href="http://www.moj.gov.tw/lp.asp?ctNode=27485&CtUnit=9384&BaseDSD=7&mp=001" title="動畫下載(Video)(另開新視窗)" target="_nwGip">動畫下載(Video)</a></li>
+<li><a href="http://www.moj.gov.tw/lp.asp?ctNode=28305&CtUnit=8321&BaseDSD=7&mp=001" title="影音下載(Audio)(另開新視窗)" target="_nwGip">影音下載(Audio)</a></li>
+<li><a href="http://www.moj.gov.tw/lp.asp?CtNode=27493&CtUnit=675&BaseDSD=9&mp=001" title="宣導資料下載(另開新視窗)" target="_nwGip">宣導資料下載</a></li>
+<li><a href="lp.asp?ctNode=26057&amp;CtUnit=8196&amp;BaseDSD=7&amp;mp=088" title="動畫影音下載">動畫影音下載</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=7586&amp;mp=088" title="電子公布欄">電子公布欄</a><ul>
+<li><a href="lp.asp?ctNode=14591&amp;CtUnit=1182&amp;BaseDSD=7&amp;mp=088" title="最新訊息">最新訊息</a></li>
+<li><a href="lp.asp?ctNode=43285&amp;CtUnit=1014&amp;BaseDSD=7&amp;mp=088" title="少年活動照片">少年活動照片</a></li>
+<li><a href="lp.asp?ctNode=43286&amp;CtUnit=1010&amp;BaseDSD=7&amp;mp=088" title="少年活動排程表">少年活動排程表</a></li>
+<li><a href="np.asp?ctNode=43287&amp;mp=088" title="衛生教育宣導">衛生教育宣導</a></li>
+<li><a href="lp.asp?ctNode=43288&amp;CtUnit=7747&amp;BaseDSD=7&amp;mp=088" title="就業資訊">就業資訊</a></li>
+<li><a href="http://www.tpj.moj.gov.tw/lp.asp?CtNode=22821&CtUnit=6537&BaseDSD=7&mp=088" title="採購公告">採購公告</a></li>
+</ul>
+</li>
+</ul>
+</div><a onfocus="mlout();" href="javascript:"></a><noscript>TAB標籤功能，如不執行不影響您資料瀏覽</noscript></div>
+<table id="Layout" summary="table for layout">
+<tr>
+<td class="Center">
+<a title="主要內容區" class="Accesskey" accesskey="C" href="#">:::</a>
+<div class="Centertop"><img src="xslGip/unit088/images/center_topleft.gif" alt="*"/></div>
+<div class="Centermiddle">
+<script language="JavaScript"> 
+$(function(){
+$("#textfield").focus(function(){
+if($("#textfield").val()=='請輸入關鍵字'){
+           $("#textfield").val('');
+}
+});
+$("#searchBtn").click(function(){
+var query = encodeURI("http://www.tpj.moj.gov.tw/bbssp.asp?xdurl=search/GSSForm.asp&mp=088&keyword=") + encodeURI(document.getElementById("textfield").value);
+window.open(query, "_self"); 
+});
+});
+</script>
+<noscript>請連結到搜尋入口進行查詢，網址http://www.tpj.moj.gov.tw/bbssp.asp?xdurl=search/GSSForm.asp&mp=088</noscript>
+<DIV style="text-align:center; background-color:#E1EDFF; margin-bottom:10px; padding:2px">
+<form name="hysearch_form" title="全文檢索">
+矯正機關全文檢索
+<label for="search" style="display:none ">全文檢索</label>
+<INPUT accessKey=S style="WIDTH: 93px; HEIGHT: 20px" id=textfield value=請輸入關鍵字 maxLength=30 size=12 name=content>
+<input type="button" id="searchBtn" value="查詢">&nbsp;　&nbsp;
+
+
+<select name="subweb" id="subweb" onchange="window.open(this.options[this.selectedIndex].value)"><option selected="selected" disabled="disabled"> ==== 矯正署相關網站 ==== </option><option value="http://www.mjac.moj.gov.tw/mp801.html">法務部矯正署</option><option value="http://www.tpp.moj.gov.tw/">法務部矯正署臺北監獄</option><option value="http://www.typ.moj.gov.tw/">法務部矯正署桃園監獄</option><option value="http://www.tyw.moj.gov.tw">法務部矯正署桃園女子監獄</option><option value="http://www.scp.moj.gov.tw/">法務部矯正署新竹監獄</option><option value="http://www.tcp.moj.gov.tw/">法務部矯正署臺中監獄</option><option value="http://www.tcw.moj.gov.tw/">法務部矯正署臺中女子監獄</option><option value="http://www.chp.moj.gov.tw/">法務部矯正署彰化監獄</option><option value="http://www.ulp.moj.gov.tw/">法務部矯正署雲林監獄</option><option value="http://www.ulp2.moj.gov.tw/">法務部矯正署雲林第二監獄</option><option value="http://www.cyp.moj.gov.tw/">法務部矯正署嘉義監獄</option><option value="http://www.tnp.moj.gov.tw/">法務部矯正署臺南監獄</option><option value="http://www.mtp.moj.gov.tw/">法務部矯正署明德外役監獄</option><option value="http://www.ksp.moj.gov.tw/">法務部矯正署高雄監獄</option><option value="http://www.ksd.moj.gov.tw/">法務部矯正署高雄第二監獄</option><option value="http://www.ksw.moj.gov.tw/">法務部矯正署高雄女子監獄</option><option value="http://www.ptp.moj.gov.tw/">法務部矯正署屏東監獄</option><option value="http://www.ttp.moj.gov.tw/">法務部矯正署臺東監獄</option><option value="http://www.hlp.moj.gov.tw/">法務部矯正署花蓮監獄</option><option value="http://www.jcp.moj.gov.tw/">法務部矯正署自強外役監獄</option><option value="http://www.ilp.moj.gov.tw/">法務部矯正署宜蘭監獄</option><option value="http://www.klp.moj.gov.tw/">法務部矯正署基隆監獄</option><option value="http://www.php.moj.gov.tw/">法務部矯正署澎湖監獄</option><option value="http://www.gip.moj.gov.tw/">法務部矯正署綠島監獄</option><option value="http://www.kmp.moj.gov.tw/">法務部矯正署金門監獄</option><option value="http://www.sdb.moj.gov.tw/">法務部矯正署新店戒治所</option><option value="http://www.tcj.moj.gov.tw/">法務部矯正署臺中戒治所</option><option value="http://www.ksb.moj.gov.tw/">法務部矯正署高雄戒治所</option><option value="http://www.ttb.moj.gov.tw/">法務部矯正署臺東戒治所</option><option value="http://www.tuv.moj.gov.tw">法務部矯正署泰源技能訓練所</option><option value="http://www.dcv.moj.gov.tw/">法務部矯正署東成技能訓練所</option><option value="http://www.ywv.moj.gov.tw/">法務部矯正署岩灣技能訓練所</option><option value="http://www.tyr.moj.gov.tw/">法務部矯正署桃園少年輔育院</option><option value="http://www.chr.moj.gov.tw/">法務部矯正署彰化少年輔育院</option><option value="http://www.ctg.moj.gov.tw/">誠正中學</option><option value="http://www.myg.moj.gov.tw/">明陽中學</option><option value="http://www.tpd.moj.gov.tw/">法務部矯正署臺北看守所</option><option value="http://www.sld.moj.gov.tw/">法務部矯正署臺北女子看守所</option><option value="http://www.scd.moj.gov.tw/">法務部矯正署新竹看守所</option><option value="http://www.mld.moj.gov.tw/">法務部矯正署苗栗看守所</option><option value="http://www.tcd.moj.gov.tw/">法務部矯正署臺中看守所</option><option value="http://www.chd.moj.gov.tw/">法務部矯正署彰化看守所</option><option value="http://www.ntd.moj.gov.tw/">法務部矯正署南投看守所</option><option value="http://www.cyd.moj.gov.tw/">法務部矯正署嘉義看守所</option><option value="http://www.tnd.moj.gov.tw/">法務部矯正署臺南看守所</option><option value="http://www.ptd.moj.gov.tw/">法務部矯正署屏東看守所</option><option value="http://www.hld.moj.gov.tw/">法務部矯正署花蓮看守所</option><option value="http://www.kld.moj.gov.tw/">法務部矯正署基隆看守所</option><option value="http://www.tpj.moj.gov.tw/">法務部矯正署臺北少年觀護所</option><option value="http://www.tnj.moj.gov.tw/">法務部矯正署臺南少年觀護所</option></select>
+</form> 
+</DIV><div id="rum" xmlns="">
+<div class="newsRun h"><marquee width="975px" behavior="scroll" onmouseover="this.stop()" onfocus="this.stop()" onmouseout="this.start()" onblur="this.start()" height="22" direction="left" scrolldelay="10" scrollamount="3" style="height: 22px; width: 975px;"><ul style="display: inline;">
+<li style="display: inline;"><a target="_nwGIP" href="ct.asp?xItem=406139&amp;ctNode=19651&amp;mp=088" title="節慶送禮應注意，廉政倫理莫忘記，受贈財物守規定，三千一萬有依循(另開新視窗)">節慶送禮應注意，廉政倫理莫忘記，受贈財物守規定，三千一萬有依循(另開新視窗)</a></li>
+<li style="display: inline;"><a target="_nwGIP" href="HitCounter.asp?xItem=406104&amp;mp=088" title="預防登革熱，主動清除室內外病媒蚊孳生源積水容器，並定期巡查；外出做好防蚊措施，如有疑問請洽免付費1922防疫專線，疾病管制署關心您(另開新視窗)">預防登革熱，主動清除室內外病媒蚊孳生源積水容器，並定期巡查；外出做好防蚊措施，如有疑問請洽免付費1922防疫專線，疾病管制署關心您(另開新視窗)</a></li>
+<li style="display: inline;"><a href="ct.asp?xItem=342463&amp;ctNode=19651&amp;mp=088" title="矯正署及所屬機關業務已全面免附戶籍謄本">矯正署及所屬機關業務已全面免附戶籍謄本</a></li>
+<li style="display: inline;"><a target="_nwGIP" href="HitCounter.asp?xItem=350683&amp;mp=088" title="法務部個人資料保護專區(另開新視窗)">法務部個人資料保護專區(另開新視窗)</a></li>
+<li style="display: inline;"><a target="_nwGIP" href="HitCounter.asp?xItem=392005&amp;mp=088" title="105年收容人家屬滿意度問卷調查報告(另開新視窗)">105年收容人家屬滿意度問卷調查報告(另開新視窗)</a></li>
+<li style="display: inline;"><a target="_nwGIP" href="HitCounter.asp?xItem=274887&amp;mp=088" title="紫錐花反毒運動(另開新視窗)">紫錐花反毒運動(另開新視窗)</a></li>
+<li style="display: inline;"><a href="HitCounter.asp?xItem=305494&amp;mp=088" title="預防H7N9流感：平時勤洗手、咳嗽戴口罩，雞鴨鵝(含蛋類)請完全熟食再食用，不碰觸不明的禽鳥。疾管局1922防疫專線關心您。">預防H7N9流感：平時勤洗手、咳嗽戴口罩，雞鴨鵝(含蛋類)請完全熟食再食用，不碰觸不明的禽鳥。疾管局1922防疫專線關心您。</a></li>
+<li style="display: inline;"><a href="ct.asp?xItem=302501&amp;ctNode=19651&amp;mp=088" title="廉能是政府的核心價值，貪腐足以摧毀政府的形象，公務員應堅持廉潔，拒絕貪腐，廉政檢舉專線0800-286-586">廉能是政府的核心價值，貪腐足以摧毀政府的形象，公務員應堅持廉潔，拒絕貪腐，廉政檢舉專線0800-286-586</a></li>
+<li style="display: inline;"><a href="ct.asp?xItem=341708&amp;ctNode=19651&amp;mp=088" title="家屬於少年在所期間，如遇不明人士宣稱能安排照顧、代送金錢或訛詐錢財等不法情事，請向本所政風室反映：02-22624045或02-22611181轉215">家屬於少年在所期間，如遇不明人士宣稱能安排照顧、代送金錢或訛詐錢財等不法情事，請向本所政風室反映：02-22624045或02-22611181轉215</a></li>
+<li style="display: inline;"><a href="HitCounter.asp?xItem=176469&amp;mp=088" title="法務部便民服務線上申辦系統（含非憑證作業及採憑證作業）">法務部便民服務線上申辦系統（含非憑證作業及採憑證作業）</a></li>
+</ul></marquee></div>
+</div>
+<div class="flexslider" xmlns="">
+<ul class="slides">
+<li><a href="HitCounter.asp?xItem=415825&amp;mp=088" title="少年活動照片(另開新視窗)" target="_nwGip"><img src="public/Data/61028154420598.gif" alt="少年活動照片(另開新視窗)"></a><div class="caption bottom"><a>最新少年活動照片</a></div></li>
+<li><a href="HitCounter.asp?xItem=415828&amp;mp=088" title="青雲有愛形象短片(另開新視窗)" target="_nwGip"><img src="public/Data/64209639269.jpg" alt="青雲有愛形象短片(另開新視窗)"></a><div class="caption bottom"><a>青雲有愛形象短片</a></div></li>
+<li><a href="HitCounter.asp?xItem=415822&amp;mp=088" title="2016最新活動排程(另開新視窗)" target="_nwGip"><img src="public/Data/6111112025466.png" alt="2016最新活動排程(另開新視窗)"></a><div class="caption bottom"><a>2016最新活動排程</a></div></li>
+<li><a href="HitCounter.asp?xItem=415826&amp;mp=088" title="便民服務線上申辦系統-採憑證作業(另開新視窗)" target="_nwGip"><img src="public/Data/51216145333614.jpg" alt="便民服務線上申辦系統-採憑證作業(另開新視窗)"></a><div class="caption bottom"><a>便民服務線上申辦系統-採憑證作業</a></div></li>
+<li><a href="HitCounter.asp?xItem=415837&amp;mp=088" title="便民服務線上申辦系統-採非憑證作業(另開新視窗)" target="_nwGip"><img src="public/Data/51216145447317.jpg" alt="便民服務線上申辦系統-採非憑證作業(另開新視窗)"></a><div class="caption bottom"><a>便民服務線上申辦系統-採非憑證作業</a></div></li>
+</ul>
+<div class="more"><a href="np.asp?ctNode=41986&mp=088" title="更多焦點廣告"><img src="/xslGip/unit088/images/more.png" alt="更多焦點廣告"></a></div>
+</div><script type="text/javascript" xmlns="">
+		//$(function(){
+		jQuery(document).ready(function($){
+			// Flexslider 初始化
+			$('.flexslider').flexslider({
+				animation: "slide",
+				start: function(slider){
+					$('body').removeClass('loading');
+				}
+			});
+		});
+	</script><noscript xmlns="">
+<style type="text/css">.flexslider .slides > li {display: block;}</style>
+</noscript>
+<div class="tab" xmlns="">
+<div class="tabgroup">
+<div class="tabContainer here"><a href="javascript:">最新訊息</a><div class="newsA">
+<noscript><h1></h1></noscript>
+<ul>
+<li><a target="_blank" href="HitCounter.asp?xItem=179175&amp;mp=088" title="法務部矯正署臺北少年觀護所每日在所各類收容人數(pdf)(另開新視窗)">法務部矯正署臺北少年觀護所每日在所各類收容人數(pdf)<img alt="新的訊息" src="xslGip/unit088/images/new.gif"></a><span class="date">105/11/02</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=436741&amp;mp=088" title="法務部矯正署臺北少年觀護所收容少年105年10月31日~11月6日伙食明細(另開新視窗)">法務部矯正署臺北少年觀護所收容少年105年10月31日~11月6日伙食明細<img alt="新的訊息" src="xslGip/unit088/images/new.gif"></a><span class="date">105/10/31</span></li>
+<li><a href="HitCounter.asp?xItem=439566&amp;mp=088" title="臺北少年觀護所105年第4次約僱人員甄選錄取名單">臺北少年觀護所105年第4次約僱人員甄選錄取名單</a><span class="date">105/07/15</span></li>
+<li><a href="HitCounter.asp?xItem=431502&amp;mp=088" title="法務部矯正署臺北少年觀護所105年第3次約僱人員甄選錄取名單">法務部矯正署臺北少年觀護所105年第3次約僱人員甄選錄取名單</a><span class="date">105/05/02</span></li>
+<li><a href="HitCounter.asp?xItem=427990&amp;mp=088" title="臺北少年觀護所105年第2次約僱人員甄選錄取名單">臺北少年觀護所105年第2次約僱人員甄選錄取名單</a><span class="date">105/03/31</span></li>
+</ul>
+<div class="more"><a href="np.asp?ctNode=14591&mp=088" title="更多最新訊息">
+										更多最新訊息</a></div>
+</div>
+</div>
+<div class="tabContainer here"><a href="javascript:">便民服務專區</a><div class="newsA">
+<noscript><h1></h1></noscript>
+<ul>
+<li><a href="ct.asp?xItem=307942&amp;ctNode=7579&amp;mp=088" title="本所常見收容問題Q&A">本所常見收容問題Q&A</a><span class="date">105/05/26</span></li>
+<li><a href="HitCounter.asp?xItem=304615&amp;mp=088" title="接見須知">接見須知</a><span class="date">105/05/26</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=249080&amp;mp=088" title="臺北少年觀護所寄入飲食物品注意事項(另開新視窗)">臺北少年觀護所寄入飲食物品注意事項</a><span class="date">105/05/26</span></li>
+<li><a href="HitCounter.asp?xItem=100241&amp;mp=088" title="*  ~ * 民意信箱 *  ~ *">*  ~ * 民意信箱 *  ~ *</a><span class="date">105/05/26</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=234251&amp;mp=088" title="辦理現場預約接見(另開新視窗)">辦理現場預約接見</a><span class="date">105/05/26</span></li>
+</ul>
+<div class="more"><a href="np.asp?ctNode=7579&mp=088" title="更多便民服務專區">
+										更多便民服務專區</a></div>
+</div>
+</div>
+<div class="tabContainer here"><a href="javascript:">生命及品格教育專區</a><div class="newsA">
+<noscript><h1></h1></noscript>
+<ul>
+<li><a target="_blank" href="HitCounter.asp?xItem=435166&amp;mp=088" title="公告本所105年5月6日「母親節面對面懇親」新聞稿(另開新視窗)">公告本所105年5月6日「母親節面對面懇親」新聞稿</a><span class="date">105/05/31</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=423628&amp;mp=088" title="公告本所105年2月5日「冬寒溫情在少觀、家庭支持慰問思親」新聞稿(另開新視窗)">公告本所105年2月5日「冬寒溫情在少觀、家庭支持慰問思親」新聞稿</a><span class="date">105/02/24</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=407867&amp;mp=088" title="公告本所104年9月25日中秋節懇親活動新聞稿(另開新視窗)">公告本所104年9月25日中秋節懇親活動新聞稿</a><span class="date">104/10/12</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=407865&amp;mp=088" title="公告本所104年9月11電影「我的少女時代」公益特映會新聞稿(另開新視窗)">公告本所104年9月11電影「我的少女時代」公益特映會新聞稿</a><span class="date">104/10/12</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=395253&amp;mp=088" title="公告本所104年5月8日母親節面對面懇親活動新聞稿(另開新視窗)">公告本所104年5月8日母親節面對面懇親活動新聞稿</a><span class="date">104/06/26</span></li>
+</ul>
+<div class="more"><a href="np.asp?ctNode=43280&mp=088" title="更多生命及品格教育專區">
+										更多生命及品格教育專區</a></div>
+</div>
+</div>
+<div class="tabContainer here"><a href="javascript:">青雲學苑期刊</a><div class="newsA">
+<noscript><h1></h1></noscript>
+<ul>
+<li><a href="ct.asp?xItem=435212&amp;ctNode=43282&amp;mp=088" title="青雲學苑第64期">青雲學苑第64期</a><span class="date">105/05/31</span></li>
+<li><a href="ct.asp?xItem=420687&amp;ctNode=43282&amp;mp=088" title="青雲學苑第63期">青雲學苑第63期</a><span class="date">105/01/27</span></li>
+<li><a href="ct.asp?xItem=411824&amp;ctNode=43282&amp;mp=088" title="青雲學苑第62期">青雲學苑第62期</a><span class="date">104/11/13</span></li>
+<li><a href="ct.asp?xItem=402467&amp;ctNode=43282&amp;mp=088" title="青雲學苑第60期">青雲學苑第60期</a><span class="date">104/08/26</span></li>
+<li><a href="ct.asp?xItem=402468&amp;ctNode=43282&amp;mp=088" title="青雲學苑第61期">青雲學苑第61期</a><span class="date">104/08/26</span></li>
+</ul>
+<div class="more"><a href="np.asp?ctNode=43282&mp=088" title="更多青雲學苑期刊">
+										更多青雲學苑期刊</a></div>
+</div>
+</div>
+<div class="tabContainer here"><a href="javascript:">衛生教育宣導</a><div class="newsA">
+<noscript><h1></h1></noscript>
+<ul>
+<li><a href="ct.asp?xItem=226016&amp;ctNode=43287&amp;mp=088" title="衛生教育宣導">衛生教育宣導<img alt="新的訊息" src="xslGip/unit088/images/new.gif"></a><span class="date">105/11/03</span></li>
+</ul>
+<div class="more"><a href="np.asp?ctNode=43287&mp=088" title="更多衛生教育宣導">
+										更多衛生教育宣導</a></div>
+</div>
+</div>
+<div class="tabContainer here"><a href="javascript:">業務統計</a><div class="newsA">
+<noscript><h1></h1></noscript>
+<ul>
+<li><a href="HitCounter.asp?xItem=118427&amp;mp=088" title="人數及特性">人數及特性<img alt="新的訊息" src="xslGip/unit088/images/new.gif"></a><span class="date">105/11/02</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=118428&amp;mp=088" title="輔導成果(另開新視窗)">輔導成果</a><span class="date">105/08/11</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=118430&amp;mp=088" title="醫療衛生(另開新視窗)">醫療衛生</a><span class="date">105/08/11</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=118431&amp;mp=088" title="更生保護(另開新視窗)">更生保護</a><span class="date">105/08/11</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=118432&amp;mp=088" title="便民服務(另開新視窗)">便民服務</a><span class="date">105/08/11</span></li>
+</ul>
+<div class="more"><a href="np.asp?ctNode=22820&mp=088" title="更多業務統計">
+										更多業務統計</a></div>
+</div>
+</div>
+</div>
+</div><table summary="layout table" class="clearMp01">
+<tr>
+<td class="leftblock"/>
+<td class="rightblock"/>
+</tr>
+</table>
+<table summary="layout table" class="clearMp02">
+<tr>
+<td class="leftblock"/>
+<td class="rightblock"/>
+</tr>
+</table>
+<div id="_abgneBlock" xmlns="">
+<div class="prevten"><img alt="上一頁" title="下一頁" src="xslGip/unit088/images/button.png"></div>
+<div id="_bannerBlock">
+<ul class="list">
+<li><a href="HitCounter.asp?xItem=435215&amp;mp=088" title="國民年金主題曲「國保有保庇」(另開新視窗)" target="_nwGip"><img src="public/Data/6531163211355.jpg" alt="國民年金主題曲「國保有保庇」(另開新視窗)"></a></li>
+<li><a href="HitCounter.asp?xItem=435199&amp;mp=088" title="衛生福利部「長照政策專區」(另開新視窗)" target="_nwGip"><img src="public/Data/6531153250197.jpg" alt="衛生福利部「長照政策專區」(另開新視窗)"></a></li>
+<li><a href="HitCounter.asp?xItem=435200&amp;mp=088" title="青少年視訊咨詢網-秘密花園(另開新視窗)" target="_nwGip"><img src="public/Data/6531153315272.jpg" alt="青少年視訊咨詢網-秘密花園(另開新視窗)"></a></li>
+<li><a href="HitCounter.asp?xItem=435198&amp;mp=088" title="禽流感資訊專區(另開新視窗)" target="_nwGip"><img src="public/Data/653115328847.jpg" alt="禽流感資訊專區(另開新視窗)"></a></li>
+<li><a href="HitCounter.asp?xItem=366478&amp;mp=088" title="申請電子戶籍謄本連結網址(另開新視窗)" target="_nwGip"><img src="public/Data/41119154818313.gif" alt="申請電子戶籍謄本連結網址(另開新視窗)"></a></li>
+<li><a href="HitCounter.asp?xItem=353648&amp;mp=088" title="第9屆全國法規資料庫競賽活動(另開新視窗)" target="_nwGip"><img src="public/Data/6910134713653.gif" alt="第9屆全國法規資料庫競賽活動(另開新視窗)"></a></li>
+<li><a href="HitCounter.asp?xItem=350689&amp;mp=088" title="法務部個人資料保護專區(另開新視窗)" target="_nwGip"><img src="public/Data/4716145620412.gif" alt="法務部個人資料保護專區(另開新視窗)"></a></li>
+<li><a href="HitCounter.asp?xItem=334428&amp;mp=088" title="內政部移民署-新住民數位資訊e網(另開新視窗)" target="_nwGip"><img src="public/Data/521092451708.GIF" alt="內政部移民署-新住民數位資訊e網(另開新視窗)"></a></li>
+<li><a href="HitCounter.asp?xItem=318570&amp;mp=088" title="雙語詞彙學術名詞暨辭書資訊網"><img src="public/Data/3917105553107.jpg" alt="雙語詞彙學術名詞暨辭書資訊網"></a></li>
+<li><a href="HitCounter.asp?xItem=313940&amp;mp=088" title="狂犬病防治專區(另開新視窗)" target="_nwGip"><img src="public/Data/38284616956.jpg" alt="狂犬病防治專區(另開新視窗)"></a></li>
+<li><a href="HitCounter.asp?xItem=304120&amp;mp=088" title="確保核安-穩健減核(另開新視窗)" target="_nwGip"><img src="public/Data/352165914668.jpg" alt="確保核安-穩健減核(另開新視窗)"></a></li>
+<li><a href="HitCounter.asp?xItem=275716&amp;mp=088" title="623公共服務日(另開新視窗)" target="_nwGip"><img src="public/Data/271817948491.gif" alt="623公共服務日(另開新視窗)"></a></li>
+<li><a href="HitCounter.asp?xItem=274824&amp;mp=088" title="紫錐花反毒運動(另開新視窗)" target="_nwGip"><img src="public/Data/2710102247300.gif" alt="紫錐花反毒運動(另開新視窗)"></a></li>
+<li><a href="HitCounter.asp?xItem=250698&amp;mp=088" title="公務人員行政中立訓練及宣導"><img src="public/Data/11125164810980.gif" alt="公務人員行政中立訓練及宣導"></a></li>
+<li><a href="HitCounter.asp?xItem=233691&amp;mp=088" title="戒毒家園網(另開新視窗)" target="_nwGip"><img src="public/Data/168165556698.gif" alt="戒毒家園網(另開新視窗)"></a></li>
+<li><a href="HitCounter.asp?xItem=230520&amp;mp=088" title="165反詐騙專屬網站"><img src="public/Data/1561571200.jpg" alt="165反詐騙專屬網站"></a></li>
+<li><a href="HitCounter.asp?xItem=220842&amp;mp=088" title="人權大步走專區(另開新視窗)" target="_nwGip"><img src="public/Data/112816345775.gif" alt="人權大步走專區(另開新視窗)"></a></li>
+<li><a href="HitCounter.asp?xItem=207883&amp;mp=088" title="獄政博物館"><img src="public/Data/010516372390.gif" alt="獄政博物館"></a></li>
+<li><a href="HitCounter.asp?xItem=149768&amp;mp=088" title="0800-770-885(請請你-幫幫我)戒毒成功專線 "><img src="public/Data/168165458885.gif" alt="0800-770-885(請請你-幫幫我)戒毒成功專線 "></a></li>
+<li><a href="HitCounter.asp?xItem=100373&amp;mp=088" title="全國檔案目錄查詢"><img src="public/Data/71017145326998.jpg" alt="全國檔案目錄查詢"></a></li>
+<li><a href="HitCounter.asp?xItem=100372&amp;mp=088" title="全國最新法規"><img src="public/Data/7101714514773.gif" alt="全國最新法規"></a></li>
+<li><a href="HitCounter.asp?xItem=98483&amp;mp=088" title="預約接見"><img src="public/Data/7102165139193.gif" alt="預約接見"></a></li>
+<li><a href="HitCounter.asp?xItem=98482&amp;mp=088" title="採非憑證作業"><img src="public/Data/81125164626871.gif" alt="採非憑證作業"></a></li>
+<li><a href="HitCounter.asp?xItem=96148&amp;mp=088" title="調解"><img src="public/Data/79417152230.gif" alt="調解"></a></li>
+<li><a href="HitCounter.asp?xItem=89953&amp;mp=088" title="線上申辦(另開新視窗)" target="_nwGip"><img src="public/Data/81125164046669.gif" alt="線上申辦(另開新視窗)"></a></li>
+<li><a href="HitCounter.asp?xItem=89951&amp;mp=088" title="傳統工藝傳承(另開新視窗)" target="_nwGip"><img src="public/Data/7611165113364.gif" alt="傳統工藝傳承(另開新視窗)"></a></li>
+<li><a href="HitCounter.asp?xItem=89950&amp;mp=088" title="自營商品展售商城(另開新視窗)" target="_nwGip"><img src="public/Data/7611165011550.gif" alt="自營商品展售商城(另開新視窗)"></a></li>
+<li><a href="HitCounter.asp?xItem=89949&amp;mp=088" title="矯正機關承攬委託加工(另開新視窗)" target="_nwGip"><img src="public/Data/7611164913814.gif" alt="矯正機關承攬委託加工(另開新視窗)"></a></li>
+<li><a href="HitCounter.asp?xItem=79474&amp;mp=088" title="預約接見登記網(另開新視窗)" target="_nwGip"><img src="public/Data/718153513793.gif" alt="預約接見登記網(另開新視窗)"></a></li>
+<li><a href="HitCounter.asp?xItem=44451&amp;mp=088" title="法務部全球資訊網(另開新視窗)" target="_nwGip"><img src="public/Data/012101459621.jpg" alt="法務部全球資訊網(另開新視窗)"></a></li>
+</ul>
+</div>
+<div class="next"><img alt="下一頁" title="下一頁" src="xslGip/unit088/images/button.png"></div>
+</div> 
+<script type="text/javascript">
+$(function(){
+var $_block = $('#_bannerBlock'),
+	$_slides = $('ul.list', $_block),
+	$_width = $_slides.find('li').width(),
+	$_animateSpeed = 600,
+	$_animateTimeout = 15000,
+	$_stop = false,
+	bannerTurn = '',
+	$_rightSize = ($_slides.find('li').size()*$_width-$_block.width())*-1;
+	// 移動主函式
+	function _move(){
+		clearTimeout($_timer);
+		if(bannerTurn=='right'){
+			$_slides.css({left: $_rightSize});
+			$_slides.stop().animate({
+				left: '+='+$_block.width()
+			}, $_animateSpeed, function(){
+				$_slides.stop().css({left: $_rightSize});
+				$_slides.find('li:last').prependTo($_slides);
+				$_slides.find('li:last').prependTo($_slides);
+				$_slides.find('li:last').prependTo($_slides);
+				$_slides.find('li:last').prependTo($_slides);
+				$_slides.find('li:last').prependTo($_slides);
+				if(!$_stop){
+					$_timer = setTimeout(_move, $_animateTimeout);
+				}
+			});
+		}else{
+			$_slides.css({left: ''});
+			$_slides.stop().animate({
+				left: '-='+$_block.width()
+			}, $_animateSpeed, function(){
+				$_slides.stop().css({left: ""});
+				$_slides.find('li').eq(0).appendTo($_slides);
+				$_slides.find('li').eq(0).appendTo($_slides);
+				$_slides.find('li').eq(0).appendTo($_slides);
+				$_slides.find('li').eq(0).appendTo($_slides);
+				$_slides.find('li').eq(0).appendTo($_slides);
+				if(!$_stop){
+					$_timer = setTimeout(_move, $_animateTimeout);
+				}
+			});
+		}
+	}
+	// 移動列滑鼠事件
+	$_slides.hover(function(){
+		$_stop = true;
+	}, function(){
+		$_stop = false;
+		//_move();
+	});
+	// 向左鍵事件
+	$('#_abgneBlock .prevten').click(function(){$_slides.stop();bannerTurn='left';_move();});
+	// 向右鍵事件
+	$('#_abgneBlock .next').click(function(){$_slides.stop();bannerTurn='right';_move();});
+
+	$_timer = setTimeout(_move, $_animateTimeout);
+	
+});
+
+
+</script>
+ </div>
+<div class="Centerbottom"><img src="xslGip/unit088/images/center_bottomleft.gif" alt="*"/></div>
+</td>
+</tr>
+</table>
+<div class="sildeCtrl" xmlns="">
+<ul>
+<li><a href="np.asp?ctNode=7574&amp;mp=088" title="機關簡介">機關簡介</a><ul>
+<li><a href="np.asp?ctNode=7575&amp;mp=088" title="歷史沿革">歷史沿革</a></li>
+<li><a href="np.asp?ctNode=7576&amp;mp=088" title="首長介紹">首長介紹</a></li>
+<li><a href="np.asp?ctNode=7577&amp;mp=088" title="首長信箱(另開新視窗)" target="_nwGip">首長信箱</a></li>
+<li><a href="np.asp?ctNode=15708&amp;mp=088" title="組織架構">組織架構</a></li>
+<li><a href="np.asp?ctNode=15710&amp;mp=088" title="業務介紹">業務介紹</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=7578&amp;mp=088" title="民眾導覽">民眾導覽</a><ul>
+<li><a href="np.asp?ctNode=20500&amp;mp=088" title="機關位置圖">機關位置圖</a></li>
+<li><a href="http://www.tpj.moj.gov.tw/bbssp.asp?xdURL=/bossmail.asp&mp=088&EmailID=2" title="民意信箱(另開新視窗)" target="_nwGip">民意信箱</a></li>
+<li><a href="lp.asp?ctNode=7579&amp;CtUnit=1496&amp;BaseDSD=7&amp;mp=088" title="便民服務專區">便民服務專區</a></li>
+<li><a href="np.asp?ctNode=7580&amp;mp=088" title="接見室位置圖">接見室位置圖</a></li>
+<li><a href="np.asp?ctNode=15695&amp;mp=088" title="遠距接見">遠距接見</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=7581&amp;mp=088" title="為民服務">為民服務</a><ul>
+<li><a href="lp.asp?ctNode=40063&amp;CtUnit=15948&amp;BaseDSD=7&amp;mp=088" title="行政流程－標準作業程序">行政流程－標準作業程序</a></li>
+<li><a href="np.asp?ctNode=7582&amp;mp=088" title="連絡方式">連絡方式</a></li>
+<li><a href="lp.asp?ctNode=32177&amp;CtUnit=11788&amp;BaseDSD=7&amp;mp=088" title="檔案應用服務">檔案應用服務</a></li>
+<li><a href="lp.asp?ctNode=28241&amp;CtUnit=9335&amp;BaseDSD=7&amp;mp=088" title="表單下載及申辦">表單下載及申辦</a></li>
+<li><a href="np.asp?ctNode=14285&amp;mp=088" title="為民服務白皮書">為民服務白皮書</a></li>
+<li><a href="lp.asp?ctNode=19476&amp;CtUnit=3762&amp;BaseDSD=7&amp;mp=088" title="民意調查">民意調查</a></li>
+<li><a href="lp.asp?ctNode=23463&amp;CtUnit=6507&amp;BaseDSD=7&amp;mp=088" title="便民措施問答集">便民措施問答集</a></li>
+<li><a href="np.asp?ctNode=24326&amp;mp=088" title="便民措施申辦系統">便民措施申辦系統</a></li>
+<li><a href="lp.asp?ctNode=23042&amp;CtUnit=6192&amp;BaseDSD=7&amp;mp=088" title="提升服務品質執行成果">提升服務品質執行成果</a></li>
+<li><a href="http://www.moj.gov.tw/bbssp.asp?xdurl=mojEpaper.asp" title="法務部電子報訂閱(另開新視窗)" target="_nwGip">法務部電子報訂閱</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=20614&amp;mp=088" title="政府資訊公開">政府資訊公開</a><ul>
+<li><a href="lp.asp?ctNode=43277&amp;CtUnit=7746&amp;BaseDSD=7&amp;mp=088" title="重大政策">重大政策</a></li>
+<li><a href="lp.asp?ctNode=41407&amp;CtUnit=16840&amp;BaseDSD=7&amp;mp=088" title="政府資料開放">政府資料開放</a></li>
+<li><a href="np.asp?ctNode=36577&amp;mp=088" title="會計報告、預算書及決算書">會計報告、預算書及決算書</a></li>
+<li><a href="lp.asp?ctNode=40066&amp;CtUnit=15949&amp;BaseDSD=7&amp;mp=088" title="政府資訊公開法">政府資訊公開法</a></li>
+<li><a href="lp.asp?ctNode=31117&amp;CtUnit=11023&amp;BaseDSD=7&amp;mp=088" title="施政計畫">施政計畫</a></li>
+<li><a href="lp.asp?ctNode=20617&amp;CtUnit=2297&amp;BaseDSD=7&amp;mp=088" title="本所行政規則">本所行政規則</a></li>
+<li><a href="lp.asp?ctNode=22820&amp;CtUnit=6028&amp;BaseDSD=7&amp;mp=088" title="業務統計(另開新視窗)" target="_nwGip">業務統計</a></li>
+<li><a href="lp.asp?ctNode=22821&amp;CtUnit=6537&amp;BaseDSD=7&amp;mp=088" title="採購公告">採購公告</a></li>
+<li><a href="lp.asp?ctNode=22822&amp;CtUnit=6030&amp;BaseDSD=7&amp;mp=088" title="補充說明彙總表">補充說明彙總表</a></li>
+<li><a href="lp.asp?ctNode=33723&amp;CtUnit=12921&amp;BaseDSD=7&amp;mp=088" title="保有及管理個人資料檔案彙整表">保有及管理個人資料檔案彙整表</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=43278&amp;mp=088" title="業務園地">業務園地</a><ul>
+<li><a href="lp.asp?ctNode=43279&amp;CtUnit=14364&amp;BaseDSD=7&amp;mp=088" title="公益服務">公益服務</a></li>
+<li><a href="lp.asp?ctNode=43280&amp;CtUnit=11445&amp;BaseDSD=7&amp;mp=088" title="生命及品格教育專區">生命及品格教育專區</a></li>
+<li><a href="lp.asp?ctNode=43281&amp;CtUnit=4529&amp;BaseDSD=7&amp;mp=088" title="親子教育研究">親子教育研究</a></li>
+<li><a href="lp.asp?ctNode=43282&amp;CtUnit=6517&amp;BaseDSD=7&amp;mp=088" title="青雲學苑期刊">青雲學苑期刊</a></li>
+<li><a href="lp.asp?ctNode=43383&amp;CtUnit=17653&amp;BaseDSD=7&amp;mp=088" title="青雲有愛">青雲有愛</a></li>
+<li><a href="np.asp?ctNode=43283&amp;mp=088" title="衛生業務成效">衛生業務成效</a></li>
+<li><a href="lp.asp?ctNode=43284&amp;CtUnit=10348&amp;BaseDSD=7&amp;mp=088" title="醫療資訊">醫療資訊</a></li>
+<li><a href="lp.asp?ctNode=43382&amp;CtUnit=1016&amp;BaseDSD=7&amp;mp=088" title="矯正體系中英文對照表">矯正體系中英文對照表</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=7592&amp;mp=088" title="廉政天地">廉政天地</a><ul>
+<li><a href="lp.asp?ctNode=32586&amp;CtUnit=12096&amp;BaseDSD=7&amp;mp=088" title="請託關說登錄查察專區">請託關說登錄查察專區</a></li>
+<li><a href="lp.asp?ctNode=33203&amp;CtUnit=12565&amp;BaseDSD=7&amp;mp=088" title="廉政問卷調查">廉政問卷調查</a></li>
+<li><a href="lp.asp?ctNode=43296&amp;CtUnit=17605&amp;BaseDSD=7&amp;mp=088" title="獎勵保護檢舉貪污瀆職專區">獎勵保護檢舉貪污瀆職專區</a></li>
+<li><a href="np.asp?ctNode=29649&amp;mp=088" title="業務執掌">業務執掌</a></li>
+<li><a href="np.asp?ctNode=7595&amp;mp=088" title="檢舉信箱">檢舉信箱</a></li>
+<li><a href="lp.asp?ctNode=7596&amp;CtUnit=386&amp;BaseDSD=7&amp;mp=088" title="政風宣導">政風宣導</a></li>
+<li><a href="lp.asp?ctNode=7594&amp;CtUnit=5765&amp;BaseDSD=7&amp;mp=088" title="公務員廉政倫理規範專區">公務員廉政倫理規範專區</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=12370&amp;mp=088" title="統計園地">統計園地</a><ul>
+<li><a href="lp.asp?ctNode=13213&amp;CtUnit=757&amp;BaseDSD=7&amp;mp=088" title="園地導覽">園地導覽</a></li>
+<li><a href="np.asp?ctNode=13214&amp;mp=088" title="收容情形">收容情形</a></li>
+<li><a href="np.asp?ctNode=13216&amp;mp=088" title="業務成效">業務成效</a></li>
+<li><a href="lp.asp?ctNode=42213&amp;CtUnit=17098&amp;BaseDSD=7&amp;mp=088" title="統計輯要">統計輯要</a></li>
+<li><a href="http://www.rjsd.moj.gov.tw/RJSDWEB/common/SubMenu.aspx?menu=ANALYSIS" title="專題分析(另開新視窗)" target="_nwGip">專題分析</a></li>
+<li><a href="http://www.rjsd.moj.gov.tw/RJSDWEB/common/RelatedWebsite.aspx" title="法務部統計相關網站(另開新視窗)" target="_nwGip">法務部統計相關網站</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=26056&amp;mp=088" title="影音專區">影音專區</a><ul>
+<li><a href="http://www.moj.gov.tw/lp.asp?ctNode=27496&CtUnit=8021&BaseDSD=7&mp=001" title="影音下載(Youtube)(另開新視窗)" target="_nwGip">影音下載(Youtube)</a></li>
+<li><a href="http://www.moj.gov.tw/lp.asp?ctNode=27485&CtUnit=9384&BaseDSD=7&mp=001" title="動畫下載(Video)(另開新視窗)" target="_nwGip">動畫下載(Video)</a></li>
+<li><a href="http://www.moj.gov.tw/lp.asp?ctNode=28305&CtUnit=8321&BaseDSD=7&mp=001" title="影音下載(Audio)(另開新視窗)" target="_nwGip">影音下載(Audio)</a></li>
+<li><a href="http://www.moj.gov.tw/lp.asp?CtNode=27493&CtUnit=675&BaseDSD=9&mp=001" title="宣導資料下載(另開新視窗)" target="_nwGip">宣導資料下載</a></li>
+<li><a href="lp.asp?ctNode=26057&amp;CtUnit=8196&amp;BaseDSD=7&amp;mp=088" title="動畫影音下載">動畫影音下載</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=7586&amp;mp=088" title="電子公布欄">電子公布欄</a><ul>
+<li><a href="lp.asp?ctNode=14591&amp;CtUnit=1182&amp;BaseDSD=7&amp;mp=088" title="最新訊息">最新訊息</a></li>
+<li><a href="lp.asp?ctNode=43285&amp;CtUnit=1014&amp;BaseDSD=7&amp;mp=088" title="少年活動照片">少年活動照片</a></li>
+<li><a href="lp.asp?ctNode=43286&amp;CtUnit=1010&amp;BaseDSD=7&amp;mp=088" title="少年活動排程表">少年活動排程表</a></li>
+<li><a href="np.asp?ctNode=43287&amp;mp=088" title="衛生教育宣導">衛生教育宣導</a></li>
+<li><a href="lp.asp?ctNode=43288&amp;CtUnit=7747&amp;BaseDSD=7&amp;mp=088" title="就業資訊">就業資訊</a></li>
+<li><a href="http://www.tpj.moj.gov.tw/lp.asp?CtNode=22821&CtUnit=6537&BaseDSD=7&mp=088" title="採購公告">採購公告</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="Bottomtop" xmlns=""><img src="xslGip/unit088/images/bottom_topl.gif" alt="*"></div>
+<div class="Bottommiddle" xmlns="">
+<div id="Bottom"><p>
+<table width="100%" border="0">
+  <tr>
+    <td colspan="2" align="center"><a href="https://plus.google.com/116599899443361270421" target="_nwMof"><img src="http://www.tpj.moj.gov.tw/site/moj/public/MMO/tpj/google.gif" width="150" height="50" alt="Google相簿" title="臺北少年觀護所Google相簿(另開視窗)" longdesc="https://plus.google.com/116599899443361270421" /></a></td>
+    <td rowspan="2">│ <A title="" href="http://www.moj.gov.tw/ct.asp?xItem=28285&CtNode=27589">隱私權保護宣告</A> │ <A title="" href="http://www.moj.gov.tw/np.asp?ctNode=27458">資訊安全政策宣告</A> │ <A title="" href="http://www.tpj.moj.gov.tw/bbssp.asp?xdURL=/bossmail.asp&mp=088&EmailID=2">民意信箱</A>&nbsp;│<A title="" href="http://www.tpj.moj.gov.tw/ct.asp?xItem=17344&CtNode=7595&mp=088">檢舉信箱</A><FONT color=#000000>│</FONT><A title="" href="http://www.tpj.moj.gov.tw/ct.asp?xItem=100514&CtNode=20500&mp=088">機關位置圖</A><FONT title="" color=#000000>│<A title="" href="http://www.tpj.moj.gov.tw/ct.asp?xItem=6437&CtNode=7580&mp=088">接見位置圖</A> │ <A title="" href="http://www.tpj.moj.gov.tw/ct.asp?xItem=193886&ctNode=25346&mp=088">資料開放宣告</A>│</FONT><BR>
+      地址：23654新北市土城區石門路4號&nbsp;&nbsp;&nbsp; 總機電話：（02）2261-1181&nbsp;&nbsp;&nbsp;&nbsp; 接見查詢 ：( 02)2261-1181轉 286&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 少年資料查詢：(02)2261-1181轉207&nbsp;<BR>
+    法務部矯正署臺北少年觀護所全球資訊網&nbsp;&nbsp; <A target="_nwMof" href="http://www.tpj.moj.gov.tw/mp088.html">http://www.tpj.moj.gov.tw</A>　建議使用IE 8.0以上版本&nbsp;&nbsp; 最佳觀看解析度1440x900</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/channel/UCIIiyQEtJyWu9UPMt2n-13w" target=_nwMof><img border=0 title="臺北少年觀護所YouTube專區(另開視窗)" alt=YouTube src="http://www.tpj.moj.gov.tw/site/moj/public/MMO/tpj/youtube.jpg" mmoid="387352" style="margin-bottom:2px" /><br />
+    </a><A title=無障礙網站 href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20141031152134" target=_nwMof><IMG border=0 alt=通過A+優先等級無障礙網頁檢測 src="http://www.tpj.moj.gov.tw/public/Data/712916714736.jpg" width=88 height=31></A></td>
+    <td><a href="http://www.tpj.moj.gov.tw/mp0881.html" target=_nwMof><img border=0 src="http://www.moj.gov.tw/site/moj/public/MMO/tpj/QRC.jpg" alt=行動版網頁 width="62" height="62" title="行動版網頁" mmoid="387352"></a></td>
+  </tr>
+</table>
+</P><div id="Counter">來訪人次：<span>441292</span></div>
+</div>
+</div>
+<div class="Bottombottom" xmlns=""><img src="xslGip/unit088/images/bottom_bottoml.gif" alt="*"></div>
+</div>
+</body>
+</html>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38156069-1']);
+  _gaq.push(['_setDomainName', 'tpj.moj.gov.tw']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>

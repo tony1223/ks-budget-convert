@@ -1,0 +1,1923 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	法定預算 - 政府資訊公開 - 行政院農委會漁業署
+</title><link href="../css/firefox.css" rel="stylesheet" type="text/css" /><link href="../css/sitmap.css" rel="stylesheet" type="text/css" /><link href="../css/youtube.css" rel="stylesheet" type="text/css" /><link href="../css/video.css" rel="stylesheet" type="text/css" />
+    <script src="/cht/Scripts/swfobject_modified.js" type="text/javascript"></script>
+    <script src="/cht/Scripts/jquery.tools.min.js" type="text/javascript"></script>
+    <script  src="/cht/Scripts/jquery.hoverIntent.js" type="text/javascript"></script>
+    <script  src="/cht/Scripts/jquery.idTabs.min.js" type="text/javascript"></script>
+    <script  src="/cht/Scripts/jquery.belatedPNG.min.js" type="text/javascript"></script>
+    <script  src="/cht/Scripts/ScrollPic.js" type="text/javascript"></script>
+    <script  src="/cht/Scripts/screenDetectInner.js" type="text/javascript"></script>
+    <script src="/cht/Scripts/fontsize.js" type="text/javascript"></script>
+    <script  type="text/javascript" src="/cht/Scripts/fontsize.js"></script>
+    <script  type="text/javascript" src="/cht/Scripts/website.js">
+  <script type="text/javascript">
+  $(function () {
+    $(".bottom").fixPng();
+    $(".png").fixPng();
+    $(".form").fixPng();
+	$(".subject img").fixPng();
+	$(".service img").fixPng();
+  });  
+    </script>
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-27415737-2']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <noscript>您的 Browser 不支援 Javascript , 但是並不會影響您觀看本站的內容</noscript>
+    
+
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-49992525-1', 'fa.gov.tw');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body id="zone.content" style="margin: 0; padding: 0; height: 100%; background-image: none; /* background-color: #eef4ff; */font-size: 1.3em;">
+    <div class="index_mBox">
+        <div>
+            <header id="HEADER">
+			<div class="top_blocks">
+				<div style="position:absolute; left: 5px; top: 5px; z-index:9999;">
+					<a href="#head" class="accesskey" title="標頭區 (Alt+U)" id="A1" accesskey="U">:::</a>
+				</div>
+				<div class="top_block01">
+					<div class="index_tBox">
+						<div class="top_links">
+							<a href="../sitemap/" class="first"><span>網站導覽</span></a>
+							<a href="../index.aspx"><span>回首頁</span></a>
+							<a href="../../en/index.aspx"><span>English</span></a>
+							<a href="../../kids/index.aspx"><span>兒童版</span></a>
+							
+							<a href="../ForumsFaq/index.aspx" title="常見問答"><span>常見問答</span></a>
+							<a href="../Bilingual/"><span>雙語詞彙</span></a>
+							<a href="../Rss/index.aspx" class="last"><span>RSS</span></a>
+							
+							<a href="https://www.facebook.com/groups/203538293108496/" target="_blank" class="social_btn" title="FaceBook"><span><img src="../images/131116_img/fb_btn.png" alt="FaceBook" /></span></a>
+							<a href="http://www.youtube.com/user/FaCoaVideo" class="social_btn" target="_blank" title="Youtube"><span><img src="../images/131210_img/yt_btn.png" alt="Youtube" /></span></a>
+							<a href="#fatfooter" id="ffuter_qbtn"><span>全部選單</span></a>
+						</div>
+						<div class="font_search">
+							<form id="frmSearch" name="frmSearch" method="post" action="/cht/search.aspx">
+								<div class="fs_box">
+									
+									<div class="serach_box">
+										<input type="text" ID="keywords" accesskey="S" name="keywords" class="SearchKeyIn" value="">
+										<input type="submit" ID="btnSearchS" name="btnSearchS" class="button" value="送出">
+										<span class="btnAdvSearch"><a class="btnSearchS" href="/cht/search/search.aspx">進階搜尋</a></span>
+									</div>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+				<div style="clear:left;*height:0"></div>
+			</div>
+		</header>
+
+            <div class="inner_middle">
+                <div class="inner_lmenu">
+                    <aside class="inner_lmenu">
+				<a id="sidebarLeft" title="左選單導覽區 (Alt+L)" accesskey="L" href="#sidebarLeft" class="accesskey">:::</a>
+				<p class="dispear">行政院農委會漁業署</p>
+				<div class="inner_logo"><a href="../index.aspx" title="行政院農委會漁業署"><img src="../images/131116_img/web_logo.png" alt="logo" /></a></div>
+				<div id="leftMenu_box">
+					<ul id="l_Menu">
+						
+                                        <li>
+                                            
+                                            <a id="ctl00_rptRoot_ctl00_hlRoot" title="關於漁業署" href="/cht/AbFa/index.aspx">關於漁業署</a>
+                                            
+                                                    
+                                                    <ul>
+                                                        
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl00_rptNode_ctl00_hlNode" title="機關沿革" href="/cht/AbFaHistory/index.aspx">機關沿革</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl00_rptNode_ctl01_hlNode" title="署徽故事" href="/cht/AbFaLogo/index.aspx">署徽故事</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl00_rptNode_ctl02_hlNode" title="署長簡介" href="/cht/AbFaAboutDirector/index.aspx">署長簡介</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl00_rptNode_ctl03_hlNode" title="歷任首長" href="/cht/AbFaAboutDirector_history/index.aspx">歷任首長</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl00_rptNode_ctl04_hlNode" title="業務職掌" href="/cht/AbFaBusiness/index.aspx">業務職掌</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl00_rptNode_ctl05_hlNode" title="聯絡資訊" href="/cht/AbFaContactInfo/index.aspx">聯絡資訊</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl00_rptNode_ctl06_hlNode" title="交通資訊" href="/cht/AbFaLocationInfo/index.aspx">交通資訊</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                    </ul>
+                                                
+                                            </br>
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                            <a id="ctl00_rptRoot_ctl01_hlRoot" title="漁業政策" href="/cht/Policy/index.aspx">漁業政策</a>
+                                            
+                                                    
+                                                    <ul>
+                                                        
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl01_rptNode_ctl00_hlNode" title="重大政策" href="/cht/PolicyImportant/index.aspx">重大政策</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl01_rptNode_ctl01_hlNode" title="重要措施及成果" href="/cht/ImportantMeasure/index.aspx">重要措施及成果</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl01_rptNode_ctl02_hlNode" title="大事紀" href="/cht/PolicyMeasure/index.aspx">大事紀</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl01_rptNode_ctl03_hlNode" title="打擊IUU漁業" href="/cht/PolicyIUU/index.aspx">打擊IUU漁業</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl01_rptNode_ctl04_hlNode" title="海域主權" href="/cht/PolicySovereignty/index.aspx">海域主權</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                    </ul>
+                                                
+                                            </br>
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                            <a id="ctl00_rptRoot_ctl02_hlRoot" title="訊息公告" href="/cht/AnnounceL/index.aspx">訊息公告</a>
+                                            
+                                                    
+                                                    <ul>
+                                                        
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl02_rptNode_ctl00_hlNode" title="公告資訊" href="/cht/Announce/index.aspx">公告資訊</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl02_rptNode_ctl01_hlNode" title="招標資訊" href="/cht/AnnounceTender/index.aspx">招標資訊</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl02_rptNode_ctl02_hlNode" title="就業資訊" href="/cht/AnnounceJobInfo/index.aspx">就業資訊</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl02_rptNode_ctl03_hlNode" title="航安資訊" href="/cht/AnnounceShooting/index.aspx">航安資訊</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl02_rptNode_ctl04_hlNode" title="檢驗專區" href="/cht/AnnounceFishInspects/content.aspx?id=1&amp;chk=bb93fbe3-d3e5-4687-ba90-4f0eeda8a5dc&amp;param=pn%3d1">檢驗專區</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl02_rptNode_ctl05_hlNode" title="輸歐盟供貨漁船及養殖場登錄名單" href="/cht/ServiceEuro/index.aspx">輸歐盟供貨漁船及養殖場登錄名單</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl02_rptNode_ctl06_hlNode" title="人事異動" href="/cht/AnnouncePersonnel/index.aspx">人事異動</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl02_rptNode_ctl07_hlNode" title="封溪護魚" href="/cht/AnnounceFish/index.aspx">封溪護魚</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                    </ul>
+                                                
+                                            </br>
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                            <a id="ctl00_rptRoot_ctl03_hlRoot" title="漁業新聞" href="/cht/News/index.aspx">漁業新聞</a>
+                                            
+                                                    
+                                                    <ul>
+                                                        
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl03_rptNode_ctl00_hlNode" title="新聞稿" href="/cht/NewsPaper/index.aspx">新聞稿</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl03_rptNode_ctl01_hlNode" title="漁業輿情" href="/cht/NewsOpinion/index.aspx">漁業輿情</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl03_rptNode_ctl02_hlNode" title="活動剪影" href="/cht/EventsPhoto/index.aspx">活動剪影</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                    </ul>
+                                                
+                                            </br>
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                            <a id="ctl00_rptRoot_ctl04_hlRoot" title="漁業法令" href="/cht/Laws/index.aspx">漁業法令</a>
+                                            
+                                                    
+                                                    <ul>
+                                                        
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl04_rptNode_ctl00_hlNode" title="最新法規" href="/cht/LawsNew/index.aspx">最新法規</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl04_rptNode_ctl01_hlNode" title="法規檢索" href="/cht/LawsSearch/index.aspx">法規檢索</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl04_rptNode_ctl02_hlNode" title="中央法規" href="/cht/LawsCentralFisheries/index.aspx">中央法規</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl04_rptNode_ctl03_hlNode" title="行政規則" href="/cht/LawsRuleFisheries/index.aspx">行政規則</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl04_rptNode_ctl04_hlNode" title="行政函釋" href="/cht/LawsReleaseFisheries/index.aspx">行政函釋</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl04_rptNode_ctl05_hlNode" title="法令公告" href="/cht/LawsAnnounceFisheries/index.aspx">法令公告</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl04_rptNode_ctl06_hlNode" title="法規命令草案預告" href="/cht/LawDraft/index.aspx">法規命令草案預告</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl04_rptNode_ctl07_hlNode" title="大陸船員管理法規" href="/cht/LawCn/index.aspx">大陸船員管理法規</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl04_rptNode_ctl08_hlNode" title="直轄市及縣市政府公告法令" href="/cht/LawsGov/index.aspx">直轄市及縣市政府公告法令</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                    </ul>
+                                                
+                                            </br>
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                            <a id="ctl00_rptRoot_ctl05_hlRoot" title="雙向交流" href="/cht/Forums/index.aspx">雙向交流</a>
+                                            
+                                                    
+                                                    <ul>
+                                                        
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl05_rptNode_ctl00_hlNode" title="署長信箱" href="/cht/ForumsDirectorMail/index.aspx">署長信箱</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl05_rptNode_ctl01_hlNode" title="意見交流" href="/cht/ForumsGuest/index.aspx">意見交流</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl05_rptNode_ctl02_hlNode" title="常見問答集" href="/cht/ForumsFaq/index.aspx">常見問答集</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl05_rptNode_ctl03_hlNode" title="漁產品食安專區" href="/cht/SeafoodSafeC/index.aspx">漁產品食安專區</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                    </ul>
+                                                
+                                            </br>
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                            <a id="ctl00_rptRoot_ctl06_hlRoot" title="便民服務" href="/cht/Service/index.aspx">便民服務</a>
+                                            
+                                                    
+                                                    <ul>
+                                                        
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl06_rptNode_ctl00_hlNode" title="線上表單" href="/cht/ServiceApply/index.aspx">線上表單</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl06_rptNode_ctl01_hlNode" title="各項業務申請" href="/cht/ServiceApplyFishery/index.aspx">各項業務申請</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl06_rptNode_ctl02_hlNode" title="政風資訊" href="/cht/ServiceEthics/index.aspx">政風資訊</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl06_rptNode_ctl03_hlNode" title="下載服務" href="/cht/ServiceDownFileApply/index.aspx">下載服務</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl06_rptNode_ctl04_hlNode" title="WTO與FAO漁業資訊" href="/cht/ServiceWto/index.aspx">WTO與FAO漁業資訊</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl06_rptNode_ctl05_hlNode" title="產銷班資訊" href="/cht/PolicyMarketing/index.aspx">產銷班資訊</a>
+                                                                    
+                                                                    
+                                                                            <ul>
+                                                                                
+                                                                                        <li>
+                                                                                            <a id="ctl00_rptRoot_ctl06_rptNode_ctl05_rptNode2_ctl00_hlNode2" title="漁業產銷班資訊服務網(開新視窗)" href="http://fased.fa.gov.tw/fa-Sed/jsp/login.jsp" target="_Blank">漁業產銷班資訊服務網</a>
+                                                                                        </li>
+                                                                                    
+                                                                                        <li>
+                                                                                            <a id="ctl00_rptRoot_ctl06_rptNode_ctl05_rptNode2_ctl01_hlNode2" title="漁業產銷班發展概況" href="/cht/FishClass/index.aspx">漁業產銷班發展概況</a>
+                                                                                        </li>
+                                                                                    
+                                                                            </ul>
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl06_rptNode_ctl06_hlNode" title="漁業執照掛失" href="/cht/License/index.aspx">漁業執照掛失</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl06_rptNode_ctl07_hlNode" title="租用漁船線上作業系統(開新視窗)" href="http://faejb.fa.gov.tw:8080/BoatManage/pages/index.jsp" target="_Blank">租用漁船線上作業系統</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                    </ul>
+                                                
+                                            </br>
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                            <a id="ctl00_rptRoot_ctl07_hlRoot" title="漁業資源" href="/cht/Resource/index.aspx">漁業資源</a>
+                                            
+                                                    
+                                                    <ul>
+                                                        
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl07_rptNode_ctl00_hlNode" title="沿近海漁業" href="/cht/ResourceCoastal/index.aspx">沿近海漁業</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl07_rptNode_ctl01_hlNode" title="專用漁業權" href="/cht/ResourceFishRight/index.aspx">專用漁業權</a>
+                                                                    
+                                                                    
+                                                                            <ul>
+                                                                                
+                                                                                        <li>
+                                                                                            <a id="ctl00_rptRoot_ctl07_rptNode_ctl01_rptNode2_ctl00_hlNode2" title="95年起核發" href="/cht/ResourceFishRight/index.aspx">95年起核發</a>
+                                                                                        </li>
+                                                                                    
+                                                                                        <li>
+                                                                                            <a id="ctl00_rptRoot_ctl07_rptNode_ctl01_rptNode2_ctl01_hlNode2" title="歷史核發資料" href="/cht/ResourceFishRightOld/index.aspx">歷史核發資料</a>
+                                                                                        </li>
+                                                                                    
+                                                                            </ul>
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl07_rptNode_ctl02_hlNode" title="資源保育區" href="/cht/ResourceConservation/index.aspx">資源保育區</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl07_rptNode_ctl03_hlNode" title="人工魚礁、保護礁區資訊" href="/cht/ResourceOtherZones/index.aspx">人工魚礁、保護礁區資訊</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl07_rptNode_ctl04_hlNode" title="世界海洋日" href="/cht/ResourceWorldOceansDay/index.aspx">世界海洋日</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl07_rptNode_ctl05_hlNode" title="三大洋禁捕鯊魚及魟類物種" href="/cht/BanShark/content.aspx?id=1&amp;chk=fa304e06-4aa1-440b-a2c8-f59c10f234e6&amp;param=pn%3d1">三大洋禁捕鯊魚及魟類物種</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl07_rptNode_ctl06_hlNode" title="養護及執法成果" href="/cht/ResourceAchievement/index.aspx">養護及執法成果</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl07_rptNode_ctl07_hlNode" title="鯊魚鰭不離身專區" href="http://www.fa.gov.tw/cht/AnnounceShark/content.aspx?id=1&amp;chk=8e606978-56f8-4ef2-a8ee-aacbc4d549a7&amp;pa">鯊魚鰭不離身專區</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl07_rptNode_ctl08_hlNode" title="臺灣的海洋保護區" href="/cht/TaiwanOceansProtectionAreas/content.aspx?id=1&amp;chk=2001739d-d4cd-4ded-bf92-d570912baf08">臺灣的海洋保護區</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl07_rptNode_ctl09_hlNode" title="流域綜合治理計畫" href="/cht/IWMP_Plan/index.aspx">流域綜合治理計畫</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                    </ul>
+                                                
+                                            </br>
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                            <a id="ctl00_rptRoot_ctl08_hlRoot" title="資訊與服務" href="/cht/InformationServices/index.aspx">資訊與服務</a>
+                                            
+                                                    
+                                                    <ul>
+                                                        
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl08_rptNode_ctl00_hlNode" title="農委會核准我國漁船赴三大洋作業漁船名單" href="/cht/BoatListInIFMO/index.aspx">農委會核准我國漁船赴三大洋作業漁船名單</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl08_rptNode_ctl01_hlNode" title="海盜資訊" href="/cht/AnnouncePirate/index.aspx">海盜資訊</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl08_rptNode_ctl02_hlNode" title="寒害潛勢分析" href="/cht/AnnounceDisaster/index.aspx">寒害潛勢分析</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl08_rptNode_ctl03_hlNode" title="有機水產" href="/cht/AnnounceProduct/index.aspx">有機水產</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl08_rptNode_ctl04_hlNode" title="漁會選舉" href="/cht/AnnounceElection/index.aspx">漁會選舉</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                    </ul>
+                                                
+                                            </br>
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                            <a id="ctl00_rptRoot_ctl09_hlRoot" title="統計與出版品" href="/cht/Publications/index.aspx">統計與出版品</a>
+                                            
+                                                    
+                                                    <ul>
+                                                        
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl09_rptNode_ctl00_hlNode" title="漁業統計" href="/cht/Publications/index_L3_1_1.aspx">漁業統計</a>
+                                                                    
+                                                                    
+                                                                            <ul>
+                                                                                
+                                                                                        <li>
+                                                                                            <a id="ctl00_rptRoot_ctl09_rptNode_ctl00_rptNode2_ctl00_hlNode2" title="漁業統計年報" href="/cht/PublicationsFishYear/index.aspx">漁業統計年報</a>
+                                                                                        </li>
+                                                                                    
+                                                                                        <li>
+                                                                                            <a id="ctl00_rptRoot_ctl09_rptNode_ctl00_rptNode2_ctl01_hlNode2" title="漁家經濟調查年報" href="/cht/PublicationsFishEco/index.aspx">漁家經濟調查年報</a>
+                                                                                        </li>
+                                                                                    
+                                                                                        <li>
+                                                                                            <a id="ctl00_rptRoot_ctl09_rptNode_ctl00_rptNode2_ctl02_hlNode2" title="漁業調查統計手冊內容" href="/cht/PublicationsFishBook/index.aspx">漁業調查統計手冊內容</a>
+                                                                                        </li>
+                                                                                    
+                                                                                        <li>
+                                                                                            <a id="ctl00_rptRoot_ctl09_rptNode_ctl00_rptNode2_ctl03_hlNode2" title="養殖魚種放養量累計表" href="/cht/PublicationsFishFarm/index.aspx">養殖魚種放養量累計表</a>
+                                                                                        </li>
+                                                                                    
+                                                                                        <li>
+                                                                                            <a id="ctl00_rptRoot_ctl09_rptNode_ctl00_rptNode2_ctl04_hlNode2" title="公務統計表報表" href="/cht/PublicationsFishOfficial/index.aspx">公務統計表報表</a>
+                                                                                        </li>
+                                                                                    
+                                                                                        <li>
+                                                                                            <a id="ctl00_rptRoot_ctl09_rptNode_ctl00_rptNode2_ctl05_hlNode2" title="漁業資源養護及執法成果" href="/cht/PublicationsAchievementCount/index.aspx">漁業資源養護及執法成果</a>
+                                                                                        </li>
+                                                                                    
+                                                                                        <li>
+                                                                                            <a id="ctl00_rptRoot_ctl09_rptNode_ctl00_rptNode2_ctl06_hlNode2" title="漁業統計調查研討會資料" href="/cht/Seminar/index.aspx">漁業統計調查研討會資料</a>
+                                                                                        </li>
+                                                                                    
+                                                                                        <li>
+                                                                                            <a id="ctl00_rptRoot_ctl09_rptNode_ctl00_rptNode2_ctl07_hlNode2" title="辦理國家賠償事件處理情形統計表" href="/cht/StateCompensation/index.aspx">辦理國家賠償事件處理情形統計表</a>
+                                                                                        </li>
+                                                                                    
+                                                                            </ul>
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl09_rptNode_ctl01_hlNode" title="出版品" href="/cht/Publications/index_L3_2_1.aspx">出版品</a>
+                                                                    
+                                                                    
+                                                                            <ul>
+                                                                                
+                                                                                        <li>
+                                                                                            <a id="ctl00_rptRoot_ctl09_rptNode_ctl01_rptNode2_ctl00_hlNode2" title="漁業百年成果" href="/cht/PublicationsAchievement">漁業百年成果</a>
+                                                                                        </li>
+                                                                                    
+                                                                                        <li>
+                                                                                            <a id="ctl00_rptRoot_ctl09_rptNode_ctl01_rptNode2_ctl01_hlNode2" title="漁業署年報" href="/cht/PublicationsPubYear">漁業署年報</a>
+                                                                                        </li>
+                                                                                    
+                                                                                        <li>
+                                                                                            <a id="ctl00_rptRoot_ctl09_rptNode_ctl01_rptNode2_ctl02_hlNode2" title="漁業推廣月刊" href="/cht/PublicationsPubMonth">漁業推廣月刊</a>
+                                                                                        </li>
+                                                                                    
+                                                                                        <li>
+                                                                                            <a id="ctl00_rptRoot_ctl09_rptNode_ctl01_rptNode2_ctl03_hlNode2" title="國際漁業資訊月刊" href="/cht/PublicationsPubGlobal">國際漁業資訊月刊</a>
+                                                                                        </li>
+                                                                                    
+                                                                                        <li>
+                                                                                            <a id="ctl00_rptRoot_ctl09_rptNode_ctl01_rptNode2_ctl04_hlNode2" title="人工魚礁完全手冊" href="/cht/PublicationsPubAR">人工魚礁完全手冊</a>
+                                                                                        </li>
+                                                                                    
+                                                                                        <li>
+                                                                                            <a id="ctl00_rptRoot_ctl09_rptNode_ctl01_rptNode2_ctl05_hlNode2" title="養殖漁業經營管理手冊技術篇" href="/cht/PublicationsPubTech">養殖漁業經營管理手冊技術篇</a>
+                                                                                        </li>
+                                                                                    
+                                                                                        <li>
+                                                                                            <a id="ctl00_rptRoot_ctl09_rptNode_ctl01_rptNode2_ctl06_hlNode2" title="海岸新生" href="/cht/PublicationsPubCoastNewBorn">海岸新生</a>
+                                                                                        </li>
+                                                                                    
+                                                                                        <li>
+                                                                                            <a id="ctl00_rptRoot_ctl09_rptNode_ctl01_rptNode2_ctl07_hlNode2" title="臺灣常見經濟性水產動植物圖鑑(開新視窗)" href="http://www.fa.gov.tw/fisheasy/ebook/fishlibrary/table.html" target="_Blank">臺灣常見經濟性水產動植物圖鑑</a>
+                                                                                        </li>
+                                                                                    
+                                                                                        <li>
+                                                                                            <a id="ctl00_rptRoot_ctl09_rptNode_ctl01_rptNode2_ctl08_hlNode2" title="相關出版品" href="/cht/PublicationsPubRelated">相關出版品</a>
+                                                                                        </li>
+                                                                                    
+                                                                            </ul>
+                                                                        
+                                                                </li>
+                                                            
+                                                    </ul>
+                                                
+                                            </br>
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                            <a id="ctl00_rptRoot_ctl10_hlRoot" title="政府資訊公開" href="/cht/Gov/index.aspx">政府資訊公開</a>
+                                            
+                                                    
+                                                    <ul>
+                                                        
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl10_rptNode_ctl00_hlNode" title="資訊圖像化" href="/cht/Infographics/index.aspx">資訊圖像化</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl10_rptNode_ctl01_hlNode" title="條約、中央法規" href="/cht/LawsCentralFisheries/index.aspx">條約、中央法規</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl10_rptNode_ctl02_hlNode" title="函釋與裁量基準" href="/cht/LawsReleaseFisheries/index.aspx">函釋與裁量基準</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl10_rptNode_ctl03_hlNode" title="組織職掌" href="/cht/AbFaBusiness/">組織職掌</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl10_rptNode_ctl04_hlNode" title="行政指導文書" href="/cht/ServiceApplyFishery/index.aspx">行政指導文書</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl10_rptNode_ctl05_hlNode" title="施政計畫" href="/cht/PolicyImportant/">施政計畫</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl10_rptNode_ctl06_hlNode" title="業務統計" href="/cht/PublicationsFishYear/index.aspx">業務統計</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl10_rptNode_ctl07_hlNode" title="研究報告" href="/cht/GovReport/index.aspx">研究報告</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl10_rptNode_ctl08_hlNode" title="法定預算" href="/cht/GovBudget/index.aspx">法定預算</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl10_rptNode_ctl09_hlNode" title="決算" href="/cht/GovAccount/index.aspx">決算</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl10_rptNode_ctl10_hlNode" title="支付或接受之補助" href="/cht/GovAllowance/index.aspx">支付或接受之補助</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl10_rptNode_ctl11_hlNode" title="保有及管理個人資料之項目" href="/cht/Profile/index.aspx">保有及管理個人資料之項目</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl10_rptNode_ctl12_hlNode" title="政策宣導執行" href="/cht/PolicyAdvocacy/index.aspx">政策宣導執行</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl10_rptNode_ctl13_hlNode" title="漁業署申請補(捐)費用之相關辦法" href="/cht/ApplyDonate/index.aspx">漁業署申請補(捐)費用之相關辦法</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl10_rptNode_ctl14_hlNode" title="會計報告" href="/cht/OfficialBudget/index.aspx">會計報告</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl10_rptNode_ctl15_hlNode" title="性別平等專區" href="/cht/GenderEquality/index.aspx">性別平等專區</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl10_rptNode_ctl16_hlNode" title="資料開放專區" href="/cht/OpenData/index.aspx">資料開放專區</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                    </ul>
+                                                
+                                            </br>
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                            <a id="ctl00_rptRoot_ctl11_hlRoot" title="相關連結" href="/cht/Links/index.aspx">相關連結</a>
+                                            
+                                                    
+                                                    <ul>
+                                                        
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl11_rptNode_ctl00_hlNode" title="農委會暨所屬機關" href="/cht/LinksAgencies/index.aspx">農委會暨所屬機關</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl11_rptNode_ctl01_hlNode" title="國外網站" href="/cht/LinksPage/index.aspx?Name=國外網站">國外網站</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl11_rptNode_ctl02_hlNode" title="政府單位" href="/cht/LinksGov/index.aspx">政府單位</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl11_rptNode_ctl03_hlNode" title="學術單位" href="/cht/LinksAcademic/index.aspx">學術單位</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl11_rptNode_ctl04_hlNode" title="產業單位" href="/cht/LinksBusiness/index.aspx">產業單位</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl11_rptNode_ctl05_hlNode" title="國內漁業法人團體" href="/cht/LinksCorporation/index.aspx">國內漁業法人團體</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl11_rptNode_ctl06_hlNode" title="其他" href="/cht/LinksOthers/index.aspx">其他</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                    </ul>
+                                                
+                                            </br>
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                            <a id="ctl00_rptRoot_ctl12_hlRoot" title="署內人員專區" href="/cht/FaMember/index.aspx">署內人員專區</a>
+                                            
+                                                    
+                                                    <ul>
+                                                        
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl12_rptNode_ctl00_hlNode" title="內網系統(開新視窗)" href="http://newintra.fa.gov.tw/#&amp;Node=901&amp;Index=15" target="_Blank">內網系統</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl12_rptNode_ctl01_hlNode" title="簡訊平台(開新視窗)" href="https://mmp.fa.gov.tw/Nisfa/Login.aspx" target="_Blank">簡訊平台</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl12_rptNode_ctl02_hlNode" title="計畫經費網路作業系統(開新視窗)" href="http://am.fa.gov.tw/#&amp;Node=987&amp;Index=15" target="_Blank">計畫經費網路作業系統</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl12_rptNode_ctl03_hlNode" title="養殖漁業管理系統(開新視窗)" href="http://fad.fa.gov.tw/fafish/" target="_Blank">養殖漁業管理系統</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl12_rptNode_ctl04_hlNode" title="計畫研提系統(開新視窗)" href="http://project.coa.gov.tw/coaWeb/" target="_Blank">計畫研提系統</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a id="ctl00_rptRoot_ctl12_rptNode_ctl05_hlNode" title="漁業天然災害查報、審核及救助數位e化(開新視窗)" href="http://disaster.fa.gov.tw/Login/LoginPage.action" target="_Blank">漁業天然災害查報、審核及救助數位e化</a>
+                                                                    
+                                                                    
+                                                                        
+                                                                </li>
+                                                            
+                                                    </ul>
+                                                
+                                            </br>
+                                        </li>
+                                    
+                                            <li class="even">
+                        <a class="Fmenu_Title" href="../LinksPage/index.aspx?Name=重要連結">重要連結</a>
+                        <ul>
+                            
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu5_ctl00_hlLinks" href="http://www.cga.gov.tw/GipOpen/wSite/mp?mp=999">海巡署</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu5_ctl01_hlLinks" href="http://www.fda.gov.tw/TC/site.aspx?sid=4341">日本食品管理專區</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu5_ctl02_hlLinks" href="/cht/PolicySovereignty/index.aspx">海域資訊 </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu5_ctl03_hlLinks" href="http://www.mofa.gov.tw/">外交部</a>
+                                    </li>
+                                
+                        </ul>
+                    </li>
+                    <li class="odd">
+                        <a class="Fmenu_Title" href="../LinksPage/index.aspx?Name=焦點資訊">焦點資訊</a>
+                        <ul>
+                            
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu2_ctl00_hlLinks" href="http://dsfrdc.fa.gov.tw/type2/index.aspx">漁業訓練開班資訊</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu2_ctl01_hlLinks" href="http://efish.fa.gov.tw/efish/">魚價行情</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu2_ctl02_hlLinks" href="http://fadopen.fa.gov.tw/fadopen">養殖漁業放養量查詢平臺</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu2_ctl03_hlLinks" href="http://www.fa.gov.tw/upload/263/2016022309104742717.pdf">漁業調查統計手冊-魚類名代碼</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu2_ctl04_hlLinks" href="/cht/IWMP_Plan/index.aspx">流域綜合治理計畫</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu2_ctl05_hlLinks" href="http://www.fa.gov.tw/cht/Bulletin/content.aspx?id=86&amp;chk=205a4c2e-fc54-4d04-a9be-19d30f2052e8&amp;param=pn%3d1">漁港無障礙休憩旅遊行程建議</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu2_ctl06_hlLinks" href="http://cmdweb.pcc.gov.tw/pccms/pwreport/ducon2_geoeng.pasin">全民督工網路通報</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu2_ctl07_hlLinks" href="/cht/RightBannerMarinas/index.aspx">遊艇碼頭水文</a>
+                                    </li>
+                                
+                        </ul>
+                    </li>
+                    <li class="even">
+                        <a class="Fmenu_Title" href="../LinksPage/index.aspx?Name=主題館">主題館</a>
+                        <ul>
+                            
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu3_ctl00_hlLinks" href="/fisheasy/index.aspx">縱橫魚蝦貝類網</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu3_ctl01_hlLinks" href="/media/index.aspx">漁業虛擬影音館</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu3_ctl02_hlLinks" href="/recreation/index.aspx">休閒樂活主題網</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu3_ctl03_hlLinks" href="http://www.fa.gov.tw/Haiyanseafood/">水產精品</a>
+                                    </li>
+                                
+                        </ul>
+                    </li>
+					</ul>
+				</div>
+			</aside>
+                </div>
+
+                <div class="inner_banner"></div>
+                <div class="inner_body">
+                    <div class="navBar">
+                        <a id="content" title="網頁內容區 (Alt+C)" accesskey="C" href="#content">:::</a>
+                        目前位置：<a href="../index.aspx">首頁</a> &gt; <a href="/cht/Gov/index.aspx">政府資訊公開</a> &gt; <a href="/cht/GovBudget/index.aspx">法定預算</a>
+                    </div>
+                    <form name="aspnetForm" method="post" action="index.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTMxOTA5Mzc0Mg8WAh4LQ3VycmVudFBhZ2UFATEWAmYPZBYgAgsPFgIeC18hSXRlbUNvdW50Ag0WGmYPZBYEAgEPDxYIHgtOYXZpZ2F0ZVVybAUUL2NodC9BYkZhL2luZGV4LmFzcHgeBlRhcmdldGUeBFRleHQFD+mXnOaWvOa8gealree9sh4HVG9vbFRpcAUP6Zec5pa85ryB5qWt572yZGQCAw9kFgICAQ9kFgICAQ8WAh8BAgcWDmYPZBYEAgEPDxYIHwIFGy9jaHQvQWJGYUhpc3RvcnkvaW5kZXguYXNweB8DZR8EBQzmqZ/pl5zmsr/pnakfBQUM5qmf6Zec5rK/6Z2pZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAIBD2QWBAIBDw8WCB8CBRgvY2h0L0FiRmFMb2dvL2luZGV4LmFzcHgfA2UfBAUM572y5b695pWF5LqLHwUFDOe9suW+veaVheS6i2RkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCAg9kFgQCAQ8PFggfAgUhL2NodC9BYkZhQWJvdXREaXJlY3Rvci9pbmRleC5hc3B4HwNlHwQFDOe9sumVt+ewoeS7ix8FBQznvbLplbfnsKHku4tkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgMPZBYEAgEPDxYIHwIFKS9jaHQvQWJGYUFib3V0RGlyZWN0b3JfaGlzdG9yeS9pbmRleC5hc3B4HwNlHwQFDOatt+S7u+mmlumVtx8FBQzmrbfku7vpppbplbdkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgQPZBYEAgEPDxYIHwIFHC9jaHQvQWJGYUJ1c2luZXNzL2luZGV4LmFzcHgfA2UfBAUM5qWt5YuZ6IG35o6MHwUFDOalreWLmeiBt+aOjGRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCBQ9kFgQCAQ8PFggfAgUfL2NodC9BYkZhQ29udGFjdEluZm8vaW5kZXguYXNweB8DZR8EBQzoga/ntaHos4foqIofBQUM6IGv57Wh6LOH6KiKZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAIGD2QWBAIBDw8WCB8CBSAvY2h0L0FiRmFMb2NhdGlvbkluZm8vaW5kZXguYXNweB8DZR8EBQzkuqTpgJros4foqIofBQUM5Lqk6YCa6LOH6KiKZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAIBD2QWBAIBDw8WCB8CBRYvY2h0L1BvbGljeS9pbmRleC5hc3B4HwNlHwQFDOa8gealreaUv+etlh8FBQzmvIHmpa3mlL/nrZZkZAIDD2QWAgIBD2QWAgIBDxYCHwECBRYKZg9kFgQCAQ8PFggfAgUfL2NodC9Qb2xpY3lJbXBvcnRhbnQvaW5kZXguYXNweB8DZR8EBQzph43lpKfmlL/nrZYfBQUM6YeN5aSn5pS/562WZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAIBD2QWBAIBDw8WCB8CBSAvY2h0L0ltcG9ydGFudE1lYXN1cmUvaW5kZXguYXNweB8DZR8EBRXph43opoHmjqrmlr3lj4rmiJDmnpwfBQUV6YeN6KaB5o6q5pa95Y+K5oiQ5p6cZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAICD2QWBAIBDw8WCB8CBR0vY2h0L1BvbGljeU1lYXN1cmUvaW5kZXguYXNweB8DZR8EBQnlpKfkuovntIAfBQUJ5aSn5LqL57SAZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAIDD2QWBAIBDw8WCB8CBRkvY2h0L1BvbGljeUlVVS9pbmRleC5hc3B4HwNlHwQFD+aJk+aTiklVVea8gealrR8FBQ/miZPmk4pJVVXmvIHmpa1kZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgQPZBYEAgEPDxYIHwIFIS9jaHQvUG9saWN5U292ZXJlaWdudHkvaW5kZXguYXNweB8DZR8EBQzmtbfln5/kuLvmrIofBQUM5rW35Z+f5Li75qyKZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAICD2QWBAIBDw8WCB8CBRkvY2h0L0Fubm91bmNlTC9pbmRleC5hc3B4HwNlHwQFDOioiuaBr+WFrOWRih8FBQzoqIrmga/lhazlkYpkZAIDD2QWAgIBD2QWAgIBDxYCHwECCBYQZg9kFgQCAQ8PFggfAgUYL2NodC9Bbm5vdW5jZS9pbmRleC5hc3B4HwNlHwQFDOWFrOWRiuizh+ioih8FBQzlhazlkYros4foqIpkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgEPZBYEAgEPDxYIHwIFHi9jaHQvQW5ub3VuY2VUZW5kZXIvaW5kZXguYXNweB8DZR8EBQzmi5vmqJnos4foqIofBQUM5oub5qiZ6LOH6KiKZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAICD2QWBAIBDw8WCB8CBR8vY2h0L0Fubm91bmNlSm9iSW5mby9pbmRleC5hc3B4HwNlHwQFDOWwsealreizh+ioih8FBQzlsLHmpa3os4foqIpkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgMPZBYEAgEPDxYIHwIFIC9jaHQvQW5ub3VuY2VTaG9vdGluZy9pbmRleC5hc3B4HwNlHwQFDOiIquWuieizh+ioih8FBQzoiKrlronos4foqIpkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgQPZBYEAgEPDxYIHwIFYS9jaHQvQW5ub3VuY2VGaXNoSW5zcGVjdHMvY29udGVudC5hc3B4P2lkPTEmY2hrPWJiOTNmYmUzLWQzZTUtNDY4Ny1iYTkwLTRmMGVlZGE4YTVkYyZwYXJhbT1wbiUzZDEfA2UfBAUM5qqi6amX5bCI5Y2AHwUFDOaqoumpl+WwiOWNgGRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCBQ9kFgQCAQ8PFggfAgUbL2NodC9TZXJ2aWNlRXVyby9pbmRleC5hc3B4HwNlHwQFLei8uOatkOebn+S+m+iyqOa8geiIueWPiumkiuauluWgtOeZu+mMhOWQjeWWrh8FBS3ovLjmrZDnm5/kvpvosqjmvIHoiLnlj4rppIrmrpbloLTnmbvpjITlkI3llq5kZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgYPZBYEAgEPDxYIHwIFIS9jaHQvQW5ub3VuY2VQZXJzb25uZWwvaW5kZXguYXNweB8DZR8EBQzkurrkuovnlbDli5UfBQUM5Lq65LqL55Ww5YuVZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAIHD2QWBAIBDw8WCB8CBRwvY2h0L0Fubm91bmNlRmlzaC9pbmRleC5hc3B4HwNlHwQFDOWwgea6quitt+mtmh8FBQzlsIHmuqrorbfprZpkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgMPZBYEAgEPDxYIHwIFFC9jaHQvTmV3cy9pbmRleC5hc3B4HwNlHwQFDOa8gealreaWsOiBnh8FBQzmvIHmpa3mlrDogZ5kZAIDD2QWAgIBD2QWAgIBDxYCHwECAxYGZg9kFgQCAQ8PFggfAgUZL2NodC9OZXdzUGFwZXIvaW5kZXguYXNweB8DZR8EBQnmlrDogZ7nqL8fBQUJ5paw6IGe56i/ZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAIBD2QWBAIBDw8WCB8CBRsvY2h0L05ld3NPcGluaW9uL2luZGV4LmFzcHgfA2UfBAUM5ryB5qWt6Ly/5oOFHwUFDOa8gealrei8v+aDhWRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCAg9kFgQCAQ8PFggfAgUbL2NodC9FdmVudHNQaG90by9pbmRleC5hc3B4HwNlHwQFDOa0u+WLleWJquW9sR8FBQzmtLvli5XliarlvbFkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgQPZBYEAgEPDxYIHwIFFC9jaHQvTGF3cy9pbmRleC5hc3B4HwNlHwQFDOa8gealreazleS7pB8FBQzmvIHmpa3ms5Xku6RkZAIDD2QWAgIBD2QWAgIBDxYCHwECCRYSZg9kFgQCAQ8PFggfAgUXL2NodC9MYXdzTmV3L2luZGV4LmFzcHgfA2UfBAUM5pyA5paw5rOV6KaPHwUFDOacgOaWsOazleimj2RkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCAQ9kFgQCAQ8PFggfAgUaL2NodC9MYXdzU2VhcmNoL2luZGV4LmFzcHgfA2UfBAUM5rOV6KaP5qqi57SiHwUFDOazleimj+aqoue0omRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCAg9kFgQCAQ8PFggfAgUkL2NodC9MYXdzQ2VudHJhbEZpc2hlcmllcy9pbmRleC5hc3B4HwNlHwQFDOS4reWkruazleimjx8FBQzkuK3lpK7ms5Xopo9kZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgMPZBYEAgEPDxYIHwIFIS9jaHQvTGF3c1J1bGVGaXNoZXJpZXMvaW5kZXguYXNweB8DZR8EBQzooYzmlL/opo/liYcfBQUM6KGM5pS/6KaP5YmHZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAIED2QWBAIBDw8WCB8CBSQvY2h0L0xhd3NSZWxlYXNlRmlzaGVyaWVzL2luZGV4LmFzcHgfA2UfBAUM6KGM5pS/5Ye96YeLHwUFDOihjOaUv+WHvemHi2RkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCBQ9kFgQCAQ8PFggfAgUlL2NodC9MYXdzQW5ub3VuY2VGaXNoZXJpZXMvaW5kZXguYXNweB8DZR8EBQzms5Xku6TlhazlkYofBQUM5rOV5Luk5YWs5ZGKZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAIGD2QWBAIBDw8WCB8CBRgvY2h0L0xhd0RyYWZ0L2luZGV4LmFzcHgfA2UfBAUY5rOV6KaP5ZG95Luk6I2J5qGI6aCQ5ZGKHwUFGOazleimj+WRveS7pOiNieahiOmgkOWRimRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCBw9kFgQCAQ8PFggfAgUVL2NodC9MYXdDbi9pbmRleC5hc3B4HwNlHwQFGOWkp+mZuOiIueWToeeuoeeQhuazleimjx8FBRjlpKfpmbjoiLnlk6HnrqHnkIbms5Xopo9kZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAggPZBYEAgEPDxYIHwIFFy9jaHQvTGF3c0dvdi9pbmRleC5hc3B4HwNlHwQFJOebtOi9hOW4guWPiue4o+W4guaUv+W6nOWFrOWRiuazleS7pB8FBSTnm7TovYTluILlj4rnuKPluILmlL/lupzlhazlkYrms5Xku6RkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgUPZBYEAgEPDxYIHwIFFi9jaHQvRm9ydW1zL2luZGV4LmFzcHgfA2UfBAUM6ZuZ5ZCR5Lqk5rWBHwUFDOmbmeWQkeS6pOa1gWRkAgMPZBYCAgEPZBYCAgEPFgIfAQIEFghmD2QWBAIBDw8WCB8CBSIvY2h0L0ZvcnVtc0RpcmVjdG9yTWFpbC9pbmRleC5hc3B4HwNlHwQFDOe9sumVt+S/oeeusR8FBQznvbLplbfkv6HnrrFkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgEPZBYEAgEPDxYIHwIFGy9jaHQvRm9ydW1zR3Vlc3QvaW5kZXguYXNweB8DZR8EBQzmhI/opovkuqTmtYEfBQUM5oSP6KaL5Lqk5rWBZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAICD2QWBAIBDw8WCB8CBRkvY2h0L0ZvcnVtc0ZhcS9pbmRleC5hc3B4HwNlHwQFD+W4uOimi+WVj+etlOmbhh8FBQ/luLjopovllY/nrZTpm4ZkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgMPZBYEAgEPDxYIHwIFHC9jaHQvU2VhZm9vZFNhZmVDL2luZGV4LmFzcHgfA2UfBAUV5ryB55Si5ZOB6aOf5a6J5bCI5Y2AHwUFFea8geeUouWTgemjn+WuieWwiOWNgGRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCBg9kFgQCAQ8PFggfAgUXL2NodC9TZXJ2aWNlL2luZGV4LmFzcHgfA2UfBAUM5L6/5rCR5pyN5YuZHwUFDOS+v+awkeacjeWLmWRkAgMPZBYCAgEPZBYCAgEPFgIfAQIIFhBmD2QWBAIBDw8WCB8CBRwvY2h0L1NlcnZpY2VBcHBseS9pbmRleC5hc3B4HwNlHwQFDOe3muS4iuihqOWWrh8FBQznt5rkuIrooajllq5kZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgEPZBYEAgEPDxYIHwIFIy9jaHQvU2VydmljZUFwcGx5RmlzaGVyeS9pbmRleC5hc3B4HwNlHwQFEuWQhOmghealreWLmeeUs+irix8FBRLlkITpoIXmpa3li5nnlLPoq4tkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgIPZBYEAgEPDxYIHwIFHS9jaHQvU2VydmljZUV0aGljcy9pbmRleC5hc3B4HwNlHwQFDOaUv+miqOizh+ioih8FBQzmlL/poqjos4foqIpkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgMPZBYEAgEPDxYIHwIFJC9jaHQvU2VydmljZURvd25GaWxlQXBwbHkvaW5kZXguYXNweB8DZR8EBQzkuIvovInmnI3li5kfBQUM5LiL6LyJ5pyN5YuZZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAIED2QWBAIBDw8WCB8CBRovY2h0L1NlcnZpY2VXdG8vaW5kZXguYXNweB8DZR8EBRVXVE/oiIdGQU/mvIHmpa3os4foqIofBQUVV1RP6IiHRkFP5ryB5qWt6LOH6KiKZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAIFD2QWBAIBDw8WCB8CBR8vY2h0L1BvbGljeU1hcmtldGluZy9pbmRleC5hc3B4HwNlHwQFD+eUoumKt+ePreizh+ioih8FBQ/nlKLpirfnj63os4foqIpkZAIDD2QWAgIBD2QWAgIBDxYCHwECAhYEZg9kFgICAQ8PFggfAgUraHR0cDovL2Zhc2VkLmZhLmdvdi50dy9mYS1TZWQvanNwL2xvZ2luLmpzcB8DBQZfQmxhbmsfBAUe5ryB5qWt55Si6Yq354+t6LOH6KiK5pyN5YuZ57ayHwUFLOa8gealreeUoumKt+ePreizh+ioiuacjeWLmee2sijplovmlrDoppbnqpcpZGQCAQ9kFgICAQ8PFggfAgUZL2NodC9GaXNoQ2xhc3MvaW5kZXguYXNweB8DZR8EBRvmvIHmpa3nlKLpirfnj63nmbzlsZXmpoLms4EfBQUb5ryB5qWt55Si6Yq354+t55m85bGV5qaC5rOBZGQCBg9kFgQCAQ8PFggfAgUXL2NodC9MaWNlbnNlL2luZGV4LmFzcHgfA2UfBAUS5ryB5qWt5Z+354Wn5o6b5aSxHwUFEua8gealreWft+eFp+aOm+WksWRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCBw9kFgQCAQ8PFggfAgU2aHR0cDovL2ZhZWpiLmZhLmdvdi50dzo4MDgwL0JvYXRNYW5hZ2UvcGFnZXMvaW5kZXguanNwHwMFBl9CbGFuax8EBR7np5/nlKjmvIHoiLnnt5rkuIrkvZzmpa3ns7vntbEfBQUs56ef55So5ryB6Ii557ea5LiK5L2c5qWt57O757WxKOmWi+aWsOimlueqlylkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgcPZBYEAgEPDxYIHwIFGC9jaHQvUmVzb3VyY2UvaW5kZXguYXNweB8DZR8EBQzmvIHmpa3os4fmupAfBQUM5ryB5qWt6LOH5rqQZGQCAw9kFgICAQ9kFgICAQ8WAh8BAgoWFGYPZBYEAgEPDxYIHwIFHy9jaHQvUmVzb3VyY2VDb2FzdGFsL2luZGV4LmFzcHgfA2UfBAUP5rK/6L+R5rW35ryB5qWtHwUFD+ayv+i/kea1t+a8gealrWRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCAQ9kFgQCAQ8PFggfAgUhL2NodC9SZXNvdXJjZUZpc2hSaWdodC9pbmRleC5hc3B4HwNlHwQFD+WwiOeUqOa8gealreasih8FBQ/lsIjnlKjmvIHmpa3mrIpkZAIDD2QWAgIBD2QWAgIBDxYCHwECAhYEZg9kFgICAQ8PFggfAgUhL2NodC9SZXNvdXJjZUZpc2hSaWdodC9pbmRleC5hc3B4HwNlHwQFDjk15bm06LW35qC455m8HwUFDjk15bm06LW35qC455m8ZGQCAQ9kFgICAQ8PFggfAgUkL2NodC9SZXNvdXJjZUZpc2hSaWdodE9sZC9pbmRleC5hc3B4HwNlHwQFEuatt+WPsuaguOeZvOizh+aWmR8FBRLmrbflj7LmoLjnmbzos4fmlplkZAICD2QWBAIBDw8WCB8CBSQvY2h0L1Jlc291cmNlQ29uc2VydmF0aW9uL2luZGV4LmFzcHgfA2UfBAUP6LOH5rqQ5L+d6IKy5Y2AHwUFD+izh+a6kOS/neiCsuWNgGRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCAw9kFgQCAQ8PFggfAgUiL2NodC9SZXNvdXJjZU90aGVyWm9uZXMvaW5kZXguYXNweB8DZR8EBSHkurrlt6XprZrnpIHjgIHkv53orbfnpIHljYDos4foqIofBQUh5Lq65bel6a2a56SB44CB5L+d6K2356SB5Y2A6LOH6KiKZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAIED2QWBAIBDw8WCB8CBSYvY2h0L1Jlc291cmNlV29ybGRPY2VhbnNEYXkvaW5kZXguYXNweB8DZR8EBQ/kuJbnlYzmtbfmtIvml6UfBQUP5LiW55WM5rW35rSL5pelZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAIFD2QWBAIBDw8WCB8CBVUvY2h0L0JhblNoYXJrL2NvbnRlbnQuYXNweD9pZD0xJmNoaz1mYTMwNGUwNi00YWExLTQ0MGItYTJjOC1mNTljMTBmMjM0ZTYmcGFyYW09cG4lM2QxHwNlHwQFJOS4ieWkp+a0i+emgeaNlemviumtmuWPiumtn+mhnueJqeeorh8FBSTkuInlpKfmtIvnpoHmjZXpr4rprZrlj4rprZ/poZ7niannqK5kZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgYPZBYEAgEPDxYIHwIFIy9jaHQvUmVzb3VyY2VBY2hpZXZlbWVudC9pbmRleC5hc3B4HwNlHwQFFemkiuitt+WPiuWft+azleaIkOaenB8FBRXppIrorbflj4rln7fms5XmiJDmnpxkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgcPZBYEAgEPDxYIHwIFZGh0dHA6Ly93d3cuZmEuZ292LnR3L2NodC9Bbm5vdW5jZVNoYXJrL2NvbnRlbnQuYXNweD9pZD0xJmNoaz04ZTYwNjk3OC01NmY4LTRlZjItYThlZS1hYWNiYzRkNTQ5YTcmcGEfA2UfBAUY6a+K6a2a6bCt5LiN6Zui6Lqr5bCI5Y2AHwUFGOmviumtmumwreS4jemboui6q+WwiOWNgGRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCCA9kFgQCAQ8PFggfAgVbL2NodC9UYWl3YW5PY2VhbnNQcm90ZWN0aW9uQXJlYXMvY29udGVudC5hc3B4P2lkPTEmY2hrPTIwMDE3MzlkLWQ0Y2QtNGRlZC1iZjkyLWQ1NzA5MTJiYWYwOB8DZR8EBRjoh7rngaPnmoTmtbfmtIvkv53orbfljYAfBQUY6Ie654Gj55qE5rW35rSL5L+d6K235Y2AZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAIJD2QWBAIBDw8WCB8CBRkvY2h0L0lXTVBfUGxhbi9pbmRleC5hc3B4HwNlHwQFGOa1geWfn+e2nOWQiOayu+eQhuioiOeVqx8FBRjmtYHln5/ntpzlkIjmsrvnkIboqIjnlatkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAggPZBYEAgEPDxYIHwIFIy9jaHQvSW5mb3JtYXRpb25TZXJ2aWNlcy9pbmRleC5hc3B4HwNlHwQFD+izh+ioiuiIh+acjeWLmR8FBQ/os4foqIroiIfmnI3li5lkZAIDD2QWAgIBD2QWAgIBDxYCHwECBRYKZg9kFgQCAQ8PFggfAgUeL2NodC9Cb2F0TGlzdEluSUZNTy9pbmRleC5hc3B4HwNlHwQFOei+suWnlOacg+aguOWHhuaIkeWci+a8geiIuei1tOS4ieWkp+a0i+S9nOalrea8geiIueWQjeWWrh8FBTnovrLlp5TmnIPmoLjlh4bmiJHlnIvmvIHoiLnotbTkuInlpKfmtIvkvZzmpa3mvIHoiLnlkI3llq5kZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgEPZBYEAgEPDxYIHwIFHi9jaHQvQW5ub3VuY2VQaXJhdGUvaW5kZXguYXNweB8DZR8EBQzmtbfnm5zos4foqIofBQUM5rW355uc6LOH6KiKZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAICD2QWBAIBDw8WCB8CBSAvY2h0L0Fubm91bmNlRGlzYXN0ZXIvaW5kZXguYXNweB8DZR8EBRLlr5LlrrPmvZvli6LliIbmnpAfBQUS5a+S5a6z5r2b5Yui5YiG5p6QZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAIDD2QWBAIBDw8WCB8CBR8vY2h0L0Fubm91bmNlUHJvZHVjdC9pbmRleC5hc3B4HwNlHwQFDOacieapn+awtOeUoh8FBQzmnInmqZ/msLTnlKJkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgQPZBYEAgEPDxYIHwIFIC9jaHQvQW5ub3VuY2VFbGVjdGlvbi9pbmRleC5hc3B4HwNlHwQFDOa8geacg+mBuOiIiR8FBQzmvIHmnIPpgbjoiIlkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgkPZBYEAgEPDxYIHwIFHC9jaHQvUHVibGljYXRpb25zL2luZGV4LmFzcHgfA2UfBAUS57Wx6KiI6IiH5Ye654mI5ZOBHwUFEue1seioiOiIh+WHuueJiOWTgWRkAgMPZBYCAgEPZBYCAgEPFgIfAQICFgRmD2QWBAIBDw8WCB8CBSMvY2h0L1B1YmxpY2F0aW9ucy9pbmRleF9MM18xXzEuYXNweB8DZR8EBQzmvIHmpa3ntbHoqIgfBQUM5ryB5qWt57Wx6KiIZGQCAw9kFgICAQ9kFgICAQ8WAh8BAggWEGYPZBYCAgEPDxYIHwIFJC9jaHQvUHVibGljYXRpb25zRmlzaFllYXIvaW5kZXguYXNweB8DZR8EBRLmvIHmpa3ntbHoqIjlubTloLEfBQUS5ryB5qWt57Wx6KiI5bm05aCxZGQCAQ9kFgICAQ8PFggfAgUjL2NodC9QdWJsaWNhdGlvbnNGaXNoRWNvL2luZGV4LmFzcHgfA2UfBAUY5ryB5a6257aT5r+f6Kq/5p+l5bm05aCxHwUFGOa8geWutue2k+a/n+iqv+afpeW5tOWgsWRkAgIPZBYCAgEPDxYIHwIFJC9jaHQvUHVibGljYXRpb25zRmlzaEJvb2svaW5kZXguYXNweB8DZR8EBR7mvIHmpa3oqr/mn6XntbHoqIjmiYvlhorlhaflrrkfBQUe5ryB5qWt6Kq/5p+l57Wx6KiI5omL5YaK5YWn5a65ZGQCAw9kFgICAQ8PFggfAgUkL2NodC9QdWJsaWNhdGlvbnNGaXNoRmFybS9pbmRleC5hc3B4HwNlHwQFHumkiuaulumtmueoruaUvumkiumHj+e0r+ioiOihqB8FBR7ppIrmrpbprZrnqK7mlL7ppIrph4/ntK/oqIjooahkZAIED2QWAgIBDw8WCB8CBSgvY2h0L1B1YmxpY2F0aW9uc0Zpc2hPZmZpY2lhbC9pbmRleC5hc3B4HwNlHwQFFeWFrOWLmee1seioiOihqOWgseihqB8FBRXlhazli5nntbHoqIjooajloLHooahkZAIFD2QWAgIBDw8WCB8CBSwvY2h0L1B1YmxpY2F0aW9uc0FjaGlldmVtZW50Q291bnQvaW5kZXguYXNweB8DZR8EBSHmvIHmpa3os4fmupDppIrorbflj4rln7fms5XmiJDmnpwfBQUh5ryB5qWt6LOH5rqQ6aSK6K235Y+K5Z+35rOV5oiQ5p6cZGQCBg9kFgICAQ8PFggfAgUXL2NodC9TZW1pbmFyL2luZGV4LmFzcHgfA2UfBAUh5ryB5qWt57Wx6KiI6Kq/5p+l56CU6KiO5pyD6LOH5paZHwUFIea8gealree1seioiOiqv+afpeeglOiojuacg+izh+aWmWRkAgcPZBYCAgEPDxYIHwIFIS9jaHQvU3RhdGVDb21wZW5zYXRpb24vaW5kZXguYXNweB8DZR8EBS3ovqbnkIblnIvlrrbos6DlhJ/kuovku7bomZXnkIbmg4XlvaLntbHoqIjooagfBQUt6L6m55CG5ZyL5a626LOg5YSf5LqL5Lu26JmV55CG5oOF5b2i57Wx6KiI6KGoZGQCAQ9kFgQCAQ8PFggfAgUjL2NodC9QdWJsaWNhdGlvbnMvaW5kZXhfTDNfMl8xLmFzcHgfA2UfBAUJ5Ye654mI5ZOBHwUFCeWHuueJiOWTgWRkAgMPZBYCAgEPZBYCAgEPFgIfAQIJFhJmD2QWAgIBDw8WCB8CBRwvY2h0L1B1YmxpY2F0aW9uc0FjaGlldmVtZW50HwNlHwQFEua8gealreeZvuW5tOaIkOaenB8FBRLmvIHmpa3nmb7lubTmiJDmnpxkZAIBD2QWAgIBDw8WCB8CBRgvY2h0L1B1YmxpY2F0aW9uc1B1YlllYXIfA2UfBAUP5ryB5qWt572y5bm05aCxHwUFD+a8gealree9suW5tOWgsWRkAgIPZBYCAgEPDxYIHwIFGS9jaHQvUHVibGljYXRpb25zUHViTW9udGgfA2UfBAUS5ryB5qWt5o6o5buj5pyI5YiKHwUFEua8gealreaOqOW7o+aciOWIimRkAgMPZBYCAgEPDxYIHwIFGi9jaHQvUHVibGljYXRpb25zUHViR2xvYmFsHwNlHwQFGOWci+mam+a8gealreizh+ioiuaciOWIih8FBRjlnIvpmpvmvIHmpa3os4foqIrmnIjliIpkZAIED2QWAgIBDw8WCB8CBRYvY2h0L1B1YmxpY2F0aW9uc1B1YkFSHwNlHwQFGOS6uuW3pemtmuekgeWujOWFqOaJi+WGih8FBRjkurrlt6XprZrnpIHlrozlhajmiYvlhopkZAIFD2QWAgIBDw8WCB8CBRgvY2h0L1B1YmxpY2F0aW9uc1B1YlRlY2gfA2UfBAUn6aSK5q6W5ryB5qWt57aT54ef566h55CG5omL5YaK5oqA6KGT56+HHwUFJ+mkiuaulua8gealree2k+eHn+euoeeQhuaJi+WGiuaKgOihk+evh2RkAgYPZBYCAgEPDxYIHwIFIC9jaHQvUHVibGljYXRpb25zUHViQ29hc3ROZXdCb3JuHwNlHwQFDOa1t+WyuOaWsOeUnx8FBQzmtbflsrjmlrDnlJ9kZAIHD2QWAgIBDw8WCB8CBTpodHRwOi8vd3d3LmZhLmdvdi50dy9maXNoZWFzeS9lYm9vay9maXNobGlicmFyeS90YWJsZS5odG1sHwMFBl9CbGFuax8EBSroh7rngaPluLjopovntpPmv5/mgKfmsLTnlKLli5XmpI3nianlnJbpkZEfBQU46Ie654Gj5bi46KaL57aT5r+f5oCn5rC055Si5YuV5qSN54mp5ZyW6ZGRKOmWi+aWsOimlueqlylkZAIID2QWAgIBDw8WCB8CBRsvY2h0L1B1YmxpY2F0aW9uc1B1YlJlbGF0ZWQfA2UfBAUP55u46Zec5Ye654mI5ZOBHwUFD+ebuOmXnOWHuueJiOWTgWRkAgoPZBYEAgEPDxYIHwIFEy9jaHQvR292L2luZGV4LmFzcHgfA2UfBAUS5pS/5bqc6LOH6KiK5YWs6ZaLHwUFEuaUv+W6nOizh+ioiuWFrOmWi2RkAgMPZBYCAgEPZBYCAgEPFgIfAQIRFiJmD2QWBAIBDw8WCB8CBRwvY2h0L0luZm9ncmFwaGljcy9pbmRleC5hc3B4HwNlHwQFD+izh+ioiuWcluWDj+WMlh8FBQ/os4foqIrlnJblg4/ljJZkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgEPZBYEAgEPDxYIHwIFJC9jaHQvTGF3c0NlbnRyYWxGaXNoZXJpZXMvaW5kZXguYXNweB8DZR8EBRXmop3ntITjgIHkuK3lpK7ms5Xopo8fBQUV5qKd57SE44CB5Lit5aSu5rOV6KaPZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAICD2QWBAIBDw8WCB8CBSQvY2h0L0xhd3NSZWxlYXNlRmlzaGVyaWVzL2luZGV4LmFzcHgfA2UfBAUV5Ye96YeL6IiH6KOB6YeP5Z+65rqWHwUFFeWHvemHi+iIh+ijgemHj+Wfuua6lmRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCAw9kFgQCAQ8PFggfAgUSL2NodC9BYkZhQnVzaW5lc3MvHwNlHwQFDOe1hOe5lOiBt+aOjB8FBQzntYTnuZTogbfmjoxkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgQPZBYEAgEPDxYIHwIFIy9jaHQvU2VydmljZUFwcGx5RmlzaGVyeS9pbmRleC5hc3B4HwNlHwQFEuihjOaUv+aMh+WwjuaWh+abuB8FBRLooYzmlL/mjIflsI7mlofmm7hkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgUPZBYEAgEPDxYIHwIFFS9jaHQvUG9saWN5SW1wb3J0YW50Lx8DZR8EBQzmlr3mlL/oqIjnlasfBQUM5pa95pS/6KiI55WrZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAIGD2QWBAIBDw8WCB8CBSQvY2h0L1B1YmxpY2F0aW9uc0Zpc2hZZWFyL2luZGV4LmFzcHgfA2UfBAUM5qWt5YuZ57Wx6KiIHwUFDOalreWLmee1seioiGRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCBw9kFgQCAQ8PFggfAgUZL2NodC9Hb3ZSZXBvcnQvaW5kZXguYXNweB8DZR8EBQznoJTnqbbloLHlkYofBQUM56CU56m25aCx5ZGKZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAIID2QWBAIBDw8WCB8CBRkvY2h0L0dvdkJ1ZGdldC9pbmRleC5hc3B4HwNlHwQFDOazleWumumgkOeulx8FBQzms5XlrprpoJDnrpdkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgkPZBYEAgEPDxYIHwIFGi9jaHQvR292QWNjb3VudC9pbmRleC5hc3B4HwNlHwQFBuaxuueulx8FBQbmsbrnrpdkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgoPZBYEAgEPDxYIHwIFHC9jaHQvR292QWxsb3dhbmNlL2luZGV4LmFzcHgfA2UfBAUY5pSv5LuY5oiW5o6l5Y+X5LmL6KOc5YqpHwUFGOaUr+S7mOaIluaOpeWPl+S5i+ijnOWKqWRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCCw9kFgQCAQ8PFggfAgUXL2NodC9Qcm9maWxlL2luZGV4LmFzcHgfA2UfBAUk5L+d5pyJ5Y+K566h55CG5YCL5Lq66LOH5paZ5LmL6aCF55uuHwUFJOS/neacieWPiueuoeeQhuWAi+S6uuizh+aWmeS5i+mgheebrmRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCDA9kFgQCAQ8PFggfAgUeL2NodC9Qb2xpY3lBZHZvY2FjeS9pbmRleC5hc3B4HwNlHwQFEuaUv+etluWuo+WwjuWft+ihjB8FBRLmlL/nrZblrqPlsI7ln7fooYxkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAg0PZBYEAgEPDxYIHwIFGy9jaHQvQXBwbHlEb25hdGUvaW5kZXguYXNweB8DZR8EBSzmvIHmpa3nvbLnlLPoq4voo5wo5o2QKeiyu+eUqOS5i+ebuOmXnOi+puazlR8FBSzmvIHmpa3nvbLnlLPoq4voo5wo5o2QKeiyu+eUqOS5i+ebuOmXnOi+puazlWRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCDg9kFgQCAQ8PFggfAgUeL2NodC9PZmZpY2lhbEJ1ZGdldC9pbmRleC5hc3B4HwNlHwQFDOacg+ioiOWgseWRih8FBQzmnIPoqIjloLHlkYpkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAg8PZBYEAgEPDxYIHwIFHi9jaHQvR2VuZGVyRXF1YWxpdHkvaW5kZXguYXNweB8DZR8EBRLmgKfliKXlubPnrYnlsIjljYAfBQUS5oCn5Yil5bmz562J5bCI5Y2AZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAIQD2QWBAIBDw8WCB8CBRgvY2h0L09wZW5EYXRhL2luZGV4LmFzcHgfA2UfBAUS6LOH5paZ6ZaL5pS+5bCI5Y2AHwUFEuizh+aWmemWi+aUvuWwiOWNgGRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCCw9kFgQCAQ8PFggfAgUVL2NodC9MaW5rcy9pbmRleC5hc3B4HwNlHwQFDOebuOmXnOmAo+e1kB8FBQznm7jpl5zpgKPntZBkZAIDD2QWAgIBD2QWAgIBDxYCHwECBxYOZg9kFgQCAQ8PFggfAgUdL2NodC9MaW5rc0FnZW5jaWVzL2luZGV4LmFzcHgfA2UfBAUY6L6y5aeU5pyD5pqo5omA5bGs5qmf6ZecHwUFGOi+suWnlOacg+aaqOaJgOWxrOapn+mXnGRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCAQ9kFgQCAQ8PFggfAgUrL2NodC9MaW5rc1BhZ2UvaW5kZXguYXNweD9OYW1lPeWci+Wklue2suermR8DZR8EBQzlnIvlpJbntrLnq5kfBQUM5ZyL5aSW57ay56uZZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAICD2QWBAIBDw8WCB8CBRgvY2h0L0xpbmtzR292L2luZGV4LmFzcHgfA2UfBAUM5pS/5bqc5Zau5L2NHwUFDOaUv+W6nOWWruS9jWRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCAw9kFgQCAQ8PFggfAgUdL2NodC9MaW5rc0FjYWRlbWljL2luZGV4LmFzcHgfA2UfBAUM5a246KGT5Zau5L2NHwUFDOWtuOihk+WWruS9jWRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCBA9kFgQCAQ8PFggfAgUdL2NodC9MaW5rc0J1c2luZXNzL2luZGV4LmFzcHgfA2UfBAUM55Si5qWt5Zau5L2NHwUFDOeUoualreWWruS9jWRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCBQ9kFgQCAQ8PFggfAgUgL2NodC9MaW5rc0NvcnBvcmF0aW9uL2luZGV4LmFzcHgfA2UfBAUY5ZyL5YWn5ryB5qWt5rOV5Lq65ZyY6auUHwUFGOWci+WFp+a8gealreazleS6uuWcmOmrlGRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCBg9kFgQCAQ8PFggfAgUbL2NodC9MaW5rc090aGVycy9pbmRleC5hc3B4HwNlHwQFBuWFtuS7lh8FBQblhbbku5ZkZAIDD2QWAgIBD2QWAgIBDxYCHwEC/////w9kAgwPZBYEAgEPDxYIHwIFGC9jaHQvRmFNZW1iZXIvaW5kZXguYXNweB8DZR8EBRLnvbLlhafkurrlk6HlsIjljYAfBQUS572y5YWn5Lq65ZOh5bCI5Y2AZGQCAw9kFgICAQ9kFgICAQ8WAh8BAgYWDGYPZBYEAgEPDxYIHwIFLWh0dHA6Ly9uZXdpbnRyYS5mYS5nb3YudHcvIyZOb2RlPTkwMSZJbmRleD0xNR8DBQZfQmxhbmsfBAUM5YWn57ay57O757WxHwUFGuWFp+e2suezu+e1sSjplovmlrDoppbnqpcpZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAIBD2QWBAIBDw8WCB8CBSZodHRwczovL21tcC5mYS5nb3YudHcvTmlzZmEvTG9naW4uYXNweB8DBQZfQmxhbmsfBAUM57Ch6KiK5bmz5Y+wHwUFGuewoeioiuW5s+WPsCjplovmlrDoppbnqpcpZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAICD2QWBAIBDw8WCB8CBSdodHRwOi8vYW0uZmEuZ292LnR3LyMmTm9kZT05ODcmSW5kZXg9MTUfAwUGX0JsYW5rHwQFHuioiOeVq+e2k+iyu+e2sui3r+S9nOalreezu+e1sR8FBSzoqIjnlavntpPosrvntrLot6/kvZzmpa3ns7vntbEo6ZaL5paw6KaW56qXKWRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCAw9kFgQCAQ8PFggfAgUcaHR0cDovL2ZhZC5mYS5nb3YudHcvZmFmaXNoLx8DBQZfQmxhbmsfBAUY6aSK5q6W5ryB5qWt566h55CG57O757WxHwUFJumkiuaulua8gealreeuoeeQhuezu+e1sSjplovmlrDoppbnqpcpZGQCAw9kFgICAQ9kFgICAQ8WAh8BAv////8PZAIED2QWBAIBDw8WCB8CBSFodHRwOi8vcHJvamVjdC5jb2EuZ292LnR3L2NvYVdlYi8fAwUGX0JsYW5rHwQFEuioiOeVq+eglOaPkOezu+e1sR8FBSDoqIjnlavnoJTmj5Dns7vntbEo6ZaL5paw6KaW56qXKWRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCBQ9kFgQCAQ8PFggfAgUwaHR0cDovL2Rpc2FzdGVyLmZhLmdvdi50dy9Mb2dpbi9Mb2dpblBhZ2UuYWN0aW9uHwMFBl9CbGFuax8EBTTmvIHmpa3lpKnnhLbngb3lrrPmn6XloLHjgIHlr6nmoLjlj4rmlZHliqnmlbjkvY1l5YyWHwUFQua8gealreWkqeeEtueBveWus+afpeWgseOAgeWvqeaguOWPiuaVkeWKqeaVuOS9jWXljJYo6ZaL5paw6KaW56qXKWRkAgMPZBYCAgEPZBYCAgEPFgIfAQL/////D2QCDA8WAh8BAgQWCGYPZBYCAgEPDxYCHwIFLWh0dHA6Ly93d3cuY2dhLmdvdi50dy9HaXBPcGVuL3dTaXRlL21wP21wPTk5OWQWAmYPFQEJ5rW35beh572yZAIBD2QWAgIBDw8WAh8CBStodHRwOi8vd3d3LmZkYS5nb3YudHcvVEMvc2l0ZS5hc3B4P3NpZD00MzQxZBYCZg8VARjml6XmnKzpo5/lk4HnrqHnkIblsIjljYBkAgIPZBYCAgEPDxYCHwIFIS9jaHQvUG9saWN5U292ZXJlaWdudHkvaW5kZXguYXNweGQWAmYPFQEN5rW35Z+f6LOH6KiKIGQCAw9kFgICAQ8PFgIfAgUXaHR0cDovL3d3dy5tb2ZhLmdvdi50dy9kFgJmDxUBCeWkluS6pOmDqGQCDQ8WAh8BAggWEGYPZBYCAgEPDxYCHwIFKGh0dHA6Ly9kc2ZyZGMuZmEuZ292LnR3L3R5cGUyL2luZGV4LmFzcHhkFgJmDxUBGOa8gealreiok+e3tOmWi+ePreizh+ioimQCAQ9kFgICAQ8PFgIfAgUdaHR0cDovL2VmaXNoLmZhLmdvdi50dy9lZmlzaC9kFgJmDxUBDOmtmuWDueihjOaDhWQCAg9kFgICAQ8PFgIfAgUgaHR0cDovL2ZhZG9wZW4uZmEuZ292LnR3L2ZhZG9wZW5kFgJmDxUBIemkiuaulua8gealreaUvumkiumHj+afpeipouW5s+iHumQCAw9kFgICAQ8PFgIfAgU3aHR0cDovL3d3dy5mYS5nb3YudHcvdXBsb2FkLzI2My8yMDE2MDIyMzA5MTA0NzQyNzE3LnBkZmQWAmYPFQEo5ryB5qWt6Kq/5p+l57Wx6KiI5omL5YaKLemtmumhnuWQjeS7o+eivGQCBA9kFgICAQ8PFgIfAgUZL2NodC9JV01QX1BsYW4vaW5kZXguYXNweGQWAmYPFQEY5rWB5Z+f57ac5ZCI5rK755CG6KiI55WrZAIFD2QWAgIBDw8WAh8CBWpodHRwOi8vd3d3LmZhLmdvdi50dy9jaHQvQnVsbGV0aW4vY29udGVudC5hc3B4P2lkPTg2JmNoaz0yMDVhNGMyZS1mYzU0LTRkMDQtYTliZS0xOWQzMGYyMDUyZTgmcGFyYW09cG4lM2QxZBYCZg8VASfmvIHmuK/nhKHpmpznpJnkvJHmhqnml4XpgYrooYznqIvlu7rorbBkAgYPZBYCAgEPDxYCHwIFO2h0dHA6Ly9jbWR3ZWIucGNjLmdvdi50dy9wY2Ntcy9wd3JlcG9ydC9kdWNvbjJfZ2VvZW5nLnBhc2luZBYCZg8VARjlhajmsJHnnaPlt6XntrLot6/pgJrloLFkAgcPZBYCAgEPDxYCHwIFIi9jaHQvUmlnaHRCYW5uZXJNYXJpbmFzL2luZGV4LmFzcHhkFgJmDxUBEumBiuiJh+eivOmgreawtOaWh2QCDg8WAh8BAgQWCGYPZBYCAgEPDxYCHwIFFC9maXNoZWFzeS9pbmRleC5hc3B4ZBYCZg8VARXnuLHmqavprZronabosp3poZ7ntrJkAgEPZBYCAgEPDxYCHwIFES9tZWRpYS9pbmRleC5hc3B4ZBYCZg8VARXmvIHmpa3omZvmk6zlvbHpn7PppKhkAgIPZBYCAgEPDxYCHwIFFi9yZWNyZWF0aW9uL2luZGV4LmFzcHhkFgJmDxUBFeS8kemWkuaogua0u+S4u+mhjOe2smQCAw9kFgICAQ8PFgIfAgUjaHR0cDovL3d3dy5mYS5nb3YudHcvSGFpeWFuc2VhZm9vZC9kFgJmDxUBDOawtOeUoueyvuWTgWQCEA8WAh8EBXQgJmd0OyA8YSBocmVmPSIvY2h0L0dvdi9pbmRleC5hc3B4Ij7mlL/lupzos4foqIrlhazplos8L2E+ICZndDsgPGEgaHJlZj0iL2NodC9Hb3ZCdWRnZXQvaW5kZXguYXNweCI+5rOV5a6a6aCQ566XPC9hPmQCEQ9kFgQCAQ8WAh8EBQzms5XlrprpoJDnrpdkAgUPZBYCAgEPZBYCZg9kFgQCAQ8WAh8BAgoWFGYPZBYGAgEPFgIfBAUBMWQCAw8PFggfAgVaLi4vaW5jbHVkZXMvR2V0RmlsZS5hc2h4P21pZD0xNDcmaWQ9NDMmY2hrPWEwNDgwMzUxLWM3OGEtNDc1Ny1iNDRiLTY3Mzk0MWQzOTdkNSZuYW1lPXBmaWxlHwQFM+a8gealree9suWPiuaJgOWxrOS4reiPr+awkeWcizEwNuW5tOmgkOeul+ahiChXT1JEKR8DBQRfbmV3HwUFQea8gealree9suWPiuaJgOWxrOS4reiPr+awkeWcizEwNuW5tOmgkOeul+ahiChXT1JEKSjplovmlrDoppbnqpcpZGQCBQ8WAh8EBQoyMDE2LTA4LTMxZAIBD2QWBgIBDxYCHwQFATJkAgMPDxYIHwIFWi4uL2luY2x1ZGVzL0dldEZpbGUuYXNoeD9taWQ9MTQ3JmlkPTQyJmNoaz04OTQ2MTY1NC05YThiLTRkNWItYTcwMi00MGEzMWZiZGQwMGUmbmFtZT1wZmlsZR8EBTLmvIHmpa3nvbLlj4rmiYDlsazkuK3oj6/msJHlnIsxMDblubTpoJDnrpfmoYgoUERGKR8DBQRfbmV3HwUFQOa8gealree9suWPiuaJgOWxrOS4reiPr+awkeWcizEwNuW5tOmgkOeul+ahiChQREYpKOmWi+aWsOimlueqlylkZAIFDxYCHwQFCjIwMTYtMDgtMzFkAgIPZBYGAgEPFgIfBAUBM2QCAw8PFggfAgVaLi4vaW5jbHVkZXMvR2V0RmlsZS5hc2h4P21pZD0xNDcmaWQ9NDEmY2hrPTBjNmRkOTAxLWRlYTUtNGE3Ni1iMjkzLTQyYmEyNDBmMmYxZSZuYW1lPXBmaWxlHwQFNOa8gealree9suWPiuaJgOWxrOS4reiPr+awkeWcizEwNuW5tOmgkOeul+ahiChFWENFTCkfAwUEX25ldx8FBULmvIHmpa3nvbLlj4rmiYDlsazkuK3oj6/msJHlnIsxMDblubTpoJDnrpfmoYgoRVhDRUwpKOmWi+aWsOimlueqlylkZAIFDxYCHwQFCjIwMTYtMDgtMzFkAgMPZBYGAgEPFgIfBAUBNGQCAw8PFggfAgVaLi4vaW5jbHVkZXMvR2V0RmlsZS5hc2h4P21pZD0xNDcmaWQ9NDAmY2hrPTRlNmQ1YTZlLWMyMDMtNDYyMS1hMmI3LWQyYmEwYmJiMTI5YiZuYW1lPXBmaWxlHwQFMua8gealree9suWPiuaJgOWxrOS4reiPr+awkeWcizEwNuW5tOmgkOeul+ahiChYTUwpHwMFBF9uZXcfBQVA5ryB5qWt572y5Y+K5omA5bGs5Lit6I+v5rCR5ZyLMTA25bm06aCQ566X5qGIKFhNTCko6ZaL5paw6KaW56qXKWRkAgUPFgIfBAUKMjAxNi0wOC0zMWQCBA9kFgYCAQ8WAh8EBQE1ZAIDDw8WCB8CBVouLi9pbmNsdWRlcy9HZXRGaWxlLmFzaHg/bWlkPTE0NyZpZD0zOSZjaGs9YTg0NmY0NTAtYTFkZi00ODAxLWI2MjktYjBiYmY2ZTdmMTI4Jm5hbWU9cGZpbGUfBAUy5ryB5qWt572y5Y+K5omA5bGs5Lit6I+v5rCR5ZyLMTA25bm06aCQ566X5qGIKE9EUykfAwUEX25ldx8FBUDmvIHmpa3nvbLlj4rmiYDlsazkuK3oj6/msJHlnIsxMDblubTpoJDnrpfmoYgoT0RTKSjplovmlrDoppbnqpcpZGQCBQ8WAh8EBQoyMDE2LTA4LTMxZAIFD2QWBgIBDxYCHwQFATZkAgMPDxYIHwIFWi4uL2luY2x1ZGVzL0dldEZpbGUuYXNoeD9taWQ9MTQ3JmlkPTM4JmNoaz03NGMwZDA3OC1iODliLTRhZGItYWY4Yy1jN2NhY2JiMGYwMGQmbmFtZT1wZmlsZR8EBTbmvIHmpa3nvbLlj4rmiYDlsazkuK3oj6/msJHlnIsxMDXlubTms5XlrprpoJDnrpcoV09SRCkfAwUEX25ldx8FBUTmvIHmpa3nvbLlj4rmiYDlsazkuK3oj6/msJHlnIsxMDXlubTms5XlrprpoJDnrpcoV09SRCko6ZaL5paw6KaW56qXKWRkAgUPFgIfBAUKMjAxNi0wMS0xNGQCBg9kFgYCAQ8WAh8EBQE3ZAIDDw8WCB8CBVouLi9pbmNsdWRlcy9HZXRGaWxlLmFzaHg/bWlkPTE0NyZpZD0zNyZjaGs9MzVmOWQ5YjgtY2I3ZS00NmQ4LTgyOGItYzFiYzI5NGM4YWMxJm5hbWU9cGZpbGUfBAU15ryB5qWt572y5Y+K5omA5bGs5Lit6I+v5rCR5ZyLMTA15bm05rOV5a6a6aCQ566XKE9EUykfAwUEX25ldx8FBUPmvIHmpa3nvbLlj4rmiYDlsazkuK3oj6/msJHlnIsxMDXlubTms5XlrprpoJDnrpcoT0RTKSjplovmlrDoppbnqpcpZGQCBQ8WAh8EBQoyMDE2LTAxLTE0ZAIHD2QWBgIBDxYCHwQFAThkAgMPDxYIHwIFWi4uL2luY2x1ZGVzL0dldEZpbGUuYXNoeD9taWQ9MTQ3JmlkPTM2JmNoaz04MzljOGEzOS02NmNkLTQ2ZTktOWM3Yy1jNjZlZTdiOTIyM2QmbmFtZT1wZmlsZR8EBTXmvIHmpa3nvbLlj4rmiYDlsazkuK3oj6/msJHlnIsxMDXlubTms5XlrprpoJDnrpcoWE1MKR8DBQRfbmV3HwUFQ+a8gealree9suWPiuaJgOWxrOS4reiPr+awkeWcizEwNeW5tOazleWumumgkOeulyhYTUwpKOmWi+aWsOimlueqlylkZAIFDxYCHwQFCjIwMTYtMDEtMTRkAggPZBYGAgEPFgIfBAUBOWQCAw8PFggfAgVaLi4vaW5jbHVkZXMvR2V0RmlsZS5hc2h4P21pZD0xNDcmaWQ9MzUmY2hrPWY5NDI3MzM0LTNjZGEtNDg4NS1iMjdkLTk3ZGE1YmVmZGVjNCZuYW1lPXBmaWxlHwQFN+a8gealree9suWPiuaJgOWxrOS4reiPr+awkeWcizEwNeW5tOazleWumumgkOeulyhFWENFTCkfAwUEX25ldx8FBUXmvIHmpa3nvbLlj4rmiYDlsazkuK3oj6/msJHlnIsxMDXlubTms5XlrprpoJDnrpcoRVhDRUwpKOmWi+aWsOimlueqlylkZAIFDxYCHwQFCjIwMTYtMDEtMTRkAgkPZBYGAgEPFgIfBAUCMTBkAgMPDxYIHwIFWi4uL2luY2x1ZGVzL0dldEZpbGUuYXNoeD9taWQ9MTQ3JmlkPTM0JmNoaz04MjM3NWY5NS04YTA4LTQ2NmQtODM0MC01OWY4N2U1ZDM1MzEmbmFtZT1wZmlsZR8EBTXmvIHmpa3nvbLlj4rmiYDlsazkuK3oj6/msJHlnIsxMDXlubTms5XlrprpoJDnrpcoUERGKR8DBQRfbmV3HwUFQ+a8gealree9suWPiuaJgOWxrOS4reiPr+awkeWcizEwNeW5tOazleWumumgkOeulyhQREYpKOmWi+aWsOimlueqlylkZAIFDxYCHwQFCjIwMTYtMDEtMTRkAgMPFgIfBAXVATxhIGhyZWY9Ij9wbj0xIiB0aXRsZT0iMSIgY2xhc3M9ImN1cnJlbnQiPjE8L2E+IDxhIGhyZWY9Ij9wbj0yIiB0aXRsZT0iMiI+MjwvYT4gPGEgaHJlZj0iP3BuPTMiIHRpdGxlPSIzIj4zPC9hPiA8YSBocmVmPSI/cG49NCIgdGl0bGU9IjQiPjQ8L2E+IDxhIGhyZWY9Ij9wbj0yIiB0aXRsZT0iPj4iIGNsYXNzPSJwYWdlX25uIj4+PjwvYT4gPHNwYW4+IC8gMzYgPC9zcGFuPmQCEg8WAh8BAgQWCGYPZBYCAgEPDxYKHwIFK2h0dHA6Ly93d3cuZmRhLmdvdi50dy9UQy9zaXRlLmFzcHg/c2lkPTQzNDEeCENzc0NsYXNzBQJpMR8FBSbml6XmnKzpo5/lk4HnrqHnkIblsIjljYAo5Y+m6ZaL6KaW56qXKR8DBQZfYmxhbmseBF8hU0ICAmQWAmYPFgIfBAUY5pel5pys6aOf5ZOB566h55CG5bCI5Y2AZAIBD2QWAgIBDw8WCh8CBS1odHRwOi8vd3d3LmNnYS5nb3YudHcvR2lwT3Blbi93U2l0ZS9tcD9tcD05OTkfBgUCaTIfBQUX5rW35beh572yKOWPpumWi+imlueqlykfAwUGX2JsYW5rHwcCAmQWAmYPFgIfBAUJ5rW35beh572yZAICD2QWAgIBDw8WCh8CBRdodHRwOi8vd3d3Lm1vZmEuZ292LnR3Lx8GBQJpMx8FBRflpJbkuqTpg6go5Y+m6ZaL6KaW56qXKR8DBQZfYmxhbmsfBwICZBYCZg8WAh8EBQnlpJbkuqTpg6hkAgMPZBYCAgEPDxYKHwIFIS9jaHQvUG9saWN5U292ZXJlaWdudHkvaW5kZXguYXNweB8GBQJpNB8FBRvmtbfln5/os4foqIogKOWPpumWi+imlueqlykfAwUGX2JsYW5rHwcCAmQWAmYPFgIfBAUN5rW35Z+f6LOH6KiKIGQCEw9kFgICAQ9kFgICAQ8WAh8BAgMWBmYPZBYCAgEPDxYGHwIFQGh0dHA6Ly9kc2ZyZGMuZmEuZ292LnR3LzJ0cmFuaW5pbmcvY2xhc3MuYXNweD8mTm9kZT0xMDI4JkluZGV4PTUfBQUm5ryB5qWt6KiT57e06ZaL54+t6LOH6KiKKOmWi+aWsOimlueqlykfAwUGX2JsYW5rZBYCZg8PFgQeCEltYWdlVXJsBTpodHRwOi8vd3d3LmZhLmdvdi50dy91cGxvYWQvMjkyL3MxXzIwMTIwNDE2MTYyMzQ4NDYzNzkuanBnHg1BbHRlcm5hdGVUZXh0BSbmvIHmpa3oqJPnt7Tplovnj63os4foqIoo6ZaL5paw6KaW56qXKWRkAgEPZBYCAgEPDxYGHwIFF2h0dHA6Ly9lZmlzaC5mYS5nb3YudHcvHwUFGumtmuWDueihjOaDhSjplovmlrDoppbnqpcpHwMFBl9ibGFua2QWAmYPDxYEHwgFOmh0dHA6Ly93d3cuZmEuZ292LnR3L3VwbG9hZC8yOTIvczFfMjAxMzAxMTkxMTM3NTQ5OTAzNS5qcGcfCQUa6a2a5YO56KGM5oOFKOmWi+aWsOimlueqlylkZAICD2QWAgIBDw8WBh8CBSIvY2h0L1JpZ2h0QmFubmVyTWFyaW5hcy9pbmRleC5hc3B4HwUFEumBiuiJh+eivOmgreawtOaWhx8DZWQWAmYPDxYEHwgFOmh0dHA6Ly93d3cuZmEuZ292LnR3L3VwbG9hZC8yOTIvczFfMjAxMzAxMTkxMTM1MDU1MDY1NS5qcGcfCQUS6YGK6ImH56K86aCt5rC05paHZGQCGA8WAh8BAg0WGmYPZBYCAgEPFgIeBWNsYXNzBQNvZGQWBAIBDw8WCB8CBRQvY2h0L0FiRmEvaW5kZXguYXNweB8DZR8EBQ/pl5zmlrzmvIHmpa3nvbIfBQUP6Zec5pa85ryB5qWt572yZGQCAw9kFgICAQ9kFgICAQ8WAh8BAgcWDmYPZBYCAgEPDxYIHwIFGy9jaHQvQWJGYUhpc3RvcnkvaW5kZXguYXNweB8DZR8EBQzmqZ/pl5zmsr/pnakfBQUM5qmf6Zec5rK/6Z2pZGQCAQ9kFgICAQ8PFggfAgUYL2NodC9BYkZhTG9nby9pbmRleC5hc3B4HwNlHwQFDOe9suW+veaVheS6ix8FBQznvbLlvr3mlYXkuotkZAICD2QWAgIBDw8WCB8CBSEvY2h0L0FiRmFBYm91dERpcmVjdG9yL2luZGV4LmFzcHgfA2UfBAUM572y6ZW357Ch5LuLHwUFDOe9sumVt+ewoeS7i2RkAgMPZBYCAgEPDxYIHwIFKS9jaHQvQWJGYUFib3V0RGlyZWN0b3JfaGlzdG9yeS9pbmRleC5hc3B4HwNlHwQFDOatt+S7u+mmlumVtx8FBQzmrbfku7vpppbplbdkZAIED2QWAgIBDw8WCB8CBRwvY2h0L0FiRmFCdXNpbmVzcy9pbmRleC5hc3B4HwNlHwQFDOalreWLmeiBt+aOjB8FBQzmpa3li5nogbfmjoxkZAIFD2QWAgIBDw8WCB8CBR8vY2h0L0FiRmFDb250YWN0SW5mby9pbmRleC5hc3B4HwNlHwQFDOiBr+e1oeizh+ioih8FBQzoga/ntaHos4foqIpkZAIGD2QWAgIBDw8WCB8CBSAvY2h0L0FiRmFMb2NhdGlvbkluZm8vaW5kZXguYXNweB8DZR8EBQzkuqTpgJros4foqIofBQUM5Lqk6YCa6LOH6KiKZGQCAQ9kFgICAQ8WAh8KBQRldmVuFgQCAQ8PFggfAgUWL2NodC9Qb2xpY3kvaW5kZXguYXNweB8DZR8EBQzmvIHmpa3mlL/nrZYfBQUM5ryB5qWt5pS/562WZGQCAw9kFgICAQ9kFgICAQ8WAh8BAgUWCmYPZBYCAgEPDxYIHwIFHy9jaHQvUG9saWN5SW1wb3J0YW50L2luZGV4LmFzcHgfA2UfBAUM6YeN5aSn5pS/562WHwUFDOmHjeWkp+aUv+etlmRkAgEPZBYCAgEPDxYIHwIFIC9jaHQvSW1wb3J0YW50TWVhc3VyZS9pbmRleC5hc3B4HwNlHwQFFemHjeimgeaOquaWveWPiuaIkOaenB8FBRXph43opoHmjqrmlr3lj4rmiJDmnpxkZAICD2QWAgIBDw8WCB8CBR0vY2h0L1BvbGljeU1lYXN1cmUvaW5kZXguYXNweB8DZR8EBQnlpKfkuovntIAfBQUJ5aSn5LqL57SAZGQCAw9kFgICAQ8PFggfAgUZL2NodC9Qb2xpY3lJVVUvaW5kZXguYXNweB8DZR8EBQ/miZPmk4pJVVXmvIHmpa0fBQUP5omT5pOKSVVV5ryB5qWtZGQCBA9kFgICAQ8PFggfAgUhL2NodC9Qb2xpY3lTb3ZlcmVpZ250eS9pbmRleC5hc3B4HwNlHwQFDOa1t+Wfn+S4u+asih8FBQzmtbfln5/kuLvmrIpkZAICD2QWAgIBDxYCHwoFA29kZBYEAgEPDxYIHwIFGS9jaHQvQW5ub3VuY2VML2luZGV4LmFzcHgfA2UfBAUM6KiK5oGv5YWs5ZGKHwUFDOioiuaBr+WFrOWRimRkAgMPZBYCAgEPZBYCAgEPFgIfAQIIFhBmD2QWAgIBDw8WCB8CBRgvY2h0L0Fubm91bmNlL2luZGV4LmFzcHgfA2UfBAUM5YWs5ZGK6LOH6KiKHwUFDOWFrOWRiuizh+ioimRkAgEPZBYCAgEPDxYIHwIFHi9jaHQvQW5ub3VuY2VUZW5kZXIvaW5kZXguYXNweB8DZR8EBQzmi5vmqJnos4foqIofBQUM5oub5qiZ6LOH6KiKZGQCAg9kFgICAQ8PFggfAgUfL2NodC9Bbm5vdW5jZUpvYkluZm8vaW5kZXguYXNweB8DZR8EBQzlsLHmpa3os4foqIofBQUM5bCx5qWt6LOH6KiKZGQCAw9kFgICAQ8PFggfAgUgL2NodC9Bbm5vdW5jZVNob290aW5nL2luZGV4LmFzcHgfA2UfBAUM6Iiq5a6J6LOH6KiKHwUFDOiIquWuieizh+ioimRkAgQPZBYCAgEPDxYIHwIFYS9jaHQvQW5ub3VuY2VGaXNoSW5zcGVjdHMvY29udGVudC5hc3B4P2lkPTEmY2hrPWJiOTNmYmUzLWQzZTUtNDY4Ny1iYTkwLTRmMGVlZGE4YTVkYyZwYXJhbT1wbiUzZDEfA2UfBAUM5qqi6amX5bCI5Y2AHwUFDOaqoumpl+WwiOWNgGRkAgUPZBYCAgEPDxYIHwIFGy9jaHQvU2VydmljZUV1cm8vaW5kZXguYXNweB8DZR8EBS3ovLjmrZDnm5/kvpvosqjmvIHoiLnlj4rppIrmrpbloLTnmbvpjITlkI3llq4fBQUt6Ly45q2Q55uf5L6b6LKo5ryB6Ii55Y+K6aSK5q6W5aC055m76YyE5ZCN5ZauZGQCBg9kFgICAQ8PFggfAgUhL2NodC9Bbm5vdW5jZVBlcnNvbm5lbC9pbmRleC5hc3B4HwNlHwQFDOS6uuS6i+eVsOWLlR8FBQzkurrkuovnlbDli5VkZAIHD2QWAgIBDw8WCB8CBRwvY2h0L0Fubm91bmNlRmlzaC9pbmRleC5hc3B4HwNlHwQFDOWwgea6quitt+mtmh8FBQzlsIHmuqrorbfprZpkZAIDD2QWAgIBDxYCHwoFBGV2ZW4WBAIBDw8WCB8CBRQvY2h0L05ld3MvaW5kZXguYXNweB8DZR8EBQzmvIHmpa3mlrDogZ4fBQUM5ryB5qWt5paw6IGeZGQCAw9kFgICAQ9kFgICAQ8WAh8BAgMWBmYPZBYCAgEPDxYIHwIFGS9jaHQvTmV3c1BhcGVyL2luZGV4LmFzcHgfA2UfBAUJ5paw6IGe56i/HwUFCeaWsOiBnueov2RkAgEPZBYCAgEPDxYIHwIFGy9jaHQvTmV3c09waW5pb24vaW5kZXguYXNweB8DZR8EBQzmvIHmpa3ovL/mg4UfBQUM5ryB5qWt6Ly/5oOFZGQCAg9kFgICAQ8PFggfAgUbL2NodC9FdmVudHNQaG90by9pbmRleC5hc3B4HwNlHwQFDOa0u+WLleWJquW9sR8FBQzmtLvli5XliarlvbFkZAIED2QWAgIBDxYCHwoFA29kZBYEAgEPDxYIHwIFFC9jaHQvTGF3cy9pbmRleC5hc3B4HwNlHwQFDOa8gealreazleS7pB8FBQzmvIHmpa3ms5Xku6RkZAIDD2QWAgIBD2QWAgIBDxYCHwECCRYSZg9kFgICAQ8PFggfAgUXL2NodC9MYXdzTmV3L2luZGV4LmFzcHgfA2UfBAUM5pyA5paw5rOV6KaPHwUFDOacgOaWsOazleimj2RkAgEPZBYCAgEPDxYIHwIFGi9jaHQvTGF3c1NlYXJjaC9pbmRleC5hc3B4HwNlHwQFDOazleimj+aqoue0oh8FBQzms5Xopo/mqqLntKJkZAICD2QWAgIBDw8WCB8CBSQvY2h0L0xhd3NDZW50cmFsRmlzaGVyaWVzL2luZGV4LmFzcHgfA2UfBAUM5Lit5aSu5rOV6KaPHwUFDOS4reWkruazleimj2RkAgMPZBYCAgEPDxYIHwIFIS9jaHQvTGF3c1J1bGVGaXNoZXJpZXMvaW5kZXguYXNweB8DZR8EBQzooYzmlL/opo/liYcfBQUM6KGM5pS/6KaP5YmHZGQCBA9kFgICAQ8PFggfAgUkL2NodC9MYXdzUmVsZWFzZUZpc2hlcmllcy9pbmRleC5hc3B4HwNlHwQFDOihjOaUv+WHvemHix8FBQzooYzmlL/lh73ph4tkZAIFD2QWAgIBDw8WCB8CBSUvY2h0L0xhd3NBbm5vdW5jZUZpc2hlcmllcy9pbmRleC5hc3B4HwNlHwQFDOazleS7pOWFrOWRih8FBQzms5Xku6TlhazlkYpkZAIGD2QWAgIBDw8WCB8CBRgvY2h0L0xhd0RyYWZ0L2luZGV4LmFzcHgfA2UfBAUY5rOV6KaP5ZG95Luk6I2J5qGI6aCQ5ZGKHwUFGOazleimj+WRveS7pOiNieahiOmgkOWRimRkAgcPZBYCAgEPDxYIHwIFFS9jaHQvTGF3Q24vaW5kZXguYXNweB8DZR8EBRjlpKfpmbjoiLnlk6HnrqHnkIbms5Xopo8fBQUY5aSn6Zm46Ii55ZOh566h55CG5rOV6KaPZGQCCA9kFgICAQ8PFggfAgUXL2NodC9MYXdzR292L2luZGV4LmFzcHgfA2UfBAUk55u06L2E5biC5Y+K57ij5biC5pS/5bqc5YWs5ZGK5rOV5LukHwUFJOebtOi9hOW4guWPiue4o+W4guaUv+W6nOWFrOWRiuazleS7pGRkAgUPZBYCAgEPFgIfCgUEZXZlbhYEAgEPDxYIHwIFFi9jaHQvRm9ydW1zL2luZGV4LmFzcHgfA2UfBAUM6ZuZ5ZCR5Lqk5rWBHwUFDOmbmeWQkeS6pOa1gWRkAgMPZBYCAgEPZBYCAgEPFgIfAQIEFghmD2QWAgIBDw8WCB8CBSIvY2h0L0ZvcnVtc0RpcmVjdG9yTWFpbC9pbmRleC5hc3B4HwNlHwQFDOe9sumVt+S/oeeusR8FBQznvbLplbfkv6HnrrFkZAIBD2QWAgIBDw8WCB8CBRsvY2h0L0ZvcnVtc0d1ZXN0L2luZGV4LmFzcHgfA2UfBAUM5oSP6KaL5Lqk5rWBHwUFDOaEj+imi+S6pOa1gWRkAgIPZBYCAgEPDxYIHwIFGS9jaHQvRm9ydW1zRmFxL2luZGV4LmFzcHgfA2UfBAUP5bi46KaL5ZWP562U6ZuGHwUFD+W4uOimi+WVj+etlOmbhmRkAgMPZBYCAgEPDxYIHwIFHC9jaHQvU2VhZm9vZFNhZmVDL2luZGV4LmFzcHgfA2UfBAUV5ryB55Si5ZOB6aOf5a6J5bCI5Y2AHwUFFea8geeUouWTgemjn+WuieWwiOWNgGRkAgYPZBYCAgEPFgIfCgUDb2RkFgQCAQ8PFggfAgUXL2NodC9TZXJ2aWNlL2luZGV4LmFzcHgfA2UfBAUM5L6/5rCR5pyN5YuZHwUFDOS+v+awkeacjeWLmWRkAgMPZBYCAgEPZBYCAgEPFgIfAQIIFhBmD2QWAgIBDw8WCB8CBRwvY2h0L1NlcnZpY2VBcHBseS9pbmRleC5hc3B4HwNlHwQFDOe3muS4iuihqOWWrh8FBQznt5rkuIrooajllq5kZAIBD2QWAgIBDw8WCB8CBSMvY2h0L1NlcnZpY2VBcHBseUZpc2hlcnkvaW5kZXguYXNweB8DZR8EBRLlkITpoIXmpa3li5nnlLPoq4sfBQUS5ZCE6aCF5qWt5YuZ55Sz6KuLZGQCAg9kFgICAQ8PFggfAgUdL2NodC9TZXJ2aWNlRXRoaWNzL2luZGV4LmFzcHgfA2UfBAUM5pS/6aKo6LOH6KiKHwUFDOaUv+miqOizh+ioimRkAgMPZBYCAgEPDxYIHwIFJC9jaHQvU2VydmljZURvd25GaWxlQXBwbHkvaW5kZXguYXNweB8DZR8EBQzkuIvovInmnI3li5kfBQUM5LiL6LyJ5pyN5YuZZGQCBA9kFgICAQ8PFggfAgUaL2NodC9TZXJ2aWNlV3RvL2luZGV4LmFzcHgfA2UfBAUVV1RP6IiHRkFP5ryB5qWt6LOH6KiKHwUFFVdUT+iIh0ZBT+a8gealreizh+ioimRkAgUPZBYCAgEPDxYIHwIFHy9jaHQvUG9saWN5TWFya2V0aW5nL2luZGV4LmFzcHgfA2UfBAUP55Si6Yq354+t6LOH6KiKHwUFD+eUoumKt+ePreizh+ioimRkAgYPZBYCAgEPDxYIHwIFFy9jaHQvTGljZW5zZS9pbmRleC5hc3B4HwNlHwQFEua8gealreWft+eFp+aOm+WksR8FBRLmvIHmpa3ln7fnhafmjpvlpLFkZAIHD2QWAgIBDw8WCB8CBTZodHRwOi8vZmFlamIuZmEuZ292LnR3OjgwODAvQm9hdE1hbmFnZS9wYWdlcy9pbmRleC5qc3AfAwUGX0JsYW5rHwQFHuenn+eUqOa8geiIuee3muS4iuS9nOalreezu+e1sR8FBSznp5/nlKjmvIHoiLnnt5rkuIrkvZzmpa3ns7vntbEo6ZaL5paw6KaW56qXKWRkAgcPZBYCAgEPFgIfCgUEZXZlbhYEAgEPDxYIHwIFGC9jaHQvUmVzb3VyY2UvaW5kZXguYXNweB8DZR8EBQzmvIHmpa3os4fmupAfBQUM5ryB5qWt6LOH5rqQZGQCAw9kFgICAQ9kFgICAQ8WAh8BAgoWFGYPZBYCAgEPDxYIHwIFHy9jaHQvUmVzb3VyY2VDb2FzdGFsL2luZGV4LmFzcHgfA2UfBAUP5rK/6L+R5rW35ryB5qWtHwUFD+ayv+i/kea1t+a8gealrWRkAgEPZBYCAgEPDxYIHwIFIS9jaHQvUmVzb3VyY2VGaXNoUmlnaHQvaW5kZXguYXNweB8DZR8EBQ/lsIjnlKjmvIHmpa3mrIofBQUP5bCI55So5ryB5qWt5qyKZGQCAg9kFgICAQ8PFggfAgUkL2NodC9SZXNvdXJjZUNvbnNlcnZhdGlvbi9pbmRleC5hc3B4HwNlHwQFD+izh+a6kOS/neiCsuWNgB8FBQ/os4fmupDkv53ogrLljYBkZAIDD2QWAgIBDw8WCB8CBSIvY2h0L1Jlc291cmNlT3RoZXJab25lcy9pbmRleC5hc3B4HwNlHwQFIeS6uuW3pemtmuekgeOAgeS/neitt+ekgeWNgOizh+ioih8FBSHkurrlt6XprZrnpIHjgIHkv53orbfnpIHljYDos4foqIpkZAIED2QWAgIBDw8WCB8CBSYvY2h0L1Jlc291cmNlV29ybGRPY2VhbnNEYXkvaW5kZXguYXNweB8DZR8EBQ/kuJbnlYzmtbfmtIvml6UfBQUP5LiW55WM5rW35rSL5pelZGQCBQ9kFgICAQ8PFggfAgVVL2NodC9CYW5TaGFyay9jb250ZW50LmFzcHg/aWQ9MSZjaGs9ZmEzMDRlMDYtNGFhMS00NDBiLWEyYzgtZjU5YzEwZjIzNGU2JnBhcmFtPXBuJTNkMR8DZR8EBSTkuInlpKfmtIvnpoHmjZXpr4rprZrlj4rprZ/poZ7niannqK4fBQUk5LiJ5aSn5rSL56aB5o2V6a+K6a2a5Y+K6a2f6aGe54mp56iuZGQCBg9kFgICAQ8PFggfAgUjL2NodC9SZXNvdXJjZUFjaGlldmVtZW50L2luZGV4LmFzcHgfA2UfBAUV6aSK6K235Y+K5Z+35rOV5oiQ5p6cHwUFFemkiuitt+WPiuWft+azleaIkOaenGRkAgcPZBYCAgEPDxYIHwIFZGh0dHA6Ly93d3cuZmEuZ292LnR3L2NodC9Bbm5vdW5jZVNoYXJrL2NvbnRlbnQuYXNweD9pZD0xJmNoaz04ZTYwNjk3OC01NmY4LTRlZjItYThlZS1hYWNiYzRkNTQ5YTcmcGEfA2UfBAUY6a+K6a2a6bCt5LiN6Zui6Lqr5bCI5Y2AHwUFGOmviumtmumwreS4jemboui6q+WwiOWNgGRkAggPZBYCAgEPDxYIHwIFWy9jaHQvVGFpd2FuT2NlYW5zUHJvdGVjdGlvbkFyZWFzL2NvbnRlbnQuYXNweD9pZD0xJmNoaz0yMDAxNzM5ZC1kNGNkLTRkZWQtYmY5Mi1kNTcwOTEyYmFmMDgfA2UfBAUY6Ie654Gj55qE5rW35rSL5L+d6K235Y2AHwUFGOiHuueBo+eahOa1t+a0i+S/neitt+WNgGRkAgkPZBYCAgEPDxYIHwIFGS9jaHQvSVdNUF9QbGFuL2luZGV4LmFzcHgfA2UfBAUY5rWB5Z+f57ac5ZCI5rK755CG6KiI55WrHwUFGOa1geWfn+e2nOWQiOayu+eQhuioiOeVq2RkAggPZBYCAgEPFgIfCgUDb2RkFgQCAQ8PFggfAgUjL2NodC9JbmZvcm1hdGlvblNlcnZpY2VzL2luZGV4LmFzcHgfA2UfBAUP6LOH6KiK6IiH5pyN5YuZHwUFD+izh+ioiuiIh+acjeWLmWRkAgMPZBYCAgEPZBYCAgEPFgIfAQIFFgpmD2QWAgIBDw8WCB8CBR4vY2h0L0JvYXRMaXN0SW5JRk1PL2luZGV4LmFzcHgfA2UfBAU56L6y5aeU5pyD5qC45YeG5oiR5ZyL5ryB6Ii56LW05LiJ5aSn5rSL5L2c5qWt5ryB6Ii55ZCN5ZauHwUFOei+suWnlOacg+aguOWHhuaIkeWci+a8geiIuei1tOS4ieWkp+a0i+S9nOalrea8geiIueWQjeWWrmRkAgEPZBYCAgEPDxYIHwIFHi9jaHQvQW5ub3VuY2VQaXJhdGUvaW5kZXguYXNweB8DZR8EBQzmtbfnm5zos4foqIofBQUM5rW355uc6LOH6KiKZGQCAg9kFgICAQ8PFggfAgUgL2NodC9Bbm5vdW5jZURpc2FzdGVyL2luZGV4LmFzcHgfA2UfBAUS5a+S5a6z5r2b5Yui5YiG5p6QHwUFEuWvkuWus+a9m+WLouWIhuaekGRkAgMPZBYCAgEPDxYIHwIFHy9jaHQvQW5ub3VuY2VQcm9kdWN0L2luZGV4LmFzcHgfA2UfBAUM5pyJ5qmf5rC055SiHwUFDOacieapn+awtOeUomRkAgQPZBYCAgEPDxYIHwIFIC9jaHQvQW5ub3VuY2VFbGVjdGlvbi9pbmRleC5hc3B4HwNlHwQFDOa8geacg+mBuOiIiR8FBQzmvIHmnIPpgbjoiIlkZAIJD2QWAgIBDxYCHwoFBGV2ZW4WBAIBDw8WCB8CBRwvY2h0L1B1YmxpY2F0aW9ucy9pbmRleC5hc3B4HwNlHwQFEue1seioiOiIh+WHuueJiOWTgR8FBRLntbHoqIjoiIflh7rniYjlk4FkZAIDD2QWAgIBD2QWAgIBDxYCHwECAhYEZg9kFgICAQ8PFggfAgUjL2NodC9QdWJsaWNhdGlvbnMvaW5kZXhfTDNfMV8xLmFzcHgfA2UfBAUM5ryB5qWt57Wx6KiIHwUFDOa8gealree1seioiGRkAgEPZBYCAgEPDxYIHwIFIy9jaHQvUHVibGljYXRpb25zL2luZGV4X0wzXzJfMS5hc3B4HwNlHwQFCeWHuueJiOWTgR8FBQnlh7rniYjlk4FkZAIKD2QWAgIBDxYCHwoFA29kZBYEAgEPDxYIHwIFEy9jaHQvR292L2luZGV4LmFzcHgfA2UfBAUS5pS/5bqc6LOH6KiK5YWs6ZaLHwUFEuaUv+W6nOizh+ioiuWFrOmWi2RkAgMPZBYCAgEPZBYCAgEPFgIfAQIRFiJmD2QWAgIBDw8WCB8CBRwvY2h0L0luZm9ncmFwaGljcy9pbmRleC5hc3B4HwNlHwQFD+izh+ioiuWcluWDj+WMlh8FBQ/os4foqIrlnJblg4/ljJZkZAIBD2QWAgIBDw8WCB8CBSQvY2h0L0xhd3NDZW50cmFsRmlzaGVyaWVzL2luZGV4LmFzcHgfA2UfBAUV5qKd57SE44CB5Lit5aSu5rOV6KaPHwUFFeainee0hOOAgeS4reWkruazleimj2RkAgIPZBYCAgEPDxYIHwIFJC9jaHQvTGF3c1JlbGVhc2VGaXNoZXJpZXMvaW5kZXguYXNweB8DZR8EBRXlh73ph4voiIfoo4Hph4/ln7rmupYfBQUV5Ye96YeL6IiH6KOB6YeP5Z+65rqWZGQCAw9kFgICAQ8PFggfAgUSL2NodC9BYkZhQnVzaW5lc3MvHwNlHwQFDOe1hOe5lOiBt+aOjB8FBQzntYTnuZTogbfmjoxkZAIED2QWAgIBDw8WCB8CBSMvY2h0L1NlcnZpY2VBcHBseUZpc2hlcnkvaW5kZXguYXNweB8DZR8EBRLooYzmlL/mjIflsI7mlofmm7gfBQUS6KGM5pS/5oyH5bCO5paH5pu4ZGQCBQ9kFgICAQ8PFggfAgUVL2NodC9Qb2xpY3lJbXBvcnRhbnQvHwNlHwQFDOaWveaUv+ioiOeVqx8FBQzmlr3mlL/oqIjnlatkZAIGD2QWAgIBDw8WCB8CBSQvY2h0L1B1YmxpY2F0aW9uc0Zpc2hZZWFyL2luZGV4LmFzcHgfA2UfBAUM5qWt5YuZ57Wx6KiIHwUFDOalreWLmee1seioiGRkAgcPZBYCAgEPDxYIHwIFGS9jaHQvR292UmVwb3J0L2luZGV4LmFzcHgfA2UfBAUM56CU56m25aCx5ZGKHwUFDOeglOeptuWgseWRimRkAggPZBYCAgEPDxYIHwIFGS9jaHQvR292QnVkZ2V0L2luZGV4LmFzcHgfA2UfBAUM5rOV5a6a6aCQ566XHwUFDOazleWumumgkOeul2RkAgkPZBYCAgEPDxYIHwIFGi9jaHQvR292QWNjb3VudC9pbmRleC5hc3B4HwNlHwQFBuaxuueulx8FBQbmsbrnrpdkZAIKD2QWAgIBDw8WCB8CBRwvY2h0L0dvdkFsbG93YW5jZS9pbmRleC5hc3B4HwNlHwQFGOaUr+S7mOaIluaOpeWPl+S5i+ijnOWKqR8FBRjmlK/ku5jmiJbmjqXlj5fkuYvoo5zliqlkZAILD2QWAgIBDw8WCB8CBRcvY2h0L1Byb2ZpbGUvaW5kZXguYXNweB8DZR8EBSTkv53mnInlj4rnrqHnkIblgIvkurros4fmlpnkuYvpoIXnm64fBQUk5L+d5pyJ5Y+K566h55CG5YCL5Lq66LOH5paZ5LmL6aCF55uuZGQCDA9kFgICAQ8PFggfAgUeL2NodC9Qb2xpY3lBZHZvY2FjeS9pbmRleC5hc3B4HwNlHwQFEuaUv+etluWuo+WwjuWft+ihjB8FBRLmlL/nrZblrqPlsI7ln7fooYxkZAIND2QWAgIBDw8WCB8CBRsvY2h0L0FwcGx5RG9uYXRlL2luZGV4LmFzcHgfA2UfBAUs5ryB5qWt572y55Sz6KuL6KOcKOaNkCnosrvnlKjkuYvnm7jpl5zovqbms5UfBQUs5ryB5qWt572y55Sz6KuL6KOcKOaNkCnosrvnlKjkuYvnm7jpl5zovqbms5VkZAIOD2QWAgIBDw8WCB8CBR4vY2h0L09mZmljaWFsQnVkZ2V0L2luZGV4LmFzcHgfA2UfBAUM5pyD6KiI5aCx5ZGKHwUFDOacg+ioiOWgseWRimRkAg8PZBYCAgEPDxYIHwIFHi9jaHQvR2VuZGVyRXF1YWxpdHkvaW5kZXguYXNweB8DZR8EBRLmgKfliKXlubPnrYnlsIjljYAfBQUS5oCn5Yil5bmz562J5bCI5Y2AZGQCEA9kFgICAQ8PFggfAgUYL2NodC9PcGVuRGF0YS9pbmRleC5hc3B4HwNlHwQFEuizh+aWmemWi+aUvuWwiOWNgB8FBRLos4fmlpnplovmlL7lsIjljYBkZAILD2QWAgIBDxYCHwoFBGV2ZW4WBAIBDw8WCB8CBRUvY2h0L0xpbmtzL2luZGV4LmFzcHgfA2UfBAUM55u46Zec6YCj57WQHwUFDOebuOmXnOmAo+e1kGRkAgMPZBYCAgEPZBYCAgEPFgIfAQIHFg5mD2QWAgIBDw8WCB8CBR0vY2h0L0xpbmtzQWdlbmNpZXMvaW5kZXguYXNweB8DZR8EBRjovrLlp5TmnIPmmqjmiYDlsazmqZ/pl5wfBQUY6L6y5aeU5pyD5pqo5omA5bGs5qmf6ZecZGQCAQ9kFgICAQ8PFggfAgUrL2NodC9MaW5rc1BhZ2UvaW5kZXguYXNweD9OYW1lPeWci+Wklue2suermR8DZR8EBQzlnIvlpJbntrLnq5kfBQUM5ZyL5aSW57ay56uZZGQCAg9kFgICAQ8PFggfAgUYL2NodC9MaW5rc0dvdi9pbmRleC5hc3B4HwNlHwQFDOaUv+W6nOWWruS9jR8FBQzmlL/lupzllq7kvY1kZAIDD2QWAgIBDw8WCB8CBR0vY2h0L0xpbmtzQWNhZGVtaWMvaW5kZXguYXNweB8DZR8EBQzlrbjooZPllq7kvY0fBQUM5a246KGT5Zau5L2NZGQCBA9kFgICAQ8PFggfAgUdL2NodC9MaW5rc0J1c2luZXNzL2luZGV4LmFzcHgfA2UfBAUM55Si5qWt5Zau5L2NHwUFDOeUoualreWWruS9jWRkAgUPZBYCAgEPDxYIHwIFIC9jaHQvTGlua3NDb3Jwb3JhdGlvbi9pbmRleC5hc3B4HwNlHwQFGOWci+WFp+a8gealreazleS6uuWcmOmrlB8FBRjlnIvlhafmvIHmpa3ms5XkurrlnJjpq5RkZAIGD2QWAgIBDw8WCB8CBRsvY2h0L0xpbmtzT3RoZXJzL2luZGV4LmFzcHgfA2UfBAUG5YW25LuWHwUFBuWFtuS7lmRkAgwPZBYCAgEPFgIfCgUDb2RkFgQCAQ8PFggfAgUYL2NodC9GYU1lbWJlci9pbmRleC5hc3B4HwNlHwQFEue9suWFp+S6uuWToeWwiOWNgB8FBRLnvbLlhafkurrlk6HlsIjljYBkZAIDD2QWAgIBD2QWAgIBDxYCHwECBhYMZg9kFgICAQ8PFggfAgUtaHR0cDovL25ld2ludHJhLmZhLmdvdi50dy8jJk5vZGU9OTAxJkluZGV4PTE1HwMFBl9CbGFuax8EBQzlhafntrLns7vntbEfBQUa5YWn57ay57O757WxKOmWi+aWsOimlueqlylkZAIBD2QWAgIBDw8WCB8CBSZodHRwczovL21tcC5mYS5nb3YudHcvTmlzZmEvTG9naW4uYXNweB8DBQZfQmxhbmsfBAUM57Ch6KiK5bmz5Y+wHwUFGuewoeioiuW5s+WPsCjplovmlrDoppbnqpcpZGQCAg9kFgICAQ8PFggfAgUnaHR0cDovL2FtLmZhLmdvdi50dy8jJk5vZGU9OTg3JkluZGV4PTE1HwMFBl9CbGFuax8EBR7oqIjnlavntpPosrvntrLot6/kvZzmpa3ns7vntbEfBQUs6KiI55Wr57aT6LK757ay6Lev5L2c5qWt57O757WxKOmWi+aWsOimlueqlylkZAIDD2QWAgIBDw8WCB8CBRxodHRwOi8vZmFkLmZhLmdvdi50dy9mYWZpc2gvHwMFBl9CbGFuax8EBRjppIrmrpbmvIHmpa3nrqHnkIbns7vntbEfBQUm6aSK5q6W5ryB5qWt566h55CG57O757WxKOmWi+aWsOimlueqlylkZAIED2QWAgIBDw8WCB8CBSFodHRwOi8vcHJvamVjdC5jb2EuZ292LnR3L2NvYVdlYi8fAwUGX0JsYW5rHwQFEuioiOeVq+eglOaPkOezu+e1sR8FBSDoqIjnlavnoJTmj5Dns7vntbEo6ZaL5paw6KaW56qXKWRkAgUPZBYCAgEPDxYIHwIFMGh0dHA6Ly9kaXNhc3Rlci5mYS5nb3YudHcvTG9naW4vTG9naW5QYWdlLmFjdGlvbh8DBQZfQmxhbmsfBAU05ryB5qWt5aSp54S254G95a6z5p+l5aCx44CB5a+p5qC45Y+K5pWR5Yqp5pW45L2NZeWMlh8FBULmvIHmpa3lpKnnhLbngb3lrrPmn6XloLHjgIHlr6nmoLjlj4rmlZHliqnmlbjkvY1l5YyWKOmWi+aWsOimlueqlylkZAIaDxYCHwECBBYIZg9kFgICAQ8PFgIfAgUtaHR0cDovL3d3dy5jZ2EuZ292LnR3L0dpcE9wZW4vd1NpdGUvbXA/bXA9OTk5ZBYCZg8VAQnmtbflt6HnvbJkAgEPZBYCAgEPDxYCHwIFK2h0dHA6Ly93d3cuZmRhLmdvdi50dy9UQy9zaXRlLmFzcHg/c2lkPTQzNDFkFgJmDxUBGOaXpeacrOmjn+WTgeeuoeeQhuWwiOWNgGQCAg9kFgICAQ8PFgIfAgUhL2NodC9Qb2xpY3lTb3ZlcmVpZ250eS9pbmRleC5hc3B4ZBYCZg8VAQ3mtbfln5/os4foqIogZAIDD2QWAgIBDw8WAh8CBRdodHRwOi8vd3d3Lm1vZmEuZ292LnR3L2QWAmYPFQEJ5aSW5Lqk6YOoZAIcDxYCHwECCBYQZg9kFgICAQ8PFgIfAgUoaHR0cDovL2RzZnJkYy5mYS5nb3YudHcvdHlwZTIvaW5kZXguYXNweGQWAmYPFQEY5ryB5qWt6KiT57e06ZaL54+t6LOH6KiKZAIBD2QWAgIBDw8WAh8CBR1odHRwOi8vZWZpc2guZmEuZ292LnR3L2VmaXNoL2QWAmYPFQEM6a2a5YO56KGM5oOFZAICD2QWAgIBDw8WAh8CBSBodHRwOi8vZmFkb3Blbi5mYS5nb3YudHcvZmFkb3BlbmQWAmYPFQEh6aSK5q6W5ryB5qWt5pS+6aSK6YeP5p+l6Kmi5bmz6Ie6ZAIDD2QWAgIBDw8WAh8CBTdodHRwOi8vd3d3LmZhLmdvdi50dy91cGxvYWQvMjYzLzIwMTYwMjIzMDkxMDQ3NDI3MTcucGRmZBYCZg8VASjmvIHmpa3oqr/mn6XntbHoqIjmiYvlhoot6a2a6aGe5ZCN5Luj56K8ZAIED2QWAgIBDw8WAh8CBRkvY2h0L0lXTVBfUGxhbi9pbmRleC5hc3B4ZBYCZg8VARjmtYHln5/ntpzlkIjmsrvnkIboqIjnlatkAgUPZBYCAgEPDxYCHwIFamh0dHA6Ly93d3cuZmEuZ292LnR3L2NodC9CdWxsZXRpbi9jb250ZW50LmFzcHg/aWQ9ODYmY2hrPTIwNWE0YzJlLWZjNTQtNGQwNC1hOWJlLTE5ZDMwZjIwNTJlOCZwYXJhbT1wbiUzZDFkFgJmDxUBJ+a8gea4r+eEoemanOekmeS8keaGqeaXhemBiuihjOeoi+W7uuitsGQCBg9kFgICAQ8PFgIfAgU7aHR0cDovL2NtZHdlYi5wY2MuZ292LnR3L3BjY21zL3B3cmVwb3J0L2R1Y29uMl9nZW9lbmcucGFzaW5kFgJmDxUBGOWFqOawkeedo+W3pee2sui3r+mAmuWgsWQCBw9kFgICAQ8PFgIfAgUiL2NodC9SaWdodEJhbm5lck1hcmluYXMvaW5kZXguYXNweGQWAmYPFQES6YGK6ImH56K86aCt5rC05paHZAIeDxYCHwECBBYIZg9kFgICAQ8PFgIfAgUUL2Zpc2hlYXN5L2luZGV4LmFzcHhkFgJmDxUBFee4seapq+mtmuidpuiynemhnue2smQCAQ9kFgICAQ8PFgIfAgURL21lZGlhL2luZGV4LmFzcHhkFgJmDxUBFea8gealreiZm+aTrOW9semfs+mkqGQCAg9kFgICAQ8PFgIfAgUWL3JlY3JlYXRpb24vaW5kZXguYXNweGQWAmYPFQEV5LyR6ZaS5qiC5rS75Li76aGM57ayZAIDD2QWAgIBDw8WAh8CBSNodHRwOi8vd3d3LmZhLmdvdi50dy9IYWl5YW5zZWFmb29kL2QWAmYPFQEM5rC055Si57K+5ZOBZAImDxYCHwQFCjIwMTYtMTEtMDZkAicPFgIfBAUIMTE1MzAzNDRkAigPFgIfBAWgESANCjxkaXY+5pys572y5pys6YOo5Zyw5Z2AIO+8mjgwNjcyIOmrmOmbhOW4guWJjemOruWNgOa8gea4r+WMl+S4gOi3rzHomZ8gWyA8YSBocmVmPSJodHRwOi8vd3d3LmZhLmdvdi50dy9jaHQvQWJGYUxvY2F0aW9uSW5mby9jb250ZW50LmFzcHg/aWQ9MSZhbXA7Y2hrPTYwNjYzZmUxLWFiMTUtNGMxMS04OWE3LWVhMTBhNzViZTgyNyZhbXA7cGFyYW09cG4lM2QxIiBzaGFwZT0icmVjdCI+5L2N572u5ZyWPC9hPiBdIOe4veapn++8mjA3LTgxMTMyODg8YnIgLz7lj7DljJflkozlubPlpKfmqJMg77yaMTAwNzAg5Y+w5YyX5biC5Lit5q2j5Y2A5ZKM5bmz6KW/6Lev5LqM5q61MTAw6JmfNuaokyBbIDxhIGhyZWY9Imh0dHA6Ly93d3cuZmEuZ292LnR3L2NodC9BYkZhTG9jYXRpb25JbmZvL2NvbnRlbnQuYXNweD9pZD0yJmFtcDtjaGs9OTkwNDhiYTQtODAxOS00YWY4LWJhYzQtZmU4ZjE2OWY5MTVkJmFtcDtwYXJhbT1wbiUzZDEiIHNoYXBlPSJyZWN0Ij7kvY3nva7lnJY8L2E+IF0g57i95qmf77yaMDItMjM4MzU2NzggDQo8L2Rpdj4gDQo8ZGl2PuW7uuitsOacgOS9s+eAj+imveino+aekOW6piAxMDI0eDc2OO+8jElFN+OAgUZpcmVmb3ggMi4wIOS7peS4iiZuYnNwOw0KPC9kaXY+IA0KPGRpdj7lpoLlsI3mnKznq5nmnInku7vkvZXllY/poYzmiJbmhI/opovvvIzmraHov47oga/ntaE8YSBocmVmPSJtYWlsdG86dzNtYXN0ZXJAbXMxLmZhLmdvdi50dyI+57ay56uZ566h55CG5ZOhPC9hPiANCjwvZGl2PiANCjxkaXY+6KGM5pS/6Zmi6L6y5qWt5aeU5ZOh5pyD5ryB5qWt572yIDIwMTYgwqkg54mI5qyK5omA5pyJKOaJgOacieWcluizh+acque2k+acrOe9suWQjOaEj+S4jeW+l+i9iei8ieWPiumHjeijvSk8YnIgLz7lvYjmgKfkuIrnj63mmYLplpPvvJo4OjAwLTE3OjAw5oiWOTowMC0xODowMA0KPC9kaXY+IDwhLS1kaXYgc3R5bGU9ImRpc3BsYXk6IG5vbmU7Ij48YSBocmVmPSJodHRwOi8vd3d3LmFsZXhhLmNvbS9zaXRlaW5mby93d3cuZmEuZ292LnR3Ij4gDQogICAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iaHR0cDovL3hzbHQuYWxleGEuY29tL3NpdGVfc3RhdHMvanMvdC9hP3VybD13d3cuZmEuZ292LnR3Ij4NCiAgICA8L3NjcmlwdD48L2E+IA0KPC9kaXYtLT4gDQo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+Ly/ph43lpKfoqIrmga/ot5Hppqznh4jlhaflrrkNCi8v5aaC5p6c5LiN6ZyA6KaB6LeR6aas54eI5LqG77yM6KuL5bCH44CMdGV4dDrjgI3lvozmlrnjgIwi44CN5YWn5paH5a2X5Yiq6Zmk5Y2z5Y+v77yM5LiN6KaB5bCH56iL5byP56K85YWo6YOo6Ki76Kej5o6J44CCDQp2YXIgX0ltcE5vdGljZU1hcnF1ZWUgPSB7DQoJCXRleHQ6ICIxMDblubTkuK3oj6/msJHlnIvlhajlnIvmvIHmnIPnuL3lubnkuovlgJnogZjkurrnmbvoqJjlhazlkYoiLCAvL+i3kemmrOeHiOaWh+WtlyDmnKwoMTA1KeW5tOW6puaIquiHszXmnIgxN+aXpeatou+8jOe2k+e1seioiOmjm+mtmuWNtee4vea8geeNsumHj+ioiDDlhazlmbgNCgkJaHJlZjogImh0dHA6Ly93d3cuZmEuZ292LnR3L2NodC9Bbm5vdW5jZUVsZWN0aW9uL2NvbnRlbnQuYXNweD9pZD0xMSZjaGs9NjQyM2JmZGItNDUyOS00MDY5LWE2MDktMDFlYjNlYWVlZGNiJnBhcmFtPXBuJTNkMSIsICAvL+i3kemmrOeHiOmAo+e1kCAgDQoJCXRhcmdldDogIl90b3AiIC8v6ZaL5paw6KaW56qX6Ly45YWl44CMX2JsYW5r44CN77yM5pa85Y6f6KaW56qX6ZaL5ZWf6Ly45YWl44CMX3RvcOOAjeOAgg0KCX07DQovL+evgOaFtuapq+W5heWFp+WuuQ0KdmFyIF9IYXBweUJhbm5lcnNJdGVtID0gWw0KCQl7DQoJCQlpbWc6ICIuL2ltYWdlcy9oYXBweV95ZWFyLmpwZyIsIC8v5ZyW54mH6Lev5b6RDQoJCQlzdGFydDogIjIvOTkiLCAvL+mWi+Wni+aXpeacn++8mk0vRA0KCQkJZW5kOiAiMi85OSIgLy/ntZDmnZ/ml6XmnJ/vvJpNL0QNCgkJfSwNCgkJew0KCQkJaW1nOiAiLi9pbWFnZXMvaGFwcHlfZHJhZ29uLmpwZyIsDQoJCQlzdGFydDogIjYvNiIsDQoJCQllbmQ6ICI2LzExIg0KCQl9LA0KCQl7DQoJCQlpbWc6ICIuL2ltYWdlcy9oYXBweV9tb29uLmpwZyIsDQoJCQlzdGFydDogIjkvMTMiLA0KCQkJZW5kOiAiOS8xNyINCgkJfSwNCgkJew0KCQkJaW1nOiAiLi9pbWFnZXMvaGFwcHlfZmlzaGVyLmpwZyIsDQoJCQlzdGFydDogIjgvOTkiLA0KCQkJZW5kOiAiOC85OSINCgkJfQ0KCV0NCjwvc2NyaXB0PmQCKQ8WAh8EBVs8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgbGFuZ3VhZ2U9ImphdmFzY3JpcHQiIHNyYz0iLi4vU2NyaXB0cy9sZWZ0TWVudS5qcyI+PC9zY3JpcHQ+ZBh3BSpjdGwwMCRycHRSb290JGN0bDA0JHJwdE5vZGUkY3RsMDQkbXR2Tm9kZTIPD2RmZAUqY3RsMDAkcnB0Um9vdCRjdGwxMiRycHROb2RlJGN0bDA0JG10dk5vZGUyDw9kZmQFKmN0bDAwJHJwdFJvb3QkY3RsMDIkcnB0Tm9kZSRjdGwwNSRtdHZOb2RlMg8PZGZkBSpjdGwwMCRycHRSb290JGN0bDA3JHJwdE5vZGUkY3RsMDYkbXR2Tm9kZTIPD2RmZAUqY3RsMDAkcnB0Um9vdCRjdGwxMiRycHROb2RlJGN0bDAxJG10dk5vZGUyDw9kZmQFG2N0bDAwJHJwdEZvb3QkY3RsMTIkbXR2Tm9kZQ8PZAIBZAUqY3RsMDAkcnB0Um9vdCRjdGwwNyRycHROb2RlJGN0bDA4JG10dk5vZGUyDw9kZmQFKmN0bDAwJHJwdFJvb3QkY3RsMTAkcnB0Tm9kZSRjdGwwNSRtdHZOb2RlMg8PZGZkBSpjdGwwMCRycHRSb290JGN0bDA1JHJwdE5vZGUkY3RsMDEkbXR2Tm9kZTIPD2RmZAUqY3RsMDAkcnB0Um9vdCRjdGwwMCRycHROb2RlJGN0bDA1JG10dk5vZGUyDw9kZmQFKmN0bDAwJHJwdFJvb3QkY3RsMTIkcnB0Tm9kZSRjdGwwMyRtdHZOb2RlMg8PZGZkBRtjdGwwMCRycHRGb290JGN0bDA1JG10dk5vZGUPD2QCAWQFKmN0bDAwJHJwdFJvb3QkY3RsMDQkcnB0Tm9kZSRjdGwwMCRtdHZOb2RlMg8PZGZkBSpjdGwwMCRycHRSb290JGN0bDAxJHJwdE5vZGUkY3RsMDQkbXR2Tm9kZTIPD2RmZAUqY3RsMDAkcnB0Um9vdCRjdGwxMCRycHROb2RlJGN0bDA3JG10dk5vZGUyDw9kZmQFKmN0bDAwJHJwdFJvb3QkY3RsMTAkcnB0Tm9kZSRjdGwwOSRtdHZOb2RlMg8PZGZkBSpjdGwwMCRycHRSb290JGN0bDA5JHJwdE5vZGUkY3RsMDAkbXR2Tm9kZTIPD2QCAWQFKmN0bDAwJHJwdFJvb3QkY3RsMTAkcnB0Tm9kZSRjdGwxMyRtdHZOb2RlMg8PZGZkBSpjdGwwMCRycHRSb290JGN0bDEwJHJwdE5vZGUkY3RsMTAkbXR2Tm9kZTIPD2RmZAUqY3RsMDAkcnB0Um9vdCRjdGwwNyRycHROb2RlJGN0bDAwJG10dk5vZGUyDw9kZmQFKmN0bDAwJHJwdFJvb3QkY3RsMDgkcnB0Tm9kZSRjdGwwMCRtdHZOb2RlMg8PZGZkBSpjdGwwMCRycHRSb290JGN0bDAyJHJwdE5vZGUkY3RsMDQkbXR2Tm9kZTIPD2RmZAUqY3RsMDAkcnB0Um9vdCRjdGwwMiRycHROb2RlJGN0bDA3JG10dk5vZGUyDw9kZmQFG2N0bDAwJHJwdEZvb3QkY3RsMTAkbXR2Tm9kZQ8PZAIBZAUqY3RsMDAkcnB0Um9vdCRjdGwwNSRycHROb2RlJGN0bDAyJG10dk5vZGUyDw9kZmQFKmN0bDAwJHJwdFJvb3QkY3RsMTIkcnB0Tm9kZSRjdGwwNSRtdHZOb2RlMg8PZGZkBSpjdGwwMCRycHRSb290JGN0bDExJHJwdE5vZGUkY3RsMDIkbXR2Tm9kZTIPD2RmZAUbY3RsMDAkcnB0Um9vdCRjdGwwOSRtdHZOb2RlDw9kAgFkBSpjdGwwMCRycHRSb290JGN0bDA1JHJwdE5vZGUkY3RsMDMkbXR2Tm9kZTIPD2RmZAUbY3RsMDAkcnB0Um9vdCRjdGwwOCRtdHZOb2RlDw9kAgFkBSpjdGwwMCRycHRSb290JGN0bDAwJHJwdE5vZGUkY3RsMDQkbXR2Tm9kZTIPD2RmZAUqY3RsMDAkcnB0Um9vdCRjdGwwMSRycHROb2RlJGN0bDAzJG10dk5vZGUyDw9kZmQFKmN0bDAwJHJwdFJvb3QkY3RsMDYkcnB0Tm9kZSRjdGwwNSRtdHZOb2RlMg8PZAIBZAUqY3RsMDAkcnB0Um9vdCRjdGwwMiRycHROb2RlJGN0bDAzJG10dk5vZGUyDw9kZmQFKmN0bDAwJHJwdFJvb3QkY3RsMDAkcnB0Tm9kZSRjdGwwNiRtdHZOb2RlMg8PZGZkBRtjdGwwMCRycHRSb290JGN0bDAyJG10dk5vZGUPD2QCAWQFKmN0bDAwJHJwdFJvb3QkY3RsMDMkcnB0Tm9kZSRjdGwwMSRtdHZOb2RlMg8PZGZkBSpjdGwwMCRycHRSb290JGN0bDA0JHJwdE5vZGUkY3RsMDEkbXR2Tm9kZTIPD2RmZAUqY3RsMDAkcnB0Um9vdCRjdGwxMSRycHROb2RlJGN0bDA1JG10dk5vZGUyDw9kZmQFKmN0bDAwJHJwdFJvb3QkY3RsMDYkcnB0Tm9kZSRjdGwwMSRtdHZOb2RlMg8PZGZkBRtjdGwwMCRycHRGb290JGN0bDExJG10dk5vZGUPD2QCAWQFG2N0bDAwJHJwdEZvb3QkY3RsMDgkbXR2Tm9kZQ8PZAIBZAUqY3RsMDAkcnB0Um9vdCRjdGwwMiRycHROb2RlJGN0bDAwJG10dk5vZGUyDw9kZmQFKmN0bDAwJHJwdFJvb3QkY3RsMDkkcnB0Tm9kZSRjdGwwMSRtdHZOb2RlMg8PZAIBZAUbY3RsMDAkcnB0Um9vdCRjdGwwMyRtdHZOb2RlDw9kAgFkBSpjdGwwMCRycHRSb290JGN0bDA3JHJwdE5vZGUkY3RsMDEkbXR2Tm9kZTIPD2QCAWQFKmN0bDAwJHJwdFJvb3QkY3RsMDgkcnB0Tm9kZSRjdGwwMSRtdHZOb2RlMg8PZGZkBSpjdGwwMCRycHRSb290JGN0bDAxJHJwdE5vZGUkY3RsMDAkbXR2Tm9kZTIPD2RmZAUqY3RsMDAkcnB0Um9vdCRjdGwwMCRycHROb2RlJGN0bDAwJG10dk5vZGUyDw9kZmQFKmN0bDAwJHJwdFJvb3QkY3RsMTAkcnB0Tm9kZSRjdGwwOCRtdHZOb2RlMg8PZGZkBSpjdGwwMCRycHRSb290JGN0bDAwJHJwdE5vZGUkY3RsMDIkbXR2Tm9kZTIPD2RmZAUbY3RsMDAkcnB0Rm9vdCRjdGwwNiRtdHZOb2RlDw9kAgFkBSpjdGwwMCRycHRSb290JGN0bDAzJHJwdE5vZGUkY3RsMDIkbXR2Tm9kZTIPD2RmZAUqY3RsMDAkcnB0Um9vdCRjdGwwNiRycHROb2RlJGN0bDA3JG10dk5vZGUyDw9kZmQFG2N0bDAwJHJwdFJvb3QkY3RsMTIkbXR2Tm9kZQ8PZAIBZAUqY3RsMDAkcnB0Um9vdCRjdGwwNiRycHROb2RlJGN0bDAyJG10dk5vZGUyDw9kZmQFKmN0bDAwJHJwdFJvb3QkY3RsMDQkcnB0Tm9kZSRjdGwwMiRtdHZOb2RlMg8PZGZkBSpjdGwwMCRycHRSb290JGN0bDEwJHJwdE5vZGUkY3RsMTEkbXR2Tm9kZTIPD2RmZAUqY3RsMDAkcnB0Um9vdCRjdGwwNiRycHROb2RlJGN0bDAzJG10dk5vZGUyDw9kZmQFKmN0bDAwJHJwdFJvb3QkY3RsMDQkcnB0Tm9kZSRjdGwwMyRtdHZOb2RlMg8PZGZkBSpjdGwwMCRycHRSb290JGN0bDEwJHJwdE5vZGUkY3RsMTIkbXR2Tm9kZTIPD2RmZAUbY3RsMDAkcnB0Um9vdCRjdGwwNyRtdHZOb2RlDw9kAgFkBSpjdGwwMCRycHRSb290JGN0bDA3JHJwdE5vZGUkY3RsMDIkbXR2Tm9kZTIPD2RmZAUqY3RsMDAkcnB0Um9vdCRjdGwwOCRycHROb2RlJGN0bDAyJG10dk5vZGUyDw9kZmQFG2N0bDAwJHJwdEZvb3QkY3RsMDkkbXR2Tm9kZQ8PZAIBZAUqY3RsMDAkcnB0Um9vdCRjdGwwNyRycHROb2RlJGN0bDAzJG10dk5vZGUyDw9kZmQFKmN0bDAwJHJwdFJvb3QkY3RsMTAkcnB0Tm9kZSRjdGwwMSRtdHZOb2RlMg8PZGZkBRtjdGwwMCRycHRSb290JGN0bDExJG10dk5vZGUPD2QCAWQFG2N0bDAwJHJwdFJvb3QkY3RsMDAkbXR2Tm9kZQ8PZAIBZAUqY3RsMDAkcnB0Um9vdCRjdGwwNyRycHROb2RlJGN0bDA5JG10dk5vZGUyDw9kZmQFG2N0bDAwJHJwdFJvb3QkY3RsMTAkbXR2Tm9kZQ8PZAIBZAUqY3RsMDAkcnB0Um9vdCRjdGwwMiRycHROb2RlJGN0bDAxJG10dk5vZGUyDw9kZmQFG2N0bDAwJHJwdFJvb3QkY3RsMDQkbXR2Tm9kZQ8PZAIBZAUbY3RsMDAkcnB0Rm9vdCRjdGwwMiRtdHZOb2RlDw9kAgFkBSpjdGwwMCRycHRSb290JGN0bDEwJHJwdE5vZGUkY3RsMDAkbXR2Tm9kZTIPD2RmZAUqY3RsMDAkcnB0Um9vdCRjdGwwMyRycHROb2RlJGN0bDAwJG10dk5vZGUyDw9kZmQFKmN0bDAwJHJwdFJvb3QkY3RsMDEkcnB0Tm9kZSRjdGwwMiRtdHZOb2RlMg8PZGZkBSpjdGwwMCRycHRSb290JGN0bDExJHJwdE5vZGUkY3RsMDQkbXR2Tm9kZTIPD2RmZAUqY3RsMDAkcnB0Um9vdCRjdGwxMCRycHROb2RlJGN0bDAyJG10dk5vZGUyDw9kZmQFKmN0bDAwJHJwdFJvb3QkY3RsMTEkcnB0Tm9kZSRjdGwwMSRtdHZOb2RlMg8PZGZkBSpjdGwwMCRycHRSb290JGN0bDEwJHJwdE5vZGUkY3RsMTQkbXR2Tm9kZTIPD2RmZAUqY3RsMDAkcnB0Um9vdCRjdGwwMCRycHROb2RlJGN0bDAxJG10dk5vZGUyDw9kZmQFKmN0bDAwJHJwdFJvb3QkY3RsMDQkcnB0Tm9kZSRjdGwwNSRtdHZOb2RlMg8PZGZkBRtjdGwwMCRycHRSb290JGN0bDA1JG10dk5vZGUPD2QCAWQFKmN0bDAwJHJwdFJvb3QkY3RsMTEkcnB0Tm9kZSRjdGwwNiRtdHZOb2RlMg8PZGZkBSpjdGwwMCRycHRSb290JGN0bDAyJHJwdE5vZGUkY3RsMDIkbXR2Tm9kZTIPD2RmZAUqY3RsMDAkcnB0Um9vdCRjdGwxMSRycHROb2RlJGN0bDAzJG10dk5vZGUyDw9kZmQFKmN0bDAwJHJwdFJvb3QkY3RsMTAkcnB0Tm9kZSRjdGwxNiRtdHZOb2RlMg8PZGZkBSpjdGwwMCRycHRSb290JGN0bDA3JHJwdE5vZGUkY3RsMDUkbXR2Tm9kZTIPD2RmZAUbY3RsMDAkcnB0Um9vdCRjdGwwNiRtdHZOb2RlDw9kAgFkBSpjdGwwMCRycHRSb290JGN0bDA2JHJwdE5vZGUkY3RsMDAkbXR2Tm9kZTIPD2RmZAUbY3RsMDAkcnB0Rm9vdCRjdGwwMSRtdHZOb2RlDw9kAgFkBSpjdGwwMCRycHRSb290JGN0bDExJHJwdE5vZGUkY3RsMDAkbXR2Tm9kZTIPD2RmZAUqY3RsMDAkcnB0Um9vdCRjdGwxMiRycHROb2RlJGN0bDAwJG10dk5vZGUyDw9kZmQFKmN0bDAwJHJwdFJvb3QkY3RsMDEkcnB0Tm9kZSRjdGwwMSRtdHZOb2RlMg8PZGZkBSpjdGwwMCRycHRSb290JGN0bDA0JHJwdE5vZGUkY3RsMDckbXR2Tm9kZTIPD2RmZAUbY3RsMDAkcnB0Rm9vdCRjdGwwMCRtdHZOb2RlDw9kAgFkBSpjdGwwMCRycHRSb290JGN0bDEwJHJwdE5vZGUkY3RsMDQkbXR2Tm9kZTIPD2RmZAUbY3RsMDAkcnB0Um9vdCRjdGwwMSRtdHZOb2RlDw9kAgFkBSpjdGwwMCRycHRSb290JGN0bDAwJHJwdE5vZGUkY3RsMDMkbXR2Tm9kZTIPD2RmZAUqY3RsMDAkcnB0Um9vdCRjdGwxMiRycHROb2RlJGN0bDAyJG10dk5vZGUyDw9kZmQFG2N0bDAwJHJwdEZvb3QkY3RsMDckbXR2Tm9kZQ8PZAIBZAUqY3RsMDAkcnB0Um9vdCRjdGwwNiRycHROb2RlJGN0bDA0JG10dk5vZGUyDw9kZmQFKmN0bDAwJHJwdFJvb3QkY3RsMTAkcnB0Tm9kZSRjdGwwNiRtdHZOb2RlMg8PZGZkBQ1jdGwwMCRtdlJpZ2h0Dw9kAgFkBSpjdGwwMCRycHRSb290JGN0bDAyJHJwdE5vZGUkY3RsMDYkbXR2Tm9kZTIPD2RmZAUqY3RsMDAkcnB0Um9vdCRjdGwxMCRycHROb2RlJGN0bDAzJG10dk5vZGUyDw9kZmQFKmN0bDAwJHJwdFJvb3QkY3RsMDUkcnB0Tm9kZSRjdGwwMCRtdHZOb2RlMg8PZGZkBSpjdGwwMCRycHRSb290JGN0bDEwJHJwdE5vZGUkY3RsMTUkbXR2Tm9kZTIPD2RmZAUqY3RsMDAkcnB0Um9vdCRjdGwwOCRycHROb2RlJGN0bDA0JG10dk5vZGUyDw9kZmQFKmN0bDAwJHJwdFJvb3QkY3RsMDYkcnB0Tm9kZSRjdGwwNiRtdHZOb2RlMg8PZGZkBSpjdGwwMCRycHRSb290JGN0bDA0JHJwdE5vZGUkY3RsMDYkbXR2Tm9kZTIPD2RmZAUqY3RsMDAkcnB0Um9vdCRjdGwwNyRycHROb2RlJGN0bDA0JG10dk5vZGUyDw9kZmQFKmN0bDAwJHJwdFJvb3QkY3RsMDckcnB0Tm9kZSRjdGwwNyRtdHZOb2RlMg8PZGZkBRtjdGwwMCRycHRGb290JGN0bDAzJG10dk5vZGUPD2QCAWQFKmN0bDAwJHJwdFJvb3QkY3RsMDQkcnB0Tm9kZSRjdGwwOCRtdHZOb2RlMg8PZGZkBRtjdGwwMCRycHRGb290JGN0bDA0JG10dk5vZGUPD2QCAWQFKmN0bDAwJHJwdFJvb3QkY3RsMDgkcnB0Tm9kZSRjdGwwMyRtdHZOb2RlMg8PZGZkBSRjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJE11bHRpVmlldzEPD2RmZPmv/EXrUfLwFsYNFjRlNC6z+Kkh" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C491DDC1" />
+                        <!-- print beg -->
+                        <div class="content">
+                            <div>
+                                <h3>
+                                    法定預算</h3>
+                            </div>
+                            <div style="float: left; width: 100%;">
+                                
+
+                                
+  
+    <table width="100%" class="list" summary="新聞稿清單">
+    <tr>
+      <th width="5%" align="center">項次</th>
+      <th width="80%" align="center">標題</th>
+      <th width="15%" align="center">修改日期</th>
+    </tr>
+    
+      <tr>
+        <td align="center">1</td>
+        <td><a id="ctl00_ContentPlaceHolder1_rptList_ctl00_hlFdTitle" title="漁業署及所屬中華民國106年預算案(WORD)(開新視窗)" href="../includes/GetFile.ashx?mid=147&amp;id=43&amp;chk=a0480351-c78a-4757-b44b-673941d397d5&amp;name=pfile" target="_new">漁業署及所屬中華民國106年預算案(WORD)</a></td>
+        <td align="center">2016-08-31</td>
+      </tr>
+    
+      <tr>
+        <td align="center">2</td>
+        <td><a id="ctl00_ContentPlaceHolder1_rptList_ctl01_hlFdTitle" title="漁業署及所屬中華民國106年預算案(PDF)(開新視窗)" href="../includes/GetFile.ashx?mid=147&amp;id=42&amp;chk=89461654-9a8b-4d5b-a702-40a31fbdd00e&amp;name=pfile" target="_new">漁業署及所屬中華民國106年預算案(PDF)</a></td>
+        <td align="center">2016-08-31</td>
+      </tr>
+    
+      <tr>
+        <td align="center">3</td>
+        <td><a id="ctl00_ContentPlaceHolder1_rptList_ctl02_hlFdTitle" title="漁業署及所屬中華民國106年預算案(EXCEL)(開新視窗)" href="../includes/GetFile.ashx?mid=147&amp;id=41&amp;chk=0c6dd901-dea5-4a76-b293-42ba240f2f1e&amp;name=pfile" target="_new">漁業署及所屬中華民國106年預算案(EXCEL)</a></td>
+        <td align="center">2016-08-31</td>
+      </tr>
+    
+      <tr>
+        <td align="center">4</td>
+        <td><a id="ctl00_ContentPlaceHolder1_rptList_ctl03_hlFdTitle" title="漁業署及所屬中華民國106年預算案(XML)(開新視窗)" href="../includes/GetFile.ashx?mid=147&amp;id=40&amp;chk=4e6d5a6e-c203-4621-a2b7-d2ba0bbb129b&amp;name=pfile" target="_new">漁業署及所屬中華民國106年預算案(XML)</a></td>
+        <td align="center">2016-08-31</td>
+      </tr>
+    
+      <tr>
+        <td align="center">5</td>
+        <td><a id="ctl00_ContentPlaceHolder1_rptList_ctl04_hlFdTitle" title="漁業署及所屬中華民國106年預算案(ODS)(開新視窗)" href="../includes/GetFile.ashx?mid=147&amp;id=39&amp;chk=a846f450-a1df-4801-b629-b0bbf6e7f128&amp;name=pfile" target="_new">漁業署及所屬中華民國106年預算案(ODS)</a></td>
+        <td align="center">2016-08-31</td>
+      </tr>
+    
+      <tr>
+        <td align="center">6</td>
+        <td><a id="ctl00_ContentPlaceHolder1_rptList_ctl05_hlFdTitle" title="漁業署及所屬中華民國105年法定預算(WORD)(開新視窗)" href="../includes/GetFile.ashx?mid=147&amp;id=38&amp;chk=74c0d078-b89b-4adb-af8c-c7cacbb0f00d&amp;name=pfile" target="_new">漁業署及所屬中華民國105年法定預算(WORD)</a></td>
+        <td align="center">2016-01-14</td>
+      </tr>
+    
+      <tr>
+        <td align="center">7</td>
+        <td><a id="ctl00_ContentPlaceHolder1_rptList_ctl06_hlFdTitle" title="漁業署及所屬中華民國105年法定預算(ODS)(開新視窗)" href="../includes/GetFile.ashx?mid=147&amp;id=37&amp;chk=35f9d9b8-cb7e-46d8-828b-c1bc294c8ac1&amp;name=pfile" target="_new">漁業署及所屬中華民國105年法定預算(ODS)</a></td>
+        <td align="center">2016-01-14</td>
+      </tr>
+    
+      <tr>
+        <td align="center">8</td>
+        <td><a id="ctl00_ContentPlaceHolder1_rptList_ctl07_hlFdTitle" title="漁業署及所屬中華民國105年法定預算(XML)(開新視窗)" href="../includes/GetFile.ashx?mid=147&amp;id=36&amp;chk=839c8a39-66cd-46e9-9c7c-c66ee7b9223d&amp;name=pfile" target="_new">漁業署及所屬中華民國105年法定預算(XML)</a></td>
+        <td align="center">2016-01-14</td>
+      </tr>
+    
+      <tr>
+        <td align="center">9</td>
+        <td><a id="ctl00_ContentPlaceHolder1_rptList_ctl08_hlFdTitle" title="漁業署及所屬中華民國105年法定預算(EXCEL)(開新視窗)" href="../includes/GetFile.ashx?mid=147&amp;id=35&amp;chk=f9427334-3cda-4885-b27d-97da5befdec4&amp;name=pfile" target="_new">漁業署及所屬中華民國105年法定預算(EXCEL)</a></td>
+        <td align="center">2016-01-14</td>
+      </tr>
+    
+      <tr>
+        <td align="center">10</td>
+        <td><a id="ctl00_ContentPlaceHolder1_rptList_ctl09_hlFdTitle" title="漁業署及所屬中華民國105年法定預算(PDF)(開新視窗)" href="../includes/GetFile.ashx?mid=147&amp;id=34&amp;chk=82375f95-8a08-466d-8340-59f87e5d3531&amp;name=pfile" target="_new">漁業署及所屬中華民國105年法定預算(PDF)</a></td>
+        <td align="center">2016-01-14</td>
+      </tr>
+    
+    </table>
+    <div class="PageNavBar"><a href="?pn=1" title="1" class="current">1</a> <a href="?pn=2" title="2">2</a> <a href="?pn=3" title="3">3</a> <a href="?pn=4" title="4">4</a> <a href="?pn=2" title=">>" class="page_nn">>></a> <span> / 36 </span></div>
+  
+
+                            </div>
+                        </div>
+                        <!-- print end -->
+                    </form>
+                </div>
+
+                <!--<div class="inner_rblock">
+			<aside id="RIGHTSIDE">
+				<a id="sidebarRight" title="右選單導覽區 (Alt+R)" accesskey="R" href="#sidebarRight" class="accesskey">:::</a>
+				-- 新增 --
+				<div class="innre_rb01">
+					<div class="inner_timg"><img src="../images/130929_img/leftbox_t01.png" alt="adornment"></div>
+					<ul class="left_b01_con">
+					
+							<li>
+								<a id="ctl00_rptTopBanner_ctl00_hlTopBanner" title="日本食品管理專區(另開視窗)" class="i1" href="http://www.fda.gov.tw/TC/site.aspx?sid=4341" target="_blank">日本食品管理專區</a>
+							</li>
+						
+							<li>
+								<a id="ctl00_rptTopBanner_ctl01_hlTopBanner" title="海巡署(另開視窗)" class="i2" href="http://www.cga.gov.tw/GipOpen/wSite/mp?mp=999" target="_blank">海巡署</a>
+							</li>
+						
+							<li>
+								<a id="ctl00_rptTopBanner_ctl02_hlTopBanner" title="外交部(另開視窗)" class="i3" href="http://www.mofa.gov.tw/" target="_blank">外交部</a>
+							</li>
+						
+							<li>
+								<a id="ctl00_rptTopBanner_ctl03_hlTopBanner" title="海域資訊 (另開視窗)" class="i4" href="/cht/PolicySovereignty/index.aspx" target="_blank">海域資訊 </a>
+							</li>
+						   
+					</ul>    
+				</div>
+				<div class="innre_rb02">
+					<div class="inner_timg"><img src="../images/130929_img/leftbox_t02.png" alt="adornment" /></div>
+					
+							<ul>
+								
+										<li><a id="ctl00_rptRight_ctl00_hlTitle" title="漁業訓練開班資訊(開新視窗)" href="http://dsfrdc.fa.gov.tw/2tranining/class.aspx?&amp;Node=1028&amp;Index=5" target="_blank"><img id="ctl00_rptRight_ctl00_imgPic" src="http://www.fa.gov.tw/upload/292/s1_2012041616234846379.jpg" alt="漁業訓練開班資訊(開新視窗)" border="0" /></a></li>
+									
+										<li><a id="ctl00_rptRight_ctl01_hlTitle" title="魚價行情(開新視窗)" href="http://efish.fa.gov.tw/" target="_blank"><img id="ctl00_rptRight_ctl01_imgPic" src="http://www.fa.gov.tw/upload/292/s1_2013011911375499035.jpg" alt="魚價行情(開新視窗)" border="0" /></a></li>
+									
+										<li><a id="ctl00_rptRight_ctl02_hlTitle" title="遊艇碼頭水文" href="/cht/RightBannerMarinas/index.aspx"><img id="ctl00_rptRight_ctl02_imgPic" src="http://www.fa.gov.tw/upload/292/s1_2013011911350550655.jpg" alt="遊艇碼頭水文" border="0" /></a></li>
+									
+							</ul>
+						
+					--<a class="more" href="/cht/rightbanner/index.aspx"><img border="0" alt="更多連結" src="/cht/images/morelink.png" /></a>--
+				</div>
+				<div class="innre_rb03">
+					<div class="inner_timg"><img src="../images/131015_img/leftbox_t03.png" alt="adornment" /></div>
+					<ul class="subject_links">
+						<li><a href="../recreation/index.aspx" title="休閒樂活主題網" class="sub1">休閒樂活主題網</a></li>
+						<li><a href="../media/index.aspx" title="漁業虛擬影音館" class="sub2">漁業虛擬影音館</a></li>
+						<li><a href="../fisheasy/index.aspx" title="縱橫魚蝦貝類網" class="sub3">縱橫魚蝦貝類網</a></li>
+					</ul>
+				</div>
+			</aside>
+			</div>-->
+            </div>
+            <a name="fatfooter"></a>
+            <div id="DownMenu">
+                <ul id="index_FatFootMenu">
+                    
+                            <li id="ctl00_rptFoot_ctl00_MenuLi" class="odd">
+                                
+                                <a id="ctl00_rptFoot_ctl00_hlRoot" title="關於漁業署" CLASS="Fmenu_Title" href="/cht/AbFa/index.aspx">關於漁業署</a>
+                                
+                                        
+                                        <ul>
+                                            
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl00_rptNode_ctl00_hlNode" title="機關沿革" href="/cht/AbFaHistory/index.aspx">機關沿革</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl00_rptNode_ctl01_hlNode" title="署徽故事" href="/cht/AbFaLogo/index.aspx">署徽故事</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl00_rptNode_ctl02_hlNode" title="署長簡介" href="/cht/AbFaAboutDirector/index.aspx">署長簡介</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl00_rptNode_ctl03_hlNode" title="歷任首長" href="/cht/AbFaAboutDirector_history/index.aspx">歷任首長</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl00_rptNode_ctl04_hlNode" title="業務職掌" href="/cht/AbFaBusiness/index.aspx">業務職掌</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl00_rptNode_ctl05_hlNode" title="聯絡資訊" href="/cht/AbFaContactInfo/index.aspx">聯絡資訊</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl00_rptNode_ctl06_hlNode" title="交通資訊" href="/cht/AbFaLocationInfo/index.aspx">交通資訊</a>
+                                                    </li>
+                                                
+                                        </ul>
+                                        <div style="clear: left; *height: 0"></div>
+                                    
+                            </li>
+                        
+                            <li id="ctl00_rptFoot_ctl01_MenuLi" class="even">
+                                
+                                <a id="ctl00_rptFoot_ctl01_hlRoot" title="漁業政策" CLASS="Fmenu_Title" href="/cht/Policy/index.aspx">漁業政策</a>
+                                
+                                        
+                                        <ul>
+                                            
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl01_rptNode_ctl00_hlNode" title="重大政策" href="/cht/PolicyImportant/index.aspx">重大政策</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl01_rptNode_ctl01_hlNode" title="重要措施及成果" href="/cht/ImportantMeasure/index.aspx">重要措施及成果</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl01_rptNode_ctl02_hlNode" title="大事紀" href="/cht/PolicyMeasure/index.aspx">大事紀</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl01_rptNode_ctl03_hlNode" title="打擊IUU漁業" href="/cht/PolicyIUU/index.aspx">打擊IUU漁業</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl01_rptNode_ctl04_hlNode" title="海域主權" href="/cht/PolicySovereignty/index.aspx">海域主權</a>
+                                                    </li>
+                                                
+                                        </ul>
+                                        <div style="clear: left; *height: 0"></div>
+                                    
+                            </li>
+                        
+                            <li id="ctl00_rptFoot_ctl02_MenuLi" class="odd">
+                                
+                                <a id="ctl00_rptFoot_ctl02_hlRoot" title="訊息公告" CLASS="Fmenu_Title" href="/cht/AnnounceL/index.aspx">訊息公告</a>
+                                
+                                        
+                                        <ul>
+                                            
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl02_rptNode_ctl00_hlNode" title="公告資訊" href="/cht/Announce/index.aspx">公告資訊</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl02_rptNode_ctl01_hlNode" title="招標資訊" href="/cht/AnnounceTender/index.aspx">招標資訊</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl02_rptNode_ctl02_hlNode" title="就業資訊" href="/cht/AnnounceJobInfo/index.aspx">就業資訊</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl02_rptNode_ctl03_hlNode" title="航安資訊" href="/cht/AnnounceShooting/index.aspx">航安資訊</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl02_rptNode_ctl04_hlNode" title="檢驗專區" href="/cht/AnnounceFishInspects/content.aspx?id=1&amp;chk=bb93fbe3-d3e5-4687-ba90-4f0eeda8a5dc&amp;param=pn%3d1">檢驗專區</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl02_rptNode_ctl05_hlNode" title="輸歐盟供貨漁船及養殖場登錄名單" href="/cht/ServiceEuro/index.aspx">輸歐盟供貨漁船及養殖場登錄名單</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl02_rptNode_ctl06_hlNode" title="人事異動" href="/cht/AnnouncePersonnel/index.aspx">人事異動</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl02_rptNode_ctl07_hlNode" title="封溪護魚" href="/cht/AnnounceFish/index.aspx">封溪護魚</a>
+                                                    </li>
+                                                
+                                        </ul>
+                                        <div style="clear: left; *height: 0"></div>
+                                    
+                            </li>
+                        
+                            <li id="ctl00_rptFoot_ctl03_MenuLi" class="even">
+                                
+                                <a id="ctl00_rptFoot_ctl03_hlRoot" title="漁業新聞" CLASS="Fmenu_Title" href="/cht/News/index.aspx">漁業新聞</a>
+                                
+                                        
+                                        <ul>
+                                            
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl03_rptNode_ctl00_hlNode" title="新聞稿" href="/cht/NewsPaper/index.aspx">新聞稿</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl03_rptNode_ctl01_hlNode" title="漁業輿情" href="/cht/NewsOpinion/index.aspx">漁業輿情</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl03_rptNode_ctl02_hlNode" title="活動剪影" href="/cht/EventsPhoto/index.aspx">活動剪影</a>
+                                                    </li>
+                                                
+                                        </ul>
+                                        <div style="clear: left; *height: 0"></div>
+                                    
+                            </li>
+                        
+                            <li id="ctl00_rptFoot_ctl04_MenuLi" class="odd">
+                                
+                                <a id="ctl00_rptFoot_ctl04_hlRoot" title="漁業法令" CLASS="Fmenu_Title" href="/cht/Laws/index.aspx">漁業法令</a>
+                                
+                                        
+                                        <ul>
+                                            
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl04_rptNode_ctl00_hlNode" title="最新法規" href="/cht/LawsNew/index.aspx">最新法規</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl04_rptNode_ctl01_hlNode" title="法規檢索" href="/cht/LawsSearch/index.aspx">法規檢索</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl04_rptNode_ctl02_hlNode" title="中央法規" href="/cht/LawsCentralFisheries/index.aspx">中央法規</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl04_rptNode_ctl03_hlNode" title="行政規則" href="/cht/LawsRuleFisheries/index.aspx">行政規則</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl04_rptNode_ctl04_hlNode" title="行政函釋" href="/cht/LawsReleaseFisheries/index.aspx">行政函釋</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl04_rptNode_ctl05_hlNode" title="法令公告" href="/cht/LawsAnnounceFisheries/index.aspx">法令公告</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl04_rptNode_ctl06_hlNode" title="法規命令草案預告" href="/cht/LawDraft/index.aspx">法規命令草案預告</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl04_rptNode_ctl07_hlNode" title="大陸船員管理法規" href="/cht/LawCn/index.aspx">大陸船員管理法規</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl04_rptNode_ctl08_hlNode" title="直轄市及縣市政府公告法令" href="/cht/LawsGov/index.aspx">直轄市及縣市政府公告法令</a>
+                                                    </li>
+                                                
+                                        </ul>
+                                        <div style="clear: left; *height: 0"></div>
+                                    
+                            </li>
+                        
+                            <li id="ctl00_rptFoot_ctl05_MenuLi" class="even">
+                                
+                                <a id="ctl00_rptFoot_ctl05_hlRoot" title="雙向交流" CLASS="Fmenu_Title" href="/cht/Forums/index.aspx">雙向交流</a>
+                                
+                                        
+                                        <ul>
+                                            
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl05_rptNode_ctl00_hlNode" title="署長信箱" href="/cht/ForumsDirectorMail/index.aspx">署長信箱</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl05_rptNode_ctl01_hlNode" title="意見交流" href="/cht/ForumsGuest/index.aspx">意見交流</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl05_rptNode_ctl02_hlNode" title="常見問答集" href="/cht/ForumsFaq/index.aspx">常見問答集</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl05_rptNode_ctl03_hlNode" title="漁產品食安專區" href="/cht/SeafoodSafeC/index.aspx">漁產品食安專區</a>
+                                                    </li>
+                                                
+                                        </ul>
+                                        <div style="clear: left; *height: 0"></div>
+                                    
+                            </li>
+                        
+                            <li id="ctl00_rptFoot_ctl06_MenuLi" class="odd">
+                                
+                                <a id="ctl00_rptFoot_ctl06_hlRoot" title="便民服務" CLASS="Fmenu_Title" href="/cht/Service/index.aspx">便民服務</a>
+                                
+                                        
+                                        <ul>
+                                            
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl06_rptNode_ctl00_hlNode" title="線上表單" href="/cht/ServiceApply/index.aspx">線上表單</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl06_rptNode_ctl01_hlNode" title="各項業務申請" href="/cht/ServiceApplyFishery/index.aspx">各項業務申請</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl06_rptNode_ctl02_hlNode" title="政風資訊" href="/cht/ServiceEthics/index.aspx">政風資訊</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl06_rptNode_ctl03_hlNode" title="下載服務" href="/cht/ServiceDownFileApply/index.aspx">下載服務</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl06_rptNode_ctl04_hlNode" title="WTO與FAO漁業資訊" href="/cht/ServiceWto/index.aspx">WTO與FAO漁業資訊</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl06_rptNode_ctl05_hlNode" title="產銷班資訊" href="/cht/PolicyMarketing/index.aspx">產銷班資訊</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl06_rptNode_ctl06_hlNode" title="漁業執照掛失" href="/cht/License/index.aspx">漁業執照掛失</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl06_rptNode_ctl07_hlNode" title="租用漁船線上作業系統(開新視窗)" href="http://faejb.fa.gov.tw:8080/BoatManage/pages/index.jsp" target="_Blank">租用漁船線上作業系統</a>
+                                                    </li>
+                                                
+                                        </ul>
+                                        <div style="clear: left; *height: 0"></div>
+                                    
+                            </li>
+                        
+                            <li id="ctl00_rptFoot_ctl07_MenuLi" class="even">
+                                
+                                <a id="ctl00_rptFoot_ctl07_hlRoot" title="漁業資源" CLASS="Fmenu_Title" href="/cht/Resource/index.aspx">漁業資源</a>
+                                
+                                        
+                                        <ul>
+                                            
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl07_rptNode_ctl00_hlNode" title="沿近海漁業" href="/cht/ResourceCoastal/index.aspx">沿近海漁業</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl07_rptNode_ctl01_hlNode" title="專用漁業權" href="/cht/ResourceFishRight/index.aspx">專用漁業權</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl07_rptNode_ctl02_hlNode" title="資源保育區" href="/cht/ResourceConservation/index.aspx">資源保育區</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl07_rptNode_ctl03_hlNode" title="人工魚礁、保護礁區資訊" href="/cht/ResourceOtherZones/index.aspx">人工魚礁、保護礁區資訊</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl07_rptNode_ctl04_hlNode" title="世界海洋日" href="/cht/ResourceWorldOceansDay/index.aspx">世界海洋日</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl07_rptNode_ctl05_hlNode" title="三大洋禁捕鯊魚及魟類物種" href="/cht/BanShark/content.aspx?id=1&amp;chk=fa304e06-4aa1-440b-a2c8-f59c10f234e6&amp;param=pn%3d1">三大洋禁捕鯊魚及魟類物種</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl07_rptNode_ctl06_hlNode" title="養護及執法成果" href="/cht/ResourceAchievement/index.aspx">養護及執法成果</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl07_rptNode_ctl07_hlNode" title="鯊魚鰭不離身專區" href="http://www.fa.gov.tw/cht/AnnounceShark/content.aspx?id=1&amp;chk=8e606978-56f8-4ef2-a8ee-aacbc4d549a7&amp;pa">鯊魚鰭不離身專區</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl07_rptNode_ctl08_hlNode" title="臺灣的海洋保護區" href="/cht/TaiwanOceansProtectionAreas/content.aspx?id=1&amp;chk=2001739d-d4cd-4ded-bf92-d570912baf08">臺灣的海洋保護區</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl07_rptNode_ctl09_hlNode" title="流域綜合治理計畫" href="/cht/IWMP_Plan/index.aspx">流域綜合治理計畫</a>
+                                                    </li>
+                                                
+                                        </ul>
+                                        <div style="clear: left; *height: 0"></div>
+                                    
+                            </li>
+                        
+                            <li id="ctl00_rptFoot_ctl08_MenuLi" class="odd">
+                                
+                                <a id="ctl00_rptFoot_ctl08_hlRoot" title="資訊與服務" CLASS="Fmenu_Title" href="/cht/InformationServices/index.aspx">資訊與服務</a>
+                                
+                                        
+                                        <ul>
+                                            
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl08_rptNode_ctl00_hlNode" title="農委會核准我國漁船赴三大洋作業漁船名單" href="/cht/BoatListInIFMO/index.aspx">農委會核准我國漁船赴三大洋作業漁船名單</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl08_rptNode_ctl01_hlNode" title="海盜資訊" href="/cht/AnnouncePirate/index.aspx">海盜資訊</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl08_rptNode_ctl02_hlNode" title="寒害潛勢分析" href="/cht/AnnounceDisaster/index.aspx">寒害潛勢分析</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl08_rptNode_ctl03_hlNode" title="有機水產" href="/cht/AnnounceProduct/index.aspx">有機水產</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl08_rptNode_ctl04_hlNode" title="漁會選舉" href="/cht/AnnounceElection/index.aspx">漁會選舉</a>
+                                                    </li>
+                                                
+                                        </ul>
+                                        <div style="clear: left; *height: 0"></div>
+                                    
+                            </li>
+                        
+                            <li id="ctl00_rptFoot_ctl09_MenuLi" class="even">
+                                
+                                <a id="ctl00_rptFoot_ctl09_hlRoot" title="統計與出版品" CLASS="Fmenu_Title" href="/cht/Publications/index.aspx">統計與出版品</a>
+                                
+                                        
+                                        <ul>
+                                            
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl09_rptNode_ctl00_hlNode" title="漁業統計" href="/cht/Publications/index_L3_1_1.aspx">漁業統計</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl09_rptNode_ctl01_hlNode" title="出版品" href="/cht/Publications/index_L3_2_1.aspx">出版品</a>
+                                                    </li>
+                                                
+                                        </ul>
+                                        <div style="clear: left; *height: 0"></div>
+                                    
+                            </li>
+                        
+                            <li id="ctl00_rptFoot_ctl10_MenuLi" class="odd">
+                                
+                                <a id="ctl00_rptFoot_ctl10_hlRoot" title="政府資訊公開" CLASS="Fmenu_Title" href="/cht/Gov/index.aspx">政府資訊公開</a>
+                                
+                                        
+                                        <ul>
+                                            
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl10_rptNode_ctl00_hlNode" title="資訊圖像化" href="/cht/Infographics/index.aspx">資訊圖像化</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl10_rptNode_ctl01_hlNode" title="條約、中央法規" href="/cht/LawsCentralFisheries/index.aspx">條約、中央法規</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl10_rptNode_ctl02_hlNode" title="函釋與裁量基準" href="/cht/LawsReleaseFisheries/index.aspx">函釋與裁量基準</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl10_rptNode_ctl03_hlNode" title="組織職掌" href="/cht/AbFaBusiness/">組織職掌</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl10_rptNode_ctl04_hlNode" title="行政指導文書" href="/cht/ServiceApplyFishery/index.aspx">行政指導文書</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl10_rptNode_ctl05_hlNode" title="施政計畫" href="/cht/PolicyImportant/">施政計畫</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl10_rptNode_ctl06_hlNode" title="業務統計" href="/cht/PublicationsFishYear/index.aspx">業務統計</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl10_rptNode_ctl07_hlNode" title="研究報告" href="/cht/GovReport/index.aspx">研究報告</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl10_rptNode_ctl08_hlNode" title="法定預算" href="/cht/GovBudget/index.aspx">法定預算</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl10_rptNode_ctl09_hlNode" title="決算" href="/cht/GovAccount/index.aspx">決算</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl10_rptNode_ctl10_hlNode" title="支付或接受之補助" href="/cht/GovAllowance/index.aspx">支付或接受之補助</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl10_rptNode_ctl11_hlNode" title="保有及管理個人資料之項目" href="/cht/Profile/index.aspx">保有及管理個人資料之項目</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl10_rptNode_ctl12_hlNode" title="政策宣導執行" href="/cht/PolicyAdvocacy/index.aspx">政策宣導執行</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl10_rptNode_ctl13_hlNode" title="漁業署申請補(捐)費用之相關辦法" href="/cht/ApplyDonate/index.aspx">漁業署申請補(捐)費用之相關辦法</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl10_rptNode_ctl14_hlNode" title="會計報告" href="/cht/OfficialBudget/index.aspx">會計報告</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl10_rptNode_ctl15_hlNode" title="性別平等專區" href="/cht/GenderEquality/index.aspx">性別平等專區</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl10_rptNode_ctl16_hlNode" title="資料開放專區" href="/cht/OpenData/index.aspx">資料開放專區</a>
+                                                    </li>
+                                                
+                                        </ul>
+                                        <div style="clear: left; *height: 0"></div>
+                                    
+                            </li>
+                        
+                            <li id="ctl00_rptFoot_ctl11_MenuLi" class="even">
+                                
+                                <a id="ctl00_rptFoot_ctl11_hlRoot" title="相關連結" CLASS="Fmenu_Title" href="/cht/Links/index.aspx">相關連結</a>
+                                
+                                        
+                                        <ul>
+                                            
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl11_rptNode_ctl00_hlNode" title="農委會暨所屬機關" href="/cht/LinksAgencies/index.aspx">農委會暨所屬機關</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl11_rptNode_ctl01_hlNode" title="國外網站" href="/cht/LinksPage/index.aspx?Name=國外網站">國外網站</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl11_rptNode_ctl02_hlNode" title="政府單位" href="/cht/LinksGov/index.aspx">政府單位</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl11_rptNode_ctl03_hlNode" title="學術單位" href="/cht/LinksAcademic/index.aspx">學術單位</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl11_rptNode_ctl04_hlNode" title="產業單位" href="/cht/LinksBusiness/index.aspx">產業單位</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl11_rptNode_ctl05_hlNode" title="國內漁業法人團體" href="/cht/LinksCorporation/index.aspx">國內漁業法人團體</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl11_rptNode_ctl06_hlNode" title="其他" href="/cht/LinksOthers/index.aspx">其他</a>
+                                                    </li>
+                                                
+                                        </ul>
+                                        <div style="clear: left; *height: 0"></div>
+                                    
+                            </li>
+                        
+                            <li id="ctl00_rptFoot_ctl12_MenuLi" class="odd">
+                                
+                                <a id="ctl00_rptFoot_ctl12_hlRoot" title="署內人員專區" CLASS="Fmenu_Title" href="/cht/FaMember/index.aspx">署內人員專區</a>
+                                
+                                        
+                                        <ul>
+                                            
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl12_rptNode_ctl00_hlNode" title="內網系統(開新視窗)" href="http://newintra.fa.gov.tw/#&amp;Node=901&amp;Index=15" target="_Blank">內網系統</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl12_rptNode_ctl01_hlNode" title="簡訊平台(開新視窗)" href="https://mmp.fa.gov.tw/Nisfa/Login.aspx" target="_Blank">簡訊平台</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl12_rptNode_ctl02_hlNode" title="計畫經費網路作業系統(開新視窗)" href="http://am.fa.gov.tw/#&amp;Node=987&amp;Index=15" target="_Blank">計畫經費網路作業系統</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl12_rptNode_ctl03_hlNode" title="養殖漁業管理系統(開新視窗)" href="http://fad.fa.gov.tw/fafish/" target="_Blank">養殖漁業管理系統</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl12_rptNode_ctl04_hlNode" title="計畫研提系統(開新視窗)" href="http://project.coa.gov.tw/coaWeb/" target="_Blank">計畫研提系統</a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl00_rptFoot_ctl12_rptNode_ctl05_hlNode" title="漁業天然災害查報、審核及救助數位e化(開新視窗)" href="http://disaster.fa.gov.tw/Login/LoginPage.action" target="_Blank">漁業天然災害查報、審核及救助數位e化</a>
+                                                    </li>
+                                                
+                                        </ul>
+                                        <div style="clear: left; *height: 0"></div>
+                                    
+                            </li>
+                        
+                      <li class="even">
+                        <a href="../LinksPage/index.aspx?Name=重要連結" class="Fmenu_Title">重要連結</a>
+                        <ul>
+                            
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu52_ctl00_hlLinks" href="http://www.cga.gov.tw/GipOpen/wSite/mp?mp=999">海巡署</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu52_ctl01_hlLinks" href="http://www.fda.gov.tw/TC/site.aspx?sid=4341">日本食品管理專區</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu52_ctl02_hlLinks" href="/cht/PolicySovereignty/index.aspx">海域資訊 </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu52_ctl03_hlLinks" href="http://www.mofa.gov.tw/">外交部</a>
+                                    </li>
+                                
+                        </ul>
+                    </li>
+                    <li class="odd">
+                        <a href="../LinksPage/index.aspx?Name=焦點資訊" class="Fmenu_Title">焦點資訊</a>
+                        <ul>
+                            
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu22_ctl00_hlLinks" href="http://dsfrdc.fa.gov.tw/type2/index.aspx">漁業訓練開班資訊</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu22_ctl01_hlLinks" href="http://efish.fa.gov.tw/efish/">魚價行情</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu22_ctl02_hlLinks" href="http://fadopen.fa.gov.tw/fadopen">養殖漁業放養量查詢平臺</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu22_ctl03_hlLinks" href="http://www.fa.gov.tw/upload/263/2016022309104742717.pdf">漁業調查統計手冊-魚類名代碼</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu22_ctl04_hlLinks" href="/cht/IWMP_Plan/index.aspx">流域綜合治理計畫</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu22_ctl05_hlLinks" href="http://www.fa.gov.tw/cht/Bulletin/content.aspx?id=86&amp;chk=205a4c2e-fc54-4d04-a9be-19d30f2052e8&amp;param=pn%3d1">漁港無障礙休憩旅遊行程建議</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu22_ctl06_hlLinks" href="http://cmdweb.pcc.gov.tw/pccms/pwreport/ducon2_geoeng.pasin">全民督工網路通報</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu22_ctl07_hlLinks" href="/cht/RightBannerMarinas/index.aspx">遊艇碼頭水文</a>
+                                    </li>
+                                
+                        </ul>
+                    </li>
+                    <li class="even">
+                        <a href="../LinksPage/index.aspx?Name=主題館" class="Fmenu_Title">主題館</a>
+                        <ul>
+                            
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu32_ctl00_hlLinks" href="/fisheasy/index.aspx">縱橫魚蝦貝類網</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu32_ctl01_hlLinks" href="/media/index.aspx">漁業虛擬影音館</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu32_ctl02_hlLinks" href="/recreation/index.aspx">休閒樂活主題網</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a id="ctl00_RepeaterLinkMenu32_ctl03_hlLinks" href="http://www.fa.gov.tw/Haiyanseafood/">水產精品</a>
+                                    </li>
+                                
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="index_footer">
+                <footer class="index_footer">
+                    <a id="foot" title="頁腳區 (Alt+B)" accesskey="B" href="#foot" class="accesskey">:::</a>
+					<div class="cr_left"><img src="../images/131015_img/qrcode_img.jpg" class="web_qrcode" alt="網站二維條碼" /></div>
+					<div class="cr_right">
+						<div class="bottomMenu">
+							<a href="../AboutUs/index.aspx">關於本站</a> | <a href="../EmergencyPhone/index.aspx">緊急聯絡電話</a> | <a href="../Privacy/index.aspx">私密政策</a> | <a href="../Security/index.aspx">資安宣告</a> | <a href="../InformationOpen/index.aspx">網站資料開放宣告</a> | <a href="../FaMember/" title="署內人員專區" class="spec_high_link">署內人員專區</a>
+						</div>
+						<div class="aplus_img"><a href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20160329113435" title="無障礙網站">
+    <img src="http://www.fa.gov.tw/cht/images/131116_img/aplus.jpg" border="0" width="88" height="31" alt="通過A+優先等級無障礙網頁檢測" />
+</a><a target="_blank" href="http://www.gov.tw/"><img src="/images/egov.gif" alt="我的e政府" title="我的e政府" border="0"></a></div>
+						<div class="footer_childs">
+							<div class="cr_child02">
+								<span class="date_counter">
+									<span class="latest_update">更新日期：2016-11-06</span>
+									&nbsp;&nbsp;
+									<span class="visited_counter">瀏覽人次：11530344</span>
+								</span>
+								<div class="footer_copyright01">行政院農業委員會漁業署 2013 © 版權所有</div>
+								<div class="footer_copyright02">（所有圖資未經本署同意不得轉載及重製）</div>
+							</div>
+							<div class="cr_child01">
+								<div class="address">
+									 
+<div>本署本部地址 ：80672 高雄市前鎮區漁港北一路1號 [ <a href="http://www.fa.gov.tw/cht/AbFaLocationInfo/content.aspx?id=1&amp;chk=60663fe1-ab15-4c11-89a7-ea10a75be827&amp;param=pn%3d1" shape="rect">位置圖</a> ] 總機：07-8113288<br />台北和平大樓 ：10070 台北市中正區和平西路二段100號6樓 [ <a href="http://www.fa.gov.tw/cht/AbFaLocationInfo/content.aspx?id=2&amp;chk=99048ba4-8019-4af8-bac4-fe8f169f915d&amp;param=pn%3d1" shape="rect">位置圖</a> ] 總機：02-23835678 
+</div> 
+<div>建議最佳瀏覽解析度 1024x768，IE7、Firefox 2.0 以上&nbsp;
+</div> 
+<div>如對本站有任何問題或意見，歡迎聯絡<a href="mailto:w3master@ms1.fa.gov.tw">網站管理員</a> 
+</div> 
+<div>行政院農業委員會漁業署 2016 © 版權所有(所有圖資未經本署同意不得轉載及重製)<br />彈性上班時間：8:00-17:00或9:00-18:00
+</div> <!--div style="display: none;"><a href="http://www.alexa.com/siteinfo/www.fa.gov.tw"> 
+    <script type="text/javascript" src="http://xslt.alexa.com/site_stats/js/t/a?url=www.fa.gov.tw">
+    </script></a> 
+</div--> 
+<script type="text/javascript">//重大訊息跑馬燈內容
+//如果不需要跑馬燈了，請將「text:」後方「"」內文字刪除即可，不要將程式碼全部註解掉。
+var _ImpNoticeMarquee = {
+		text: "106年中華民國全國漁會總幹事候聘人登記公告", //跑馬燈文字 本(105)年度截至5月17日止，經統計飛魚卵總漁獲量計0公噸
+		href: "http://www.fa.gov.tw/cht/AnnounceElection/content.aspx?id=11&chk=6423bfdb-4529-4069-a609-01eb3eaeedcb&param=pn%3d1",  //跑馬燈連結  
+		target: "_top" //開新視窗輸入「_blank」，於原視窗開啟輸入「_top」。
+	};
+//節慶橫幅內容
+var _HappyBannersItem = [
+		{
+			img: "./images/happy_year.jpg", //圖片路徑
+			start: "2/99", //開始日期：M/D
+			end: "2/99" //結束日期：M/D
+		},
+		{
+			img: "./images/happy_dragon.jpg",
+			start: "6/6",
+			end: "6/11"
+		},
+		{
+			img: "./images/happy_moon.jpg",
+			start: "9/13",
+			end: "9/17"
+		},
+		{
+			img: "./images/happy_fisher.jpg",
+			start: "8/99",
+			end: "8/99"
+		}
+	]
+</script>
+								</div>
+							</div>
+							<div style="clear:both;*height:0"></div>
+						</div>
+						<div style="clear:right;*height:0"></div>
+					</div>
+					<div style="clear:left;*height:0"></div>
+                </footer>
+            </div>
+
+        </div>
+
+        <script type="text/javascript">
+            swfobject.registerObject("FlashID");
+        </script>
+        <script type="text/javascript" language="javascript" src="../Scripts/leftMenu.js"></script>
+    </div>
+</body>
+</html>

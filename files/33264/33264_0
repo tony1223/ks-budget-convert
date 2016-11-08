@@ -1,0 +1,1466 @@
+<!doctype html>
+<html><!-- InstanceBegin template="/Templates/index.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="utf-8">
+<meta name="DC.Title" content="行政院農業委員會動植物防疫檢疫局"/>
+<meta name="DC.Creator" content="行政院農業委員會動植物防疫檢疫局"/>
+<meta name="DC.Subject" content="行政院農業委員會動植物防疫檢疫局"/>
+<meta name="DC.Description" content="行政院農業委員會動植物防疫檢疫局，..."/>
+<meta name="DC.Contributor" content="行政院農業委員會動植物防疫檢疫局"/>
+<meta name="DC.Type" content="text/php"/>
+<meta name="DC.Format" content="text"/>
+<meta name="DC.Source" content="行政院農業委員會動植物防疫檢疫局"/>
+<meta name="DC.Language" content="中文"/>
+<meta name="DC.coverage.t.min" content="2011-05-30"/>
+<meta name="DC.coverage.t.max" content="2015-05-30"/>
+<meta name="DC.Publisher" content="行政院農業委員會動植物防疫檢疫局"/>
+<meta name="DC.Date" content="2011-05-30"/>
+<meta name="DC.Identifier" content="345030000G"/>
+<meta name="DC.Relation" content="http://www.baphiq.gov.tw/"/>
+<meta name="DC.Rights" content="行政院農業委員會動植物防疫檢疫局"/>
+<meta name="Category.Theme" content="710"/>
+<meta name="Category.Cake" content="AX5"/>
+<meta name="Category.Service" content="I61"/>
+<meta name="Create_Date" content="2014-10-26 03:50:36"/>
+<meta name="KeyWords" content="行政院農業委員會動植物防疫檢疫局,防檢局,動植物防疫檢疫局,預決算"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- InstanceBeginEditable name="doctitle" -->
+
+
+<meta name="title" content="預決算" />
+<meta name="description" content="" />
+<meta property="og:title" content="預決算" /> 
+<meta property="og:description" content="" /> 
+<meta property="og:type" content="0" /> 
+<meta property="og:url" content="http%3A%2F%2Fbaphiq.imita.org.tw%2Fview.php%3Fcatid%3D4519" /> 
+<meta property="og:image" content="http://baphiq.imita.org/">
+
+
+
+<title>預決算-行政院農委會動植物防疫檢疫局</title>
+
+<script type="text/javascript">
+
+	function page_select(){
+
+		var element=document.getElementById('form1');
+
+		element.submit();
+
+	}
+
+</script>
+
+
+
+
+<!-- InstanceEndEditable -->
+<link href="css/css1.css" rel="stylesheet" type="text/css">
+<!-- InstanceBeginEditable name="head" -->
+
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+<div style="text-align:center">
+<div id="all-wrapper">
+	<div id="head-wrapper">
+    	<div id="heade-wrapper-logo"><a href="index.php"><img src="images/space.gif" width="381" height="76" border="0" alt="動植物檢疫防疫局" title="動植物檢疫防疫局"/></a></div><div id="head-wrapper-toplink"><a href="index.php" class="a" title="回到首頁">回到首頁</a><span class="text01">│</span><a href="info_sitemap.php" class="a" title="網站導覽">網站導覽</a><span class="text01">│</span><a href="en/" class="a" target="_blank" title="ENGLISH">ENGLISH</a><span class="text01">│<a href="mobile.php" class="a" target="_blank" title="行動版">行動版</a><span class="text01">│</span><a href="dictionary_search.php" class="a" title="雙語詞彙">雙語詞彙</a></div>
+        <div id="head-wrapper-topmenu">
+                        <ul class="nice-menu2 nice-menu2-right">
+        <li class="menuparent2" >
+                <div class="bosom_bar_link2" >
+        <a href="view.php?catid=2" class="topmenu-a01" title="最新資訊" target="_self"></a>
+                 <ul>
+                          <li class="menuparent2"><div class="ats2" ><a href="view.php?catid=20" title="" class="atds" target="_self">訊息公告</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="view_news.php" title="新聞發佈" class="atds" target="_self">新聞發佈</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="view.php?catid=330" title="" class="atds" target="_self">新聞發佈(104年12月前)</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="view.php?catid=803" title="" class="atds" target="_self">人事異動</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="view.php?catid=804" title="" class="atds" target="_self">徵才資訊</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="view.php?catid=929" title="" class="atds" target="_self">技術移轉公告</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="video.php?catid=4766" title="影音專區" class="atds" target="_self">影音專區</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="http://ai.gov.tw/index.php?id=218" title="" class="atds" target="_self">禽流感影音專區</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="view.php?catid=801" title="" class="atds" target="_self">活動訊息</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="action_picture.php" title="活動照片" class="atds" target="_self">活動照片</a></div></li>  
+                
+         </ul>
+                  </div>
+                 </li>
+        </ul>
+                                <ul class="nice-menu2 nice-menu2-right">
+        <li class="menuparent2" >
+                <div class="bosom_bar_link2" >
+        <a href="view.php?catid=3" class="topmenu-a02" title="關於本局" target="_self"></a>
+                 <ul>
+                          <li class="menuparent2"><div class="ats2" ><a href="view.php?catid=7080" title="" class="atds" target="_self">局長簡介</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="view.php?catid=11859" title="" class="atds" target="_self">歷任首長</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="view.php?catid=7081" title="" class="atds" target="_self">局徽介紹</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="view.php?catid=7082" title="" class="atds" target="_self">歷史沿革</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="view.php?catid=933" title="" class="atds" target="_self">組織架構及介紹</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="view.php?catid=936" title="" class="atds" target="_self">業務介紹</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="view.php?catid=948" title="" class="atds" target="_self">願景及目標</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="view.php?catid=11864" title="" class="atds" target="_self">交通資訊</a></div></li>  
+                
+         </ul>
+                  </div>
+                 </li>
+        </ul>
+                                <ul class="nice-menu2 nice-menu2-right">
+        <li class="menuparent2" >
+                <div class="bosom_bar_link2" >
+        <a href="view.php?catid=4" class="topmenu-a03" title="重大政策" target="_self"></a>
+                 <ul>
+                          <li class="menuparent2"><div class="ats2" ><a href="http://www.ey.gov.tw/news.aspx?n=631b45fcb3fe2d7e" title="行政院重大政策" class="atds" target="_self">行政院重大政策</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="http://www.coa.gov.tw/ws.php?id=19059" title="農委會重大政策" class="atds" target="_self">農委會重大政策</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="view.php?catid=11865" title="" class="atds" target="_self">防檢局重大政策</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="https://www.youtube.com/user/cabinet168" title="行政院政策廣告-開啟新視窗" class="atds" target="_blank">行政院政策廣告</a></div></li>  
+                
+         </ul>
+                  </div>
+                 </li>
+        </ul>
+                                <ul class="nice-menu2 nice-menu2-right">
+        <li class="menuparent2" >
+                <div class="bosom_bar_link2" >
+        <a href="view.php?catid=5" class="topmenu-a04" title="便民服務" target="_self"></a>
+                 <ul>
+                          <li class="menuparent2"><div class="ats2" ><a href="mail.php?catid=7254" title="局長信箱" class="atds" target="_self">局長信箱</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="view.php?catid=7255" title="" class="atds" target="_self">與局長有約</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="view.php?catid=1142" title="" class="atds" target="_self">服務電話</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="view.php?catid=1147" title="" class="atds" target="_self">性別平等</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="view.php?catid=1163" title="" class="atds" target="_self">廉政園地</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="view.php?catid=11867" title="" class="atds" target="_self">便民政策</a></div></li>  
+                          <li class="menuparent2"><div class="ats2" ><a href="view.php?catid=1065" title="" class="atds" target="_self">常見問答集</a></div></li>  
+                
+         </ul>
+                  </div>
+                 </li>
+        </ul>
+                                <div class="bosom_bar_link2" >
+        <a href="view.php?catid=6" class="topmenu-a05" title="線上申辦" target="_self"></a>
+                 </div>
+                         </div><div id="head-wrapper-search">
+        <form action="search_wg_tran.php" method="post" name="top_search">
+    	  <table width="100%" border="0"  cellspacing="0" cellpadding="0">
+    	    <tr>
+    	      <th scope="col" align="right">
+              <input type="text" class="search"  name="keyword_q" id="keyword_q" maxlength="40" onfocus="javascript: if(this.value=='(請輸入關鍵字)') this.value='';" onblur="javascript: if(this.value=='') this.value='(請輸入關鍵字)';" value="(請輸入關鍵字)" accesskey="s" />
+              </th>
+    	      <th scope="col">&nbsp;&nbsp;<input type="image" src="images/bu01.gif" width="42" height="26" border="0" alt="搜尋" title="搜尋"/></th>
+  	      </tr>
+  	    </table>
+        </form>
+       
+    	</div>
+         <div class="hot_word"><span style="font-size:10px">熱門關鍵字：</span><a href="search_wg.php?q=紅火蟻" title="紅火蟻" class="search_key">紅火蟻</a>
+            &nbsp;<a href="search_wg.php?q=稻熱病" title="稻熱病" class="search_key">稻熱病</a>
+            &nbsp;<a href="search_wg.php?q=口蹄疫" title="口蹄疫" class="search_key">口蹄疫</a>
+            &nbsp;<a href="search_wg.php?q=禽流感" title="禽流感" class="search_key">禽流感</a>
+            &nbsp;<a href="search_wg.php?q=狂犬病" title="狂犬病" class="search_key">狂犬病</a></div>
+  </div>
+  <div id="main-left-wrapper">
+  	<div class="main-left-menu">
+        <ul class="nice-menu nice-menu-right">
+    <li class="menuparent" >
+	<div class="bosom_bar_link" >
+    <a href="view.php?catid=10" class="main-left-menu-a01" title="輸出入檢疫"></a>
+     <ul>
+     	          <li class="menuparent"><div class="ats" ><a href="view.php?catid=3496" title="" class="atds" target="_self">動物輸出入檢疫</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=3600" title="" class="atds" target="_self">植物輸出入檢疫</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=3991" title="" class="atds" target="_self">檢疫犬介紹</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=10775" title="" class="atds" target="_self">犬貓輸出入及隔離檢疫專區</a></div></li>  
+            
+     </ul>
+     </div>
+	</li>
+    </ul>
+        <ul class="nice-menu nice-menu-right">
+    <li class="menuparent" >
+	<div class="bosom_bar_link" >
+    <a href="view.php?catid=11" class="main-left-menu-a02" title="動植物防疫"></a>
+     <ul>
+     	          <li class="menuparent"><div class="ats" ><a href="view.php?catid=4046" title="" class="atds" target="_self">動物傳染病介紹</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=4090" title="" class="atds" target="_self">動物防疫資訊</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=12807" title="" class="atds" target="_self">動物防疫網站</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=4158" title="" class="atds" target="_self">植物疫病蟲害介紹</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=4112" title="" class="atds" target="_self">植物防疫資訊</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=4273" title="" class="atds" target="_self">病蟲害診斷鑑定</a></div></li>  
+            
+     </ul>
+     </div>
+	</li>
+    </ul>
+        <ul class="nice-menu nice-menu-right">
+    <li class="menuparent" >
+	<div class="bosom_bar_link" >
+    <a href="view.php?catid=12" class="main-left-menu-a03" title="疫情資訊"></a>
+     <ul>
+     	          <li class="menuparent"><div class="ats" ><a href="view.php?catid=4323" title="" class="atds" target="_self">疫區公告</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=4331" title="" class="atds" target="_self">國內疫情</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=11860" title="" class="atds" target="_self">國外疫情</a></div></li>  
+            
+     </ul>
+     </div>
+	</li>
+    </ul>
+        <ul class="nice-menu nice-menu-right">
+    <li class="menuparent" >
+	<div class="bosom_bar_link" >
+    <a href="view.php?catid=13" class="main-left-menu-a04" title="動物用藥與農藥"></a>
+     <ul>
+     	          <li class="menuparent"><div class="ats" ><a href="view.php?catid=4341" title="" class="atds" target="_self">動藥相關資訊</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="http://pesticide.baphiq.gov.tw/web/Insecticides_MenuItem1.aspx?" title="農藥相關資訊-開啟新視窗" class="atds" target="1">農藥相關資訊</a></div></li>  
+            
+     </ul>
+     </div>
+	</li>
+    </ul>
+        <ul class="nice-menu nice-menu-right">
+    <li class="menuparent" >
+	<div class="bosom_bar_link" >
+    <a href="view.php?catid=14" class="main-left-menu-a05" title="肉品檢查"></a>
+     <ul>
+     	          <li class="menuparent"><div class="ats" ><a href="view.php?catid=4471" title="" class="atds" target="_self">屠宰場管理</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=4493" title="" class="atds" target="_self">屠宰衛生檢查</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=4498" title="" class="atds" target="_self">查核取締</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=14992" title="" class="atds" target="_self">屠宰業申請引進外勞資格案件</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=8245" title="" class="atds" target="_self">屠宰衛生-統計資訊</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=15344" title="" class="atds" target="_self">屠宰場清潔衛生消毒相關檢查程序</a></div></li>  
+            
+     </ul>
+     </div>
+	</li>
+    </ul>
+        <ul class="nice-menu nice-menu-right">
+    <li class="menuparent" >
+	<div class="bosom_bar_link" >
+    <a href="view.php?catid=7" class="main-left-menu-a06" title="下載專區"></a>
+     <ul>
+     	          <li class="menuparent"><div class="ats" ><a href="view.php?catid=1488" title="" class="atds" target="_self">表單下載</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=1581" title="" class="atds" target="_self">公文附件下載</a></div></li>  
+            
+     </ul>
+     </div>
+	</li>
+    </ul>
+        <ul class="nice-menu nice-menu-right">
+    <li class="menuparent" >
+	<div class="bosom_bar_link" >
+    <a href="view.php?catid=8" class="main-left-menu-a07" title="出版品與文宣"></a>
+     <ul>
+     	          <li class="menuparent"><div class="ats" ><a href="view.php?catid=2159" title="" class="atds" target="_self">業務統計</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=2919" title="" class="atds" target="_self">季刊</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=2962" title="" class="atds" target="_self">年報</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=2972" title="" class="atds" target="_self">電子書</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=2998" title="" class="atds" target="_self">文宣資料</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=1918" title="" class="atds" target="_self">出版品目錄</a></div></li>  
+            
+     </ul>
+     </div>
+	</li>
+    </ul>
+        <ul class="nice-menu nice-menu-right">
+    <li class="menuparent" >
+	<div class="bosom_bar_link" >
+    <a href="view.php?catid=9" class="main-left-menu-a08" title="法規資訊"></a>
+     <ul>
+     	          <li class="menuparent"><div class="ats" ><a href="view.php?catid=2999" title="" class="atds" target="_self">動物防檢疫法規</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=3104" title="" class="atds" target="_self">植物防檢疫法規</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=3206" title="" class="atds" target="_self">肉品檢查法規</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=3228" title="" class="atds" target="_self">行政法規</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="http://law.moj.gov.tw/" title="全國法規資料庫-開啟新視窗" class="atds" target="1">全國法規資料庫</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=3261" title="" class="atds" target="_self">其它法規</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="http://gazette.nat.gov.tw/" title="行政院公報資訊網-開啟新視窗" class="atds" target="1">行政院公報資訊網</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="http://law.coa.gov.tw/GLRSnewsout/index.aspx" title="農業主管法規查詢系統-開啟新視窗" class="atds" target="1">農業主管法規查詢系統</a></div></li>  
+            
+     </ul>
+     </div>
+	</li>
+    </ul>
+        <ul class="nice-menu nice-menu-right">
+    <li class="menuparent" >
+	<div class="bosom_bar_link" >
+    <a href="view.php?catid=13384" class="main-left-menu-a09" title="主題專區"></a>
+     <ul>
+     	          <li class="menuparent"><div class="ats" ><a href="view.php?catid=5546" title="計畫研題專區" class="atds" target="_self">計畫研題專區</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=4515" title="小黑蚊專區" class="atds" target="_self">小黑蚊專區</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=4136" title="種苗(子)驗證專區" class="atds" target="_self">種苗(子)驗證專區</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=4245" title="新紀錄植物有害生物專區" class="atds" target="_self">新紀錄植物有害生物專區</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=4151" title="紅火蟻專區" class="atds" target="_self">紅火蟻專區</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=4037" title="獸醫師專區" class="atds" target="_self">獸醫師專區</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=4510" title="水產專區" class="atds" target="_self">水產專區</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="http://ai.gov.tw/" title="" class="atds" target="_self">禽流感專區</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=4507" title="狂犬病專區" class="atds" target="_self">狂犬病專區</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=4506" title="萊克多巴胺專區" class="atds" target="_self">萊克多巴胺專區</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=10775" title="犬貓輸出入專區" class="atds" target="_self">犬貓輸出入及隔離檢疫專區</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=4503" title="兩岸防檢疫專區" class="atds" target="_self">兩岸防檢疫專區</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=4502" title="旅客入出境檢疫專區" class="atds" target="_self">旅客入出境檢疫專區</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=950" title="國際事務專區" class="atds" target="_self">國際事務專區</a></div></li>  
+            
+     </ul>
+     </div>
+	</li>
+    </ul>
+        <ul class="nice-menu nice-menu-right">
+    <li class="menuparent" >
+	<div class="bosom_bar_link" >
+    <a href="view.php?catid=16" class="main-left-menu-a10" title="網網相連"></a>
+     <ul>
+     	          <li class="menuparent"><div class="ats" ><a href="view.php?catid=12442" title="" class="atds" target="_self">國外網站</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=12452" title="" class="atds" target="_self">國內網站</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="http://www.coa.gov.tw/index.php" title="農委會所屬機關網站-開啟新視窗" class="atds" target="1">農委會所屬機關網站</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=12498" title="" class="atds" target="_self">本局業務網站</a></div></li>  
+            
+     </ul>
+     </div>
+	</li>
+    </ul>
+        <ul class="nice-menu nice-menu-right">
+    <li class="menuparent" >
+	<div class="bosom_bar_link" >
+    <a href="view.php?catid=17" class="main-left-menu-a11" title="政府資訊公開"></a>
+     <ul>
+     	          <li class="menuparent"><div class="ats" ><a href="view.php?catid=4519" title="" class="atds" target="_self">預決算</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=4548" title="" class="atds" target="_self">補捐助資訊</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=4576" title="" class="atds" target="_self">施政計畫與績效</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=4591" title="" class="atds" target="_self">研究報告</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=11873" title="" class="atds" target="_self">科技研發</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=4739" title="" class="atds" target="_self">行政指導有關文書</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=4751" title="" class="atds" target="_self">遊說資訊專區 </a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=12253" title="" class="atds" target="_self">個資保護專區</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=12961" title="" class="atds" target="_self">政策宣導執行情形</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=14250" title="" class="atds" target="_self">會計報告</a></div></li>  
+                  <li class="menuparent"><div class="ats" ><a href="view.php?catid=15061" title="" class="atds" target="_self">獎項專區</a></div></li>  
+            
+     </ul>
+     </div>
+	</li>
+    </ul>
+        <img src="images/left_menu_sub.gif" alt="" width="170" height="165" usemap="#Map2" title="">
+    <map name="Map2">
+      <area shape="rect" coords="6,5,164,40" href="office/klbaphiq/" target="_blank" alt="基隆分局" title="基隆分局">
+      <area shape="rect" coords="7,45,168,82" href="office/hcbaphiq/" target="_blank" alt="新竹分局 title="新竹分局"">
+      <area shape="rect" coords="5,86,165,121" href="office/tcbaphiq/" target="_blank" alt="臺中分局" title="臺中分局">
+      <area shape="rect" coords="7,126,165,163" href="office/khbaphiq/" target="_blank" alt="高雄分局" title="高雄分局">
+    </map>
+    </div>
+</div>
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+
+  <div id="main-right-wrapper">
+
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="home-space">
+
+      <tr>
+
+        <th width="4%" scope="col"><img src="images/icon01.gif" width="21" height="16"  alt=""/></th>
+
+        <td width="96%" align="left" style="color: #333" scope="col">目前位置 :<a href="index.php" title="首頁" class="b">首頁</a> / <a href="view.php?catid=17" title="政府資訊公開"  class="b">政府資訊公開</a> / <span class="b">預決算</span></td>
+
+      </tr>
+
+    </table>
+
+    <div id="block02">
+
+   	  <div id="block02-su">政府資訊公開</div>
+
+      
+
+      
+      <div id="block02-menu">
+
+      
+      
+      <span class="d_r">預決算</span>
+
+      
+      <span class="text06">｜</span>
+
+      
+      
+      <a href="view.php?catid=4548" title="補捐助資訊" target="_self"  class="d">補捐助資訊</a>
+
+      
+      <span class="text06">｜</span>
+
+      
+      
+      <a href="view.php?catid=4576" title="施政計畫與績效" target="_self"  class="d">施政計畫與績效</a>
+
+      
+      <span class="text06">｜</span>
+
+      
+      
+      <a href="view.php?catid=4591" title="研究報告" target="_self"  class="d">研究報告</a>
+
+      
+      <span class="text06">｜</span>
+
+      
+      
+      <a href="view.php?catid=11873" title="科技研發" target="_self"  class="d">科技研發</a>
+
+      
+      <span class="text06">｜</span>
+
+      
+      
+      <a href="view.php?catid=4739" title="行政指導有關文書" target="_self"  class="d">行政指導有關文書</a>
+
+      
+      <span class="text06">｜</span>
+
+      
+      
+      <a href="view.php?catid=4751" title="遊說資訊專區" target="_self"  class="d">遊說資訊專區</a>
+
+      
+      <span class="text06">｜</span>
+
+      
+      
+      <a href="view.php?catid=12253" title="個資保護專區" target="_self"  class="d">個資保護專區</a>
+
+      
+      <span class="text06">｜</span>
+
+      
+      
+      <a href="view.php?catid=12961" title="政策宣導執行情形" target="_self"  class="d">政策宣導執行情形</a>
+
+      
+      <span class="text06">｜</span>
+
+      
+      
+      <a href="view.php?catid=14250" title="會計報告" target="_self"  class="d">會計報告</a>
+
+      
+      <span class="text06">｜</span>
+
+      
+      
+      <a href="view.php?catid=15061" title="獎項專區" target="_self"  class="d">獎項專區</a>
+
+      
+      <span class="text06">｜</span>
+
+      
+       </div>
+
+      
+     
+
+    	<div class="text03" id="block02-in">
+
+        
+		<span class="text04">預決算</span>        
+
+        
+
+        <ul class="ul_class_i">
+
+
+
+
+<li class="list_i">
+
+  <img src="images/icon02.gif" title="*" alt="*">
+
+  <div class="div_hit">168</div>
+
+  <div class="data">
+
+          <div class="div_name1"><a href="view.php?catid=15576" title="106年度預算案" target="_self">106年度預算案</a></div>
+    
+  </div>
+
+</li>
+
+
+
+
+
+
+<li class="list_i">
+
+  <img src="images/icon02.gif" title="*" alt="*">
+
+  <div class="div_hit">383</div>
+
+  <div class="data">
+
+              <div class="div_name1"><a href="view.php?catid=14904" title="104年度決算資料" target="_self">104年度決算資料</a></div>
+        
+  </div>
+
+</li>
+
+
+
+
+
+
+<li class="list_i">
+
+  <img src="images/icon02.gif" title="*" alt="*">
+
+  <div class="div_hit">453</div>
+
+  <div class="data">
+
+         <div class="div_name1"><a href="view.php?catid=14835" title="105年度預算資料(預算總說明WORD)" target="_self">105年度預算資料(預算總說明WORD)</a></div>
+    
+  </div>
+
+</li>
+
+
+
+
+
+
+<li class="list_i">
+
+  <img src="images/icon02.gif" title="*" alt="*">
+
+  <div class="div_hit">443</div>
+
+  <div class="data">
+
+              <div class="div_name1"><a href="view.php?catid=14834" title="105年度預算資料(EXCEL)" target="_self">105年度預算資料(EXCEL)</a></div>
+        
+  </div>
+
+</li>
+
+
+
+
+
+
+<li class="list_i">
+
+  <img src="images/icon02.gif" title="*" alt="*">
+
+  <div class="div_hit">462</div>
+
+  <div class="data">
+
+              <div class="div_name1"><a href="view.php?catid=14833" title="105年度預算資料(PDF)" target="_self">105年度預算資料(PDF)</a></div>
+        
+  </div>
+
+</li>
+
+
+
+
+
+
+<li class="list_i">
+
+  <img src="images/icon02.gif" title="*" alt="*">
+
+  <div class="div_hit">408</div>
+
+  <div class="data">
+
+              <div class="div_name1"><a href="view.php?catid=14832" title="105年度預算資料(XML)" target="_self">105年度預算資料(XML)</a></div>
+        
+  </div>
+
+</li>
+
+
+
+
+
+
+<li class="list_i">
+
+  <img src="images/icon02.gif" title="*" alt="*">
+
+  <div class="div_hit">597</div>
+
+  <div class="data">
+
+              <div class="div_name1"><a href="view.php?catid=13501" title="105年度預算案資料(預算總說明WORD)" target="_self">105年度預算案資料(預算總說明WORD)</a></div>
+        
+  </div>
+
+</li>
+
+
+
+
+
+
+<li class="list_i">
+
+  <img src="images/icon02.gif" title="*" alt="*">
+
+  <div class="div_hit">1017</div>
+
+  <div class="data">
+
+              <div class="div_name1"><a href="view.php?catid=13500" title="105年度預算案資料(EXCEL)" target="_self">105年度預算案資料(EXCEL)</a></div>
+        
+  </div>
+
+</li>
+
+
+
+
+
+
+<li class="list_i">
+
+  <img src="images/icon02.gif" title="*" alt="*">
+
+  <div class="div_hit">553</div>
+
+  <div class="data">
+
+              <div class="div_name1"><a href="view.php?catid=13499" title="105年度預算案資料(PDF)" target="_self">105年度預算案資料(PDF)</a></div>
+        
+  </div>
+
+</li>
+
+
+
+
+
+
+<li class="list_i">
+
+  <img src="images/icon02.gif" title="*" alt="*">
+
+  <div class="div_hit">530</div>
+
+  <div class="data">
+
+              <div class="div_name1"><a href="view.php?catid=13498" title="105年度預算案資料(XML)" target="_self">105年度預算案資料(XML)</a></div>
+        
+  </div>
+
+</li>
+
+
+
+
+
+
+<li class="list_i">
+
+  <img src="images/icon02.gif" title="*" alt="*">
+
+  <div class="div_hit">470</div>
+
+  <div class="data">
+
+              <div class="div_name1"><a href="view.php?catid=14245" title="104年度預算案資料(XML)" target="_self">104年度預算案資料(XML)</a></div>
+        
+  </div>
+
+</li>
+
+
+
+
+
+
+<li class="list_i">
+
+  <img src="images/icon02.gif" title="*" alt="*">
+
+  <div class="div_hit">540</div>
+
+  <div class="data">
+
+              <div class="div_name1"><a href="view.php?catid=14246" title="104年度預算資料(XML)" target="_self">104年度預算資料(XML)</a></div>
+        
+  </div>
+
+</li>
+
+
+
+
+
+
+<li class="list_i">
+
+  <img src="images/icon02.gif" title="*" alt="*">
+
+  <div class="div_hit">624</div>
+
+  <div class="data">
+
+              <div class="div_name1"><a href="view.php?catid=14247" title="104年度預算資料(PDF)" target="_self">104年度預算資料(PDF)</a></div>
+        
+  </div>
+
+</li>
+
+
+
+
+
+
+<li class="list_i">
+
+  <img src="images/icon02.gif" title="*" alt="*">
+
+  <div class="div_hit">529</div>
+
+  <div class="data">
+
+              <div class="div_name1"><a href="view.php?catid=14248" title="104年度預算資料(EXCEL)" target="_self">104年度預算資料(EXCEL)</a></div>
+        
+  </div>
+
+</li>
+
+
+
+
+
+
+<li class="list_i">
+
+  <img src="images/icon02.gif" title="*" alt="*">
+
+  <div class="div_hit">594</div>
+
+  <div class="data">
+
+              <div class="div_name1"><a href="view.php?catid=14249" title="104年度預算資料(預算總說明WORD)" target="_self">104年度預算資料(預算總說明WORD)</a></div>
+        
+  </div>
+
+</li>
+
+
+
+
+
+
+<li class="list_i">
+
+  <img src="images/icon02.gif" title="*" alt="*">
+
+  <div class="div_hit">589</div>
+
+  <div class="data">
+
+              <div class="div_name1"><a href="view.php?catid=10525" title="104年度預算案資料" target="_self">104年度預算案資料</a></div>
+        
+  </div>
+
+</li>
+
+
+
+
+
+
+<li class="list_i">
+
+  <img src="images/icon02.gif" title="*" alt="*">
+
+  <div class="div_hit">568</div>
+
+  <div class="data">
+
+              <div class="div_name1"><a href="view.php?catid=13065" title="103年度決算資料" target="_self">103年度決算資料</a></div>
+        
+  </div>
+
+</li>
+
+
+
+
+
+
+<li class="list_i">
+
+  <img src="images/icon02.gif" title="*" alt="*">
+
+  <div class="div_hit">659</div>
+
+  <div class="data">
+
+              <div class="div_name1"><a href="view.php?catid=10523" title="103年度預算資料" target="_self">103年度預算資料</a></div>
+        
+  </div>
+
+</li>
+
+
+
+
+
+
+<li class="list_i">
+
+  <img src="images/icon02.gif" title="*" alt="*">
+
+  <div class="div_hit">558</div>
+
+  <div class="data">
+
+              <div class="div_name1"><a href="view.php?catid=10524" title="102年度決算資料" target="_self">102年度決算資料</a></div>
+        
+  </div>
+
+</li>
+
+
+
+
+
+
+<li class="list_i">
+
+  <img src="images/icon02.gif" title="*" alt="*">
+
+  <div class="div_hit">1034</div>
+
+  <div class="data">
+
+              <div class="div_name1"><a href="view.php?catid=10521" title="102年度預算資料" target="_self">102年度預算資料</a></div>
+        
+  </div>
+
+</li>
+
+
+
+
+</ul>
+
+
+
+
+
+
+
+
+
+  
+  
+  <table align="center" cellpadding="0" cellspacing="0" border="0" class="page_list" width="98%"><tr><td width="25%">共 3 頁，44 筆資料</td>
+
+   <td width="53%" align="center">&nbsp;
+
+        <font color="#FF0000">1</font> <a href="view.php?page_max=20&page=2&catid=4519" title="第2頁" class="page">2</a>  <a href="view.php?page_max=20&page=3&catid=4519" title="第3頁" class="page">3</a>  
+
+          &nbsp;<a href="view.php?page_max=20&page=2&catid=4519" title="下一頁" class="page">下一頁</a> </td>
+
+          <td width="22%" align="right">
+
+          <form action="view.php" method="get" name="form1" id="form1">
+
+
+
+  每頁筆數<select name="page_max" onChange="page_select()">
+
+  
+  <option value="20" selected>20</option>
+
+  
+  <option value="30" >30</option>
+
+  
+  <option value="50" >50</option>
+
+  
+  </select>
+
+            <input type="hidden" name="catid" value="4519">
+
+            
+ </form>
+
+         
+
+          </td>
+
+          </tr></table>
+
+          
+          
+
+          </div>
+
+    </div>
+
+  </div>
+
+  <div class="clear"></div>
+
+  <div class="bak_btn"><a href="javascript:history.go(-1)" title="回上一頁">回上一頁</a></div>
+
+  <!-- InstanceEndEditable -->
+  <div class="clear"></div>
+  <!-- InstanceBeginEditable name="EditRegion2" -->
+
+   <div id="block01">
+
+    <div id="block01-in">
+
+    
+    
+    <div style="width:auto; margin-bottom:20px; clear:both">
+
+    
+      <dl>
+
+        <dt><a href="view.php?catid=2" target="" title="">最新資訊</a></dt>
+
+        
+            <dd><a href="view.php?catid=20" class="b" target="_self" title="訊息公告">訊息公告</a></dd>
+
+		
+            <dd><a href="view_news.php" class="b" target="_self" title="新聞發佈">新聞發佈</a></dd>
+
+		
+            <dd><a href="view.php?catid=330" class="b" target="_self" title="新聞發佈(104年12月前)">新聞發佈(104年12月前)</a></dd>
+
+		
+            <dd><a href="view.php?catid=803" class="b" target="_self" title="人事異動">人事異動</a></dd>
+
+		
+            <dd><a href="view.php?catid=804" class="b" target="_self" title="徵才資訊">徵才資訊</a></dd>
+
+		
+            <dd><a href="view.php?catid=929" class="b" target="_self" title="技術移轉公告">技術移轉公告</a></dd>
+
+		
+            <dd><a href="video.php?catid=4766" class="b" target="_self" title="影音專區">影音專區</a></dd>
+
+		
+            <dd><a href="http://ai.gov.tw/index.php?id=218" class="b" target="_self" title="禽流感影音專區">禽流感影音專區</a></dd>
+
+		
+            <dd><a href="view.php?catid=801" class="b" target="_self" title="活動訊息">活動訊息</a></dd>
+
+		
+            <dd><a href="action_picture.php" class="b" target="_self" title="活動照片">活動照片</a></dd>
+
+		
+      </dl>
+
+      
+      
+    
+      <dl>
+
+        <dt><a href="view.php?catid=3" target="" title="">關於本局</a></dt>
+
+        
+            <dd><a href="view.php?catid=7080" class="b" target="_self" title="局長簡介">局長簡介</a></dd>
+
+		
+            <dd><a href="view.php?catid=11859" class="b" target="_self" title="歷任首長">歷任首長</a></dd>
+
+		
+            <dd><a href="view.php?catid=7081" class="b" target="_self" title="局徽介紹">局徽介紹</a></dd>
+
+		
+            <dd><a href="view.php?catid=7082" class="b" target="_self" title="歷史沿革">歷史沿革</a></dd>
+
+		
+            <dd><a href="view.php?catid=933" class="b" target="_self" title="組織架構及介紹">組織架構及介紹</a></dd>
+
+		
+            <dd><a href="view.php?catid=936" class="b" target="_self" title="業務介紹">業務介紹</a></dd>
+
+		
+            <dd><a href="view.php?catid=948" class="b" target="_self" title="願景及目標">願景及目標</a></dd>
+
+		
+            <dd><a href="view.php?catid=11864" class="b" target="_self" title="交通資訊">交通資訊</a></dd>
+
+		
+      </dl>
+
+      
+      
+    
+      <dl>
+
+        <dt><a href="view.php?catid=4" target="" title="">重大政策</a></dt>
+
+        
+            <dd><a href="http://www.ey.gov.tw/news.aspx?n=631b45fcb3fe2d7e" class="b" target="_self" title="行政院重大政策">行政院重大政策</a></dd>
+
+		
+            <dd><a href="http://www.coa.gov.tw/ws.php?id=19059" class="b" target="_self" title="農委會重大政策">農委會重大政策</a></dd>
+
+		
+            <dd><a href="view.php?catid=11865" class="b" target="_self" title="防檢局重大政策">防檢局重大政策</a></dd>
+
+		
+            <dd><a href="https://www.youtube.com/user/cabinet168" class="b" target="_blank" title="行政院政策廣告-Open New Windows">行政院政策廣告</a></dd>
+
+		
+      </dl>
+
+      
+      
+    
+      <dl>
+
+        <dt><a href="view.php?catid=5" target="" title="">便民服務</a></dt>
+
+        
+            <dd><a href="mail.php?catid=7254" class="b" target="_self" title="局長信箱">局長信箱</a></dd>
+
+		
+            <dd><a href="view.php?catid=7255" class="b" target="_self" title="與局長有約">與局長有約</a></dd>
+
+		
+            <dd><a href="view.php?catid=1142" class="b" target="_self" title="服務電話">服務電話</a></dd>
+
+		
+            <dd><a href="view.php?catid=1147" class="b" target="_self" title="性別平等">性別平等</a></dd>
+
+		
+            <dd><a href="view.php?catid=1163" class="b" target="_self" title="廉政園地">廉政園地</a></dd>
+
+		
+            <dd><a href="view.php?catid=11867" class="b" target="_self" title="便民政策">便民政策</a></dd>
+
+		
+            <dd><a href="view.php?catid=1065" class="b" target="_self" title="常見問答集">常見問答集</a></dd>
+
+		
+      </dl>
+
+      
+      
+    
+      <dl>
+
+        <dt><a href="view.php?catid=6" target="" title="">線上申辦</a></dt>
+
+        
+            <dd><a href="http://eiqs.baphiq.gov.tw" class="b" target="_blank" title="動植物檢疫業者網路申報系統-Open New Windows">動植物檢疫業者網路申報系統</a></dd>
+
+		
+            <dd><a href="https://pet-epermit.baphiq.gov.tw/" class="b" target="_blank" title="輸入犬貓檢疫資訊網-Open New Windows">輸入犬貓檢疫資訊網</a></dd>
+
+		
+            <dd><a href="http://pesticide.baphiq.gov.tw/aims/login.aspx" class="b" target="_blank" title="農藥登記管理系統-Open New Windows">農藥登記管理系統</a></dd>
+
+		
+            <dd><a href="http://am.baphiq.gov.tw/AP/ENTERPRISE.aspx" class="b" target="_blank" title="動藥管理e網通整合平台-Open New Windows">動藥管理e網通整合平台</a></dd>
+
+		
+      </dl>
+
+      
+      
+    
+      <dl>
+
+        <dt><a href="view.php?catid=10" target="" title="">輸出入檢疫</a></dt>
+
+        
+            <dd><a href="view.php?catid=3496" class="b" target="_self" title="動物輸出入檢疫">動物輸出入檢疫</a></dd>
+
+		
+            <dd><a href="view.php?catid=3600" class="b" target="_self" title="植物輸出入檢疫">植物輸出入檢疫</a></dd>
+
+		
+            <dd><a href="view.php?catid=3991" class="b" target="_self" title="檢疫犬介紹">檢疫犬介紹</a></dd>
+
+		
+            <dd><a href="view.php?catid=10775" class="b" target="_self" title="犬貓輸出入及隔離檢疫專區">犬貓輸出入及隔離檢疫專區</a></dd>
+
+		
+      </dl>
+
+      
+    </div>
+
+    
+      
+    
+    <div style="width:auto; margin-bottom:20px; clear:both">
+
+    
+      <dl>
+
+        <dt><a href="view.php?catid=11" target="" title="">動植物防疫</a></dt>
+
+        
+            <dd><a href="view.php?catid=4046" class="b" target="_self" title="動物傳染病介紹">動物傳染病介紹</a></dd>
+
+		
+            <dd><a href="view.php?catid=4090" class="b" target="_self" title="動物防疫資訊">動物防疫資訊</a></dd>
+
+		
+            <dd><a href="view.php?catid=12807" class="b" target="_self" title="動物防疫網站">動物防疫網站</a></dd>
+
+		
+            <dd><a href="view.php?catid=4158" class="b" target="_self" title="植物疫病蟲害介紹">植物疫病蟲害介紹</a></dd>
+
+		
+            <dd><a href="view.php?catid=4112" class="b" target="_self" title="植物防疫資訊">植物防疫資訊</a></dd>
+
+		
+            <dd><a href="view.php?catid=4273" class="b" target="_self" title="病蟲害診斷鑑定">病蟲害診斷鑑定</a></dd>
+
+		
+      </dl>
+
+      
+      
+    
+      <dl>
+
+        <dt><a href="view.php?catid=12" target="" title="">疫情資訊</a></dt>
+
+        
+            <dd><a href="view.php?catid=4323" class="b" target="_self" title="疫區公告">疫區公告</a></dd>
+
+		
+            <dd><a href="view.php?catid=4331" class="b" target="_self" title="國內疫情">國內疫情</a></dd>
+
+		
+            <dd><a href="view.php?catid=11860" class="b" target="_self" title="國外疫情">國外疫情</a></dd>
+
+		
+      </dl>
+
+      
+      
+    
+      <dl>
+
+        <dt><a href="view.php?catid=13" target="" title="">動物用藥與農藥</a></dt>
+
+        
+            <dd><a href="view.php?catid=4341" class="b" target="_self" title="動藥相關資訊">動藥相關資訊</a></dd>
+
+		
+            <dd><a href="http://pesticide.baphiq.gov.tw/web/Insecticides_MenuItem1.aspx?" class="b" target="_blank" title="農藥相關資訊-Open New Windows">農藥相關資訊</a></dd>
+
+		
+      </dl>
+
+      
+      
+    
+      <dl>
+
+        <dt><a href="view.php?catid=14" target="" title="">肉品檢查</a></dt>
+
+        
+            <dd><a href="view.php?catid=4471" class="b" target="_self" title="屠宰場管理">屠宰場管理</a></dd>
+
+		
+            <dd><a href="view.php?catid=4493" class="b" target="_self" title="屠宰衛生檢查">屠宰衛生檢查</a></dd>
+
+		
+            <dd><a href="view.php?catid=4498" class="b" target="_self" title="查核取締">查核取締</a></dd>
+
+		
+            <dd><a href="view.php?catid=14992" class="b" target="_self" title="屠宰業申請引進外勞資格案件">屠宰業申請引進外勞資格案件</a></dd>
+
+		
+            <dd><a href="view.php?catid=8245" class="b" target="_self" title="屠宰衛生-統計資訊">屠宰衛生-統計資訊</a></dd>
+
+		
+            <dd><a href="view.php?catid=15344" class="b" target="_self" title="屠宰場清潔衛生消毒相關檢查程序">屠宰場清潔衛生消毒相關檢查程序</a></dd>
+
+		
+      </dl>
+
+      
+      
+    
+      <dl>
+
+        <dt><a href="view.php?catid=7" target="" title="">下載專區</a></dt>
+
+        
+            <dd><a href="view.php?catid=1488" class="b" target="_self" title="表單下載">表單下載</a></dd>
+
+		
+            <dd><a href="view.php?catid=1581" class="b" target="_self" title="公文附件下載">公文附件下載</a></dd>
+
+		
+      </dl>
+
+      
+      
+    
+      <dl>
+
+        <dt><a href="view.php?catid=8" target="" title="">出版品與文宣</a></dt>
+
+        
+            <dd><a href="view.php?catid=2159" class="b" target="_self" title="業務統計">業務統計</a></dd>
+
+		
+            <dd><a href="view.php?catid=2919" class="b" target="_self" title="季刊">季刊</a></dd>
+
+		
+            <dd><a href="view.php?catid=2962" class="b" target="_self" title="年報">年報</a></dd>
+
+		
+            <dd><a href="view.php?catid=2972" class="b" target="_self" title="電子書">電子書</a></dd>
+
+		
+            <dd><a href="view.php?catid=2998" class="b" target="_self" title="文宣資料">文宣資料</a></dd>
+
+		
+            <dd><a href="view.php?catid=1918" class="b" target="_self" title="出版品目錄">出版品目錄</a></dd>
+
+		
+      </dl>
+
+      
+    </div>
+
+    
+      
+    
+    <div style="width:auto; margin-bottom:20px; clear:both">
+
+    
+      <dl>
+
+        <dt><a href="view.php?catid=9" target="" title="">法規資訊</a></dt>
+
+        
+            <dd><a href="view.php?catid=2999" class="b" target="_self" title="動物防檢疫法規">動物防檢疫法規</a></dd>
+
+		
+            <dd><a href="view.php?catid=3104" class="b" target="_self" title="植物防檢疫法規">植物防檢疫法規</a></dd>
+
+		
+            <dd><a href="view.php?catid=3206" class="b" target="_self" title="肉品檢查法規">肉品檢查法規</a></dd>
+
+		
+            <dd><a href="view.php?catid=3228" class="b" target="_self" title="行政法規">行政法規</a></dd>
+
+		
+            <dd><a href="http://law.moj.gov.tw/" class="b" target="_blank" title="全國法規資料庫-Open New Windows">全國法規資料庫</a></dd>
+
+		
+            <dd><a href="view.php?catid=3261" class="b" target="_self" title="其它法規">其它法規</a></dd>
+
+		
+            <dd><a href="http://gazette.nat.gov.tw/" class="b" target="_blank" title="行政院公報資訊網-Open New Windows">行政院公報資訊網</a></dd>
+
+		
+            <dd><a href="http://law.coa.gov.tw/GLRSnewsout/index.aspx" class="b" target="_blank" title="農業主管法規查詢系統-Open New Windows">農業主管法規查詢系統</a></dd>
+
+		
+      </dl>
+
+      
+      
+    
+      <dl>
+
+        <dt><a href="view.php?catid=15" target="" title="">主題專區</a></dt>
+
+        
+            <dd><a href="view.php?catid=950" class="b" target="_self" title="國際事務專區">國際事務專區</a></dd>
+
+		
+            <dd><a href="view.php?catid=4502" class="b" target="_self" title="旅客入出境檢疫專區">旅客入出境檢疫專區</a></dd>
+
+		
+            <dd><a href="view.php?catid=4503" class="b" target="_self" title="兩岸防檢疫專區">兩岸防檢疫專區</a></dd>
+
+		
+            <dd><a href="view.php?catid=10775" class="b" target="_self" title="犬貓輸出入及隔離檢疫專區">犬貓輸出入及隔離檢疫專區</a></dd>
+
+		
+            <dd><a href="view.php?catid=4506" class="b" target="_self" title="萊克多巴胺專區">萊克多巴胺專區</a></dd>
+
+		
+            <dd><a href="view.php?catid=4507" class="b" target="_self" title="狂犬病專區">狂犬病專區</a></dd>
+
+		
+            <dd><a href="view.php?catid=4508" class="b" target="_self" title="口蹄疫專區">口蹄疫專區</a></dd>
+
+		
+            <dd><a href="http://ai.gov.tw/" class="b" target="_self" title="禽流感專區">禽流感專區</a></dd>
+
+		
+            <dd><a href="view.php?catid=4510" class="b" target="_self" title="水產專區">水產專區</a></dd>
+
+		
+            <dd><a href="view.php?catid=4037" class="b" target="_self" title="獸醫師專區">獸醫師專區</a></dd>
+
+		
+            <dd><a href="/view.php?catid=4151" class="b" target="_self" title="紅火蟻專區">紅火蟻專區</a></dd>
+
+		
+            <dd><a href="view.php?catid=4245" class="b" target="_self" title="新紀錄植物有害生物專區">新紀錄植物有害生物專區</a></dd>
+
+		
+            <dd><a href="view.php?catid=4136" class="b" target="_self" title="種苗(子)驗證專區">種苗(子)驗證專區</a></dd>
+
+		
+            <dd><a href="view.php?catid=4515" class="b" target="_self" title="小黑蚊專區">小黑蚊專區</a></dd>
+
+		
+            <dd><a href="view.php?catid=5546" class="b" target="_self" title="計畫研題專區">計畫研題專區</a></dd>
+
+		
+      </dl>
+
+      
+      
+    
+      <dl>
+
+        <dt><a href="view.php?catid=16" target="" title="">網網相連</a></dt>
+
+        
+            <dd><a href="view.php?catid=12442" class="b" target="_self" title="國外網站">國外網站</a></dd>
+
+		
+            <dd><a href="view.php?catid=12452" class="b" target="_self" title="國內網站">國內網站</a></dd>
+
+		
+            <dd><a href="http://www.coa.gov.tw/index.php" class="b" target="_blank" title="農委會所屬機關網站-Open New Windows">農委會所屬機關網站</a></dd>
+
+		
+            <dd><a href="view.php?catid=12498" class="b" target="_self" title="本局業務網站">本局業務網站</a></dd>
+
+		
+      </dl>
+
+      
+      
+    
+      <dl>
+
+        <dt><a href="view.php?catid=17" target="" title="">政府資訊公開</a></dt>
+
+        
+            <dd><a href="view.php?catid=4519" class="b" target="_self" title="預決算">預決算</a></dd>
+
+		
+            <dd><a href="view.php?catid=4548" class="b" target="_self" title="補捐助資訊">補捐助資訊</a></dd>
+
+		
+            <dd><a href="view.php?catid=4576" class="b" target="_self" title="施政計畫與績效">施政計畫與績效</a></dd>
+
+		
+            <dd><a href="view.php?catid=4591" class="b" target="_self" title="研究報告">研究報告</a></dd>
+
+		
+            <dd><a href="view.php?catid=11873" class="b" target="_self" title="科技研發">科技研發</a></dd>
+
+		
+            <dd><a href="view.php?catid=4739" class="b" target="_self" title="行政指導有關文書">行政指導有關文書</a></dd>
+
+		
+            <dd><a href="view.php?catid=4751" class="b" target="_self" title="遊說資訊專區 ">遊說資訊專區 </a></dd>
+
+		
+            <dd><a href="view.php?catid=12253" class="b" target="_self" title="個資保護專區">個資保護專區</a></dd>
+
+		
+            <dd><a href="view.php?catid=12961" class="b" target="_self" title="政策宣導執行情形">政策宣導執行情形</a></dd>
+
+		
+            <dd><a href="view.php?catid=14250" class="b" target="_self" title="會計報告">會計報告</a></dd>
+
+		
+            <dd><a href="view.php?catid=15061" class="b" target="_self" title="獎項專區">獎項專區</a></dd>
+
+		
+      </dl>
+
+      
+      
+    
+      <dl>
+
+        <dt><a href="view.php?catid=18" target="" title="">所屬機關</a></dt>
+
+        
+            <dd><a href="office/klbaphiq/" class="b" target="_blank" title="基隆分局-Open New Windows">基隆分局</a></dd>
+
+		
+            <dd><a href="office/hcbaphiq/" class="b" target="_blank" title="新竹分局-Open New Windows">新竹分局</a></dd>
+
+		
+            <dd><a href="office/tcbaphiq/" class="b" target="_blank" title="臺中分局-Open New Windows">臺中分局</a></dd>
+
+		
+            <dd><a href="office/khbaphiq/" class="b" target="_blank" title="高雄分局-Open New Windows">高雄分局</a></dd>
+
+		
+      </dl>
+
+      
+      
+    
+      <dl>
+
+        <dt><a href="view.php?catid=15655" target="" title="">資料開放宣告</a></dt>
+
+        
+      </dl>
+
+      
+    </div>
+
+    
+        
+
+       
+
+      <div class="clear"></div>
+
+    </div>
+
+  </div>
+
+  <!-- InstanceEndEditable --><img src="images/bu-menu.gif"  alt="" width="1003" height="80" usemap="#Map" border=0/>
+<map name="Map">
+  <area shape="rect" coords="266,28,365,55" href="mail.php?catid=7254" alt="首長信箱" title="首長信箱">
+  <area shape="rect" coords="389,24,488,58" href="view.php?catid=9" alt="主管法規" title="主管法規">
+  <area shape="rect" coords="514,26,616,60" href="view.php?catid=1163" alt="廉政園地" title="廉政園地">
+  <area shape="rect" coords="627,23,736,59" href="view.php?catid=1147" target="_self" alt="性別平等" title="性別平等">
+</map>
+	<div id="footer" align="left"><a href="view.php?catid=11827" class="c" title="隱私權及安全政策">隱私權及安全政策</a>&nbsp;&nbsp;<a href="view.php?catid=14901" class="c" title="著作權聲明">著作權聲明</a><br>
+      <span class="text02">行政院農業委員會動植物防疫檢疫局 10070台北市和平西路二段100號9樓 <a href="https://www.google.com.tw/maps/place/100%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%92%8C%E5%B9%B3%E8%A5%BF%E8%B7%AF%E4%BA%8C%E6%AE%B5100%E8%99%9F/@25.030302,121.5090517,19z/data=!3m1!4b1!4m2!3m1!1s0x3442a9a314d925a3:0xc9d103a83dca94d3" target="_blank"><img src="images/bu03.gif" width="49" height="21" border="0" alt="位置圖" title="位置圖" style="vertical-align:middle;"/></a><br>
+電話：(02)2343-1401&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 傳真：(02)2332-2200<br>
+檢舉走私免付費專線：0800-039131&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;植物防疫免付費諮詢專線：0800-069880 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;動物防疫免付費諮詢專線：0800-761590<br>
+局長信箱：<a href="mailto:baphiq@mail.baphiq.gov.tw" title="局長信箱" target="_blank" style="text-decoration:none">baphiq@mail.baphiq.gov.tw</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;廉政檢舉電子信箱：<a href="mailto:political@mail.baphiq.gov.tw" title="廉政檢舉電子信箱" target="_blank" style="text-decoration:none">political@mail.baphiq.gov.tw</a>&nbsp;&nbsp;&nbsp;&nbsp;最佳解析度1024X768<br>
+動植物防疫檢疫局版權所有，不得任意轉載作商業用途。本網站所提供之法規資訊等電子內容，依原機關所發布之公告(文)為準，如有疑義，<br>
+請逕向原發布機關或本局洽詢。
+<br>
+總計:35825879  本月:417743  今日:17954    更新日期:2014-08-20</span><div class="footer-img">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <th height="56" scope="col"><a href="http://www.gov.tw/" target="_blank"><img src="images/egov.gif" width="43" height="46"  alt="我的E政府" title="我的E政府" style="border:0px"/></a></th>
+    </tr>
+    <tr>
+      <td><img src="images/aplus.jpg" width="86" height="29"  alt="無障礙標籤" title="無障礙標籤"/></td>
+    </tr>
+  </table>
+</div></div>
+</div>
+</div>
+</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,187 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-TW">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5" />
+<title>臺灣臺中地方法院-會計專區</title>
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<script src="http://www.google.com/jsapi/"></script>
+<script src="js/DD_belatedPNG.js"></script>
+<script type="text/JavaScript">
+<!--
+	google.load("jquery", "1.4.2");
+	google.load("jqueryui", "1");
+
+	google.setOnLoadCallback(function() {
+		  DD_belatedPNG.fix('#WRAPPER');
+	});
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body onLoad="MM_preloadImages('images/btn_menu/btn1_h.gif','images/btn_menu/btn2_h.gif','images/btn_menu/btn3_h.gif','images/btn_menu/btn4_h.gif','images/btn_menu/btn5_h.gif','images/btn_menu/btn6_h.gif','images/btn_menu/btn7_h.gif','images/btn_menu/btn8_h.gif','images/btn_menu/btn9_h.gif','images/btn_menu/btn10_h.gif')">
+<div id="WRAPPER">
+
+<div id="HEADER"> 
+  <div class="logo"><a href="index.asp"><img src="images/Logo1.png"  class="IE6png" width="467" height="88" alt="臺灣臺中地方法院" /></a></div>
+  <div class="topNavi">
+   <ul>
+    <li><a href="sitemap.asp" tabindex="0">網站導覽</a></li>
+	<li><a href="index.asp" tabindex="0">回首頁</a></li>
+	<li><a href="./TAA_E/index.htm" tabindex="0">英文版</a></li>
+
+<!--    <li class="last"><a href="email.asp" tabindex="0">電子信箱</a></li> -->
+<!--	<li class="last"><select name="email">
+        <option value="#" selected>電子信箱</option>
+        <option value="#">司法信箱</option>
+        <option value="#">網站建議信箱</option>
+        <option value="#">政風檢舉信箱</option>
+        </select>
+    </li>
+-->   </ul>
+
+  </div> 
+</div> 
+
+<div id="MAIN-NAV"> 
+  <ul>
+    <li><a href="sitemap.asp" tabindex="1" accesskey="U">:::</a></li>
+    <li><a href="history.asp" tabindex="1" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('認識本院','','images/btn_menu/btn1_h.gif',1)" onfocus="MM_swapImage('認識本院','','images/btn_menu/btn1_h.gif',1)"><img src="images/btn_menu/btn1.gif" alt="認識本院" name="認識本院" width="89" height="40" border="0" id="認識本院" /></a></li>
+    <li><a href="information.asp" tabindex="1" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('資訊查詢服務','','images/btn_menu/btn2_h.gif',1)" onfocus="MM_swapImage('資訊查詢服務','','images/btn_menu/btn2_h.gif',1)"><img src="images/btn_menu/btn2.gif" alt="資訊查詢服務" name="資訊查詢服務" width="115" height="40" border="0" id="資訊查詢服務" /></a></li>
+    <li><a href="service.asp" tabindex="1" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('便民服務','','images/btn_menu/btn3_h.gif',1)" onfocus="MM_swapImage('便民服務','','images/btn_menu/btn3_h.gif',1)"><img src="images/btn_menu/btn3.gif" alt="便民服務" name="便民服務" width="94" height="40" border="0" id="便民服務" /></a></li>
+    <li><a href="government.asp" tabindex="1" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('政風專欄','','images/btn_menu/btn4_h.gif',1)" onfocus="MM_swapImage('政風專欄','','images/btn_menu/btn4_h.gif',1)"><img src="images/btn_menu/btn4.gif" alt="政風專欄" name="政風專欄" width="95" height="40" border="0" id="政風專欄" /></a></li>
+    <li><a href="publics.asp" tabindex="1" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('政府公開資訊','','images/btn_menu/btn5_h.gif',1)" onfocus="MM_swapImage('政府公開資訊','','images/btn_menu/btn5_h.gif',1)"><img src="images/btn_menu/btn5.gif" alt="政府公開資訊" name="政府公開資訊" width="119" height="40" border="0" id="政府公開資訊" /></a></li>
+    <li><a href="notary.asp" tabindex="1" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('公證專欄','','images/btn_menu/btn7_h.gif',1)" onfocus="MM_swapImage('公證專欄','','images/btn_menu/btn7_h.gif',1)"><img src="images/btn_menu/btn7.gif" alt="公證專欄" name="公證專欄" width="100" height="40" border="0" id="公證專欄" /></a></li>
+    <li><a href="http://tcd.judicial.gov.tw/2014tcd/" target="_blank" tabindex="1" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('觀護專欄','','images/btn_menu/btn8_h.gif',1)" onfocus="MM_swapImage('觀護專欄','','images/btn_menu/btn8_h.gif',1)"><img src="images/btn_menu/btn8.gif" alt="觀護專欄" name="觀護專欄" width="97" height="40" border="0" id="觀護專欄" /></a></li>
+    <li><a href="deposited.asp" tabindex="1" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('提存所專欄','','images/btn_menu/btn9_h.gif',1)" onfocus="MM_swapImage('提存所專欄','','images/btn_menu/btn9_h.gif',1)"><img src="images/btn_menu/btn9.gif" alt="提存所專欄" name="提存所專欄" width="105" height="40" border="0" id="提存所專欄" /></a></li>
+    <li><a href="registered.asp" tabindex="1" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('登記業務專欄','','images/btn_menu/btn10_h.gif',1)" onfocus="MM_swapImage('登記業務專欄','','images/btn_menu/btn10_h.gif',1)"><img src="images/btn_menu/btn10.gif" alt="登記業務專欄" name="登記業務專欄" width="110" height="40" border="0" id="登記業務專欄" /></a></li>
+    <li><a href="email.asp" tabindex="1" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('電子信箱','','images/btn_menu/btn11_h.gif',1)" onfocus="MM_swapImage('電子信箱','','images/btn_menu/btn11_h.gif',1)"><img src="images/btn_menu/btn11.gif" alt="電子信箱" name="電子信箱" width="110" height="40" border="0" id="電子信箱" /></a></li>
+  </ul>
+  
+  <br class="CLEAR">
+  
+</div>
+
+<div id="SUB_left"> 
+
+  <div class="Search_content">
+  <form action="search_update.asp" method="post" class="s_form">
+     <p><a href="sitemap.asp" tabindex="2" accesskey="L">:::</a></p>
+	 <LABEL for="web_search_keyword"></LABEL><input name="web_search_keyword" type="text" class="top_search" id="web_search_keyword" value="請輸入關鍵字" size="15" maxlength="10" tabindex="2" accesskey="S" onblur="javascript: if(this.value=='') this.value='請輸入關鍵字';" onfocus="javascript: if(this.value=='請輸入關鍵字') this.value='';" />
+	 <LABEL for="web_search_types"></LABEL>
+     <select name="web_search_types" id="web_search_types" width="150px" tabindex="2">
+	 <!--  <option value="" selected>請選擇</option> -->
+	   <option value="1" selected>網站</option>
+	  
+    </select>
+      <input name="btn" type="submit" class="search2_btn" value="搜尋" tabindex="2"/>
+  </form>
+
+  </div>  <div class="menu_header"><img src="images/title/accounting_title.gif" width="209" height="42" alt="會計專區" />
+  </div>
+  <div class="menu_content"> 
+    <ul>
+     <li><a href="accounting_1.asp" tabindex="2" ><font size="2">預算書</font></a></li>
+     <li><a href="accounting_2.asp" tabindex="2" ><font size="2">決算書</font></a></li>
+     <li><a href="accounting_3.asp" tabindex="2" ><font size="2">會計報告(104年12月前)</font></a></li>
+     <li><a href="accounting_4.asp" tabindex="2" ><font size="2">以前年度保留餘額表</font></a></li>
+     <li><font size="2"><a tabindex="2" href="accounting_5.asp">會計報告(105年1月後)</a></font></li>
+    </ul>
+</div>
+  <div class="menu_footer"></div>
+
+
+</div>
+
+<div id="SUB_right"> 
+  <div class="link">
+
+  <div class="link_header"><img src="images/title/otherlink.gif" width="178" height="42" alt="其他機關連結" />
+  </div>
+  <div class="link_content2">
+<ul><li><a href="http://tcd.judicial.gov.tw/ol/ol_main.htm" tabindex="7" target="_blank" title="(另開新視窗)"><img src="./manasystem/files/other_link/2015101511856_1.gif" border="0" width="150" alt="稅務行政線上起訴(另開新視窗)" /></a></li><li><a href="http://tcd.judicial.gov.tw/manasystem/files/tech_court/行動裝置投影操作手冊1040818.pdf" tabindex="7" target="_blank" title="(另開新視窗)"><img src="./manasystem/files/other_link/2015831154243_1.gif" border="0" width="150" alt="科技法庭行動裝置(另開新視窗)" /></a></li><li><a href="http://tcd.judicial.gov.tw/1.htm" tabindex="7" target="_blank" title="(另開新視窗)"><img src="./manasystem/files/other_link/2015831152615_1.gif" border="0" width="150" alt="專業法庭設置情形(另開新視窗)" /></a></li><li><a href="http://www.judicial.gov.tw/db/alx.asp" tabindex="7" target="_blank" title="(另開新視窗)"><img src="./manasystem/files/other_link/201583115293_1.gif" border="0" width="150" alt="法拍屋資訊(另開新視窗)" /></a></li><li><a href="http://www.judicial.gov.tw/訴訟協助/index_assist.asp" tabindex="7" target="_blank" title="(另開新視窗)"><img src="./manasystem/files/other_link/2015831153910_1.gif" border="0" width="150" alt="訴訟協助(另開新視窗)" /></a></li><li><a href="http://www.judicial.gov.tw/assist/assist03.asp" tabindex="7" target="_blank" title="(另開新視窗)"><img src="./manasystem/files/other_link/2015831153932_1.gif" border="0" width="150" alt="書狀範例(另開新視窗)" /></a></li><li><a href="http://210.69.124.206/jud_k/wke/LoginFEXG.jsp" tabindex="7" target="_blank" title="(另開新視窗)"><img src="./manasystem/files/other_link/2015831153954_1.gif" border="0" width="150" alt="書狀上傳區(另開新視窗)" /></a></li><li><a href="http://jirs.judicial.gov.tw/FJUD/" tabindex="7" target="_blank" title="(另開新視窗)"><img src="./manasystem/files/other_link/2015831154018_1.gif" border="0" width="150" alt="裁判書查詢(另開新視窗)" /></a></li><li><a href="http://cpor.judicial.gov.tw" tabindex="7" target="_blank" title="(另開新視窗)"><img src="./manasystem/files/other_link/2015831155515_1.gif" border="0" width="150" alt="案件進度查詢(另開新視窗)" /></a></li><li><a href="http://www.judicial.gov.tw/ctstate/getctstate.asp?courtcode=TCD" tabindex="7" target="_blank" title="(另開新視窗)"><img src="./manasystem/files/other_link/2015831152947_1.gif" border="0" width="150" alt="開庭進度查詢(另開新視窗)" /></a></li></ul>
+  </div>
+  <div class="link_footer"></div> 
+
+  <div class="link_header2"><a href="links.asp" tabindex="7"><img src="images/title/hotlink.gif" width="178" height="42" alt="熱門連結" /></a></div>
+  <div class="link_content">
+<ul><li><a href="http://www.tdvservice.com.tw" tabindex="7" target="_blank" title="家暴服務處網站(另開新視窗)">家暴服務處網站</a></li><li><a href="https://mwffamilycase.wordpress.com" tabindex="7" target="_blank" title="家事服務中心網站(另開新視窗)">家事服務中心網站</a></li><li><a href="http://tpmr.moj.gov.tw/Campaign" tabindex="7" target="_blank" title="法務部漫畫徵稿活動(另開新視窗)">法務部漫畫徵稿活...</a></li><li><a href="http://www.judicial.gov.tw" tabindex="7" target="_blank" title="司法院(另開新視窗)">司法院</a></li><li><a href="http://www.laf.org.tw/" tabindex="7" target="_blank" title="法律扶助基金會(另開新視窗)">法律扶助基金會</a></li><li><a href="http://www.judicial.gov.tw/juds/" tabindex="7" target="_blank" title="司法統計(另開新視窗)">司法統計</a></li><li><a href="http://web.pcc.gov.tw/pishtml/pisindex.html" tabindex="7" target="_blank" title="政府電子採購網(另開新視窗)">政府電子採購網</a></li><li><a href="http://www.immigration.gov.tw/welcome.htm" tabindex="7" target="_blank" title="內政部入出國及移民署(另開新視窗)">內政部入出國及移...</a></li><li><a href="http://www.boca.gov.tw/mp?mp=1" tabindex="7" target="_blank" title="外交部領事事務局(另開新視窗)">外交部領事事務局</a></li><li><a href="http://www.sef.org.tw/" tabindex="7" target="_blank" title="財團法人海峽交流基金(另開新視窗)">財團法人海峽交流...</a></li></ul>  
+  </div>
+  <div class="link_footer2"></div> 
+
+  <div class="system_header"><img src="images/title/system.gif" width="178" height="42" alt="網站流量系統" />
+  </div>
+  <div class="system_content">
+    <ul>
+     <li>您是第 8439448 位訪客</li>
+
+     <li><a href="http://www.webguide.nat.gov.tw/enable.jsp?category=20050404130259" target="_blank"><img id="_x0000_i1027" src="images/ohter/AAA.gif" alt="通過第三優先等級無障礙網頁檢測(另開新視窗)" width="88" border="0" height="31"></a>
+    </ul>  
+  </div>
+  <div class="system_footer"></div> 
+  </div>
+   <br class="CLEAR"/>
+</div>
+
+<div id="CONTENT"> 
+ <div class="home">
+  <ul>
+   <li><a href="sitemap.asp" tabindex="3" accesskey="C" title="主要內容區">:::</a></li>
+   <li><img src="images/home.gif" alt="*" /></li>
+   <li><a href="index.asp" tabindex="3">回首頁</a></li>
+   <li>></li>
+   <li class="location">會計專區</li>
+  &gt; <li class="location">預算書</li>
+
+  </ul>
+ </div>
+ <div class="News">
+ <img src="images/ohter/accounting_title.gif" width="563" height="30" alt="會計專區" /></div>
+ <p>&nbsp;</p>
+<table class="accounting_tab" style="width: 98%;" width="98%" border="0" cellpadding="0" cellspacing="0" summary="此表格為預算書表格，第一直欄是年度預算書，第二直欄是公布日期"><tbody><tr class="white_bg"><td><a href="./manasystem/files/budget/201682993821_1.pdf" target="_blank" title="106年預算書(另開新視窗)">106年預算書</a></td><td class="last">2016/8/29 公告</td><td> 106年度預算案(PDF) </td></tr><tr class="gray_bg"><td><a href="./manasystem/files/budget/20168299448_1.doc" target="_blank" title="106年預算書(另開新視窗)">106年預算書</a></td><td class="last">2016/8/29 公告</td><td> 106年度預算案總說明(WORD)  </td></tr><tr class="white_bg"><td><a href="./manasystem/files/budget/201682994112_1.zip" target="_blank" title="106年預算書(另開新視窗)">106年預算書</a></td><td class="last">2016/8/29 公告</td><td> 106年度預算案(EXCEL)  </td></tr><tr class="gray_bg"><td><a href="./manasystem/files/budget/201682911217_1.zip" target="_blank" title="106年預算書(另開新視窗)">106年預算書</a></td><td class="last">2016/8/29 公告</td><td> 106年度預算案(XML)  </td></tr><tr class="white_bg"><td><a href="./manasystem/files/budget/2016125144411_1.zip" target="_blank" title="105年預算書(另開新視窗)">105年預算書</a></td><td class="last">2016/1/25 公告</td><td> 105年度法定預算書(XML) </td></tr><tr class="gray_bg"><td><a href="./manasystem/files/budget/201612595637_1.pdf" target="_blank" title="105年預算書(另開新視窗)">105年預算書</a></td><td class="last">2016/1/25 公告</td><td> 105年度法定預算書(PDF) </td></tr><tr class="white_bg"><td><a href="./manasystem/files/budget/201612217403_1.doc" target="_blank" title="105年預算書(另開新視窗)">105年預算書</a></td><td class="last">2016/1/22 公告</td><td> 105年度法定預算總說明(WORD) </td></tr><tr class="gray_bg"><td><a href="./manasystem/files/budget/2016122173833_1.zip" target="_blank" title="105年預算書(另開新視窗)">105年預算書</a></td><td class="last">2016/1/22 公告</td><td> 105年度法定預算(EXCEL) </td></tr><tr class="white_bg"><td><a href="./manasystem/files/budget/20159717714_1.doc" target="_blank" title="105年預算書(另開新視窗)">105年預算書</a></td><td class="last">2015/9/7 公告</td><td> 105年度預算案總說明(WORD檔) </td></tr><tr class="gray_bg"><td><a href="./manasystem/files/budget/201597171513_1.zip" target="_blank" title="105年預算書(另開新視窗)">105年預算書</a></td><td class="last">2015/9/7 公告</td><td> 105年度預算案(EXCEL檔) </td></tr><tr class="white_bg"><td><a href="./manasystem/files/budget/20159393446_1.pdf" target="_blank" title="105年預算書(另開新視窗)">105年預算書</a></td><td class="last">2015/9/3 公告</td><td> 105年度單位預算案書(pdf) </td></tr><tr class="gray_bg"><td><a href="./manasystem/files/budget/20159393859_1.zip" target="_blank" title="105年預算書(另開新視窗)">105年預算書</a></td><td class="last">2015/9/3 公告</td><td> 105年度單位預算案書(xml)  </td></tr><tr class="white_bg"><td><a href="./manasystem/files/budget/201536143910_1.zip" target="_blank" title="104年預算書(另開新視窗)">104年預算書</a></td><td class="last">2015/3/6 公告</td><td> 104年度法定預算(EXCEL壓縮檔) </td></tr><tr class="gray_bg"><td><a href="./manasystem/files/budget/201536143629_1.doc" target="_blank" title="104年預算書(另開新視窗)">104年預算書</a></td><td class="last">2015/3/6 公告</td><td> 104年度法定預算(總說明WORD檔) </td></tr><tr class="white_bg"><td><a href="./manasystem/files/budget/201534171257_1.zip" target="_blank" title="104年預算書(另開新視窗)">104年預算書</a></td><td class="last">2015/3/4 公告</td><td> 法定預算 </td></tr><tr class="gray_bg"><td><a href="./manasystem/files/budget/201534142614_1.pdf" target="_blank" title="104年預算書(另開新視窗)">104年預算書</a></td><td class="last">2015/3/4 公告</td><td> 法定預算 </td></tr><tr class="white_bg"><td><a href="./manasystem/files/budget/20153417521_1.zip" target="_blank" title="104年預算書(另開新視窗)">104年預算書</a></td><td class="last">2015/3/4 公告</td><td> 預算案 </td></tr><tr class="gray_bg"><td><a href="./manasystem/files/budget/201494113845_1.pdf" target="_blank" title="104年預算書(另開新視窗)">104年預算書</a></td><td class="last">2014/9/4 公告</td><td> 預算案 </td></tr><tr class="white_bg"><td><a href="./manasystem/files/budget/201421392028_1.pdf" target="_blank" title="103年預算書(另開新視窗)">103年預算書</a></td><td class="last">2014/2/11 公告</td><td> 法定預算 </td></tr><tr class="gray_bg"><td><a href="./manasystem/files/budget/20139291454_1.pdf" target="_blank" title="103年預算書(另開新視窗)">103年預算書</a></td><td class="last">2013/8/29 公告</td><td> 預算案 </td></tr><tr class="white_bg"><td><a href="./manasystem/files/budget/20133415398_1.pdf" target="_blank" title="102年預算書(另開新視窗)">102年預算書</a></td><td class="last">2013/3/4 公告</td><td> 法定預算 </td></tr><tr class="gray_bg"><td><a href="./manasystem/files/budget/2012126162529_1.pdf" target="_blank" title="102年預算書(另開新視窗)">102年預算書</a></td><td class="last">2012/12/6 公告</td><td>  </td></tr><tr class="white_bg"><td><a href="./manasystem/files/budget/201221593826_1.pdf" target="_blank" title="101年預算書(另開新視窗)">101年預算書</a></td><td class="last">2012/2/9 公告</td><td> 101年預算書 </td></tr><tr class="gray_bg"><td><a href="./manasystem/files/budget/2011322144535_1.pdf" target="_blank" title="100年預算書(另開新視窗)">100年預算書</a></td><td class="last">2011/3/9 公告</td><td>  </td></tr><tr class="white_bg"><td><a href="./manasystem/files/budget/2011322144737_1.pdf" target="_blank" title="99年預算書(另開新視窗)">99年預算書</a></td><td class="last">2010/3/19 公告</td><td>  </td></tr><tr class="gray_bg"><td><a href="./manasystem/files/budget/2011322144911_1.pdf" target="_blank" title="98年預算書(另開新視窗)">98年預算書</a></td><td class="last">2009/3/13 公告</td><td>  </td></tr><tr class="white_bg"><td><a href="./manasystem/files/budget/2011322145055_1.pdf" target="_blank" title="97年預算書(另開新視窗)">97年預算書</a></td><td class="last">2008/8/19 公告</td><td>  </td></tr><tr class="gray_bg"><td><a href="./manasystem/files/budget/2011322145134_1.pdf" target="_blank" title="96年預算書(另開新視窗)">96年預算書</a></td><td class="last">2007/10/31 公告</td><td>  </td></tr><tr class="white_bg"><td><a href="./manasystem/files/budget/2011322145216_1.pdf" target="_blank" title="95年預算書(另開新視窗)">95年預算書</a></td><td class="last">2006/10/31 公告</td><td>  </td></tr></tbody></table 
+<br class="CLEAR"/>
+</div>
+
+
+
+</div>
+
+<div id="FOOTER"> 
+  <div class="footer_content">
+  <div class="footer_img"><img src="images/Logo2.gif" width="299" height="55" alt="臺灣臺中地方法院" /></div>
+    <div class="footer_contact">
+      <p>臺灣臺中地方法院 版權所有&copy; 2010 Taiwan Taichung District Court, All Rights Reserved. 建議使用最佳解析度 1280 x 1024.<br />
+      <span class="color3">40342 臺中市自由路一段91號  TEL:(04)2223-2311</span><br />
+      <span class="color2">42743 臺中市潭子區豐興路一段139號 (公證處 TEL：04-25394305, 25394306)</span><br />
+      <span class="color2">42743 臺中市潭子區豐興路一段139號 (豐原簡易庭 TEL：04-25381698)</span><br />
+      <span class="color2">42743 臺中市潭子區豐興路一段139號 (行政訴訟庭 TEL：04-25381698)</span><br />
+      <span class="color1">43344 臺中市沙鹿區中山路689號 (沙鹿簡易庭) TEL：04-26236621</span></p>
+</div>
+  </div>
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,579 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="zh-TW">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<LINK href="doc/root.css" type=text/css rel=stylesheet>
+<title>臺灣嘉義地方法院統計及會計資訊公開網頁</title>
+
+<script  language="javascript" >
+var putItThere = null;
+var w = 0;
+var h = 0;
+var p ='';
+function deadCenter(p,w,h) {
+        if (window.screen) {
+var chasm = screen.availWidth;
+var mount = screen.availHeight;
+  putItThere = window.open(p,'posB','width=' + w + ',height=' + h + ',left=' + ((chasm - w - 10) * .5) + ',top=' + ((mount - h - 30) * .5));
+        }
+}
+</script>
+<NOSCRIPT>
+<P>此段是Script，不支援Script!
+</P>
+</NOSCRIPT>
+
+
+</head>
+<body bgcolor="#ffffff">
+<LINK href="css/css.css" type=text/css rel=stylesheet>
+<style>
+a {
+        text-decoration: none;
+        background: transparent;
+        color: #5b5f62;
+}
+.style1 {color: #5D9FCF}
+.title1 {
+        font-size : 18px;
+        color : #ffffff;
+        text-decoration:none; 
+        line-height : 18pt;
+}
+.title2 {
+        font-size : 18px;
+        color : #555555;
+        text-decoration:none; 
+        line-height : 18pt;
+}
+.title3 {
+        font-size : 18px;
+        color : # #513769;
+        text-decoration:none; 
+        line-height : 18pt;
+}
+.style2 {font-size: 18px}
+</style>
+<script language="JavaScript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+  var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+  if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+  if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+function MM_showHideLayers() { //v3.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+  if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+</script>
+<NOSCRIPT>
+<P>此段是Script，不支援Script!
+</P>
+</NOSCRIPT>
+<style>
+.title2 {
+	font-size : 18px;
+	color : #555555;
+	text-decoration:none; 
+	line-height : 18pt;
+}
+.title3 {
+	font-size : 18px;
+	color : # #513769;
+	text-decoration:none; 
+	line-height : 18pt;
+}
+</style>
+
+<div ID="wavemessage" style="position:absolute; filter:wave()"></div>
+
+	<div id="menu2" style="position:absolute; left:150px;top:320px; width:140px; height:80px; z-index:1; background-color: #FFFFFF; layer-background-color: #FFFFFF; border: 1px none #000000; visibility: hidden" onfocus="" onmouseover="MM_showHideLayers('menu2','','show')" onblur="" onmouseout="MM_showHideLayers('menu2','','hide')"> 
+		<table width="100%" BORDER="1"  bordercolor="#FFFFFF" cellspacing="1" cellpadding="1" summary="排版表格">
+			
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=156" ><span class="title3">本院簡介</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://cyd.judicial.gov.tw/images/cyd_org.jpg" target="_blank"><span class="title3">本院組織架構</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="MM_showHideLayers('menu11','','show')" onmouseout="MM_showHideLayers('menu11','','hide')" onfocus="" onblur=""><span class="title3">本院特色</span><img src=dot.gif alt="下選單"></td></tr>						
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=12" ><span class="title3">聯絡資訊</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=13" ><span class="title3">遷院紀事</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=169" ><span class="title3">法庭席位圖</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="news3.asp" ><span class="title3">政府資訊公開服務 </span></a></td></tr>
+				
+  		</table>
+	</div>
+  
+			<div id="menu11" style="position:absolute; left:240px;top:385px; width:200px; height:20px; z-index:1; background-color: #FFFFFF; layer-background-color: #FFFFFF; border: 1px none #000000; visibility: hidden" onfocus="" onmouseover="MM_showHideLayers('menu11','','show');MM_showHideLayers('menu2','','show');" onblur="" onmouseout="MM_showHideLayers('menu11','','hide');MM_showHideLayers('menu2','','hide');"> 
+			<table width="100%" BORDER="1"  bordercolor="#FFFFFF" cellspacing="1" cellpadding="1" summary="排版表格">
+				
+							<tr><td bgcolor="#cecdff" onmouseover="{this.style.background=&quot;#8e8dba&quot;}" onmouseout="{this.style.background=&quot;#cecdff&quot;}" onfocus="" onblur=""><a href="show.asp?id=74" ><span class="title2">聯合服務中心</span></a></td></tr>
+						
+							<tr><td bgcolor="#cecdff" onmouseover="{this.style.background=&quot;#8e8dba&quot;}" onmouseout="{this.style.background=&quot;#cecdff&quot;}" onfocus="" onblur=""><a href="show.asp?id=75" ><span class="title2">與民有約活動</span></a></td></tr>
+						
+							<tr><td bgcolor="#cecdff" onmouseover="{this.style.background=&quot;#8e8dba&quot;}" onmouseout="{this.style.background=&quot;#cecdff&quot;}" onfocus="" onblur=""><a href="show.asp?id=76" ><span class="title2">民事調解業務</span></a></td></tr>
+						
+							<tr><td bgcolor="#cecdff" onmouseover="{this.style.background=&quot;#8e8dba&quot;}" onmouseout="{this.style.background=&quot;#cecdff&quot;}" onfocus="" onblur=""><a href="show.asp?id=77" ><span class="title2">推廣法治教育</span></a></td></tr>
+						
+							<tr><td bgcolor="#cecdff" onmouseover="{this.style.background=&quot;#8e8dba&quot;}" onmouseout="{this.style.background=&quot;#cecdff&quot;}" onfocus="" onblur=""><a href="show.asp?id=78" ><span class="title2">雙向指認系統</span></a></td></tr>
+						
+							<tr><td bgcolor="#cecdff" onmouseover="{this.style.background=&quot;#8e8dba&quot;}" onmouseout="{this.style.background=&quot;#cecdff&quot;}" onfocus="" onblur=""><a href="show.asp?id=79" ><span class="title2">日治時代資料</span></a></td></tr>
+						
+							<tr><td bgcolor="#cecdff" onmouseover="{this.style.background=&quot;#8e8dba&quot;}" onmouseout="{this.style.background=&quot;#cecdff&quot;}" onfocus="" onblur=""><a href="show.asp?id=195" ><span class="title2">公共藝術介紹</span></a></td></tr>
+						
+			</table>
+		</div>
+		
+	<div id="menu3" style="position:absolute; left:250px;top:320px; width:140px; height:80px; z-index:1; background-color: #FFFFFF; layer-background-color: #FFFFFF; border: 1px none #000000; visibility: hidden" onfocus="" onmouseover="MM_showHideLayers('menu3','','show')" onblur="" onmouseout="MM_showHideLayers('menu3','','hide')"> 
+		<table width="100%" BORDER="1"  bordercolor="#FFFFFF" cellspacing="1" cellpadding="1" summary="排版表格">
+			
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=15" ><span class="title3">民事審判</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=16" ><span class="title3">民事執行</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=17" ><span class="title3">刑事審判</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=217" ><span class="title3">人民觀審條例草案</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=18" ><span class="title3">少年家事</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=19" ><span class="title3">公證業務</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=21" ><span class="title3">法人登記</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=22" ><span class="title3">夫妻登記</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=188" ><span class="title3">提存業務</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=193" ><span class="title3">非訟中心</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=216" ><span class="title3">行政訴訟</span></a></td></tr>
+				
+  		</table>
+	</div>
+  
+	<div id="menu4" style="position:absolute; left:350px;top:320px; width:140px; height:80px; z-index:1; background-color: #FFFFFF; layer-background-color: #FFFFFF; border: 1px none #000000; visibility: hidden" onfocus="" onmouseover="MM_showHideLayers('menu4','','show')" onblur="" onmouseout="MM_showHideLayers('menu4','','hide')"> 
+		<table width="100%" BORDER="1"  bordercolor="#FFFFFF" cellspacing="1" cellpadding="1" summary="排版表格">
+			
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="https://efiling.judicial.gov.tw" target="_blank"><span class="title3">民事線上起訴專區</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=234" target="_blank"><span class="title3">行政訴訟線上起訴業務專區</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://csdi.judicial.gov.tw/abbs/wkw/WHD3A01.jsp?court=CYD" target="_blank"><span class="title3">庭期查詢</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://www.judicial.gov.tw/ctstate/getctstate.asp?courtcode=CYD" target="_blank"><span class="title3">開庭進度查詢</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://cyd.judicial.gov.tw/detail.asp?type=news&id=4251" target="_blank"><span class="title3">案件進度查詢</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://www.judicial.gov.tw/db/alx.asp" target="_blank"><span class="title3">法拍屋公告</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://csdi.judicial.gov.tw/abbs/wkw/WHD1A01.jsp?court=CYD" target="_blank"><span class="title3">裁判主文公告</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://jirs.judicial.gov.tw/FJUD" target="_blank"><span class="title3">裁判書查詢</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://www.judicial.gov.tw/work/work04.asp" target="_blank"><span class="title3">電子筆錄調閱</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://cyd.judicial.gov.tw/images/pro_court.pdf" target="_blank"><span class="title3">專業法庭設置情形 </span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://cyd.judicial.gov.tw/images/律師閱卷操作手冊.pdf" target="_blank"><span class="title3">律師閱卷操作手冊</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://cyd.judicial.gov.tw/images/閱卷聲請書.doc" target="_blank"><span class="title3">本院閱卷聲請書下載</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://jirs.judicial.gov.tw/GNNWS/NNWSS003.asp?classFlag=z&Search=y&CourtId=CYD" target="_blank"><span class="title3">本院監護、輔助宣告</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://210.69.124.206/jud_k/wke/LoginFEXG.jsp" target="_blank"><span class="title3">訴訟文書上傳區</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://cyd.judicial.gov.tw/detail.asp?type=news&id=1378" target="_blank"><span class="title3">夜間收狀及假日服務時間及地點</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://tnh.judicial.gov.tw/9911/files/130.DOC" target="_blank"><span class="title3">特約通譯名冊</span></a></td></tr>
+				
+  		</table>
+	</div>
+  
+	<div id="menu5" style="position:absolute; left:450px;top:320px; width:140px; height:80px; z-index:1; background-color: #FFFFFF; layer-background-color: #FFFFFF; border: 1px none #000000; visibility: hidden" onfocus="" onmouseover="MM_showHideLayers('menu5','','show')" onblur="" onmouseout="MM_showHideLayers('menu5','','hide')"> 
+		<table width="100%" BORDER="1"  bordercolor="#FFFFFF" cellspacing="1" cellpadding="1" summary="排版表格">
+			
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://cyd.judicial.gov.tw/detail.asp?type=news&id=5380" target="_blank"><span class="title3">民事執行通訊投標</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=219" target="_blank"><span class="title3">刑事被告辦理具保責付之程序</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=218" target="_blank"><span class="title3">法庭旁聽注意事項</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://www.judicial.gov.tw/work/work13.asp" target="_blank"><span class="title3">消費者債務處理專區</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://210.69.124.112/abbs/wkw/WHD9A01.jsp" target="_blank"><span class="title3">消債事件公告系統</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://jirs.judicial.gov.tw/GNNWS/NNWSS001.asp?classFlag=k1&CourtId=CYD" target="_blank"><span class="title3">公示送達</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://www.judicial.gov.tw/assist/assist01.asp" target="_blank"><span class="title3">訴訟須知</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://www.judicial.gov.tw/assist/assist03.asp" target="_blank"><span class="title3">書狀範例下載</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://www.judicial.gov.tw/work/work02/work02-03.asp" target="_blank"><span class="title3">認識量刑協商</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://www.judicial.gov.tw/work/work05.asp" target="_blank"><span class="title3">法院遠距訊問</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://www.judicial.gov.tw/assist/assist04.asp" target="_blank"><span class="title3">民事費用標準</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://jirs.judicial.gov.tw/GNNWS/NNWSS003.asp?classFlag=a" target="_blank"><span class="title3">司法最新動態</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://210.69.124.208/bank/INDEX.jsp" target="_blank"><span class="title3">民執遠端登錄</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="https://dpas.judicial.gov.tw/eRender/ " target="_blank"><span class="title3">督促程序自動化 </span></a></td></tr>
+				
+  		</table>
+	</div>
+  
+	<div id="menu6" style="position:absolute; left:550px;top:320px; width:140px; height:80px; z-index:1; background-color: #FFFFFF; layer-background-color: #FFFFFF; border: 1px none #000000; visibility: hidden" onfocus="" onmouseover="MM_showHideLayers('menu6','','show')" onblur="" onmouseout="MM_showHideLayers('menu6','','hide')"> 
+		<table width="100%" BORDER="1"  bordercolor="#FFFFFF" cellspacing="1" cellpadding="1" summary="排版表格">
+			
+					<tr><td bgcolor="#ccffff" onmouseover="MM_showHideLayers('menu36','','show')" onmouseout="MM_showHideLayers('menu36','','hide')" onfocus="" onblur=""><span class="title3">與民有約</span><img src=dot.gif alt="下選單"></td></tr>						
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="http://www.judicial.gov.tw/email/List.asp" target="_blank"><span class="title3">司法信箱</span></a></td></tr>
+				
+  		</table>
+	</div>
+  
+			<div id="menu36" style="position:absolute; left:640px;top:335px; width:200px; height:20px; z-index:1; background-color: #FFFFFF; layer-background-color: #FFFFFF; border: 1px none #000000; visibility: hidden" onfocus="" onmouseover="MM_showHideLayers('menu36','','show');MM_showHideLayers('menu6','','show');" onblur="" onmouseout="MM_showHideLayers('menu36','','hide');MM_showHideLayers('menu6','','hide');"> 
+			<table width="100%" BORDER="1"  bordercolor="#FFFFFF" cellspacing="1" cellpadding="1" summary="排版表格">
+				
+							<tr><td bgcolor="#cecdff" onmouseover="{this.style.background=&quot;#8e8dba&quot;}" onmouseout="{this.style.background=&quot;#cecdff&quot;}" onfocus="" onblur=""><a href="show.asp?id=39" ><span class="title2">與民有約宣導</span></a></td></tr>
+						
+							<tr><td bgcolor="#cecdff" onmouseover="{this.style.background=&quot;#8e8dba&quot;}" onmouseout="{this.style.background=&quot;#cecdff&quot;}" onfocus="" onblur=""><a href="show.asp?id=40" ><span class="title2">參訪須知及表格下載</span></a></td></tr>
+						
+							<tr><td bgcolor="#cecdff" onmouseover="{this.style.background=&quot;#8e8dba&quot;}" onmouseout="{this.style.background=&quot;#cecdff&quot;}" onfocus="" onblur=""><a href="http://cyd.judicial.gov.tw/images/法院參觀行程表.pdf" ><span class="title2">與民有約行程</span></a></td></tr>
+						
+							<tr><td bgcolor="#cecdff" onmouseover="{this.style.background=&quot;#8e8dba&quot;}" onmouseout="{this.style.background=&quot;#cecdff&quot;}" onfocus="" onblur=""><a href="show.asp?id=42" ><span class="title2">民眾參訪心得</span></a></td></tr>
+						
+							<tr><td bgcolor="#cecdff" onmouseover="{this.style.background=&quot;#8e8dba&quot;}" onmouseout="{this.style.background=&quot;#cecdff&quot;}" onfocus="" onblur=""><a href="show.asp?id=53" ><span class="title2">民眾參訪照片</span></a></td></tr>
+						
+			</table>
+		</div>
+		
+	<div id="menu7" style="position:absolute; left:650px;top:320px; width:140px; height:80px; z-index:1; background-color: #FFFFFF; layer-background-color: #FFFFFF; border: 1px none #000000; visibility: hidden" onfocus="" onmouseover="MM_showHideLayers('menu7','','show')" onblur="" onmouseout="MM_showHideLayers('menu7','','hide')"> 
+		<table width="100%" BORDER="1"  bordercolor="#FFFFFF" cellspacing="1" cellpadding="1" summary="排版表格">
+			
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="news2.asp" target="_blank"><span class="title3">政風室專頁</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=220" target="_blank"><span class="title3">業務職掌</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=221" target="_blank"><span class="title3">組織編制</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=222" target="_blank"><span class="title3">公職人員財產申報查閱專區</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=223" target="_blank"><span class="title3">公務員廉政倫理規範專區</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=224" target="_blank"><span class="title3">廉政會報專區</span></a></td></tr>
+				
+					<tr><td bgcolor="#ccffff" onmouseover="{this.style.background=&quot;#87c1c6&quot;}" onmouseout="{this.style.background=&quot;#ccffff&quot;}" onfocus="" onblur=""><a href="show.asp?id=225" target="_blank"><span class="title3">廉政署宣導專區</span></a></td></tr>
+				
+  		</table>
+	</div>
+  
+<form name=f1>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" summary="此表內容包括嘉義地方法院說明Flash檔案及功能表單"><tr><td>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" summary="此表內容為線條圖片">
+  <tr><td><img src=images/r000.gif alt="圖片名稱"></td></tr>
+</table>
+<table width="100%" height="6%" border="0" cellpadding="0" cellspacing="0"  summary="此表內容包括嘉義地方法院Logo">
+  <tr>
+    <td width=26%><img src=images/index3_03.gif alt="臺灣嘉義地方法院" width=292 height="61"></td>
+        <td valign="baseline"><table border="0" cellpadding="0" cellspacing="0" align="right" summary="排版用表格">
+          <tr >
+        <td align=right><img src=images/top_1.jpg alt="圖片名稱" width=10 height=37></td>
+                <td background="images/top_3.jpg" width=90% align=center>
+                <a  accesskey="T" title="上方選單選擇區" href="/sitemap.htm">:::</a>
+                        <span class="style1">|</span><a href="en/index.asp" title="英文版"><span class="title1">English</span></a>&nbsp;
+                        <span class="style1">|</span><a href="probation/default.html" title="調查保護"><span class="title1">調查保護</span></a>&nbsp;&nbsp;
+                        <span class="style1">|</span><a href="mailto:cydll@mail.judicial.gov.tw" title="意見信箱"><span class="title1">意見信箱</span></a>&nbsp;&nbsp;
+                        <span class="style1">|</span><a href="sitemap.asp" title="網站導覽" accesskey="0"><span class="title1">網站導覽</span></a>&nbsp;&nbsp;
+                        <span class="style1"></span></span><span class="style1">|</span><a href="qa.asp" title="常見問答" ><span class="title1">常見問答</span></a>&nbsp;&nbsp;
+                        <a href="index.asp" title="回首頁"  accesskey="1"><span class="title1">回首頁</span></a>
+                </td>
+                <td ><img src=images/top_2.jpg  alt="圖片名稱" width="10" height="37"></td>
+      </tr>
+        </table></td>
+  </tr> 
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" summary="排版用表格">
+  <tr>
+    <td>
+        
+                 <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=version=7,0,19,0" width="1002" height="226">
+                        <param name="movie" value="adver\index.swf">
+                        <param name="quality" value="high">
+                        <embed src="adver\index.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="1002" height="226"></embed>                
+                        臺灣嘉義地方法院
+                </object>                               
+        
+        </td>
+  </tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" summary="排版用文字">
+        <TR> 
+                
+                                        <TD align="right"><img src="images/bbanner_1.gif" alt="圖片名稱" width=12 height=35></TD>            
+                            
+                                        <TD align="center" width="10%" background="images/banner_2.gif"><a href="news.asp" ><span class="title1">最新消息</span></a></td>
+                                
+                                        <TD align="left"><img src="images/banner_3.gif" alt="圖片名稱" width=6 height=34></TD>
+                                
+                                        <TD align="right" ><img src="images/banner_4.gif" alt="圖片名稱" width=10height=35></TD>             
+                                
+                                        <TD align="center" width="10%" background="images/banner_2.gif" onmouseover="MM_showHideLayers('menu2','','show')" onmouseout="MM_showHideLayers('menu2','','hide')" onfocus="MM_showHideLayers('menu2','','show')" onblur="MM_showHideLayers('menu2','','hide')"><span class="title1">本院導覽</span></td>
+                            
+                                        <TD align="left"><img src="images/banner_3.gif" alt="圖片名稱" width=6 height=34></TD>
+                                
+                                        <TD align="right" ><img src="images/banner_4.gif" alt="圖片名稱" width=10height=35></TD>             
+                                
+                                        <TD align="center" width="10%" background="images/banner_2.gif" onmouseover="MM_showHideLayers('menu3','','show')" onmouseout="MM_showHideLayers('menu3','','hide')" onfocus="MM_showHideLayers('menu3','','show')" onblur="MM_showHideLayers('menu3','','hide')"><span class="title1">業務簡介</span></td>
+                            
+                                        <TD align="left"><img src="images/banner_3.gif" alt="圖片名稱" width=6 height=34></TD>
+                                
+                                        <TD align="right" ><img src="images/banner_4.gif" alt="圖片名稱" width=10height=35></TD>             
+                                
+                                        <TD align="center" width="10%" background="images/banner_2.gif" onmouseover="MM_showHideLayers('menu4','','show')" onmouseout="MM_showHideLayers('menu4','','hide')" onfocus="MM_showHideLayers('menu4','','show')" onblur="MM_showHideLayers('menu4','','hide')"><span class="title1">業務查詢</span></td>
+                            
+                                        <TD align="left"><img src="images/banner_3.gif" alt="圖片名稱" width=6 height=34></TD>
+                                
+                                        <TD align="right" ><img src="images/banner_4.gif" alt="圖片名稱" width=10height=35></TD>             
+                                
+                                        <TD align="center" width="10%" background="images/banner_2.gif" onmouseover="MM_showHideLayers('menu5','','show')" onmouseout="MM_showHideLayers('menu5','','hide')" onfocus="MM_showHideLayers('menu5','','show')" onblur="MM_showHideLayers('menu5','','hide')"><span class="title1">業務宣導</span></td>
+                            
+                                        <TD align="left"><img src="images/banner_3.gif" alt="圖片名稱" width=6 height=34></TD>
+                                
+                                        <TD align="right" ><img src="images/banner_4.gif" alt="圖片名稱" width=10height=35></TD>             
+                                
+                                        <TD align="center" width="10%" background="images/banner_2.gif" onmouseover="MM_showHideLayers('menu6','','show')" onmouseout="MM_showHideLayers('menu6','','hide')" onfocus="MM_showHideLayers('menu6','','show')" onblur="MM_showHideLayers('menu6','','hide')"><span class="title1">與民互動</span></td>
+                            
+                                        <TD align="left"><img src="images/banner_3.gif" alt="圖片名稱" width=6 height=34></TD>
+                                
+                                        <TD align="right" ><img src="images/banner_4.gif" alt="圖片名稱" width=10height=35></TD>             
+                                
+                                        <TD align="center" width="10%" background="images/banner_2.gif" onmouseover="MM_showHideLayers('menu7','','show')" onmouseout="MM_showHideLayers('menu7','','hide')" onfocus="MM_showHideLayers('menu7','','show')" onblur="MM_showHideLayers('menu7','','hide')"><span class="title1">政風專欄</span></td>
+                            
+                                        <TD align="left"><img src="images/banner_3.gif" alt="圖片名稱" width=6 height=34></TD>
+                                
+                                        <TD align="right" ><img src="images/banner_4.gif" alt="圖片名稱" width=10height=35></TD>             
+                                
+                                        <TD align="center" width="10%" background="images/banner_2.gif"><a href="links.asp" ><span class="title1">網站連結</span></a></td>
+                                
+                                        <TD align="left"><img src="images/banner_3.gif" alt="圖片名稱" width=6 height=34></TD>
+                                
+                                        <TD align="right" ><img src="images/banner_4.gif" alt="圖片名稱" width=10height=35></TD>             
+                                
+                                        <TD align="center" width="10%" background="images/banner_2.gif"><a href="search.asp" ><span class="title1">全站搜尋</span></a></td>
+                                
+                                        <TD align="left"><img src="images/banner_3.gif" alt="圖片名稱" width=6 height=34></TD>
+                                
+                                        <TD align="right" ><img src="images/banner_4.gif" alt="圖片名稱" width=10height=35></TD>             
+                                
+                                        <TD align="center" width="10%" background="images/banner_2.gif"><a href="http://cyd.judicial.gov.tw/show.asp?id=12" ><span class="title1">聯絡資訊</span></a></td>
+                                
+                                        <TD align="left"><img src="images/banner_5.gif" alt="圖片名稱" width=6 height=34></TD>
+                                
+        </tr>
+</table> 
+</td></tr></table>
+</form>
+
+<center>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" summary="排版用表格">
+   <tr>     
+    <td width=10% align="center"><img src="images/index3_23.gif" width="66" height="47"  alt="pic3_23"/></td>
+    <td width=80% height="2%" valign="bottom" align="left" >
+     <A title="內容顯示區"  accessKey="C" href="/sitemap.asp">:::</a>
+    <span class="STYLE4">臺灣嘉義地方法院資訊公開網頁</span></td>                    
+  </tr>
+   <tr>
+     <td height="1%" colspan="3"  valign="bottom"><img src="images/index3_103.gif" width="1000" height="10" alt="pic3_103"></td>
+   </tr>   
+</table>
+<style type="text/css">
+ a:link /*超連結文字格式*/ { 
+	    color: #3333CC;/*文字色彩*/ 
+        }
+        a:hover /*滑鼠移至連結*/ {
+	    color: #FA8000;/*文字色彩*/ 
+        }
+        a:active/*按下連結的格式*/ {
+	    color: #3333CC;/*文字色彩*/
+        }
+        a:visited /*瀏覽過的連結文字格式*/ {
+	    color: #3333CC;/*文字色彩*/
+        }
+</style>
+<TABLE width="90%" border=1>
+    <Caption><br>
+    </Caption>
+    <TBODY> 
+    <TR > 
+      <TH width="9%" align="center" class="t-1">項目</TH>
+      <th width="17%" align="center" class="t-1">內容</th>
+      <TH width="74%" align="center" class="t-1">提供年度月份及日期說明</TH>
+    </TR>
+
+    <TR>
+      <TD height="40" align="left" class="t-2"><div align="center">研考科</div></TD>
+      <td height="40" align="center" class="p-2"><div align="left">年度工作計畫</div></td>
+      <TD align="center" height="40">
+      <p align="left">
+      <a href="doc/96plan.pdf" target="_blank" title="96施政計畫"><font size="3" color=#3333CC>96</font></a>(提供日期96.5.1)&nbsp;<a href="doc/97plan.pdf" target="_blank"title="97施政計畫" ><font size="3" color=#3333CC>97</font></a>(提供日期97.5.21)&nbsp;<a href="doc/98plan.pdf" target="_blank"title="98施政計畫" ><font size="3" color=#3333CC>98</font></a>(提供日期98.5.1)&nbsp;<a href="doc/100plan.pdf" target="_blank" title="100施政計畫"><font size="3" color=#3333CC>100</font></a>(提供日期100.9.21)&nbsp;<a href="doc/101plan.pdf" target="_blank"title="101施政計畫" ><font size="3" color=#3333CC>101</font></a>(提供日期101.5.29)&nbsp;<br>
+      <a href="doc/102plan.pdf" target="_blank"title="102施政計畫" ><font size="3" color=#3333CC>102</font></a>(提供日期102.5.8)&nbsp;<a href="doc/103plan.pdf" target="_blank"title="103施政計畫" ><font size="3" color=#3333CC>103</font></a>(提供日期103.4.17)&nbsp;<a href="doc/104plan.pdf" target="_blank"title="104施政計畫" ><font size="3" color=#3333CC>104</font></a>(提供日期104.3.5)&nbsp;<a href="doc/105plan.pdf" target="_blank"title="105施政計畫" ><font size="3" color=#3333CC>105</font></a>(提供日期105.3.30)&nbsp;<br>
+      </p>
+      </TD>
+    </TR>
+    <TR>
+      <TD height="40" align="center" class="t-2">統計室</TD>
+      <td height="40" align="center" class="p-2"><div align="left">業務統計年報及月報</div></td>
+      <TD align="center" height="40">
+        <div align="left">
+        <p><font size="3">年報</font><br>
+           <a href="doc/91stat.pdf" target="_blank" title="91各類案件統計"><font size="3" color=#3333CC>91</font></a>(提供日期92.2.1)&nbsp;<a href="doc/92stat.pdf" target="_blank" title="92各類案件統計"><font size="3" color=#3333CC>92</font></a>(提供日期93.2.1)&nbsp;
+           <a href="doc/93stat.pdf" target="_blank" title="93各類案件統計"><font size="3" color=#3333CC>93</font></a>(提供日期94.2.1)&nbsp;<a href="doc/94stat.pdf" target="_blank" title="94各類案件統計"><font size="3" color=#3333CC>94</font></a>(提供日期95.2.1)<br>
+           <a href="doc/95stat.pdf" target="_blank" title="95各類案件統計"><font size="3" color=#3333CC>95</font></a>(提供日期96.2.1)&nbsp;<a href="doc/96stat.pdf" target="_blank" title="96各類案件統計"><font size="3" color=#3333CC>96</font></a>(提供日期97.2.1)      
+           <a href="doc/97stat.pdf" target="_blank" title="97各類案件統計"><font size="3" color=#3333CC>97</font></a>(提供日期98.2.1)&nbsp;<a href="doc/98stat.pdf" target="_blank" title="98各類案件統計"><font size="3" color=#3333CC>98</font></a>(提供日期99.1.19)<br>
+           <a href="doc/99stat.pdf" target="_blank" title="99各類案件統計"><font size="3" color=#3333CC>99</font></a>(提供日期100.1.18)&nbsp;<a href="doc/100stat.pdf" target="_blank" title="100各類案件統計"><font size="3" color=#3333CC>100</font></a>(提供日期101.1.18)
+           <a href="doc/101stat.pdf" target="_blank" title="101各類案件統計"><font size="3" color=#3333CC>101</font></a>(提供日期102.1.21)&nbsp;<a href="doc/102stat.pdf" target="_blank" title="102各類案件統計"><font size="3" color=#3333CC>102</font></a>(提供日期103.1.17)&nbsp;<br>
+           <a href="doc/103stat.pdf" target="_blank" title="103各類案件統計"><font size="3" color=#3333CC>103</font></a>(提供日期104.1.14)&nbsp;<a href="doc/104stat.pdf" target="_blank" title="104各類案件統計"><font size="3" color=#3333CC>104</font></a>(提供日期105.1.15)&nbsp;<br>
+           <font size="3">月報</font><br>
+           <a href="doc/10501stat.pdf" target="_blank" title="10501各類案件統計"><font size="2" color=#3333CC>10501</font></a>(提供日期105.2.22)&nbsp;<a href="doc/10502stat.pdf" target="_blank" title="10502各類案件統計"><font size="2" color=#3333CC>10502</font></a>(提供日期105.3.14)&nbsp;<a href="doc/10503stat.pdf" target="_blank" title="10503各類案件統計"><font size="2" color=#3333CC>10503</font></a>(提供日期105.4.14)&nbsp;<a href="doc/10504stat.pdf" target="_blank" title="10504各類案件統計"><font size="2" color=#3333CC>10504</font></a>(提供日期105.5.16)<br>
+           <a href="doc/10505stat.pdf" target="_blank" title="10505各類案件統計"><font size="2" color=#3333CC>10505</font></a>(提供日期105.6.15)&nbsp;<a href="doc/10506stat.pdf" target="_blank" title="10506各類案件統計"><font size="2" color=#3333CC>10506</font></a>(提供日期105.7.18)&nbsp;<a href="doc/10507stat.pdf" target="_blank" title="10507各類案件統計"><font size="2" color=#3333CC>10507</font></a>(提供日期105.8.15)&nbsp;<a href="doc/10508stat.pdf" target="_blank" title="10508各類案件統計"><font size="2" color=#3333CC>10508</font></a>(提供日期105.9.20)<br>
+           <a href="doc/10509stat.pdf" target="_blank" title="10509各類案件統計"><font size="2" color=#3333CC>10509</font></a>(提供日期105.10.18)&nbsp;<br>
+       </p></div></TD>
+    </TR>
+    <TR> 
+      <TD height="40" align="left" class="t-2">
+        <div align="center">&nbsp;</div>      </TD>
+      <td width="17%" height="55" align="center" class="p-2"><div align="left">通訊監察業務統計年報</div></td>
+      <TD align="center" width="74%" height="55"> 
+        <div align="left">
+            <a href="doc/103stat_con.pdf" target="_blank" title="103通訊監察業務統計年報"><font size="2" color=#3333CC>103</font></a>(提供日期104.9.22)&nbsp;<a href="doc/104stat_con.pdf" target="_blank" title="104通訊監察業務統計年報"><font size="2" color=#3333CC>104</font></a>(提供日期105.1.27)&nbsp;<br>
+       </div>
+    </TR>
+    <TR> 
+      <TD height="40" align="left" class="t-2">
+        <div align="center">&nbsp;</div>      </TD>
+      <td width="17%" height="55" align="center" class="p-2"><div align="left">研究報告</div></td>
+      <TD align="center" width="74%" height="55"> 
+        <div align="left"><font size="3" >受理國家賠償件數統計說明</font>
+            <a href="doc/96stat_con.pdf" target="_blank" title="94至96年受理國家賠償件數統計說明"><font size="2" color=#3333CC>94至96年</font></a><br>
+        </div></TD>
+    </TR>
+    
+    <TR>
+      <TD align="left" class="t-2"><div align="center">會計室</div></TD>
+      <td align="center" class="p-2"><div align="left">預算書</div></td>
+      <TD align="center"><div align="left">
+        <a href="doc/95.tif" target="_blank" title="95預算書"><font size="3" color=#3333CC>95</font></a>(提供日期95.3.16) <a href="doc/96.tif" target="_blank"title="96預算書" ><font size="3" color=#3333CC>96</font></a>(提供日期96.3.16) <a href="doc/97.tif" target="_blank" title="97預算書"><font size="3" color=#3333CC>97</font></a>(提供日期97.3.18) <a href="doc/98.tif" target="_blank" title="98預算書"><font size="3" color=#3333CC>98</font></a>(提供日期98.3.6)<br>
+        <a href="doc/99.tif" target="_blank" title="99預算書"><font size="3" color=#3333CC>99</font></a>(提供日期99.3.9) <a href="doc/100.tif" target="_blank" title="100預算書"><font size="3" color=#3333CC>100</font></a>(提供日期100.3.8)<a href="doc/101.tif" target="_blank" title="101預算書"><font size="3" color=#3333CC>101</font></a>(提供日期100.2.20)<br>
+        <a href="doc/102i_1.tif" target="_blank" title="102預算書"><font size="3" color=#3333CC>102(預算案)</font></a>(提供日期102.4.8) <a href="doc/102i_2.pdf" target="_blank" title="102法定預算書"><font size="3" color=#3333CC>102(法定預算)</font></a>(提供日期102.4.8) <br>
+        <a href="doc/103i_1.pdf" target="_blank" title="103預算書"><font size="3" color=#3333CC>103(預算案)</font></a>(提供日期103.3.3) <a href="doc/103i_2.pdf" target="_blank" title="103法定預算書"><font size="3" color=#3333CC>103(法定預算)</font></a>(提供日期103.3.18)<br>
+        <a href="doc/104i_1.pdf" target="_blank" title="104預算書PDF"><font size="3" color=#3333CC>104(預算案)(PDF格式)</font></a>(提供日期103.9.3) <a href="doc/104i_1.zip" target="_blank" title="104預算書XML"><font size="3" color=#3333CC>104(預算案)(XML壓縮下載檔)</font></a>(提供日期104.3.4) <br>
+        <a href="doc/104i_2.pdf" target="_blank" title="104法定預算書PDF"><font size="3" color=#3333CC>104(法定預算)(PDF格式)</font></a>(提供日期104.3.4) <a href="doc/104i_2.zip" target="_blank" title="104法定預算書XML"><font size="3" color=#3333CC>104(法定預算)(XML壓縮下載檔)</font></a>(提供日期104.3.4) <br>
+        <a href="doc/104i_2tot.doc" target="_blank" title="104法定預算書總說明"><font size="3" color=#3333CC>104(法定預算總說明)(word格式)</font></a>(提供日期104.3.6) <a href="doc/104i_2tab.zip" target="_blank" title="104法定預算書各表Excel"><font size="3" color=#3333CC>104(法定預算各表)(Excel壓縮下載檔)</font></a>(提供日期104.3.6) <br>
+        <a href="doc/105i_1.pdf" target="_blank" title="105預算書PDF"><font size="3" color=#3333CC>105(預算案)(PDF格式)</font></a>(提供日期104.9.2) <a href="doc/105i_1.zip" target="_blank" title="105預算書XML"><font size="3" color=#3333CC>105(預算案)(XML壓縮下載檔)</font></a>(提供日期104.9.2) <br>
+        <a href="doc/105i_2.pdf" target="_blank" title="105法定預算書PDF"><font size="3" color=#3333CC>105(法定預算)(PDF格式)</font></a>(提供日期105.1.26) <a href="doc/105i_2.zip" target="_blank" title="105法定預算書XML"><font size="3" color=#3333CC>105(法定預算)(XML壓縮下載檔)</font></a>(提供日期105.1.26) <br>
+        <a href="doc/105i_2tot.doc" target="_blank" title="105法定預算書總說明"><font size="3" color=#3333CC>105(法定預算總說明)(word格式)</font></a>(提供日期105.1.26) <a href="doc/105i_2tab.zip" target="_blank" title="105法定預算書各表Excel"><font size="3" color=#3333CC>105(法定預算各表)(Excel壓縮下載檔)</font></a>(提供日期105.1.26) <br>
+        <a href="doc/106i_1.pdf" target="_blank" title="106預算書PDF"><font size="3" color=#3333CC>106(預算案)(PDF格式)</font></a>(提供日期105.8.26) <a href="doc/106i_1.zip" target="_blank" title="106預算書XML"><font size="3" color=#3333CC>106(預算案)(XML壓縮下載檔)</font></a>(提供日期105.8.26) <br>
+        <a href="doc/106i_1tot.doc" target="_blank" title="106預算書總說明"><font size="3" color=#3333CC>106(預算總說明)(word格式)</font></a>(提供日期105.8.26) <a href="doc/106i_1tab.zip" target="_blank" title="106預算書各表Excel"><font size="3" color=#3333CC>106(預算書各表)(Excel壓縮下載檔)</font></a>(提供日期105.8.26) <br>
+
+      </div>
+        </font></TD>
+    </TR>
+    <TR>
+      <TD align="left" class="t-2">&nbsp;</TD>
+      <td align="center" class="p-2"><div align="left">會計月報</div></td>
+      <TD align="center"><p align="left">
+         <a href="doc/10501acc.pdf" target="_blank" title="10501會計月報"><font size="2" color=#3333CC>10501(PDF格式) </font></a> <a href="doc/10501acc.zip" target="_blank" title="10501會計月報XML"><font size="2" color=#3333CC>(XML壓縮下載檔) </font></a>(提供日期105.2.17)&nbsp;
+         <a href="doc/10502acc.pdf" target="_blank" title="10502會計月報"><font size="2" color=#3333CC>10502(PDF格式) </font></a> <a href="doc/10502acc.zip" target="_blank" title="10502會計月報XML"><font size="2" color=#3333CC>(XML壓縮下載檔) </font></a>(提供日期105.4.13)&nbsp;<br>
+         <a href="doc/10503acc.pdf" target="_blank" title="10503會計月報"><font size="2" color=#3333CC>10503(PDF格式) </font></a> <a href="doc/10503acc.zip" target="_blank" title="10503會計月報XML"><font size="2" color=#3333CC>(XML壓縮下載檔) </font></a>(提供日期105.4.13)&nbsp;
+         <a href="doc/10504acc.pdf" target="_blank" title="10504會計月報"><font size="2" color=#3333CC>10504(PDF格式) </font></a> <a href="doc/10504acc.zip" target="_blank" title="10504會計月報XML"><font size="2" color=#3333CC>(XML壓縮下載檔) </font></a>(提供日期105.5.9)&nbsp;<br>
+         <a href="doc/10505acc.pdf" target="_blank" title="10505會計月報"><font size="2" color=#3333CC>10505(PDF格式) </font></a> <a href="doc/10505acc.zip" target="_blank" title="10505會計月報XML"><font size="2" color=#3333CC>(XML壓縮下載檔) </font></a>(提供日期105.6.14)&nbsp;
+         <a href="doc/10506acc.pdf" target="_blank" title="10506會計月報"><font size="2" color=#3333CC>10506(PDF格式) </font></a> <a href="doc/10506acc.zip" target="_blank" title="10506會計月報XML"><font size="2" color=#3333CC>(XML壓縮下載檔) </font></a>(提供日期105.7.11)&nbsp;<br>
+         <a href="doc/10507acc.pdf" target="_blank" title="10507會計月報"><font size="2" color=#3333CC>10507(PDF格式) </font></a> <a href="doc/10507acc.zip" target="_blank" title="10507會計月報XML"><font size="2" color=#3333CC>(XML壓縮下載檔) </font></a>(提供日期105.8.8)&nbsp;
+         <a href="doc/10508acc.pdf" target="_blank" title="10508會計月報"><font size="2" color=#3333CC>10508(PDF格式) </font></a> <a href="doc/10508acc.zip" target="_blank" title="10508會計月報XML"><font size="2" color=#3333CC>(XML壓縮下載檔) </font></a>(提供日期105.9.8)&nbsp;<br>
+         <a href="doc/10509acc.pdf" target="_blank" title="10509會計月報"><font size="2" color=#3333CC>10509(PDF格式) </font></a> <a href="doc/10509acc.zip" target="_blank" title="10509會計月報XML"><font size="2" color=#3333CC>(XML壓縮下載檔) </font></a>(提供日期105.10.7)&nbsp;<br>
+     </TD>
+    </TR>
+    <TR> 
+      <TD height="40" align="left" class="t-2">
+        <div align="center">&nbsp;</div>      </TD>
+      <td width="17%" align="center" class="p-2"> 
+        <div align="left">決算書</div>      </td>
+      <TD align="center" width="74%"> 
+        <div align="left">
+          <a href="doc/94acc_io.pdf" target="_blank" title="94決算書"><font size="3" color=#3333CC>94</font></a>(提供日期95.2.22)
+          <a href="doc/95acc_io.pdf" target="_blank" title="95決算書"><font size="3" color=#3333CC>95</font></a>(提供日期96.2.23)
+          <a href="doc/96acc_io.pdf" target="_blank" title="96決算書"><font size="3" color=#3333CC>96</font></a>(提供日期97.2.25)
+          <a href="doc/97acc_io.tif" target="_blank" title="97決算書"><font size="3" color=#3333CC>97</font></a>(提供日期98.2.25)<br>
+          <a href="doc/98acc_io.tif" target="_blank" title="98決算書"><font size="3" color=#3333CC>98</font></a>(提供日期99.3.9)
+          <a href="doc/99acc_io.tif" target="_blank" title="99決算書"><font size="3" color=#3333CC>99</font></a>(提供日期100.2.21) 
+          <a href="doc/100acc_io.tif" target="_blank" title="100決算書"><font size="3" color=#3333CC>100</font></a>(提供日期101.5.7)
+          <a href="doc/101acc_io.pdf" target="_blank" title="101決算書"><font size="3" color=#3333CC>101</font></a>(提供日期102.2.27)<br>
+          <a href="doc/102acc_io.pdf" target="_blank" title="102決算書"><font size="3" color=#3333CC>102</font></a>(提供日期103.3.11)
+          <a href="doc/103acc_io.pdf" target="_blank" title="103決算書"><font size="3" color=#3333CC>103(PDF格式)</font></a>(提供日期104.3.27)
+          <a href="doc/103acc_io.zip" target="_blank" title="103決算書XML"><font size="3" color=#3333CC>103(XML壓縮下載檔)</font></a>(提供日期104.7.20)<br>
+          <a href="doc/104acc_io.pdf" target="_blank" title="104決算書"><font size="3" color=#3333CC>104(PDF格式)</font></a>(提供日期105.6.2修正)
+          <a href="doc/104acc_io.zip" target="_blank" title="104決算書XML"><font size="3" color=#3333CC>104(XML壓縮下載檔)</font></a>(提供日期105.6.2修正)<br>
+       </div>
+      </TD>
+    </TR>
+    </TBODY> 
+</TABLE>
+<br>
+  <!--p align="left"> 　　　其他： 收費標準</p-->
+</center>
+<link href="css/css.css" rel="stylesheet" type="text/css">
+<table width="100%" height="5%" border="0" cellpadding="0" cellspacing="0"  summary="排版用表格">
+  <tr> 
+    <td height=3% valign="bottom" bgcolor="5d9fcf" align="center"><a href="privacy.asp" title="隱私權政策" class="in-1" accesskey="p"><font color="#FFFFFF">版權宣告 
+      / 隱私權保護 / 網站安全政策</font></a></td>
+  </tr>
+  <tr> 
+    <td height="3%" align="center" valign="top" bgcolor="5d9fcf" class="in-1"><font color="#FFFFFF">臺灣嘉義地方法院 60072 嘉義巿林森東路282號  05-278-3671 網頁最佳顯示1024X768</font></td>
+  </tr>
+</table>
+
+<style type="text/css">
+ a:link /*超連結文字格式*/ { 
+	    color: #3333CC;/*文字色彩*/ 
+        }
+        a:hover /*滑鼠移至連結*/ {
+	    color: #FA8000;/*文字色彩*/ 
+        }
+        a:active/*按下連結的格式*/ {
+	    color: #3333CC;/*文字色彩*/
+        }
+        a:visited /*瀏覽過的連結文字格式*/ {
+	    color: #3333CC;/*文字色彩*/
+        }
+</style>
+
+</body>

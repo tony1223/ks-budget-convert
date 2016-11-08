@@ -1,0 +1,520 @@
+
+	<?xml version="1.0"  encoding="utf-8" ?>
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="zh-TW" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="urn:user-namespace-here" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>矯正署 - 法務部矯正署</title>
+<link href="xslGip/unit801/css/lp.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit801/css/style.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit801/css/common.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit801/css/fontSizeS.css" rel="stylesheet" type="text/css" title="size1"/>
+<link href="xslGip/unit801/css/fontSizeM.css" rel="alternate stylesheet" type="text/css" title="size2"/>
+<link href="xslGip/unit801/css/fontSizeL.css" rel="alternate stylesheet" type="text/css" title="size3"/>\
+			<script type="text/javascript" src="xslGip/unit801/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="xslGip/unit801/js/styleswitcher.js"></script>
+<script type="text/javascript" src="xslGip/unit801/js/multimenu.js"></script>
+<script type="text/javascript" src="xslGip/unit801/js/widgets_class.js"></script>
+<script type="text/javascript" src="xslGip/unit801/js/tab.js"></script>
+<script type="text/javascript" src="xslGip/unit801/js/jquery.flexslider.js"></script> 
+<link rel="govtwsimpledc.xsd" href="http://www.gov.tw/schema/dc/" title="Dublin Core"/>
+<meta name="DC.Title" content="矯正署" />
+<meta name="DC.Creator" content="法務部" />
+<meta name="DC.Subject" content="矯正署" />
+<meta name="DC.Description" content="矯正署" />
+<meta name="DC.Contributor" content="法務部" />
+<meta name="DC.Type" content="文字" />
+<meta name="DC.Format" content="text" />
+<meta name="DC.Source" content="法務部" />
+<meta name="DC.Language" content="中文" />
+<meta name="DC.coverage.t.min" content="2014-10-07" />
+<meta name="DC.coverage.t.max" content="2034-10-07" />
+<meta name="DC.Publisher" content="法務部" />
+<meta name="DC.Date" content="2016-11-07" />
+<meta name="DC.Identifier" content="A11000000F" />
+<meta name="DC.Relation" content="GIP-moj" />
+<meta name="DC.Rights" content="法務部" />
+<meta name="Category.Theme" content="" />
+<meta name="Category.Cake" content="" />
+<meta name="Category.Service" content="" />
+<meta name="Keywords" content="" />
+ <script type="text/javascript">
+				/*--- Begin of 20150817 --- for the height of mlmenu when two levels, by Vincent */
+				$(function(){
+					var menuWordCnt=0;
+					$(".mlmenu > ul > li > a:first-child").each(function(index){menuWordCnt += $(this).html().length;});
+					$(".mlmenu").height(menuWordCnt<40?"30px":menuWordCnt<80?"60px":"90px");
+				});
+				/*--- end of 20150817 ---*/</script>
+<noscript>
+<style type="text/css">
+					<!--
+					#vertnav ul, #vertnav ul ul {
+						display: block;
+						position: relative;
+						top: 0px;
+						left: 0px;
+					}
+					-->
+					</style>
+</noscript>
+</head>
+<body>
+<div id="all">
+<div class="top" xmlns="">
+<div id="WebTitle"><div class="logofont"><a href="mp.asp?mp=801" title="回法務部矯正署首頁"><img src="xslGip/unit801/images/LOGO%E7%87%88%E5%A1%94_20160114135719.jpg" alt="法務部矯正署" border="0"></a></div><div class="ETitle"></div></div>
+<div id="TopLink">
+<div class="TopLink_top"></div>
+<div class="TopLink_center"><span><a title="上欄" accesskey="U" href="#">:::</a></span><span><a title="網站導覽" href="sitemap.asp?mp=801">網站導覽</a></span><A title=首頁 href="http://www.mjac.moj.gov.tw/mp801.html">回首頁</A>
+<A title="署長信箱"  href="/ct.asp?xItem=390856&ctNode=28901&mp=801">署長信箱</A>
+<A title="民意信箱"  href="/ct.asp?xItem=390921&ctNode=40673&mp=801&emailid=2">民意信箱</A>
+<A title="行動版" href="http://www.mjac.moj.gov.tw/mp8011.html">行動版</A><A title="英文版" href="http://www.mjac.moj.gov.tw/mp802.html">English</A>
+<A title="法務部" href="http://www.moj.gov.tw/mp001.html">法務部</A>
+      <select name="" id="organ" onchange="javascript:window.document.location.href=this.value;"><option selected="selected" value="#">選擇分眾</option>
+        <option value="http://www.moj.gov.tw/lp.asp?CtNode=27528&CtUnit=8988&BaseDSD=7&mp=001">一般民眾</option>
+        <option value="http://www.moj.gov.tw/lp.asp?CtNode=27529&CtUnit=8988&BaseDSD=7&mp=001">政府機關</option>
+        <option value="http://www.moj.gov.tw/lp.asp?CtNode=27530&CtUnit=8988&BaseDSD=7&mp=001">法治教育</option>
+      </select></div>
+<div class="TopLink_bottom"></div>
+</div>
+<div class="fontSize" title="瀏覽字體設定"><ul>
+<li class="fontS"><a cat="font" href="#" onclick="setActiveStyleSheet('size1'); return false;" onkeypress="setActiveStyleSheet('size1'); return false;"><img src="images/null.gif" alt="小" title="小"></a></li>
+<li class="fontM"><a cat="font" href="#" onclick="setActiveStyleSheet('size2'); return false;" onkeypress="setActiveStyleSheet('size2'); return false;"><img src="images/null.gif" alt="中" title="中"></a></li>
+<li class="fontL"><a cat="font" href="#" onclick="setActiveStyleSheet('size3'); return false;" onkeypress="setActiveStyleSheet('size3'); return false;"><img src="images/null.gif" alt="大" title="大"></a></li>
+</ul>
+</div>
+<noscript>當SCRIPT關閉時，選擇字型大小，請參考：IE6請利用鍵盤按住ALT鍵 + V → X → (G)最大(L)較大(M)中(S)較小(A)小，來選擇適合您的文字大小,而IE7、IE8或Firefox瀏覽器則可利用鍵盤 Ctrl + (+)放大 (-)縮小來改變字型大小。</noscript>
+<div class="mlmenu menubg inaccesible arrow">
+<ul>
+<li><a href="np.asp?ctNode=29318&amp;mp=801" title="矯正署簡介">矯正署簡介</a><ul>
+<li><a href="np.asp?ctNode=29320&amp;mp=801" title="沿革">沿革</a></li>
+<li><a href="np.asp?ctNode=29323&amp;mp=801" title="業務職掌">業務職掌</a></li>
+<li><a href="np.asp?ctNode=29321&amp;mp=801" title="署長簡介">署長簡介</a></li>
+<li><a href="np.asp?ctNode=29322&amp;mp=801" title="組織架構">組織架構</a></li>
+<li><a href="np.asp?ctNode=29324&amp;mp=801" title="機關導覽">機關導覽</a></li>
+<li><a href="np.asp?ctNode=29325&amp;mp=801" title="重大政策">重大政策</a></li>
+<li><a href="http://www.moj.gov.tw/np.asp?ctNode=27335&mp=001" title="法務部施政重點">法務部施政重點</a></li>
+<li><a href="http://www.moj.gov.tw/np.asp?ctNode=28122&mp=001" title="法務部重大政策(另開新視窗)" target="_nwGip">法務部重大政策</a></li>
+<li><a href="http://www.ey.gov.tw/Content_NoList.aspx?n=3D06E532B0D8316C" title="行政院重大政策(另開新視窗)" target="_nwGip">行政院重大政策</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=29350&amp;mp=801" title="為民服務">為民服務</a><ul>
+<li><a href="http://www.mjac.moj.gov.tw/ct.asp?xItem=390921&ctNode=40673" title="民意信箱">民意信箱</a></li>
+<li><a href="https://eservice.moj.gov.tw/" title="單一申辦窗口">單一申辦窗口</a></li>
+<li><a href="np.asp?ctNode=42088&amp;mp=801" title="常見收容問題Q＆A ">常見收容問題Q＆A </a></li>
+<li><a href="lp.asp?ctNode=29355&amp;CtUnit=10005&amp;BaseDSD=7&amp;mp=801" title="陳情處理規定">陳情處理規定</a></li>
+<li><a href="http://www.vst.moj.gov.tw/" title="預約接見(另開新視窗)" target="_nwGip">預約接見</a></li>
+<li><a href="http://www.vst.moj.gov.tw/jqw_pub/" title="收容動態(另開新視窗)" target="_nwGip">收容動態</a></li>
+<li><a href="http://www.shop.moj.gov.tw/" title="矯正商城(另開新視窗)" target="_nwGip">矯正商城</a></li>
+<li><a href="lp.asp?ctNode=29356&amp;CtUnit=10006&amp;BaseDSD=7&amp;mp=801" title="就業資訊">就業資訊</a></li>
+<li><a href="np.asp?ctNode=33501&amp;mp=801" title="法務部教師申訴評議委員會專區">法務部教師申訴評議委員會專區</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=35488&amp;mp=801" title="矯正出版品">矯正出版品</a><ul>
+<li><a href="lp.asp?ctNode=41936&amp;CtUnit=16933&amp;BaseDSD=7&amp;mp=801" title="矯正期刊">矯正期刊</a></li>
+<li><a href="np.asp?ctNode=40321&amp;mp=801" title="長路-小說文藝創作合輯">長路-小說文藝創作合輯</a></li>
+<li><a href="lp.asp?ctNode=35497&amp;CtUnit=13672&amp;BaseDSD=7&amp;mp=801" title="矯正法規輯要">矯正法規輯要</a></li>
+<li><a href="np.asp?ctNode=35496&amp;mp=801" title="這裡獄見愛">這裡獄見愛</a></li>
+<li><a href="np.asp?ctNode=35490&amp;mp=801" title="法務部矯正署成立特刊">法務部矯正署成立特刊</a></li>
+<li><a href="lp.asp?ctNode=35489&amp;CtUnit=321&amp;BaseDSD=7&amp;mp=801" title="矯正月刊(矯訓所刊物)">矯正月刊(矯訓所刊物)</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=29340&amp;mp=801" title="資訊公開">資訊公開</a><ul>
+<li><a href="http://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=I0020026" title="政府資訊公開法">政府資訊公開法</a></li>
+<li><a href="np.asp?ctNode=29343&amp;mp=801" title="機關組織等資訊">機關組織等資訊</a></li>
+<li><a href="lp.asp?ctNode=32918&amp;CtUnit=12356&amp;BaseDSD=7&amp;mp=801" title="請託關說登錄查察專區">請託關說登錄查察專區</a></li>
+<li><a href="lp.asp?ctNode=42122&amp;CtUnit=17026&amp;BaseDSD=7&amp;mp=801" title="國家賠償事件收結情形表">國家賠償事件收結情形表</a></li>
+<li><a href="lp.asp?ctNode=36212&amp;CtUnit=14500&amp;BaseDSD=7&amp;mp=801" title="內部控制制度聲明書 ">內部控制制度聲明書 </a></li>
+<li><a href="np.asp?ctNode=36682&amp;mp=801" title="預算、決算書及會計報告">預算、決算書及會計報告</a></li>
+<li><a href="lp.asp?ctNode=39858&amp;CtUnit=15888&amp;BaseDSD=7&amp;mp=801" title="監所興革小組會議紀錄">監所興革小組會議紀錄</a></li>
+<li><a href="lp.asp?ctNode=43427&amp;CtUnit=17668&amp;BaseDSD=7&amp;mp=801" title="受刑人子女就學補助相關資訊">受刑人子女就學補助相關資訊</a></li>
+<li><a href="lp.asp?ctNode=43018&amp;CtUnit=17476&amp;BaseDSD=7&amp;mp=801" title="獎項專區">獎項專區</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=29364&amp;mp=801" title="統計園地">統計園地</a><ul>
+<li><a href="np.asp?ctNode=30142&amp;mp=801" title="最新統計資料">最新統計資料</a></li>
+<li><a href="np.asp?ctNode=30177&amp;mp=801" title="業務成效">業務成效</a></li>
+<li><a href="np.asp?ctNode=30185&amp;mp=801" title="矯正統計分析">矯正統計分析</a></li>
+<li><a href="http://www.rjsd.moj.gov.tw/RJSDWEB/common/SubMenu.aspx?menu=BOOK" title="統計電子書刊(另開新視窗)" target="_nwGip">統計電子書刊</a></li>
+<li><a href="http://www.rjsd.moj.gov.tw/RJSDWEB/common/RelatedWebsite.aspx" title="相關統計網站(另開新視窗)" target="_nwGip">相關統計網站</a></li>
+<li><a href="lp.asp?ctNode=29365&amp;CtUnit=10013&amp;BaseDSD=7&amp;mp=801" title="園地導覽">園地導覽</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=34076&amp;mp=801" title="影音專區">影音專區</a><ul>
+<li><a href="lp.asp?ctNode=40707&amp;CtUnit=16330&amp;BaseDSD=7&amp;mp=801" title="政府施政成果動態EDM影片連結">政府施政成果動態EDM影片連結</a></li>
+<li><a href="http://www.moj.gov.tw/np.asp?ctNode=27347&mp=001" title="法務部影音專區(另開新視窗)" target="_nwGip">法務部影音專區</a></li>
+<li><a href="http://www.youtube.com/channel/UCB-FYuJtJTXAX6jH44zljSQ/videos" title="本署動畫影音(另開新視窗)" target="_nwGip">本署動畫影音</a></li>
+<li><a href="np.asp?ctNode=42317&amp;mp=801" title="微電影專區">微電影專區</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=32771&amp;mp=801" title="檔案應用">檔案應用</a><ul>
+<li><a href="lp.asp?ctNode=32795&amp;CtUnit=11503&amp;BaseDSD=7&amp;mp=801" title="檔案應用申請區">檔案應用申請區</a></li>
+<li><a href="np.asp?ctNode=32797&amp;mp=801" title="獄政檔案文物展示區">獄政檔案文物展示區</a></li>
+<li><a href="np.asp?ctNode=32803&amp;mp=801" title="檔案管理宣導區">檔案管理宣導區</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=29334&amp;mp=801" title="法令規章">法令規章</a><ul>
+<li><a href="http://law.moj.gov.tw/" title="全國法規資料庫(另開新視窗)" target="_nwGip">全國法規資料庫</a></li>
+<li><a href="http://mojlaw.moj.gov.tw/" title="法務部主管法規查詢系統(另開新視窗)" target="_nwGip">法務部主管法規查詢系統</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=29377&amp;mp=801" title="下載專區">下載專區</a><ul>
+<li><a href="http://www.moj.gov.tw/np.asp?ctNode=37352&mp=001" title="宣導資料下載">宣導資料下載</a></li>
+<li><a href="np.asp?ctNode=44614&amp;mp=801" title="矯正體系專有名詞中英對照表">矯正體系專有名詞中英對照表</a></li>
+<li><a href="https://www.flickr.com/photos/115678395@N05/sets/" title="電子相簿">電子相簿</a></li>
+<li><a href="http://www.moj.gov.tw/bbssp.asp?xdurl=EDocQuery.asp&mp=001" title="電子公文附件區(另開新視窗)" target="_nwGip">電子公文附件區</a></li>
+<li><a href="np.asp?ctNode=44618&amp;mp=801" title="法務部矯正署LOGO">法務部矯正署LOGO</a></li>
+<li><a href="np.asp?ctNode=44619&amp;mp=801" title="矯正署署歌-矯正頌">矯正署署歌-矯正頌</a></li>
+<li><a href="np.asp?ctNode=44623&amp;mp=801" title="sitemap.xml">sitemap.xml</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=42321&amp;mp=801" title="交流園地">交流園地</a><ul>
+<li><a href="lp.asp?ctNode=42322&amp;CtUnit=11498&amp;BaseDSD=7&amp;mp=801" title="兩岸文化交流">兩岸文化交流</a></li>
+<li><a href="np.asp?ctNode=42323&amp;mp=801" title="國外網站連結">國外網站連結</a></li>
+</ul>
+</li>
+<li><a href="http://www.rjsd.moj.gov.tw/rjsdweb/visualization/justice/correction/correct_homepage.html" title="視覺化統計(另開新視窗)" target="_nwGip">視覺化統計</a></li>
+<li><a href="http://www.moj.gov.tw/bbssp.asp?xdurl=mojEpaper.asp" title="電子報訂閱">電子報訂閱</a></li>
+<li><a href="http://www.moj.gov.tw/lp.asp?ctNode=28269&CtUnit=8057&BaseDSD=7" title="RSS">RSS</a></li>
+</ul>
+</div><a onfocus="mlout();" href="javascript:"></a><noscript>TAB標籤功能，如不執行不影響您資料瀏覽</noscript></div>
+<table id="Layout" summary="table for layout">
+<tr>
+<td class="Left">
+<a title="主選單" class="Accesskey" accesskey="L" href="#">:::</a>
+<div class="Lefttop"></div>
+<div class="mlmenu vertical menubg inaccesible">
+<div id="Menu" xmlns="">
+<div class="Menu_head"></div>
+<div class="Menu_body">
+<ul id="vertnav"><li id="" name=""><a href="np.asp?ctNode=29318&amp;mp=801" title="&#30703;&#27491;&#32626;&#31777;&#20171;">&#30703;&#27491;&#32626;&#31777;&#20171;</a><ul>
+<li id="" name=""><a href="np.asp?ctNode=29320&amp;CtUnit=9973&amp;BaseDSD=7&amp;mp=801" title="沿革">沿革</a></li>
+<li id="" name=""><a href="np.asp?ctNode=29323&amp;CtUnit=9976&amp;BaseDSD=7&amp;mp=801" title="業務職掌">業務職掌</a></li>
+<li id="" name=""><a href="np.asp?ctNode=29321&amp;CtUnit=9974&amp;BaseDSD=7&amp;mp=801" title="署長簡介">署長簡介</a></li>
+<li id="" name=""><a href="np.asp?ctNode=29322&amp;CtUnit=9975&amp;BaseDSD=7&amp;mp=801" title="組織架構">組織架構</a></li>
+<li id="" name=""><a href="np.asp?ctNode=29324&amp;CtUnit=9977&amp;BaseDSD=7&amp;mp=801" title="機關導覽">機關導覽</a></li>
+<li id="" name=""><a href="np.asp?ctNode=29325&amp;CtUnit=9978&amp;BaseDSD=7&amp;mp=801" title="重大政策">重大政策</a></li>
+<li id="" name=""><a href="http://www.moj.gov.tw/np.asp?ctNode=27335&mp=001" title="法務部施政重點">法務部施政重點</a></li>
+<li id="" name=""><a href="http://www.moj.gov.tw/np.asp?ctNode=28122&mp=001" title="法務部重大政策(另開新視窗)" target="_nwGip">法務部重大政策</a></li>
+<li id="" name=""><a href="http://www.ey.gov.tw/Content_NoList.aspx?n=3D06E532B0D8316C" title="行政院重大政策(另開新視窗)" target="_nwGip">行政院重大政策</a></li>
+</ul>
+</li>
+<li id="" name=""><a href="np.asp?ctNode=29350&amp;mp=801" title="&#28858;&#27665;&#26381;&#21209;">&#28858;&#27665;&#26381;&#21209;</a><ul>
+<li id="" name=""><a href="https://eservice.moj.gov.tw/" title="單一申辦窗口">單一申辦窗口</a></li>
+<li id="" name=""><a href="http://www.mjac.moj.gov.tw/ct.asp?xItem=390921&ctNode=40673" title="民意信箱">民意信箱</a></li>
+<li id="" name=""><a href="np.asp?ctNode=42088&amp;CtUnit=10002&amp;BaseDSD=7&amp;mp=801" title="常見收容問題Q＆A ">常見收容問題Q＆A </a></li>
+<li id="" name=""><a href="lp.asp?ctNode=29355&amp;CtUnit=10005&amp;BaseDSD=7&amp;mp=801" title="陳情處理規定">陳情處理規定</a></li>
+<li id="" name=""><a href="http://www.vst.moj.gov.tw/" title="預約接見(另開新視窗)" target="_nwGip">預約接見</a></li>
+<li id="" name=""><a href="http://www.vst.moj.gov.tw/jqw_pub/" title="收容動態(另開新視窗)" target="_nwGip">收容動態</a></li>
+<li id="" name=""><a href="http://www.shop.moj.gov.tw/" title="矯正商城(另開新視窗)" target="_nwGip">矯正商城</a></li>
+<li id="" name=""><a href="lp.asp?ctNode=29356&amp;CtUnit=10006&amp;BaseDSD=7&amp;mp=801" title="就業資訊">就業資訊</a></li>
+<li id="" name=""><a href="np.asp?ctNode=33501&amp;mp=801" title="法務部教師申訴評議委員會專區">法務部教師申訴評議委員會專區</a><ul>
+<li id="" name=""><a href="lp.asp?ctNode=33502&amp;CtUnit=12755&amp;BaseDSD=7&amp;mp=801" title="法規">法規</a></li>
+<li id="" name=""><a href="np.asp?ctNode=33503&amp;CtUnit=12756&amp;BaseDSD=7&amp;mp=801" title="法務部教師申訴評議委員會作業流程">法務部教師申訴評議委員會作業流程</a></li>
+<li id="" name=""><a href="np.asp?ctNode=33504&amp;CtUnit=12757&amp;BaseDSD=7&amp;mp=801" title="「法務部教師申訴評議委員會申訴書」下載">「法務部教師申訴評議委員會申訴書」下載</a></li>
+<li id="" name=""><a href="np.asp?ctNode=33510&amp;CtUnit=12758&amp;BaseDSD=7&amp;mp=801" title="常見Q&amp;A">常見Q&A</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="" name=""><a href="np.asp?ctNode=29340&amp;mp=801" title="&#36039;&#35338;&#20844;&#38283;">&#36039;&#35338;&#20844;&#38283;</a><ul>
+<li id="" name=""><a href="http://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=I0020026" title="政府資訊公開法">政府資訊公開法</a></li>
+<li id="" name=""><a href="np.asp?ctNode=29343&amp;CtUnit=9994&amp;BaseDSD=7&amp;mp=801" title="機關組織等資訊">機關組織等資訊</a></li>
+<li id="" name=""><a href="lp.asp?ctNode=32918&amp;CtUnit=12356&amp;BaseDSD=7&amp;mp=801" title="請託關說登錄查察專區">請託關說登錄查察專區</a></li>
+<li id="" name=""><a href="lp.asp?ctNode=42122&amp;CtUnit=17026&amp;BaseDSD=7&amp;mp=801" title="國家賠償事件收結情形表">國家賠償事件收結情形表</a></li>
+<li id="" name=""><a href="lp.asp?ctNode=36212&amp;CtUnit=14500&amp;BaseDSD=7&amp;mp=801" title="內部控制制度聲明書 ">內部控制制度聲明書 </a></li>
+<li id="" name=""><a href="np.asp?ctNode=36682&amp;mp=801" title="預算、決算書及會計報告">預算、決算書及會計報告</a><ul>
+<li id="" name=""><a href="np.asp?ctNode=36683&amp;mp=801" title="預算書">預算書</a><ul>
+<li id="" name=""><a href="lp.asp?ctNode=36686&amp;CtUnit=14849&amp;BaseDSD=7&amp;mp=801" title="矯正署">矯正署</a></li>
+<li id="" name=""><a href="lp.asp?ctNode=36687&amp;CtUnit=14850&amp;BaseDSD=7&amp;mp=801" title="矯正署及所屬機關">矯正署及所屬機關</a></li>
+</ul>
+</li>
+<li id="" name=""><a href="np.asp?ctNode=36684&amp;mp=801" title="決算書">決算書</a><ul>
+<li id="" name=""><a href="lp.asp?ctNode=36688&amp;CtUnit=14851&amp;BaseDSD=7&amp;mp=801" title="矯正署">矯正署</a></li>
+<li id="" name=""><a href="lp.asp?ctNode=36689&amp;CtUnit=14852&amp;BaseDSD=7&amp;mp=801" title="矯正署及所屬機關">矯正署及所屬機關</a></li>
+</ul>
+</li>
+<li id="" name=""><a href="np.asp?ctNode=36685&amp;mp=801" title="會計報告">會計報告</a><ul>
+<li id="" name=""><a href="lp.asp?ctNode=36691&amp;CtUnit=14853&amp;BaseDSD=7&amp;mp=801" title="矯正署">矯正署</a></li>
+<li id="" name=""><a href="lp.asp?ctNode=36692&amp;CtUnit=14854&amp;BaseDSD=7&amp;mp=801" title="矯正署及所屬機關">矯正署及所屬機關</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="" name=""><a href="lp.asp?ctNode=39858&amp;CtUnit=15888&amp;BaseDSD=7&amp;mp=801" title="監所興革小組會議紀錄">監所興革小組會議紀錄</a></li>
+<li id="" name=""><a href="lp.asp?ctNode=43427&amp;CtUnit=17668&amp;BaseDSD=7&amp;mp=801" title="受刑人子女就學補助相關資訊">受刑人子女就學補助相關資訊</a></li>
+<li id="" name=""><a href="lp.asp?ctNode=43018&amp;CtUnit=17476&amp;BaseDSD=7&amp;mp=801" title="獎項專區">獎項專區</a></li>
+</ul>
+</li>
+<li id="" name=""><a href="np.asp?ctNode=35488&amp;mp=801" title="&#30703;&#27491;&#20986;&#29256;&#21697;">&#30703;&#27491;&#20986;&#29256;&#21697;</a><ul>
+<li id="" name=""><a href="lp.asp?ctNode=41936&amp;CtUnit=16933&amp;BaseDSD=7&amp;mp=801" title="矯正期刊">矯正期刊</a></li>
+<li id="" name=""><a href="np.asp?ctNode=40321&amp;CtUnit=16114&amp;BaseDSD=7&amp;mp=801" title="長路-小說文藝創作合輯">長路-小說文藝創作合輯</a></li>
+<li id="" name=""><a href="lp.asp?ctNode=35497&amp;CtUnit=13672&amp;BaseDSD=7&amp;mp=801" title="矯正法規輯要">矯正法規輯要</a></li>
+<li id="" name=""><a href="np.asp?ctNode=35496&amp;CtUnit=13670&amp;BaseDSD=7&amp;mp=801" title="這裡獄見愛">這裡獄見愛</a></li>
+<li id="" name=""><a href="np.asp?ctNode=35490&amp;CtUnit=13671&amp;BaseDSD=7&amp;mp=801" title="法務部矯正署成立特刊">法務部矯正署成立特刊</a></li>
+<li id="" name=""><a href="lp.asp?ctNode=35489&amp;CtUnit=321&amp;BaseDSD=7&amp;mp=801" title="矯正月刊(矯訓所刊物)">矯正月刊(矯訓所刊物)</a></li>
+</ul>
+</li>
+<li id="" name=""><a href="np.asp?ctNode=29364&amp;mp=801" title="&#32113;&#35336;&#22290;&#22320;">&#32113;&#35336;&#22290;&#22320;</a><ul>
+<li id="" name=""><a href="np.asp?ctNode=30142&amp;mp=801" title="最新統計資料">最新統計資料</a><ul>
+<li id="" name=""><a href="np.asp?ctNode=30146&amp;CtUnit=10357&amp;BaseDSD=7&amp;mp=801" title="最新統計資料">最新統計資料</a></li>
+<li id="" name=""><a href="np.asp?ctNode=30143&amp;CtUnit=10354&amp;BaseDSD=7&amp;mp=801" title="矯正統計摘要">矯正統計摘要</a></li>
+<li id="" name=""><a href="np.asp?ctNode=30144&amp;CtUnit=10355&amp;BaseDSD=7&amp;mp=801" title="矯正統計指標">矯正統計指標</a></li>
+<li id="" name=""><a href="np.asp?ctNode=30145&amp;CtUnit=10356&amp;BaseDSD=7&amp;mp=801" title="矯正性別統計">矯正性別統計</a></li>
+<li id="" name=""><a href="lp.asp?ctNode=30176&amp;CtUnit=10378&amp;BaseDSD=7&amp;mp=801" title="矯正指標圖示">矯正指標圖示</a></li>
+</ul>
+</li>
+<li id="" name=""><a href="np.asp?ctNode=30177&amp;CtUnit=10379&amp;BaseDSD=7&amp;mp=801" title="業務成效">業務成效</a></li>
+<li id="" name=""><a href="np.asp?ctNode=30185&amp;mp=801" title="矯正統計分析">矯正統計分析</a><ul>
+<li id="" name=""><a href="lp.asp?ctNode=30187&amp;CtUnit=10384&amp;BaseDSD=7&amp;mp=801" title="矯正統計摘要分析">矯正統計摘要分析</a></li>
+<li id="" name=""><a href="lp.asp?ctNode=33522&amp;CtUnit=12772&amp;BaseDSD=7&amp;mp=801" title="性別統計分析">性別統計分析</a></li>
+<li id="" name=""><a href="lp.asp?ctNode=30188&amp;CtUnit=10385&amp;BaseDSD=7&amp;mp=801" title="矯正統計短文">矯正統計短文</a></li>
+<li id="" name=""><a href="http://www.rjsd.moj.gov.tw/RJSDWEB/common/ProjectReport.aspx" title="矯正調查提要分析(另開新視窗)" target="_nwGip">矯正調查提要分析</a></li>
+</ul>
+</li>
+<li id="" name=""><a href="http://www.rjsd.moj.gov.tw/RJSDWEB/common/SubMenu.aspx?menu=BOOK" title="統計電子書刊(另開新視窗)" target="_nwGip">統計電子書刊</a></li>
+<li id="" name=""><a href="http://www.rjsd.moj.gov.tw/RJSDWEB/common/RelatedWebsite.aspx" title="相關統計網站(另開新視窗)" target="_nwGip">相關統計網站</a></li>
+<li id="" name=""><a href="lp.asp?ctNode=29365&amp;CtUnit=10013&amp;BaseDSD=7&amp;mp=801" title="園地導覽">園地導覽</a></li>
+</ul>
+</li>
+<li id="" name=""><a href="np.asp?ctNode=34076&amp;mp=801" title="&#24433;&#38899;&#23560;&#21312;">&#24433;&#38899;&#23560;&#21312;</a><ul>
+<li id="" name=""><a href="lp.asp?ctNode=40707&amp;CtUnit=16330&amp;BaseDSD=7&amp;mp=801" title="政府施政成果動態EDM影片連結">政府施政成果動態EDM影片連結</a></li>
+<li id="" name=""><a href="http://www.moj.gov.tw/np.asp?ctNode=27347&mp=001" title="法務部影音專區(另開新視窗)" target="_nwGip">法務部影音專區</a></li>
+<li id="" name=""><a href="http://www.youtube.com/channel/UCB-FYuJtJTXAX6jH44zljSQ/videos" title="本署動畫影音(另開新視窗)" target="_nwGip">本署動畫影音</a></li>
+<li id="" name=""><a href="np.asp?ctNode=42317&amp;mp=801" title="微電影專區">微電影專區</a><ul>
+<li id="" name=""><a href="lp.asp?ctNode=43122&amp;CtUnit=14349&amp;BaseDSD=7&amp;mp=801" title="大專院校矯正微電影創作比賽得獎作品">大專院校矯正微電影創作比賽得獎作品</a></li>
+<li id="" name=""><a href="lp.asp?ctNode=42318&amp;CtUnit=14347&amp;BaseDSD=7&amp;mp=801" title="矯正機關生命教育微電影">矯正機關生命教育微電影</a></li>
+<li id="" name=""><a href="lp.asp?ctNode=42319&amp;CtUnit=14348&amp;BaseDSD=7&amp;mp=801" title="臉書(Facebook)微電影專區">臉書(Facebook)微電影專區</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="" name=""><a href="np.asp?ctNode=32771&amp;mp=801" title="&#27284;&#26696;&#25033;&#29992;">&#27284;&#26696;&#25033;&#29992;</a><ul>
+<li id="" name=""><a href="lp.asp?ctNode=32795&amp;CtUnit=11503&amp;BaseDSD=7&amp;mp=801" title="檔案應用申請區">檔案應用申請區</a></li>
+<li id="" name=""><a href="np.asp?ctNode=32797&amp;mp=801" title="獄政檔案文物展示區">獄政檔案文物展示區</a><ul>
+<li id="" name=""><a href="np.asp?ctNode=32799&amp;CtUnit=12262&amp;BaseDSD=7&amp;mp=801" title="獄政博物館">獄政博物館</a></li>
+<li id="" name=""><a href="np.asp?ctNode=32800&amp;CtUnit=12263&amp;BaseDSD=7&amp;mp=801" title="歷史印記">歷史印記</a></li>
+<li id="" name=""><a href="https://dl.dropboxusercontent.com/u/46425241/06correctmark/Default.html" title="矯正印記">矯正印記</a></li>
+<li id="" name=""><a href="np.asp?ctNode=32801&amp;CtUnit=12264&amp;BaseDSD=7&amp;mp=801" title="獄政暨檢察文物特展紀實">獄政暨檢察文物特展紀實</a></li>
+<li id="" name=""><a href="http://www.old.moj.gov.tw/mp.asp?mp=1" title="傳統工藝傳承(另開新視窗)" target="_nwGip">傳統工藝傳承</a></li>
+<li id="" name=""><a href="http://www.shop.moj.gov.tw/mp.asp?mp=2" title="自營產品展售商城(另開新視窗)" target="_nwGip">自營產品展售商城</a></li>
+<li id="" name=""><a href="http://www.work.moj.gov.tw/mp.asp?mp=3" title="承攬委託加工(另開新視窗)" target="_nwGip">承攬委託加工</a></li>
+<li id="" name=""><a href="https://dl.dropboxusercontent.com/u/46425241/03Technology/Default.html" title="工藝聯展">工藝聯展</a></li>
+<li id="" name=""><a href="https://dl.dropboxusercontent.com/u/46425241/04Food/Default.html" title="美食聯展">美食聯展</a></li>
+<li id="" name=""><a href="https://dl.dropboxusercontent.com/u/46425241/05Ecological/Default.html" title="農牧生態保育展">農牧生態保育展</a></li>
+</ul>
+</li>
+<li id="" name=""><a href="np.asp?ctNode=32803&amp;mp=801" title="檔案管理宣導區">檔案管理宣導區</a><ul>
+<li id="" name=""><a href="http://www.mjac.moj.gov.tw/lp.asp?CtNode=32805&CtUnit=12265&BaseDSD=7&mp=801&pagesize=100" title="法務部矯正署檔案管理宣導活動 ">法務部矯正署檔案管理宣導活動 </a></li>
+<li id="" name=""><a href="np.asp?ctNode=32804&amp;CtUnit=12268&amp;BaseDSD=7&amp;mp=801" title="檔案宣導資訊">檔案宣導資訊</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="" name=""><a href="np.asp?ctNode=29334&amp;mp=801" title="&#27861;&#20196;&#35215;&#31456;">&#27861;&#20196;&#35215;&#31456;</a><ul>
+<li id="" name=""><a href="http://mojlaw.moj.gov.tw/" title="法務部主管法規查詢系統(另開新視窗)" target="_nwGip">法務部主管法規查詢系統</a></li>
+<li id="" name=""><a href="http://law.moj.gov.tw/" title="全國法規資料庫(另開新視窗)" target="_nwGip">全國法規資料庫</a></li>
+</ul>
+</li>
+<li id="" name=""><a href="np.asp?ctNode=29377&amp;mp=801" title="&#19979;&#36617;&#23560;&#21312;">&#19979;&#36617;&#23560;&#21312;</a><ul>
+<li id="" name=""><a href="http://www.moj.gov.tw/np.asp?ctNode=37352&mp=001" title="宣導資料下載">宣導資料下載</a></li>
+<li id="" name=""><a href="np.asp?ctNode=44614&amp;CtUnit=17973&amp;BaseDSD=7&amp;mp=801" title="矯正體系專有名詞中英對照表">矯正體系專有名詞中英對照表</a></li>
+<li id="" name=""><a href="https://www.flickr.com/photos/115678395@N05/sets/" title="電子相簿">電子相簿</a></li>
+<li id="" name=""><a href="http://www.moj.gov.tw/bbssp.asp?xdurl=EDocQuery.asp&mp=001" title="電子公文附件區(另開新視窗)" target="_nwGip">電子公文附件區</a></li>
+<li id="" name=""><a href="np.asp?ctNode=44618&amp;CtUnit=17977&amp;BaseDSD=7&amp;mp=801" title="法務部矯正署LOGO">法務部矯正署LOGO</a></li>
+<li id="" name=""><a href="np.asp?ctNode=44619&amp;CtUnit=17978&amp;BaseDSD=7&amp;mp=801" title="矯正署署歌-矯正頌">矯正署署歌-矯正頌</a></li>
+<li id="" name=""><a href="np.asp?ctNode=44623&amp;CtUnit=17981&amp;BaseDSD=7&amp;mp=801" title="sitemap.xml">sitemap.xml</a></li>
+</ul>
+</li>
+<li id="" name=""><a href="np.asp?ctNode=42321&amp;mp=801" title="&#20132;&#27969;&#22290;&#22320;">&#20132;&#27969;&#22290;&#22320;</a><ul>
+<li id="" name=""><a href="lp.asp?ctNode=42322&amp;CtUnit=11498&amp;BaseDSD=7&amp;mp=801" title="兩岸文化交流">兩岸文化交流</a></li>
+<li id="" name=""><a href="np.asp?ctNode=42323&amp;CtUnit=14574&amp;BaseDSD=7&amp;mp=801" title="國外網站連結">國外網站連結</a></li>
+</ul>
+</li>
+<li id="" name=""><a href="http://www.rjsd.moj.gov.tw/rjsdweb/visualization/justice/correction/correct_homepage.html" title="&#35222;&#35258;&#21270;&#32113;&#35336;(另開新視窗)" target="_nwGip">&#35222;&#35258;&#21270;&#32113;&#35336;</a></li>
+<li id="" name=""><a href="http://www.moj.gov.tw/bbssp.asp?xdurl=mojEpaper.asp" title="&#38651;&#23376;&#22577;&#35330;&#38321;">&#38651;&#23376;&#22577;&#35330;&#38321;</a></li>
+<li id="" name=""><a href="http://www.moj.gov.tw/lp.asp?ctNode=28269&CtUnit=8057&BaseDSD=7" title="RSS">RSS</a></li>
+</ul>
+</div>
+<div class="Menu_foot"></div>
+</div>
+</div>
+<div class="Leftbottom"></div>
+</td>
+<td class="Center">
+<a title="主要內容區" class="Accesskey" accesskey="C" href="#">:::</a>
+<div class="Centertop"><img src="xslGip/unit801/images/center_topleft.gif" alt="*"/></div>
+<div class="Centermiddle">
+<div id="PageTitle" xmlns="">矯正署</div>
+<div id="Path" xmlns="">
+		瀏覽路徑：<a title="首頁" href="mp.asp?mp=801">首頁</a><img src="xslGip/unit801/images/icom_menu_a01.gif" alt="*"><a href="np.asp?ctNode=29340&mp=801" title="資訊公開">資訊公開</a><img src="xslGip/unit801/images/icom_menu_a01.gif" alt="*"><a href="np.asp?ctNode=36682&mp=801" title="預算、決算書及會計報告">預算、決算書及會計報告</a><img src="xslGip/unit801/images/icom_menu_a01.gif" alt="*"><a href="np.asp?ctNode=36683&mp=801" title="預算書">預算書</a><img src="xslGip/unit801/images/icom_menu_a01.gif" alt="*"><a href="np.asp?ctNode=36686&mp=801" title="矯正署">矯正署</a></div>
+<div id="Page" xmlns="">
+		共<span class="Number">1</span>頁，<span class="Number">4</span>筆資料
+		
+		到第
+		<select name="pickPage" id="pickPage" onChange="pageChange()"><script>
+				var totPage = 1;
+				var qURL = "CtNode=36686&CtUnit=14849&BaseDSD=7&mp=801";
+				
+					for ( xi=1; xi<=totPage; xi++ )
+						document.write("<option value=" + xi + ">" + xi + "</option>");
+					function pageChange() {
+						goPage(pickPage.value);
+					}
+					function goPage(nPage) {
+						document.location.href= "lp.asp?" + qURL + "&nowPage=" + nPage + "&pagesize=" + perPage.value
+					}
+					function perPageChange() {
+						document.location.href= "lp.asp?" + qURL + "&nowPage=" + pickPage.value + "&pagesize=" + perPage.value
+					}
+				</script><noscript>此為資料筆數計算及跳頁，可利用上一頁、下一頁操作，不影響頁面瀏覽</noscript></select>頁
+
+		
+
+		每頁顯示
+		<select name="perPage" id="perPage" onChange="perPageChange()"><option value="15">15</option>
+<option value="20">20</option>
+<option value="30">30</option></select>筆
+
+		<script>
+			pickPage.value = 1;
+			perPage.value = 15;
+		</script><noscript><br>每頁15筆,目前在第1頁;
+		        <br><A href="lp.asp?CtNode=36686&CtUnit=14849&BaseDSD=7&mp=801&nowPage=1&pagesize=15" title="每頁15筆">改為每頁15筆</A>|<A href="lp.asp?CtNode=36686&CtUnit=14849&BaseDSD=7&mp=801&nowPage=1&pagesize=20" title="每頁20筆">改為每頁20筆</A>|<A href="lp.asp?CtNode=36686&CtUnit=14849&BaseDSD=7&mp=801&nowPage=1&pagesize=30" title="每頁30筆">改為每頁30筆</A>|<br><A href="lp.asp?CtNode=36686&CtUnit=14849&BaseDSD=7&mp=801&nowPage=1&pagesize=15" title="到第1頁">到第1頁</A>|</noscript>
+</div><div id="lpmatter" xmlns="">
+<ol>
+<li>
+<h1><a href="ct.asp?xItem=444839&ctNode=36686&mp=801" title="106年度">106年度</a></h1>
+</li>
+<li>
+<h1><a href="ct.asp?xItem=404074&ctNode=36686&mp=801" title="105年度">105年度</a></h1>
+</li>
+<li>
+<h1><a href="ct.asp?xItem=360966&ctNode=36686&mp=801" title="104年度">104年度</a></h1>
+</li>
+<li>
+<h1><a href="ct.asp?xItem=360980&ctNode=36686&mp=801" title="103年度">103年度</a></h1>
+</li>
+</ol>
+</div></div>
+<div class="Centerbottom"><img src="xslGip/unit801/images/center_bottomleft.gif" alt="*"/></div>
+</td>
+</tr>
+</table>
+<div class="sildeCtrl" xmlns="">
+<ul>
+<li><a href="np.asp?ctNode=29318&amp;mp=801" title="矯正署簡介">矯正署簡介</a><ul>
+<li><a href="np.asp?ctNode=29320&amp;mp=801" title="沿革">沿革</a></li>
+<li><a href="np.asp?ctNode=29323&amp;mp=801" title="業務職掌">業務職掌</a></li>
+<li><a href="np.asp?ctNode=29321&amp;mp=801" title="署長簡介">署長簡介</a></li>
+<li><a href="np.asp?ctNode=29322&amp;mp=801" title="組織架構">組織架構</a></li>
+<li><a href="np.asp?ctNode=29324&amp;mp=801" title="機關導覽">機關導覽</a></li>
+<li><a href="np.asp?ctNode=29325&amp;mp=801" title="重大政策">重大政策</a></li>
+<li><a href="http://www.moj.gov.tw/np.asp?ctNode=27335&mp=001" title="法務部施政重點">法務部施政重點</a></li>
+<li><a href="http://www.moj.gov.tw/np.asp?ctNode=28122&mp=001" title="法務部重大政策(另開新視窗)" target="_nwGip">法務部重大政策</a></li>
+<li><a href="http://www.ey.gov.tw/Content_NoList.aspx?n=3D06E532B0D8316C" title="行政院重大政策(另開新視窗)" target="_nwGip">行政院重大政策</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=29350&amp;mp=801" title="為民服務">為民服務</a><ul>
+<li><a href="http://www.mjac.moj.gov.tw/ct.asp?xItem=390921&ctNode=40673" title="民意信箱">民意信箱</a></li>
+<li><a href="https://eservice.moj.gov.tw/" title="單一申辦窗口">單一申辦窗口</a></li>
+<li><a href="np.asp?ctNode=42088&amp;mp=801" title="常見收容問題Q＆A ">常見收容問題Q＆A </a></li>
+<li><a href="lp.asp?ctNode=29355&amp;CtUnit=10005&amp;BaseDSD=7&amp;mp=801" title="陳情處理規定">陳情處理規定</a></li>
+<li><a href="http://www.vst.moj.gov.tw/" title="預約接見(另開新視窗)" target="_nwGip">預約接見</a></li>
+<li><a href="http://www.vst.moj.gov.tw/jqw_pub/" title="收容動態(另開新視窗)" target="_nwGip">收容動態</a></li>
+<li><a href="http://www.shop.moj.gov.tw/" title="矯正商城(另開新視窗)" target="_nwGip">矯正商城</a></li>
+<li><a href="lp.asp?ctNode=29356&amp;CtUnit=10006&amp;BaseDSD=7&amp;mp=801" title="就業資訊">就業資訊</a></li>
+<li><a href="np.asp?ctNode=33501&amp;mp=801" title="法務部教師申訴評議委員會專區">法務部教師申訴評議委員會專區</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=35488&amp;mp=801" title="矯正出版品">矯正出版品</a><ul>
+<li><a href="lp.asp?ctNode=41936&amp;CtUnit=16933&amp;BaseDSD=7&amp;mp=801" title="矯正期刊">矯正期刊</a></li>
+<li><a href="np.asp?ctNode=40321&amp;mp=801" title="長路-小說文藝創作合輯">長路-小說文藝創作合輯</a></li>
+<li><a href="lp.asp?ctNode=35497&amp;CtUnit=13672&amp;BaseDSD=7&amp;mp=801" title="矯正法規輯要">矯正法規輯要</a></li>
+<li><a href="np.asp?ctNode=35496&amp;mp=801" title="這裡獄見愛">這裡獄見愛</a></li>
+<li><a href="np.asp?ctNode=35490&amp;mp=801" title="法務部矯正署成立特刊">法務部矯正署成立特刊</a></li>
+<li><a href="lp.asp?ctNode=35489&amp;CtUnit=321&amp;BaseDSD=7&amp;mp=801" title="矯正月刊(矯訓所刊物)">矯正月刊(矯訓所刊物)</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=29340&amp;mp=801" title="資訊公開">資訊公開</a><ul>
+<li><a href="http://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=I0020026" title="政府資訊公開法">政府資訊公開法</a></li>
+<li><a href="np.asp?ctNode=29343&amp;mp=801" title="機關組織等資訊">機關組織等資訊</a></li>
+<li><a href="lp.asp?ctNode=32918&amp;CtUnit=12356&amp;BaseDSD=7&amp;mp=801" title="請託關說登錄查察專區">請託關說登錄查察專區</a></li>
+<li><a href="lp.asp?ctNode=42122&amp;CtUnit=17026&amp;BaseDSD=7&amp;mp=801" title="國家賠償事件收結情形表">國家賠償事件收結情形表</a></li>
+<li><a href="lp.asp?ctNode=36212&amp;CtUnit=14500&amp;BaseDSD=7&amp;mp=801" title="內部控制制度聲明書 ">內部控制制度聲明書 </a></li>
+<li><a href="np.asp?ctNode=36682&amp;mp=801" title="預算、決算書及會計報告">預算、決算書及會計報告</a></li>
+<li><a href="lp.asp?ctNode=39858&amp;CtUnit=15888&amp;BaseDSD=7&amp;mp=801" title="監所興革小組會議紀錄">監所興革小組會議紀錄</a></li>
+<li><a href="lp.asp?ctNode=43427&amp;CtUnit=17668&amp;BaseDSD=7&amp;mp=801" title="受刑人子女就學補助相關資訊">受刑人子女就學補助相關資訊</a></li>
+<li><a href="lp.asp?ctNode=43018&amp;CtUnit=17476&amp;BaseDSD=7&amp;mp=801" title="獎項專區">獎項專區</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=29364&amp;mp=801" title="統計園地">統計園地</a><ul>
+<li><a href="np.asp?ctNode=30142&amp;mp=801" title="最新統計資料">最新統計資料</a></li>
+<li><a href="np.asp?ctNode=30177&amp;mp=801" title="業務成效">業務成效</a></li>
+<li><a href="np.asp?ctNode=30185&amp;mp=801" title="矯正統計分析">矯正統計分析</a></li>
+<li><a href="http://www.rjsd.moj.gov.tw/RJSDWEB/common/SubMenu.aspx?menu=BOOK" title="統計電子書刊(另開新視窗)" target="_nwGip">統計電子書刊</a></li>
+<li><a href="http://www.rjsd.moj.gov.tw/RJSDWEB/common/RelatedWebsite.aspx" title="相關統計網站(另開新視窗)" target="_nwGip">相關統計網站</a></li>
+<li><a href="lp.asp?ctNode=29365&amp;CtUnit=10013&amp;BaseDSD=7&amp;mp=801" title="園地導覽">園地導覽</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=34076&amp;mp=801" title="影音專區">影音專區</a><ul>
+<li><a href="lp.asp?ctNode=40707&amp;CtUnit=16330&amp;BaseDSD=7&amp;mp=801" title="政府施政成果動態EDM影片連結">政府施政成果動態EDM影片連結</a></li>
+<li><a href="http://www.moj.gov.tw/np.asp?ctNode=27347&mp=001" title="法務部影音專區(另開新視窗)" target="_nwGip">法務部影音專區</a></li>
+<li><a href="http://www.youtube.com/channel/UCB-FYuJtJTXAX6jH44zljSQ/videos" title="本署動畫影音(另開新視窗)" target="_nwGip">本署動畫影音</a></li>
+<li><a href="np.asp?ctNode=42317&amp;mp=801" title="微電影專區">微電影專區</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=32771&amp;mp=801" title="檔案應用">檔案應用</a><ul>
+<li><a href="lp.asp?ctNode=32795&amp;CtUnit=11503&amp;BaseDSD=7&amp;mp=801" title="檔案應用申請區">檔案應用申請區</a></li>
+<li><a href="np.asp?ctNode=32797&amp;mp=801" title="獄政檔案文物展示區">獄政檔案文物展示區</a></li>
+<li><a href="np.asp?ctNode=32803&amp;mp=801" title="檔案管理宣導區">檔案管理宣導區</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=29334&amp;mp=801" title="法令規章">法令規章</a><ul>
+<li><a href="http://law.moj.gov.tw/" title="全國法規資料庫(另開新視窗)" target="_nwGip">全國法規資料庫</a></li>
+<li><a href="http://mojlaw.moj.gov.tw/" title="法務部主管法規查詢系統(另開新視窗)" target="_nwGip">法務部主管法規查詢系統</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=29377&amp;mp=801" title="下載專區">下載專區</a><ul>
+<li><a href="http://www.moj.gov.tw/np.asp?ctNode=37352&mp=001" title="宣導資料下載">宣導資料下載</a></li>
+<li><a href="np.asp?ctNode=44614&amp;mp=801" title="矯正體系專有名詞中英對照表">矯正體系專有名詞中英對照表</a></li>
+<li><a href="https://www.flickr.com/photos/115678395@N05/sets/" title="電子相簿">電子相簿</a></li>
+<li><a href="http://www.moj.gov.tw/bbssp.asp?xdurl=EDocQuery.asp&mp=001" title="電子公文附件區(另開新視窗)" target="_nwGip">電子公文附件區</a></li>
+<li><a href="np.asp?ctNode=44618&amp;mp=801" title="法務部矯正署LOGO">法務部矯正署LOGO</a></li>
+<li><a href="np.asp?ctNode=44619&amp;mp=801" title="矯正署署歌-矯正頌">矯正署署歌-矯正頌</a></li>
+<li><a href="np.asp?ctNode=44623&amp;mp=801" title="sitemap.xml">sitemap.xml</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=42321&amp;mp=801" title="交流園地">交流園地</a><ul>
+<li><a href="lp.asp?ctNode=42322&amp;CtUnit=11498&amp;BaseDSD=7&amp;mp=801" title="兩岸文化交流">兩岸文化交流</a></li>
+<li><a href="np.asp?ctNode=42323&amp;mp=801" title="國外網站連結">國外網站連結</a></li>
+</ul>
+</li>
+<li><a href="http://www.rjsd.moj.gov.tw/rjsdweb/visualization/justice/correction/correct_homepage.html" title="視覺化統計(另開新視窗)" target="_nwGip">視覺化統計</a></li>
+<li><a href="http://www.moj.gov.tw/bbssp.asp?xdurl=mojEpaper.asp" title="電子報訂閱">電子報訂閱</a></li>
+<li><a href="http://www.moj.gov.tw/lp.asp?ctNode=28269&CtUnit=8057&BaseDSD=7" title="RSS">RSS</a></li>
+</ul>
+</div>
+<div class="Bottomtop" xmlns=""><img src="xslGip/unit801/images/bottom_topl.gif" alt="*"></div>
+<div class="Bottommiddle" xmlns="">
+<div id="Bottom"></div>
+</div>
+<div class="Bottombottom" xmlns=""><img src="xslGip/unit801/images/bottom_bottoml.gif" alt="*"></div>
+</div>
+</body>
+</html>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38121529-1']);
+  _gaq.push(['_setDomainName', 'mjac.moj.gov.tw']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>

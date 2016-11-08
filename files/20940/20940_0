@@ -1,0 +1,753 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5" />
+<title>臺灣臺北地方法院 : 首頁  &gt; 業務概況 &gt; 會計室業務 &gt; 預算類</title>
+<style type="text/css">
+<!--
+body {
+	background-image: url(images/tpdbg.png);
+	background-repeat: repeat-x;
+	background-position: top;
+	font-size: 1em;
+	margin: 5px;
+}
+#apDiv1 {
+	width:682px;
+	height:130px;
+	float: left;
+	position: absolute;
+	z-index: 2;
+	left: 0;
+	top: 0;
+}
+#apDiv2 {
+	width:250px;
+	height:115px;
+	font-size: 0.9em;
+	padding-top: 14px;
+	font-family: "新細明體";
+	float: right;
+	background-image: url(images/tpdtop_right.jpg);
+	padding-left: 50px;
+	position: absolute;
+	z-index: 1;
+	top: 0;
+	right: 0;
+}
+#apDiv2 a {
+	text-decoration: none;
+	color: #333333;
+}
+#apDiv2 a:hover {
+	color: #CC0000;
+}
+#botRegion {
+	margin: 10px;
+}
+#botRegion .siteinfo {
+	float: left;
+	font-size: 0.9em;
+	line-height: 150%;
+	height: 42px;
+	margin-top: 0px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 20px;
+	padding-left: 10px;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #CCCCCC;
+}
+#botRegion .sitestatus {
+	float: right;
+	width: 200px;
+	line-height: 150%;
+	padding: 5px;
+}
+-->
+</style>
+<!--[if IE]>
+<script type="text/javascript" src="images/pngfix.js"></script>
+<![endif]--> 
+<script type="text/javascript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+function mover(st) {
+st.style.backgroundColor = '#f2f2f2';
+}
+function mout(st) {
+st.style.backgroundColor = '';
+}
+
+//將頁面中的關鍵字高亮顯示,在body的onload中使用
+function HighLight(nWord){
+    var orange = document.body.createTextRange();    
+        while(orange.findText(nWord)){
+            orange.pasteHTML("<span style='color:red;'>" + orange.text + "</span>");
+            orange.moveStart('character',1);            
+    }    
+}
+
+//將頁面中的關鍵字高亮顯示,在body的onload中使用(支持多個關鍵字，多個關鍵字用空格分開)
+function highword(nWord)
+{
+    //將全形空格(逗號)轉半型空格
+    nWord = nWord.replace(/\　/g,"|");    
+    nWord = nWord.replace(/\,/g,"|");    
+    nWord = nWord.replace(/\，/,"|");    
+    nWord = nWord.replace(/\ /g,"|");
+        
+    var Arr = nWord.split("|");
+    for(var i=0;i<Arr.length;i++){        
+        HighLight(Arr[i]);
+    }
+}
+
+
+function MM_CheckFlashVersion(reqVerStr,msg){
+  with(navigator){
+    var isIE  = (appVersion.indexOf("MSIE") != -1 && userAgent.indexOf("Opera") == -1);
+    var isWin = (appVersion.toLowerCase().indexOf("win") != -1);
+    if (!isIE || !isWin){  
+      var flashVer = -1;
+      if (plugins && plugins.length > 0){
+        var desc = plugins["Shockwave Flash"] ? plugins["Shockwave Flash"].description : "";
+        desc = plugins["Shockwave Flash 2.0"] ? plugins["Shockwave Flash 2.0"].description : desc;
+        if (desc == "") flashVer = -1;
+        else{
+          var descArr = desc.split(" ");
+          var tempArrMajor = descArr[2].split(".");
+          var verMajor = tempArrMajor[0];
+          var tempArrMinor = (descArr[3] != "") ? descArr[3].split("r") : descArr[4].split("r");
+          var verMinor = (tempArrMinor[1] > 0) ? tempArrMinor[1] : 0;
+          flashVer =  parseFloat(verMajor + "." + verMinor);
+        }
+      }
+      // WebTV has Flash Player 4 or lower -- too low for video
+      else if (userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 4.0;
+
+      var verArr = reqVerStr.split(",");
+      var reqVer = parseFloat(verArr[0] + "." + verArr[2]);
+  
+      if (flashVer < reqVer){
+        if (confirm(msg))
+          window.location = "http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash";
+      }
+    }
+  } 
+}
+
+//顯示搜尋的說明文字
+function Help_a(param)
+{ document.all["此選項可搜尋包含網站最新公告、徵人啟示、公示送達、新聞稿等內容"].style.visibility=param;}
+function Help_b(param)
+{ document.all["此選項可搜尋包含除公告以外的網站內容資料"].style.visibility=param;}
+
+//-->
+</script>
+<script type="text/javascript">
+//v1.7
+// Flash Player Version Detection
+// Detect Client Browser type
+// Copyright 2005-2007 Adobe Systems Incorporated.  All rights reserved.
+var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+
+function ControlVersion()
+{
+	var version;
+	var axo;
+	var e;
+
+	// NOTE : new ActiveXObject(strFoo) throws an exception if strFoo isn't in the registry
+
+	try {
+		// version will be set for 7.X or greater players
+		axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.7");
+		version = axo.GetVariable("$version");
+	} catch (e) {
+	}
+
+	if (!version)
+	{
+		try {
+			// version will be set for 6.X players only
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.6");
+			
+			// installed player is some revision of 6.0
+			// GetVariable("$version") crashes for versions 6.0.22 through 6.0.29,
+			// so we have to be careful. 
+			
+			// default to the first public version
+			version = "WIN 6,0,21,0";
+
+			// throws if AllowScripAccess does not exist (introduced in 6.0r47)		
+			axo.AllowScriptAccess = "always";
+
+			// safe to call for 6.0r47 or greater
+			version = axo.GetVariable("$version");
+
+		} catch (e) {
+		}
+	}
+
+	if (!version)
+	{
+		try {
+			// version will be set for 4.X or 5.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
+			version = axo.GetVariable("$version");
+		} catch (e) {
+		}
+	}
+
+	if (!version)
+	{
+		try {
+			// version will be set for 3.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
+			version = "WIN 3,0,18,0";
+		} catch (e) {
+		}
+	}
+
+	if (!version)
+	{
+		try {
+			// version will be set for 2.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash");
+			version = "WIN 2,0,0,11";
+		} catch (e) {
+			version = -1;
+		}
+	}
+	
+	return version;
+}
+
+// JavaScript helper required to detect Flash Player PlugIn version information
+function GetSwfVer(){
+	// NS/Opera version >= 3 check for Flash plugin in plugin array
+	var flashVer = -1;
+	
+	if (navigator.plugins != null && navigator.plugins.length > 0) {
+		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+			var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
+			var descArray = flashDescription.split(" ");
+			var tempArrayMajor = descArray[2].split(".");			
+			var versionMajor = tempArrayMajor[0];
+			var versionMinor = tempArrayMajor[1];
+			var versionRevision = descArray[3];
+			if (versionRevision == "") {
+				versionRevision = descArray[4];
+			}
+			if (versionRevision[0] == "d") {
+				versionRevision = versionRevision.substring(1);
+			} else if (versionRevision[0] == "r") {
+				versionRevision = versionRevision.substring(1);
+				if (versionRevision.indexOf("d") > 0) {
+					versionRevision = versionRevision.substring(0, versionRevision.indexOf("d"));
+				}
+			}
+			var flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
+		}
+	}
+	// MSN/WebTV 2.6 supports Flash 4
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
+	// WebTV 2.5 supports Flash 3
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
+	// older WebTV supports Flash 2
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
+	else if ( isIE && isWin && !isOpera ) {
+		flashVer = ControlVersion();
+	}	
+	return flashVer;
+}
+
+// When called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
+function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision)
+{
+	versionStr = GetSwfVer();
+	if (versionStr == -1 ) {
+		return false;
+	} else if (versionStr != 0) {
+		if(isIE && isWin && !isOpera) {
+			// Given "WIN 2,0,0,11"
+			tempArray         = versionStr.split(" "); 	// ["WIN", "2,0,0,11"]
+			tempString        = tempArray[1];			// "2,0,0,11"
+			versionArray      = tempString.split(",");	// ['2', '0', '0', '11']
+		} else {
+			versionArray      = versionStr.split(".");
+		}
+		var versionMajor      = versionArray[0];
+		var versionMinor      = versionArray[1];
+		var versionRevision   = versionArray[2];
+
+        	// is the major.revision >= requested major.revision AND the minor version >= requested minor
+		if (versionMajor > parseFloat(reqMajorVer)) {
+			return true;
+		} else if (versionMajor == parseFloat(reqMajorVer)) {
+			if (versionMinor > parseFloat(reqMinorVer))
+				return true;
+			else if (versionMinor == parseFloat(reqMinorVer)) {
+				if (versionRevision >= parseFloat(reqRevision))
+					return true;
+			}
+		}
+		return false;
+	}
+}
+
+function AC_AddExtension(src, ext)
+{
+  if (src.indexOf('?') != -1)
+    return src.replace(/\?/, ext+'?'); 
+  else
+    return src + ext;
+}
+
+function AC_Generateobj(objAttrs, params, embedAttrs) 
+{ 
+  var str = '';
+  if (isIE && isWin && !isOpera)
+  {
+    str += '<object ';
+    for (var i in objAttrs)
+    {
+      str += i + '="' + objAttrs[i] + '" ';
+    }
+    str += '>';
+    for (var i in params)
+    {
+      str += '<param name="' + i + '" value="' + params[i] + '" /> ';
+    }
+    str += '</object>';
+  }
+  else
+  {
+    str += '<embed ';
+    for (var i in embedAttrs)
+    {
+      str += i + '="' + embedAttrs[i] + '" ';
+    }
+    str += '> </embed>';
+  }
+
+  document.write(str);
+}
+
+function AC_FL_RunContent(){
+  var ret = 
+    AC_GetArgs
+    (  arguments, ".swf", "movie", "clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+     , "application/x-shockwave-flash"
+    );
+  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+}
+
+function AC_SW_RunContent(){
+  var ret = 
+    AC_GetArgs
+    (  arguments, ".dcr", "src", "clsid:166B1BCA-3F9C-11CF-8075-444553540000"
+     , null
+    );
+  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+}
+
+function AC_GetArgs(args, ext, srcParamName, classid, mimeType){
+  var ret = new Object();
+  ret.embedAttrs = new Object();
+  ret.params = new Object();
+  ret.objAttrs = new Object();
+  for (var i=0; i < args.length; i=i+2){
+    var currArg = args[i].toLowerCase();    
+
+    switch (currArg){	
+      case "classid":
+        break;
+      case "pluginspage":
+        ret.embedAttrs[args[i]] = args[i+1];
+        break;
+      case "src":
+      case "movie":	
+        args[i+1] = AC_AddExtension(args[i+1], ext);
+        ret.embedAttrs["src"] = args[i+1];
+        ret.params[srcParamName] = args[i+1];
+        break;
+      case "onafterupdate":
+      case "onbeforeupdate":
+      case "onblur":
+      case "oncellchange":
+      case "onclick":
+      case "ondblClick":
+      case "ondrag":
+      case "ondragend":
+      case "ondragenter":
+      case "ondragleave":
+      case "ondragover":
+      case "ondrop":
+      case "onfinish":
+      case "onfocus":
+      case "onhelp":
+      case "onmousedown":
+      case "onmouseup":
+      case "onmouseover":
+      case "onmousemove":
+      case "onmouseout":
+      case "onkeypress":
+      case "onkeydown":
+      case "onkeyup":
+      case "onload":
+      case "onlosecapture":
+      case "onpropertychange":
+      case "onreadystatechange":
+      case "onrowsdelete":
+      case "onrowenter":
+      case "onrowexit":
+      case "onrowsinserted":
+      case "onstart":
+      case "onscroll":
+      case "onbeforeeditfocus":
+      case "onactivate":
+      case "onbeforedeactivate":
+      case "ondeactivate":
+      case "type":
+      case "codebase":
+      case "id":
+        ret.objAttrs[args[i]] = args[i+1];
+        break;
+      case "width":
+      case "height":
+      case "align":
+      case "vspace": 
+      case "hspace":
+      case "class":
+      case "title":
+      case "accesskey":
+      case "name":
+      case "tabindex":
+        ret.embedAttrs[args[i]] = ret.objAttrs[args[i]] = args[i+1];
+        break;
+      default:
+        ret.embedAttrs[args[i]] = ret.params[args[i]] = args[i+1];
+    }
+  }
+  ret.objAttrs["classid"] = classid;
+  if (mimeType) ret.embedAttrs["type"] = mimeType;
+  return ret;
+}
+</script>
+<link href="layout.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body onload="MM_preloadImages('images/tpd_r4_c5_f2.jpg','images/tpd_r4_c7_f2.jpg','images/tpd_r4_c9_f2.jpg','images/tpd_r4_c11_f2.jpg','images/tpd_r4_c13_f2.jpg','images/tpd_r4_c15_f2.jpg','images/tpd_newb01_f2.jpg','images/wd01_1.gif','images/wd02_1.gif','images/wd03_1.gif','images/wd04_1.gif');;MM_CheckFlashVersion('9,0,28,0','這個頁面上的內容需要較新版本的 Adobe Flash Player。您現在要下載嗎?')">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="background-color:#FFFFFF; background-image:url(images/tpdtop_bg.jpg); background-position:top; background-repeat:repeat-x;" summary="網站排版用表格">
+  <tr>
+    <td style="background-image:url(images/tpdtop_left.jpg); background-position:top left; background-repeat:no-repeat; height:130px;" >
+    <div id="apDiv1">
+      <script type="text/javascript">
+AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','1000','height','132','title','臺灣臺北地方法院','src','lanman','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','wmode','transparent','movie','lanman' ); //end AC code
+</script><noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="1000" height="132" title="臺灣臺北地方法院">
+        <param name="movie" value="lanman.swf" />
+        <param name="quality" value="high" />
+        <param name="wmode" value="transparent" />
+        <embed src="lanman.swf" width="1000" height="132" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" wmode="transparent"></embed>臺灣臺北地方法院動畫
+      </object>
+    </noscript></div>
+    <div id="apDiv2"><a href="?" onfocus="MM_swapImage('wd01','','images/wd01_1.gif',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('wd01','','images/wd01_1.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/wd01.gif" alt="網站首頁" name="wd01"  border="0" id="wd01" /></a><img src="images/wd00.gif" alt="*" /><a href="http://www.judicial.gov.tw/email/write.htm" target="_blank" onfocus="MM_swapImage('wd02','','images/wd02_1.gif',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('wd02','','images/wd02_1.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/wd02.gif" alt="聯絡我們-連結至司法信箱(另開新視窗)" name="wd02"  border="0" id="wd02" /></a><img src="images/wd00.gif" alt="*" /><a href="?sitemap=true" onfocus="MM_swapImage('wd03','','images/wd03_1.gif',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('wd03','','images/wd03_1.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/wd03.gif" alt="網站地圖" name="wd03"  border="0" id="wd03" /></a><img src="images/wd00.gif" alt="*" /><a href="indexen.asp" onfocus="MM_swapImage('wd04','','images/wd04_1.gif',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('wd04','','images/wd04_1.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/wd04.gif" alt="English" name="wd04"  border="0" id="wd04" /></a></div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" background="images/tpd_r4_c1.jpg"><table border="0" cellpadding="0" cellspacing="0" summary="放置主要選項的表格">
+      <tr>
+        <td><a href="?sitemap=true" class="map" accesskey="C" title="主要選項區">:::</a></td>
+        <td><img name="tpd_r4_c6" src="images/tpd_r4_c6.jpg" width="2" height="31" border="0" id="tpd_r4_c6" alt="" /></td>
+        <td><a href="?struID=1&amp;navID=1&amp;contentID=2" onfocus="MM_swapImage('tpd_r4_c5','','images/tpd_r4_c5_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('tpd_r4_c5','','images/tpd_r4_c5_f2.jpg',1);" onmouseout="MM_swapImgRestore()"><img src="images/tpd_r4_c5.jpg" alt="認識本院" name="tpd_r4_c5" width="89" height="31" border="0" id="tpd_r4_c5" /></a></td>
+        <td><img name="tpd_r4_c6" src="images/tpd_r4_c6.jpg" width="2" height="31" border="0" id="tpd_r4_c6" alt="" /></td>
+        <td><a href="?struID=2&amp;navID=2&amp;contentID=6" onfocus="MM_swapImage('tpd_r4_c7','','images/tpd_r4_c7_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('tpd_r4_c7','','images/tpd_r4_c7_f2.jpg',1);" onmouseout="MM_swapImgRestore()"><img src="images/tpd_r4_c7.jpg" alt="禮民便民" name="tpd_r4_c7" width="89" height="31" border="0" id="tpd_r4_c7" /></a></td>
+        <td><img name="tpd_r4_c8" src="images/tpd_r4_c8.jpg" width="2" height="31" border="0" id="tpd_r4_c8" alt="" /></td>
+        <td><a href="?struID=3&amp;navID=11&amp;cid=11" onfocus="MM_swapImage('tpd_r4_c9','','images/tpd_r4_c9_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('tpd_r4_c9','','images/tpd_r4_c9_f2.jpg',1);" onmouseout="MM_swapImgRestore()"><img src="images/tpd_r4_c9.jpg" alt="業務概況" name="tpd_r4_c9" width="89" height="31" border="0" id="tpd_r4_c9" /></a></td>
+        <td><img name="tpd_r4_c8" src="images/tpd_r4_c8.jpg" width="2" height="31" border="0" id="tpd_r4_c8" alt="" /></td>
+        <td><a href="?struID=3&amp;navID=11&amp;cid=18" onfocus="MM_swapImage('tpd_newb01','','images/tpd_newb01_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('tpd_newb01','','images/tpd_newb01_f2.jpg',1);" onmouseout="MM_swapImgRestore()"><img src="images/tpd_newb01.jpg" alt="公證業務" name="tpd_newb01" width="89" height="31" border="0" id="tpd_newb01" /></a></td>
+        <td><img name="tpd_r4_c10" src="images/tpd_r4_c10.jpg" width="2" height="31" border="0" id="tpd_r4_c10" alt="" /></td>
+        <td><a href="?struID=5&amp;navID=5&amp;contentID=55" onfocus="MM_swapImage('tpd_r4_c11','','images/tpd_r4_c11_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('tpd_r4_c11','','images/tpd_r4_c11_f2.jpg',1);" onmouseout="MM_swapImgRestore()"><img src="images/tpd_r4_c11.jpg" alt="好站連結" name="tpd_r4_c11" width="89" height="31" border="0" id="tpd_r4_c11" /></a></td>
+        <td><img name="tpd_r4_c12" src="images/tpd_r4_c12.jpg" width="2" height="31" border="0" id="tpd_r4_c12" alt="" /></td>
+        <td><a href="http://www.judicial.gov.tw/email/write.htm" target="_blank" onfocus="MM_swapImage('tpd_r4_c13','','images/tpd_r4_c13_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('tpd_r4_c13','','images/tpd_r4_c13_f2.jpg',1);" onmouseout="MM_swapImgRestore()"><img src="images/tpd_r4_c13.jpg" alt="司法信箱" name="tpd_r4_c13" width="89" height="31" border="0" id="tpd_r4_c13" /></a></td>
+        <td><img name="tpd_r4_c14" src="images/tpd_r4_c14.jpg" width="2" height="31" border="0" id="tpd_r4_c14" alt="" /></td>
+        <td><a href="?struID=1&amp;cid=41" onfocus="MM_swapImage('tpd_r4_c15','','images/tpd_r4_c15_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('tpd_r4_c15','','images/tpd_r4_c15_f2.jpg',1);" onmouseout="MM_swapImgRestore()"><img src="images/tpd_r4_c15.jpg" alt="政府資訊公開服務" name="tpd_r4_c15" width="125" height="31" border="0" id="tpd_r4_c15" /></a></td>
+		        <td><img name="tpd_r4_c14" src="images/tpd_r4_c14.jpg" width="2" height="31" border="0" id="tpd_r4_c14" alt="" /></td>
+        <td><a href="?struID=2&contentID=392" onfocus="MM_swapImage('tpd_r4_c16','','images/tpd_r4_c16_f2.jpg',1)" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('tpd_r4_c16','','images/tpd_r4_c16_f2.jpg',1);" onmouseout="MM_swapImgRestore()"><img src="images/tpd_r4_c16.jpg" alt="本院自訂法規" name="tpd_r4_c16" width="125" height="31" border="0" id="tpd_r4_c16" /></a></td>		
+        <td><img name="tpd_r4_c6" src="images/tpd_r4_c6.jpg" width="2" height="31" border="0" id="tpd_r4_c6" alt="" /></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="100%" border="0" align="center" cellpadding="15" cellspacing="0" summary="放置左側選單的表格">
+      <tr valign="top">
+        <td width="5%" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="5" summary="網站排版用表格">
+          <tr>
+            <td style="background:url(images/search_bg.jpg) top no-repeat"><form action="" method="get" class="searchform" >
+			  <a href="?sitemap=true" class="map" accesskey="L" title="左側選單列">:::</a>
+              <input name="searchtype" type="radio" value="bulletin" checked="checked"/>
+              公告
+              <input name="searchtype" type="radio" value="website" />
+              網頁資料
+              <label for="keyword" style="color:#DDDDDD; font-size:0.1em">查</label><br />
+              <input name="keyword" type="text" class="textbox" id="keyword" value="請輸入關鍵字" size="11" onblur="javascript: if(this.value=='') this.value='請輸入關鍵字';" onfocus="javascript: if(this.value=='請輸入關鍵字') this.value='';"/>
+              <input name="search" type="hidden" class="textbox" id="search" value="true" />
+              <input type="submit" value="搜尋" />
+            </form><img src="images/spacer.gif" alt="" width="1" height="12" border="0"/></td>
+          </tr>
+        </table>
+        
+              <table border="0" cellpadding="0" cellspacing="0" background="images/itembanner_bg.jpg" summary="放置子選項的表格">
+                <tr>
+                  <td>
+                      <img src="images/itembanner_3.jpg" alt="業務概況" width="200" height="31" />
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center"><table width="90%" border="0" cellpadding="0" cellspacing="0" summary="網站排版用表格">
+                      
+                      <tr>
+                        <td align="left" class="selectTR"><img src="images/gif-0162.gif" alt="*" width="9" height="9" align="absmiddle" />
+                            
+                          &nbsp;<a href="?struID=3&amp;navID=&amp;cid=11" title="民事業務">民事業務</a>
+                                                  </td>
+                      </tr>
+                      
+                      <tr>
+                        <td align="left" class="selectTR"><img src="images/gif-0162.gif" alt="*" width="9" height="9" align="absmiddle" />
+                            
+                          &nbsp;<a href="?struID=3&amp;navID=&amp;cid=18" title="公證業務">公證業務</a>
+                                                  </td>
+                      </tr>
+                      
+                      <tr>
+                        <td align="left" class="selectTR"><img src="images/gif-0162.gif" alt="*" width="9" height="9" align="absmiddle" />
+                            
+                          &nbsp;<a href="?struID=3&amp;navID=&amp;cid=13" title="刑事業務">刑事業務</a>
+                                                  </td>
+                      </tr>
+                      
+                      <tr>
+                        <td align="left" class="selectTR"><img src="images/gif-0162.gif" alt="*" width="9" height="9" align="absmiddle" />
+                            
+                          &nbsp;<a href="?struID=3&amp;navID=&amp;cid=14" title="家事業務">家事業務</a>
+                                                  </td>
+                      </tr>
+                      
+                      <tr>
+                        <td align="left" class="selectTR"><img src="images/gif-0162.gif" alt="*" width="9" height="9" align="absmiddle" />
+                            
+                          &nbsp;<a href="?struID=3&amp;navID=&amp;cid=15" title="少年業務">少年業務</a>
+                                                  </td>
+                      </tr>
+                      
+                      <tr>
+                        <td align="left" class="selectTR"><img src="images/gif-0162.gif" alt="*" width="9" height="9" align="absmiddle" />
+                            
+                          &nbsp;<a href="?struID=3&amp;navID=&amp;cid=16" title="簡易庭業務">簡易庭業務</a>
+                                                  </td>
+                      </tr>
+                      
+                      <tr>
+                        <td align="left" class="selectTR"><img src="images/gif-0162.gif" alt="*" width="9" height="9" align="absmiddle" />
+                            
+                          &nbsp;<a href="?struID=3&amp;navID=&amp;cid=17" title="民事執行">民事執行</a>
+                                                  </td>
+                      </tr>
+                      
+                      <tr>
+                        <td align="left" class="selectTR"><img src="images/gif-0162.gif" alt="*" width="9" height="9" align="absmiddle" />
+                            
+                          &nbsp;<a href="?struID=3&amp;navID=&amp;cid=62" title="行政訴訟業務">行政訴訟業務</a>
+                                                  </td>
+                      </tr>
+                      
+                      <tr>
+                        <td align="left" class="selectTR"><img src="images/gif-0162.gif" alt="*" width="9" height="9" align="absmiddle" />
+                            
+                          &nbsp;<a href="?struID=3&amp;navID=&amp;cid=12" title="非訟中心">非訟中心</a>
+                                                  </td>
+                      </tr>
+                      
+                      <tr>
+                        <td align="left" class="selectTR"><img src="images/gif-0162.gif" alt="*" width="9" height="9" align="absmiddle" />
+                            
+                          &nbsp;<a href="?struID=3&amp;navID=&amp;cid=19" title="提存業務">提存業務</a>
+                                                  </td>
+                      </tr>
+                      
+                      <tr>
+                        <td align="left" class="selectTR"><img src="images/gif-0162.gif" alt="*" width="9" height="9" align="absmiddle" />
+                            
+                          &nbsp;<a href="?struID=3&amp;navID=&amp;cid=20" title="登記業務">登記業務</a>
+                                                  </td>
+                      </tr>
+                      
+                      <tr>
+                        <td align="left" class="selectTR"><img src="images/gif-0162.gif" alt="*" width="9" height="9" align="absmiddle" />
+                            
+                          &nbsp;<a href="?struID=3&amp;navID=&amp;cid=21" title="政風業務">政風業務</a>
+                                                  </td>
+                      </tr>
+                      
+                      <tr>
+                        <td align="left" class="selectTR"><img src="images/gif-0162.gif" alt="*" width="9" height="9" align="absmiddle" />
+                            
+                          &nbsp;<a href="?struID=3&amp;navID=&amp;cid=22" title="閱卷室業務">閱卷室業務</a>
+                                                  </td>
+                      </tr>
+                      
+                      <tr>
+                        <td align="left" class="selectTR"><img src="images/gif-0162.gif" alt="*" width="9" height="9" align="absmiddle" />
+                            
+                          &nbsp;<a href="?struID=3&amp;navID=&amp;cid=23" title="會計室業務">會計室業務</a>
+                                                  </td>
+                      </tr>
+                      
+                      <tr>
+                        <td align="left" class="selectTR"><img src="images/gif-0162.gif" alt="*" width="9" height="9" align="absmiddle" />
+                            
+                          &nbsp;<a href="?struID=3&amp;navID=&amp;cid=58" title="總務科業務">總務科業務</a>
+                                                  </td>
+                      </tr>
+                      
+                      <tr>
+                        <td align="left" class="selectTR"><img src="images/gif-0162.gif" alt="*" width="9" height="9" align="absmiddle" />
+                            
+                          &nbsp;<a href="?struID=3&amp;navID=&amp;cid=63" title="提審業務專區">提審業務專區</a>
+                                                  </td>
+                      </tr>
+                      
+                      <tr>
+                        <td align="left" class="selectTR"><img src="images/gif-0162.gif" alt="*" width="9" height="9" align="absmiddle" />
+                            
+                          &nbsp;<a href="?struID=3&amp;navID=&amp;cid=66" title="統計室業務">統計室業務</a>
+                                                  </td>
+                      </tr>
+                      
+                      <tr>
+                        <td align="left" class="selectTR"><img src="images/gif-0162.gif" alt="*" width="9" height="9" align="absmiddle" />
+                            
+                          &nbsp;<a href="?struID=3&amp;navID=&amp;cid=69" title="線上起訴業務專區">線上起訴業務專區</a>
+                                                  </td>
+                      </tr>
+                      
+                  </table></td>
+                </tr>
+                <tr>
+                  <td align="center"></td>
+                </tr>
+                <tr>
+                  <td align="center"><img src="images/itembanner_bot.jpg" alt="*" width="200" height="14" /></td>
+                </tr>
+            </table>
+			<br />
+			
+			<span class="siteinfo">【網站瀏覽人數】<br />
+            <img src=images/counter/0.gif align='absmiddle' alt='3852020'><img src=images/counter/3.gif align='absmiddle' alt='3852020'><img src=images/counter/8.gif align='absmiddle' alt='3852020'><img src=images/counter/5.gif align='absmiddle' alt='3852020'><img src=images/counter/2.gif align='absmiddle' alt='3852020'><img src=images/counter/0.gif align='absmiddle' alt='3852020'><img src=images/counter/2.gif align='absmiddle' alt='3852020'><img src=images/counter/0.gif align='absmiddle' alt='3852020'></span><br />
+            <br />
+            <a href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20071031112522" title = "無障礙網站" target="_blank"><img src="images/aplus.jpg" alt="通過A+優先等級無障礙網頁檢測" border="0" width="88" height="31" /></a></td>
+        <td><div id="mainContent">
+          <div class="navgate"> <a href="?sitemap=true" class="map" accesskey="M" title="主要內容區">:::</a> <img src="images/gif-0655.gif" alt="導覽首頁圖示" width="18" height="17" align="absmiddle" /><font color="#FFFFFF">-</font><a href="?" title="首頁">首頁</a> 
+                   &gt; <a href='?struID=3&cid=3' title='業務概況'>業務概況</a> &gt; <a href='?struID=3&cid=23' title='會計室業務'>會計室業務</a> &gt; <a href='?struID=3&cid=39' title='預算類'>預算類</a>
+          </div>
+          
+          <h1>預算類
+          </h1>
+          
+          <h2>預算書</h2>
+          <div class="contentbox"><ul>
+    <li>(公佈日期105年8月26日)&nbsp;<a href="/UserFiles/106預算案.pdf">106年度預算案(pdf檔)</a></li>
+    <li>(公佈日期105年8月26日) <a href="/UserFiles/106預算案excel.zip">106年度預算案(excel檔)</a></li>
+    <li>(公佈日期105年8月26日) <a href="/UserFiles/106預算案-xml.zip">106年度預算案(xml檔)</a></li>
+    <li>(公佈日期105年8月26日)&nbsp;<a href="/UserFiles/106預算總說明.doc">106年度預算案總說明.doc</a></li>
+    <li>(公佈日期105年2月1日)&nbsp; <a href="/UserFiles/105年法定預算.pdf">105年度法定預算.pdf</a></li>
+    <li>(公佈日期105年2月1日)&nbsp; <a href="/UserFiles/105年度法定預算(excel檔).7z">105年度法定預算(excel檔).7z</a></li>
+    <li>(公佈日期105年2月1日)&nbsp;&nbsp;<a href="/UserFiles/105年度法定預算(xml檔).7z">105年度法定預算(xml檔).7z</a></li>
+    <li>(公佈日期105年2月1日)&nbsp; <a href="/UserFiles/105預算總說明.doc">105年度預算總說明.doc</a></li>
+    <li>(公佈日期104年9月7日）<a href="/UserFiles/105-預算案(excel).zip">105年度單位預算案書(excel檔)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+    <li>(公佈日期104年9月1日）<a href="/UserFiles/105-預算案-xml.zip">105年度單位預算案書(xml檔)</a></li>
+    <li>(公佈日期104年9月1日）<a href="/UserFiles/105預算案.pdf">105年度單位預算案書</a></li>
+    <li>(公佈日期104年3月9日)<a href="/UserFiles/104法定預算書.zip">104法定預算書(excel檔)</a><span style="color: #0000ff">&nbsp;&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+    <li>(公佈日期104年3月9日)<a href="/UserFiles/104法定預算總說明.doc">104法定預算書總說明</a></li>
+    <li>(公佈日期104年3月5日)(<a href="/UserFiles/104-法定預算.zip">104法定預算書(xml檔)</a></li>
+    <li>(公佈日期104年3月5日)<a href="/UserFiles/104法定.pdf">104法定預算書(pdf檔)</a></li>
+    <li>(公佈日期104年3月5日)<a href="/UserFiles/104-預算案-xml.zip">104年度單位預算案書(xml檔)</a><span style="color: #800080"> </span></li>
+    <li>(公佈日期103年9月2日)<a href="/UserFiles/104預算案書.pdf">104年度單位預算案書</a></li>
+    <li>(公佈日期103年2月26日)<a href="/UserFiles/103法定預算書.pdf">103法定預算書</a>　</li>
+    <li>(公佈日期102年9月2日)<a href="/UserFiles/完整版.pdf">103年度單位預算案書</a></li>
+    <li>(公佈日期102年3月20日)<a href="/UserFiles/102法定預算.pdf">102年度法定預算書</a>&nbsp;</li>
+    <li>(公佈日期101年12月06日)&nbsp;<a href="/UserFiles/102預算案.pdf">102年度單位預算案書</a>　&nbsp;</li>
+    <li>(公布日期101年 2月20日)<a href="/UserFiles/101年法定預算書.pdf"><span style="color: #6699cc">101年度法定預算書</span></a></li>
+    <li>(公布日期100年 3月3日) <a href="/UserFiles/100法定預算書全.pdf">100年度法定預算書</a></li>
+    <li>(公布日期99年 3月22日) <a href="/UserFiles/99年度中央政府總預算案990322.pdf">99年度法定預算書</a></li>
+    <li>(公布日期98年 4月29日) <a href="/UserFiles/98年度法定預算書.pdf">98年度法定預算書</a></li>
+    <li><a href="/UserFiles/97年度法定預算書.pdf">97年度法定預算書</a></li>
+    <li><a href="/UserFiles/96年度法定預算書.pdf">96年度法定預算書</a></li>
+    <li><a href="/UserFiles/95年度法定預算書.pdf">95年度法定預算書</a></li>
+</ul>
+<p>&nbsp;</p></div>
+                  
+          <h2>歲入</h2>
+          <div class="contentbox"><ul>
+    <li><a title="下載97年歲入來源別預算表(另開新視窗)" target="_blank" href="/UserFiles/97歲入來源別預算表.pdf">97年歲入來源別預算表</a></li>
+    <li><a title="97年預算案歲入來源別Pdf檔(另開新視窗)" target="_blank" href="/UserFiles/97預算歲入來源別.pdf">97年預算案歲入來源別</a> </li>
+    <li><a title="96法定預算歲入來源別Pdf檔(另開新視窗)" target="_blank" href="/UserFiles/96法定預算歲入來源別.pdf">96年歲入來源別</a> </li>
+    <li><a title="95法定預算歲入來源別Pdf檔(另開新視窗)" target="_blank" href="/UserFiles/95法定預算歲入來源別.pdf">95年歲入來源別</a> </li>
+</ul></div>
+                  
+          <h2>歲出</h2>
+          <div class="contentbox"><ul>
+<li><a title="下載97年歲出機關別預算表(另開新視窗)" target="_blank" href="/UserFiles/97歲出機關別預算表.pdf">97年歲出機關別預算表</a> </li>
+<li><a title="97預算歲出機關別預算表Pdf檔(另開新視窗)" target="_blank" href="/UserFiles/97預算歲出機關別預算表.pdf">97年預算案歲出機關別預算表</a> </li>
+<li><a title="96法定預算歲出機關別預算表Pdf檔(另開新視窗)" target="_blank" href="/UserFiles/96法定預算歲出機關別預算表.pdf">96年歲出機關別預算表</a> </li>
+<li><a title="95法定預算歲出機關別預算表Pdf檔(另開新視窗)" target="_blank" href="/UserFiles/95法定預算歲出機關別預算表.pdf">95年歲出機關別預算表</a></li>
+</ul></div>
+                  
+        </div></td>
+        
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td style="background-image:url(images/tpd_r7_c3.jpg); background-repeat:repeat-x; background-position:bottom;"><img src="images/spacer.gif" alt="*" width="1" height="65" align="left" /><div id="botRegion">
+      <div class="sitestatus">
+        <div align="center"></div>
+      </div>
+      <img src="images/tpdlogo_s.png" alt="臺灣臺北地方法院" width="194" height="42" align="left" />
+    <div class="siteinfo"><strong>臺灣臺北地方法院</strong> 版權所有&copy; 2008 Taiwan Taipei District Court, All Rights Reserved.<br />
+              10048 臺北市博愛路 131 號 TEL：(02)2314-6871　FAX：(02)2331-8047 <br />
+              23146 新北市新店區中興路一段248號 TEL：(02)8919-3866　FAX：(02)2910-0047 <br />
+</div>
+    </div></td>
+  </tr>
+</table>
+</body>
+</html>

@@ -30,6 +30,8 @@ var processFile = function(file){
 //process 總預算案
 var folder = "source/2017/csv/";
 var year = 2017;
+
+
 fs.readdir(folder,function(err,files){
   var promises = [];
   files.forEach(function(file){

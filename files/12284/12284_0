@@ -1,0 +1,387 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>行政院農業委員會農業試驗所-	政府資訊公開-預算與決算</title>
+
+
+
+<link rel="govtwsimpledc.xsd" href="http://www.gov.tw/schema/dc/" title="Dublin Core" />
+<meta name="DC.Title"          content="104年度單位預算、單位決算" />
+<meta name="DC.Creator"        content="行政院農業委員會農業試驗所" />
+<meta name="DC.Subject"        content="104年度單位預算、單位決算" />
+<meta name="DC.Description"    content="行政院農業委員會農業試驗所" />
+<meta name="DC.Contributor"    content="行政院農業委員會農業試驗所" />
+<meta name="DC.Type"           content="text/html" />
+<meta name="DC.Format"         content="text" />
+<meta name="DC.Source"         content="行政院農業委員會農業試驗所" />
+<meta name="DC.Language"       content="中文" />
+<meta name="DC.coverage.t.max" content="2016-11-07" />
+<meta name="DC.coverage.t.min" content="2020-12-31" />
+<meta name="DC.Publisher"      content="行政院農業委員會農業試驗所" />
+<meta name="DC.Date"           content="2014-08-27" />
+<meta name="DC.Identifier"     content="" />
+<meta name="DC.Relation"       content="GIP-EY-LP-0090-0001-MP01" />
+<meta name="DC.Rights"         content="行政院農業委員會農業試驗所" />
+<meta name="Category.Theme"    content="900" />
+<meta name="Category.Service"  content="I10" />
+<meta name="Category.Cake"     content="AX0" />
+<meta name="Keywords"          content="行政院農業委員會農業試驗所 ,預算與決算  ,104年度單位預算、單位決算" />
+
+<script src="../df_js/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="../js/function.js"></script>
+
+<script src="../df_js/fancybox/jquery.mousewheel-3.0.4.pack.js" type="text/javascript"></script>
+<script src="../df_js/fancybox/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
+<script src="../df_js/readyfun.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="../df_js/fancybox/jquery.fancybox-1.3.4.css" media="screen" />
+
+<link href="../css/style_m.css" rel="stylesheet" type="text/css"  title="MiddleText"  />
+<link href="../css/style_s.css" rel="stylesheet" type="text/css"  title="SmallText"  />
+<link href="../css/style_l.css" rel="stylesheet" type="text/css"  title="LargeText"  />
+</head>
+</head>
+
+<body>
+<div id="all">
+<div id="top">
+<div id="logo">
+<a href="../index.asp"><img src="../images/logo.png" alt="行政院農業委員會農業試驗所(回首頁)" border="0" /></a>
+</div><!--logo-->
+<div id="top_link">
+<a href="#" title="上方區域" accesskey="U">:::</a><a href='../sitemap/index.asp?Parser=99,12,64'>｜網站導覽</a><a href='../Search/index.asp?Parser=99,11,62'>｜全站搜尋</a><a href="../mail/index.asp?Parser=99,5,35">｜意見信箱</a><a href="../content/index.asp?Parser=7,5,71,36">｜雙語詞彙</a><a href="../english/"  tabindex="1">｜English</a><a href="../index.asp">｜回首頁</a>
+</div><!--top_link-->
+<div class="clean"></div><!--clean-->
+<div id="top_menu">
+<div id="left_title" style="background:url(../images/left_title05.png)"></div><!--left_title-->
+<div id="menu">
+<a href='../content/index.asp?Parser=1,3,14' onBlur="MM_swapImgRestore()" onFocus="MM_swapImage('Image01','','../images/menu01-.jpg',1)" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image01','','../images/menu01-.jpg',1)" tabindex="3"><img src="../images/menu01.jpg" alt=" 本所簡介" title=" 本所簡介" name="Image01" width="88" height="40" border="0"></a><a href='../news/index.asp?Parser=9,4,25' onBlur="MM_swapImgRestore()" onFocus="MM_swapImage('Image02','','../images/menu02-.jpg',1)" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image02','','../images/menu02-.jpg',1)" tabindex="5"><img src="../images/menu02.jpg" alt="公告資訊" title="公告資訊" name="Image02" width="89" height="40" border="0"></a><a  href='../form/index.asp?Parser=2,5,29' onBlur="MM_swapImgRestore()" onFocus="MM_swapImage('Image03','','../images/menu03-.jpg',1)" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image03','','../images/menu03-.jpg',1)" tabindex="7"><img src="../images/menu03.jpg" alt="便民服務" title="便民服務" name="Image03" width="89" height="40" border="0"></a><a href='../tour1/index.asp?Parser=99,6,37' onBlur="MM_swapImgRestore()" onFocus="MM_swapImage('Image04','','../images/menu04-.jpg',1)" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image04','','../images/menu04-.jpg',1)" tabindex="9"><img src="../images/menu04.jpg" alt="研發成果介紹"  title="研發成果介紹" name="Image04" width="126" height="40" border="0"></a><a href='../form/index.asp?Parser=2,7,40' onBlur="MM_swapImgRestore()" onFocus="MM_swapImage('Image05','','../images/menu05-.jpg',1)" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image05','','../images/menu05-.jpg',1)" tabindex="11"><img src="../images/menu05-.jpg" alt="政府公開資訊" title="政府資訊公開" name="Image05" width="125" height="40" border="0"></a><a href='../video/index.asp?Parser=17,8,48' onBlur="MM_swapImgRestore()" onFocus="MM_swapImage('Image06','','../images/menu06-.jpg',1)" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image06','','../images/menu06-.jpg',1)" tabindex="13"><img src="../images/menu06.jpg" alt="影音專區" title="影音專區" name="Image06" width="89" height="40" border="0"></a><a  href='../publication2/index.asp?Parser=99,9,52' onBlur="MM_swapImgRestore()" onFocus="MM_swapImage('Image07','','../images/menu07-.jpg',1)" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image07','','../images/menu07-.jpg',1)" tabindex="15"><img src="../images/menu07.jpg" alt="出版品"  title="出版品" name="Image07" width="72" height="40" border="0"></a><a href='../links/index.asp?Parser=11,10,58' onBlur="MM_swapImgRestore()" onFocus="MM_swapImage('Image08','','../images/menu08-.jpg',1)" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image08','','../images/menu08-.jpg',1)" tabindex="17"><img src="../images/menu08.jpg" alt="相關連結" title="相關連結" name="Image08" width="94" height="40" border="0" /></a></div>
+<!--menu-->
+</div><!--top_menu-->
+</div><!--top-->
+<div id="con">
+<div id="left">
+<a href="#" title="左方區域" accesskey="L">:::</a>
+<div id="menu2">
+<div class="menu2"><a href='../form/index.asp?Parser=2,7,40'   >組織執掌與聯絡方式</a></div>
+			  <div class="menu2"><a href='../form/index.asp?Parser=2,7,41'   >條約、中央法規</a></div>
+			  <div class="menu2"><a href='../form/index.asp?Parser=2,7,42'   >函釋與裁量基準</a></div>
+			  <div class="menu2"><a href='../form/index.asp?Parser=2,7,43'   >施政計畫、業務統計與研究報告</a></div>
+			  <div class="menu2_1"><a href='../form/index.asp?Parser=2,7,44'   >預算與決算</a></div>
+			  <div class="menu2"><a href='../form/index.asp?Parser=3,7,1166'   >會計報告</a></div>
+			  <div class="menu2"><a href='../content/index.asp?Parser=1,7,1109'   >支付或接受之補助</a></div>
+			  <div class="menu2"><a href='../form/index.asp?Parser=2,7,45'   >公共工程採購契約</a></div>
+			  <div class="menu2"><a href='../form/index.asp?Parser=2,7,740'   >個人資料保護專區</a></div>
+			  <div class="menu2"><a href='http://www.coa.gov.tw/ws.php?id=19059' target='_blank' title='將另開新視窗（http://www.coa.gov.tw/ws.php?id=19059）'   >重大政策</a></div>
+			  <div class="menu2"><a href='../form/index.asp?Parser=2,7,47'   >就業資訊</a></div>
+			  <div class="menu2"><a href='../form/index.asp?Parser=2,7,1127'   >政策宣導</a></div>
+			  
+<SCRIPT language="JavaScript">
+var focus_tmp=0;
+function showmenu(tab,t_ss)
+{
+	if(focus_tmp==0)
+	{
+	var menu_se_tem="";	
+	var menu_tmp=document.getElementById("menug"+tab);
+
+	if (menu_tmp!=undefined){menu_se_tem=menu_tmp.style.display;}
+    
+	if (t_ss == 1 && menu_tmp!=undefined )
+	 {  if (menu_tmp.style.display == 'none')
+	    {  menu_tmp.style.display='block';}
+		else
+		{  menu_tmp.style.display='none';}
+	 }
+	}
+    else
+    {focus_tmp=0;}
+}
+
+function showmenuf(tab1,t_ss1)
+{   focus_tmp=0;
+	showmenu(tab1,t_ss1)
+	focus_tmp=1;
+}
+    showmenu(44,0)
+</script>
+</div>
+</div><!--left--><!--main-->
+<div id="main">
+<div id="main_title">
+<div id="title_word">
+預算與決算
+</div><!--title_word-->
+<div id="title_link">
+<a href="#" title="中間區域" accesskey="C">:::</a> <a href="../index.asp">首頁</a>  
+ &gt; <a href='../form/index.asp?Parser=2,7,40'  class='link_list'> 	政府資訊公開 </a> &gt; <a href='../form/index.asp?Parser=2,7,44' class='link_list' title='預算與決算'>預算與決算</a> 
+ </div><!--title_link-->
+<div class="clean"></div><!--clean-->
+</div><!--main_title-->
+<div id="main_type">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  
+  <tr>
+<td width='99%' align='right'>&nbsp;</td>
+    <td width="1%" align="right" nowrap="nowrap">&nbsp;<a href="javascript:"  onkeypress="MM_openBrWindow('../df_inc/get_content.asp?t=p&n=/form/index—1.asp?Parser=2,7,44,,,,4722','','scrollbars=yes,width=650,height=500')"  onclick="MM_openBrWindow('../df_inc/get_content.asp?t=p&n=/form/index—1.asp?Parser=2,7,44,,,,4722','','scrollbars=yes,width=650,height=500')"><img src="../images/icon_print.jpg" alt="友善列印" width="40" height="20" hspace="5" border="0" align="absmiddle" /></a><noscript class="T064"><a href="../df_inc/get_content.asp?t=p&n=/form/index—1.asp?Parser=2,7,44,,,,4722">列印</a></noscript>｜<a href="mailto:?subject=%C2%E0%B1H%A6n%A4%CD%A1G%A6%E6%ACF%B0%7C%B9A%B7%7E%A9e%AD%FB%B7%7C%B9A%B7%7E%B8%D5%C5%E7%A9%D2%2D%09%ACF%A9%B2%B8%EA%B0T%A4%BD%B6%7D%2D%B9w%BA%E2%BBP%A8M%BA%E2&body=http://www.tari.gov.tw//form/index-1.asp?Parser=2,7,44,,,,4722"><img src="../images/icon_mail.jpg" alt="轉寄好友" width="40" height="20" hspace="5" border="0" align="absmiddle" /></a>｜</td>
+    <td width="1%" align="right" nowrap="nowrap"> 字級：</td>
+    <td width="1%" align="right" nowrap="nowrap">
+    <a href="javascript:setFontC('SmallText');" ><img src="../images/icon_s.jpg" alt="小" name="fss" width="19" height="16" border="0" align="absmiddle" id="fss" /></a>
+    <a href="javascript:setFontC('MiddleText');"><img src="../images/icon_m.jpg" alt="中" name="fsm" width="19" height="16" border="0" align="absmiddle" id="fsm" /></a>
+    <a href="javascript:setFontC('LargeText');"><img src="../images/icon_l.jpg" alt="大" name="fsl" width="19" height="16" border="0" align="absmiddle" id="fsl" /></a>
+    ｜我要分享至：
+    
+				<a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww%2Etari%2Egov%2Etw%2Fform%2Findex%2D1%2Easp%3FParser%3D2%2C7%2C44%2C%2C%2C%2C4722&t=" target="_blank" title="分享到Facebook(另開新視窗)"><img src="../in_images/icon_fb.jpg" alt="分享到Facebook(另開新視窗)" width="20" height="20" border="0" align="absmiddle" /></a>
+                <a href="http://twitter.com/home?status=http%3A%2F%2Fwww%2Etari%2Egov%2Etw%2Fform%2Findex%2D1%2Easp%3FParser%3D2%2C7%2C44%2C%2C%2C%2C4722" target="_blank"  title="分享到Twitter(另開新視窗)"><img src="../in_images/icon_twitter.jpg" alt="分享到Twitter(另開新視窗)" width="20" height="20" border="0" align="absmiddle" /></a>
+				<a href="https://plus.google.com/share?url=http%3A%2F%2Fwww%2Etari%2Egov%2Etw%2Fform%2Findex%2D1%2Easp%3FParser%3D2%2C7%2C44%2C%2C%2C%2C4722" target="_blank"  title="分享到Google+(另開新視窗)"><img src="../in_images/icon_google-.jpg" alt="分享到Google+(另開新視窗)" width="20" height="20" border="0" align="absmiddle" />
+                
+    </td>
+  </tr>
+  <tr>
+    <td colspan="6" align="right"><noscript style="color:#F00; background:#FFF">變更字變大小不影響資料瀏覽，替方式 [檢視]->[字型]->選擇[較大、中、較小] 。或[Ctrl]+[+]放大，[Ctrl]+[-] 縮小</noscript></td>
+    </tr>
+</table>
+
+</div><!--main_type-->
+<div id="content">
+
+<span class="content_title">104年度單位預算、單位決算</span><br />
+ 
+<br/><img src="../images/icon01.jpg" width="9" height="9" alt="*" style="margin-bottom:-1px" />下載檔案：
+<br/>&nbsp;&nbsp;行政院農業委員會農業試驗所104年度法定預算-Pdf格式 (2015-02-13)&nbsp;<a href='../df_ufiles/e/file_20150213_01.pdf' title='下載檔案'><img src='../df_sys/df_img/d06.gif' alt='file_20150213_01.pdf下載 Pdf 檔(行政院農業委員會農業試驗所104年度法定預算-Pdf格式 (2015-02-13))'  align='absmiddle' width='16' border='0'></a><br/>&nbsp;&nbsp;行政院農業委員會農業試驗所104年度法定預算(總說明)-Word格式 (2015-02-26)&nbsp;<a href='../df_ufiles/e/104年法定預算總說明.doc' title='下載檔案'><img src='../df_sys/df_img/d07.gif' alt='104年法定預算總說明.doc下載 Word 檔(行政院農業委員會農業試驗所104年度法定預算(總說明)-Word格式 (2015-02-26))'  align='absmiddle' width='16' border='0'></a><br/>&nbsp;&nbsp;行政院農業委員會農業試驗所104年度法定預算-Excel格式 (2015-02-26)&nbsp;<a href='../df_ufiles/e/104-法定預算-20150226.rar' title='下載檔案'><img src='../df_sys/df_img/d05.gif' alt='104-法定預算-20150226.rar下載 RAR 檔(行政院農業委員會農業試驗所104年度法定預算-Excel格式 (2015-02-26))'  align='absmiddle' width='16' border='0'></a><br/>&nbsp;&nbsp;行政院農業委員會農業試驗所104年度法定預算-Xml格式 (2015-03-04)&nbsp;<a href='../df_ufiles/e/農業試驗所104年度法定預算-(xml).rar' title='下載檔案'><img src='../df_sys/df_img/d05.gif' alt='農業試驗所104年度法定預算-(xml).rar下載 RAR 檔(行政院農業委員會農業試驗所104年度法定預算-Xml格式 (2015-03-04))'  align='absmiddle' width='16' border='0'></a><br/>&nbsp;&nbsp;行政院農業委員會農業試驗所104年預算案-Pdf格式 (2015-03-06)&nbsp;<a href='../df_ufiles/e/行政院農業委員會農業試驗所104年度預算案.pdf' title='下載檔案'><img src='../df_sys/df_img/d06.gif' alt='行政院農業委員會農業試驗所104年度預算案.pdf下載 Pdf 檔(行政院農業委員會農業試驗所104年預算案-Pdf格式 (2015-03-06))'  align='absmiddle' width='16' border='0'></a><br/>&nbsp;&nbsp;行政院農業委員會農業試驗所104年預算案(總說明)-Word格式 (2015-03-06)&nbsp;<a href='../df_ufiles/e/行政院農業委員會農業試驗所104年度預算案(總說明).doc' title='下載檔案'><img src='../df_sys/df_img/d07.gif' alt='行政院農業委員會農業試驗所104年度預算案(總說明).doc下載 Word 檔(行政院農業委員會農業試驗所104年預算案(總說明)-Word格式 (2015-03-06))'  align='absmiddle' width='16' border='0'></a><br/>&nbsp;&nbsp;行政院農業委員會農業試驗所104年預算案-Excel格式 (2015-03-06)&nbsp;<a href='../df_ufiles/e/行政院農業委員會農業試驗所104年度預算案-Excel.rar' title='下載檔案'><img src='../df_sys/df_img/d05.gif' alt='行政院農業委員會農業試驗所104年度預算案-Excel.rar下載 RAR 檔(行政院農業委員會農業試驗所104年預算案-Excel格式 (2015-03-06))'  align='absmiddle' width='16' border='0'></a><br/>&nbsp;&nbsp;行政院農業委員會農業試驗所104年預算案-Xml格式 (2015-03-06)&nbsp;<a href='../df_ufiles/e/行政院農業委員會農業試驗所104年度預算案-Xml.rar' title='下載檔案'><img src='../df_sys/df_img/d05.gif' alt='行政院農業委員會農業試驗所104年度預算案-Xml.rar下載 RAR 檔(行政院農業委員會農業試驗所104年預算案-Xml格式 (2015-03-06))'  align='absmiddle' width='16' border='0'></a><br/>&nbsp;&nbsp;行政院農業委員會農業試驗所104年度單位決算-Pdf格式 (2015-03-31)&nbsp;<a href='../df_ufiles/e/fiel-20160321-001.pdf' title='下載檔案'><img src='../df_sys/df_img/d06.gif' alt='fiel-20160321-001.pdf下載 Pdf 檔(行政院農業委員會農業試驗所104年度單位決算-Pdf格式 (2015-03-31))'  align='absmiddle' width='16' border='0'></a><br/>&nbsp;&nbsp;行政院農業委員會農業試驗所104年度單位決算-XML格式 (2015-03-31)&nbsp;<a href='../df_ufiles/e/104-12-5104-決算書表-20160318162513.rar' title='下載檔案'><img src='../df_sys/df_img/d05.gif' alt='104-12-5104-決算書表-20160318162513.rar下載 RAR 檔(行政院農業委員會農業試驗所104年度單位決算-XML格式 (2015-03-31))'  align='absmiddle' width='16' border='0'></a>
+</div>
+<!--content-->
+
+</div><!--main-->
+<div class="clean"></div><!--clean-->
+</div><!--con-->
+
+<div id="con_bg"></div>
+
+<div style="border-bottom-color: rgb(204, 204, 204);" id="fat_footer">
+      <div id="ff_btn"><input  id="fat_btn" src="../in_images/ff_close.png" alt="收合" type="image"></div><!--ff_btn-->
+        <ul id="fat_ul">
+  
+        <li><a href='../content/index.asp?Parser=1,3,14'>本所簡介</a>
+            <ul>
+     
+        	<li><a  href='../content/index.asp?Parser=1,3,14'>歷史沿革</a></li>
+            
+        	<li><a  href='../content/index.asp?Parser=1,3,15'>所長的話</a></li>
+            
+        	<li><a  href='../content_type/index.asp?Parser=15,3,695'>主管介紹</a></li>
+            
+        	<li><a  href='../content/index.asp?Parser=1,3,17'>組織架構</a></li>
+            
+        	<li><a  href='../content/index.asp?Parser=7,3,18'>業務介紹</a></li>
+            
+        	<li><a  href='../tour_link/index.asp?Parser=99,3,19'>行政單位</a></li>
+            
+        	<li><a  href='../tour_link/index.asp?Parser=13,3,20'>研究單位</a></li>
+            
+        	<li><a  href='../content/index.asp?Parser=7,3,67,21'>聯絡資訊</a></li>
+            
+        	<li><a  href='../content/index.asp?Parser=1,3,22'>交通資訊</a></li>
+            
+        	<li><a  href='../content/index.asp?Parser=1,3,23'>所徽介紹</a></li>
+            
+        	<li><a  href='../content/index.asp?Parser=1,3,16'>歷任所長</a></li>
+            
+        	<li><a  href='/sub/index15.asp' target='_blank' title='將另開新視窗（/sub/index15.asp）'>所內專區</a></li>
+            
+        	</ul>
+        </li>
+
+        <li><a href='../news/index.asp?Parser=9,4,25'>公告資訊</a>
+            <ul>
+     
+        	<li><a  href='../news/index.asp?Parser=9,4,25'>最新消息</a></li>
+            
+        	<li><a  href='../news/index.asp?Parser=9,4,26'>新聞稿</a></li>
+            
+        	<li><a  href='../news/index.asp?Parser=10,4,27'>活動訊息</a></li>
+            
+        	<li><a  href='../news/index.asp?Parser=9,4,750'>行政公告</a></li>
+            
+        	<li><a  href='../news/index.asp?Parser=9,4,28'>技轉產學公告</a></li>
+            
+        	</ul>
+        </li>
+
+        <li><a href='../form/index.asp?Parser=2,5,29'>	便民服務</a>
+            <ul>
+     
+        	<li><a  href='../form/index.asp?Parser=2,5,29'>申辦項目</a></li>
+            
+        	<li><a  href='../faq/index.asp?Parser=27,5,30'>常見問答</a></li>
+            
+        	<li><a  href='../form/index.asp?Parser=2,5,1163'>農產品食安服務專區</a></li>
+            
+        	<li><a  href='../form/index.asp?Parser=2,5,31'>下載專區</a></li>
+            
+        	<li><a  href='../form5/index.asp?Parser=99,5,32'>公文附件下載</a></li>
+            
+        	<li><a  href='../pmail/index.asp?Parser=99,5,33'>首長信箱</a></li>
+            
+        	<li><a  href='../mail/index.asp?Parser=99,5,35'>意見信箱</a></li>
+            
+        	<li><a  href='../content/index.asp?Parser=7,5,71,36'>雙語詞彙</a></li>
+            
+        	<li><a  href='/sub/content/index.asp?Parser=1,30,416,386,404' target='_blank' title='將另開新視窗（/sub/content/index.asp?Parser=1,30,416,386,404）'>農機性能測定及貸款牌型資料</a></li>
+            
+        	<li><a  href='../links/index.asp?Parser=11,5,1126'>農業主題館</a></li>
+            
+        	<li><a  href='../epaper/index.asp?Parser=99,5,1107'>訂閱電子報</a></li>
+            
+        	<li><a  href='../form/index.asp?Parser=2,5,1178'>農業試驗所獎項專區</a></li>
+            
+        	<li><a  href='../form/index.asp?Parser=2,5,1182'>資訊圖像化</a></li>
+            
+        	</ul>
+        </li>
+
+        <li><a href='../tour1/index.asp?Parser=99,6,37'>研發成果介紹</a>
+            <ul>
+     
+        	<li><a  href='../tour1/index.asp?Parser=99,6,37'>品種介紹</a></li>
+            
+        	<li><a  href='../form/index.asp?Parser=2,6,1112,1106'>技術介紹</a></li>
+            
+        	<li><a  href='../content/index.asp?Parser=7,6,1086,39'>專利明細表</a></li>
+            
+        	<li><a  href='../tour2/index.asp?Parser=99,6,38'>成果授權</a></li>
+            
+        	<li><a  href='../form/index.asp?Parser=2,6,1135'>資訊平台系統</a></li>
+            
+        	</ul>
+        </li>
+
+        <li><a href='../form/index.asp?Parser=2,7,40'>	政府資訊公開</a>
+            <ul>
+     
+        	<li><a  href='../form/index.asp?Parser=2,7,40'>組織執掌與聯絡方式</a></li>
+            
+        	<li><a  href='../form/index.asp?Parser=2,7,41'>條約、中央法規</a></li>
+            
+        	<li><a  href='../form/index.asp?Parser=2,7,42'>函釋與裁量基準</a></li>
+            
+        	<li><a  href='../form/index.asp?Parser=2,7,43'>施政計畫、業務統計與研究報告</a></li>
+            
+        	<li><a  href='../form/index.asp?Parser=2,7,44'>預算與決算</a></li>
+            
+        	<li><a  href='../form/index.asp?Parser=3,7,1166'>會計報告</a></li>
+            
+        	<li><a  href='../content/index.asp?Parser=1,7,1109'>支付或接受之補助</a></li>
+            
+        	<li><a  href='../form/index.asp?Parser=2,7,45'>公共工程採購契約</a></li>
+            
+        	<li><a  href='../form/index.asp?Parser=2,7,740'>個人資料保護專區</a></li>
+            
+        	<li><a  href='http://www.coa.gov.tw/ws.php?id=19059' target='_blank' title='將另開新視窗（http://www.coa.gov.tw/ws.php?id=19059）'>重大政策</a></li>
+            
+        	<li><a  href='../form/index.asp?Parser=2,7,47'>就業資訊</a></li>
+            
+        	<li><a  href='../form/index.asp?Parser=2,7,1127'>政策宣導</a></li>
+            
+        	</ul>
+        </li>
+
+        <li><a href='../video/index.asp?Parser=17,8,48'>影音專區</a>
+            <ul>
+     
+        	<li><a  href='../video/index.asp?Parser=17,8,48'>本所簡介</a></li>
+            
+        	<li><a  href='../video/index.asp?Parser=18,8,49'>研發成果</a></li>
+            
+        	<li><a  href='../album/index.asp?Parser=99,8,51'>活動照片</a></li>
+            
+        	</ul>
+        </li>
+
+        <li><a href='../publication2/index.asp?Parser=99,9,52'>出版品</a>
+            <ul>
+     
+        	<li><a  href='../publication2/index.asp?Parser=99,9,52'>台灣農業研究</a></li>
+            
+        	<li><a  href='../publication/index.asp?Parser=99,9,55'>技術服務季刊</a></li>
+            
+        	<li><a  href='../publication1/index.asp?Parser=99,9,53'>年　　報</a></li>
+            
+        	<li><a  href='../publication3/index.asp?Parser=99,9,54'>特　　刊</a></li>
+            
+        	<li><a  href='../form/index.asp?Parser=3,9,56'>蔬果重要害蟲防疫旬報</a></li>
+            
+        	<li><a  href='../form/index.asp?Parser=3,9,726'>彰雲嘉南地區夜蛾類密度監測旬報</a></li>
+            
+        	<li><a  href='../form/index.asp?Parser=2,9,867'>其它刊物</a></li>
+            
+        	<li><a  href='../form/index.asp?Parser=2,9,1141'>其它出版品</a></li>
+            
+        	<li><a  href='../form/index.asp?Parser=2,9,737'>出版品稿約</a></li>
+            
+        	<li><a  href='../content_type/index.asp?Parser=15,9,727'>出版品販售</a></li>
+            
+        	<li><a  href='http://ir.tari.gov.tw:8080/' target='_blank' title='將另開新視窗（http://ir.tari.gov.tw:8080/）'>機構典藏</a></li>
+            
+        	</ul>
+        </li>
+
+        <li><a href='../links/index.asp?Parser=11,10,58'>相關連結</a>
+            <ul>
+     
+        	<li><a  href='../links/index.asp?Parser=11,10,58'>政府機關</a></li>
+            
+        	<li><a  href='../links/index.asp?Parser=11,10,59'>學術單位</a></li>
+            
+        	<li><a  href='../links/index.asp?Parser=11,10,60'>農業技術</a></li>
+            
+        	<li><a  href='../links/index.asp?Parser=11,10,61'>生活資訊</a></li>
+            
+        	<li><a  href='../banner/index.asp?Parser=99,10,1181'>熱門書籤</a></li>
+            
+        	</ul>
+        </li>
+        
+        <div class="clean"></div><!--clean-->
+        </ul>
+ </div>
+<!--fat_footer-->
+        
+
+<div id="footer">
+
+
+<div id="goback"> 
+
+<noscript style="background:#FFF">請按鍵盤上的[alt]+[left] 回上一頁</noscript><a href="javascript:history.back();"><img src="../images/icon_back.jpg" alt="回上頁" width="100" height="47" border="0" align="absmiddle" /></a>　 <a href="#"><img src="../images/icon_top.jpg" alt="到上面" width="100" height="47" border="0" align="absmiddle" /></a><br />
+</div>
+<!--goback-->
+<div id="copyright">
+  <table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="78%">
+      行政院農業委員會農業試驗所版權所有 © 2011 TARI All Rights Reserved︱更新日期：<strong style="color:#06C">2016-11-04</strong>
+<br />
+地址：41362 台中市霧峰區萬豐里中正路189號<a href="../content/index.asp?Parser=1,3,22" tabindex="54" ><img src="../in_images/footer_map.png" alt="交通地圖" width="16" height="13" hspace="5" border="0" /></a>｜電話：(04)23302301｜傳真：(04)23338162
+｜<a href="/mail/index.asp?Parser=99,5,35"  tabindex="54" >聯絡我們</a><br />
+服務時間：AM8:00~PM5:00 | <a href="/content/index.asp?Parser=1,12,66"   tabindex="54" ><strong>隱私權保護政策</strong></a>︱<a href="/content/index.asp?Parser=1,12,65" tabindex="54" ><strong>網站安全政策</strong></a>︱<a href="../content/index.asp?Parser=1,12,1167" tabindex="54" ><strong>政府網站資料開放宣告 </strong></a><br />
+請用IE、Firefox或Chrome瀏覽器及1024*768之解析度觀看本網站︱瀏覽人數：<strong style="color:#FF3300">7472760</strong> 人
+      
+   </td>
+      <td width="6%" align="right"><a href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20160729144334" target="_blank"><img src="../images/c_logo.jpg" alt="本站通過無障礙A+檢測(另開視窗)" width="88" height="31" hspace="3" border="0" /></a></td>
+      <td width="10%" align="right"></td>
+      <td width="6%" align="right"><a href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20160729144334" target="_blank"></a>
+      　<a href="http://www.gov.tw"  target="_blank"><img src="../images/gov_logo.gif" alt="我的E政府(另開視窗)" width="43" height="45" border="0" /></a></td>
+      </tr>
+  </table>
+</div>
+<!--copyright-->
+</div><!--footer-->
+</div><!--all-->
+</body>
+</html>

@@ -1,0 +1,1172 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Expires" Content="0" />
+<meta http-equiv="Pragma" Content="No-cache">
+<title>預算、決算書及會計月報</title>
+
+<!-- Include js and css for Divbox -->
+<script src="js/jquery-1.11.0.min.js"></script>
+<link rel="stylesheet" href="venobox/venobox.css" type="text/css" media="screen" />
+<script type="text/javascript" src="venobox/venobox.js"></script>
+<!-- End -->
+
+<script language="javascript">
+	function DelRec(strTarget, intID, intPage)
+	{
+		if(window.confirm("是否要刪除這一筆記錄？"))
+		{
+			parent.Main.location.href = strTarget +'?ID=' + intID + '&PAGE=' + intPage;
+		} 
+	}
+	
+	function DelRecURL(strURL)
+	{
+		if(window.confirm("是否要刪除這一筆記錄？"))
+		{
+			window.location.href = strURL;
+		} 
+	}
+	
+	function TextBar(strMsg)
+	{
+		window.status=strMsg;
+	}
+
+	function SubmitNetForm()
+	{
+		__doPostBack('', '');
+	}
+</script>
+<script language="javascript" src="PageEditorNet.js"></script>
+<!--<script language="javascript" src="js/template.js"></script> -->
+<!-- 置入js檔的語法 -->
+
+<script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<script language="javascript">
+//<!--
+	function KeyPress()
+	{
+		if((event.altKey) && (event.keyCode == 192))
+		{
+			
+			location.href = 'Manage/Login.aspx?URL=../home02.aspx?ID=$9012|IDK=2';
+		}
+	}
+
+	function SubmitForm(FormID, CtrlID)
+	{
+		NowForm = document.forms[0];
+		
+		NowForm.txtFormID.value = FormID;
+		NowForm.txtCtrlID.value = CtrlID;
+		NowForm.submit();
+	}
+	
+	
+//-->
+</script>
+
+<script language="javascript">
+//<!--
+	  var $0001_listMenu  = new Array();
+	  var $0001_listTable = new Array();
+	  var $0001_TotMenu   = 0;
+	  var $0001_IsHorz    = false;
+	  var $0001_IsLeftTop = true;
+
+      function Point(_x, _y)
+      {
+      　　this.x = _x;
+      　　this.y = _y;
+      }
+
+      function $0001_realPosition(_obj) 
+	  {
+     　　 var currPos = new Point(_obj.offsetLeft,_obj.offsetTop);
+      　　var workPos = new Point(0,0);
+      　　if (_obj.offsetParent.tagName != "BODY")
+      　　{
+      　　　　workPos = $0001_realPosition(_obj.offsetParent);
+      　　　　currPos.x += workPos.x;
+      　　　　currPos.y += workPos.y;
+      　　}
+		  else
+		  {	  
+	  	  	  currPos.x += parseInt(document.body.leftMargin);
+		  	  currPos.y += parseInt(document.body.topMargin);
+		  }	
+
+      　　return currPos;
+      }
+	  
+	  function $0001_realSize(_obj)
+	  {
+	  	  return (new Point(_obj.offsetWidth,_obj.offsetHeight));	
+	  }
+	  
+	  function $0001_RegisterMenu(objMenu, objList)
+	  {
+	  	  $0001_TotMenu = $0001_TotMenu + 1;
+		  $0001_listMenu[$0001_TotMenu - 1] = objMenu;
+		  $0001_listTable[$0001_TotMenu - 1] = objList;
+	  }
+	  
+	  function $0001_ShowMenu(objItem, objMenu)
+	  {
+	      var objTable = null;
+	  	  var NowPos   = $0001_realPosition(objItem);
+		  var NowSize  = $0001_realSize(objItem);
+		  
+		  $0001_HideAllMenu();
+		  
+		  for(i=0; i<$0001_TotMenu; i++)
+		  {
+		       if(objMenu == $0001_listMenu[i])
+			   {
+			        objTable = $0001_listTable[i];
+					break;
+			   }    	
+		  }	
+
+		  if(!objTable)
+		  {
+		       // None
+		  }
+		  else
+		  { 
+		       objMenu.style.width  = objTable.offsetWidth;
+		       objMenu.style.height = objTable.offsetHeight;
+		  
+		       objMenu.style.visibility = 'visible';
+		  } 	
+	  }
+	  
+	  function $0001_HideMenu(objMenu)
+	  {
+		   if(!objMenu)
+		   {
+				// None	
+		   }
+		   else if(objMenu.style.visibility == 'hidden')
+		   {
+				// None	
+		   }
+		   else
+		   {
+				objMenu.style.visibility = 'hidden';
+		   }	
+	  }
+	  
+	  function $0001_HideAllMenu()
+	  {
+	      var objMenu;  	
+	  
+	  	  for(i=0; i<$0001_TotMenu; i++)
+		  {
+		  	   objMenu = $0001_listMenu[i];
+			   $0001_HideMenu(objMenu);	
+		  } 
+	  }
+	  
+	  function $0001_onMouseOutMenu()
+	  {
+	  	  var x = event.x;
+		  var y = event.y;
+		  var IsFound = false;
+		  
+		  for(i=0; i<$0001_TotMenu; i++)
+		  {
+		  	   objMenu = $0001_listMenu[i];
+			   if(!objMenu)
+			   {
+					// None
+			   }
+			   else if(objMenu.style.visibility == 'hidden')
+			   {
+					// None
+			   }
+			   else if((x >= parseInt(objMenu.style.left)) && (y >= parseInt(objMenu.style.top)) &&
+			            (x <= (parseInt(objMenu.style.left) + parseInt(objMenu.style.width))) &&
+				        (y <= (parseInt(objMenu.style.top ) + parseInt(objMenu.style.height))))
+			   {
+			   		IsFound = true;
+					break;
+			   }			
+		  }
+		  
+		  if(!IsFound)
+		  {
+		       $0001_HideAllMenu();
+		  }
+	  }
+	
+	  function $0001_OpenManage()
+	  {
+		var wx = 650;
+		var wy = 500;
+	
+		var sx = screen.width;
+		var sy = screen.height;
+	
+		var NewX = (sx - wx) / 2;
+		var NewY = (sy - wy) / 2;
+	
+		var NowURL = "MenuIList.aspx?CI=$0001";
+		window.open(NowURL, 
+					"MenuIList",
+					"left="   + NewX + ","
+				  + "top="    + NewY + "," 
+				  + "width="  + wx + ","
+				  + "height=" + wy + ","
+				  + "toolbar=no,location=no,status=no,scrollbars=yes");
+	  }
+	  
+	  function $0001_ChangeImage(objItem, NewItem)
+	  {
+	  	if(!objItem)
+		{
+			// None
+		}
+		else
+		{
+			objItem.background = NewItem;
+		}
+	  }
+	  
+	  function $0001_ChangeImage2(objItem, NewItem)
+	  {
+	  	if(!objItem)
+		{
+			// None
+		}
+		else
+		{
+			objItem.src = NewItem;
+		}
+	  }
+//-->
+</script>
+
+<style type="text/css">
+.my_links{
+padding:10px;
+width:161px; overflow:hidden;	
+}
+.weblink{
+	padding-left:28px;
+	background:url(images/nlink_icon.png) left top no-repeat;
+	display:block;
+	line-height:30px;
+	font-family:'微軟正黑體';
+	font-size:13px;
+	color:#FFF;
+	text-decoration:none;
+}
+</style>
+
+<script language="javascript">
+	function OpenAttEdit$9012(ID)
+	{
+		var wx = 600;
+		var wy = 550;
+	
+		var sx = screen.width;
+		var sy = screen.height;
+	
+		var NewX = (sx - wx) / 2;
+		var NewY = (sy - wy) / 2;
+	
+		var NowURL = "NewsAList.aspx"
+					+ "?CI=$9012" 
+					+ "&PID=" 	+ ID;
+		window.open(NowURL, 
+					"Attach",
+					"left="   + NewX + ","
+				  + "top="    + NewY + "," 
+				  + "width="  + wx + ","
+				  + "height=" + wy + ","
+				  + "toolbar=no,location=no,status=no,scrollbars=yes");
+	}
+
+	function $9012_CheckKill(URL)
+	{
+		if(confirm('您確定要刪除這個項目嗎？'))
+		{
+			location.href = URL;
+		}
+	}
+
+	function $9012_SendMail()
+	{
+		NowForm = document.forms[0];
+
+		if(NowForm.txtSendMail.value == '')
+		{
+			alert('請輸入對方的Email!');
+			NowForm.txtSendMail.focus();
+		}
+		{
+			NowForm.IsGo.value = "YES";
+			NowForm.submit();
+		}
+	}
+
+	function $9012_SendPrint()
+	{
+		var wx = 600;
+		var wy = 400;
+	
+		var sx = screen.width;
+		var sy = screen.height;
+	
+		var NewX = (sx - wx) / 2;
+		var NewY = (sy - wy) / 2;
+
+		var disp_setting="toolbar=no,location=no,menubar=no,"; 
+      		disp_setting+="scrollbars=yes,width=" + wx + ", height=" + wy + ", left=" + NewX + ", top=" + NewY; 
+  		var content_vlue = document.getElementById("print_content").innerHTML; 
+  
+  		var docprint=window.open("","",disp_setting); 
+   		docprint.document.open(); 
+   		docprint.document.write('<html><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><head><title>網頁列印</title>'); 
+   		docprint.document.write('<link href="css/home02.css" rel="stylesheet" type="text/css" title="style01" />');
+   		docprint.document.write('</head><body onLoad="self.print()"><center>');          
+   		docprint.document.write(content_vlue);          
+   		docprint.document.write('</center></body></html>'); 
+   		docprint.document.close(); 
+   		docprint.focus(); 
+	}
+
+	function $9012_SendPrint2()
+	{
+		
+		window.open('NewsD.aspx?CI=$9012&PI=$9012&PK=2&EXEC=D&AP=&DATA=5305&PA=-1&PRINT=1', 
+					"PRINT",
+					"left=-100,"
+				  + "top=-100," 
+				  + "width=10,"
+				  + "height=10,"
+				  + "toolbar=no,location=no,status=no,scrollbars=yes");
+	}
+	function ExecVote(ID)
+	{	
+		var NowForm = document.forms[0];
+		
+		NowForm.txtCtrlID.value = "POSVOTE"
+		NowForm.ExeCtrlID.value = ID
+		NowForm.submit();
+	}
+</script>
+
+<script language="javascript">
+	function OpenAttEdit$0114(ID)
+	{
+		var wx = 600;
+		var wy = 550;
+	
+		var sx = screen.width;
+		var sy = screen.height;
+	
+		var NewX = (sx - wx) / 2;
+		var NewY = (sy - wy) / 2;
+	
+		var NowURL = "NewsAList.aspx"
+					+ "?CI=$0114" 
+					+ "&PID=" 	+ ID;
+		window.open(NowURL, 
+					"Attach",
+					"left="   + NewX + ","
+				  + "top="    + NewY + "," 
+				  + "width="  + wx + ","
+				  + "height=" + wy + ","
+				  + "toolbar=no,location=no,status=no,scrollbars=yes");
+	}
+
+	function $0114_CheckKill(URL)
+	{
+		if(confirm('您確定要刪除這個項目嗎？'))
+		{
+			location.href = URL;
+		}
+	}
+</script>
+
+<link href="/css/home028_new.css" rel="stylesheet" type="text/css" media="all" />
+
+<!--<link href="css/home02.css" rel="stylesheet" type="text/css" />-->
+
+<!--ICO設置-->
+<link rel="shortcut icon" href="favicon.ico" />
+</head>
+<body bgcolor="#ffffff" onkeyDown="KeyPress();">
+
+
+<div align="left"><a name="pagetop" id="pagetop"></a></div>
+<form name="ctl00" method="post" action="home02.aspx?ID=%249012&amp;IDK=2&amp;EXEC=D&amp;DATA=5305" id="ctl00">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwMzI3MjM4MWRkq/OMq99MePIQsJOGAjw3ot89D00=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="DBAEFA36" />
+<input type="hidden" id="ISPOST" name="ISPOST" value="YES" />
+<input type="hidden" id="txtFormID" name="txtFormID" value="" />
+<input type="hidden" id="txtCtrlID" name="txtCtrlID" value="" />
+<div id="allitem">
+<div class="Top1"><div style="height: 18px; clear: both;"></div>
+<div style="position:relative">
+<a href="rwd_home01.aspx?ID=3" class="act3"></a>
+<div style="clear:both;"></div>
+</div>
+<table style="width: 964px;" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td valign="top" style="width: 370px;"><a href="index.aspx"><img width="370" height="90" alt="原住民族委員會原住民族文化發展中心" src="images/new_logo2.jpg" border="0"></a></td>
+    <td valign="top" style="width: 594px;">
+<div align="right">	
+<style type="text/css">
+.ico_youtube{
+	width:26px;
+	height:26px;
+	background:url(images/ico_youtube.png) left top  no-repeat;
+	display:inline-block;
+	vertical-align:middle;
+}
+.ico_fb{
+	width:26px;
+	height:26px;
+	background:url(images/ico_fb.png) left top  no-repeat;
+	display:inline-block;
+	vertical-align:middle;
+}
+.ico_rss{
+	width:26px;
+	height:26px;
+	background:url(images/ico_rss.png) left top  no-repeat;
+	display:inline-block;
+	vertical-align:middle;
+}
+.ico_youtube:hover,.ico_fb:hover,.ico_rss:hover,.nb1:hover,.nb2:hover,.nb3:hover{
+	background-position: left bottom;
+}
+</style>
+<script language="javascript">
+	function ExecFind()
+	{
+		var NowForm = document.forms[0];
+		
+		if(NowForm.SearchWord.value == '請輸入關鍵字') NowForm.SearchWord.value = '';
+		
+		if(NowForm.SearchWord.value == '')
+		{
+			alert('請輸入關鍵字!');
+		}
+		else
+		{
+			location.href = 'search.aspx?ID=$0120&IDK=2&AP=$0120_SW-' + encodeURI(NowForm.SearchWord.value);
+		}
+	}
+
+	function CheckEnter()
+	{
+		if (event.keyCode == 13) 
+		{        
+			event.cancelBubble = true;
+			event.returnValue = false;
+
+			ExecFind();
+         	}	
+	}
+</script>
+<a href="#" title="右上方功能區塊" accesskey="U">&nbsp;&nbsp;&nbsp;</a><a href="home02.aspx?ID=$8001&IDK=2&EXEC=L">網站導覽</a> | <a href="http://kids.tacp.gov.tw/">兒童版</a> | <a href="http://www.tacp.gov.tw/tacpeng/">English</a> | <a href="home02.aspx?ID=$5100&IDK=2&EXEC=L">主任信箱</a> |  <a href="http://kids.tacp.gov.tw/VUT/Login.aspx">志工系統</a> |  <a href="http://www8.www.gov.tw/policy/2009career/index.html" target="_blank">政府入口網就業情報站</a>
+<a title="YOUTUBE" class="ico_youtube" href="https://www.youtube.com/channel/UCUCbWFkeOBGf8cZupThkM2A" target="_blank"></a>
+<a title="facebook" class="ico_fb" href="https://www.facebook.com/tacp.tw" target="_blank"></a>
+<a title="RSS" class="ico_rss" href="home02.aspx?ID=$7001&IDK=2&EXEC=L"></a>
+<div style="height: 3px; clear: both;"></div>
+<label>網站搜尋：</label><input accesskey="S" name="SearchWord" type="text" id="SearchWord" value="請輸入關鍵字" onkeydown="CheckEnter();" onfocus="if(this.value=='請輸入關鍵字') {this.value='';}this.style.color='#333333';" onblur="if(this.value=='') {this.value='請輸入關鍵字';this.style.color='#949494';}"
+ onkeypress="return enterCK(this,this.value)" class="isearch"/> <a href="#" onclick="ExecFind();" class="nb1" title="檢索"></a> <a href="search.aspx?ID=$0120&IDK=2" class="nb2"　title="進階檢索"></a><!--<a href="#" class="nb3"　title="分類檢索"></a>-->
+<div style="height:3px; clear:both;"></div>
+<div class="hot_txt">熱門：
+
+<a href="search.aspx?ID=$0120&IDK=2&AP=$0120_SW-%e9%98%bf%e7%be%8e%e6%97%8f">阿美族</a>、
+
+<a href="search.aspx?ID=$0120&IDK=2&AP=$0120_SW-%e9%a2%a8%e5%91%b3%e9%a4%90">風味餐</a>、
+
+<a href="search.aspx?ID=$0120&IDK=2&AP=$0120_SW-%e4%be%bf%e6%b0%91%e6%9c%8d%e5%8b%99">便民服務</a>、
+
+<a href="search.aspx?ID=$0120&IDK=2&AP=$0120_SW-%e5%8e%9f%e4%bd%8f%e6%b0%91">原住民</a>、
+
+</div>
+<script type="text/javascript" src="JAC/lib/jquery.js"></script>
+<script type='text/javascript' src='JAC/jquery.autocomplete.js'></script>
+<link rel="stylesheet" type="text/css" href="JAC/jquery.autocomplete.css" />
+<script type="text/javascript">
+	var JACJQ = $.noConflict(true);
+	
+	JACJQ(function() {
+		JACJQ("#SearchWord").autocomplete('JACGET.aspx');
+	});
+</script></div>
+        </td>
+  </tr>
+</tbody></table>
+
+
+
+
+</div>
+<div class="Top2"><div><style>
+.nav
+{
+	font-family:"微軟正黑體",Arial, Helvetica, sans-serif;
+	font-size:15px;
+	background:url(images/new_menubg.jpg) left top no-repeat;
+	width:968px;
+	padding-left:248px;
+	overflow:hidden;
+}
+.nav *{
+	margin:0;
+	padding:0;
+}
+
+.nav ul
+{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.nav ul li
+{
+	float: left;
+	position: relative;
+	width:98px;
+	height:84px;
+	margin-right:5px;
+}
+
+.nav ul li:hover,
+.nav ul li.hover
+{
+	z-index: 100;
+}
+
+.nav ul a{
+}
+
+.nav ul a:hover,
+.nav ul a:focus,
+.nav ul a:active,
+.nav ul li.hover a /* <- keeps the tab hover state on as the dropdown gets explored */
+{	
+}
+
+.nav ul ul
+{
+	position: absolute;
+	left: -9999em;
+}
+
+.nav ul li:hover ul,
+.nav ul li.hover ul
+{
+	left: 0;
+}
+
+.nav ul ul li
+{
+	float: none;
+	position: static;
+	min-width:136px;
+	border-right:none;
+}
+
+.nav ul li:hover ul a,
+.nav ul li.hover ul a
+{	
+	background: rgb(73,73,73);
+	color: rgb(255,255,255);
+	padding: 2px 13px;
+	text-shadow: none;
+	font-size:15px;
+	display:list-item;
+}
+
+.nav ul li:hover ul a:hover,
+.nav ul li.hover ul a:hover,
+.nav ul li.hover ul a:focus,
+.nav ul li.hover ul a:active
+{	
+	background: rgb(0,0,0);
+	color: rgb(255,255,255);
+	cursor: pointer;
+}
+.mm01{
+	background:url(images/new_m01.jpg) left top no-repeat;
+	display:block;
+	width:98px;
+	height:84px;
+	*text-indent:-9999px;
+	text-indent: -9999px; 
+}
+.mm02{
+	background:url(images/new_m02.jpg) left top no-repeat;
+	display:block;
+	width:98px;
+	height:84px;
+	*text-indent:-9999px;
+	text-indent: -9999px; 
+}
+.mm03{
+	background:url(images/new_m03.jpg) left top no-repeat;
+	display:block;
+	width:98px;
+	height:84px;
+	*text-indent:-9999px;
+	text-indent: -9999px; 
+}
+.mm04{
+	background:url(images/new_m04.jpg) left top no-repeat;
+	display:block;
+	width:98px;
+	height:84px;
+	*text-indent:-9999px;
+	text-indent: -9999px; 
+}
+.mm05{
+	background:url(images/new_m05.jpg) left top no-repeat;
+	display:block;
+	width:98px;
+	height:84px;
+	*text-indent:-9999px;
+	text-indent: -9999px;
+}
+.mm06{
+	background:url(images/new_m06.jpg) left top no-repeat;
+	display:block;
+	width:98px;
+	height:84px;
+	*text-indent:-9999px;
+	text-indent: -9999px; 
+}
+.mm07{
+	background:url(images/new_m07.jpg) left top no-repeat;
+	display:block;
+	width:98px;
+	height:84px;
+	*text-indent:-9999px;
+	text-indent: -9999px;
+}
+.mm08{
+	background:url(images/m08.png) left top no-repeat;
+	display:block;
+	width:109px;
+	height24px;
+	*text-indent:-9999px;
+	text-indent: -9999px; 
+}
+.mm09{
+	background:url(images/m09.png) left top no-repeat;
+	display:block;
+	width:126px;
+	height24px;
+	*text-indent:-9999px;
+	text-indent: -9999px; 
+}
+a.mm01:hover,a.mm02:hover,a.mm03:hover,a.mm04:hover,a.mm05:hover,a.mm06:hover,a.mm07:hover,a.mm08:hover,a.mm09:hover,
+a.mm01:focus,a.mm02:focus,a.mm03:focus,a.mm04:focus,a.mm05:focus,a.mm06:focus,a.mm07:focus,a.mm08:focus,a.mm09:focus{
+	background-position: 0px -84px;
+}
+.m1{
+	position:fixed;
+}
+</style>
+
+<!-- Minor hack for IE 6 and 7 -->
+
+<!--[if lt IE 8]>
+<style>
+.nav ul li:hover ul a,
+.nav ul li.hover ul a,
+.nav ul li.first a
+{
+	margin-left: 0;
+}
+</style>
+<![endif]--> 
+<!--<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>-->
+<script>
+$(document).ready(function()
+{	
+	$(".nav").accessibleDropDown();
+});
+
+$.fn.accessibleDropDown = function ()
+{
+	var el = $(this);
+	
+	/* Setup dropdown menus for IE 6 */
+	
+	$("li", el).mouseover(function() {
+		$(this).addClass("hover");
+	}).mouseout(function() {
+		$(this).removeClass("hover");
+	});
+	
+	/* Make dropdown menus keyboard accessible */
+	
+	$("a", el).focus(function() {
+		$(this).parents("li").addClass("hover");
+	}).blur(function() {
+		$(this).parents("li").removeClass("hover");
+	});
+}
+</script>
+<div class="nav">
+	<ul>
+		<li><a href="home02.aspx?ID=$2013&IDK=2&EXEC=L" title="園區介紹" class="mm01"></a></li>
+		<li><a href="home02.aspx?ID=$2020&IDK=2&EXEC=L" title="入園資訊" class="mm02"></a></li>
+        <li><a href="home02.aspx?ID=$3001&IDK=2&EXEC=L" title="原住民介紹" class="mm03"></a></li>
+        <li><a href="home02.aspx?ID=$5007&IDK=2&EXEC=L" title="便民服務" class="mm04"></a></li>
+        <li><a href="home02.aspx?ID=$4019&IDK=2&EXEC=L" title="寓教於樂" class="mm05"></a></li>
+        <li><a href="home02.aspx?ID=$4006&IDK=2&EXEC=L" title="成果文獻" class="mm06"></a></li>
+        <li><a href="home02.aspx?ID=$4003&IDK=2&EXEC=L" title="文件下載" class="mm07"></a></li>
+	</ul>
+</div></div>
+</div>
+<table border="0" cellspacing="0" cellpadding="0" style="width:968px;">
+  <tr>
+    <td valign="top" style="width:212px;">
+    <div style="height:30px;"><a href="#" title="左方相關資訊區塊" accesskey="L">&nbsp;&nbsp;&nbsp;</a></div>
+    <div class="Left"><div class="left_title">園區訊息</div>
+<div class="left_photo8"></div>
+<div><div class="my_links">
+	<table border="0" align="left" cellpadding="0" cellspacing="0" style="width:148px;">
+	<tr><td align='left' style='width:148px; height:25px;' onClick='location.href="home02.aspx?ID=$9000&IDK=2&EXEC=L"';' onKeyPress='location.href="home02.aspx?ID=$9000&IDK=2&EXEC=L"';'><a href='home02.aspx?ID=$9000&IDK=2&EXEC=L'  class='weblink'>主動公開之政府資訊</a></td>
+</tr><tr><td align='left' style='width:148px; height:25px;' onClick='location.href="home02.aspx?ID=$1001&IDK=2&EXEC=L"';' onKeyPress='location.href="home02.aspx?ID=$1001&IDK=2&EXEC=L"';'><a href='home02.aspx?ID=$1001&IDK=2&EXEC=L'  class='weblink'>最新訊息</a></td>
+</tr><tr><td align='left' style='width:148px; height:25px;' onClick='location.href="home02.aspx?ID=$1010&IDK=2&EXEC=L"';' onKeyPress='location.href="home02.aspx?ID=$1010&IDK=2&EXEC=L"';'><a href='home02.aspx?ID=$1010&IDK=2&EXEC=L'  class='weblink'>新聞稿</a></td>
+</tr><tr><td align='left' style='width:148px; height:25px;' onClick='location.href="home02.aspx?ID=$9010&IDK=2&EXEC=L"';' onKeyPress='location.href="home02.aspx?ID=$9010&IDK=2&EXEC=L"';'><a href='home02.aspx?ID=$9010&IDK=2&EXEC=L'  class='weblink'>行政公告</a></td>
+</tr><tr><td align='left' style='width:148px; height:25px;' onClick='location.href="home02.aspx?ID=$0403&IDK=2&EXEC=L"';' onKeyPress='location.href="home02.aspx?ID=$0403&IDK=2&EXEC=L"';'><a href='home02.aspx?ID=$0403&IDK=2&EXEC=L'  class='weblink'>歌舞節目</a></td>
+</tr><tr><td align='left' style='width:148px; height:25px;' onClick='location.href="home02.aspx?ID=$0016&IDK=2&EXEC=L"';' onKeyPress='location.href="home02.aspx?ID=$0016&IDK=2&EXEC=L"';'><a href='home02.aspx?ID=$0016&IDK=2&EXEC=L'  class='weblink'>文化體驗活動</a></td>
+</tr><tr><td align='left' style='width:148px; height:25px;' onClick='location.href="home02.aspx?ID=$1004&IDK=2&EXEC=L"';' onKeyPress='location.href="home02.aspx?ID=$1004&IDK=2&EXEC=L"';'><a href='home02.aspx?ID=$1004&IDK=2&EXEC=L'  class='weblink'>特展訊息</a></td>
+</tr><tr><td align='left' style='width:148px; height:25px;' onClick='location.href="home02.aspx?ID=$4001&IDK=2&EXEC=L"';' onKeyPress='location.href="home02.aspx?ID=$4001&IDK=2&EXEC=L"';'><a href='home02.aspx?ID=$4001&IDK=2&EXEC=L'  class='weblink'>網站連結</a></td>
+</tr>
+	</table>
+</div>    
+	 </div>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+    </td>
+    <td valign="top" style="width:756px; overflow:hidden;">
+<div style="height:30px;"><a href="#" title="中央內容區塊" accesskey="C">&nbsp;&nbsp;&nbsp;</a> 
+ <div id="controls">
+    <a href="#" id="small">A</a>
+    <a href="#" id="medium" class="selected">A</a>
+    <a href="#" id="large">A</a>
+  </div>
+  <div id="sh">
+  	<a href="javascript: void(window.open('http://www.facebook.com/share.php?u='.concat(encodeURIComponent(location.href)) ));" class="sh_fb" title="分享Facebook"></a>
+    <a href="javascript: void(window.open('http://twitter.com/home/?status='.concat(encodeURIComponent(document.title)) .concat(' ') .concat(encodeURIComponent(location.href))));" class="sh_tt" title="分享Twitter"></a>
+    <a href="javascript: void(window.open('https://plus.google.com/share?url='.concat(encodeURIComponent(location.href)) ));" class="sh_gg" title="分享Google+"></a>
+    <a href="javascript: void(window.open('http://www.plurk.com/?qualifier=shares&status=' .concat(encodeURIComponent(location.href)) .concat(' ') .concat('&#40;') .concat(encodeURIComponent(document.title)) .concat('&#41;')));" class="sh_pp" title="分享plurk"></a>
+ </div>
+</div>
+<div class="Center"><div id="print_content">
+<style type="text/css">
+.c_box{
+	width:750px;
+	overflow:hidden;
+}
+.c_box_title{
+	height:42px;
+	color:#666;
+	line-height:42px;
+	border-bottom:#0d2c7e 3px solid;
+	margin-bottom:12PX;
+	font-family:'�L�n������';
+	font-size:15PX;
+	background:url(images/c_title08.png) left center no-repeat;
+	padding-left:18px;
+}
+.c_path{
+	vertical-align:bottom;
+	display:inline-block;
+	float:right;
+	font-size:13px;
+}
+</style>
+<div class="c_box">
+<div class="c_box_title">預算、決算書及會計月報 <div class="c_path">�{�b��m�G<a href="index.aspx">����</a> &gt; <a href="home02.aspx?ID=$1001&IDK=2&EXEC=L">��ϰT��</a> &gt; <a href="home02.aspx?ID=$9000&IDK=2&EXEC=L">�D�ʤ��}���F����T</a> &gt; 預算、決算書及會計月報</div></div>
+<div style="padding:10px; background-color:#f4efdc;-webkit-border-radius: 10px;-moz-border-radius: 10px;border-radius: 10px;">
+
+		<div align="left">
+		
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" summary="�����:�T�w���ج[��">
+  <tr>
+	<td align="center"><caption><img src="images/title01-6.gif" alt="�F�����}��T" width="605" height="63" /></caption>
+	</td>
+  </tr>
+  <tr>
+	    <td valign="top"><table style="width:600px;" border="0" align="center" cellpadding="0" cellspacing="0">
+		<tr>
+		  <td valign="top">
+		  <div align="left">
+	<!-- SUBKIND_START -->
+	<!-- AURL -->105年度預算與決算書<!-- /AURL -->&nbsp;|
+	<!-- SUBKIND_END -->
+	</div>
+		  <img src="images/new01_1.gif" width="600" height="11" alt="*" /></td>
+		</tr>
+		<tr>
+		  <td><img src="images/new01_3.gif" width="600" height="4" alt="*" /></td>
+		</tr>
+		
+		<tr>
+		  <td valign="top"><table width="100%" border="0" cellspacing="3" cellpadding="2">
+			<!-- ITEM_START -->
+            
+            <tr>
+			  <td valign="middle" bgcolor="#E1DCC6" class="font0011" style="height:28px;"><img src="images/downloadico.gif" alt="download" width="24" height="23" align="absmiddle" /><span class="download"><a href="/PhotoData/PIC1050401_3.pdf" class="download" target="_blank" title="(�t�}����)">105年度法定預算(原民會文化園區管理局)</a>
+			  </span></td>
+			</tr>
+            
+            <tr>
+			  <td valign="middle" bgcolor="#E1DCC6" class="font0011" style="height:28px;"><img src="images/downloadico.gif" alt="download" width="24" height="23" align="absmiddle" /><span class="download"><a href="/PhotoData/PIC1040909_1.7z" class="download" target="_blank" title="(�t�}����)">105年度中央政府總預算案--文化園區管理局(xml檔)</a>
+			  </span></td>
+			</tr>
+            
+            <tr>
+			  <td valign="middle" bgcolor="#E1DCC6" class="font0011" style="height:28px;"><img src="images/downloadico.gif" alt="download" width="24" height="23" align="absmiddle" /><span class="download"><a href="/PhotoData/PIC1040909_2.pdf" class="download" target="_blank" title="(�t�}����)">105年度中央政府總預算案--文化園區管理局</a>
+			  </span></td>
+			</tr>
+            
+            <!-- ITEM_END -->
+		  </table></td>
+		</tr>
+	
+		<tr>
+		  <td><img src="images/new01_7.gif" width="600" height="2" alt="*" /></td>
+		</tr>
+		<tr>
+		  <td align="center" valign="middle">&nbsp;</td>
+		</tr>
+		</table></td>
+	</tr>
+</table>
+
+</div>
+</div>
+
+
+</div></div>  
+    </td>
+  </tr>
+</table>
+<div class="Right"></div>
+<div class="Bot1"><style type="text/css">
+.bmap{
+	background-color:#a80807;
+	-webkit-box-shadow: 0 0 15px 3px rgba(74,74,74,0.75);
+	-moz-box-shadow: 0 0 15px 3px rgba(74,74,74,0.75);
+	box-shadow: 0 0 15px 3px rgba(74,74,74,0.75);
+-webkit-border-radius: 16px;
+-moz-border-radius: 16px;
+border-radius: 16px;
+padding:16px;
+}
+
+.map{
+	font-family:'新細明體';
+	color:#FFF;
+	font-size:12px;
+}
+.map a{
+	color:#FFF;
+	line-height:20px;
+}
+.map a.title{
+	font-family:'微軟正黑體';
+	color:#FFF;
+	font-size:17px;
+	margin-bottom:6px;
+	border-bottom:#FFF 3px solid;
+	padding-bottom:6px;
+}
+.mabox1{
+	width:186px;
+	min-height:160px;
+	display:inline-block;
+	float:left;
+}
+.mabox2{
+	width:186px;
+	float:left;
+	position:
+	top:0px;
+}
+.mabox3{
+	width:186px;
+	min-height:372px;
+	float:left;
+}
+.mabox6{
+	width:186px;
+	min-height:160px;
+	margin-top:-160px;
+	float:left;
+}
+.mabox7{
+	width:186px;
+	min-height:160px;
+	float:left;
+	margin-top:-160px;
+	margin-left:186px;
+}
+.mabox8{
+	width:186px;
+	min-height:160px;
+	float:left;
+	margin-top:-160px;
+	margin-left:372px;
+}
+</style>
+<div style="height:10px; clear:both;"><a href="#" title="下方功能區塊" accesskey="F">&nbsp;&nbsp;&nbsp;</a></div>
+<div style="width:932px; margin:0 auto;" class="bmap">
+<table border="0" cellspacing="0" cellpadding="0" class="map">
+  <tr>
+    <td valign="top">
+<div style="clear:both;"></div>    
+    
+<div class="mabox1">
+<a href="#" class="title">園區訊息</a>
+<div style="height:20px;"></div>
+<a href="home02.aspx?ID=$1001&IDK=2&EXEC=L" target="_top">最新訊息</a><br><a href="home02.aspx?ID=$1010&IDK=2&EXEC=L" target="_top">新聞稿</a><br><a href="home02.aspx?ID=$9010&IDK=2&EXEC=L" target="_top">行政公告</a><br><a href="home02.aspx?ID=$0403&IDK=2&EXEC=L" target="_top">歌舞節目</a><br><a href="home02.aspx?ID=$0016&IDK=2&EXEC=L" target="_top">文化體驗活動</a><br><a href="home02.aspx?ID=$1004&IDK=2&EXEC=L" target="_top">特展訊息</a><br><a href="home02.aspx?ID=$5100&IDK=2&EXEC=L" target="_top">主任信箱</a><br>
+</div>
+    
+<div class="mabox1">
+<a href="#" class="title">入園資訊</a>
+<div style="height:20px;"></div>
+<a href="home02.aspx?ID=$2020&IDK=2&EXEC=L" target="_top">票價表及營業時間</a><br><a href="home02.aspx?ID=$5001&IDK=2&EXEC=L" target="_top">交通路線</a><br>
+</div>
+    
+<div class="mabox3">
+<a href="#" class="title">園區介紹(關於我們)</a>
+<div style="height:20px;"></div>
+<a href="home02.aspx?ID=$2013&IDK=2&EXEC=L" target="_top">組織概況</a><br><a href="home02.aspx?ID=$2001&IDK=2&EXEC=L" target="_top">首長介紹</a><br><a href="home02.aspx?ID=$2014&IDK=2&EXEC=L" target="_top">各組室業務</a><br><a href="home02.aspx?ID=$2002&IDK=2&EXEC=L" target="_top">地理位置</a><br><a href="home02.aspx?ID=$2004&IDK=2&EXEC=L" target="_top">園區導覽</a><br><a href="https://www.youtube.com/channel/UCUCbWFkeOBGf8cZupThkM2A" target="_blank">園區短片</a><br>
+</div>
+    
+<div class="mabox3">
+<a href="#" class="title">原住民介紹</a>
+<div style="height:20px;"></div>
+<a href="home02.aspx?ID=$3001&IDK=2&EXEC=L" target="_top">泰雅族</a><br><a href="home02.aspx?ID=$3011&IDK=2&EXEC=L" target="_top">賽夏族</a><br><a href="home02.aspx?ID=$3121&IDK=2&EXEC=L" target="_top">太魯閣族</a><br><a href="home02.aspx?ID=$3091&IDK=2&EXEC=L" target="_top">邵 族</a><br><a href="home02.aspx?ID=$3051&IDK=2&EXEC=L" target="_top">阿美族</a><br><a href="home02.aspx?ID=$3131&IDK=2&EXEC=L" target="_top">撒奇萊雅族</a><br><a href="home02.aspx?ID=$3111&IDK=2&EXEC=L" target="_top">噶瑪蘭族</a><br><a href="home02.aspx?ID=$3071&IDK=2&EXEC=L" target="_top">布農族</a><br><a href="home02.aspx?ID=$3101&IDK=2&EXEC=L" target="_top">鄒 族</a><br><a href="home02.aspx?ID=$3021&IDK=2&EXEC=L" target="_top">魯凱族</a><br><a href="home02.aspx?ID=$3031&IDK=2&EXEC=L" target="_top">卑南族</a><br><a href="home02.aspx?ID=$3081&IDK=2&EXEC=L" target="_top">排灣族</a><br><a href="home02.aspx?ID=$3061&IDK=2&EXEC=L" target="_top">雅美族</a><br><a href="home02.aspx?ID=$3136&IDK=2&EXEC=L" target="_top">賽德克族</a><br><a href="home02.aspx?ID=$3146&IDK=2&EXEC=L" target="_top">拉阿魯哇族</a><br><a href="home02.aspx?ID=$3141&IDK=2&EXEC=L" target="_top">卡那卡那富族</a><br>
+</div>
+    
+<div class="mabox3">
+<a href="#" class="title">便民服務</a>
+<div style="height:20px;"></div>
+<a href="home02.aspx?ID=$5009&IDK=2&EXEC=L" target="_top">常見問題</a><br><a href="home02.aspx?ID=$5004&IDK=2&EXEC=L" target="_top">聯絡我們</a><br><a href="home02.aspx?ID=$5006&IDK=2&EXEC=L" target="_top">建議行程</a><br><a href="home02.aspx?ID=$5601&IDK=2&EXEC=L" target="_top">預約導覽申請</a><br><a href="home02.aspx?ID=$5013&IDK=2&EXEC=L" target="_top">場地租用</a><br><a href="home02.aspx?ID=$5010&IDK=2&EXEC=L" target="_top">相關連結</a><br><a href="home02.aspx?ID=$5009&IDK=2&EXEC=L" target="_top">中英詞彙對照表</a><br><a href="home02.aspx?ID=$5100&IDK=2&EXEC=L" target="_top">主任信箱</a><br><a href="home02.aspx?ID=$5101&IDK=2&EXEC=L" target="_top">郵件處理規則</a><br>
+</div>
+    
+<div class="mabox6">
+<a href="#" class="title">寓教於樂</a>
+<div style="height:20px;"></div>
+<a href="home02.aspx?ID=$4019&IDK=2&EXEC=L" target="_top">文化教育</a><br><a href="home02.aspx?ID=$4008&IDK=2&EXEC=L" target="_top">學習單下載</a><br>
+</div>
+    
+<div class="mabox7">
+<a href="#" class="title">成果文獻</a>
+<div style="height:20px;"></div>
+<a href="home02.aspx?ID=$4006&IDK=2&EXEC=L" target="_top">特展成果</a><br><a href="home02.aspx?ID=$4021&IDK=2&EXEC=L" target="_top">駐村藝術家</a><br><a href="home02.aspx?ID=$4017&IDK=2&EXEC=L" target="_top">文獻報告</a><br><a href="home02.aspx?ID=$4018&IDK=2&EXEC=L" target="_top">研討會成果</a><br>
+</div>
+    
+<div class="mabox8">
+<a href="#" class="title">文件下載</a>
+<div style="height:20px;"></div>
+<a href="home02.aspx?ID=$4003&IDK=2&EXEC=L" target="_top">相關文件</a><br><a href="home02.aspx?ID=$4004&IDK=2&EXEC=L" target="_top">政策說明</a><br><a href="home02.aspx?ID=$4002&IDK=2&EXEC=L" target="_top">相關書籍</a><br><a href="home02.aspx?ID=$4005&IDK=2&EXEC=L" target="_top">預約文件</a><br>
+</div>
+    
+    </td>
+  </tr>
+</table>
+</div>
+<div style="height:30px; clear:both;"></div> 
+</div>
+</div>
+<div class="Bot2"><div style="margin: 0px auto; width: 1000px; background-color: rgb(21, 3, 3);">
+<table class="foot" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td valign="top" style="width: 120px;"><a title="無障礙網站" href="#"><img width="88" height="31" style="margin-top: 10px; margin-left: 10px;" alt="通過第二優先等級無障礙網頁檢測" src="aa.jpg" border="0"></a></td>
+    <td valign="top" style="width: 80px;"><a title="GOV" href="http://www.gov.tw/" target="_blank"><img width="44" height="47" style="margin-top: 10px; margin-left: 10px;" alt="GOV" src="images/gov_icon.png" border="0"></a></td>
+    <td valign="top" style="padding: 10px; width: 620px;">
+原住民族委員會原住民族文化發展中心  <a href="http://www.tacp.gov.tw/" class="btn btn-default">電腦版</a> | <a href="http://www.tacp.gov.tw/rwd_home01.aspx?ID=3" class="btn btn-default">手機版</a><br>
+地址 | 90341屏東縣瑪家鄉北葉村風景104號 電話 | (08)7991219．7993511-2 傳真 | (08)7993551 <br>
+<a href="home02.aspx?ID=$0900&IDK=2&EXEC=L&DATA=2119">隱私權政策宣告</a> | <a href="home02.aspx?ID=$0900&IDK=2&EXEC=L&DATA=2120">資訊安全政策宣告</a> | <a href="home02.aspx?ID=$0900&IDK=2&EXEC=L&DATA=2121">著作權宣告</a> | <a href="home02.aspx?ID=$9000&IDK=2&EXEC=L">政府公開資訊</a><br>
+COPYRIGHT © ALL RIGHTS RESERVED.<br>
+本網站最佳瀏覽解析度 1024 x 768</td>
+	<td valign="top" style="padding: 10px; width: 140px;"> 
+    <div style="padding: 3px; border: 1px solid rgb(204, 153, 102); border-image: none; color: rgb(102, 0, 0); margin-bottom: 10px; background-color: rgb(255, 255, 204);"><script language="javascript">
+	
+	  function $0009_OpenCManage()
+	  {
+		var wx = 650;
+		var wy = 500;
+	
+		var sx = screen.width;
+		var sy = screen.height;
+	
+		var NewX = (sx - wx) / 2;
+		var NewY = (sy - wy) / 2;
+	
+		var NowURL = "CountList.aspx?CI=$0009";
+		window.open(NowURL, 
+					"MenuIList",
+					"left="   + NewX + ","
+				  + "top="    + NewY + "," 
+				  + "width="  + wx + ","
+				  + "height=" + wy + ","
+				  + "toolbar=no,location=no,status=no");
+	  }
+</script>
+
+
+
+
+
+
+
+
+ 
+<img src="counter/gif/3.gif" alt='3' align="absmiddle"><img src="counter/gif/7.gif" alt='7' align="absmiddle"><img src="counter/gif/5.gif" alt='5' align="absmiddle"><img src="counter/gif/5.gif" alt='5' align="absmiddle"><img src="counter/gif/3.gif" alt='3' align="absmiddle"><img src="counter/gif/8.gif" alt='8' align="absmiddle"><img src="counter/gif/8.gif" alt='8' align="absmiddle"> 位訪客</div>
+    最後更新：2016.11.05
+    </td>
+  </tr>
+</tbody></table>
+</div>
+
+
+
+
+
+
+</div>
+</form>
+<script type="text/javascript">
+$(document).ready(function(){
+  
+  $("#small").click(function(event){
+    event.preventDefault();
+    $("h1").animate({"font-size":"15px"});
+    $("h2").animate({"font-size":"13px"});
+    $("p").animate({"font-size":"11px", "line-height":"15px"});
+    $(".Center").animate({"font-size":"11px", "line-height":"16px"});
+  });
+  
+  $("#medium").click(function(event){
+    event.preventDefault();
+    $("h1").animate({"font-size":"17px"});
+    $("h2").animate({"font-size":"15px"});
+    $("p").animate({"font-size":"13px", "line-height":"17px"});
+	$(".Center").animate({"font-size":"13px", "line-height":"18px"});
+    
+  });
+  
+  $("#large").click(function(event){
+    event.preventDefault();
+    $("h1").animate({"font-size":"19px"});
+    $("h2").animate({"font-size":"17px"});
+    $("p").animate({"font-size":"15px", "line-height":"20px"});
+	$(".Center").animate({"font-size":"15px", "line-height":"22px"});
+    
+  });
+  
+  $( "a" ).click(function() {
+   $("a").removeClass("selected");
+  $(this).addClass("selected");
+  
+ });
+
+});
+</script>
+
+
+	<script type="text/javascript">
+		 $(document).ready(function(){
+			$('.venobox').venobox({
+				numeratio: true,
+				infinigall: true,
+				border: '20px'
+			});
+	})
+	</script>
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script> 
+<script type="text/javascript"> 
+  _uacct=""; 
+  urchinTracker('/home02.aspx?ID=$9012&IDK=2&EXEC=D&DATA=5305'); 
+</script>
+<noscript>
+<a href="https://www.google.com/analytics/home/?et=reset&hl=zh-TW" target="_blank">
+<img src="Manage/img/logo.gif" alt="google analytics"></a>
+</noscript>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+ 
+
+
+ 

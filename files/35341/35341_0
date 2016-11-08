@@ -1,0 +1,774 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/inner.dwt" codeOutsideHTMLIsLocked="false" -->
+<head> 
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="author" content="COA" />
+    <meta name="Category.Theme" content="710"/>
+    <meta name="Category.Cake" content="AX5"/>
+    <meta name="Category.Service" content="I61"/>
+    <meta name="Create_Date" content=""/>   
+    
+    <!-- ============================================
+        Stylesheets 
+    ============================================= -->
+    <link rel="stylesheet" href="/css/style.css" type="text/css" />
+    <link rel="stylesheet" media="only screen and (-webkit-min-device-pixel-ratio: 2)" type="text/css" href="/css/retina.css" />
+	<link rel="stylesheet" href="/css/tipsy.css" type="text/css" />
+    <link rel="stylesheet" href="/css/bootstrap.css" type="text/css" />
+    <link rel="stylesheet" href="/css/font-awesome.css" type="text/css" />
+    <!--<link rel="stylesheet" href="css/animate.css" type="text/css" />-->
+    <link rel="stylesheet" href="/css/magnific-popup.css" type="text/css" />    
+    <link rel="stylesheet" href="/css/responsive.css" type="text/css" />
+    <link rel="stylesheet" href="/css/WG_article.css" type="text/css" />
+    <link rel="stylesheet" href="/css/WG_article.css" type="text/css" />
+    <meta name="viewport" content="width=device-width; initial-scale=1; maximum-scale=2" />
+
+    
+            <link rel="stylesheet" href="/css/iereadcss.css" type="text/css" /> 
+ 	 
+
+    <!--[if lt IE 9]>
+        <script type="text/javascript" src="js/css3-mediaqueries.js"></script>
+
+      
+
+    <![endif]-->
+	
+	
+    <!-- ============================================
+        External JavaScripts
+    ============================================= -->
+	<script type="text/javascript" src="/js/jquery.js"></script>
+	<script type="text/javascript" src="/js/plugins.js"></script>
+    <script src="/js/coa.js"></script> 
+    <script src="/js/jquery-ui.js"></script>
+    <link href="/css/colorbox.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="/js/jquery-ui.css">
+    <script src="/js/jquery.colorbox-min.js" type="text/javascript"></script>
+	<!-- Fat Footer -->
+    <!--[if lt IE 9]> 
+        <script type="text/javascript" > $(document).ready(function(){ $("#rwdurl").hide(); }); </script>          
+    <![endif]-->
+	
+	<link href="/css/fat-footer_new.css" rel="stylesheet" type="text/css" />
+
+	<script type="text/javascript">
+    $(document).ready(function(){	
+		//肥腳開關控制
+		$(".block20141022-bu-close").trigger({
+			type:"click",
+			status:"open"
+		});
+			
+		  /*=====Search New=============================Start*/
+		  /*顯示自動完成提示字*/
+		  $("#keyword_q").autocomplete({
+			  source: function(request, response) {
+				  $.ajax({
+					  url: "search_keyword_save.php",
+					  dataType: "json",
+					  data: {
+						  style: "tips",
+						  website: $( "#search_index_group" ).val(),
+						  term: request.term
+					  },
+					  success: function(data) {
+						  
+						  response(data);
+					  }
+				  });
+			  },
+			  minLength: 0
+		  });		
+		  /*=====Search New=============================End*/
+	});
+	</script>
+
+<style type="text/css">
+#header {
+    	   width:1000px;
+	   margin: 0 auto;
+	   
+      
+} 
+</style>
+    
+    
+    <!-- ============================================
+        Document Title
+    ============================================= -->
+<!-- InstanceBeginEditable name="doctitle" -->
+    <title>106年度預算案(農委會)</title>
+<!-- InstanceEndEditable -->
+    
+    <link rel="stylesheet" type="text/css" href="/css/design.css" /></link>  
+          <!--[if IE 9]>
+    	<script type="text/javascript">
+        	var video_time_out;
+           
+			$(document).ready(function(){
+                $("<video/>").attr({
+                    "id": "head_video_hidden",
+                    "preload": "auto",
+                    "autoplay": true,
+                    "src": "files/masthead/16/A01_1.mp4",
+                    "loop": true,
+					"class": "dis_none"
+                }).appendTo('.stretched');
+				var elements=document.getElementById("head_video_hidden");
+                var elements_video=document.getElementById("head_video");
+				elements_video.preload="none";
+                video_time_out=setInterval(vidoe_readyState, 200);
+			});
+            function vidoe_readyState(){
+            	var elements=document.getElementById("head_video_hidden");
+                var elements_video=document.getElementById("head_video");
+            	console.log(elements.readyState);
+                if(elements.readyState==4){
+                	elements_video.play();
+                    clearTimeout(video_time_out);
+                }
+            }
+        </script>
+<![endif]-->
+    <!-- InstanceBeginEditable name="head" -->
+    <!-- InstanceEndEditable -->
+    
+</head>
+
+<body class="stretched">
+
+
+    <div id="wrapper" class="clearfix">          
+
+        
+        <div id="header" >
+        
+            <div class="container clearfix">
+            <div class="header_link">
+              
+            	<video src="/files/masthead/16/A01_1.mp4" width="1000" height="200" controls loop cron poster="/files/masthead/16/top_banner16.jpg" id="head_video" title="水稻不僅具有糧食產值，還蘊含生態環境、涵養水源、糧食安全及農村文化等多功能性價值，為鼓勵農民生產優質稻穀，請支持「稻作直接給付」政策"></video>
+                                <script type="text/javascript" src="/js/masthead.js"></script>
+                             
+            </div>
+			<div id="top-menu-mode"><a href="" title="電腦模式" >電腦模式</a></div>
+			<div id="top-menu">
+            	<div class="accesskeyU">
+                <a title="上方功能區塊" href="#" accesskey="U">:::</a></div>
+                <ul class="sf-js-enabled sf-arrows">
+                <li><a href="/index.php" target="_self" title="回首頁" tabindex="3">回首頁&nbsp;|&nbsp;</a></li> <li><a href="/sitemap.php" target="_self" title="網站導覽" tabindex="4">網站導覽&nbsp;|&nbsp;</a></li> <li><a href="/theme_list.php?theme=dictionary" target="_self" title="雙語詞彙" tabindex="5">雙語詞彙&nbsp;|&nbsp;</a></li> <li><a href="http://eng.coa.gov.tw/" target="_blank" title="ENGLISH-將另開新視窗" tabindex="6">ENGLISH&nbsp;|&nbsp;</a></li> <li><a href="http://kids.coa.gov.tw/" target="_blank" title="兒童版-將另開新視窗" tabindex="7">兒童版&nbsp;|&nbsp;</a></li> <li><a href="/ws.php?id=2505480&RWD_mode=Y" target="_self" title="行動模式" tabindex="8">行動模式&nbsp;|&nbsp;</a></li> <li><a href="/member/member.php" target="_self" title="會員專區" tabindex="9">會員專區</a></li> 
+                </ul> 
+            </div>
+              <div id="logo">
+                
+                    <a href="/index.php" class="standard-logo"><img src="/image/logo.png" alt="行政院農業委員會" title="行政院農業委員會" /></a>
+                    <a href="/index.php" class="retina-logo"><img src="/images/logo@2x.png" alt="行政院農業委員會" title="行政院農業委員會" width="285" height="98" /></a>
+                
+                </div>
+				<!--- 上方第二選單-str--------------------->
+                <div id="primary-menu">
+                
+                
+                    <div class="rs-menu"><i class="fa fa-align-justify"></i></div>
+                    
+                    <ul id="main-menu">
+                        <li><a title="便民服務" href="/ws.php?id=1" target="_self" tabindex="10" >便民服務</a></li><li><a title="重大政策" href="/ws.php?id=19059" target="_self" tabindex="11" >重大政策</a></li><li><a title="線上申辦" href="/ws.php?id=18730" target="_self" tabindex="12" >線上申辦</a></li><li><a title="關於農委會" href="/ws.php?id=2" target="_self" tabindex="13" >關於農委會</a></li><li><a title="農業政策" href="/ws.php?id=3" target="_self" tabindex="14" >農業政策</a></li><li><a title="農業法令" href="/ws.php?id=21478" target="_self" tabindex="15" >農業法令</a></li><li><a title="新聞與公報" href="/ws.php?id=21477" target="_self" tabindex="16" >新聞與公報</a></li><li><a title="休閒與生活" href="/ws.php?id=5" target="_self" tabindex="17" >休閒與生活</a></li><li class="mainmenu-limit"><a href="/ws.php?id=2501323" target="_self" title="農業科技" tabindex="18">農業科技</a></li><li class="mainmenu-limit"><a href="/ws.php?id=8" target="_self" title="統計與出版品" tabindex="19">統計與出版品</a></li><li class="mainmenu-limit"><a href="/ws.php?id=10" target="_self" title="資料下載" tabindex="20">資料下載</a></li><li class="mainmenu-limit"><a href="/ws.php?id=85" target="_self" title="農委會計畫研提" tabindex="21">農委會計畫研提</a></li><li class="mainmenu-limit"><a href="/ws.php?id=13573" target="_self" title="政府資訊公開" tabindex="22">政府資訊公開</a></li><li class="mainmenu-limit"><a href="/ws.php?id=11" target="_self" title="主題網站" tabindex="23">主題網站</a></li><li class="mainmenu-limit"><a href="/redirect_link.php?theme=web_structure&id=9307" target="_blank" title="台灣農業故事館-將另開新視窗" tabindex="24">台灣農業故事館</a></li><li class="mainmenu-limit"><a href="/ws.php?id=12" target="_self" title="相關網站連結" tabindex="25">相關網站連結</a></li><li class="mainmenu-limit"><a href="/redirect_link.php?theme=web_structure&id=8721" target="_self" title="所屬機關網站" tabindex="26">所屬機關網站</a></li>
+                        <li class="mainmenu-limit-top"><a href="/sitemap.php" title="網站地圖" >網站地圖</a></li>
+                        <li class="mainmenu-limit-top"><a href="/theme_list.php?theme=dictionary" title="雙語詞彙" >雙語詞彙</i></a></li>
+                        <li class="mainmenu-limit-top"><a href="http://eng.coa.gov.tw" title="ENGLISH-將另開新視窗" target="_blank" >ENGLISH</a></li>
+                        <li class="mainmenu-limit-top"><a href="http://kids.coa.gov.tw" title="兒童版-將另開新視窗" target="_blank" >兒童版</a></li>
+                        <li class="mainmenu-limit-top"><a href="" title="電腦模式" >電腦模式</a></li>
+                        <li class="mainmenu-limit-top"><a href="/member/member.php" title="會員專區" id="incfont" >會員專區</a></li>
+                    </ul>                
+                
+                </div>
+				<div id="primary-menu02">                
+                    <ul id="main-menu2">
+                        <li><a title="農業科技" href="/ws.php?id=2501323" target="_self" tabindex="18">農業科技</a></li><li><a title="統計與出版品" href="/ws.php?id=8" target="_self" tabindex="19">統計與出版品</a></li><li><a title="資料下載" href="/ws.php?id=10" target="_self" tabindex="20">資料下載</a></li><li><a title="農委會計畫研提" href="/ws.php?id=85" target="_self" tabindex="21">農委會計畫研提</a></li><li><a title="政府資訊公開" href="/ws.php?id=13573" target="_self" tabindex="22">政府資訊公開</a></li><li><a title="主題網站" href="/ws.php?id=11" target="_self" tabindex="23">主題網站</a></li><li><a title="台灣農業故事館-將另開新視窗" href="/redirect_link.php?theme=web_structure&id=9307" target="_blank" tabindex="24">台灣農業故事館</a></li><li><a title="相關網站連結" href="/ws.php?id=12" target="_self" tabindex="25">相關網站連結</a></li><li><a title="所屬機關網站" href="/redirect_link.php?theme=web_structure&id=8721" target="_self" tabindex="26">所屬機關網站</a></li>
+                    </ul>                
+                
+                </div>
+				<!--- 上方第二選單-end--------------------->      
+            
+            </div>
+        
+        </div>
+        
+        
+        <div id="content">
+       
+        
+            <div class="content-wrap"> 
+                              
+                <div class="container clearfix container_bady">
+                 
+                                    <div class="col_one_fourth nobottommargin leftbar-bg02">
+                    <div class="accesskeyL"><a accesskey="L" href="#" title="左方導覽區">:::</a></div>
+                    	<div class="topmargin01">    
+						<div class="topmargin01 sidemenu">
+							<ul class="sidenav nomargin">
+                             <li><a href="/ws.php?id=1" title="便民服務" target="_self" ><i class="fa-chevron-right"></i>便民服務</a></li><li><a href="/ws.php?id=19059" title="重大政策" target="_self" ><i class="fa-chevron-right"></i>重大政策</a></li><li><a href="/ws.php?id=18730" title="線上申辦" target="_self" ><i class="fa-chevron-right"></i>線上申辦</a></li><li><a href="/ws.php?id=2" title="關於農委會" target="_self" ><i class="fa-chevron-right"></i>關於農委會</a></li><li><a href="/ws.php?id=3" title="農業政策" target="_self" ><i class="fa-chevron-right"></i>農業政策</a></li><li><a href="/ws.php?id=21478" title="農業法令" target="_self" ><i class="fa-chevron-right"></i>農業法令</a></li><li><a href="/ws.php?id=21477" title="新聞與公報" target="_self" ><i class="fa-chevron-right"></i>新聞與公報</a></li><li><a href="/ws.php?id=5" title="休閒與生活" target="_self" ><i class="fa-chevron-right"></i>休閒與生活</a></li><li><a href="/ws.php?id=2501323" title="農業科技" target="_self" ><i class="fa-chevron-right"></i>農業科技</a></li><li><a href="/ws.php?id=8" title="統計與出版品" target="_self" ><i class="fa-chevron-right"></i>統計與出版品</a></li><li><a href="/ws.php?id=10" title="資料下載" target="_self" ><i class="fa-chevron-right"></i>資料下載</a></li><li><a href="/ws.php?id=85" title="農委會計畫研提" target="_self" ><i class="fa-chevron-right"></i>農委會計畫研提</a></li><li><a href="/ws.php?id=13573" title="政府資訊公開" target="_self" ><i class="fa-chevron-right"></i>政府資訊公開</a></li><li><a href="/ws.php?id=11" title="主題網站" target="_self" ><i class="fa-chevron-right"></i>主題網站</a></li><li><a href="/redirect_link.php?theme=web_structure&id=9307" title="台灣農業故事館-將另開新視窗" target="_blank" ><i class="fa-chevron-right"></i>台灣農業故事館</a></li><li><a href="/ws.php?id=12" title="相關網站連結" target="_self" ><i class="fa-chevron-right"></i>相關網站連結</a></li><li><a href="/redirect_link.php?theme=web_structure&id=8721" title="所屬機關網站" target="_self" ><i class="fa-chevron-right"></i>所屬機關網站</a></li>                              
+							</ul>                                 
+						</div>
+                    	</div>
+                    </div>
+				                                    <div class="col_three_fourth col_last bottommargin top_padding">
+                       
+                                     
+ 					  <!-- breadcrumbs -->
+						<div class="accesskeyC"><a href="#" title="主要內容區" accesskey="C">:::</a></div><div class="col_full breadcrumbs"> 現在位置: <a href="/index.php" class="web_path" title="首頁" alt="首頁" >首頁</a> > <a href="/ws.php?id=13573" class="web_path" title="政府資訊公開" alt="政府資訊公開">政府資訊公開</a> > <a href="/ws.php?id=13150" class="web_path" title="預算及決算" alt="預算及決算">預算及決算</a> > <a href="/ws.php?id=13151" class="web_path" title="公務預決算" alt="公務預決算">公務預決算</a> > <a href="/ws.php?id=13205" class="web_path" title="預算" alt="預算">預算</a> > 106年度預算案 </div>
+					  <!-- breadcrumbs -->							
+                                      
+  
+                                                          
+                
+					<!-- Title Black -->
+					<div class="col_full titile_list_margin">
+                      <div class="col_two_third">
+					  <div class="col_half">
+                        	<img src="/images/web_page_title.png" title="" alt="" class="img_float" />
+                            <h3 class="block-head02">政府資訊公開</h3>
+                        </div>  
+
+                      <div class="col_half col_last utility">
+                      <!-- Class table01 and smallicons -->
+                      <table width="100%" border="0" cellspacing="0" cellpadding="0" class="table01 smallicons">
+                          <tr>
+                              <td class="unit">&nbsp;</td>
+                              <td class="unit">&nbsp;</td>
+                              <td style="width:76px;"><a href="http://www.coa.gov.tw/ws.php?id=2505480&print=Y" class="print" target="_brank" ><img src="/images/icon-01.png" alt="友善列印 將另開新視窗" title="友善列印 將另開新視窗" width="76" height="25"/></a></td>
+                              <td style="width:76px;"><div><a href="/report.php?url=aHR0cDovL3d3dy5jb2EuZ292LnR3L3dzLnBocD9pZD0yNTA1NDgw" class="report" onclick="javasrcipt:return false;" onkeypress="javasrcipt:return false;" id="report_url"><img src="/images/icon-02.png" alt="錯誤回報" title="錯誤回報" width="76" height="25"/></a></div>
+                              </td>
+                              <td style="width:63px;"><a href="/index.php" class="home"><img src="/images/icon-03.png" alt="回首頁" title="回首頁" width="63" height="25"/></a></td>
+                          </tr>
+                      </table>
+                      <!-- Class table01 and smallicons -->
+                      </div>               
+                      <div class="col_full innertitle">
+                          <h3 class="title-head">106年度預算案
+                                                        </h3>
+                      </div>
+                      </div>
+
+
+                      <!-- small icons and search -->
+                      <div class="col_one_third col_last utility-inner">									
+                    
+                          <!-- Search -->
+                          <div class="sitesearch">
+                          <img src="/images/search01.png" alt="全站搜尋" title="全站搜尋" />
+                          </div>
+                          <div id="top-search" class="utility02">                      
+							<form action="/search_wg_tran.php" method="post" name="top_search" id="top_search">
+								<select id="search_index_group" name="search_index_group" class="input-block-level utility03">            <option value="4" selected="selected">本單元內容搜尋</option> 
+                        <option value="1" >中文版</option>
+            <option value="2">英文版</option>
+            <option value="3">兒童版</option>
+            <option value="5">青年農民創業入口網</option></select>
+								<input type="text" name="keyword_q" id="keyword_q" maxlength="40" onfocus="javascript: if(this.value=='(請輸入關鍵字)') this.value='';" onblur="javascript: if(this.value=='') this.value='(請輸入關鍵字)';" value="(請輸入關鍵字)" accesskey="s" autocomplete="off" />
+								<button type="button" class="btn btn-info btn-xs btn-side utility-btn" onclick="document.top_search.submit();" onkeypress="document.top_search.submit();">查　詢</button>
+                                <input type="hidden" name="id" id="id" value="2505480" />
+                                <input type="hidden" name="page" value="1" />
+							</form>         
+                          </div>
+                          <!-- Search -->
+                      </div>
+                      <div class="inner_hot_keyword">
+                          熱門：
+                                                    <a href="/search_wg_tran.php?keyword_q=%E7%8D%8E%E5%AD%B8%E9%87%91" title="獎學金">獎學金</a>&nbsp;
+                                                    <a href="/search_wg_tran.php?keyword_q=%E8%BE%B2%E8%88%8D" title="農舍">農舍</a>&nbsp;
+                                                    <a href="/search_wg_tran.php?keyword_q=%E5%AF%B5%E7%89%A9" title="寵物">寵物</a>&nbsp;
+                                                    <a href="/search_wg_tran.php?keyword_q=%E6%9C%89%E6%A9%9F" title="有機">有機</a>&nbsp;
+                                                    <a href="/search_wg_tran.php?keyword_q=%E4%BC%91%E8%80%95" title="休耕">休耕</a>&nbsp;
+                                                </div>
+                      <!-- small icons and search -->                                           
+                                          
+
+					</div>
+					<!-- Title Black -->
+                                                            
+                      
+                                                                 
+ 					<div class="clear"></div> 	
+                    <div style="margin-right:15px;padding:0px 5px;">
+                                					<!-- InstanceBeginEditable name="EditRegion2" -->  
+                    
+<table class="table table-bordered table-striped" cellpadding="0" cellspacing="0" summary="此為排版表格">
+    <tbody>
+    	                <tr>
+            <td width="3%"><span >‧</span></td>
+            <td>              壹、預算總說明 <a href="/redirect_files.php?id=15447&file_name=shxRj2EJ0j5SpXi8vHH1kWGEqualBjTpNnuCJQ3TcceIfwsGxnKWGSla" target="_brank" title="壹、預算總說明(附件一).doc檔下載(0.17MB)-將另開新視窗" class="file_icon">
+                        DOC</a> <a href="/redirect_files.php?id=15448&file_name=2MmCdte2XVgmpvHb0AWGEqualBjTpNnuCJQ3TcceIfwsGxpt3k" target="_brank" title="壹、預算總說明(附件二).pdf檔下載(0.6MB)-將另開新視窗" class="file_icon">
+                        PDF</a>
+               </td>
+        </tr>
+                <tr>
+            <td width="3%"><span >‧</span></td>
+            <td>              <a href="/ws.php?id=2505482" title="貳、主要表" target="_self">貳、主要表</a>
+               </td>
+        </tr>
+                <tr>
+            <td width="3%"><span >‧</span></td>
+            <td>              <a href="/ws.php?id=2505485" title="參、附屬表" target="_self">參、附屬表</a>
+               </td>
+        </tr>
+                <tr>
+            <td width="3%"><span >‧</span></td>
+            <td>              <a href="/ws.php?id=2505508" title="肆、附錄" target="_self">肆、附錄</a>
+               </td>
+        </tr>
+                <tr>
+            <td width="3%"><span >‧</span></td>
+            <td>              全份預算書 <a href="/redirect_files.php?id=15547&file_name=ZZLXbtu7rZ2L5CaNggWGEqualECBGdpsefNP42LVpxqmDxGkhU" target="_brank" title="全份預算書(附件一).pdf檔下載(3.5MB)-將另開新視窗" class="file_icon">
+                        PDF</a>
+               </td>
+        </tr>
+                    </tbody>
+</table>
+  
+					<!-- InstanceEndEditable -->
+                                        <div>
+                    <table cellspacing="0" cellpadding="3" border="0" align="left" class="nextpage_txt page_list_table" summary="此為排版表格">
+                    <form action="" method="post" name="form3" id="form3">
+                        <tbody>
+                        <tr>
+                            <td></td>
+                            <td align="center"><span class="page_bar">共5筆資料，第1<em> / </em>1頁，每頁顯示20筆</span></td>
+                            <td align="right" ></td> 
+                        </tr>
+                        </tbody>
+                    </form>
+                    </table>
+                    </div>
+                                        </div> 
+                                                                 
+
+                 
+                <br />                                                            
+                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                      	<td align="left"><a href="#" class="simple-button01"><img src="/images/in-bu-top.jpg" title="回上方" alt="回上方" width="56"/></a></td>
+                        <td align="right"><a href="/back_page.php" class="simple-button"><img src="/images/in-bu-back.jpg" title="回上一頁" alt="回上一頁" width="56"/></a></td>
+                      </tr>
+                      </table>  
+                      <div align="right"><font color="#FFFFFF" >自105.09.05:353</font></div>                   
+                      <div class="clear"></div>
+                                                                                  
+                    </div>
+                    <div class="clear"></div>
+                    <div id="img_block_b"></div>
+                   
+                 <div style="margin-bottom:5px; position:relative;">   
+                    <div class="clear"></div>
+                    <div class="foot_menu_id_img"></div>
+                       <div id="foot_menu_id" class="foot_menu_id_bg">
+						<div class="alert alert-success" >
+                        <table class="table03 columns-links01" cellspacing="4" cellpadding="0" border="0" width="100%">
+                        <tbody>
+                            <tr>
+                            <td id="id_table03_a" align="center">
+                                <span class="accesskeyF __web-inspector-hide-shortcut__">
+                        <a accesskey="F" href="#" title="下方功能區塊" style="color:#a25C16">:::</a></span><a href="http://chiefsuit.coa.gov.tw/ChiefMail/jsp/mainPeople.jsp"  title="首長信箱-將另開新視窗" target="_blank">首長信箱</a></td><td style="border-left:#FFF dotted 2px;"> </td><td id="id_table03_a" align="center">
+                                <a href="/ws.php?id=229"  title="農業財團法人彙總表" target="_self">農業財團法人彙總表</a></td><td style="border-left:#FFF dotted 2px;"> </td><td id="id_table03_a" align="center">
+                                <a href="/ws.php?id=2446852"  title="廉政資訊專區" target="_self">廉政資訊專區</a></td><td style="border-left:#FFF dotted 2px;"> </td><td id="id_table03_a" align="center">
+                                <a href="/ws.php?id=2500662"  title="性別平等" target="_self">性別平等</a></td><td style="border-left:#FFF dotted 2px;"> </td><td id="id_table03_a" align="center">
+                                <a href="http://www8.www.gov.tw/policy/2009career/index.html"  title="就業情報站-將另開新視窗" target="_blank">就業情報站</a></td><td style="border-left:#FFF dotted 2px;"> </td><td id="id_table03_a" align="center">
+                                <a href="/ws.php?id=646"  title="常見問答集" target="_self">常見問答集</a></td><td style="border-left:#FFF dotted 2px;"> </td><td id="id_table03_a" align="center">
+                                <a href="/bulletin/bulletin_list.php"  title="交流園地" target="_self">交流園地</a></td><td style="border-left:#FFF dotted 2px;"> </td><td id="id_table03_a" align="center">
+                                <a href="/ws.php?id=13"  title="會內資訊" target="_self">會內資訊</a></td>
+                            </tr>
+                          </tbody>
+                        </table>
+                        <div class="columns-links"><ul>
+                            <li><a href="http://chiefsuit.coa.gov.tw/ChiefMail/jsp/mainPeople.jsp" title="首長信箱" target="_blank" ><img src="images/dot-03.png" alt="" />首長信箱</a></li><li><a href="/ws.php?id=229" title="農業財團法人彙總表" target="_self" ><img src="images/dot-03.png" alt="" />農業財團法人彙總表</a></li><li><a href="/ws.php?id=2446852" title="廉政資訊專區" target="_self" ><img src="images/dot-03.png" alt="" />廉政資訊專區</a></li><li><a href="/ws.php?id=2500662" title="性別平等" target="_self" ><img src="images/dot-03.png" alt="" />性別平等</a></li><li><a href="http://www8.www.gov.tw/policy/2009career/index.html" title="就業情報站" target="_blank" ><img src="images/dot-03.png" alt="" />就業情報站</a></li><li><a href="/ws.php?id=646" title="常見問答集" target="_self" ><img src="images/dot-03.png" alt="" />常見問答集</a></li><li><a href="/bulletin/bulletin_list.php" title="交流園地" target="_self" ><img src="images/dot-03.png" alt="" />交流園地</a></li><li><a href="/ws.php?id=13" title="會內資訊" target="_self" ><img src="images/dot-03.png" alt="" />會內資訊</a></li>
+                            </ul></div>
+                        </div>
+					   </div>
+                    </div>                                                                                       
+				  <div class="col_full topmargin">
+					
+                    
+        <!-- Fat Footer Start------------------------------------------ -->
+        <div class="col_full last01" id="fat-footer-box">
+            <!-- fat Footer -->
+                <div id="block20141022">
+                    <div id="block20141022-btn">
+                        <a href="#" class="block20141022-bu-close" id="n" title="關閉"></a>
+                        <div ><img src="/images/fatfoot-line_01.jpg" alt="" title="" class="fatfoot_line" /></div>
+                    </div>
+                    <!-- Fat Footer cont Start --------------------------------------------------------->
+                    <div id="fat-footer" >
+                        <div class="fat_footer_bgstyleI"> 
+                            <div class="fat_footer_bgstyleII">
+                                <div class="fat-footer-div">
+                                                                        <div class="fat-footer-unit">                              
+                                                                                <div class="name">
+                                        	<a href="/ws.php?id=1" title="便民服務" alt="便民服務" target="_self">便民服務</a>
+                                        </div>
+                                                                                                                        <div class="list">                                            
+                                            <dl> 
+                                                                                          <dd><a href="/theme_list.php?theme=eform" title="民眾申辦案件電子表單" alt="民眾申辦案件電子表單" target="_self">民眾申辦案件電子表單</a></dd>
+                                                                                          <dd><a href="/redirect_link.php?theme=web_structure&id=45" title="交流園地" alt="交流園地" target="_self">交流園地</a></dd>
+                                                                                          <dd><a href="/redirect_link.php?theme=web_structure&id=46" title="首長信箱" alt="首長信箱" target="_self">首長信箱</a></dd>
+                                                                                          <dd><a href="/ws.php?id=646" title="常見問答集(FAQ)" alt="常見問答集(FAQ)" target="_self">常見問答集(FAQ)</a></dd>
+                                                                                          <dd><a href="/ws.php?id=2445753" title="訴願程序說明" alt="訴願程序說明" target="_self">訴願程序說明</a></dd>
+                                            	
+                                            </dl>
+                                        </div>
+                                        <div class="level-more">
+                                                                                    <a href="/ws.php?id=1" title="更多便民服務" alt="更多便民服務" target="_self">
+                                            <img class="space09" border="0" width="33" height="14" alt="更多便民服務" title="更多便民服務" src="/images/button-more.gif" /></a>
+                                            
+                                        </div>	
+                                        							
+                                    </div>
+                                                                                                            <div class="fat-footer-unit">                              
+                                                                                <div class="name">
+                                        	<a href="/ws.php?id=19059" title="重大政策" alt="重大政策" target="_self">重大政策</a>
+                                        </div>
+                                                                                                                        <div class="list">                                            
+                                            <dl> 
+                                                                                          <dd><a href="/ws.php?id=2503971" title="產銷履歷—安全、永續、資訊公開之可追溯農產品" alt="產銷履歷—安全、永續、資訊公開之可追溯農產品" target="_self">產銷履歷—安全、永續、資訊公開之可追溯農產品</a></dd>
+                                                                                          <dd><a href="/ws.php?id=2504048" title="輔導設立農業政策研究中心" alt="輔導設立農業政策研究中心" target="_self">輔導設立農業政策研究中心</a></dd>
+                                                                                          <dd><a href="/ws.php?id=2503857" title="雞蛋可溯源 衛生安全有保障" alt="雞蛋可溯源 衛生安全有保障" target="_self">雞蛋可溯源 衛生安全有保障</a></dd>
+                                                                                          <dd><a href="/ws.php?id=19192" title="飼料及寵物食品法規修正上路，強化管理提升產業責任" alt="飼料及寵物食品法規修正上路，強化管理提升產業責任" target="_self">飼料及寵物食品法規修正上路，強化管理提升產業責任</a></dd>
+                                                                                          <dd><a href="/ws.php?id=19194" title="加強動物保護工作，持續提升動物福利" alt="加強動物保護工作，持續提升動物福利" target="_self">加強動物保護工作，持續提升動物福利</a></dd>
+                                            	
+                                            </dl>
+                                        </div>
+                                        <div class="level-more">
+                                                                                    <a href="/ws.php?id=19059" title="更多重大政策" alt="更多重大政策" target="_self">
+                                            <img class="space09" border="0" width="33" height="14" alt="更多重大政策" title="更多重大政策" src="/images/button-more.gif" /></a>
+                                            
+                                        </div>	
+                                        							
+                                    </div>
+                                                                                                            <div class="fat-footer-unit">                              
+                                                                                <div class="name">
+                                        	<a href="/ws.php?id=2" title="關於農委會" alt="關於農委會" target="_self">關於農委會</a>
+                                        </div>
+                                                                                                                        <div class="list">                                            
+                                            <dl> 
+                                                                                          <dd><a href="/ws.php?id=14" title="概述與沿革" alt="概述與沿革" target="_self">概述與沿革</a></dd>
+                                                                                          <dd><a href="/ws.php?id=2504740" title="主任委員簡歷" alt="主任委員簡歷" target="_self">主任委員簡歷</a></dd>
+                                                                                          <dd><a href="/ws.php?id=22316" title="副主任委員簡歷" alt="副主任委員簡歷" target="_self">副主任委員簡歷</a></dd>
+                                                                                          <dd><a href="/ws.php?id=2504755" title="主任委員的話" alt="主任委員的話" target="_self">主任委員的話</a></dd>
+                                                                                          <dd><a href="/ws.php?id=9757" title="專訪園地" alt="專訪園地" target="_self">專訪園地</a></dd>
+                                            	
+                                            </dl>
+                                        </div>
+                                        <div class="level-more">
+                                                                                    <a href="/ws.php?id=2" title="更多關於農委會" alt="更多關於農委會" target="_self">
+                                            <img class="space09" border="0" width="33" height="14" alt="更多關於農委會" title="更多關於農委會" src="/images/button-more.gif" /></a>
+                                            
+                                        </div>	
+                                        							
+                                    </div>
+                                                                                                            <div class="fat-footer-unit">                              
+                                                                                <div class="name">
+                                        	<a href="/ws.php?id=3" title="農業政策" alt="農業政策" target="_self">農業政策</a>
+                                        </div>
+                                                                                                                        <div class="list">                                            
+                                            <dl> 
+                                                                                          <dd><a href="/redirect_link.php?theme=web_structure&id=2505475" title="本會中程施政計畫(106至109年度)(草案)" alt="本會中程施政計畫(106至109年度)(草案)" target="_self">本會中程施政計畫(106至109年度)(草案)</a></dd>
+                                                                                          <dd><a href="/ws.php?id=2446216" title="本會中程施政計畫（102至105年度）" alt="本會中程施政計畫（102至105年度）" target="_self">本會中程施政計畫（102至105年度）</a></dd>
+                                                                                          <dd><a href="/redirect_link.php?theme=web_structure&id=2505476" title="本會106年度施政計畫(草案)" alt="本會106年度施政計畫(草案)" target="_self">本會106年度施政計畫(草案)</a></dd>
+                                                                                          <dd><a href="/ws.php?id=2504460" title="105年度施政計畫 " alt="105年度施政計畫 " target="_self">105年度施政計畫 </a></dd>
+                                                                                          <dd><a href="/ws.php?id=67" title="業務報告與施政報告" alt="業務報告與施政報告" target="_self">業務報告與施政報告</a></dd>
+                                            	
+                                            </dl>
+                                        </div>
+                                        <div class="level-more">
+                                                                                    <a href="/ws.php?id=3" title="更多農業政策" alt="更多農業政策" target="_self">
+                                            <img class="space09" border="0" width="33" height="14" alt="更多農業政策" title="更多農業政策" src="/images/button-more.gif" /></a>
+                                            
+                                        </div>	
+                                        							
+                                    </div>
+                                                                        <div class="B" style="clear:both; height:0px;"></div>
+                                                                                                            <div class="fat-footer-unit">                              
+                                                                                <div class="name">
+                                        	<a href="/ws.php?id=21478" title="農業法令" alt="農業法令" target="_self">農業法令</a>
+                                        </div>
+                                                                                                                        <div class="list">                                            
+                                            <dl> 
+                                                                                          <dd><a href="/redirect_link.php?theme=web_structure&id=21480" title="農業主管法規查詢系統-將另開新視窗" alt="農業主管法規查詢系統-將另開新視窗" target="_blank">農業主管法規查詢系統</a></dd>
+                                                                                          <dd><a href="/redirect_link.php?theme=web_structure&id=10680" title="農田水利會相關法規-將另開新視窗" alt="農田水利會相關法規-將另開新視窗" target="_blank">農田水利會相關法規</a></dd>
+                                                                                          <dd><a href="/redirect_link.php?theme=web_structure&id=7792" title="農地管理法規檢索系統-將另開新視窗" alt="農地管理法規檢索系統-將另開新視窗" target="_blank">農地管理法規檢索系統</a></dd>
+                                                                                          <dd><a href="/redirect_link.php?theme=web_structure&id=5530" title="全國法規資料庫-將另開新視窗" alt="全國法規資料庫-將另開新視窗" target="_blank">全國法規資料庫</a></dd>
+                                                                                          <dd><a href="/ws.php?id=3088" title="解釋令" alt="解釋令" target="_self">解釋令</a></dd>
+                                            	
+                                            </dl>
+                                        </div>
+                                        <div class="level-more">
+                                                                                    <a href="/ws.php?id=21478" title="更多農業法令" alt="更多農業法令" target="_self">
+                                            <img class="space09" border="0" width="33" height="14" alt="更多農業法令" title="更多農業法令" src="/images/button-more.gif" /></a>
+                                            
+                                        </div>	
+                                        							
+                                    </div>
+                                                                                                            <div class="fat-footer-unit">                              
+                                                                                <div class="name">
+                                        	<a href="/ws.php?id=21477" title="新聞與公報" alt="新聞與公報" target="_self">新聞與公報</a>
+                                        </div>
+                                                                                                                        <div class="list">                                            
+                                            <dl> 
+                                                                                          <dd><a href="/ws.php?id=9817" title="RSS 新聞台" alt="RSS 新聞台" target="_self">RSS 新聞台</a></dd>
+                                                                                          <dd><a href="/theme_list.php?theme=news&sub_theme=agri" title="農業新聞" alt="農業新聞" target="_self">農業新聞</a></dd>
+                                                                                          <dd><a href="/theme_list.php?theme=rss_news" title="農委會所屬機關新聞" alt="農委會所屬機關新聞" target="_self">農委會所屬機關新聞</a></dd>
+                                                                                          <dd><a href="/theme_list.php?theme=photo_news" title="資訊圖文" alt="資訊圖文" target="_self">資訊圖文</a></dd>
+                                                                                          <dd><a href="/redirect_link.php?theme=web_structure&id=11169" title="消費者新聞" alt="消費者新聞" target="_self">消費者新聞</a></dd>
+                                            	
+                                            </dl>
+                                        </div>
+                                        <div class="level-more">
+                                                                                    <a href="/ws.php?id=21477" title="更多新聞與公報" alt="更多新聞與公報" target="_self">
+                                            <img class="space09" border="0" width="33" height="14" alt="更多新聞與公報" title="更多新聞與公報" src="/images/button-more.gif" /></a>
+                                            
+                                        </div>	
+                                        							
+                                    </div>
+                                                                                                            <div class="fat-footer-unit">                              
+                                                                                <div class="name">
+                                        	<a href="/ws.php?id=5" title="休閒與生活" alt="休閒與生活" target="_self">休閒與生活</a>
+                                        </div>
+                                                                                                                        <div class="list">                                            
+                                            <dl> 
+                                                                                          <dd><a href="/ws.php?id=10858" title="消費者資訊專區" alt="消費者資訊專區" target="_self">消費者資訊專區</a></dd>
+                                                                                          <dd><a href="/ws.php?id=10860" title="優質農產品查詢" alt="優質農產品查詢" target="_self">優質農產品查詢</a></dd>
+                                                                                          <dd><a href="/ws.php?id=241" title="休閒旅遊" alt="休閒旅遊" target="_self">休閒旅遊</a></dd>
+                                                                                          <dd><a href="/ws.php?id=2500000" title="多媒體影音" alt="多媒體影音" target="_self">多媒體影音</a></dd>
+                                                                                          <dd><a href="/ws.php?id=18791" title="農業故事報導" alt="農業故事報導" target="_self">農業故事報導</a></dd>
+                                            	
+                                            </dl>
+                                        </div>
+                                        <div class="level-more">
+                                                                                    <a href="/ws.php?id=5" title="更多休閒與生活" alt="更多休閒與生活" target="_self">
+                                            <img class="space09" border="0" width="33" height="14" alt="更多休閒與生活" title="更多休閒與生活" src="/images/button-more.gif" /></a>
+                                            
+                                        </div>	
+                                        							
+                                    </div>
+                                                                                                            <div class="fat-footer-unit">                              
+                                                                                <div class="name">
+                                        	<a href="/ws.php?id=2501323" title="農業科技" alt="農業科技" target="_self">農業科技</a>
+                                        </div>
+                                                                                                                        <div class="list">                                            
+                                            <dl> 
+                                                                                          <dd><a href="/ws.php?id=12891" title="農業敏感科技項目" alt="農業敏感科技項目" target="_self">農業敏感科技項目</a></dd>
+                                                                                          <dd><a href="/ws.php?id=2502429" title="行政院農業委員會貴重儀器供學研單位服務清單" alt="行政院農業委員會貴重儀器供學研單位服務清單" target="_self">行政院農業委員會貴重儀器供學研單位服務清單</a></dd>
+                                            	
+                                            </dl>
+                                        </div>
+                                        <div class="level-more">
+                                                                                    <a href="/ws.php?id=2501323" title="更多農業科技" alt="更多農業科技" target="_self">
+                                            <img class="space09" border="0" width="33" height="14" alt="更多農業科技" title="更多農業科技" src="/images/button-more.gif" /></a>
+                                            
+                                        </div>	
+                                        							
+                                    </div>
+                                                                        <div class="B" style="clear:both; height:0px;"></div>
+                                                                                                            <div class="fat-footer-unit">                              
+                                                                                <div class="name">
+                                        	<a href="/ws.php?id=8" title="統計與出版品" alt="統計與出版品" target="_self">統計與出版品</a>
+                                        </div>
+                                                                                                                        <div class="list">                                            
+                                            <dl> 
+                                                                                          <dd><a href="/ws.php?id=195" title="農業統計" alt="農業統計" target="_self">農業統計</a></dd>
+                                                                                          <dd><a href="/ws.php?id=346" title="經營管理合理化在農業之應用" alt="經營管理合理化在農業之應用" target="_self">經營管理合理化在農業之應用</a></dd>
+                                                                                          <dd><a href="/ws.php?id=2447190" title="農業出版品" alt="農業出版品" target="_self">農業出版品</a></dd>
+                                                                                          <dd><a href="/ws.php?id=2447191" title="農委會及所屬機關年報" alt="農委會及所屬機關年報" target="_self">農委會及所屬機關年報</a></dd>
+                                                                                          <dd><a href="/ws.php?id=2447192" title="網路圖書館" alt="網路圖書館" target="_self">網路圖書館</a></dd>
+                                            	
+                                            </dl>
+                                        </div>
+                                        <div class="level-more">
+                                                                                    <a href="/ws.php?id=8" title="更多統計與出版品" alt="更多統計與出版品" target="_self">
+                                            <img class="space09" border="0" width="33" height="14" alt="更多統計與出版品" title="更多統計與出版品" src="/images/button-more.gif" /></a>
+                                            
+                                        </div>	
+                                        							
+                                    </div>
+                                                                                                            <div class="fat-footer-unit">                              
+                                                                                <div class="name">
+                                        	<a href="/ws.php?id=10" title="資料下載" alt="資料下載" target="_self">資料下載</a>
+                                        </div>
+                                                                                                                        <div class="list">                                            
+                                            <dl> 
+                                                                                          <dd><a href="/ws.php?id=106" title="1. 行政院農業委員會logo及banner" alt="1. 行政院農業委員會logo及banner" target="_self">1. 行政院農業委員會logo及banner</a></dd>
+                                                                                          <dd><a href="/ws.php?id=22166" title="2. 農業天然災害救助作業" alt="2. 農業天然災害救助作業" target="_self">2. 農業天然災害救助作業</a></dd>
+                                                                                          <dd><a href="/ws.php?id=109" title="3. 人事業務相關資料" alt="3. 人事業務相關資料" target="_self">3. 人事業務相關資料</a></dd>
+                                                                                          <dd><a href="/ws.php?id=111" title="4. 研考業務相關資料" alt="4. 研考業務相關資料" target="_self">4. 研考業務相關資料</a></dd>
+                                                                                          <dd><a href="/ws.php?id=112" title="5. 會計業務相關資料" alt="5. 會計業務相關資料" target="_self">5. 會計業務相關資料</a></dd>
+                                            	
+                                            </dl>
+                                        </div>
+                                        <div class="level-more">
+                                                                                    <a href="/ws.php?id=10" title="更多資料下載" alt="更多資料下載" target="_self">
+                                            <img class="space09" border="0" width="33" height="14" alt="更多資料下載" title="更多資料下載" src="/images/button-more.gif" /></a>
+                                            
+                                        </div>	
+                                        							
+                                    </div>
+                                                                                                            <div class="fat-footer-unit">                              
+                                                                                <div class="name">
+                                        	<a href="/ws.php?id=85" title="農委會計畫研提" alt="農委會計畫研提" target="_self">農委會計畫研提</a>
+                                        </div>
+                                                                                                                        <div class="list">                                            
+                                            <dl> 
+                                                                                          <dd><a href="/redirect_link.php?theme=web_structure&id=19636" title="本會農業計畫管理系統-將另開新視窗" alt="本會農業計畫管理系統-將另開新視窗" target="_blank">本會農業計畫管理系統</a></dd>
+                                                                                          <dd><a href="/ws.php?id=87" title="農業科技計畫" alt="農業科技計畫" target="_self">農業科技計畫</a></dd>
+                                                                                          <dd><a href="/ws.php?id=88" title="農業管理計畫" alt="農業管理計畫" target="_self">農業管理計畫</a></dd>
+                                                                                          <dd><a href="/ws.php?id=89" title="農業發展計畫" alt="農業發展計畫" target="_self">農業發展計畫</a></dd>
+                                                                                          <dd><a href="/ws.php?id=91" title="行政院農業委員會主管計畫經費處理手冊（自105年10月1日生效）" alt="行政院農業委員會主管計畫經費處理手冊（自105年10月1日生效）" target="_self">行政院農業委員會主管計畫經費處理手冊（自105年10月1日生效）</a></dd>
+                                            	
+                                            </dl>
+                                        </div>
+                                        <div class="level-more">
+                                                                                    <a href="/ws.php?id=85" title="更多農委會計畫研提" alt="更多農委會計畫研提" target="_self">
+                                            <img class="space09" border="0" width="33" height="14" alt="更多農委會計畫研提" title="更多農委會計畫研提" src="/images/button-more.gif" /></a>
+                                            
+                                        </div>	
+                                        							
+                                    </div>
+                                                                                                            <div class="fat-footer-unit">                              
+                                                                                <div class="name">
+                                        	<a href="/ws.php?id=13573" title="政府資訊公開" alt="政府資訊公開" target="_self">政府資訊公開</a>
+                                        </div>
+                                                                                                                        <div class="list">                                            
+                                            <dl> 
+                                                                                          <dd><a href="/redirect_link.php?theme=web_structure&id=13574" title="農業法規與解釋令-將另開新視窗" alt="農業法規與解釋令-將另開新視窗" target="_blank">農業法規與解釋令</a></dd>
+                                                                                          <dd><a href="/ws.php?id=2504705" title="法律草案公開" alt="法律草案公開" target="_self">法律草案公開</a></dd>
+                                                                                          <dd><a href="/redirect_link.php?theme=web_structure&id=13575" title="執掌與組織" alt="執掌與組織" target="_self">執掌與組織</a></dd>
+                                                                                          <dd><a href="/ws.php?id=2503075" title="支付或接受之補助" alt="支付或接受之補助" target="_self">支付或接受之補助</a></dd>
+                                                                                          <dd><a href="/ws.php?id=13619" title="行政指導文書" alt="行政指導文書" target="_self">行政指導文書</a></dd>
+                                            	
+                                            </dl>
+                                        </div>
+                                        <div class="level-more">
+                                                                                    <a href="/ws.php?id=13573" title="更多政府資訊公開" alt="更多政府資訊公開" target="_self">
+                                            <img class="space09" border="0" width="33" height="14" alt="更多政府資訊公開" title="更多政府資訊公開" src="/images/button-more.gif" /></a>
+                                            
+                                        </div>	
+                                        							
+                                    </div>
+                                                                        <div class="B" style="clear:both; height:0px;"></div>
+                                                                                                            <div class="fat-footer-unit">                              
+                                                                                <div class="name">
+                                        	<a href="/ws.php?id=12" title="相關網站連結" alt="相關網站連結" target="_self">相關網站連結</a>
+                                        </div>
+                                                                                                                        <div class="list">                                            
+                                            <dl> 
+                                                                                          <dd><a href="/ws.php?id=340" title="行政院暨各部會屬" alt="行政院暨各部會屬" target="_self">行政院暨各部會屬</a></dd>
+                                                                                          <dd><a href="/redirect_link.php?theme=web_structure&id=420" title="農委會所屬機關" alt="農委會所屬機關" target="_self">農委會所屬機關</a></dd>
+                                                                                          <dd><a href="/ws.php?id=421" title="農民團體(農會、漁會、農田水利會、合作社、產銷班)" alt="農民團體(農會、漁會、農田水利會、合作社、產銷班)" target="_self">農民團體(農會、漁會、農田水利會、合作社、產銷班)</a></dd>
+                                                                                          <dd><a href="/ws.php?id=551" title="其他農業相關網站" alt="其他農業相關網站" target="_self">其他農業相關網站</a></dd>
+                                                                                          <dd><a href="/ws.php?id=648" title="中央研究院" alt="中央研究院" target="_self">中央研究院</a></dd>
+                                            	
+                                            </dl>
+                                        </div>
+                                        <div class="level-more">
+                                                                                    <a href="/ws.php?id=12" title="更多相關網站連結" alt="更多相關網站連結" target="_self">
+                                            <img class="space09" border="0" width="33" height="14" alt="更多相關網站連結" title="更多相關網站連結" src="/images/button-more.gif" /></a>
+                                            
+                                        </div>	
+                                        							
+                                    </div>
+                                                                                                            <div class="fat-footer-unit">                              
+                                                                                <div class="name">
+                                        	<a href="/ws.php?id=18730" title="線上申辦" alt="線上申辦" target="_self">線上申辦</a>
+                                        </div>
+                                                                                <div class="name">
+                                        	<a href="/ws.php?id=11" title="主題網站" alt="主題網站" target="_self">主題網站</a>
+                                        </div>
+                                                                                <div class="name">
+                                        	<a href="/redirect_link.php?theme=web_structure&id=9307" title="台灣農業故事館-將另開新視窗" alt="台灣農業故事館-將另開新視窗" target="_blank">台灣農業故事館</a>
+                                        </div>
+                                                                                							
+                                    </div>
+                                                                                                        </div><div class="B" style="clear:both; height:0px;"></div>
+                            </div>
+                    <!-- Fat Footer cont end ------->
+                            <div class="A" style="clear:both; height:0px;"></div>
+                            <div id="block20141022-in"></div>
+                        </div>
+                    </div>
+                </div>
+            <!-- Fat Footer -->						
+        </div>
+        <div class="clear"></div>
+        <!-- Fat Footer End------------------------------------------ -->
+
+	</div>
+</div>
+					                                                                                  
+            </div>
+
+
+        
+        
+        </div>
+
+
+        <div class="clear"></div>
+        
+                                                                   
+        <div id="copyrights" class="copyrights-dark">
+            <div class="container clearfix foot_cp_bg"> 
+            <div class="accesskeyB"><a accesskey="B" style="color: #b8dc9c;" href="#" title="下方功能區塊">:::</a></div>
+				<a href="/ws.php?id=635" title="隱私權保護宣告">隱私權保護宣告</a><span class="link-divider">/</span><a href="/ws.php?id=639" title="資訊安全政策">資訊安全政策</a><span class="link-divider">/</span><a href="/ws.php?id=2446827" title="網站資料開放宣告">網站資料開放宣告</a><span class="link-divider">/</span><a href="/ws.php?id=886" title="本會位置圖">本會位置圖</a><span class="link-divider">/</span><a href="/ws.php?id=20036" title="各縣市動物保護申訴電話">各縣市動物保護申訴電話</a><span class="link-divider">/</span><a href="/ws.php?id=884" title="緊急災害聯絡">緊急災害聯絡</a>
+            <div class="col_two_third footer-margin">       
+				<span id="foot_data_none1">
+農產品走私檢舉專線：0800-054300‧動物保護及畜禽產品走私檢舉專線：0800-231532‧農業諮詢專線：4499595(手機請加02)
+<br>
+</span>
+10014 臺北市中正區南海路 37 號‧電話：+886-2-2381
+<span style="display:none;">-</span>
+-2991‧傳真：+886-2-2331
+<span style="display:none;">-</span>
+-0341‧服務時間： AM8:30~PM5:30
+<br>
+Copyright© 行政院農業委員會 版權所有	
+				<script>
+                
+                  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                  ga('create', 'UA-7332087-10', 'auto');
+                  ga('send', 'pageview');
+                </script>
+				<!-- InstanceBeginEditable name="EditRegion4" --><!-- InstanceEndEditable -->
+            </div>    
+                
+<div class="col_one_third col_last01 tright" id="foot_data_icon_box">
+    <div class="footer-ban">
+    <a target="_blank" href="http://www.handicap-free.nat.gov.tw/Applications/Detail/41082?category=20161013102630">
+    <img src="/images/aplus.jpg" alt="通過A+等級無障礙網頁檢測(將另開新視窗)" title="通過A+等級無障礙網頁檢測(將另開新視窗)" border="0"/></a>
+    <a target="_blank" href="http://www.gov.tw/">
+    <img src="/images/egov.gif" alt="我的E政府" title="我的E政府" border="0" width="43" height="46" /></a>
+    <img src="/images/footer_mark15.gif" alt="「數位時代」政府網站前15強" title="「數位時代」政府網站前15強" height="45" border="0" style="cursor:nono;margin-left: 7px;" />
+    </div>
+</div>
+            </div>
+        
+        </div>
+
+
+
+    </div>
+    <!-- InstanceBeginEditable name="EditRegion5" -->
+    
+    <!-- InstanceEndEditable -->
+    	  <script type="text/javascript" src="/js/custom.js"></script> 
+      
+
+
+<div id="show_report_form" style=" display:none;" >
+	<div onclick="javascript:wclose()" onkeypress="javascript:wclose()">關閉</div>
+    <div id="report_form_context"></div>
+</div>
+</body>
+
+<!-- InstanceEnd --></html>

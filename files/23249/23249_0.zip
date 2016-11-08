@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh-TW" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="urn:user-namespace-here" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>法務部全球資訊網</title>
+<link href="xslGip/unit001/css/design.css" rel="stylesheet" type="text/css"/>
+<meta name="DC.Title" content="法務部全球資訊網" />
+<meta name="DC.Creator" content="法務部" />
+<meta name="DC.Subject" content="一般民眾首頁" />
+<meta name="DC.Description" content="提供法務部全球資訊網的所有訊息" />
+<meta name="DC.Contributor" content="法務部" />
+<meta name="DC.Type" content="文字" />
+<meta name="DC.Format" content="text" />
+<meta name="DC.Source" content="法務部" />
+<meta name="DC.Language" content="中文" />
+<meta name="DC.coverage.t.min" content="2008-05-01" />
+<meta name="DC.coverage.t.max" content="2100-12-31" />
+<meta name="DC.Publisher" content="法務部" />
+<meta name="DC.Date" content="2008-05-01" />
+<meta name="DC.Identifier" content="A11000000F" />
+<meta name="DC.Relation" content="GIP-moj-MP-001" />
+<meta name="DC.Rights" content="法務部" />
+<meta name="Category.Theme" content="300" />
+<meta name="Category.Cake" content="600" />
+<meta name="Category.Service" content="I00" />
+</head>
+<body>
+<div id="header">
+	<h1><a title="法務部全球資訊網" href="dp.asp?mp=001"><img src="/xslGip/unit001/images/h1.gif" alt="法務部全球資訊網"></a></h1>
+</div>
+<table class="layout">
+<tr>
+	<td class="center">		
+		<div class="main">
+			<h2>網頁不存在！</h2>
+		</div>				
+		<div class="newsRun1" xmlns="">
+			<div class="marquee">
+			<ul>
+				<li>抱歉，網站無法顯示此網頁！您查詢的網頁暫時無法使用，或者已經被移除。</li>
+				<li><a href="http://www.moj.gov.tw/" title="法務部全球資訊網">法務部全球資訊網</a></li>
+			</ul>
+			</div>
+		</div>
+	</td>
+	
+</tr>
+</table>
+<div class="footer">
+</div>
+</body>
+</html>

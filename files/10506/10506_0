@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>陸瀛謙</Author>
+  <LastAuthor>z00sp</LastAuthor>
+  <Created>1997-01-14T01:50:29Z</Created>
+  <LastSaved>2015-10-29T06:50:50Z</LastSaved>
+  <Version>11.9999</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>4530</WindowHeight>
+  <WindowWidth>8505</WindowWidth>
+  <WindowTopX>450</WindowTopX>
+  <WindowTopY>90</WindowTopY>
+  <AcceptLabelsInFormulas/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+  <DisplayInkNotes>False</DisplayInkNotes>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="新細明體" x:CharSet="136" x:Family="Roman" ss:Size="12"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s22" ss:Name="超連結">
+   <Font ss:FontName="新細明體" x:CharSet="136" x:Family="Roman" ss:Size="12"
+    ss:Color="#0000FF" ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s23">
+   <Font ss:FontName="新細明體" x:CharSet="136" x:Family="Roman" ss:Size="12"
+    ss:Color="#0066CC" ss:Bold="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="14" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="16.5">
+   <Column ss:Width="281.25"/>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">中央政府流域綜合治理計畫第2期特別預算案</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">總說明</Data></Cell>
+    <Cell><Data ss:Type="String">http://win.dgbas.gov.tw/dgbas01/u/ubtab/流域2_預算案_治理總說明.doc</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">收支簡明分析表</Data></Cell>
+    <Cell><Data ss:Type="String">http://win.dgbas.gov.tw/dgbas01/u/ubtab/流域2_預算案_收支簡明分析表.xls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">歲入來源別預算總表</Data></Cell>
+    <Cell ss:StyleID="s22" ss:HRef="http://win.dgbas.gov.tw/dgbas01/u/ubtab/流域2_預算案_歲入來源別預算總表.xls"><Data
+      ss:Type="String">http://win.dgbas.gov.tw/dgbas01/u/ubtab/流域2_預算案_歲入來源別預算總表.xls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">歲入來源別預算預算表</Data></Cell>
+    <Cell ss:StyleID="s22" ss:HRef="http://win.dgbas.gov.tw/dgbas01/u/ubtab/流域2_預算案_歲入來源別預算表.xls"><Data
+      ss:Type="String">http://win.dgbas.gov.tw/dgbas01/u/ubtab/流域2_預算案_歲入來源別預算表.xls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">歲出政事別預算總表</Data></Cell>
+    <Cell ss:StyleID="s22" ss:HRef="http://win.dgbas.gov.tw/dgbas01/u/ubtab/流域2_預算案_歲出政事別預算總表.xls"><Data
+      ss:Type="String">http://win.dgbas.gov.tw/dgbas01/u/ubtab/流域2_預算案_歲出政事別預算總表.xls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">歲出政事別預算預算表</Data></Cell>
+    <Cell ss:StyleID="s22" ss:HRef="http://win.dgbas.gov.tw/dgbas01/u/ubtab/流域2_預算案_歲出政事別預算表.xls"><Data
+      ss:Type="String">http://win.dgbas.gov.tw/dgbas01/u/ubtab/流域2_預算案_歲出政事別預算表.xls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">歲出機關別預算總表</Data></Cell>
+    <Cell ss:StyleID="s22" ss:HRef="http://win.dgbas.gov.tw/dgbas01/u/ubtab/流域2_預算案_歲出機關別預算總表.xls"><Data
+      ss:Type="String">http://win.dgbas.gov.tw/dgbas01/u/ubtab/流域2_預算案_歲出機關別預算總表.xls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">歲出機關別預算預算表</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">http://win.dgbas.gov.tw/dgbas01/u/ubtab/流域2_預算案_歲出機關別預算表.xls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">歲出計畫提要及概況表</Data></Cell>
+    <Cell ss:StyleID="s22" ss:HRef="http://win.dgbas.gov.tw/dgbas01/u/ubtab/流域2_預算案_歲出計畫提要及概況表.xls"><Data
+      ss:Type="String">http://win.dgbas.gov.tw/dgbas01/u/ubtab/流域2_預算案_歲出計畫提要及概況表.xls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">歲出用途別科目分析總表</Data></Cell>
+    <Cell><Data ss:Type="String">http://win.dgbas.gov.tw/dgbas01/u/ubtab/流域2_預算案_歲出用途別科目分析總表.xls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">歲出用途別科目分析表</Data></Cell>
+    <Cell><Data ss:Type="String">http://win.dgbas.gov.tw/dgbas01/u/ubtab/流域2_預算案_歲出用途別科目分析表.xls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">歲出用途別科目分年分析表</Data></Cell>
+    <Cell><Data ss:Type="String">http://win.dgbas.gov.tw/dgbas01/u/ubtab/流域2_預算案_歲出用途別科目分年分析表.xls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">補助地方政府經費彙總表</Data></Cell>
+    <Cell><Data ss:Type="String">http://win.dgbas.gov.tw/dgbas01/u/ubtab/流域2_預算案_補助地方政府經費彙總表.xls</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>-4</HorizontalResolution>
+    <VerticalResolution>-4</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>33</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="0" ss:ExpandedRowCount="0" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="16.5"/>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="0" ss:ExpandedRowCount="0" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="16.5"/>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

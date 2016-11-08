@@ -1,0 +1,249 @@
+
+	<?xml version="1.0"  encoding="utf-8" ?>
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="zh-TW" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="urn:user-namespace-here" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>106年度預算案書XML檔 - 預算書 - 法務部法醫研究所</title>
+<link href="xslGip/unit094/css/cp.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit094/css/common.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit094/css/style.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit094/css/mp.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit094/css/fontSizeS.css" rel="stylesheet" type="text/css" title="size1"/>
+<link href="xslGip/unit094/css/fontSizeM.css" rel="alternate stylesheet" type="text/css" title="size2"/>
+<link href="xslGip/unit094/css/fontSizeL.css" rel="alternate stylesheet" type="text/css" title="size3"/>
+<script type="text/javascript" src="xslGip/unit094/css/styleswitcher.js"></script>
+<script type="text/javascript" src="xslGip/unit094/css/multimenu.js"></script>
+<script type="text/javascript" src="xslGip/unit094/css/showtab.js"></script>
+<script type="text/javascript" src="xslGip/unit094/css/activeAD.js"></script> 
+<link rel="govtwsimpledc.xsd" href="http://www.gov.tw/schema/dc/" title="Dublin Core"/>
+<meta name="DC.Title" content="預算書" />
+<meta name="DC.Creator" content="法務部" />
+<meta name="DC.Subject" content="預算書" />
+<meta name="DC.Description" content="預算書" />
+<meta name="DC.Contributor" content="法務部" />
+<meta name="DC.Type" content="文字" />
+<meta name="DC.Format" content="text" />
+<meta name="DC.Source" content="法務部" />
+<meta name="DC.Language" content="中文" />
+<meta name="DC.coverage.t.min" content="2016-09-08" />
+<meta name="DC.coverage.t.max" content="2036-09-08" />
+<meta name="DC.Publisher" content="法務部" />
+<meta name="DC.Date" content="2016-11-07" />
+<meta name="DC.Identifier" content="A11000000F" />
+<meta name="DC.Relation" content="GIP-moj" />
+<meta name="DC.Rights" content="法務部" />
+<meta name="Category.Theme" content="" />
+<meta name="Category.Cake" content="" />
+<meta name="Category.Service" content="" />
+<meta name="Keywords" content="" />
+ </head>
+<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+<script>$(function(){$('#tabindex_36776').children('a').focus();});</script>
+<body>
+<div id="all">
+<div id="WebTitle" xmlns="">
+<div class="logofont"><a href="mp.asp?mp=094" title="回首頁"><img src="xslGip/unit094/images/%E6%B3%95%E5%8B%99%E9%83%A8%E6%B3%95%E9%86%AB%E7%A0%94%E7%A9%B6%E6%89%80_20051205143437.gif" alt="法務部法醫研究所" border="0"></a></div>
+<div class="ETitle"></div>
+</div>
+<div id="TopLink" xmlns="">
+<div class="TopLink_top"></div>
+<div class="TopLink_center"><span><a title="上欄" accesskey="U" href="#">:::</a></span><span><a title="網站導覽" href="sitemap.asp?mp=094">網站導覽</a></span><a title="" href="http://www.tpa.moj.gov.tw/mp094.html">回首頁</a> <a title="English" href="dp.asp?mp=188">English</a> <a title="行動版" href="http://www.tpa.moj.gov.tw/mp.asp?mp=0941" target="_gipNW">行動版</a> <a title="意見信箱" href="http://www.tpa.moj.gov.tw/bbssp.asp?xdURL=/bossmail.asp&mp=094">意見信箱</a>&nbsp;<a title="常見問答" href="http://www.tpa.moj.gov.tw/lp.asp?ctNode=24832&CtUnit=7436&BaseDSD=7&mp=094">常見問答</a></div>
+<div class="TopLink_bottom"></div>
+</div>
+<div class="fontSize" title="瀏覽字體設定" xmlns=""><ul>
+<li class="fontS"><a cat="font" href="xslGip/unit094/css/fontSizeS.css" onclick="setActiveStyleSheet('size1'); location.reload(); return false;" onkeypress="setActiveStyleSheet('size1'); location.reload(); return false;"><img src="images/null.gif" alt="小" title="小"></a></li>
+<li class="fontM"><a cat="font" href="xslGip/unit094/css/fontSizeM.css" onclick="setActiveStyleSheet('size2'); location.reload(); return false;" onkeypress="setActiveStyleSheet('size2'); location.reload(); return false;"><img src="images/null.gif" alt="中" title="中"></a></li>
+<li class="fontL"><a cat="font" href="xslGip/unit094/css/fontSizeL.css" onclick="setActiveStyleSheet('size3'); location.reload(); return false;" onkeypress="setActiveStyleSheet('size3'); location.reload(); return false;"><img src="images/null.gif" alt="大" title="大"></a></li>
+</ul>
+</div>
+<noscript xmlns="">當SCRIPT關閉時，選擇字型大小，請參考：IE6請利用鍵盤按住ALT鍵 + V → X → (G)最大(L)較大(M)中(S)較小(A)小，來選擇適合您的文字大小,而IE7、IE8或Firefox瀏覽器則可利用鍵盤 Ctrl + (+)放大 (-)縮小來改變字型大小。</noscript>
+<table id="Layout" summary="table for layout">
+<tr>
+<td class="Left">
+<a title="主選單" class="Accesskey" accesskey="L" href="#">:::</a>
+<div class="Lefttop"></div>
+<div class="mlmenu vertical menubg inaccesible">
+<div id="Menu" xmlns="">
+<div class="Menu_head"></div>
+<div class="Menu_body">
+<ul id="vertnav2">
+<li id="tabindex_22231" name="tabindex_22231"><a href="np.asp?ctNode=22231&amp;mp=094" title="主管法規">主管法規</a></li>
+<li id="tabindex_22235" name="tabindex_22235"><a href="np.asp?ctNode=22235&amp;mp=094" title="支付或接受之補助">支付或接受之補助</a></li>
+<li id="tabindex_22247" name="tabindex_22247"><a href="http://www.tpa.moj.gov.tw/np.asp?ctNode=20274&mp=094" target="_nwGip" title="研究報告(另開新視窗)">研究報告</a></li>
+<li id="tabindex_22300" name="tabindex_22300"><a href="np.asp?ctNode=22300&amp;mp=094" target="_nwGip" title="施政計畫(另開新視窗)">施政計畫</a></li>
+<li id="tabindex_20722" name="tabindex_20722"><a href="http://mojlaw.moj.gov.tw/" target="_nwGip" title="法務部主管法規資料庫(另開新視窗)">法務部主管法規資料庫</a></li>
+<li id="tabindex_22234" name="tabindex_22234"><a href="np.asp?ctNode=22234&amp;mp=094" title="書面之公共工程及採購契約">書面之公共工程及採購契約</a></li>
+<li id="tabindex_22236" name="tabindex_22236"><a href="np.asp?ctNode=22236&amp;mp=094" title="合議制機關立會議紀錄">合議制機關立會議紀錄</a></li>
+<li id="tabindex_22246" name="tabindex_22246"><a href="http://www.tpa.moj.gov.tw/np.asp?ctNode=13986&mp=094" target="_nwGip" title="業務統計(另開新視窗)">業務統計</a></li>
+<li id="tabindex_34339" name="tabindex_34339"><a href="lp.asp?ctNode=34339&amp;CtUnit=13312&amp;BaseDSD=7&amp;mp=094" title="應主動公開政府資訊">應主動公開政府資訊</a></li>
+<li id="tabindex_20487" name="tabindex_20487"><a href="lp.asp?ctNode=20487&amp;CtUnit=4451&amp;BaseDSD=7&amp;mp=094" title="預算及決算書">預算及決算書</a></li>
+<li id="tabindex_27243" name="tabindex_27243"><a href="lp.asp?ctNode=27243&amp;CtUnit=8903&amp;BaseDSD=7&amp;mp=094" title="會計月報">會計月報</a></li>
+<li id="tabindex_31614" name="tabindex_31614"><a href="lp.asp?ctNode=31614&amp;CtUnit=11354&amp;BaseDSD=7&amp;mp=094" title="政府出版品">政府出版品</a></li>
+<li id="tabindex_32852" name="tabindex_32852"><a href="lp.asp?ctNode=32852&amp;CtUnit=12301&amp;BaseDSD=7&amp;mp=094" title="出國報告">出國報告</a></li>
+<li id="tabindex_22233" name="tabindex_22233"><a href="np.asp?ctNode=22233&amp;mp=094" title="請願之處理結果及訴願之決定">請願之處理結果及訴願之決定</a></li>
+<li id="tabindex_30855" name="tabindex_30855"><a href="lp.asp?ctNode=30855&amp;CtUnit=10821&amp;BaseDSD=7&amp;mp=094" title="法務部法醫研究所辦理國家賠償事件處理情形統計表">法務部法醫研究所辦理國家賠償事件處理情形統計表</a></li>
+</ul>
+<ul id="vertnav" style="display: none;"></ul>
+</div>
+<div class="Menu_foot"></div>
+</div>
+</div>
+<div class="Leftbottom"></div>
+</td>
+<td class="Center">
+<a title="主要內容區" class="Accesskey" accesskey="C" href="#">:::</a>
+<div class="Centertop"><img src="xslGip/unit094/images/center_topleft.gif" alt="*"/></div>
+<div class="Centermiddle">
+<div id="PageTitle" xmlns="">預算書</div>
+<div id="Path" xmlns="">
+		瀏覽路徑：<a title="首頁" href="mp.asp?mp=094">首頁</a><img src="xslGip/unit094/images/icom_menu_a01.gif" alt="*"><a href="np.asp?ctNode=20485&mp=094" title="政府資訊公開服務">政府資訊公開服務</a><img src="xslGip/unit094/images/icom_menu_a01.gif" alt="*"><a href="np.asp?ctNode=36776&mp=094" title="預算書">預算書</a></div>
+<div id="Function" xmlns=""><a title="plurk" href="javascript:void(window.open('http://www.plurk.com/?qualifier=shares&status='.concat(encodeURIComponent(location.href)).concat(' ').concat('(').concat(encodeURIComponent(document.title)).concat(')')));"><img alt="plurk" src="xslgip/unit094/images/share_plurk.png"></a><a title="facebook" href="javascript:desc='';via='';if(document.referrer)via=document.referrer;if(typeof(_ref)!='undefined')via=_ref;if(window.getSelection)desc=window.getSelection();if(document.getSelection)desc=document.getSelection();if(document.selection)desc=document.selection.createRange().text;void(open('http://www.facebook.com/share.php?u='+encodeURIComponent(location.href)));"><img alt="facebook" src="xslgip/unit094/images/share_facebook.gif"></a><a title="twitter" href="javascript:void(window.open('http://twitter.com/home/?status='.concat(encodeURIComponent(document.title)).concat(' ').concat(encodeURIComponent(location.href))));"><img alt="twitter" src="xslgip/unit094/images/share_twitter.png"></a><noscript>您的瀏覽器不支援JavaScript功能，若網頁功能無法正常使用時，請開啟瀏覽器JavaScript狀態</noscript><a title="轉寄友人" href="forward.asp?xItem=445174&ctNode=36776&mp=094"><img alt="轉寄友人" src="xslgip/unit094/images/icon_forward.gif">轉寄友人</a><a href="javascript:history.go(-1);" title="回上一頁"><img src="xslGip/unit094/images/icon_back.gif" alt="回上一頁圖示">回上一頁</a><noscript>此段script提供回上一頁功能，若瀏覽器不支援script，請使用鍵盤的backspace或瀏覽器的回上一頁功能 </noscript>
+</div>
+<div id="Article" xmlns="">
+<div class="Head">106年度預算案書XML檔</div>
+<div class="Body"><br><p align="right">資料最後更新日期 105/09/08</p>
+</div>
+<div class="Foot"><img src="xslGip/unit094/images/articlefoot_bg.gif" alt="*"></div>
+</div>
+<h2 xmlns="">附件</h2>
+<ul xmlns="">
+<li><a target="_nwGIP" href="HitCounter.asp?xItem=445174&ixCuAttach=149606" title="106-2315-公務車輛明細表.(開啟新視窗)">106-2315-公務車輛明細表</a></li>
+<li><a target="_nwGIP" href="HitCounter.asp?xItem=445174&ixCuAttach=149605" title="106-2315-人事費用分析表.(開啟新視窗)">106-2315-人事費用分析表</a></li>
+<li><a target="_nwGIP" href="HitCounter.asp?xItem=445174&ixCuAttach=149610" title="106-2315-捐助經費分析表.(開啟新視窗)">106-2315-捐助經費分析表</a></li>
+<li><a target="_nwGIP" href="HitCounter.asp?xItem=445174&ixCuAttach=149611" title="106-2315-歲入來源別預算表.(開啟新視窗)">106-2315-歲入來源別預算表</a></li>
+<li><a target="_nwGIP" href="HitCounter.asp?xItem=445174&ixCuAttach=149612" title="106-2315-歲入項目說明提要表.(開啟新視窗)">106-2315-歲入項目說明提要表</a></li>
+<li><a target="_nwGIP" href="HitCounter.asp?xItem=445174&ixCuAttach=149613" title="106-2315-歲出用途別科目分析表.(開啟新視窗)">106-2315-歲出用途別科目分析表</a></li>
+<li><a target="_nwGIP" href="HitCounter.asp?xItem=445174&ixCuAttach=149614" title="106-2315-歲出按職能及經濟性綜合分類表.(開啟新視窗)">106-2315-歲出按職能及經濟性綜合分類表</a></li>
+<li><a target="_nwGIP" href="HitCounter.asp?xItem=445174&ixCuAttach=149615" title="106-2315-歲出計畫提要及分支計畫概況表.(開啟新視窗)">106-2315-歲出計畫提要及分支計畫概況表</a></li>
+<li><a target="_nwGIP" href="HitCounter.asp?xItem=445174&ixCuAttach=149616" title="106-2315-歲出機關別預算表.(開啟新視窗)">106-2315-歲出機關別預算表</a></li>
+<li><a target="_nwGIP" href="HitCounter.asp?xItem=445174&ixCuAttach=149617" title="106-2315-資本支出分析表.(開啟新視窗)">106-2315-資本支出分析表</a></li>
+<li><a target="_nwGIP" href="HitCounter.asp?xItem=445174&ixCuAttach=149618" title="106-2315-預算員額明細表.(開啟新視窗)">106-2315-預算員額明細表</a></li>
+<li><a target="_nwGIP" href="HitCounter.asp?xItem=445174&ixCuAttach=149620" title="106-2315-辦公房舍明細表.(開啟新視窗)">106-2315-辦公房舍明細表</a></li>
+<li><a target="_nwGIP" href="HitCounter.asp?xItem=445174&ixCuAttach=149609" title="106-2315-派員出國計畫類別表-開會.(開啟新視窗)">106-2315-派員出國計畫類別表-開會</a></li>
+<li><a target="_nwGIP" href="HitCounter.asp?xItem=445174&ixCuAttach=149607" title="106-2315-各項費用彙計表.(開啟新視窗)">106-2315-各項費用彙計表</a></li>
+<li><a target="_nwGIP" href="HitCounter.asp?xItem=445174&ixCuAttach=149608" title="106-2315-派員出國計畫預算總表.(開啟新視窗)">106-2315-派員出國計畫預算總表</a></li>
+</ul>
+</div>
+<div class="Centerbottom"><img src="xslGip/unit094/images/center_bottomleft.gif" alt="*"/></div>
+</td>
+</tr>
+</table>
+<div class="sildeCtrl" xmlns="">
+<ul>
+<li><a href="np.asp?ctNode=7777&amp;mp=094" title="最新訊息">最新訊息</a><ul>
+<li><a href="lp.asp?ctNode=40380&amp;CtUnit=16138&amp;BaseDSD=7&amp;mp=094" title="新聞稿">新聞稿</a></li>
+<li><a href="lp.asp?ctNode=40381&amp;CtUnit=16139&amp;BaseDSD=&amp;mp=094" title="文宣廣告">文宣廣告</a></li>
+<li><a href="lp.asp?ctNode=28925&amp;CtUnit=9719&amp;BaseDSD=7&amp;mp=094" title="訊息公告">訊息公告</a></li>
+<li><a href="lp.asp?ctNode=28924&amp;CtUnit=9721&amp;BaseDSD=7&amp;mp=094" title="人事公告(另開新視窗)" target="_nwGip">人事公告</a></li>
+<li><a href="lp.asp?ctNode=28923&amp;CtUnit=9720&amp;BaseDSD=7&amp;mp=094" title="採購公告">採購公告</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=27755&amp;mp=094" title="機關簡介">機關簡介</a><ul>
+<li><a href="np.asp?ctNode=27756&amp;mp=094" title="沿革">沿革</a></li>
+<li><a href="np.asp?ctNode=31649&amp;mp=094" title="組織法">組織法</a></li>
+<li><a href="np.asp?ctNode=31650&amp;mp=094" title="處務規程">處務規程</a></li>
+<li><a href="np.asp?ctNode=31743&amp;mp=094" title="編制表">編制表</a></li>
+<li><a href="np.asp?ctNode=28926&amp;mp=094" title="所長簡介">所長簡介</a></li>
+<li><a href="np.asp?ctNode=28927&amp;mp=094" title="歷任所長">歷任所長</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=7784&amp;mp=094" title="法醫業務">法醫業務</a><ul>
+<li><a href="np.asp?ctNode=7790&amp;mp=094" title="法醫業務簡介">法醫業務簡介</a></li>
+<li><a href="lp.asp?ctNode=19915&amp;CtUnit=1253&amp;BaseDSD=7&amp;mp=094" title="法醫師證書申請業務">法醫師證書申請業務</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=31140&amp;mp=094" title="法醫鑑識展示館">法醫鑑識展示館</a><ul>
+<li><a href="np.asp?ctNode=31141&amp;mp=094" title="法醫鑑識展示館參觀管理要點">法醫鑑識展示館參觀管理要點</a></li>
+<li><a href="http://www.tpa.moj.gov.tw/public/Attachment/910221056307.wmv" title="法醫鑑識展示館導覽(另開新視窗)" target="_nwGip">法醫鑑識展示館導覽</a></li>
+</ul>
+</li>
+<li><a href="lp.asp?ctNode=25900&amp;CtUnit=8100&amp;BaseDSD=7&amp;mp=094" title="動畫影音專區">動畫影音專區</a></li>
+<li><a href="np.asp?ctNode=20274&amp;mp=094" title="法醫學術園地">法醫學術園地</a><ul>
+<li><a href="lp.asp?ctNode=27771&amp;CtUnit=4306&amp;BaseDSD=7&amp;mp=094" title="毒物園地 ">毒物園地 </a></li>
+<li><a href="lp.asp?ctNode=27772&amp;CtUnit=4471&amp;BaseDSD=7&amp;mp=094" title="病理園地">病理園地</a></li>
+<li><a href="lp.asp?ctNode=27773&amp;CtUnit=4473&amp;BaseDSD=7&amp;mp=094" title="血清園地">血清園地</a></li>
+<li><a href="np.asp?ctNode=34474&amp;mp=094" title="人事">人事</a></li>
+<li><a href="np.asp?ctNode=20279&amp;mp=094" title="行政">行政</a></li>
+</ul>
+</li>
+<li><a href="lp.asp?ctNode=7892&amp;CtUnit=462&amp;BaseDSD=7&amp;mp=094" title="科技計畫">科技計畫</a></li>
+<li><a href="np.asp?ctNode=13986&amp;mp=094" title="統計園地">統計園地</a><ul>
+<li><a href="lp.asp?ctNode=40095&amp;CtUnit=15964&amp;BaseDSD=7&amp;mp=094" title="統計年報(另開新視窗)" target="_nwGip">統計年報</a></li>
+<li><a href="lp.asp?ctNode=40096&amp;CtUnit=15966&amp;BaseDSD=7&amp;mp=094" title="月統計資料">月統計資料</a></li>
+<li><a href="np.asp?ctNode=19462&amp;mp=094" title="96年統計資料(另開新視窗)" target="_nwGip">96年統計資料</a></li>
+<li><a href="np.asp?ctNode=21937&amp;mp=094" title="97年統計年報(另開新視窗)" target="_nwGip">97年統計年報</a></li>
+<li><a href="np.asp?ctNode=24792&amp;mp=094" title="98年月統計資料(另開新視窗)" target="_nwGip">98年月統計資料</a></li>
+<li><a href="lp.asp?ctNode=27775&amp;CtUnit=9085&amp;BaseDSD=7&amp;mp=094" title="99年月統計資料">99年月統計資料</a></li>
+<li><a href="lp.asp?ctNode=30106&amp;CtUnit=9406&amp;BaseDSD=7&amp;mp=094" title="100年月統計資料">100年月統計資料</a></li>
+<li><a href="lp.asp?ctNode=31730&amp;CtUnit=11453&amp;BaseDSD=7&amp;mp=094" title="101年月統計資料">101年月統計資料</a></li>
+<li><a href="lp.asp?ctNode=33661&amp;CtUnit=12869&amp;BaseDSD=7&amp;mp=094" title="102年月統計資料">102年月統計資料</a></li>
+<li><a href="lp.asp?ctNode=35323&amp;CtUnit=13885&amp;BaseDSD=7&amp;mp=094" title="103年月統計資料">103年月統計資料</a></li>
+<li><a href="lp.asp?ctNode=39036&amp;CtUnit=15595&amp;BaseDSD=7&amp;mp=094" title="104年月統計資料">104年月統計資料</a></li>
+<li><a href="lp.asp?ctNode=42430&amp;CtUnit=17157&amp;BaseDSD=7&amp;mp=094" title="105年月統計資料">105年月統計資料</a></li>
+</ul>
+</li>
+<li><a href="lp.asp?ctNode=7786&amp;CtUnit=70&amp;BaseDSD=2&amp;mp=094" title="相關網站">相關網站</a></li>
+<li><a href="np.asp?ctNode=25196&amp;mp=094" title="國家重大政策">國家重大政策</a><ul>
+<li><a href="lp.asp?ctNode=25202&amp;CtUnit=7666&amp;BaseDSD=7&amp;mp=094" title="重大政策">重大政策</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=20485&amp;mp=094" title="政府資訊公開服務">政府資訊公開服務</a><ul>
+<li><a href="np.asp?ctNode=22231&amp;mp=094" title="主管法規">主管法規</a></li>
+<li><a href="np.asp?ctNode=22235&amp;mp=094" title="支付或接受之補助">支付或接受之補助</a></li>
+<li><a href="http://www.tpa.moj.gov.tw/np.asp?ctNode=20274&mp=094" title="研究報告(另開新視窗)" target="_nwGip">研究報告</a></li>
+<li><a href="np.asp?ctNode=22300&amp;mp=094" title="施政計畫(另開新視窗)" target="_nwGip">施政計畫</a></li>
+<li><a href="http://mojlaw.moj.gov.tw/" title="法務部主管法規資料庫(另開新視窗)" target="_nwGip">法務部主管法規資料庫</a></li>
+<li><a href="np.asp?ctNode=22234&amp;mp=094" title="書面之公共工程及採購契約">書面之公共工程及採購契約</a></li>
+<li><a href="np.asp?ctNode=22236&amp;mp=094" title="合議制機關立會議紀錄">合議制機關立會議紀錄</a></li>
+<li><a href="http://www.tpa.moj.gov.tw/np.asp?ctNode=13986&mp=094" title="業務統計(另開新視窗)" target="_nwGip">業務統計</a></li>
+<li><a href="lp.asp?ctNode=34339&amp;CtUnit=13312&amp;BaseDSD=7&amp;mp=094" title="應主動公開政府資訊">應主動公開政府資訊</a></li>
+<li><a href="lp.asp?ctNode=20487&amp;CtUnit=4451&amp;BaseDSD=7&amp;mp=094" title="預算及決算書">預算及決算書</a></li>
+<li><a href="lp.asp?ctNode=27243&amp;CtUnit=8903&amp;BaseDSD=7&amp;mp=094" title="會計月報">會計月報</a></li>
+<li><a href="lp.asp?ctNode=31614&amp;CtUnit=11354&amp;BaseDSD=7&amp;mp=094" title="政府出版品">政府出版品</a></li>
+<li><a href="lp.asp?ctNode=32852&amp;CtUnit=12301&amp;BaseDSD=7&amp;mp=094" title="出國報告">出國報告</a></li>
+<li><a href="np.asp?ctNode=22233&amp;mp=094" title="請願之處理結果及訴願之決定">請願之處理結果及訴願之決定</a></li>
+<li><a href="lp.asp?ctNode=30855&amp;CtUnit=10821&amp;BaseDSD=7&amp;mp=094" title="法務部法醫研究所辦理國家賠償事件處理情形統計表">法務部法醫研究所辦理國家賠償事件處理情形統計表</a></li>
+</ul>
+</li>
+<li><a href="http://www.moj.gov.tw/bbssp.asp?xdurl=mojEpaper.asp" title="法務部電子報(另開新視窗)" target="_nwGip">法務部電子報</a></li>
+<li><a href="np.asp?ctNode=42004&amp;mp=094" title="內部控制專區">內部控制專區</a><ul>
+<li><a href="np.asp?ctNode=42674&amp;mp=094" title="法醫研究所內部控制制度聲明書">法醫研究所內部控制制度聲明書</a></li>
+</ul>
+</li>
+<li><a href="http://www.edoc.moj.gov.tw" title="公文下載附件區">公文下載附件區</a></li>
+<li><a href="np.asp?ctNode=35398&amp;mp=094" title="首長信箱">首長信箱</a><ul>
+<li><a href="bbssp.asp?xdURL=/bossmail.asp&mp=094" title="首長信箱">首長信箱</a></li>
+<li><a href="np.asp?ctNode=35402&amp;mp=094" title="民眾反映處理程序">民眾反映處理程序</a></li>
+</ul>
+</li>
+<li><a href="lp.asp?ctNode=24832&amp;CtUnit=7436&amp;BaseDSD=7&amp;mp=094" title="為民服務">為民服務</a></li>
+<li><a href="np.asp?ctNode=25195&amp;mp=094" title="就業資訊">就業資訊</a><ul>
+<li><a href="lp.asp?ctNode=25203&amp;CtUnit=7667&amp;BaseDSD=7&amp;mp=094" title="就業資訊">就業資訊</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=7788&amp;mp=094" title="本所位置圖">本所位置圖</a></li>
+</ul>
+</div>
+<div class="Bottomtop" xmlns=""><img src="xslGip/unit094/images/bottom_topl.gif" alt="*"></div>
+<div class="Bottommiddle" xmlns="">
+<div id="Bottom"></div>
+</div>
+<div class="Bottombottom" xmlns=""><img src="xslGip/unit094/images/bottom_bottoml.gif" alt="*"></div>
+</div>
+</body>
+</html>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38025164-1']);
+  _gaq.push(['_setDomainName', 'tpa.moj.gov.tw']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>

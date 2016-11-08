@@ -1,0 +1,1546 @@
+
+
+<script type="text/javascript">
+	//alert("本網站即將關閉");
+</script>
+
+
+
+
+<!--20150305 by Derrick 版面body顏色要隨季節變換-->
+<style>
+
+body{
+	background-color:#FFF2AE !important;
+}
+#dropmenudiv{
+	border-color:#547e00 !important; 
+	background-color:#f3ece2 !important; 
+}
+
+.content
+{	
+	width: 990px;
+}
+</style>
+<!DOCTYPE HTML PUBLIC “-//W3C//DTD HTML 4.01 Transitional//EN" “http://www.w3.org/TR/html4/loose.dtd">
+<html lang="zh-TW" xmlns:og="http://ogp.me/ns#">
+<head>
+	<TITLE>行政院農業委員會農糧署及所屬預算及決算-農糧署全球資訊網</TITLE>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="DC.Creator" content="行政院農業委員會農糧署" />
+	<meta name="DC.Subject" content="機關網站內容頁-為民服務" />
+	<meta name="DC.Title" content="行政院農業委員會農糧署及所屬預算及決算" />
+	
+	<meta name="kuma1" content="Kuma1">
+	<meta property="og:title" content="行政院農業委員會農糧署及所屬預算及決算" />
+	<meta property="og:image" content="http://www.afa.gov.tw/images/FBImage.JPG"/>
+	<meta property="og:description" content="" />
+	<meta name="DC.Contributor" content="行政院農業委員會農糧署" />
+	<meta name="DC.Type" content="text/html" />
+	<meta name="DC.Format" content="Text" />
+	<meta name="DC.Source" content="行政院農業委員會農糧署" />
+	<meta name="DC.Language" content="中文" />
+	<meta name="DC.Publisher" content="行政院農業委員會農糧署" />
+	<meta name="DC.Date" content="2016-7-21" />
+	<meta name="DC.Identifier" content="345070000G" />
+	<meta name="DC.Rights" content="行政院農業委員會農糧署" />	
+	<meta name="Keywords" content="行政院農業委員會農糧署及所屬預算及決算" />
+	<meta name="Category.Theme" content="710" />
+	<meta name="Category.Cake" content="A2Z" />
+	<meta name="Category.Service" content="I6Z" />
+	
+	<meta http-equiv="imagetoolbar" content="no" />
+	<link href="css/template_ActFallowLand.css" rel="stylesheet" type="text/css" media="all" />
+	
+	<link href="css/template0001.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/template0301.css" rel="stylesheet" type="text/css" media="all" />
+	
+	<link href="css/template_other.css" rel="stylesheet" type="text/css" media="all" />
+	
+	<script type="text/javascript" src="scripts/rollovers.js"></script>
+	<script type="text/javascript" src="inc/function.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/loadflash.js">  </script>
+	
+	<script type="text/javascript" src="scripts/jquery-1.9.0.min.js"></script>
+</head>
+
+<body>
+<h1></h1>
+
+<!--
+<span style="display:none;"><a href="/sitemap.aspx" title="網站上方功能區-導盲磚" alt="網站上方功能區-導盲磚" accesskey="u">:::</a></span>
+-->
+<a style="visibility:hidden;font-size:0px" href="#accesskeyu" id="accesskeyu" name="accesskeyu" title="網站上方功能區-導盲磚" alt="網站上方功能區-導盲磚" accesskey="u">:::</a>
+<map name="MapTop" alt="網站上方功能區">
+<area shape="rect" coords="600,2,630,24" alt="導盲磚" title="導盲磚">
+<area shape="rect" coords="640,1,700,24" href="/sitemap.aspx" title="網站地圖" alt="網站地圖">
+<area shape="rect" coords="715,1,770,24" href="/ii_en.aspx?pcatid=1&amp;ycatid=1" title="English" alt="English">
+<area shape="rect" coords="788,2,835,24" href="/mobile" target="_blank" title="行動版" alt="行動版">
+<area shape="rect" coords="852,2,910,24" href="/faq.aspx" title="常見問答" alt="常見問答">
+<area shape="rect" coords="930,4,986,24" href="/dictionary.aspx" title="雙語詞彙" alt="雙語詞彙">
+
+</map>
+<div id="tophead" style="width: 62em;margin: 0 auto;">
+	
+   <img style="width: 62em;margin-right: 20%;" src="images/03/top-icon.jpg" width="990" height="26" border="0" usemap="#MapTop" alt="快速功能鍵選單區" title="快速功能鍵選單區"></div>
+<div id="outliner">
+  <div id="topBanner">     
+       <script type="text/javascript"> 
+			var mobiles = new Array
+            (
+                "midp", "j2me", "avant", "docomo", "novarra", "palmos", "palmsource",
+                "240x320", "opwv", "chtml", "pda", "windows ce", "mmp/",
+                "blackberry", "mib/", "symbian", "wireless", "nokia", "hand", "mobi",
+                "phone", "cdm", "up.b", "audio", "sie-", "sec-", "samsung", "htc",
+                "mot-", "mitsu", "sagem", "sony", "alcatel", "lg", "eric", "vx",
+                "NEC", "philips", "mmm", "xx", "panasonic", "sharp", "wap", "sch",
+                "rover", "pocket", "benq", "java", "pt", "pg", "vox", "amoi",
+                "bird", "compal", "kg", "voda", "sany", "kdd", "dbt", "sendo",
+                "sgh", "gradi", "jb", "dddi", "moto", "iphone", "android",
+                "iPod", "incognito", "webmate", "dream", "cupcake", "webos",
+                "s8000", "bada", "googlebot-mobile"
+            )
+  
+			var ua = navigator.userAgent.toLowerCase();
+			var isMobile = false;
+			for (var i = 0; i < mobiles.length; i++) {
+				if (ua.indexOf(mobiles[i]) > 0) {
+				isMobile = true;
+				//mobile版處置方式(ex:轉到m目錄下)
+				break;
+				}
+			}
+			if(isMobile)
+			{
+				document.write('<img src="/images/03/topBannerInner.jpg" alt="" width="990" height="150" style="display:block"> ');
+			}
+			else
+			{
+				LoadFlash('/images/03/topbanner.swf',990,150);
+			}
+       </script>
+	   <script type="text/javascript">
+			
+			$(document).ready(function(){
+				var stringOfId = "ID";
+				var intOfId = 0;
+				$("td").each(function(){
+					
+					if(typeof($(this).attr("headers"))=="undefined"){
+						
+						$(this).attr("headers",stringOfId + intOfId);
+						
+					}
+					intOfId = intOfId + 1;
+					if(typeof($(this).attr("id"))=="undefined"){
+						$(this).attr("id",stringOfId + intOfId);
+					}
+					
+				});
+			});
+			$(document).ready(function(){
+				$("a").each(function(){
+					if($(this).text()==""){
+						$(this).html($(this).html() + "&nbsp"); 
+					}
+					if($(this).text()==" "){
+						$(this).html($(this).html() + "&nbsp"); 
+					}
+					if($(this).text().indexOf("<font>")){
+						$(this).html($(this).html() + "&nbsp"); 
+					}
+					if(typeof($(this).attr("title"))=="undefined"){
+						var str1 = $(this).children("img").attr("alt"); 
+						var str2 = $(this).text();
+						if(str1 != ""){
+							$(this).attr("title",str1);
+						}
+						else if(str2 !=""){
+							$(this).attr("title",str2);
+						}
+						else{
+							$(this).attr("title",".");
+						}
+					}
+					
+				});
+				
+				
+				$("img").each(function(){
+					var strimgOn = "";
+					strimgOn = $(this).attr("onclick");
+					if(strimgOn != ""){
+						if(typeof($(this).attr("onkeypress"))=="undefined"){
+							$(this).attr("onkeypress",strimgOn);
+						}
+					}
+					strimgOn = $(this).attr("src");
+					if(strimgOn == "images/icon_4.gif"){
+						$(this).attr("alt","");
+					}
+					if(strimgOn == "images/little01.gif"){
+						$(this).attr("alt","");
+					}
+					if(strimgOn == "images/icon_1.gif"){
+						$(this).attr("alt","");
+					}
+				});
+				
+				
+			});
+			
+			/*$(document).ready(function() {
+				$("*").each(function() {
+					if (typeof($(this).attr("style")) == "undefined") {} else {
+						var str = $(this).attr("style");
+						var matchs = str.match(/width: (\d+)(px)/);
+						var result = matchs[1] / 16;
+						$(this).css("width", result + "em");
+					}
+				});
+			});*/
+			$(document).ready(function() {
+				$("*").each(function() {
+					if (typeof($(this).attr("style")) == "undefined") {
+					 //empty
+					} 
+					 else {
+						var str = $(this).attr("style");
+						var matchs = str.match(/(^[\D])*width: (\d+)(px)/g);
+			   var pm = /(^[\D])*([\w-]*width): (\d+)(px)/;
+						var matches_array = str.match(matchs);
+						if (matches_array != null) {
+						 var answer = str.match(pm);
+						  var result = answer[3] / 16;
+				 $(this).css(answer[2], result + "em");
+						}
+					}
+				});
+			});
+			$(document).ready(function(){//old froogo scan(AAA) not allow  Font tag have the attribute of size before jquery 
+				$(".AAAFontSize1").attr("size","1");
+				$(".AAAFontSize2").attr("size","2");
+				$(".AAAFontSize3").attr("size","3");
+				$(".AAAFontSize4").attr("size","4");
+				$(".AAAFontSize5").attr("size","5");
+				$(".AAAFontSize6").attr("size","6");
+				$(".AAAFontSize7").attr("size","7");
+				$(".AAAFontSize8").attr("size","8");
+			});
+		</script>
+       <noscript>
+			<!--<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="990" height="150">
+				<param name="movie" value="/images/02/topbanner.swf">	
+				<param name="quality" value="high">
+				首頁FLASH動畫
+			</object> -->
+			<a title="首頁連結" href="../">
+			<img alt="首頁連結" src="/images/02/topbanner.swf" width="990" height="150">
+			&nbsp
+			</a>
+       </noscript>
+  </div>
+  <script type="text/javascript" src="scripts/func_menu.js"> </script>
+
+<table cellpadding="0" cellspacing="0" border="0" class="outliner" summary="*">
+	<tbody>
+		<tr>
+			<td id="id_0_0" class="container" valign="top">
+				<table cellpadding="0" cellspacing="0" border="0" summary="*" class="content">
+					<tbody>
+						<tr>
+							<td id="id_0_1" headers="id_0_0" rowspan="2" style="vertical-align: top;">
+								<div style="height:15px;width:13.5em;background-image:url('/images/03/leftTop.jpg');">
+<a href="#accesskeym" title="左側主要功能區-導盲磚" name="accesskeym" id="accesskeym" accesskey="m" style="font-size:8px;margin:0;padding:0;" target="_self">:::</a>
+</div>
+
+							<ul class="leftMenu" id="suckertree1">
+								<li style="display:none;">
+									
+								</li>
+									<li ><a href="aboutus.aspx" class="rollover" title='認識本署' onMouseover="dropdownmenu(this, event, menu1, '210px'); MM_swapImage('img_menu1','','images/03/lm_01.jpg',1)" onMouseout="delayhidemenu();MM_swapImgRestore()" onfocus="dropdownmenu(this, event, menu1, '210px'); MM_swapImage('img_menu1','','images/03/lm_01.jpg',1)" onblur="delayhidemenu(); MM_swapImgRestore()"><img src="images/03/lm_01.jpg" alt="認識本署" title="認識本署" name="img_menu1" />&nbsp;</a></li>
+<li ><a href="menu_branch.aspx" class="rollover" title='四區分署' onMouseover="dropdownmenu(this, event, menu2, '210px'); MM_swapImage('img_menu2','','images/03/lm_02.jpg',1)" onMouseout="delayhidemenu();MM_swapImgRestore()" onfocus="dropdownmenu(this, event, menu2, '210px'); MM_swapImage('img_menu2','','images/03/lm_02.jpg',1)" onblur="delayhidemenu(); MM_swapImgRestore()"><img src="images/03/lm_02.jpg" alt="四區分署" title="四區分署" name="img_menu2" />&nbsp;</a></li>
+<li ><a href="Policy_Index.aspx" class="rollover" title='重大政策管理' onMouseover="dropdownmenu(this, event, menu3, '210px'); MM_swapImage('img_menu3','','images/03/lm_03.jpg',1)" onMouseout="delayhidemenu();MM_swapImgRestore()" onfocus="dropdownmenu(this, event, menu3, '210px'); MM_swapImage('img_menu3','','images/03/lm_03.jpg',1)" onblur="delayhidemenu(); MM_swapImgRestore()"><img src="images/03/lm_03.jpg" alt="重大政策管理" title="重大政策管理" name="img_menu3" />&nbsp;</a></li>
+<li ><a href="Employment_Index.aspx" class="rollover" title='就業資訊' onMouseover="dropdownmenu(this, event, menu4, '210px'); MM_swapImage('img_menu4','','images/03/lm_04.jpg',1)" onMouseout="delayhidemenu();MM_swapImgRestore()" onfocus="dropdownmenu(this, event, menu4, '210px'); MM_swapImage('img_menu4','','images/03/lm_04.jpg',1)" onblur="delayhidemenu(); MM_swapImgRestore()"><img src="images/03/lm_04.jpg" alt="就業資訊" title="就業資訊" name="img_menu4" />&nbsp;</a></li>
+<li ><a href="menu_news.aspx" class="rollover" title='農業訊息及公告' onMouseover="dropdownmenu(this, event, menu5, '210px'); MM_swapImage('img_menu5','','images/03/lm_05.jpg',1)" onMouseout="delayhidemenu();MM_swapImgRestore()" onfocus="dropdownmenu(this, event, menu5, '210px'); MM_swapImage('img_menu5','','images/03/lm_05.jpg',1)" onblur="delayhidemenu(); MM_swapImgRestore()"><img src="images/03/lm_05.jpg" alt="農業訊息及公告" title="農業訊息及公告" name="img_menu5" />&nbsp;</a></li>
+<li ><a href="service_index.aspx?CatID=573" class="rollover" title='政府資訊公開' onMouseover="dropdownmenu(this, event, menu6, '210px'); MM_swapImage('img_menu6','','images/03/lm_22.jpg',1)" onMouseout="delayhidemenu();MM_swapImgRestore()" onfocus="dropdownmenu(this, event, menu6, '210px'); MM_swapImage('img_menu6','','images/03/lm_22.jpg',1)" onblur="delayhidemenu(); MM_swapImgRestore()"><img src="images/03/lm_22.jpg" alt="政府資訊公開" title="政府資訊公開" name="img_menu6" />&nbsp;</a></li>
+<li ><a href="laws_index.aspx" class="rollover" title='農糧法規' onMouseover="dropdownmenu(this, event, menu7, '210px'); MM_swapImage('img_menu7','','images/03/lm_06.jpg',1)" onMouseout="delayhidemenu();MM_swapImgRestore()" onfocus="dropdownmenu(this, event, menu7, '210px'); MM_swapImage('img_menu7','','images/03/lm_06.jpg',1)" onblur="delayhidemenu(); MM_swapImgRestore()"><img src="images/03/lm_06.jpg" alt="農糧法規" title="農糧法規" name="img_menu7" />&nbsp;</a></li>
+<li ><a href="ActFallowLand.aspx" class="rollover" title='活化農地專區' onMouseover="dropdownmenu(this, event, menu8, '210px'); MM_swapImage('img_menu8','','images/03/lm_07.jpg',1)" onMouseout="delayhidemenu();MM_swapImgRestore()" onfocus="dropdownmenu(this, event, menu8, '210px'); MM_swapImage('img_menu8','','images/03/lm_07.jpg',1)" onblur="delayhidemenu(); MM_swapImgRestore()"><img src="images/03/lm_07.jpg" alt="活化農地專區" title="活化農地專區" name="img_menu8" />&nbsp;</a></li>
+<li ><a href="tenclassic_index.aspx" class="rollover" title='十大經典專區' onMouseover="dropdownmenu(this, event, menu9, '210px'); MM_swapImage('img_menu9','','images/03/lm_08.jpg',1)" onMouseout="delayhidemenu();MM_swapImgRestore()" onfocus="dropdownmenu(this, event, menu9, '210px'); MM_swapImage('img_menu9','','images/03/lm_08.jpg',1)" onblur="delayhidemenu(); MM_swapImgRestore()"><img src="images/03/lm_08.jpg" alt="十大經典專區" title="十大經典專區" name="img_menu9" />&nbsp;</a></li>
+<li ><a href="saftyAgriculture_index.aspx" class="rollover" title='安全農業' onMouseover="dropdownmenu(this, event, menu10, '210px'); MM_swapImage('img_menu10','','images/03/lm_09.jpg',1)" onMouseout="delayhidemenu();MM_swapImgRestore()" onfocus="dropdownmenu(this, event, menu10, '210px'); MM_swapImage('img_menu10','','images/03/lm_09.jpg',1)" onblur="delayhidemenu(); MM_swapImgRestore()"><img src="images/03/lm_09.jpg" alt="安全農業" title="安全農業" name="img_menu10" />&nbsp;</a></li>
+<li ><a href="organicAgriculture.aspx" class="rollover" title='有機農業' onMouseover="dropdownmenu(this, event, menu11, '210px'); MM_swapImage('img_menu11','','images/03/lm_10.jpg',1)" onMouseout="delayhidemenu();MM_swapImgRestore()" onfocus="dropdownmenu(this, event, menu11, '210px'); MM_swapImage('img_menu11','','images/03/lm_10.jpg',1)" onblur="delayhidemenu(); MM_swapImgRestore()"><img src="images/03/lm_10.jpg" alt="有機農業" title="有機農業" name="img_menu11" />&nbsp;</a></li>
+<li ><a href="peasant_index.aspx" class="rollover" title='農糧業務資訊' onMouseover="dropdownmenu(this, event, menu12, '210px'); MM_swapImage('img_menu12','','images/03/lm_11.jpg',1)" onMouseout="delayhidemenu();MM_swapImgRestore()" onfocus="dropdownmenu(this, event, menu12, '210px'); MM_swapImage('img_menu12','','images/03/lm_11.jpg',1)" onblur="delayhidemenu(); MM_swapImgRestore()"><img src="images/03/lm_11.jpg" alt="農糧業務資訊" title="農糧業務資訊" name="img_menu12" />&nbsp;</a></li>
+<li ><a href="TrainLoan_index.aspx" class="rollover" title='農業訓練表揚及貸款' onMouseover="dropdownmenu(this, event, menu13, '210px'); MM_swapImage('img_menu13','','images/03/lm_12.jpg',1)" onMouseout="delayhidemenu();MM_swapImgRestore()" onfocus="dropdownmenu(this, event, menu13, '210px'); MM_swapImage('img_menu13','','images/03/lm_12.jpg',1)" onblur="delayhidemenu(); MM_swapImgRestore()"><img src="images/03/lm_12.jpg" alt="農業訓練表揚及貸款" title="農業訓練表揚及貸款" name="img_menu13" />&nbsp;</a></li>
+<li ><a href="GrainStatistics_index.aspx" class="rollover" title='農糧統計' onMouseover="dropdownmenu(this, event, menu14, '210px'); MM_swapImage('img_menu14','','images/03/lm_13.jpg',1)" onMouseout="delayhidemenu();MM_swapImgRestore()" onfocus="dropdownmenu(this, event, menu14, '210px'); MM_swapImage('img_menu14','','images/03/lm_13.jpg',1)" onblur="delayhidemenu(); MM_swapImgRestore()"><img src="images/03/lm_13.jpg" alt="農糧統計" title="農糧統計" name="img_menu14" />&nbsp;</a></li>
+<li ><a href="public_index.aspx" class="rollover" title='農糧產品消費資訊' onMouseover="dropdownmenu(this, event, menu15, '210px'); MM_swapImage('img_menu15','','images/03/lm_14.jpg',1)" onMouseout="delayhidemenu();MM_swapImgRestore()" onfocus="dropdownmenu(this, event, menu15, '210px'); MM_swapImage('img_menu15','','images/03/lm_14.jpg',1)" onblur="delayhidemenu(); MM_swapImgRestore()"><img src="images/03/lm_14.jpg" alt="農糧產品消費資訊" title="農糧產品消費資訊" name="img_menu15" />&nbsp;</a></li>
+<li ><a href="FoodSafetyEducation.aspx" class="rollover" title='糧食安全教育專區' onMouseover="dropdownmenu(this, event, menu16, '210px'); MM_swapImage('img_menu16','','images/03/lm_15.jpg',1)" onMouseout="delayhidemenu();MM_swapImgRestore()" onfocus="dropdownmenu(this, event, menu16, '210px'); MM_swapImage('img_menu16','','images/03/lm_15.jpg',1)" onblur="delayhidemenu(); MM_swapImgRestore()"><img src="images/03/lm_15.jpg" alt="糧食安全教育專區" title="糧食安全教育專區" name="img_menu16" />&nbsp;</a></li>
+<li ><a href="publish_list.aspx" class="rollover" title='出版品' onMouseover="dropdownmenu(this, event, menu17, '210px'); MM_swapImage('img_menu17','','images/03/lm_16.jpg',1)" onMouseout="delayhidemenu();MM_swapImgRestore()" onfocus="dropdownmenu(this, event, menu17, '210px'); MM_swapImage('img_menu17','','images/03/lm_16.jpg',1)" onblur="delayhidemenu(); MM_swapImgRestore()"><img src="images/03/lm_16.jpg" alt="出版品" title="出版品" name="img_menu17" />&nbsp;</a></li>
+<li ><a href="movies_list.aspx" class="rollover" title='影音專區' onMouseover="dropdownmenu(this, event, menu18, '210px'); MM_swapImage('img_menu18','','images/03/lm_17.jpg',1)" onMouseout="delayhidemenu();MM_swapImgRestore()" onfocus="dropdownmenu(this, event, menu18, '210px'); MM_swapImage('img_menu18','','images/03/lm_17.jpg',1)" onblur="delayhidemenu(); MM_swapImgRestore()"><img src="images/03/lm_17.jpg" alt="影音專區" title="影音專區" name="img_menu18" />&nbsp;</a></li>
+<li ><a href="service_index.aspx" class="rollover" title='為民服務' onMouseover="dropdownmenu(this, event, menu19, '210px'); MM_swapImage('img_menu19','','images/03/lm_18.jpg',1)" onMouseout="delayhidemenu();MM_swapImgRestore()" onfocus="dropdownmenu(this, event, menu19, '210px'); MM_swapImage('img_menu19','','images/03/lm_18.jpg',1)" onblur="delayhidemenu(); MM_swapImgRestore()"><img src="images/03/lm_18.jpg" alt="為民服務" title="為民服務" name="img_menu19" />&nbsp;</a></li>
+<li ><a href="GovEthics.aspx" class="rollover" title='廉政資訊專區' onMouseover="dropdownmenu(this, event, menu20, '210px'); MM_swapImage('img_menu20','','images/03/lm_19.jpg',1)" onMouseout="delayhidemenu();MM_swapImgRestore()" onfocus="dropdownmenu(this, event, menu20, '210px'); MM_swapImage('img_menu20','','images/03/lm_19.jpg',1)" onblur="delayhidemenu(); MM_swapImgRestore()"><img src="images/03/lm_19.jpg" alt="廉政資訊專區" title="廉政資訊專區" name="img_menu20" />&nbsp;</a></li>
+<li ><a href="download_index.aspx" class="rollover" title='下載專區' onMouseover="dropdownmenu(this, event, menu21, '210px'); MM_swapImage('img_menu21','','images/03/lm_20.jpg',1)" onMouseout="delayhidemenu();MM_swapImgRestore()" onfocus="dropdownmenu(this, event, menu21, '210px'); MM_swapImage('img_menu21','','images/03/lm_20.jpg',1)" onblur="delayhidemenu(); MM_swapImgRestore()"><img src="images/03/lm_20.jpg" alt="下載專區" title="下載專區" name="img_menu21" />&nbsp;</a></li>
+<li ><a href="weblink.aspx" class="rollover" title='相關網站' onMouseover="dropdownmenu(this, event, menu22, '210px'); MM_swapImage('img_menu22','','images/03/lm_21.jpg',1)" onMouseout="delayhidemenu();MM_swapImgRestore()" onfocus="dropdownmenu(this, event, menu22, '210px'); MM_swapImage('img_menu22','','images/03/lm_21.jpg',1)" onblur="delayhidemenu(); MM_swapImgRestore()"><img src="images/03/lm_21.jpg" alt="相關網站" title="相關網站" name="img_menu22" />&nbsp;</a></li>
+
+								</ul> 
+								<script language="javascript" type="text/javascript">
+var menu1=new Array();
+menu1[0]='<a href=aboutus.aspx?CatID=29 title=本署沿革>本署沿革<\/a>'
+menu1[1]='<a href=aboutus.aspx?CatID=30 title=署長介紹>署長介紹<\/a>'
+menu1[2]='<a href=aboutus.aspx?CatID=6 title=本署簡介>本署簡介<\/a>'
+menu1[3]='<a href=aboutus.aspx?CatID=5 title=組織架構與職掌>組織架構與職掌<\/a>'
+menu1[4]='<a href=aboutus.aspx?CatID=25 title=重要施政措施>重要施政措施<\/a>'
+menu1[5]='<a href=aboutus.aspx?CatID=7 title=機關願景>機關願景<\/a>'
+menu1[6]='<a href=aboutus.aspx?CatID=26 title=署徽意涵>署徽意涵<\/a>'
+menu1[7]='<a href=aboutus.aspx?CatID=19 title=業務聯繫電話>業務聯繫電話<\/a>'
+menu1[8]='<a href=aboutus.aspx?CatID=28 title=歷任署長>歷任署長<\/a>'
+var menu2=new Array();
+menu2[0]='<a href=http://www.tefd.gov.tw/ target=_blank title=北區分署(連結-將另開新視窗) >北區分署<\/a>'
+menu2[1]='<a href=http://www.jhfd.gov.tw/ target=_blank title=中區分署(連結-將另開新視窗) >中區分署<\/a>'
+menu2[2]='<a href=http://www.tnfd.gov.tw/ target=_blank title=南區分署(連結-將另開新視窗) >南區分署<\/a>'
+menu2[3]='<a href=http://www.hlfd.gov.tw/ target=_blank title=東區分署(連結-將另開新視窗) >東區分署<\/a>'
+var menu3=new Array();
+menu3[0]='<a href=Policy_Index.aspx?CatID=3 title=辦理農作物農業天然災害救助>辦理農作物農業天然災害救助<\/a>'
+menu3[1]='<a href=Policy_Index.aspx?CatID=30 title=推動試辦農作物天然災害保險>推動試辦農作物天然災害保險<\/a>'
+menu3[2]='<a href=Policy_Index.aspx?CatID=10 title=應用數位調查工具（行動載具）執行重要農作物種植面積調查>應用數位調查工具（行動載具）執行重要農作物種植面積調查<\/a>'
+menu3[3]='<a href=http://www.coa.gov.tw/view.php?catid=2503908 target=_blank title=跨太平洋夥伴協定（Trans-Pacific Partnership, TPP）及因應措施(連結-將另開新視窗) >跨太平洋夥伴協定（Trans-Pacific Partnership, TPP）及因應措施<\/a>'
+menu3[4]='<a href=Policy_Index.aspx?CatID=4 title=設置花卉集團專區>設置花卉集團專區<\/a>'
+menu3[5]='<a href=Policy_Index.aspx?CatID=27 title=輔導設置大型蔬果理集貨包裝場>輔導設置大型蔬果理集貨包裝場<\/a>'
+menu3[6]='<a href=Policy_Index.aspx?CatID=5 title=水果外銷供應制度>水果外銷供應制度<\/a>'
+menu3[7]='<a href=Policy_Index.aspx?CatID=28 title=加強外銷水果邊境安全管理>加強外銷水果邊境安全管理<\/a>'
+menu3[8]='<a href=Policy_Index.aspx?CatID=6 title=植物品種權申請與保護>植物品種權申請與保護<\/a>'
+menu3[9]='<a href=Policy_Index.aspx?CatID=7 title=穩定夏季蔬菜供需>穩定夏季蔬菜供需<\/a>'
+menu3[10]='<a href=Policy_Index.aspx?CatID=8 title=拓展多元行銷通路，協助銷售盛產農產品>拓展多元行銷通路，協助銷售盛產農產品<\/a>'
+menu3[11]='<a href=Policy_Index.aspx?CatID=11 title=輔導農村酒莊發展>輔導農村酒莊發展<\/a>'
+menu3[12]='<a href=Policy_Index.aspx?CatID=12 title=穩定肥料供需政策>穩定肥料供需政策<\/a>'
+menu3[13]='<a href=Policy_Index.aspx?CatID=13 title=推動吉園圃安全蔬果標章制度>推動吉園圃安全蔬果標章制度<\/a>'
+menu3[14]='<a href=Policy_Index.aspx?CatID=14 title=健康農業-發展有機農業>健康農業-發展有機農業<\/a>'
+menu3[15]='<a href=Policy_Index.aspx?CatID=16 title=活化休耕田，擴大經營規模-調整耕作制度活化農地計畫>活化休耕田，擴大經營規模-調整耕作制度活化農地計畫<\/a>'
+menu3[16]='<a href=Policy_Index.aspx?CatID=26 title=推動小地主大佃農，提升經營規模與效益>推動小地主大佃農，提升經營規模與效益<\/a>'
+menu3[17]='<a href=Policy_Index.aspx?CatID=17 title=建置稻米產銷契作集團產區>建置稻米產銷契作集團產區<\/a>'
+menu3[18]='<a href=Policy_Index.aspx?CatID=18 title=公糧稻穀保價收購政策>公糧稻穀保價收購政策<\/a>'
+menu3[19]='<a href=Policy_Index.aspx?CatID=19 title=輔導農會設置穀物乾燥中心，降低農民乾燥成本>輔導農會設置穀物乾燥中心，降低農民乾燥成本<\/a>'
+menu3[20]='<a href=Policy_Index.aspx?CatID=20 title=推動在地消費，提振國產米食>推動在地消費，提振國產米食<\/a>'
+menu3[21]='<a href=Policy_Index.aspx?CatID=29 title=流域綜合治理計畫>流域綜合治理計畫<\/a>'
+menu3[22]='<a href=Policy_Index.aspx?CatID=21 title=2011.05.11-全國糧食安全會議結論>2011.05.11-全國糧食安全會議結論<\/a>'
+menu3[23]='<a href=Policy_Index.aspx?CatID=23 title=政策文宣>政策文宣<\/a>'
+var menu4=new Array();
+menu4[0]='<a href=http://www.taiwanjobs.gov.tw/ target=_blank title=台灣就業通網站(連結-將另開新視窗) >台灣就業通網站<\/a>'
+var menu5=new Array();
+menu5[0]='<a href=agriculture_news.aspx title=農業新聞>農業新聞<\/a>'
+menu5[1]='<a href=notice.aspx title=公告>公告<\/a>'
+menu5[2]='<a href=news_index.aspx title=最新消息及活動>最新消息及活動<\/a>'
+menu5[3]='<a href=hr_news.aspx title=人事異動>人事異動<\/a>'
+menu5[4]='<a href=Push_News.aspx title=推薦文章>推薦文章<\/a>'
+menu5[5]='<a href=http://gazette.nat.gov.tw/egFront/index.jsp target=_blank title=行政院公報資訊網(連結-將另開新視窗) >行政院公報資訊網<\/a>'
+var menu6=new Array();
+menu6[0]='<a href=http://www.afa.gov.tw/laws_index.aspx?CatID=5 target=_blank title=農業法規及解釋(連結-將另開新視窗) >農業法規及解釋<\/a>'
+menu6[1]='<a href=http://www.afa.gov.tw/aboutus.aspx target=_blank title=組織職掌及業務聯繫電話(連結-將另開新視窗) >組織職掌及業務聯繫電話<\/a>'
+menu6[2]='<a href=service_index.aspx?CatID=624 title=業務統計及研究報告>業務統計及研究報告<\/a>'
+menu6[3]='<a href=service_index.aspx?CatID=685 title=行政院農業委員會農糧署及所屬預算及決算>行政院農業委員會農糧署及所屬預算及決算<\/a>'
+menu6[4]='<a href=http://www.pcc.gov.tw/pccap2/BIZSfront/MenuContent.do?site=002&bid=BIZS_C09804053 target=_blank title=行政院公共工程委員會招標相關文件及表格(連結-將另開新視窗) >行政院公共工程委員會招標相關文件及表格<\/a>'
+menu6[5]='<a href=service_index.aspx?CatID=346 title=行政院農業委員會農糧署及所屬歷年補(捐)助資料>行政院農業委員會農糧署及所屬歷年補(捐)助資料<\/a>'
+menu6[6]='<a href=service_index.aspx?CatID=1140 title=補助計畫資訊專區>補助計畫資訊專區<\/a>'
+menu6[7]='<a href=service_index.aspx?CatID=802 title=行政指導相關文書>行政指導相關文書<\/a>'
+menu6[8]='<a href=/public/service/201511171829415334.11.17).pdf target=_blank title=農糧署內部保有及管理之個人資料項目彙整表(檔案下載-將另開新視窗) >農糧署內部保有及管理之個人資料項目彙整表<\/a>'
+menu6[9]='<a href=http://www.coa.gov.tw/view.php?catid=20877 target=_blank title=寒害災害潛勢資料(連結-將另開新視窗) >寒害災害潛勢資料<\/a>'
+menu6[10]='<a href=service_index.aspx?CatID=1078 title=政策宣導執行情形彙整表>政策宣導執行情形彙整表<\/a>'
+menu6[11]='<a href=http://www.afa.gov.tw/Service_index.aspx?CatID=1110 title=開放資料專區>開放資料專區<\/a>'
+menu6[12]='<a href=/public/service/20163221625497055.doc target=_blank title=農業委員會104年使用菸品健康福利捐執行情形(檔案下載-將另開新視窗) >農業委員會104年使用菸品健康福利捐執行情形<\/a>'
+var menu7=new Array();
+menu7[0]='<a href=laws_development.aspx title=最新動態>最新動態<\/a>'
+menu7[1]='<a href=laws_index.aspx?CatID=2 title=法律命令>法律命令<\/a>'
+menu7[2]='<a href=laws_index.aspx?CatID=3 title=行政規則>行政規則<\/a>'
+menu7[3]='<a href=laws_index.aspx?CatID=5 title=法令解釋彙編>法令解釋彙編<\/a>'
+menu7[4]='<a href=laws_index.aspx?CatID=245 title=農業法規之認識>農業法規之認識<\/a>'
+menu7[5]='<a href=http://law.moj.gov.tw/ target=_blank title=全國法規資料庫(連結-將另開新視窗) >全國法規資料庫<\/a>'
+var menu8=new Array();
+menu8[0]='<a href=ActFallowLand.aspx?CatID=2 title=「調整耕作制度活化農地中程（102~105年）計畫」說明資料>「調整耕作制度活化農地中程（102~105年）計畫」說明資料<\/a>'
+menu8[1]='<a href=ActFallowLand.aspx?CatID=49 title=農機代耕服務聯繫窗口及各縣市代耕網站連結>農機代耕服務聯繫窗口及各縣市代耕網站連結<\/a>'
+menu8[2]='<a href=ActFallowLand.aspx?CatID=9 title=相關規範>相關規範<\/a>'
+menu8[3]='<a href=/public/ActFallowLand/20169141038525795.doc target=_blank title=105年各直轄市、縣市休耕期、轉（契）作期核定情形(檔案下載-將另開新視窗) >105年各直轄市、縣市休耕期、轉（契）作期核定情形<\/a>'
+menu8[4]='<a href=/public/ActFallowLand/2015123115697055.doc target=_blank title=105年「調整耕作制度活化農地計畫」內容重點(檔案下載-將另開新視窗) >105年「調整耕作制度活化農地計畫」內容重點<\/a>'
+menu8[5]='<a href=/public/ActFallowLand/2016591753327055.doc target=_blank title=105年「調整耕作制度活化農地計畫」各直轄市、縣市地區特產核定情形(檔案下載-將另開新視窗) >105年「調整耕作制度活化農地計畫」各直轄市、縣市地區特產核定情形<\/a>'
+menu8[6]='<a href=/public/ActFallowLand/2016681431207055.doc target=_blank title=進口替代及外銷潛力作物契作主體名單(檔案下載-將另開新視窗) >進口替代及外銷潛力作物契作主體名單<\/a>'
+menu8[7]='<a href=/public/ActFallowLand/201610171714295795.doc target=_blank title=105年1期轉作「調整耕作制度活化農地計畫」轉(契)作補貼、休耕給付撥款進度表(檔案下載-將另開新視窗) >105年1期轉作「調整耕作制度活化農地計畫」轉(契)作補貼、休耕給付撥款進度表<\/a>'
+var menu9=new Array();
+menu9[0]='<a href=tenclassic_index.aspx?CatID=4 title=十大績優農業產銷班>十大績優農業產銷班<\/a>'
+menu9[1]='<a href=tenclassic_index.aspx?CatID=55 title=十大神農>十大神農<\/a>'
+menu9[2]='<a href=tenclassic_index.aspx?CatID=51 title=十大經典好米>十大經典好米<\/a>'
+menu9[3]='<a href=tenclassic_index.aspx?CatID=48 title=十大經典名茶>十大經典名茶<\/a>'
+menu9[4]='<a href=tenclassic_index.aspx?CatID=59 title=十大經典水果>十大經典水果<\/a>'
+var menu10=new Array();
+menu10[0]='<a href=saftyAgriculture_index.aspx?CatID=14 title=吉園圃安全蔬果>吉園圃安全蔬果<\/a>'
+menu10[1]='<a href=saftyAgriculture_index.aspx?CatID=296 title=農作物農藥殘留監測結果>農作物農藥殘留監測結果<\/a>'
+menu10[2]='<a href=saftyAgriculture_index.aspx?CatID=151 title=有機農糧作物「臺灣良好農業規範(TGAP)」>有機農糧作物「臺灣良好農業規範(TGAP)」<\/a>'
+menu10[3]='<a href=/public/saftyAgriculture/20113151537587055.doc target=_blank title=稻米之「臺灣良好農業規範(TGAP)」(100.03.15修正)(檔案下載-將另開新視窗) >稻米之「臺灣良好農業規範(TGAP)」(100.03.15修正)<\/a>'
+menu10[4]='<a href=saftyAgriculture_index.aspx?CatID=114 title=蔬菜類之「臺灣良好農業規範(TGAP)」>蔬菜類之「臺灣良好農業規範(TGAP)」<\/a>'
+menu10[5]='<a href=saftyAgriculture_index.aspx?CatID=56 title=果樹類之「臺灣良好農業規範(TGAP)」>果樹類之「臺灣良好農業規範(TGAP)」<\/a>'
+menu10[6]='<a href=saftyAgriculture_index.aspx?CatID=197 title=雜糧特作類之「臺灣良好農業規範(TGAP)」>雜糧特作類之「臺灣良好農業規範(TGAP)」<\/a>'
+menu10[7]='<a href=saftyAgriculture_index.aspx?CatID=290 title=食用花卉類之「臺灣良好農業規範(TGAP)」>食用花卉類之「臺灣良好農業規範(TGAP)」<\/a>'
+menu10[8]='<a href=/public/saftyAgriculture/20076151811207055.pdf target=_blank title=集團驗證總部內部稽核程序及注意事項(檔案下載-將另開新視窗) >集團驗證總部內部稽核程序及注意事項<\/a>'
+menu10[9]='<a href=/public/saftyAgriculture/20076151812197055.pdf target=_blank title=集團驗證內部稽核表1~3(範例)(檔案下載-將另開新視窗) >集團驗證內部稽核表1~3(範例)<\/a>'
+menu10[10]='<a href=http://taft.coa.gov.tw/lp.asp?ctNode=211&CtUnit=95&BaseDSD=7&role=C target=_blank title=農糧產品產銷履歷QA問答集(連結-將另開新視窗) >農糧產品產銷履歷QA問答集<\/a>'
+menu10[11]='<a href=saftyAgriculture_index.aspx?CatID=284 title=農民團體CAS蔬果驗證截切加工處理場>農民團體CAS蔬果驗證截切加工處理場<\/a>'
+menu10[12]='<a href=http://www.tactri.gov.tw/wSite/ct?xItem=3691&ctNode=333&mp=11 target=_blank title=植物保護手冊(連結-將另開新視窗) >植物保護手冊<\/a>'
+menu10[13]='<a href=saftyAgriculture_index.aspx?CatID=311 title=產銷履歷農糧產品檢驗專區>產銷履歷農糧產品檢驗專區<\/a>'
+menu10[14]='<a href=http://www.tactri.gov.tw/wSite/ct?xItem=6810&ctNode=882&mp=11 target=_blank title=台灣農產品主要外銷國(地區)殘留農藥容許量標準(連結-將另開新視窗) >台灣農產品主要外銷國(地區)殘留農藥容許量標準<\/a>'
+menu10[15]='<a href=saftyAgriculture_index.aspx?CatID=325 title=103年第1期作稻穀經收留樣抽檢農藥殘留量試辦業者>103年第1期作稻穀經收留樣抽檢農藥殘留量試辦業者<\/a>'
+menu10[16]='<a href=http://www.afa.gov.tw/faq.aspx?CatID=817 target=_blank title=農產品常見網路食安疑慮及解答(連結-將另開新視窗) >農產品常見網路食安疑慮及解答<\/a>'
+menu10[17]='<a href=saftyAgriculture_index.aspx?CatID=398 title=農產加工業者建立食品良好衛生規範(GHP)>農產加工業者建立食品良好衛生規範(GHP)<\/a>'
+var menu11=new Array();
+menu11[0]='<a href=organicAgriculture.aspx?CatID=3 title=有機農業相關法規>有機農業相關法規<\/a>'
+menu11[1]='<a href=http://info.organic.org.tw/supergood/front/bin/home.phtml target=_blank title=有機農業全球資訊網(連結-將另開新視窗) >有機農業全球資訊網<\/a>'
+menu11[2]='<a href=/public/organicAgriculture/20159161147177055.doc target=_blank title=有機農產品認驗證管理問答集(Q&A)(檔案下載-將另開新視窗) >有機農產品認驗證管理問答集(Q&A)<\/a>'
+menu11[3]='<a href=/public/organicAgriculture/2015924102107055.doc target=_blank title=有機農產品認驗證管理-錯誤行為態樣(檔案下載-將另開新視窗) >有機農產品認驗證管理-錯誤行為態樣<\/a>'
+menu11[4]='<a href=organicAgriculture.aspx?CatID=244 title=國內有機農產品驗證機構及收費標準>國內有機農產品驗證機構及收費標準<\/a>'
+menu11[5]='<a href=organicAgriculture.aspx?CatID=235 title=國內有機農產品、農產加工品驗證合格生產業者名冊>國內有機農產品、農產加工品驗證合格生產業者名冊<\/a>'
+menu11[6]='<a href=organicAgriculture.aspx?CatID=237 title=進口有機農產品、農產加工品之管理>進口有機農產品、農產加工品之管理<\/a>'
+menu11[7]='<a href=http://www.afa.gov.tw/saftyAgriculture_index.aspx?CatID=151 target=_blank title=有機農糧作物「臺灣良好農業規範(TGAP)」(連結-將另開新視窗) >有機農糧作物「臺灣良好農業規範(TGAP)」<\/a>'
+menu11[8]='<a href=organicAgriculture.aspx?CatID=264 title=檢舉違反農產品生產及驗證管理法案件>檢舉違反農產品生產及驗證管理法案件<\/a>'
+menu11[9]='<a href=http://organic.afa.gov.tw/InOrganic/QueryApplyList target=_blank title=已核發有機標示同意文件查詢(連結-將另開新視窗) >已核發有機標示同意文件查詢<\/a>'
+menu11[10]='<a href=organicAgriculture.aspx?CatID=289 title=品質檢驗及標示檢查結果>品質檢驗及標示檢查結果<\/a>'
+menu11[11]='<a href=/public/organicAgriculture/20121111446227055.doc target=_blank title=有機農產品驗證證書格式(檔案下載-將另開新視窗) >有機農產品驗證證書格式<\/a>'
+menu11[12]='<a href=/public/organicAgriculture/20121111449137055.doc target=_blank title=有機農產品驗證證書格式(英文版)(檔案下載-將另開新視窗) >有機農產品驗證證書格式(英文版)<\/a>'
+menu11[13]='<a href=organicAgriculture.aspx?CatID=382 title=有機農業技術服務團>有機農業技術服務團<\/a>'
+menu11[14]='<a href=organicAgriculture.aspx?CatID=411 title=有機驗證基準解釋函>有機驗證基準解釋函<\/a>'
+menu11[15]='<a href=organicAgriculture.aspx?CatID=468 title=行政院農業委員會農糧署輔導設置有機農夫市集補助原則>行政院農業委員會農糧署輔導設置有機農夫市集補助原則<\/a>'
+menu11[16]='<a href=/public/organicAgriculture/20161111719415795.doc target=_blank title=有機農業商品化資材-土壤肥力改良資材品牌推薦一覽表(列入年度計畫補助品牌)(檔案下載-將另開新視窗) >有機農業商品化資材-土壤肥力改良資材品牌推薦一覽表(列入年度計畫補助品牌)<\/a>'
+menu11[17]='<a href=/public/organicAgriculture/201610111027575795.doc target=_blank title=有機農業商品化資材-土壤肥力改良資材品牌推薦一覽表(不列入年度計畫補助品牌)(檔案下載-將另開新視窗) >有機農業商品化資材-土壤肥力改良資材品牌推薦一覽表(不列入年度計畫補助品牌)<\/a>'
+menu11[18]='<a href=/public/organicAgriculture/2015126108527055.doc target=_blank title=有機農業商品化資材-土壤肥力改良資材品牌推薦一覽表(英文版)(Organic Agricultural Material Recommendation Catalogue)(檔案下載-將另開新視窗) >有機農業商品化資材-土壤肥力改良資材品牌推薦一覽表(英文版)(Organic Agricultural Material Recommendation Catalogue)<\/a>'
+menu11[19]='<a href=/public/organicAgriculture/20161111728475795.doc target=_blank title=有機農業商品化資材－土壤肥力改良資材停止推薦品牌一覽表(檔案下載-將另開新視窗) >有機農業商品化資材－土壤肥力改良資材停止推薦品牌一覽表<\/a>'
+menu11[20]='<a href=/public/organicAgriculture/20121029175447055.doc target=_blank title=有機農業商品化資材-其他資材品牌推薦一覽表(檔案下載-將另開新視窗) >有機農業商品化資材-其他資材品牌推薦一覽表<\/a>'
+menu11[21]='<a href=/public/organicAgriculture/2015361435147055.doc target=_blank title=有機農業商品化資材-植物病蟲草害防治資材品牌推薦一覽表(檔案下載-將另開新視窗) >有機農業商品化資材-植物病蟲草害防治資材品牌推薦一覽表<\/a>'
+menu11[22]='<a href=organicAgriculture.aspx?CatID=482 title=101年有機農產品驗證機構重新評鑑認證機構>101年有機農產品驗證機構重新評鑑認證機構<\/a>'
+menu11[23]='<a href=organicAgriculture.aspx?CatID=526 title=農糧署有機農業輔導措施>農糧署有機農業輔導措施<\/a>'
+menu11[24]='<a href=/public/organicAgriculture/2012816941417055.doc target=_blank title=有機農業商品化植物保護資材類別應檢驗項目(檔案下載-將另開新視窗) >有機農業商品化植物保護資材類別應檢驗項目<\/a>'
+menu11[25]='<a href=/public/organicAgriculture/20144181436467055.doc target=_blank title=有機集團栽培區環境改善公共工程補助原則(檔案下載-將另開新視窗) >有機集團栽培區環境改善公共工程補助原則<\/a>'
+menu11[26]='<a href=organicAgriculture.aspx?CatID=597 title=有機農業適用肥料補助原則>有機農業適用肥料補助原則<\/a>'
+menu11[27]='<a href=organicAgriculture.aspx?CatID=598 title=有機農戶設置簡易堆肥設施補助原則>有機農戶設置簡易堆肥設施補助原則<\/a>'
+menu11[28]='<a href=organicAgriculture.aspx?CatID=516 title=有機農戶溫（網）室生產設施補助原則>有機農戶溫（網）室生產設施補助原則<\/a>'
+menu11[29]='<a href=organicAgriculture.aspx?CatID=659 title=有機農場如何申請環境教育設施場所認證>有機農場如何申請環境教育設施場所認證<\/a>'
+menu11[30]='<a href=organicAgriculture.aspx?CatID=660 title=校園有機食農教育>校園有機食農教育<\/a>'
+menu11[31]='<a href=organicAgriculture.aspx?CatID=845 title=臺灣有機栽培農戶數及種植面積概況>臺灣有機栽培農戶數及種植面積概況<\/a>'
+menu11[32]='<a href=/public/organicAgriculture/201696115207055.pdf target=_blank title=有機農業生產及加工設備輔導補助原則(檔案下載-將另開新視窗) >有機農業生產及加工設備輔導補助原則<\/a>'
+var menu12=new Array();
+menu12[0]='<a href=peasant_index.aspx?CatID=2251 title=「2016全國農村米穀雜糧烘焙產品競賽」專區>「2016全國農村米穀雜糧烘焙產品競賽」專區<\/a>'
+menu12[1]='<a href=peasant_index.aspx?CatID=856 title=農業天然災害救助專區>農業天然災害救助專區<\/a>'
+menu12[2]='<a href=peasant_index.aspx?CatID=1241 title=輔導農業產銷班企業化經營>輔導農業產銷班企業化經營<\/a>'
+menu12[3]='<a href=peasant_index.aspx?CatID=2211 title=稻作直接給付專區>稻作直接給付專區<\/a>'
+menu12[4]='<a href=peasant_index.aspx?CatID=1280 title=小地主大專業農專區>小地主大專業農專區<\/a>'
+menu12[5]='<a href=peasant_index.aspx?CatID=1371 title=稻田多元化利用專區>稻田多元化利用專區<\/a>'
+menu12[6]='<a href=peasant_index.aspx?CatID=24 title=稻米專區>稻米專區<\/a>'
+menu12[7]='<a href=peasant_index.aspx?CatID=1486 title=公糧專區>公糧專區<\/a>'
+menu12[8]='<a href=peasant_index.aspx?CatID=1115 title=能源作物專區>能源作物專區<\/a>'
+menu12[9]='<a href=peasant_index.aspx?CatID=745 title=果樹專區>果樹專區<\/a>'
+menu12[10]='<a href=peasant_index.aspx?CatID=746 title=蔬菜及花卉專區>蔬菜及花卉專區<\/a>'
+menu12[11]='<a href=peasant_index.aspx?CatID=1985 title=輔導菸農轉作專區>輔導菸農轉作專區<\/a>'
+menu12[12]='<a href=peasant_index.aspx?CatID=339 title=雜糧特作專區>雜糧特作專區<\/a>'
+menu12[13]='<a href=peasant_index.aspx?CatID=56 title=種苗管理專區>種苗管理專區<\/a>'
+menu12[14]='<a href=peasant_index.aspx?CatID=582 title=土壤肥料專區>土壤肥料專區<\/a>'
+menu12[15]='<a href=peasant_index.aspx?CatID=814 title=蜂產品專區>蜂產品專區<\/a>'
+menu12[16]='<a href=peasant_index.aspx?CatID=749 title=農業機械及自動化>農業機械及自動化<\/a>'
+menu12[17]='<a href=peasant_index.aspx?CatID=750 title=農產品加工專區>農產品加工專區<\/a>'
+menu12[18]='<a href=peasant_index.aspx?CatID=1735 title=青年農民專區>青年農民專區<\/a>'
+menu12[19]='<a href=peasant_index.aspx?CatID=1785 title=農夫市集及農民直銷站專區>農夫市集及農民直銷站專區<\/a>'
+menu12[20]='<a href=peasant_index.aspx?CatID=1902 title=檳榔廢園轉作專區>檳榔廢園轉作專區<\/a>'
+menu12[21]='<a href=peasant_index.aspx?CatID=1925 title=臺灣米標章專區>臺灣米標章專區<\/a>'
+menu12[22]='<a href=peasant_index.aspx?CatID=2013 title=流域綜合治理計畫>流域綜合治理計畫<\/a>'
+menu12[23]='<a href=/public/peasant/2016261731357055.xls target=_blank title=農業設施災害統計表(檔案下載-將另開新視窗) >農業設施災害統計表<\/a>'
+var menu13=new Array();
+menu13[0]='<a href=TrainLoan_index.aspx?CatID=2 title=農業訓練>農業訓練<\/a>'
+menu13[1]='<a href=TrainLoan_index.aspx?CatID=24 title=優秀農業人員選拔>優秀農業人員選拔<\/a>'
+menu13[2]='<a href=TrainLoan_index.aspx?CatID=31 title=農場輔導專區>農場輔導專區<\/a>'
+menu13[3]='<a href=http://www.boaf.gov.tw/boafwww/index.jsp?a=ct&xItem=50544&ctNode=261& target=_blank title=輔導農糧業經營貸款要點(連結-將另開新視窗) >輔導農糧業經營貸款要點<\/a>'
+menu13[4]='<a href=http://www.boaf.gov.tw/boafwww/?a=np&ctNode=238 target=_blank title=政策性專案農業貸款(連結-將另開新視窗) >政策性專案農業貸款<\/a>'
+var menu14=new Array();
+menu14[0]='<a href=http://210.69.71.166/Pxweb2007/Dialog/statfile9L.asp target=_blank title=農糧統計資料庫(連結-將另開新視窗) >農糧統計資料庫<\/a>'
+menu14[1]='<a href=GrainStatistics_index.aspx?CatID=2 title=公務統計>公務統計<\/a>'
+menu14[2]='<a href=GrainStatistics_index.aspx?CatID=44 title=農糧統計書刊>農糧統計書刊<\/a>'
+menu14[3]='<a href=http://priceinquire.afa.gov.tw/report/ target=_blank title=糧價及糧商資料查詢系統(連結-將另開新視窗) >糧價及糧商資料查詢系統<\/a>'
+menu14[4]='<a href=http://apis.afa.gov.tw/pagepub/AppInquiryPage.aspx target=_blank title=農產品產地價格查詢系統(連結-將另開新視窗) >農產品產地價格查詢系統<\/a>'
+menu14[5]='<a href=GrainStatistics_index.aspx?CatID=307 title=農情報導專區>農情報導專區<\/a>'
+menu14[6]='<a href=GrainStatistics_index.aspx?CatID=437 title=農產品行情>農產品行情<\/a>'
+menu14[7]='<a href=GrainStatistics_index.aspx?CatID=56 title=農委會農糧資訊連結>農委會農糧資訊連結<\/a>'
+menu14[8]='<a href=GrainStatistics_index.aspx?CatID=58 title=國外農業資訊>國外農業資訊<\/a>'
+menu14[9]='<a href=/public/GrainStatistics/201610211736255795.doc target=_blank title=台灣地區稻作生育情形旬報表(檔案下載-將另開新視窗) >台灣地區稻作生育情形旬報表<\/a>'
+menu14[10]='<a href=GrainStatistics_index.aspx?CatID=139 title=高雄港進口雜糧(大豆、玉米)大盤價格表>高雄港進口雜糧(大豆、玉米)大盤價格表<\/a>'
+menu14[11]='<a href=GrainStatistics_index.aspx?CatID=222 title=農業氣象及空氣品質監測資料>農業氣象及空氣品質監測資料<\/a>'
+menu14[12]='<a href=GrainStatistics_index.aspx?CatID=283 title=主要切花種苗進口統計>主要切花種苗進口統計<\/a>'
+menu14[13]='<a href=GrainStatistics_index.aspx?CatID=291 title=稻種流向>稻種流向<\/a>'
+menu14[14]='<a href=/public/GrainStatistics/201610121521595795.xls target=_blank title=近十年政府收購農民稻穀價格及每公頃收購數量表(檔案下載-將另開新視窗) >近十年政府收購農民稻穀價格及每公頃收購數量表<\/a>'
+var menu15=new Array();
+menu15[0]='<a href=public_index.aspx?CatID=919 title=市場報馬仔~買菜看這裡>市場報馬仔~買菜看這裡<\/a>'
+menu15[1]='<a href=public_index.aspx?CatID=40 title=吉園圃安全蔬果>吉園圃安全蔬果<\/a>'
+menu15[2]='<a href=public_index.aspx?CatID=17 title=有機農產品>有機農產品<\/a>'
+menu15[3]='<a href=public_index.aspx?CatID=513 title=農產品產銷履歷輔導>農產品產銷履歷輔導<\/a>'
+menu15[4]='<a href=public_index.aspx?CatID=53 title=國產優良品牌蔬果>國產優良品牌蔬果<\/a>'
+menu15[5]='<a href=public_index.aspx?CatID=501 title=時令作物資訊>時令作物資訊<\/a>'
+menu15[6]='<a href=public_index.aspx?CatID=27 title=國產米及米食消費>國產米及米食消費<\/a>'
+menu15[7]='<a href=public_index.aspx?CatID=13 title=農村酒莊巡禮>農村酒莊巡禮<\/a>'
+menu15[8]='<a href=public_index.aspx?CatID=4 title=養生保健>養生保健<\/a>'
+menu15[9]='<a href=public_index.aspx?CatID=47 title=台灣金針>台灣金針<\/a>'
+menu15[10]='<a href=public_index.aspx?CatID=502 title=國產蜂產品專區>國產蜂產品專區<\/a>'
+menu15[11]='<a href=public_index.aspx?CatID=232 title=茶葉購買區>茶葉購買區<\/a>'
+menu15[12]='<a href=http://www.afa.gov.tw/publish_books.aspx?CatID=21 target=_blank title=食譜專區(連結-將另開新視窗) >食譜專區<\/a>'
+menu15[13]='<a href=public_index.aspx?CatID=205 title=赴有邦交國投資優惠辦法>赴有邦交國投資優惠辦法<\/a>'
+menu15[14]='<a href=public_index.aspx?CatID=900 title=農夫市集及農民直銷站>農夫市集及農民直銷站<\/a>'
+menu15[15]='<a href=http://www.afa.gov.tw/faq.aspx?CatID=817 target=_blank title=農產品常見網路食安疑慮及解答(連結-將另開新視窗) >農產品常見網路食安疑慮及解答<\/a>'
+var menu16=new Array();
+menu16[0]='<a href=FoodSafetyEducation.aspx?CatID=2 title=安全農業>安全農業<\/a>'
+menu16[1]='<a href=FoodSafetyEducation.aspx?CatID=6 title=有機農業>有機農業<\/a>'
+menu16[2]='<a href=FoodSafetyEducation.aspx?CatID=7 title=相關參考出版品>相關參考出版品<\/a>'
+menu16[3]='<a href=FoodSafetyEducation.aspx?CatID=8 title=影音媒體>影音媒體<\/a>'
+menu16[4]='<a href=FoodSafetyEducation.aspx?CatID=29 title=相關網站>相關網站<\/a>'
+var menu17=new Array();
+menu17[0]='<a href=publish_books.aspx?CatID=2 title=農糧署年報>農糧署年報<\/a>'
+menu17[1]='<a href=publish_books.aspx?CatID=21 title=食譜相關連結>食譜相關連結<\/a>'
+menu17[2]='<a href=publish_books.aspx?CatID=29 title=輸日水果宣導講習會參考資料>輸日水果宣導講習會參考資料<\/a>'
+menu17[3]='<a href=publish_books.aspx?CatID=218 title=十大績優農業產銷班專輯>十大績優農業產銷班專輯<\/a>'
+menu17[4]='<a href=publish_books.aspx?CatID=580 title=十大神農獎專輯>十大神農獎專輯<\/a>'
+menu17[5]='<a href=publish_books.aspx?CatID=730 title=十大經典好米選拔專輯>十大經典好米選拔專輯<\/a>'
+menu17[6]='<a href=publish_books.aspx?CatID=743 title=發現台灣農業競爭力>發現台灣農業競爭力<\/a>'
+menu17[7]='<a href=publish_books.aspx?CatID=2762 title=優質台灣米禮盒型錄>優質台灣米禮盒型錄<\/a>'
+menu17[8]='<a href=publish_books.aspx?CatID=3173 title=稻米產銷契作集團產區>稻米產銷契作集團產區<\/a>'
+menu17[9]='<a href=publish_books.aspx?CatID=877 title=小稻米．大秘密>小稻米．大秘密<\/a>'
+menu17[10]='<a href=publish_books.aspx?CatID=3527 title=植物品種權年鑑>植物品種權年鑑<\/a>'
+menu17[11]='<a href=publish_tree.aspx?CatID=183 title=95年蜂農教育及外銷蜂產品宣導講習會參考資料>95年蜂農教育及外銷蜂產品宣導講習會參考資料<\/a>'
+menu17[12]='<a href=publish_tree.aspx?CatID=70 title=作物施肥手冊>作物施肥手冊<\/a>'
+menu17[13]='<a href=publish_tree.aspx?CatID=536 title=綠肥作物栽培利用手冊>綠肥作物栽培利用手冊<\/a>'
+menu17[14]='<a href=publish_tree.aspx?CatID=874 title=國產優良品牌蔬果生產管理技術作業標準>國產優良品牌蔬果生產管理技術作業標準<\/a>'
+menu17[15]='<a href=publish_tree.aspx?CatID=1047 title=台灣農機具型錄與圖鑑>台灣農機具型錄與圖鑑<\/a>'
+var menu18=new Array();
+menu18[0]='<a href=movies_list.aspx?CatID=170 title=米食製品推廣專區>米食製品推廣專區<\/a>'
+menu18[3]='<a href=/public/movies/201510161446397055.wmv target=_blank title=「鮮享在地 食在安心-2015臺灣農產品特展」(檔案下載-將另開新視窗) >「鮮享在地 食在安心-2015臺灣農產品特展」<\/a>'
+menu18[4]='<a href=movies_list.aspx?CatID=31 title=臺灣農民力>臺灣農民力<\/a>'
+menu18[5]='<a href=movies_list.aspx?CatID=15 title=十大績優農業產銷班>十大績優農業產銷班<\/a>'
+menu18[6]='<a href=movies_list.aspx?CatID=19 title=十大神農>十大神農<\/a>'
+menu18[7]='<a href=movies_list.aspx?CatID=16 title=優秀農業人員>優秀農業人員<\/a>'
+menu18[8]='<a href=movies_list.aspx?CatID=17 title=國產優良生鮮截切蔬果>國產優良生鮮截切蔬果<\/a>'
+menu18[9]='<a href=movies_list.aspx?CatID=22 title=勿焚燒稻草宣傳短片>勿焚燒稻草宣傳短片<\/a>'
+menu18[10]='<a href=/public/movies/20081302013177055.wmv target=_blank title=十大經典水果票選活動影片(檔案下載-將另開新視窗) >十大經典水果票選活動影片<\/a>'
+menu18[11]='<a href=/public/movies/200814173787055.WMV target=_blank title=台灣優質農村酒莊(檔案下載-將另開新視窗) >台灣優質農村酒莊<\/a>'
+menu18[12]='<a href=/public/movies/201012301028307055.wmv target=_blank title=「花采台灣」千人插花活動(檔案下載-將另開新視窗) >「花采台灣」千人插花活動<\/a>'
+menu18[13]='<a href=/public/movies/201142718327055.wmv target=_blank title=2011臺北國際蘭展(檔案下載-將另開新視窗) >2011臺北國際蘭展<\/a>'
+menu18[14]='<a href=/public/movies/20117181310327055.wmv target=_blank title=米食料理自己做(檔案下載-將另開新視窗) >米食料理自己做<\/a>'
+menu18[15]='<a href=/public/movies/201112281356427055.wmv target=_blank title=米食營養與健康(檔案下載-將另開新視窗) >米食營養與健康<\/a>'
+menu18[16]='<a href=movies_list.aspx?CatID=97 title=小地主大佃農政策宣導>小地主大佃農政策宣導<\/a>'
+menu18[17]='<a href=/public/movies/20124251833377055.wmv target=_blank title=2011製茶廠環境衛生安全評鑑成果(檔案下載-將另開新視窗) >2011製茶廠環境衛生安全評鑑成果<\/a>'
+menu18[18]='<a href=movies_list.aspx?CatID=101 title=活化農地專區>活化農地專區<\/a>'
+menu18[19]='<a href=/public/movies/20133151018487055.wmv target=_blank title=高麗菜美食教作(檔案下載-將另開新視窗) >高麗菜美食教作<\/a>'
+menu18[20]='<a href=movies_list.aspx?CatID=113 title=戰毒紀>戰毒紀<\/a>'
+menu18[21]='<a href=/public/movies/2013641616467055.wmv target=_blank title=守法、拒毒,迎向彩色人生(檔案下載-將另開新視窗) >守法、拒毒,迎向彩色人生<\/a>'
+menu18[22]='<a href=movies_list.aspx?CatID=125 title=保防宣導安全防護短片「大小天燈篇」>保防宣導安全防護短片「大小天燈篇」<\/a>'
+menu18[23]='<a href=movies_list.aspx?CatID=129 title=「米力臺灣‧穀舞人生」微電影專區>「米力臺灣‧穀舞人生」微電影專區<\/a>'
+menu18[24]='<a href=movies_list.aspx?CatID=138 title=小地主大佃農微電影專區>小地主大佃農微電影專區<\/a>'
+menu18[25]='<a href=/public/movies/2014102853297055.WAV target=_blank title=公糧品質要把關，全民一起吃好米(檔案下載-將另開新視窗) >公糧品質要把關，全民一起吃好米<\/a>'
+menu18[27]='<a href=movies_list.aspx?CatID=151 title=廉政微電影>廉政微電影<\/a>'
+menu18[28]='<a href=movies_list.aspx?CatID=164 title=104年稻米生產量調查坪割講習訓練>104年稻米生產量調查坪割講習訓練<\/a>'
+var menu19=new Array();
+menu19[0]='<a href=service_index.aspx?CatID=3 title=農糧申辦案件窗口>農糧申辦案件窗口<\/a>'
+menu19[1]='<a href=http://cashier.afa.gov.tw/Funds/ target=_blank title=受款人電匯款項查詢系統(連結-將另開新視窗) >受款人電匯款項查詢系統<\/a>'
+menu19[2]='<a href=service_index.aspx?CatID=619 title=政府服務創新精進方案>政府服務創新精進方案<\/a>'
+menu19[3]='<a href=service_index.aspx?CatID=99 title=檔案應用>檔案應用<\/a>'
+menu19[4]='<a href=service_index.aspx?CatID=530 title=計畫款項登錄及查詢>計畫款項登錄及查詢<\/a>'
+menu19[5]='<a href=service_index.aspx?CatID=1241 title=心理健康資訊相關網站>心理健康資訊相關網站<\/a>'
+menu19[6]='<a href=service_index.aspx?CatID=369 title=交通及生活資訊網站>交通及生活資訊網站<\/a>'
+menu19[7]='<a href=service_index.aspx?CatID=706 title=數位學習專區>數位學習專區<\/a>'
+menu19[8]='<a href=service_index.aspx?CatID=873 title=認識家禽流行性感冒&新型流感專區>認識家禽流行性感冒&新型流感專區<\/a>'
+menu19[9]='<a href=service_index.aspx?CatID=1029 title=退休人員園地>退休人員園地<\/a>'
+menu19[10]='<a href=service_index.aspx?CatID=1106 title=性別平等專區>性別平等專區<\/a>'
+var menu20=new Array();
+menu20[0]='<a href=GovEthics.aspx?CatID=95 title=業務職掌>業務職掌<\/a>'
+menu20[1]='<a href=GovEthics.aspx?CatID=153 title=廉政檢舉管道>廉政檢舉管道<\/a>'
+menu20[2]='<a href=GovEthics.aspx?CatID=1347 title=反賄選宣導>反賄選宣導<\/a>'
+menu20[3]='<a href=/public/GovEthics/20153101453507055.doc target=_blank title=國家廉政建設行動方案(檔案下載-將另開新視窗) >國家廉政建設行動方案<\/a>'
+menu20[4]='<a href=GovEthics.aspx?CatID=160 title=廉政宣導區>廉政宣導區<\/a>'
+menu20[5]='<a href=GovEthics.aspx?CatID=169 title=相關法規>相關法規<\/a>'
+menu20[6]='<a href=GovEthics.aspx?CatID=463 title=最新消息>最新消息<\/a>'
+menu20[7]='<a href=GovEthics.aspx?CatID=1134 title=請託關說登錄查察專區>請託關說登錄查察專區<\/a>'
+var menu21=new Array();
+menu21[0]='<a href=/public/DownLoadTree/20065111831497055.zip target=_blank title=農委會會徽使用規範(壓縮檔)(檔案下載-將另開新視窗) >農委會會徽使用規範(壓縮檔)<\/a>'
+menu21[1]='<a href=download_index.aspx?CatID=359 title=農糧署署徽及設計理念說明>農糧署署徽及設計理念說明<\/a>'
+menu21[2]='<a href=download_index.aspx?CatID=1666 title=資訊業務相關資料>資訊業務相關資料<\/a>'
+menu21[3]='<a href=download_index.aspx?CatID=3 title=會計業務相關資料>會計業務相關資料<\/a>'
+menu21[4]='<a href=download_index.aspx?CatID=4 title=統計業務相關資料>統計業務相關資料<\/a>'
+menu21[6]='<a href=download_index.aspx?CatID=5 title=肥料業務相關資料>肥料業務相關資料<\/a>'
+menu21[8]='<a href=download_index.aspx?CatID=7 title=人事業務相關資料>人事業務相關資料<\/a>'
+menu21[11]='<a href=download_index.aspx?CatID=326 title=植物品種權、種苗業登記及基因轉殖植物田間試驗相關申請書表格式>植物品種權、種苗業登記及基因轉殖植物田間試驗相關申請書表格式<\/a>'
+menu21[12]='<a href=download_index.aspx?CatID=327 title=優秀農業人員選拔相關資料>優秀農業人員選拔相關資料<\/a>'
+menu21[13]='<a href=download_index.aspx?CatID=341 title=農業科技計畫委託研究及委託辦理作業程序>農業科技計畫委託研究及委託辦理作業程序<\/a>'
+menu21[14]='<a href=download_index.aspx?CatID=337 title=吉園圃安全蔬果標章申請表格>吉園圃安全蔬果標章申請表格<\/a>'
+menu21[15]='<a href=http://www.afa.gov.tw/laws_index.aspx?CatID=76 target=_blank title=查編與農業經營不可分離土地作業(連結-將另開新視窗) >查編與農業經營不可分離土地作業<\/a>'
+menu21[16]='<a href=/public/DownLoadTree/20065111823527055.doc target=_blank title=台灣地區農作物田間檢查、種子抽樣申請表(檔案下載-將另開新視窗) >台灣地區農作物田間檢查、種子抽樣申請表<\/a>'
+menu21[17]='<a href=/public/DownLoadTree/20065111832597055.doc target=_blank title=內外銷重要水果產地及農會聯絡電話(檔案下載-將另開新視窗) >內外銷重要水果產地及農會聯絡電話<\/a>'
+menu21[18]='<a href=/public/DownLoadTree/2008131126527055.xls target=_blank title=稻草處理方式及數量統計表(檔案下載-將另開新視窗) >稻草處理方式及數量統計表<\/a>'
+menu21[19]='<a href=download_index.aspx?CatID=1525 title=「專案經費補助特定業務或委託計畫」進用臨時人員審核機制及相關表格>「專案經費補助特定業務或委託計畫」進用臨時人員審核機制及相關表格<\/a>'
+menu21[20]='<a href=http://www.afa.gov.tw/peasant_index.aspx?CatID=1185 target=_blank title=茶葉輸日核發同意文件下載區(連結-將另開新視窗) >茶葉輸日核發同意文件下載區<\/a>'
+menu21[22]='<a href=download_index.aspx?CatID=1685 title=國產與進口農產品差異比較>國產與進口農產品差異比較<\/a>'
+menu21[23]='<a href=/public/DownLoadTree/2014114101875334.doc target=_blank title=中國大陸植物品種權申請代理機構資料(檔案下載-將另開新視窗) >中國大陸植物品種權申請代理機構資料<\/a>'
+menu21[24]='<a href=/public/DownLoadTree/20115191926407055.doc target=_blank title=農產品契作生產合約書範本(檔案下載-將另開新視窗) >農產品契作生產合約書範本<\/a>'
+menu21[25]='<a href=/public/DownLoadTree/2012121121397055.doc target=_blank title=「基因轉殖植物田間試驗機構隔離設施設置指引」技術參考文件(檔案下載-將另開新視窗) >「基因轉殖植物田間試驗機構隔離設施設置指引」技術參考文件<\/a>'
+menu21[26]='<a href=/public/DownLoadTree/20125171629447055.doc target=_blank title=國產水果優惠訂購平台聯絡窗口調查表(檔案下載-將另開新視窗) >國產水果優惠訂購平台聯絡窗口調查表<\/a>'
+menu21[27]='<a href=download_index.aspx?CatID=1737 title=科技業務相關資料>科技業務相關資料<\/a>'
+menu21[28]='<a href=download_index.aspx?CatID=1740 title=活化農地專區>活化農地專區<\/a>'
+menu21[29]='<a href=/public/DownLoadTree/2013515102477055.doc target=_blank title=非都市土地申請變更作為興建農產食品加工場所及設施使用事業計畫審查作業要點修正草案總說明和條文意見表(檔案下載-將另開新視窗) >非都市土地申請變更作為興建農產食品加工場所及設施使用事業計畫審查作業要點修正草案總說明和條文意見表<\/a>'
+menu21[30]='<a href=/public/DownLoadTree/20153131628527055.doc target=_blank title=優質水果集團產區規範(檔案下載-將另開新視窗) >優質水果集團產區規範<\/a>'
+menu21[31]='<a href=/public/DownLoadTree/20163291633297055.doc target=_blank title=105年農糧管理計畫研提與管理手冊(檔案下載-將另開新視窗) >105年農糧管理計畫研提與管理手冊<\/a>'
+menu21[32]='<a href=/public/DownLoadTree/201621162555334.pdf target=_blank title=鮮享在地高麗菜食譜(檔案下載-將另開新視窗) >鮮享在地高麗菜食譜<\/a>'
+menu21[33]='<a href=/public/DownLoadTree/20151210175707055.doc target=_blank title=104年度保留原因類型分類(檔案下載-將另開新視窗) >104年度保留原因類型分類<\/a>'
+menu21[34]='<a href=/public/DownLoadTree/20165231127575795.doc target=_blank title=105/106年度政府進口米合格廠商名單(檔案下載-將另開新視窗) >105/106年度政府進口米合格廠商名單<\/a>'
+var menu22=new Array();
+menu22[0]='<a href=weblink.aspx?CatID=59 title=農委會暨所屬機關>農委會暨所屬機關<\/a>'
+menu22[1]='<a href=weblink.aspx?CatID=54 title=農糧署各區分署>農糧署各區分署<\/a>'
+menu22[2]='<a href=weblink.aspx?CatID=39 title=農糧資訊類>農糧資訊類<\/a>'
+menu22[3]='<a href=weblink.aspx?CatID=20 title=農業訓練類>農業訓練類<\/a>'
+menu22[4]='<a href=weblink.aspx?CatID=25 title=農糧行銷類>農糧行銷類<\/a>'
+menu22[5]='<a href=weblink.aspx?CatID=23 title=農業旅遊類>農業旅遊類<\/a>'
+menu22[6]='<a href=weblink.aspx?CatID=83 title=農業科技學術類>農業科技學術類<\/a>'
+menu22[7]='<a href=weblink.aspx?CatID=90 title=農業產業團體>農業產業團體<\/a>'
+menu22[8]='<a href=weblink.aspx?CatID=97 title=國際農業機關組織>國際農業機關組織<\/a>'
+menu22[9]='<a href=weblink.aspx?CatID=2 title=其他類>其他類<\/a>'
+menu22[10]='<a href=weblink.aspx?CatID=136 title=日本花卉拍賣市場>日本花卉拍賣市場<\/a>'
+menu22[11]='<a href=weblink.aspx?CatID=160 title=活化農地專區>活化農地專區<\/a>'
+menu22[12]='<a href=weblink.aspx?CatID=168 title=農作物採收集運參考影片專區>農作物採收集運參考影片專區<\/a>'
+</script>
+
+							</td>
+							<td id="id_0_1.1" headers="id_0_0">
+								<div id="common">
+																		<div>
+									<ul class="searchArea" style=" padding-bottom: 0px;  background: white;  padding-left: 0px;">	
+                                        <li >
+											
+											<form name="searchform" id="searchform" action="./search.aspx" class="searchForm">
+												<!--<img src="images/03/searchTitle.gif" alt="全站搜尋" />
+												<LABEL for="search_textfield" class="noSee">全站搜尋</LABEL>-->
+												<div style="background-image: url('/images/search_textfield.png');position:relative;background-repeat: no-repeat;height: 48px;width:26.6875em;  float: left;">
+													<label for="search_textfield"></label>
+													<label for="searchBtn"></label>
+													<input style="  margin-left: 53px; margin-right:20px; margin-top: 8px;outline: none;border: 0px none;font-size: 20px;font-family: 微軟正黑體;font-weight:600;color:#787878;width: 60% \9;" class="search_textfield" accesskey="s" name="search_textfield" id="search_textfield" type="text" value="請輸入關鍵字" title="勿輸入含有單引號之文字" onFocus="if(this.value==this.defaultValue) this.value=''" OnBlur="javascript:if(this.value=='') {this.value='請輸入關鍵字'}"/>
+													
+													<input id="searchBtn" title="搜尋" type="image" name="searchBtn" src="images/searchBtn01.png" alt="搜尋" class="searchBtn" style="position: absolute;top: 8px;left:335px; height:30px"/>
+												
+												</div>
+												<div style="  float: left;  margin-left: 0px;">
+													<label for="searchBtn"></label>
+												    <input title="進階查詢" id="searchBtn" type="image" name="searchBtn" src="images/adv_search.png" alt="進階查詢" class="searchBtn" style="cursor:pointer; height:47px" onkeypress="location.href='./adv_search.aspx'" onclick="location.href='./adv_search.aspx';return false;"/>
+												</div>
+												<div style="float:right;margin-top:5px;">
+												    <span style="margin-right:-8px">色系:</span>
+												    <img src="images/green.png" alt="綠色" border="0" onclick="setCookie(1)" onkeypress="setCookie(1)" style="cursor:pointer; margin-right:-10px"/>
+												    <img src="images/blue.png" alt="藍色" border="0" onclick="setCookie(2)" onkeypress="setCookie(2)" style="cursor:pointer;margin-right:-10px"/>
+												    <img src="images/yellow.png" alt="黃色" border="0" onclick="setCookie(3)" onkeypress="setCookie(3)" style="cursor:pointer;margin-right:-10px"/>
+												    <img src="images/purple.png" alt="紫色" border="0" onclick="setCookie(4)" onkeypress="setCookie(4)" style="cursor:pointer;"/>
+												</div>
+												<!--<input type="image" name="searchBtn" src="images/03/searchBtn.gif" alt="搜尋" class="searchBtn" />-->
+												
+											</form>
+											
+											<noscript>
+												由於您的瀏覽器不支援JavaScript，因此無法搜尋、修改網站色系以及修改字體大小。
+												<style>
+												.searchform{
+													display:none;
+												}
+												</style>
+											</noscript>
+											
+											<!--<a href="./adv_search.aspx" class="t1" title="進階查詢" style="font-size:13px;">進階查詢</a>-->
+					
+										</li>
+									</ul>
+										
+                                    	<ul class="searchArea" style="  padding-top: 0px;  background: white;  clear: both;width: 97%;">	
+										<!--<li><a href="https://www.afa.gov.tw/tmail.aspx" title="首長信箱"><img src="images/fastLink01.png" alt="首長信箱" /></a></li>
+										<li><a href="https://www.afa.gov.tw/pmail.aspx" title="意見信箱"><img src="images/fastLink02.png" alt="意見信箱" /></a></li>
+										<li><a href="https://www.afa.gov.tw/cmail.aspx" title="消費者申訴信箱"><img src="images/fastLink03.png" alt="消費者申訴信箱" /></a></li>
+										<li><a href="./Service_index.aspx?CatID=3" title="農糧申辦案件窗口"><img src="images/fastLink04.png" alt="農糧申辦案件窗口" /></a>-->
+										<li><img src="images/fastLink01.png" alt="首長信箱" onclick="location.href='http://www.afa.gov.tw/tmail.aspx'" onkeypress="location.href='http://www.afa.gov.tw/tmail.aspx'" style="cursor:pointer"/></li>
+										<li><img src="images/fastLink02.png" alt="意見信箱" onclick="location.href='http://www.afa.gov.tw/pmail.aspx'" onkeypress="location.href='http://www.afa.gov.tw/pmail.aspx'" style="cursor:pointer"/></li>
+										<li><img src="images/fastLink03.png" alt="消費者申訴信箱" onclick="location.href='http://www.afa.gov.tw/cmail.aspx'" onkeypress="location.href='http://www.afa.gov.tw/cmail.aspx'" style="cursor:pointer"/></li>
+										<li><img src="images/fastLink04.png" alt="農糧申辦案件窗口" onclick="location.href='./Service_index.aspx?CatID=3'" onkeypress="location.href='./Service_index.aspx?CatID=3'" style="cursor:pointer"/></li>
+										<li><img src="images/fb_icon.png" alt="臉書連結" onclick="location.href='https://www.facebook.com/afayayaya/'" onkeypress="location.href='https://www.facebook.com/afayayaya/'" style="cursor:pointer;width:5.625em"/></li>
+										
+										<noscript>
+											<br><br>
+											<a href="../tmail.aspx" title="首長信箱連結">首長信箱</a><span style="display:none;">|</span>
+											<a href="../pmail.aspx" title="意見信箱連結">意見信箱</a><span style="display:none;">|</span>
+											<a href="../cmail.aspx" title="消費者申訴信箱連結">消費者申訴信箱</a><span style="display:none;">|</span>
+											<a href="../Service_index.aspx?CatID=3" title="農糧申辦案件窗口連結">農糧申辦案件窗口</a><span style="display:none;">|</span>
+											<a href="https://www.facebook.com/afayayaya/" title="臉書連結">臉書連結</a><span style="display:none;">|</span>
+										</noscript>
+										
+										<table class="changeSize" border="0" cellspacing="0" cellpadding="2" summary="排版用表格-字級設定" style="float:right ; margin-right: 28px;">
+<tr>
+	<td class="t12"><span class="access_c"></span><span style="display:none;">|</span>字級設定:</td>
+	<td >
+		
+		<img name="size12_btn" src="images/font-on-2.gif" alt="字級設定-中" border="0" title="字級設定-中" onclick="location.href='index.aspx?TemplateFontSize=01'" onkeypress="location.href='index.aspx?TemplateFontSize=01'" style="cursor:pointer"/>
+		<span style="display:none;">|</span>
+	</td>
+	<td>
+		
+		<img name="size15_btn" src="images/font-3.gif" alt="字級設定-大" border="0" title="字級設定-大" onclick="location.href='index.aspx?TemplateFontSize=02'" onkeypress="location.href='index.aspx?TemplateFontSize=02'""location.href='index.aspx?TemplateFontSize=02'" style="cursor:pointer"/>
+		<span style="display:none;">|</span>
+	</td>
+	<td>
+		<img name="size20_btn" src="images/font-4.gif" alt="字級設定-巨" border="0" title="字級設定-巨" onclick="location.href='index.aspx?TemplateFontSize=03'" onkeypress="location.href='index.aspx?TemplateFontSize=03'" style="cursor:pointer"/>
+		<span style="display:none;">|</span>
+	</td>                
+</tr>
+</table>
+<script language="JavaScript" type="text/javascript">
+function changeSize(sz)
+{
+  location.href = "index.aspx?TemplateFontSize=" + sz
+}
+</script>
+										
+										<noscript>
+										<style>
+										.changeSize{
+											display:none;
+										}
+										</style>
+										</noscript>
+										
+									</ul>
+									</div>
+	<script type="text/javascript" src="scripts/jquery-ui-1.10.4.custom.min.js"></script>
+	<link href="css/jquery-ui-1.10.4.custom.min.css" rel="stylesheet" type="text/css" />
+	<style>
+		.ui-autocomplete {
+		max-height: 200px;
+		overflow-y: auto;
+		/* prevent horizontal scrollbar */
+		overflow-x: hidden;
+		}
+		.ui-autocomplete{
+			text-align:left;
+		}
+	</style>
+	
+	<script>
+	$(function() {
+		$( "#search_textfield" ).autocomplete({
+			source:function(request, response){
+				if(request.term.trim()!="" && request.term.trim()!="請輸入關鍵字"){
+				var xmlhttp;
+				if (window.XMLHttpRequest)
+				{// code for IE7+, Firefox, Chrome, Opera, Safari
+				xmlhttp=new XMLHttpRequest();
+				}
+				else
+				{// code for IE6, IE5
+				xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+				}
+				xmlhttp.onreadystatechange=function()
+				{
+					if (xmlhttp.readyState==4 && xmlhttp.status==200)
+					{
+						var availableTags=xmlhttp.responseText.split('|');
+						response(availableTags);
+					}
+				}
+				xmlhttp.open("GET","GetAutocompleteInfo.aspx?search_textfield="+request.term,true);
+				xmlhttp.send();
+				}
+			}
+		});
+	});
+	function setCookie(val)
+	{
+		var xmlhttp;
+		if (window.XMLHttpRequest)
+		{// code for IE7+, Firefox, Chrome, Opera, Safari
+		xmlhttp=new XMLHttpRequest();
+		}
+		else
+		{// code for IE6, IE5
+		xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+		}
+		xmlhttp.onreadystatechange=function()
+		{
+			if (xmlhttp.readyState==4 && xmlhttp.status==200)
+			{
+				location.reload();
+			}
+		}
+		xmlhttp.open("GET","SetLayoutCookie.aspx?cookieVal="+val,true);
+		xmlhttp.send();
+	}
+	</script>
+								</div>
+							</td>
+							<!--20150109 by Derrick modify-->
+							<td id="id_0_1.2" headers="id_0_0" class="contentRight" rowspan="2"></td>
+						</tr>					
+						<tr>
+							<td id="id_0_1.3" headers="id_0_0" class="contentCenter" valign="top">
+								<div id="TreeMenu">
+									
+								</div>
+								
+									<table summary="*" width="100%" border="0" cellspacing="0" cellpadding="0" class="">
+										<tr>
+											<td valign="top">
+												<span class="access_c"><a name="accesskeyc" id="accesskeyc" href="#accesskeyc" title="中間主要內容區--導盲磚" accesskey="c">:::</a></span>
+												<img src="images/03/locationIcon.jpg" alt="">
+												<span class="newsGray">您現在的位置：</span>
+												<a href="/index.aspx" title="首頁">首頁</a>><a href=Service_index.aspx?CatID=573  title="政府資訊公開"> 政府資訊公開</a> > <a  title="政府資訊公開" href=Service_index.aspx?CatID=573>政府資訊公開</a><span style='display:none;'>|</span>
+ > <font >行政院農業委員會農糧署及所屬預算及決算</font>
+											</td>
+										</tr>
+									</table>
+									<table summary="*" style="height:8px" width="100%" border="0" cellspacing="0" cellpadding="0" class="">
+										<tr>
+											<td valign="top">
+											</td>
+										</tr>
+									</table>
+									
+<div id="content">
+								
+								  <!--內容區開始-->
+									      <table width="95%"  summary=排版用表格  border="0" align="center" cellpadding="2" cellspacing="1">
+		<tr valign="top"><td width="100%" align="left"><ul class='inner ulliLineSpacing'>
+  
+				<!----20150128 by Derrick------>
+				<!----<li><a href=Service_index.aspx?CatID=1256 title="行政院農業委員會農糧署及所屬單位預算">行政院農業委員會農糧署及所屬單位預算</a><span class="linkspace">.</span></li>------>
+				<li><a href=Service_index.aspx?CatID=1256 title="行政院農業委員會農糧署及所屬單位預算">行政院農業委員會農糧署及所屬單位預算</a></li>
+				  
+				<!----20150128 by Derrick------>
+				<!----<li><a href=Service_index.aspx?CatID=1261 title="行政院農業委員會農糧署及所屬單位決算">行政院農業委員會農糧署及所屬單位決算</a><span class="linkspace">.</span></li>------>
+				<li><a href=Service_index.aspx?CatID=1261 title="行政院農業委員會農糧署及所屬單位決算">行政院農業委員會農糧署及所屬單位決算</a></li>
+				  
+				<!----20150128 by Derrick------>
+				<!----<li><a href=Service_index.aspx?CatID=1186 title="行政院農業委員會農糧署及所屬會計報告">行政院農業委員會農糧署及所屬會計報告</a><span class="linkspace">.</span></li>------>
+				<li><a href=Service_index.aspx?CatID=1186 title="行政院農業委員會農糧署及所屬會計報告">行政院農業委員會農糧署及所屬會計報告</a></li>
+				</ul></td></tr>
+      </table>
+
+<br>
+<br>
+
+								  <!--內容區結束-->	
+                                   
+								    <div align="center">	<br />
+	<table align="center" summary="*" >
+		<tr>
+			
+			
+			<td abbr="回首頁"><a  tabindex="0" style="cursor:pointer;" onclick="window.open('./index.aspx','_self')" onkeypress="window.open('./index.aspx','_self')" title="回首頁">&nbsp;<img src="images/backHome.gif" alt="回首頁" border="0" /></a></td>
+			<td width="1%" abbr="space">
+			<td abbr="到頁面上方"><a  tabindex="0" style="cursor:pointer;" onclick="window.open('#top','_self')" onkeypress="window.open('#top','_self')" title="到頁面上方">&nbsp;<img src="images/top2.gif" alt="到頁面上方" border="0" /></a></td>
+		</tr>
+	</table>	
+	<NOSCRIPT>
+		<div>您的瀏覽器不支援 Script語法，若要回首頁請按上方行政院農業委員會農糧署</div>
+	</NOSCRIPT>
+</div>											
+								</div>
+								
+							</td>
+							<!--20150109 by Derrick modify-->
+							<!--<td class="contentRight"></td>-->
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-62964727-1', 'auto');
+  ga('require', 'linkid', 'link.js');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript">
+//	確認url是否包含特定字串
+function checkUrlString(str)
+{
+	//alert(window.location.href);
+	if(window.location.href.indexOf(str) > -1) {
+		return true;
+    }else{
+		return false;
+	}
+}
+
+//	取得url參數
+function getParameterByName(name, url) {
+    if (!url) url = window.location.href;
+    name = name.replace(/[\[\]]/g, "\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, " "));
+}
+
+//判斷當前瀏覽裝置是否為手機
+function isMobiles(){
+  var a = navigator.userAgent||navigator.vendor||window.opera;
+  return /(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4));
+}
+//取Cookie
+function getCookie(cname) {
+     var name = cname + "=";
+     var ca = document.cookie.split(';');
+     for(var i=0; i<ca.length; i++) {
+         var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1);
+         if (c.indexOf(name) != -1) return c.substring(name.length,c.length);
+     }
+     return "";
+ } 
+	//預設執行
+	var strDeviceType = getParameterByName('device');
+	
+	var test=getCookie('ckNOMOBILE');
+
+	//如果使用的平台是手機 而且沒有點選"返回電腦版" 那就先導去手機板的站台
+	if( isMobiles() && strDeviceType != 'pc')
+	{
+		if('1' !=getCookie('ckNOMOBILE') )
+		{
+			window.location.replace('http://www.afa.gov.tw/mobile');
+		}
+	}
+
+</script>
+<style>
+	.Parentli {
+		background-image: url('/images/img04.png');
+		background-repeat: no-repeat;
+		list-style: none;
+		background-position-y: 5px;
+		text-align:left;
+	}
+	.Parentli td a{
+		margin-left: 16px;
+	}
+	.Parentli a,#footerInnerTable tbody tr td a,#hideTable tbody tr td a{
+		font-size:15px;
+		color:#64830f;
+		font-family:微軟正黑體;
+		font-weight:bold;
+	}
+	.Childrenli{
+		margin-left:23px;
+		list-style-image: url('/images/img05.jpg');
+		text-align:left;
+	}
+	.Childrenli a,.spanBlackStyle{
+		font-size:12px;
+		color:#333333;
+	}
+	.Childrenli li{
+		border-bottom: 1px dotted #748812;
+	}
+	#ContactInfoTable tbody tr td p{
+		font-size:9pt;
+	}
+	.spanBlueStyle {
+		font-size:11px;
+		color:#00538f;
+		font-family:微軟正黑體;
+	}
+	.spanGreenStyle {
+		font-size:11px;
+		color:#748812;
+		font-family:微軟正黑體;
+	}
+	.tableStyle{
+		width:100%;
+		padding:27px;
+	}
+</style>
+
+</div>
+<div id="footer" style="position: relative;width: 61.875em;margin: 0 auto;">
+<div id="toggleParentDiv" style="height:39px;background-image:url('/images/btn01.png');">
+	<span style="height:35px;width:6.5em;margin-left: 859px;display:block;cursor:pointer" id="toggleDiv"></span>
+</div>
+<div style="text-align: left;background-image:url('/images/img_bg.jpg');background-repeat: no-repeat;">
+<div id="footerDiv" >
+<table cellpadding="0" cellspacing="0" border="0" summary="農糧署下方資訊區排版表格" style="margin: 0 auto;width: 59.25em;">
+
+	<tr>
+		<td id="id-0-0" width="25%">
+			<table class="tableStyle" summary="">
+				<tr>
+					<td id="id-0-1" headers="id-0-0">
+						<ul>
+							<li class="Parentli">
+								<table width="100%" summary="農業訊息及公告">
+									<tr>
+										<td id="id-0-2.1" headers="id-0-0">
+											<span style="display:none">[</span><a href="./menu_news.aspx" title="農業訊息及公告">農業訊息及公告</a><span style="display:none">]</span>
+										</td>
+										<td id="id-0-2.2" style="vertical-align: right;" headers="id-0-0">
+											<div style="float:right;"><a href="./menu_news.aspx" title="農業訊息及公告" style="margin-left:0px">&nbsp;<img src="/images/img07.jpg" alt="農業訊息及公告" ></a></div>
+										</td>
+									</tr>
+								</table>
+							</li>
+							<ul class="Childrenli">
+								<li >
+									<span style="display:none">[</span><a href="agriculture_news.aspx" title="農業新聞">農業新聞</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="notice.aspx" title="公 告">公 告</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="news_index.aspx" title="最新消息及活動">最新消息及活動</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="hr_news.aspx" title="人事異動">人事異動</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="Push_News.aspx" title="推薦文章">推薦文章</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="http://gazette.nat.gov.tw/egFront/index.jsp" title="行政院公報資訊網" target="_blank">行政院公報資訊網</a><span style="display:none">]</span>
+								</li>
+							</ul>
+						</ul>
+							
+					</td>
+				</tr>
+			</table>
+		</td>
+		<td id="id-1-0" width="25%">
+			<table class="tableStyle" summary="">
+				<tr>
+					<td id="id-1-1" headers="id-1-0">
+						<ul>
+							<li class="Parentli">
+								<table width="100%" summary="農糧法規">
+									<tr>
+										<td id="id-1-2.1" headers="id-1-0">
+											<span style="display:none">[</span><a href="./laws_index.aspx" title="農糧法規">農糧法規</a><span style="display:none">]</span>
+										</td>
+										<td id="id-1-2.2" headers="id-1-0" style="vertical-align: right;">
+											<a href="./laws_index.aspx" title="農糧法規" style="float:right;height:15px;">&nbsp;<img src="/images/img07.jpg" alt="農糧法規"></a>
+										</td>
+									</tr>
+								</table>
+							</li>
+							<ul class="Childrenli">
+								<li >
+									<span style="display:none">[</span><a href="./laws_development.aspx" title="最新動態">最新動態</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="./laws_index.aspx?CatID=2" title="法律命令">法律命令</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="./laws_index.aspx?CatID=3" title="行政規則">行政規則</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="./laws_index.aspx?CatID=5" title="法令解釋彙編">法令解釋彙編</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="./laws_index.aspx?CatID=245" title="農業法規之認識">農業法規之認識</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="http://law.moj.gov.tw/" title="全國法規資料庫" target="_blank">全國法規資料庫</a><span style="display:none">]</span>
+								</li>
+							</ul>
+						</ul>
+							
+					</td>
+				</tr>
+			</table>
+		</td>
+		<td id="id-2-0" width="25%">
+			<table class="tableStyle" summary="">
+				<tr>
+					<td id="id-2-1" headers="id-2-0">
+						<ul>
+							<li class="Parentli">
+								<table width="100%" summary="農糧業務資訊">
+									<tr>
+										<td id="id-2-2.1" headers="id-2-0">
+											<span style="display:none">[</span><a href="./peasant_index.aspx" title="農糧業務資訊">農糧業務資訊</a><span style="display:none">]</span>
+										</td>
+										<td id="id-2-2.2" style="vertical-align: right;" headers="id-2-0">
+											<a href="./peasant_index.aspx" title="農糧業務資訊" style="float:right;height:15px;">&nbsp;<img src="/images/img07.jpg" alt="農糧業務資訊" ></a>
+										</td>
+									</tr>
+								</table>
+							</li>
+							<ul class="Childrenli">
+								<li >
+									<span style="display:none">[</span><a href="./peasant_index.aspx?CatID=856" title="農業天然災害救助專區">農業天然災害救助專區</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="./peasant_index.aspx?CatID=1241" title="輔導農業產銷班企業化經營">輔導農業產銷班企業化經營</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="./peasant_index.aspx?CatID=1280" title="小地主大佃農專區">小地主大佃農專區</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="./peasant_index.aspx?CatID=1371" title="稻田多元化利用專區">稻田多元化利用專區</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="./peasant_index.aspx?CatID=24" title="稻米專區">稻米專區</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="./peasant_index.aspx?CatID=1486" title="公糧專區">公糧專區</a><span style="display:none">]</span>
+								</li>
+							</ul>
+						</ul>
+							
+					</td>
+				</tr>
+			</table>
+		</td>
+		<td id="id-3-0" width="25%">
+			<table class="tableStyle" summary="">
+				<tr>
+					<td id="id-3-1" headers="id-3-0">
+						<ul>
+							<li class="Parentli">
+								<table width="100%" summary="農糧統計">
+									<tr>
+										<td id="id-3-2.1" headers="id-3-0">
+											<span style="display:none">[</span><a href="./GrainStatistics_index.aspx" title="農糧統計">農糧統計</a><span style="display:none">]</span>
+										</td>
+										<td id="id-3-2.2" style="vertical-align: right;" headers="id-3-0">
+											<a href="./GrainStatistics_index.aspx" title="農糧統計" style="float:right;height:15px;">&nbsp;<img src="/images/img07.jpg" alt="農糧統計" ></a>
+										</td>
+									</tr>
+								</table>
+							</li>
+							<ul class="Childrenli">
+								<li >
+									<span style="display:none">[</span><a href="http://210.69.71.166/Pxweb2007/Dialog/statfile9L.asp" title="農糧統計資料庫" target="_blank">農糧統計資料庫</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="./GrainStatistics_index.aspx?CatID=2" title="公務統計">公務統計</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="./GrainStatistics_index.aspx?CatID=44" title="農糧統計書刊">農糧統計書刊</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="http://priceinquire.afa.gov.tw/report/" title="糧價及糧商資料查詢系統" target="_blank">糧價及糧商資料查詢系統</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="http://apis.afa.gov.tw/pagepub/AppInquiryPage.aspx" title="農產品產地價格查詢系統" target="_blank">農產品產地價格查詢系統</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="./GrainStatistics_index.aspx?CatID=307" title="農情報導專區">農情報導專區</a><span style="display:none">]</span>
+								</li>
+							</ul>
+						</ul>
+							
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td id="Kaga-0-0" colspan="2">
+			<table class="tableStyle" summary="">
+				<tr>
+					<td id="Kaga-0-1" headers="Kaga-0-0">
+						<ul>
+							<li class="Parentli">
+								<table width="100%" summary="有機農業">
+									<tr>
+										<td id="Kaga-0-2.1" headers="Kaga-0-0">
+											<span style="display:none">[</span><a href="./organicAgriculture.aspx" title="有機農業">有機農業</a><span style="display:none">]</span>
+										</td>
+										<td id="Kaga-0-2.2" style="vertical-align: right;" headers="Kaga-0-0">
+											<a href="./organicAgriculture.aspx" title="有機農業" style="float:right;height:15px;">&nbsp;<img src="/images/img07.jpg" alt="有機農業"></a>
+										</td>
+									</tr>
+								</table>
+							</li>
+							<ul class="Childrenli">
+								<li >
+									<span style="display:none">[</span><a href="./organicAgriculture.aspx?CatID=3" title="有機農業相關法規">有機農業相關法規</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="http://info.organic.org.tw/supergood/front/bin/home.phtml" title="有機農業全球資訊網" target="_blank">有機農業全球資訊網</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="./organicAgriculture.aspx?CatID=244" title="國內有機農產品驗證機構及收費標準">國內有機農產品驗證機構及收費標準</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="./organicAgriculture.aspx?CatID=235" title="國內有機農產品、農產加工品驗證合格生產業者名冊">國內有機農產品、農產加工品驗證合格生產業者名冊</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="./organicAgriculture.aspx?CatID=237" title="進口有機農產品、農產加工品之管理">進口有機農產品、農產加工品之管理</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="./saftyAgriculture_index.aspx?CatID=151" title="有機農糧作物「臺灣良好農業規範(TGAP)」">有機農糧作物「臺灣良好農業規範(TGAP)」</a><span style="display:none">]</span>
+								</li>
+							</ul>
+						</ul>
+							
+					</td>
+				</tr>
+			</table>
+		</td>
+		<td id="Kaga-1-0" colspan="2" style="vertical-align:top">
+			<table class="tableStyle" summary="">
+				<tr>
+					<td id="Kaga-1-1" headers="Kaga-1-0">
+						<ul>
+							<li class="Parentli">
+								<table width="100%" summary="活化農地專區">
+									<tr>
+										<td id="Kaga-1-2.1" headers="Kaga-1-0">
+											<span style="display:none">[</span><a href="./ActFallowLand.aspx" title="活化農地專區">活化農地專區</a><span style="display:none">]</span>
+										</td>
+										<td id="Kaga-1-2.2" style="vertical-align: right;" headers="Kaga-1-0">
+											<a href="./ActFallowLand.aspx" title="活化農地專區" style="float:right;height:15px;">&nbsp;<img src="/images/img07.jpg" alt="活化農地專區"></a>
+										</td>
+									</tr>
+								</table>
+							</li>
+							<ul class="Childrenli">
+								<li >
+									<span style="display:none">[</span><a href="./ActFallowLand.aspx?CatID=2" title="「調整耕作制度活化農地中程（102~105年）計畫」說明資料">「調整耕作制度活化農地中程（102~105年）計畫」說明資料</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="./ActFallowLand.aspx?CatID=49" title="農機代耕服務聯繫窗口及各縣市代耕網站連結" target="_blank">農機代耕服務聯繫窗口及各縣市代耕網站連結</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="./ActFallowLand.aspx?CatID=9" title="相關規範">相關規範</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="./ActFallowLand.aspx?CatID=96" title="104年「調整耕作制度活化農地計畫」內容重點">104年「調整耕作制度活化農地計畫」內容重點</a><span style="display:none">]</span>
+								</li>
+							</ul>
+						</ul>
+							
+					</td>
+				</tr>
+			</table>
+		</td>
+		
+	</tr>
+	<tr>
+		<td id="Miid-0-0" colspan="2">
+			<table class="tableStyle" summary="">
+				<tr>
+					<td id="Miid-0-1" headers="Miid-0-0">
+						<ul>
+							<li class="Parentli">
+								<table width="100%" summary="安全農業">
+									<tr>
+										<td id="Miid-0-2.1" headers="Miid-0-0">
+											<span style="display:none">[</span><a href="./saftyAgriculture_index.aspx" title="安全農業">安全農業</a><span style="display:none">]</span>
+										</td>
+										<td id="Miid-0-2.2" style="vertical-align: right;" headers="Miid-0-0">
+											<a href="./saftyAgriculture_index.aspx" title="安全農業" style="float:right;height:15px;">&nbsp;<img src="/images/img07.jpg" alt="安全農業"></a>
+										</td>
+									</tr>
+								</table>
+							</li>
+							<ul class="Childrenli">
+								<li >
+									<span style="display:none">[</span><a href="./saftyAgriculture_index.aspx?CatID=14" title="吉園圃安全蔬果">吉園圃安全蔬果</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="./saftyAgriculture_index.aspx?CatID=296" title="農作物農藥殘留監測結果">農作物農藥殘留監測結果</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="./saftyAgriculture_index.aspx?CatID=151" title="有機農糧作物「臺灣良好農業規範(TGAP)」">有機農糧作物「臺灣良好農業規範(TGAP)」</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><span class="spanBlackStyle">稻米之TGAP作業相關圖表</span>
+										<a onclick="LogDownloadTime('saftyAgriculture','55','3390','118.163.209.137')" onkeypress="LogDownloadTime('saftyAgriculture','55','3390','118.163.209.137')" href='/Public/saftyAgriculture/20113151537587055.doc' target='_blank' title="稻米之TGAP作業相關圖表(檔案-將會另開視窗)" >
+										<img border=0 src=images/icon_word.png alt='WORD格式檔案' align=middle>.</a><font title="導盲用，超連結分隔" style="display:none">|</font><span class='linkspace'></span><a onclick="LogDownloadTime('saftyAgriculture','55','3390','118.163.209.137')" onkeypress="LogDownloadTime('saftyAgriculture','55','3390','118.163.209.137')" href='/Public/saftyAgriculture/2011315154037055.pdf' target='_blank' title="稻米之TGAP作業相關圖表(檔案-將會另開視窗)"><img border=0 src=images/icon_pdf.png alt='PDF格式檔案' align=middle>&nbsp</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="./saftyAgriculture_index.aspx?CatID=114" title="蔬菜類之「臺灣良好農業規範(TGAP)」">蔬菜類之「臺灣良好農業規範(TGAP)」</a><span style="display:none">]</span>
+								</li>
+								<li>
+									<span style="display:none">[</span><a href="./saftyAgriculture_index.aspx?CatID=56" title="果樹類之「臺灣良好農業規範(TGAP)」">果樹類之「臺灣良好農業規範(TGAP)」</a><span style="display:none">]</span>
+								</li>
+							</ul>
+						</ul>
+							
+					</td>
+				</tr>
+			</table>	
+		</td>
+		<td colspan="2" style="vertical-align:top">
+			<table class="tableStyle" id="footerInnerTable" summary="">
+				<tr>
+					<td>	
+						<span style="display:none">[</span><a href="./aboutus.aspx" title="認識本署">認識本署</a><span style="display:none">]</span>
+					</td>
+					<td>	
+						<span style="display:none">[</span><a href="./FoodSafetyEducation.aspx" title="糧食安全教育專區">糧食安全教育專區</a><span style="display:none">]</span>
+					</td>
+				</tr>
+				<tr>
+					<td>	
+						<span style="display:none">[</span><a href="./menu_branch.aspx" title="四區分署">四區分署</a><span style="display:none">]</span>
+					</td>
+					<td>	
+						<span style="display:none">[</span><a href="./publish_list.aspx" title="出版品">出版品</a><span style="display:none">]</span>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<span style="display:none">[</span><a href="./Policy_Index.aspx" title="重大政策">重大政策</a><span style="display:none">]</span>
+					</td>
+					<td>	
+						<span style="display:none">[</span><a href="./service_index.aspx" title="為民服務">為民服務</a><span style="display:none">]</span>
+					</td>
+				</tr>
+				<tr>
+					<td>	
+						<span style="display:none">[</span><a href="./tenclassic_index.aspx" title="十大經典專區">十大經典專區</a><span style="display:none">]</span>
+					</td>
+					<td>	
+						<span style="display:none">[</span><a href="./GovEthics.aspx" title="廉政資訊專區">廉政資訊專區</a><span style="display:none">]</span>
+					</td>
+				</tr>
+				<tr>
+					<td>	
+						<span style="display:none">[</span><a href="./TrainLoan_index.aspx" title="農業訓練表揚及貸款">農業訓練表揚及貸款</a><span style="display:none">]</span>
+					</td>
+					<td>
+						<span style="display:none">[</span><a href="./download_index.aspx" title="下載專區">下載專區</a><span style="display:none">]</span>
+					</td>
+				</tr>
+				<tr>
+					<td>	
+						<span style="display:none">[</span><a href="./public_index.aspx" title="農糧產品消費資訊">農糧產品消費資訊</a><span style="display:none">]</span>
+					</td>
+					<td>	
+						<span style="display:none">[</span><a href="./weblink.aspx" title="相關網站連結">相關網站連結</a><span style="display:none">]</span>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+</div>
+<div>
+				<table summary="" style="position: relative;width: 61.875em;margin: 0 auto;padding-left: 79px;padding-right: 77px;" id="hideTable" class="tableStyle">
+					<tbody>	
+						<tr>
+							<td id="id" style="width:18%">
+								<span style="display:none">[</span><a href="./menu_news.aspx" title="農業訊息及公告">農業訊息及公告</a><span style="display:none">]</span>
+							</td>
+							<td id="id" style="width:10%">
+								<span style="display:none">[</span><a href="./laws_index.aspx" title="農糧法規">農糧法規</a><span style="display:none">]</span>
+							</td>
+							<td id="id" style="width:14%">
+								<span style="display:none">[</span><a href="./peasant_index.aspx" title="農糧業務資訊">農糧業務資訊</a><span style="display:none">]</span>
+							</td>
+							<td id="id" style="width:14%">
+								<span style="display:none">[</span><a href="./GrainStatistics_index.aspx" title="農糧統計">農糧統計</a><span style="display:none">]</span>
+							</td>
+							<td id="id" style="width:20%">
+								<span style="display:none">[</span><a href="./organicAgriculture.aspx" title="有機農業">有機農業</a><span style="display:none">]</span>
+							</td>
+							<td id="id" style="width:16%">
+								<span style="display:none">[</span><a href="./ActFallowLand.aspx" title="活化農地專區">活化農地專區</a><span style="display:none">]</span>
+							</td>
+							<td id="id" headers="id">
+								<span style="display:none">[</span><a href="./saftyAgriculture_index.aspx" title="安全農業">安全農業</a><span style="display:none">]</span>
+							</td>
+						</tr>
+						<tr>
+							<td id="id" headers="id">
+								<span style="display:none">[</span><a href="./aboutus.aspx" title="認識本署">認識本署</a><span style="display:none">]</span>
+							</td>
+							<td id="id" headers="id">
+								<span style="display:none">[</span><a href="./menu_branch.aspx" title="四區分署">四區分署</a><span style="display:none">]</span>
+							</td>
+							<td id="id" headers="id">
+								<span style="display:none">[</span><a href="./Policy_Index.aspx" title="重大政策">重大政策</a><span style="display:none">]</span>
+							</td>
+							<td id="id" headers="id">
+								<span style="display:none">[</span><a href="./tenclassic_index.aspx" title="十大經典專區">十大經典專區</a><span style="display:none">]</span>
+							</td>
+							<td id="id" headers="id">
+								<span style="display:none">[</span><a href="./TrainLoan_index.aspx" title="農業訓練表揚及貸款">農業訓練表揚及貸款</a><span style="display:none">]</span>
+							</td>
+							<td id="id" colspan="2" headers="id">
+								<span style="display:none">[</span><a href="./public_index.aspx" title="農糧產品消費資訊">農糧產品消費資訊</a><span style="display:none">]</span>
+							</td>
+						</tr>
+						<tr>
+							<td id="id" headers="id">
+								<span style="display:none">[</span><a href="./FoodSafetyEducation.aspx" title="糧食安全教育專區">糧食安全教育專區</a><span style="display:none">]</span>
+							</td>
+							<td id="id" headers="id">
+								<span style="display:none">[</span><a href="./publish_list.aspx" title="出版品">出版品</a><span style="display:none">]</span>
+							</td>
+							<td id="id" headers="id">
+								<span style="display:none">[</span><a href="./service_index.aspx" title="為民服務">為民服務</a><span style="display:none">]</span>
+							</td>
+							<td id="id"  headers="id">
+								<span style="display:none">[</span><a href="./GovEthics.aspx" title="廉政資訊專區">廉政資訊專區</a><span style="display:none">]</span>
+							</td>
+							<td id="id"  headers="id">
+								<span style="display:none">[</span><a href="./download_index.aspx" title="下載專區">下載專區</a><span style="display:none">]</span>
+							</td>
+							<td id="id" colspan="2" headers="id">
+								<span style="display:none">[</span><a href="./weblink.aspx" title="相關網站連結">相關網站連結</a><span style="display:none">]</span>
+							</td>
+						</tr>
+					</tbody>		
+				</table>
+				<table style="position: relative;width: 61.875em;margin: 0 auto;" summary="">
+					<tbody>	
+						<tr>
+							<td id="id" colspan="3">
+								<table summary="" width="88%" id="ContactInfoTable" style="margin-left:58px;background-image:url('/images/footer_bg.png');background-repeat: no-repeat;height:160px">
+									<tr>
+										<td id="id-1-1" headers="id" style="width: 51%;">
+											
+											<p style="margin-left:35px">
+												國產雜糧原料服務專線:049-2341118
+												<br />進口有機農產品專線<span class="spanBlueStyle">＜<a href="./organicAgriculture.aspx?CatID=780" title="進口有機農產品諮詢專線"><font class="spanBlueStyle">諮詢窗口一覽表</font>&nbsp</a>＞</span>
+												<br />吉園圃服務專線:049-2341077&nbsp;&nbsp;傳真:049-2359784&nbsp;&nbsp;
+												<br />農產品走私檢舉專線:0800-054300
+												<br />大蒜諮詢專線:049-2341064&nbsp;&nbsp;
+												<br />中興辦公區:54044南投縣南投市光華路8號&nbsp;&nbsp;TEL:049-2332380
+												<br />台北辦公區:10050台北市杭州南路1段15號&nbsp;&nbsp;TEL:02-23937231				
+									</p>
+										</td>
+										<td id="id-1-2" headers="id" style="vertical-align:top">	
+											
+											<p>
+												若對本署業務有問題請洽<span class="spanBlueStyle">＜<a href="./aboutus.aspx?CatID=19" title="業務聯繫電話表"><font class="spanBlueStyle">業務聯繫電話表</font>&nbsp</a>＞</span>
+												<br />服務時間:早上8:30~12:30晚上13:30~17:30
+												<br />
+												<spen class="spanGreenStyle">[<a href="./SafeInfo.aspx" title="隱私權及網站安全政策">&nbsp<font class="spanGreenStyle">隱私權及網站安全政策</font>&nbsp</a>]<span class="linkspace">.</span></span>
+												|&nbsp;<spen class="spanGreenStyle">[<a href="./GovernmentWebsiteInfo.aspx" title="政府網站資料開放宣告">&nbsp<font class="spanGreenStyle">政府網站資料開放宣告</font>&nbsp</a>]<span class="linkspace">.</span></span>
+												|&nbsp;<spen class="spanGreenStyle">[<a href="./map.aspx" title="本署位置圖">&nbsp<font class="spanGreenStyle">本署位置圖</font>&nbsp</a>]<span class="linkspace">.</span></span>
+												|
+												<br />
+												<spen class="spanGreenStyle">[<a href="./FarmPicture.aspx" title="桌布下載">&nbsp<font class="spanGreenStyle">桌布下載</font>&nbsp</a>]<span class="linkspace">.</span></span>
+												|&nbsp;<spen class="spanGreenStyle">[<a href="./calendar.aspx" title="月行事曆">&nbsp<font class="spanGreenStyle">月行事曆</font>&nbsp</a>]<span class="linkspace">.</span></span>
+											</p>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td width="53%">
+								
+								<p class="txt02" style="margin-left:61px">
+									版權所有:行政院農業委員會農糧署<br/>本網站建議使用IE 5.5版以上或Firefox 2.0.0.0版以上之瀏覽器，最佳瀏覽解析度為1024x768<br/>訪客人次：4,454,150<br/>
+								</p>
+							</td>
+							<td style="vertical-align:middle;" width="1%">	
+								<span class="linkspace">[</span>
+									<a href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20060811171250" title="通過AAA優先等級無障礙網頁檢測">
+										<img src="images/00/accessibility.jpg" alt="通過AAA優先等級無障礙網頁檢測" class="FR MR10px MT15px" />&nbsp
+									</a>
+								<span class="linkspace">|</span>
+							</td>
+							<td width="1%">
+								<span class="linkspace">[</span>
+									<a href="http://www.gov.tw/" title="e政府">
+										<img src="images/00/eGov.jpg" alt="e政府" class="FR MR20px MT10px" style="margin-right:65px"/>&nbsp
+									</a>
+								<span class="linkspace">]</span>
+							</td>						
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+</div>
+<script type="text/javascript">
+	$(function() { 
+		var ActH = $("#ActListContent").height();
+		var ActR = $("#ActRightContent").height()+10;
+		//alert(ActH);
+		//alert(ActR);
+		if(ActH < ActR)
+			$("#ActContent").height(ActR);
+		else
+			$("#ActContent").height(ActH + 200);
+			
+		
+		$(".ShowStyle1 table").each(function () {
+			var tbor = $(this).attr("border");
+			if(tbor != "0" && tbor != undefined)
+			{
+				$(this).addClass("TablebStyle");	
+			}
+		 });
+		 
+		 //判斷FOOTER是展開還是收合
+		if(''==''||''=='SHOW')
+		 {
+			$("#toggleParentDiv").css("background-image","url(/images/btn01.png)");
+			$("#footerDiv").show();
+			$("#hideTable").hide();
+		 }
+		 else
+		 {
+			$("#toggleParentDiv").css("background-image","url(/images/btn02.png)");
+			$("#footerDiv").hide();
+			$("#hideTable").show();
+		 }
+		 
+		 $("#toggleDiv").click(function(){
+			$("#footerDiv").toggle();
+			if($("#footerDiv").is(":visible"))
+			{	
+				SetSessionAjax('show');
+				$("#hideTable").hide();
+				$("#toggleParentDiv").css("background-image","url(/images/btn01.png)");
+			}
+			else
+			{
+				SetSessionAjax('hide');
+				$("#hideTable").show();
+				$("#toggleParentDiv").css("background-image","url(/images/btn02.png)");
+			}
+		 });
+	});
+	
+	function SetSessionAjax(isVisible)
+	{
+		var xmlhttp;
+		if (window.XMLHttpRequest)
+		{// code for IE7+, Firefox, Chrome, Opera, Safari
+		xmlhttp=new XMLHttpRequest();
+		}
+		else
+		{// code for IE6, IE5
+		xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+		}
+		xmlhttp.onreadystatechange=function()
+		{
+			if (xmlhttp.readyState==4 && xmlhttp.status==200)
+			{
+				
+			}
+		}
+		xmlhttp.open("GET","SetSessionAjax.aspx?q="+isVisible,true);
+		xmlhttp.send();
+	}
+</script>
+<!--[if IE]>
+<script type='text/javascript'> 
+ii = document.getElementById('content'); 
+if (content.clientHeight <= 800) ii.style.height = "800px"; 
+</script> 
+<![endif]-->
+</body>
+</html>

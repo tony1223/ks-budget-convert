@@ -15,7 +15,7 @@ var processCSV = function(err,body){
   var p = new Promise(function(ok,fail){
     var outputs = [];
     var out = {
-      case_name:"高雄市地方總預算",
+      case_name:"中央總預算",
       name:"歲出機關別預算表",
       year:2017,
       subjects:[]
@@ -64,10 +64,19 @@ var processCSV = function(err,body){
         var last_subject_number = null;
         var last_subject = null;
 
+        var last_cat = null;
+        var last2 = null;
 
         output.forEach(function(o){
           for(var i = 0 ; i < o.length ; ++i){
             o[i]= o[i].trim(); //避免後面寫一堆 trim
+          }
+
+          if(o[0] =="" && o[1] =="" && o[2]=="" && o[3] ==""){
+            if(o[4]!="名稱及編號"){
+              last_cat = o[4].split("\n")[1].trim();
+            }
+            return true;
           }
 
 
@@ -77,26 +86,31 @@ var processCSV = function(err,body){
             last_sections[2] = null;
             last_sections[3] = null;
           }
+          
           if(/^[0-9]+$/.test(o[1])){ //有項
             last_sections[1] = parseInt(o[1],10);
             last_sections[2] = null;
             last_sections[3] = null;
           }
+
           if(/^[0-9]+$/.test(o[2])){ //有目
             last_sections[2] = parseInt(o[2],10);
             last_sections[3] = null;
           }
+
           if(/^[0-9]+$/.test(o[3])){ //有節
             last_sections[3] = parseInt(o[3],10);
           }
 
-          if(/^.+/.test(o[4]) && o[4].indexOf("名　稱　及　編　號")==-1 && o[4] !="合計"){ //科目代碼 get //last subject_end
+          if(/^.+/.test(o[4]) && o[4].indexOf("名稱及編號")==-1 && o[4] !="合計"){ //科目代碼 get //last subject_end
             if(last_subject != null && last_subject.section0 != 0){
-              last_subject.comment = last_subject.comment.join("");
+              last_subject.comment = last_subject.comment.join("").replace(/\n/g,"");
               out.subjects.push(last_subject);
               // console.log("push subject",out);
             }
             last_subject_number = o[4].split("\n")[0].trim();
+            last2 = last_subject;
+
             last_subject = {
               section0:null,
               section1:null,
@@ -107,18 +121,30 @@ var processCSV = function(err,body){
               name:null,
               year_this:null,
               year_last:null,
+              category:last_cat,
               year_compare_last:null,
               comment:[]
             };
           }
 
-          if(o[4] != "" && o[4].indexOf("名　稱　及　編　號")==-1 && o[4] !="合計"){ //有金額 // 假設有金額＝第四格一定是中文科目
+          if(o[4] != "" && o[4].indexOf("名稱及編號")==-1 && o[4] !="合計"){ //有金額 // 假設有金額＝第四格一定是中文科目
             //這格很重要、把能填的填一填
 
             last_subject.section0 = last_sections[0];
             last_subject.section1 = last_sections[1];
             last_subject.section2 = last_sections[2];
             last_subject.section3 = last_sections[3];
+
+            if(last_subject && last2 && last2.section3 == null 
+                && last2.section2 != null 
+                && last2.section2 != last_subject.section2){
+              var obj = {};
+              for(var k in last2){
+                obj[k] = last2[k];
+              }
+              obj.section3 = 0 ;
+              out.subjects.push(obj);
+            }
 
             var tmpSections = [];
             for(var si = 0 ; si < last_sections.length;++si){
@@ -133,7 +159,7 @@ var processCSV = function(err,body){
             last_subject.year_this = $money(o[5]) * 1000;
             last_subject.year_last = $money(o[6]) * 1000;
             last_subject.year_compare_last = $money(o[7]) * 1000;
-            last_subject.comment.push(o[8]);
+            last_subject.comment.push(o[8].replace(/[\n\r] +/g,"").trim());
             // console.log(last_subject);
           }
 
@@ -142,7 +168,7 @@ var processCSV = function(err,body){
         });
         if(out.year != null){ //not a empty out
           if(last_subject != null && last_subject.section0 != 0){
-            last_subject.comment = last_subject.comment.join("");
+            last_subject.comment = last_subject.comment.join("").replace(/\n/g,"");;
             out.subjects.push(last_subject);
           }
           outputs.push(out);

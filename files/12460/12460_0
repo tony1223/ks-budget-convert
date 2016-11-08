@@ -1,0 +1,2035 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="zh-TW" lang="zh-TW" xmlns:user="urn:user-namespace-here" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:hyweb="urn:gip-hyweb-com" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>地方行政研習中心全球網-預算及決算書-105年度單位預算案(excel.word檔)</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="DC.Title" content="104年法定預算(excel.word檔)">
+<meta name="DC.Subject" content="104年法定預算(excel.word檔)">
+<meta name="DC.Creator" content="陳春萍">
+<meta name="DC.Description" content="">
+<meta name="DC.Publisher" content="主計室">
+<meta name="DC.Contributor" content="">
+<meta name="DC.Date" content="2015-03-16 00:00:00.0">
+<meta name="DC.Type" content="文字">
+<meta name="DC.Format" content="文字">
+<meta name="DC.Identifier" content="">
+<meta name="DC.Relation" content="">
+<meta name="DC.Source" content="">
+<meta name="DC.Language" content="">
+<meta name="DC.Coverage" content="">
+<meta name="DC.Rights" content="">
+<meta name="Category.Theme" content="">
+<meta name="Category.Cake" content="">
+<meta name="Category.Service" content="">
+<link rel="stylesheet" type="text/css" href="styles/RAD_C_style_A/css/design.css">
+<link rel="stylesheet" type="text/css" href="styles/RAD_C_style_A/css/tabpanel1_class.css">
+<link rel="stylesheet" type="text/css" media="print" href="styles/RAD_C_style_A/css/print.css">
+<link rel="stylesheet" type="text/css" href="styles/RAD_C_style_A/js/jquery-ui/css/ui-lightness/jquery-ui-1.10.3.custom.min.css">
+<link rel="stylesheet" type="text/css" href="styles/RAD_C_style_A/css/tab.css">
+<script type="text/javascript" src="styles/RAD_C_style_A/js/multimenu.js"></script><script type="text/javascript" src="styles/RAD_C_style_A/js/globals.js"></script><script type="text/javascript" src="styles/RAD_C_style_A/js/tabpanel1_class.js"></script><script type="text/javascript" src="styles/RAD_C_style_A/js/widgets_class.js"></script><script type="text/javascript" src="styles/RAD_C_style_A/js/jquery-latest.min.js"></script><script type="text/javascript" src="styles/RAD_C_style_A/js/jquery-ui/jquery-ui-1.10.3.custom.js"></script><script type="text/javascript" src="styles/RAD_C_style_A/js/jquery-ui/jquery.ui.datepicker-zh-TW.js"></script><script type="text/javascript" src="styles/RAD_C_style_A/js/tab.js"></script><script type="text/javascript" src="styles/RAD_C_style_A/js/jquery.blockUI.js"></script>
+				
+				<script type='text/javascript'>
+				        $(function(){
+				            // 先取得必要的元素並用 jQuery 包裝
+				            // 再來取得 $slides 的高度及設定動畫時間
+				            var $block = $('.adLoop'),
+				                $slides = $('.player ul.adPlayList', $block),
+				                _height = $slides.find('li').height(),
+				                _width = $slides.find('li').width(),
+				                $li = $('li', $slides),
+				                _animateSpeed = 600, 
+				                timer, _speed = 3000;
+				         
+				            var _str = '';
+				            for(var i=0, j=$li.length;i<j;i++){
+				                _str += '<li class="playerControl_' + (i+1) + '">' + (i+1) + '</li>';
+				            }
+				         
+				            var $controlLi = $('<ul class="playerControl"></ul>').html(_str).appendTo($block).find('li');
+				            $controlLi.mouseover(function(){
+				                clearTimeout(timer);
+				         
+				                var $this = $(this);
+				                $this.addClass('current').siblings('.current').removeClass('current');
+				                $slides.stop().animate({
+				                    
+									left:_width * $this.index()* -1
+								    //top: _height * $this.index() * -1
+				                }, _animateSpeed, function(){
+				                    if(!_isOver) timer = setTimeout(moveNext, _speed);
+				                });
+				         
+				                return false;
+				            }).eq(0).mouseover();
+				         
+				            var _isOver = false;
+				            $block.mouseenter(function(){
+				                clearTimeout(timer);
+				                _isOver = true;
+				            }).mouseleave(function(){
+				                _isOver = false;
+				                timer = setTimeout(moveNext, _speed);
+				            });
+				         
+				            function moveNext(){
+				                var _now = $controlLi.filter('.current').index();
+				                $controlLi.eq((_now+1) % $controlLi.length).mouseover();
+				            }
+				        });
+				</script>				
+				<!--  jQuery library banner start-->
+				<script type="text/javascript">
+				
+				function mycarousel_initCallback(carousel)
+				{
+				    // Disable autoscrolling if the user clicks the prev or next button.
+				    carousel.buttonNext.bind('click', function() {
+				        carousel.startAuto(1);
+				    });
+				
+				    carousel.buttonPrev.bind('click', function() {
+				        carousel.startAuto(1);
+				    });
+				
+				    // Pause autoscrolling if the user moves with the cursor over the clip.
+				    carousel.clip.hover(function() {
+				        carousel.stopAuto();
+				    }, function() {
+				        carousel.startAuto();
+				    });
+				};
+				
+				</script>
+				<!--  jQuery library banner end-->  
+				        
+				<!--  jQuery library menu start-->  
+				<script type="text/javascript">
+				<!--
+				function MM_preloadImages() { //v3.0
+				  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+				    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+				    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+				}
+				function MM_swapImgRestore() { //v3.0
+				  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+				}
+				
+				function MM_swapImage() { //v3.0
+				  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+				   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+				}
+				//-->
+				</script>    
+				<!--  jQuery library menu end-->  
+												
+			</head>
+<body>
+<div class="wrap">
+<div id="zone.head" class="top">
+<div class="accesskey">
+<a href="#" accesskey="U" title="上方導覽區塊">:::</a>
+</div>
+<div class="header">
+<h1>
+<a title="地方行政研習中心logo" href="mp?mp=rad"><img src="public/LayoutDesign/1389624553285.png" alt="地方行政研習中心logo" title="地方行政研習中心logo"></a>
+</h1>
+<div class="nav"><ul>
+    <li><a href="sitemap?mp=rad">網站地圖</a></li>
+    <li><a href="mp?mp=en" target="_blank">English</a></li> 
+    <li><a href="np?ctNode=339&mp=rad">實體訓練專區</a></li>  
+	<li><a target="_blank" href="http://elearning.rad.gov.tw/wwwmusic/intro.html" target="_blank">e學中心</a></li>
+    <li><a href="ct?xItem=51443&ctNode=508&mp=rad">雙語辭彙</a></li>
+    <li><a href="mp?mp=rad">回首頁</a></li>
+</ul></div>
+<div class="search"><script>
+  (function() {
+    var cx = '014281536780470937543:siag7pxnnim';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search></div>
+<div class="link">
+<ul>
+<li>
+<a target="_blank" href="ct?xItem=51607&ctNode=542&mp=rad" title="進階搜尋說明"><img width="17" height="17" title="進階搜尋說明" alt="進階搜尋說明" src="public/Data/blueQuestionMark02.jpg"></a>
+</li>
+<li>
+<a target="_blank" href="https://www.facebook.com/rad.gov.tw"><img src="images/facebook.png" alt="Facebook" title="Facebook"></a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UC5eRm-qhEp55RZB2ZokBLlg?ctNode=617&idPath=235_241"><img src="images/youtube.png" alt="youtube" title="youtube"></a>
+</li>
+</ul>
+</div>
+<div class="user"><ul>
+	<li><a href="ct?xItem=51314&ctNode=492&mp=rad" class="here">講座入口</a></li>
+	<li><a href="ct?xItem=51315&ctNode=492&mp=rad">受訓學員入口</a></li>
+	<li><a href="ct?xItem=51316&ctNode=492&mp=rad">調訓機關主辦人入口</a></li>
+	<li><a href="ct?xItem=51317&ctNode=492&mp=rad">本中心同仁入口</a></li>
+</ul></div>
+</div>
+<script type="text/javascript">
+			// added by Ca 20150324 : for google search to be added accesskey="S" on sitemap page
+			jQuery(document).ready(function() {
+				var timer = setInterval(function () {
+			        if (jQuery('#gsc-i-id1').length) {
+			            clearInterval(timer);
+						jQuery('#gsc-i-id1').attr('accessKey','S');
+			        }
+			    }, 200);
+			});
+		</script>
+<div class="mlmenu menubg inaccesible">
+<ul>
+<li>
+<a href="np?ctNode=238&mp=rad&idPath=235_238" title="機關介紹">機關介紹</a>
+<ul>
+<li>
+<a href="np?ctNode=247&mp=rad&idPath=235_238_247" title="機關首長">機關首長</a>
+</li>
+<li>
+<a href="lp?ctNode=248&mp=rad&idPath=235_238_248" title="機關簡介">機關簡介</a>
+</li>
+<li>
+<a href="np?ctNode=249&mp=rad&idPath=235_238_249" title="中心logo">中心logo</a>
+</li>
+<li>
+<a href="lp?ctNode=250&mp=rad&idPath=235_238_250" title="歷史沿革">歷史沿革</a>
+</li>
+<li>
+<a href="np?ctNode=251&mp=rad&idPath=235_238_251" title="園區配置及設施">園區配置及設施</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=239&mp=rad&idPath=235_239" title="訓練資訊">訓練資訊</a>
+<ul>
+<li>
+<a href="http://training.rad.gov.tw/aps/plan/index?ctNode=252&idPath=235_239_252" title="年度訓練計畫, 另開新視窗." target="_blank">年度訓練計畫</a>
+</li>
+<li>
+<a href="http://www.rad.gov.tw/wSite/mp?mp=gr&ctNode=722&idPath=235_239_722" title="地方治理研究中心, 另開新視窗." target="_blank">地方治理研究中心</a>
+</li>
+<li>
+<a href="http://www.rad.gov.tw/wSite/np?ctNode=625&mp=rad#gsc.tab=0&ctNode=723&idPath=235_239_723" title="詠晴園專區, 另開新視窗." target="_blank">詠晴園專區</a>
+</li>
+<li>
+<a href="http://elearning.rad.gov.tw/wwwmusic/intro.html?ctNode=253&idPath=235_239_253" title="地方行政研習e學中心, 另開新視窗." target="_blank">地方行政研習e學中心</a>
+</li>
+<li>
+<a href="np?ctNode=763&mp=rad&idPath=235_239_763" title="迎曦園環境教育">迎曦園環境教育</a>
+<ul>
+<li>
+<a href="lp?ctNode=764&mp=rad&idPath=235_239_763_764" title="園區介紹">園區介紹</a>
+</li>
+<li>
+<a href="lp?ctNode=765&mp=rad&idPath=235_239_763_765" title="公告訊息">公告訊息</a>
+</li>
+<li>
+<a href="lp?ctNode=766&mp=rad&idPath=235_239_763_766" title="開設班期">開設班期</a>
+</li>
+<li>
+<a href="lp?ctNode=767&mp=rad&idPath=235_239_763_767" title="活動花絮">活動花絮</a>
+</li>
+<li>
+<a href="lp?ctNode=768&mp=rad&idPath=235_239_763_768" title="影音專區">影音專區</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=1097&mp=rad&idPath=235_239_1097" title="教材教法研究室">教材教法研究室</a>
+<ul>
+<li>
+<a href="np?ctNode=1117&mp=rad&idPath=235_239_1097_1117" title="研究室介紹">研究室介紹</a>
+</li>
+<li>
+<a href="lp?ctNode=1103&mp=rad&idPath=235_239_1097_1103" title="教學方法展示">教學方法展示</a>
+</li>
+<li>
+<a href="lp?ctNode=1105&mp=rad&idPath=235_239_1097_1105" title="研發教材展示">研發教材展示</a>
+</li>
+<li>
+<a href="lp?ctNode=1107&mp=rad&idPath=235_239_1097_1107" title="研究室影音專區">研究室影音專區</a>
+</li>
+<li>
+<a href="lp?ctNode=1111&mp=rad&idPath=235_239_1097_1111" title="師資庫">師資庫</a>
+</li>
+<li>
+<a href="lp?ctNode=1113&mp=rad&idPath=235_239_1097_1113" title="最新消息">最新消息</a>
+</li>
+<li>
+<a href="np?ctNode=1115&mp=rad&idPath=235_239_1097_1115" title="聯絡我們">聯絡我們</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=254&mp=rad&idPath=235_239_254" title="代訓收費標準">代訓收費標準</a>
+</li>
+<li>
+<a href="np?ctNode=505&mp=rad&idPath=235_239_505" title="訓練成果">訓練成果</a>
+<ul>
+<li>
+<a href="lp?ctNode=743&mp=rad&idPath=235_239_505_743" title="各年度訓練成果報告">各年度訓練成果報告</a>
+</li>
+<li>
+<a href="lp?ctNode=506&mp=rad&idPath=235_239_505_506" title="訓練執行情形">訓練執行情形</a>
+</li>
+<li>
+<a href="http://www.rad.gov.tw/wSite/np?ctNode=650&mp=gr&idPath=644_650&ctNode=744&idPath=235_239_505_744" title="地方治理研究成果">地方治理研究成果</a>
+</li>
+<li>
+<a href="lp?ctNode=507&mp=rad&idPath=235_239_505_507" title="學員活動花絮">學員活動花絮</a>
+</li>
+<li>
+<a href="lp?ctNode=745&mp=rad&idPath=235_239_505_745" title="影音活動花絮">影音活動花絮</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=371&mp=rad&idPath=235_239_371" title="訓練發展運行圖">訓練發展運行圖</a>
+</li>
+<li>
+<a href="http://training.rad.gov.tw/aps/research/sub5?ctNode=724&idPath=235_239_724" title="課程及講座查詢, 另開新視窗." target="_blank">課程及講座查詢</a>
+</li>
+<li>
+<a href="http://training.rad.gov.tw/aps/process/WeekClasses?ctNode=357&idPath=&ctNode=725&idPath=235_239_725" title="近三週在訓班次(課表)">近三週在訓班次(課表)</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=241&mp=rad&idPath=235_241" title="服務園地">服務園地</a>
+<ul>
+<li>
+<a href="np?ctNode=615&mp=rad&idPath=235_241_615" title="互動服務">互動服務</a>
+<ul>
+<li>
+<a href="lp?ctNode=616&mp=rad&idPath=235_241_615_616" title="菁英社群網, 另開新視窗." target="_blank">菁英社群網</a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UC5eRm-qhEp55RZB2ZokBLlg?ctNode=617&idPath=235_241&ctNode=617&idPath=235_241_615_617" title="youtube頻道, 另開新視窗." target="_blank">youtube頻道</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="lp?ctNode=269&mp=rad&idPath=235_241_269" title="場地服務與收費">場地服務與收費</a>
+</li>
+<li>
+<a href="lp?ctNode=638&mp=rad&idPath=235_241_638" title="報到/住宿">報到/住宿</a>
+</li>
+<li>
+<a href="np?ctNode=325&mp=rad&idPath=235_241_325" title="交通指南">交通指南</a>
+<ul>
+<li>
+<a href="ct?xItem=51064&ctNode=321&mp=rad&previewToken=853f7d22fb12169dc9f3d8c273ec0203&ctNode=839&idPath=235_241_325_839" title="學員車輛停放須知">學員車輛停放須知</a>
+</li>
+<li>
+<a href="np?ctNode=326&mp=rad&idPath=235_241_325_326" title="相關位置指引圖">相關位置指引圖</a>
+</li>
+<li>
+<a href="np?ctNode=327&mp=rad&idPath=235_241_325_327" title="自行開車指引">自行開車指引</a>
+</li>
+<li>
+<a href="lp?ctNode=329&mp=rad&idPath=235_241_325_329" title="搭公車指引">搭公車指引</a>
+</li>
+<li>
+<a href="np?ctNode=330&mp=rad&idPath=235_241_325_330" title="地圖＆地理位置">地圖＆地理位置</a>
+</li>
+<li>
+<a href="lp?ctNode=331&mp=rad&idPath=235_241_325_331" title="交通相關資訊">交通相關資訊</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="lp?ctNode=272&mp=rad&idPath=235_241_272" title="為民服務">為民服務</a>
+</li>
+<li>
+<a href="np?ctNode=265&mp=rad&idPath=235_241_265" title="圖書資訊服務">圖書資訊服務</a>
+</li>
+<li>
+<a href="lp?ctNode=266&mp=rad&idPath=235_241_266" title="研習中心周邊休憩">研習中心周邊休憩</a>
+</li>
+<li>
+<a href="http://www.cwb.gov.tw/V7/forecast/taiwan/Nantou_County.htm?ctNode=267&idPath=235_241_267" title="一周天氣狀況, 另開新視窗." target="_blank">一周天氣狀況</a>
+</li>
+<li>
+<a href="lp?ctNode=268&mp=rad&idPath=235_241_268" title="旅遊相關網站">旅遊相關網站</a>
+</li>
+<li>
+<a href="lp?ctNode=273&mp=rad&idPath=235_241_273" title="FAQ">FAQ</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=242&mp=rad&idPath=235_242" title="學習資源">學習資源</a>
+<ul>
+<li>
+<a href="np?ctNode=1215&mp=rad&idPath=235_242_1215" title="熠星方案">熠星方案</a>
+<ul>
+<li>
+<a href="np?ctNode=1217&mp=rad&idPath=235_242_1215_1217" title="方案介紹">方案介紹</a>
+</li>
+<li>
+<a href="np?ctNode=1219&mp=rad&idPath=235_242_1215_1219" title="實施要項">實施要項</a>
+</li>
+<li>
+<a href="np?ctNode=1221&mp=rad&idPath=235_242_1215_1221" title="合作簽約縣市地圖">合作簽約縣市地圖</a>
+</li>
+<li>
+<a href="lp?ctNode=1223&mp=rad&idPath=235_242_1215_1223" title="歷年執行機關及主題">歷年執行機關及主題</a>
+</li>
+<li>
+<a href="lp?ctNode=1225&mp=rad&idPath=235_242_1215_1225" title="歷年活動照片">歷年活動照片</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=752&mp=rad&idPath=235_242_752" title="標竿論壇">標竿論壇</a>
+<ul>
+<li>
+<a href="lp?ctNode=754&mp=rad&idPath=235_242_752_754" title="101年辦理情形">101年辦理情形</a>
+</li>
+<li>
+<a href="lp?ctNode=755&mp=rad&idPath=235_242_752_755" title="102年辦理情形">102年辦理情形</a>
+</li>
+<li>
+<a href="lp?ctNode=756&mp=rad&idPath=235_242_752_756" title="103年辦理情形">103年辦理情形</a>
+</li>
+<li>
+<a href="lp?ctNode=1073&mp=rad&idPath=235_242_752_1073" title="104年辦理情形, 另開新視窗." target="_blank">104年辦理情形</a>
+</li>
+<li>
+<a href="lp?ctNode=1161&mp=rad&idPath=235_242_752_1161" title="105年辦理情形">105年辦理情形</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=753&mp=rad&idPath=235_242_753" title="策略聯盟">策略聯盟</a>
+<ul>
+<li>
+<a href="lp?ctNode=757&mp=rad&idPath=235_242_753_757" title="策略聯盟單位">策略聯盟單位</a>
+</li>
+<li>
+<a href="lp?ctNode=758&mp=rad&idPath=235_242_753_758" title="策略聯盟同盟會">策略聯盟同盟會</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=274&mp=rad&idPath=235_242_274" title="圖書室">圖書室</a>
+<ul>
+<li>
+<a href="np?ctNode=275&mp=rad&idPath=235_242_274_275" title="圖書室簡介">圖書室簡介</a>
+</li>
+<li>
+<a href="lp?ctNode=276&mp=rad&idPath=235_242_274_276" title="典藏資源">典藏資源</a>
+</li>
+<li>
+<a href="lp?ctNode=277&mp=rad&idPath=235_242_274_277" title="讀者服務">讀者服務</a>
+</li>
+<li>
+<a href="ct?xItem=50351&ctNode=277&mp=rad&ctNode=279&idPath=235_242_274_279" title="館際合作">館際合作</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://elearning.rad.gov.tw/fet/home/epubs/15250077?ctNode=280&idPath=235_242_280" title="研習論壇月刊, 另開新視窗." target="_blank">研習論壇月刊</a>
+</li>
+<li>
+<a href="lp?ctNode=281&mp=rad&idPath=235_242_281" title="本中心出版品">本中心出版品</a>
+</li>
+<li>
+<a href="np?ctNode=747&mp=rad&idPath=235_242_747" title="知識分享">知識分享</a>
+<ul>
+<li>
+<a href="http://report.nat.gov.tw/ReportFront/index.jspx?ctNode=748&idPath=235_242_747_748" title="公務出國報告, 另開新視窗." target="_blank">公務出國報告</a>
+</li>
+<li>
+<a href="np?ctNode=650&mp=gr&ctNode=749&idPath=235_242_747_749" title="地方治理專題研究, 另開新視窗." target="_blank">地方治理專題研究</a>
+</li>
+<li>
+<a href="lp?ctNode=750&mp=rad&idPath=235_242_747_750" title="研究報告">研究報告</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="lp?ctNode=284&mp=rad&idPath=235_242_284" title="網路教學園地">網路教學園地</a>
+</li>
+<li>
+<a href="np?ctNode=285&mp=rad&idPath=235_242_285" title="線上讀書會">線上讀書會</a>
+<ul>
+<li>
+<a href="np?ctNode=286&mp=rad&idPath=235_242_285_286" title="閱讀學習時數認證要點">閱讀學習時數認證要點</a>
+</li>
+<li>
+<a href="http://elearning.rad.gov.tw/fet/home/articles/4?ctNode=287&idPath=235_242_285_287" title="好書介紹, 另開新視窗." target="_blank">好書介紹</a>
+</li>
+<li>
+<a href="lp?ctNode=288&mp=rad&idPath=235_242_285_288" title="電影讀書會">電影讀書會</a>
+</li>
+<li>
+<a href="lp?ctNode=289&mp=rad&idPath=235_242_285_289" title="指定刊物">指定刊物</a>
+</li>
+<li>
+<a href="sp?xdUrl=/wSite/BooksLearned/LearnedFm.jsp&mp=rad&ctNode=290&idPath=235_242_285_290" title="心得撰寫">心得撰寫</a>
+</li>
+<li>
+<a href="lp?ctNode=291&mp=rad&idPath=235_242_285_291" title="作品欣賞">作品欣賞</a>
+</li>
+<li>
+<a href="lp?ctNode=292&mp=rad&idPath=235_242_285_292" title="感人小故事">感人小故事</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=525&mp=rad&idPath=235_525" title="影音專區">影音專區</a>
+<ul>
+<li>
+<a href="lp?ctNode=527&mp=rad&idPath=235_525_527" title="中心介紹, 另開新視窗." target="_blank">中心介紹</a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UC5eRm-qhEp55RZB2ZokBLlg?ctNode=617&idPath=235_241&ctNode=985&idPath=235_525_985" title="youtube頻道, 另開新視窗." target="_blank">youtube頻道</a>
+</li>
+<li>
+<a href="np?ctNode=987&mp=rad&idPath=235_525_987" title="線上直播專區">線上直播專區</a>
+</li>
+<li>
+<a href="lp?ctNode=528&mp=rad&idPath=235_525_528" title="宣導短片">宣導短片</a>
+</li>
+<li>
+<a href="lp?ctNode=526&mp=rad&idPath=235_525_526" title="影音活動花絮">影音活動花絮</a>
+</li>
+<li>
+<a href="lp?ctNode=746&mp=rad&idPath=235_525_746" title="照片活動花絮">照片活動花絮</a>
+</li>
+<li>
+<a href="lp?ctNode=623&mp=rad&idPath=235_525_623" title="詠晴園影音專區">詠晴園影音專區</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=244&mp=rad&idPath=235_244" title="聯絡我們">聯絡我們</a>
+<ul>
+<li>
+<a href="sp?xdUrl=/wSite/CommentMail/MasterMailForm.jsp&mp=rad&icuitem=50911&ctNode=296&idPath=235_244_296" title="主任信箱">主任信箱</a>
+</li>
+<li>
+<a href="sp?xdUrl=/wSite/CommentMail/ServiceMailForm.jsp&mp=rad&icuitem=50912&ctNode=297&idPath=235_244_297" title="服務信箱">服務信箱</a>
+</li>
+<li>
+<a href="np?ctNode=298&mp=rad&idPath=235_244_298" title="各單位業務聯繫">各單位業務聯繫</a>
+</li>
+<li>
+<a href="https://docs.google.com/forms/d/1MlEcaNrKckqbAjMZy29NYt8ohcVCJjUeyvrFMswehPc/viewform?ctNode=1083&idPath=235_244_1083" title="滿意度問卷, 另開新視窗." target="_blank">滿意度問卷</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=243&mp=rad&idPath=235_243" title="相關網站">相關網站</a>
+<ul>
+<li>
+<a href="lp?ctNode=294&mp=rad&idPath=235_243_294" title="訓練機構">訓練機構</a>
+</li>
+<li>
+<a href="lp?ctNode=295&mp=rad&idPath=235_243_295" title="其他">其他</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=246&mp=rad&idPath=235_246" title="公告資訊">公告資訊</a>
+<ul>
+<li>
+<a href="lp?ctNode=302&mp=rad&idPath=235_246_302" title="最新消息">最新消息</a>
+</li>
+<li>
+<a href="np?ctNode=303&mp=rad&idPath=235_246_303" title="政府資訊公開">政府資訊公開</a>
+<ul>
+<li>
+<a href="http://law.dgpa.gov.tw/LawCategoryContentList.aspx?id=012&ctNode=304&idPath=235_246_303_304" title="法規, 另開新視窗." target="_blank">法規</a>
+</li>
+<li>
+<a href="http://gazette.nat.gov.tw/egFront/index.jsp?ctNode=305&idPath=235_246_303_305" title="行政院公報資訊, 另開新視窗." target="_blank">行政院公報資訊</a>
+</li>
+<li>
+<a href="lp?ctNode=324&mp=rad&idPath=235_246_303_324" title="施政計畫">施政計畫</a>
+</li>
+<li>
+<a href="lp?ctNode=309&mp=rad&idPath=235_246_303_309" title="研究報告">研究報告</a>
+</li>
+<li>
+<a href="lp?ctNode=310&mp=rad&idPath=235_246_303_310" title="出國報告">出國報告</a>
+</li>
+<li>
+<a href="lp?ctNode=311&mp=rad&idPath=235_246_303_311" title="預算及決算書">預算及決算書</a>
+</li>
+<li>
+<a href="lp?ctNode=511&mp=rad&idPath=235_246_303_511" title="會計報告">會計報告</a>
+</li>
+<li>
+<a href="np?ctNode=313&mp=rad&idPath=235_246_303_313" title="書面公共工程及採購契約">書面公共工程及採購契約</a>
+</li>
+<li>
+<a href="lp?ctNode=1007&mp=rad&idPath=235_246_303_1007" title="政策宣導廣告預算執行情形">政策宣導廣告預算執行情形</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="lp?ctNode=316&mp=rad&idPath=235_246_316" title="招標資訊">招標資訊</a>
+</li>
+<li>
+<a href="np?ctNode=334&mp=rad&idPath=235_246_334" title="重大政策">重大政策</a>
+<ul>
+<li>
+<a href="http://www.ey.gov.tw/News4.aspx?n=66BE2F0CBBB92DA1&sms=2CDAF47973362429&ctNode=336&idPath=235_246_334_336" title="行政院重大政策, 另開新視窗." target="_blank">行政院重大政策</a>
+</li>
+<li>
+<a href="http://www.dgpa.gov.tw?ctNode=532&idPath=235_246_334_532" title="人事總處政策與計畫, 另開新視窗." target="_blank">人事總處政策與計畫</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="ct?xItem=50252&ctNode=313&ctNode=317&mp=rad&idPath=235_246_317" title="政府採購網">政府採購網</a>
+</li>
+<li>
+<a href="lp?ctNode=522&mp=rad&idPath=235_246_522" title="政府文宣推廣">政府文宣推廣</a>
+</li>
+<li>
+<a href="lp?ctNode=799&mp=rad&idPath=235_246_799" title="個人資料保護">個人資料保護</a>
+</li>
+<li>
+<a href="np?ctNode=1045&mp=rad&idPath=235_246_1045" title="我的E政府">我的E政府</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="lp?ctNode=509&mp=rad&idPath=235_509" title="下載專區">下載專區</a>
+</li>
+<li>
+<a href="np?ctNode=1279&mp=rad&idPath=235_1279" title="園區導覽專區">園區導覽專區</a>
+<ul>
+<li>
+<a href="lp?ctNode=1287&mp=rad&idPath=235_1279_1287" title="迎曦園">迎曦園</a>
+</li>
+<li>
+<a href="lp?ctNode=1281&mp=rad&idPath=235_1279_1281" title="詠晴園">詠晴園</a>
+</li>
+<li>
+<a href="lp?ctNode=1285&mp=rad&idPath=235_1279_1285" title="生態池">生態池</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<a onfocus="mlout();" href="javascript:"></a>
+<noscript>TAB標籤效果，如不執行不影響您資料瀏覽</noscript><!--button 開始-->
+<div class="button" style="z-index: 1">
+<h2><span>學員服務專區</span></h2>
+<div class="body">
+<ul>
+    <li class="a_button"><a href="sp?xdUrl=/wSite/planner/chooseArticles.jsp&ctUnit=187&mp=rad&ctNode=494"><img title="實體課程報名流程" alt="實體課程報名流程" src="images/service.png" /></a></li>
+    <li class="b_button"><a href="sp?xdUrl=/wSite/planner/chooseArticles.jsp&ctUnit=188&mp=rad&ctNode=495"><img title="報到/住宿" alt="報到/住宿" src="images/service.png" /></a></li>
+    <li class="c_button"><a href="sp?xdUrl=/wSite/planner/chooseArticles.jsp&ctUnit=226&mp=rad&ctNode=496"><img title="交通/停車" alt="交通/停車" src="images/service.png" /></a>&nbsp;</li>
+    <li class="d_button"><a href="sp?xdUrl=/wSite/planner/chooseArticles.jsp&ctUnit=226&mp=rad&ctNode=496#gsc.tab=0"><img title="周邊景點" alt="周邊景點" src="images/service.png" /></a></li>
+    <li class="e_button"><a href="sp?xdUrl=/wSite/planner/chooseArticles.jsp&ctUnit=weather&mp=rad&ctNode=498"><img title="天氣狀況" alt="天氣狀況" src="images/service.png" /></a></li>
+    <li class="f_button"><a href="sp?xdUrl=/wSite/planner/chooseArticles.jsp&ctUnit=227&mp=rad&ctNode=499"><img title="作息/餐點" alt="作息/餐點" src="images/service.png" /></a></li>
+</ul>
+</div>
+</div></div>
+<table class="layout" summary="layout table">
+<tr>
+<td class="leftbg">
+<div class="side">
+<div id="zone.SideBarLeft"></div>
+</div>
+</td><td class="center">
+<div class="accesskey">
+<a href="#" accesskey="C" title="中央內容區塊">:::</a>
+</div>
+<div id="zone.content">
+<div class="friendly">
+<div class="path">
+<span class="before">現在位置</span>：<a href="mp?mp=rad" title="首頁">首頁</a>
+				>
+				<a href="np?ctNode=246&mp=rad" title="公告資訊">公告資訊</a>
+				>
+				<a href="np?ctNode=303&mp=rad" title="政府資訊公開">政府資訊公開</a>
+				>
+				<a href="np?ctNode=311&mp=rad" title="預算及決算書">預算及決算書</a>
+</div>
+<div class="function">
+<ul>
+<li>
+<a href="javascript:history.back();" class="back" title="回上一頁">回上一頁</a>
+<noscript>當script無法執行時可按"alt + &larr;"鍵替代</noscript>
+</li>
+</ul>
+</div>
+</div>
+<div class="cp">
+<h2>
+<span>預算及決算書</span>
+</h2>
+<ul class="push">
+<li>
+<a target="_blank" href="http://www.facebook.com/share.php?u=http://www.rad.gov.tw//wSite/ct?mp=rad%26xItem=54475%26ctNode=311"><img alt="facebook , 另開新視窗." title="facebook , 另開新視窗." src="styles/RAD_C_style_A/images/facebook32.png"></a>
+</li>
+<li>
+<a target="_blank" href="http://twitter.com/home/?status=http://www.rad.gov.tw//wSite/ct?mp=rad%26xItem=54475%26ctNode=311"><img alt="twitter+ , 另開新視窗." title="twitter+ , 另開新視窗." src="styles/RAD_C_style_A/images/twitter.png"></a>
+</li>
+<li>
+<a target="_blank" href="https://plus.google.com/share?url=http://www.rad.gov.tw//wSite/ct?mp=rad%26xItem=54475%26ctNode=311"><img alt="google+ , 另開新視窗." title="google+ , 另開新視窗." src="styles/RAD_C_style_A/images/google_Plus.png"></a>
+</li>
+<li>
+<a target="_blank" href="sp?xdUrl=/wSite/Forward/Forward.jsp?xItem=54475&ctNode=311&mp=rad"><img title="轉寄友人, 另開新視窗." alt="轉寄友人, 另開新視窗." src="styles/RAD_C_style_A/images/mail.png"></a>
+</li>
+<li>
+<a target="_blank" href="fp?xItem=54475&ctNode=311&mp=rad"><img title="友善列印, 另開新視窗." alt="友善列印, 另開新視窗." src="styles/RAD_C_style_A/images/print.png"></a>
+</li>
+</ul>
+<h3>105年度單位預算案(excel.word檔)</h3>
+<ul class="webFun">
+<li class="clickFun">點閱：<em>717</em>
+</li>
+</ul>
+<ul class="info">
+<li>資料來源：<span>主計室</span>
+</li>
+<li>張貼日期：<span>2015/03/16</span>
+</li>
+<li>更新日期：<span>2015/09/10</span>
+</li>
+</ul>
+<p></p>
+<div class="download">
+<h3>附件下載</h3>
+<ul>
+<li>
+<a target="_blank" href="public/Attachment/f1439532949782.zip" title="104年法定預算 (檔案名稱及格式: f1439532949782.zip)
+					">104年法定預算<img align="absmiddle" src="images/icon_dl.gif" alt="zip檔案下載, 另開新視窗."></a>
+<br>
+<span class="date">(檔案大小：2015.0KB、更新日期：2015/08/14、檔案下載：22次)</span>
+</li>
+</ul>
+</div>
+<script type="text/javascript">
+			//window.addEvent('domready', function(){
+			var tabpanel1 = new TabPanel("tabpanel_1");
+			widgets.add(tabpanel1);
+			//});
+		</script>
+<noscript>TAB標籤效果，如不執行不影響您資料瀏覽</noscript>
+<div id="container">
+<div id="tabpanel_1" class="tabpanel">
+<ul id="tablist_1" class="axs tablist"></ul>
+</div>
+</div>
+</div>
+<div class="quickLink">
+<ul>
+<li>
+<a href="#top" class="gotop" title="回頁首">回頁首</a>
+</li>
+<li>
+<a href="javascript:history.back();" class="back" title="回上一頁">回上一頁</a>
+<noscript>當script無法執行時可按"alt + &larr;"鍵替代</noscript>
+</li>
+<li style="display:none;">lp.xsl:,cp.xsl:</li>
+</ul>
+</div>
+</div>
+</td><td class="hidden"></td>
+</tr>
+</table>
+<div id="zone.footer"><div class="ad">
+<ul>
+	<li><a href="http://elearning.rad.gov.tw/" target="_blank"><img alt="e學中心" src="public/Data/ad02.jpg" title="e學中心" /></a></li>
+	<li><a href="http://lgrc.rad.gov.tw" target="_blank"><img alt="地方治理研究中心" src="public/Data/ad03.jpg" title="地方治理研究中心" /></a></li>
+	<li><a href="lp?ctNode=269&mp=rad&idPath=235_241_269"><img alt="場地租借服務" src="public/Data/ad04.jpg" title="場地租借服務" /></a></li>
+	<li><a href="np?ctNode=625&mp=rad&ctNode=723&idPath=235_239"><img alt="詠晴交流網" src="public/Data/ad08(2).jpg" title="詠晴交流網" /></a></li>
+	<li><a href="http://www.dgpa.gov.tw" style="color: rgb(7,130,193)"><img alt="" src="public/Data/images%20(3)(2).jpg" style="cursor:default; height:67px; width:161px" /></a></li>
+	<li><a href="http://www.taiwanjobs.gov.tw/Internet/index/index.aspx" target="_blank"><img alt="就業資訊" src="public/Data/ad07.jpg" title="就業資訊" /></a></li>
+</ul>
+</div><div class="footer">
+<div class="footer">
+<script type="text/javascript">
+				$(function(){
+					// 幫 div.qa_title 加上 hover 及 click 事件
+					// 同時把兄弟元素 div.qa_content 隱藏起來
+					$('div.sildeCtrl').click(function(){
+						// 當點到標題時，若答案是隱藏時則顯示它；反之則隱藏
+						$('.footer>nav>ul>li>ul').slideToggle(function(){
+							if($(this).is(':visible')){	$('.sildeCtrl span').contents().replaceWith('收合');}
+							else{$('.sildeCtrl span').contents().replaceWith('展開');}
+						});
+						$(this).toggleClass('close');
+					});
+				});
+			</script>
+<nav>
+<ul>
+<li>
+<a href="np?ctNode=238&mp=rad&idPath=235_238" title="機關介紹">機關介紹</a>
+<ul>
+<li>
+<a href="np?ctNode=247&mp=rad&idPath=235_238_247" title="機關首長">機關首長</a>
+</li>
+<li>
+<a href="lp?ctNode=248&mp=rad&idPath=235_238_248" title="機關簡介">機關簡介</a>
+</li>
+<li>
+<a href="np?ctNode=249&mp=rad&idPath=235_238_249" title="中心logo">中心logo</a>
+</li>
+<li>
+<a href="lp?ctNode=250&mp=rad&idPath=235_238_250" title="歷史沿革">歷史沿革</a>
+</li>
+<li>
+<a href="np?ctNode=251&mp=rad&idPath=235_238_251" title="園區配置及設施">園區配置及設施</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=239&mp=rad&idPath=235_239" title="訓練資訊">訓練資訊</a>
+<ul>
+<li>
+<a href="http://training.rad.gov.tw/aps/plan/index?ctNode=252&idPath=235_239_252" title="年度訓練計畫, 另開新視窗." target="_blank">年度訓練計畫</a>
+</li>
+<li>
+<a href="http://www.rad.gov.tw/wSite/mp?mp=gr&ctNode=722&idPath=235_239_722" title="地方治理研究中心, 另開新視窗." target="_blank">地方治理研究中心</a>
+</li>
+<li>
+<a href="http://www.rad.gov.tw/wSite/np?ctNode=625&mp=rad#gsc.tab=0&ctNode=723&idPath=235_239_723" title="詠晴園專區, 另開新視窗." target="_blank">詠晴園專區</a>
+</li>
+<li>
+<a href="http://elearning.rad.gov.tw/wwwmusic/intro.html?ctNode=253&idPath=235_239_253" title="地方行政研習e學中心, 另開新視窗." target="_blank">地方行政研習e學中心</a>
+</li>
+<li>
+<a href="np?ctNode=763&mp=rad&idPath=235_239_763" title="迎曦園環境教育">迎曦園環境教育</a>
+</li>
+<li>
+<a href="np?ctNode=1097&mp=rad&idPath=235_239_1097" title="教材教法研究室">教材教法研究室</a>
+</li>
+<li>
+<a href="np?ctNode=254&mp=rad&idPath=235_239_254" title="代訓收費標準">代訓收費標準</a>
+</li>
+<li>
+<a href="np?ctNode=505&mp=rad&idPath=235_239_505" title="訓練成果">訓練成果</a>
+</li>
+<li>
+<a href="np?ctNode=371&mp=rad&idPath=235_239_371" title="訓練發展運行圖">訓練發展運行圖</a>
+</li>
+<li>
+<a href="http://training.rad.gov.tw/aps/research/sub5?ctNode=724&idPath=235_239_724" title="課程及講座查詢, 另開新視窗." target="_blank">課程及講座查詢</a>
+</li>
+<li>
+<a href="http://training.rad.gov.tw/aps/process/WeekClasses?ctNode=357&idPath=&ctNode=725&idPath=235_239_725" title="近三週在訓班次(課表)">近三週在訓班次(課表)</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=241&mp=rad&idPath=235_241" title="服務園地">服務園地</a>
+<ul>
+<li>
+<a href="np?ctNode=615&mp=rad&idPath=235_241_615" title="互動服務">互動服務</a>
+</li>
+<li>
+<a href="lp?ctNode=269&mp=rad&idPath=235_241_269" title="場地服務與收費">場地服務與收費</a>
+</li>
+<li>
+<a href="lp?ctNode=638&mp=rad&idPath=235_241_638" title="報到/住宿">報到/住宿</a>
+</li>
+<li>
+<a href="np?ctNode=325&mp=rad&idPath=235_241_325" title="交通指南">交通指南</a>
+</li>
+<li>
+<a href="lp?ctNode=272&mp=rad&idPath=235_241_272" title="為民服務">為民服務</a>
+</li>
+<li>
+<a href="np?ctNode=265&mp=rad&idPath=235_241_265" title="圖書資訊服務">圖書資訊服務</a>
+</li>
+<li>
+<a href="lp?ctNode=266&mp=rad&idPath=235_241_266" title="研習中心周邊休憩">研習中心周邊休憩</a>
+</li>
+<li>
+<a href="http://www.cwb.gov.tw/V7/forecast/taiwan/Nantou_County.htm?ctNode=267&idPath=235_241_267" title="一周天氣狀況, 另開新視窗." target="_blank">一周天氣狀況</a>
+</li>
+<li>
+<a href="lp?ctNode=268&mp=rad&idPath=235_241_268" title="旅遊相關網站">旅遊相關網站</a>
+</li>
+<li>
+<a href="lp?ctNode=273&mp=rad&idPath=235_241_273" title="FAQ">FAQ</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=242&mp=rad&idPath=235_242" title="學習資源">學習資源</a>
+<ul>
+<li>
+<a href="np?ctNode=1215&mp=rad&idPath=235_242_1215" title="熠星方案">熠星方案</a>
+</li>
+<li>
+<a href="np?ctNode=752&mp=rad&idPath=235_242_752" title="標竿論壇">標竿論壇</a>
+</li>
+<li>
+<a href="np?ctNode=753&mp=rad&idPath=235_242_753" title="策略聯盟">策略聯盟</a>
+</li>
+<li>
+<a href="np?ctNode=274&mp=rad&idPath=235_242_274" title="圖書室">圖書室</a>
+</li>
+<li>
+<a href="http://elearning.rad.gov.tw/fet/home/epubs/15250077?ctNode=280&idPath=235_242_280" title="研習論壇月刊, 另開新視窗." target="_blank">研習論壇月刊</a>
+</li>
+<li>
+<a href="lp?ctNode=281&mp=rad&idPath=235_242_281" title="本中心出版品">本中心出版品</a>
+</li>
+<li>
+<a href="np?ctNode=747&mp=rad&idPath=235_242_747" title="知識分享">知識分享</a>
+</li>
+<li>
+<a href="lp?ctNode=284&mp=rad&idPath=235_242_284" title="網路教學園地">網路教學園地</a>
+</li>
+<li>
+<a href="np?ctNode=285&mp=rad&idPath=235_242_285" title="線上讀書會">線上讀書會</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=525&mp=rad&idPath=235_525" title="影音專區">影音專區</a>
+<ul>
+<li>
+<a href="lp?ctNode=527&mp=rad&idPath=235_525_527" title="中心介紹, 另開新視窗." target="_blank">中心介紹</a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UC5eRm-qhEp55RZB2ZokBLlg?ctNode=617&idPath=235_241&ctNode=985&idPath=235_525_985" title="youtube頻道, 另開新視窗." target="_blank">youtube頻道</a>
+</li>
+<li>
+<a href="np?ctNode=987&mp=rad&idPath=235_525_987" title="線上直播專區">線上直播專區</a>
+</li>
+<li>
+<a href="lp?ctNode=528&mp=rad&idPath=235_525_528" title="宣導短片">宣導短片</a>
+</li>
+<li>
+<a href="lp?ctNode=526&mp=rad&idPath=235_525_526" title="影音活動花絮">影音活動花絮</a>
+</li>
+<li>
+<a href="lp?ctNode=746&mp=rad&idPath=235_525_746" title="照片活動花絮">照片活動花絮</a>
+</li>
+<li>
+<a href="lp?ctNode=623&mp=rad&idPath=235_525_623" title="詠晴園影音專區">詠晴園影音專區</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=244&mp=rad&idPath=235_244" title="聯絡我們">聯絡我們</a>
+<ul>
+<li>
+<a href="sp?xdUrl=/wSite/CommentMail/MasterMailForm.jsp&mp=rad&icuitem=50911&ctNode=296&idPath=235_244_296" title="主任信箱">主任信箱</a>
+</li>
+<li>
+<a href="sp?xdUrl=/wSite/CommentMail/ServiceMailForm.jsp&mp=rad&icuitem=50912&ctNode=297&idPath=235_244_297" title="服務信箱">服務信箱</a>
+</li>
+<li>
+<a href="np?ctNode=298&mp=rad&idPath=235_244_298" title="各單位業務聯繫">各單位業務聯繫</a>
+</li>
+<li>
+<a href="https://docs.google.com/forms/d/1MlEcaNrKckqbAjMZy29NYt8ohcVCJjUeyvrFMswehPc/viewform?ctNode=1083&idPath=235_244_1083" title="滿意度問卷, 另開新視窗." target="_blank">滿意度問卷</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=243&mp=rad&idPath=235_243" title="相關網站">相關網站</a>
+<ul>
+<li>
+<a href="lp?ctNode=294&mp=rad&idPath=235_243_294" title="訓練機構">訓練機構</a>
+</li>
+<li>
+<a href="lp?ctNode=295&mp=rad&idPath=235_243_295" title="其他">其他</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=246&mp=rad&idPath=235_246" title="公告資訊">公告資訊</a>
+<ul>
+<li>
+<a href="lp?ctNode=302&mp=rad&idPath=235_246_302" title="最新消息">最新消息</a>
+</li>
+<li>
+<a href="np?ctNode=303&mp=rad&idPath=235_246_303" title="政府資訊公開">政府資訊公開</a>
+</li>
+<li>
+<a href="lp?ctNode=316&mp=rad&idPath=235_246_316" title="招標資訊">招標資訊</a>
+</li>
+<li>
+<a href="np?ctNode=334&mp=rad&idPath=235_246_334" title="重大政策">重大政策</a>
+</li>
+<li>
+<a href="ct?xItem=50252&ctNode=313&ctNode=317&mp=rad&idPath=235_246_317" title="政府採購網">政府採購網</a>
+</li>
+<li>
+<a href="lp?ctNode=522&mp=rad&idPath=235_246_522" title="政府文宣推廣">政府文宣推廣</a>
+</li>
+<li>
+<a href="lp?ctNode=799&mp=rad&idPath=235_246_799" title="個人資料保護">個人資料保護</a>
+</li>
+<li>
+<a href="np?ctNode=1045&mp=rad&idPath=235_246_1045" title="我的E政府">我的E政府</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="lp?ctNode=509&mp=rad&idPath=235_509" title="下載專區">下載專區</a>
+</li>
+<li>
+<a href="np?ctNode=1279&mp=rad&idPath=235_1279" title="園區導覽專區">園區導覽專區</a>
+<ul>
+<li>
+<a href="lp?ctNode=1287&mp=rad&idPath=235_1279_1287" title="迎曦園">迎曦園</a>
+</li>
+<li>
+<a href="lp?ctNode=1281&mp=rad&idPath=235_1279_1281" title="詠晴園">詠晴園</a>
+</li>
+<li>
+<a href="lp?ctNode=1285&mp=rad&idPath=235_1279_1285" title="生態池">生態池</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+<div class="sildeCtrl">
+<span>收合</span>
+</div>
+</div>
+<div class="footer">
+<div class="aaa">
+<a target="_blank" href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20151105172847" title="通過A+等級無障礙網頁檢測, 另開新視窗."><img src="images/aplus.jpg" alt="通過A+等級無障礙網頁檢測, 另開新視窗." title="通過A+等級無障礙網頁檢測, 另開新視窗."></a>
+</div>
+<div class="copyright"></div>
+<p><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-49249649-1', 'rad.gov.tw');
+  ga('send', 'pageview');
+
+</script>
+<div class="logo"><img src="public/Data/footer_logo.png" alt="行政院人事行政總處 地方行政研習中心" title="行政院人事行政總處 地方行政研習中心"></div>
+<p>
+行政院人事行政總處 地方行政研習中心　　E-mail : <a href="sp?xdUrl=/wSite/CommentMail/ServiceMailForm.jsp&mp=rad&icuitem=50912&ctNode=297&idPath=235_244_297#gsc.tab=0">message@email.rad.gov.tw</a>
+　<a target="_blank" href="https://docs.google.com/forms/d/1MlEcaNrKckqbAjMZy29NYt8ohcVCJjUeyvrFMswehPc/viewform">滿意度調查</a><br>
+Tel:049-2332131　　Fax:049-2339030　　地址：540南投市光明路1號 <a target="_blank" href="https://maps.google.com.tw/maps?q=%E5%8D%97%E6%8A%95%E7%B8%A3%E5%8D%97%E6%8A%95%E5%B8%82%E5%85%89%E6%98%8E%E8%B7%AF1%E8%99%9F&hl=zh-TW&ie=UTF8&sll=24.220103,120.955874&sspn=0.782743,1.344452&oq=%E5%8D%97%E6%8A%95%E5%B8%82%E5%85%89%E6%98%8E%E8%B7%AF1%E8%99%9F&brcurrent=3,0x346931912439ed39:0x6300e6fd5812b10b,0,0x3468d6aa1a5d49ad:0x1348fba95f17f6da&hnear=540%E5%8D%97%E6%8A%95%E7%B8%A3%E5%8D%97%E6%8A%95%E5%B8%82%E5%85%89%E6%98%8E%E8%B7%AF1%E8%99%9F&t=m&z=16" title="(地圖)">(地圖)</a><br>
+建議瀏覽器IE8以上、Chrome、Firefox｜建議瀏覽解析度為1024 x 768 ｜<a href="ct?xItem=51373&ctNode=504&mp=rad" title="資訊安全政策">資訊安全政策</a>｜
+<a href="ct?xItem=51374&ctNode=504&mp=rad" title="隱私權宣告">隱私權宣告</a></p>
+
+<!-- 之前的無障礙驗證連結 http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20141211111634 --></p>
+<div class="egov">
+<a target="_blank" href="http://www.gov.tw" title="我的e政府"><img src="images/egov.gif" alt="我的e政府" title="我的e政府"></a>
+</div>
+<div class="visitor2">今日瀏覽人次：<em>212</em>
+</div>
+<div class="visitor">總瀏覽人次：<em>13737536</em>
+</div>
+<div class="update">更新日期：<em>2016年11月04日</em>
+</div>
+</div>
+</div>
+</div>
+</div>
+<noscript>TAB標籤效果，如不執行不影響您資料瀏覽</noscript>
+</body>
+</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="zh-TW" lang="zh-TW" xmlns:user="urn:user-namespace-here" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:hyweb="urn:gip-hyweb-com" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>地方行政研習中心全球網-預算及決算書</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="styles/RAD_C_style_A/css/design.css">
+<link rel="stylesheet" type="text/css" href="styles/RAD_C_style_A/css/tabpanel1_class.css">
+<link rel="stylesheet" type="text/css" media="print" href="styles/RAD_C_style_A/css/print.css">
+<link rel="stylesheet" type="text/css" href="styles/RAD_C_style_A/js/jquery-ui/css/ui-lightness/jquery-ui-1.10.3.custom.min.css">
+<link rel="stylesheet" type="text/css" href="styles/RAD_C_style_A/css/tab.css">
+<script type="text/javascript" src="styles/RAD_C_style_A/js/multimenu.js"></script><script type="text/javascript" src="styles/RAD_C_style_A/js/globals.js"></script><script type="text/javascript" src="styles/RAD_C_style_A/js/tabpanel1_class.js"></script><script type="text/javascript" src="styles/RAD_C_style_A/js/widgets_class.js"></script><script type="text/javascript" src="styles/RAD_C_style_A/js/jquery-latest.min.js"></script><script type="text/javascript" src="styles/RAD_C_style_A/js/jquery-ui/jquery-ui-1.10.3.custom.js"></script><script type="text/javascript" src="styles/RAD_C_style_A/js/jquery-ui/jquery.ui.datepicker-zh-TW.js"></script><script type="text/javascript" src="styles/RAD_C_style_A/js/tab.js"></script><script type="text/javascript" src="styles/RAD_C_style_A/js/jquery.blockUI.js"></script>
+				
+				<script type='text/javascript'>
+				        $(function(){
+				            // 先取得必要的元素並用 jQuery 包裝
+				            // 再來取得 $slides 的高度及設定動畫時間
+				            var $block = $('.adLoop'),
+				                $slides = $('.player ul.adPlayList', $block),
+				                _height = $slides.find('li').height(),
+				                _width = $slides.find('li').width(),
+				                $li = $('li', $slides),
+				                _animateSpeed = 600, 
+				                timer, _speed = 3000;
+				         
+				            var _str = '';
+				            for(var i=0, j=$li.length;i<j;i++){
+				                _str += '<li class="playerControl_' + (i+1) + '">' + (i+1) + '</li>';
+				            }
+				         
+				            var $controlLi = $('<ul class="playerControl"></ul>').html(_str).appendTo($block).find('li');
+				            $controlLi.mouseover(function(){
+				                clearTimeout(timer);
+				         
+				                var $this = $(this);
+				                $this.addClass('current').siblings('.current').removeClass('current');
+				                $slides.stop().animate({
+				                    
+									left:_width * $this.index()* -1
+								    //top: _height * $this.index() * -1
+				                }, _animateSpeed, function(){
+				                    if(!_isOver) timer = setTimeout(moveNext, _speed);
+				                });
+				         
+				                return false;
+				            }).eq(0).mouseover();
+				         
+				            var _isOver = false;
+				            $block.mouseenter(function(){
+				                clearTimeout(timer);
+				                _isOver = true;
+				            }).mouseleave(function(){
+				                _isOver = false;
+				                timer = setTimeout(moveNext, _speed);
+				            });
+				         
+				            function moveNext(){
+				                var _now = $controlLi.filter('.current').index();
+				                $controlLi.eq((_now+1) % $controlLi.length).mouseover();
+				            }
+				        });
+				</script>				
+				<!--  jQuery library banner start-->
+				<script type="text/javascript">
+				
+				function mycarousel_initCallback(carousel)
+				{
+				    // Disable autoscrolling if the user clicks the prev or next button.
+				    carousel.buttonNext.bind('click', function() {
+				        carousel.startAuto(1);
+				    });
+				
+				    carousel.buttonPrev.bind('click', function() {
+				        carousel.startAuto(1);
+				    });
+				
+				    // Pause autoscrolling if the user moves with the cursor over the clip.
+				    carousel.clip.hover(function() {
+				        carousel.stopAuto();
+				    }, function() {
+				        carousel.startAuto();
+				    });
+				};
+				
+				</script>
+				<!--  jQuery library banner end-->  
+				        
+				<!--  jQuery library menu start-->  
+				<script type="text/javascript">
+				<!--
+				function MM_preloadImages() { //v3.0
+				  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+				    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+				    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+				}
+				function MM_swapImgRestore() { //v3.0
+				  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+				}
+				
+				function MM_swapImage() { //v3.0
+				  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+				   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+				}
+				//-->
+				</script>    
+				<!--  jQuery library menu end-->  
+												
+			</head>
+<body>
+<div class="wrap">
+<div id="zone.head" class="top">
+<div class="accesskey">
+<a href="#" accesskey="U" title="上方導覽區塊">:::</a>
+</div>
+<div class="header">
+<h1>
+<a title="地方行政研習中心logo" href="mp?mp=rad"><img src="public/LayoutDesign/1389624553285.png" alt="地方行政研習中心logo" title="地方行政研習中心logo"></a>
+</h1>
+<div class="nav"><ul>
+    <li><a href="sitemap?mp=rad">網站地圖</a></li>
+    <li><a href="mp?mp=en" target="_blank">English</a></li> 
+    <li><a href="np?ctNode=339&mp=rad">實體訓練專區</a></li>  
+	<li><a target="_blank" href="http://elearning.rad.gov.tw/wwwmusic/intro.html" target="_blank">e學中心</a></li>
+    <li><a href="ct?xItem=51443&ctNode=508&mp=rad">雙語辭彙</a></li>
+    <li><a href="mp?mp=rad">回首頁</a></li>
+</ul></div>
+<div class="search"><script>
+  (function() {
+    var cx = '014281536780470937543:siag7pxnnim';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search></div>
+<div class="link">
+<ul>
+<li>
+<a target="_blank" href="ct?xItem=51607&ctNode=542&mp=rad" title="進階搜尋說明"><img width="17" height="17" title="進階搜尋說明" alt="進階搜尋說明" src="public/Data/blueQuestionMark02.jpg"></a>
+</li>
+<li>
+<a target="_blank" href="https://www.facebook.com/rad.gov.tw"><img src="images/facebook.png" alt="Facebook" title="Facebook"></a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UC5eRm-qhEp55RZB2ZokBLlg?ctNode=617&idPath=235_241"><img src="images/youtube.png" alt="youtube" title="youtube"></a>
+</li>
+</ul>
+</div>
+<div class="user"><ul>
+	<li><a href="ct?xItem=51314&ctNode=492&mp=rad" class="here">講座入口</a></li>
+	<li><a href="ct?xItem=51315&ctNode=492&mp=rad">受訓學員入口</a></li>
+	<li><a href="ct?xItem=51316&ctNode=492&mp=rad">調訓機關主辦人入口</a></li>
+	<li><a href="ct?xItem=51317&ctNode=492&mp=rad">本中心同仁入口</a></li>
+</ul></div>
+</div>
+<script type="text/javascript">
+			// added by Ca 20150324 : for google search to be added accesskey="S" on sitemap page
+			jQuery(document).ready(function() {
+				var timer = setInterval(function () {
+			        if (jQuery('#gsc-i-id1').length) {
+			            clearInterval(timer);
+						jQuery('#gsc-i-id1').attr('accessKey','S');
+			        }
+			    }, 200);
+			});
+		</script>
+<div class="mlmenu menubg inaccesible">
+<ul>
+<li>
+<a href="np?ctNode=238&mp=rad&idPath=235_238" title="機關介紹">機關介紹</a>
+<ul>
+<li>
+<a href="np?ctNode=247&mp=rad&idPath=235_238_247" title="機關首長">機關首長</a>
+</li>
+<li>
+<a href="lp?ctNode=248&mp=rad&idPath=235_238_248" title="機關簡介">機關簡介</a>
+</li>
+<li>
+<a href="np?ctNode=249&mp=rad&idPath=235_238_249" title="中心logo">中心logo</a>
+</li>
+<li>
+<a href="lp?ctNode=250&mp=rad&idPath=235_238_250" title="歷史沿革">歷史沿革</a>
+</li>
+<li>
+<a href="np?ctNode=251&mp=rad&idPath=235_238_251" title="園區配置及設施">園區配置及設施</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=239&mp=rad&idPath=235_239" title="訓練資訊">訓練資訊</a>
+<ul>
+<li>
+<a href="http://training.rad.gov.tw/aps/plan/index?ctNode=252&idPath=235_239_252" title="年度訓練計畫, 另開新視窗." target="_blank">年度訓練計畫</a>
+</li>
+<li>
+<a href="http://www.rad.gov.tw/wSite/mp?mp=gr&ctNode=722&idPath=235_239_722" title="地方治理研究中心, 另開新視窗." target="_blank">地方治理研究中心</a>
+</li>
+<li>
+<a href="http://www.rad.gov.tw/wSite/np?ctNode=625&mp=rad#gsc.tab=0&ctNode=723&idPath=235_239_723" title="詠晴園專區, 另開新視窗." target="_blank">詠晴園專區</a>
+</li>
+<li>
+<a href="http://elearning.rad.gov.tw/wwwmusic/intro.html?ctNode=253&idPath=235_239_253" title="地方行政研習e學中心, 另開新視窗." target="_blank">地方行政研習e學中心</a>
+</li>
+<li>
+<a href="np?ctNode=763&mp=rad&idPath=235_239_763" title="迎曦園環境教育">迎曦園環境教育</a>
+<ul>
+<li>
+<a href="lp?ctNode=764&mp=rad&idPath=235_239_763_764" title="園區介紹">園區介紹</a>
+</li>
+<li>
+<a href="lp?ctNode=765&mp=rad&idPath=235_239_763_765" title="公告訊息">公告訊息</a>
+</li>
+<li>
+<a href="lp?ctNode=766&mp=rad&idPath=235_239_763_766" title="開設班期">開設班期</a>
+</li>
+<li>
+<a href="lp?ctNode=767&mp=rad&idPath=235_239_763_767" title="活動花絮">活動花絮</a>
+</li>
+<li>
+<a href="lp?ctNode=768&mp=rad&idPath=235_239_763_768" title="影音專區">影音專區</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=1097&mp=rad&idPath=235_239_1097" title="教材教法研究室">教材教法研究室</a>
+<ul>
+<li>
+<a href="np?ctNode=1117&mp=rad&idPath=235_239_1097_1117" title="研究室介紹">研究室介紹</a>
+</li>
+<li>
+<a href="lp?ctNode=1103&mp=rad&idPath=235_239_1097_1103" title="教學方法展示">教學方法展示</a>
+</li>
+<li>
+<a href="lp?ctNode=1105&mp=rad&idPath=235_239_1097_1105" title="研發教材展示">研發教材展示</a>
+</li>
+<li>
+<a href="lp?ctNode=1107&mp=rad&idPath=235_239_1097_1107" title="研究室影音專區">研究室影音專區</a>
+</li>
+<li>
+<a href="lp?ctNode=1111&mp=rad&idPath=235_239_1097_1111" title="師資庫">師資庫</a>
+</li>
+<li>
+<a href="lp?ctNode=1113&mp=rad&idPath=235_239_1097_1113" title="最新消息">最新消息</a>
+</li>
+<li>
+<a href="np?ctNode=1115&mp=rad&idPath=235_239_1097_1115" title="聯絡我們">聯絡我們</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=254&mp=rad&idPath=235_239_254" title="代訓收費標準">代訓收費標準</a>
+</li>
+<li>
+<a href="np?ctNode=505&mp=rad&idPath=235_239_505" title="訓練成果">訓練成果</a>
+<ul>
+<li>
+<a href="lp?ctNode=743&mp=rad&idPath=235_239_505_743" title="各年度訓練成果報告">各年度訓練成果報告</a>
+</li>
+<li>
+<a href="lp?ctNode=506&mp=rad&idPath=235_239_505_506" title="訓練執行情形">訓練執行情形</a>
+</li>
+<li>
+<a href="http://www.rad.gov.tw/wSite/np?ctNode=650&mp=gr&idPath=644_650&ctNode=744&idPath=235_239_505_744" title="地方治理研究成果">地方治理研究成果</a>
+</li>
+<li>
+<a href="lp?ctNode=507&mp=rad&idPath=235_239_505_507" title="學員活動花絮">學員活動花絮</a>
+</li>
+<li>
+<a href="lp?ctNode=745&mp=rad&idPath=235_239_505_745" title="影音活動花絮">影音活動花絮</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=371&mp=rad&idPath=235_239_371" title="訓練發展運行圖">訓練發展運行圖</a>
+</li>
+<li>
+<a href="http://training.rad.gov.tw/aps/research/sub5?ctNode=724&idPath=235_239_724" title="課程及講座查詢, 另開新視窗." target="_blank">課程及講座查詢</a>
+</li>
+<li>
+<a href="http://training.rad.gov.tw/aps/process/WeekClasses?ctNode=357&idPath=&ctNode=725&idPath=235_239_725" title="近三週在訓班次(課表)">近三週在訓班次(課表)</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=241&mp=rad&idPath=235_241" title="服務園地">服務園地</a>
+<ul>
+<li>
+<a href="np?ctNode=615&mp=rad&idPath=235_241_615" title="互動服務">互動服務</a>
+<ul>
+<li>
+<a href="lp?ctNode=616&mp=rad&idPath=235_241_615_616" title="菁英社群網, 另開新視窗." target="_blank">菁英社群網</a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UC5eRm-qhEp55RZB2ZokBLlg?ctNode=617&idPath=235_241&ctNode=617&idPath=235_241_615_617" title="youtube頻道, 另開新視窗." target="_blank">youtube頻道</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="lp?ctNode=269&mp=rad&idPath=235_241_269" title="場地服務與收費">場地服務與收費</a>
+</li>
+<li>
+<a href="lp?ctNode=638&mp=rad&idPath=235_241_638" title="報到/住宿">報到/住宿</a>
+</li>
+<li>
+<a href="np?ctNode=325&mp=rad&idPath=235_241_325" title="交通指南">交通指南</a>
+<ul>
+<li>
+<a href="ct?xItem=51064&ctNode=321&mp=rad&previewToken=853f7d22fb12169dc9f3d8c273ec0203&ctNode=839&idPath=235_241_325_839" title="學員車輛停放須知">學員車輛停放須知</a>
+</li>
+<li>
+<a href="np?ctNode=326&mp=rad&idPath=235_241_325_326" title="相關位置指引圖">相關位置指引圖</a>
+</li>
+<li>
+<a href="np?ctNode=327&mp=rad&idPath=235_241_325_327" title="自行開車指引">自行開車指引</a>
+</li>
+<li>
+<a href="lp?ctNode=329&mp=rad&idPath=235_241_325_329" title="搭公車指引">搭公車指引</a>
+</li>
+<li>
+<a href="np?ctNode=330&mp=rad&idPath=235_241_325_330" title="地圖＆地理位置">地圖＆地理位置</a>
+</li>
+<li>
+<a href="lp?ctNode=331&mp=rad&idPath=235_241_325_331" title="交通相關資訊">交通相關資訊</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="lp?ctNode=272&mp=rad&idPath=235_241_272" title="為民服務">為民服務</a>
+</li>
+<li>
+<a href="np?ctNode=265&mp=rad&idPath=235_241_265" title="圖書資訊服務">圖書資訊服務</a>
+</li>
+<li>
+<a href="lp?ctNode=266&mp=rad&idPath=235_241_266" title="研習中心周邊休憩">研習中心周邊休憩</a>
+</li>
+<li>
+<a href="http://www.cwb.gov.tw/V7/forecast/taiwan/Nantou_County.htm?ctNode=267&idPath=235_241_267" title="一周天氣狀況, 另開新視窗." target="_blank">一周天氣狀況</a>
+</li>
+<li>
+<a href="lp?ctNode=268&mp=rad&idPath=235_241_268" title="旅遊相關網站">旅遊相關網站</a>
+</li>
+<li>
+<a href="lp?ctNode=273&mp=rad&idPath=235_241_273" title="FAQ">FAQ</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=242&mp=rad&idPath=235_242" title="學習資源">學習資源</a>
+<ul>
+<li>
+<a href="np?ctNode=1215&mp=rad&idPath=235_242_1215" title="熠星方案">熠星方案</a>
+<ul>
+<li>
+<a href="np?ctNode=1217&mp=rad&idPath=235_242_1215_1217" title="方案介紹">方案介紹</a>
+</li>
+<li>
+<a href="np?ctNode=1219&mp=rad&idPath=235_242_1215_1219" title="實施要項">實施要項</a>
+</li>
+<li>
+<a href="np?ctNode=1221&mp=rad&idPath=235_242_1215_1221" title="合作簽約縣市地圖">合作簽約縣市地圖</a>
+</li>
+<li>
+<a href="lp?ctNode=1223&mp=rad&idPath=235_242_1215_1223" title="歷年執行機關及主題">歷年執行機關及主題</a>
+</li>
+<li>
+<a href="lp?ctNode=1225&mp=rad&idPath=235_242_1215_1225" title="歷年活動照片">歷年活動照片</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=752&mp=rad&idPath=235_242_752" title="標竿論壇">標竿論壇</a>
+<ul>
+<li>
+<a href="lp?ctNode=754&mp=rad&idPath=235_242_752_754" title="101年辦理情形">101年辦理情形</a>
+</li>
+<li>
+<a href="lp?ctNode=755&mp=rad&idPath=235_242_752_755" title="102年辦理情形">102年辦理情形</a>
+</li>
+<li>
+<a href="lp?ctNode=756&mp=rad&idPath=235_242_752_756" title="103年辦理情形">103年辦理情形</a>
+</li>
+<li>
+<a href="lp?ctNode=1073&mp=rad&idPath=235_242_752_1073" title="104年辦理情形, 另開新視窗." target="_blank">104年辦理情形</a>
+</li>
+<li>
+<a href="lp?ctNode=1161&mp=rad&idPath=235_242_752_1161" title="105年辦理情形">105年辦理情形</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=753&mp=rad&idPath=235_242_753" title="策略聯盟">策略聯盟</a>
+<ul>
+<li>
+<a href="lp?ctNode=757&mp=rad&idPath=235_242_753_757" title="策略聯盟單位">策略聯盟單位</a>
+</li>
+<li>
+<a href="lp?ctNode=758&mp=rad&idPath=235_242_753_758" title="策略聯盟同盟會">策略聯盟同盟會</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=274&mp=rad&idPath=235_242_274" title="圖書室">圖書室</a>
+<ul>
+<li>
+<a href="np?ctNode=275&mp=rad&idPath=235_242_274_275" title="圖書室簡介">圖書室簡介</a>
+</li>
+<li>
+<a href="lp?ctNode=276&mp=rad&idPath=235_242_274_276" title="典藏資源">典藏資源</a>
+</li>
+<li>
+<a href="lp?ctNode=277&mp=rad&idPath=235_242_274_277" title="讀者服務">讀者服務</a>
+</li>
+<li>
+<a href="ct?xItem=50351&ctNode=277&mp=rad&ctNode=279&idPath=235_242_274_279" title="館際合作">館際合作</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://elearning.rad.gov.tw/fet/home/epubs/15250077?ctNode=280&idPath=235_242_280" title="研習論壇月刊, 另開新視窗." target="_blank">研習論壇月刊</a>
+</li>
+<li>
+<a href="lp?ctNode=281&mp=rad&idPath=235_242_281" title="本中心出版品">本中心出版品</a>
+</li>
+<li>
+<a href="np?ctNode=747&mp=rad&idPath=235_242_747" title="知識分享">知識分享</a>
+<ul>
+<li>
+<a href="http://report.nat.gov.tw/ReportFront/index.jspx?ctNode=748&idPath=235_242_747_748" title="公務出國報告, 另開新視窗." target="_blank">公務出國報告</a>
+</li>
+<li>
+<a href="np?ctNode=650&mp=gr&ctNode=749&idPath=235_242_747_749" title="地方治理專題研究, 另開新視窗." target="_blank">地方治理專題研究</a>
+</li>
+<li>
+<a href="lp?ctNode=750&mp=rad&idPath=235_242_747_750" title="研究報告">研究報告</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="lp?ctNode=284&mp=rad&idPath=235_242_284" title="網路教學園地">網路教學園地</a>
+</li>
+<li>
+<a href="np?ctNode=285&mp=rad&idPath=235_242_285" title="線上讀書會">線上讀書會</a>
+<ul>
+<li>
+<a href="np?ctNode=286&mp=rad&idPath=235_242_285_286" title="閱讀學習時數認證要點">閱讀學習時數認證要點</a>
+</li>
+<li>
+<a href="http://elearning.rad.gov.tw/fet/home/articles/4?ctNode=287&idPath=235_242_285_287" title="好書介紹, 另開新視窗." target="_blank">好書介紹</a>
+</li>
+<li>
+<a href="lp?ctNode=288&mp=rad&idPath=235_242_285_288" title="電影讀書會">電影讀書會</a>
+</li>
+<li>
+<a href="lp?ctNode=289&mp=rad&idPath=235_242_285_289" title="指定刊物">指定刊物</a>
+</li>
+<li>
+<a href="sp?xdUrl=/wSite/BooksLearned/LearnedFm.jsp&mp=rad&ctNode=290&idPath=235_242_285_290" title="心得撰寫">心得撰寫</a>
+</li>
+<li>
+<a href="lp?ctNode=291&mp=rad&idPath=235_242_285_291" title="作品欣賞">作品欣賞</a>
+</li>
+<li>
+<a href="lp?ctNode=292&mp=rad&idPath=235_242_285_292" title="感人小故事">感人小故事</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=525&mp=rad&idPath=235_525" title="影音專區">影音專區</a>
+<ul>
+<li>
+<a href="lp?ctNode=527&mp=rad&idPath=235_525_527" title="中心介紹, 另開新視窗." target="_blank">中心介紹</a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UC5eRm-qhEp55RZB2ZokBLlg?ctNode=617&idPath=235_241&ctNode=985&idPath=235_525_985" title="youtube頻道, 另開新視窗." target="_blank">youtube頻道</a>
+</li>
+<li>
+<a href="np?ctNode=987&mp=rad&idPath=235_525_987" title="線上直播專區">線上直播專區</a>
+</li>
+<li>
+<a href="lp?ctNode=528&mp=rad&idPath=235_525_528" title="宣導短片">宣導短片</a>
+</li>
+<li>
+<a href="lp?ctNode=526&mp=rad&idPath=235_525_526" title="影音活動花絮">影音活動花絮</a>
+</li>
+<li>
+<a href="lp?ctNode=746&mp=rad&idPath=235_525_746" title="照片活動花絮">照片活動花絮</a>
+</li>
+<li>
+<a href="lp?ctNode=623&mp=rad&idPath=235_525_623" title="詠晴園影音專區">詠晴園影音專區</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=244&mp=rad&idPath=235_244" title="聯絡我們">聯絡我們</a>
+<ul>
+<li>
+<a href="sp?xdUrl=/wSite/CommentMail/MasterMailForm.jsp&mp=rad&icuitem=50911&ctNode=296&idPath=235_244_296" title="主任信箱">主任信箱</a>
+</li>
+<li>
+<a href="sp?xdUrl=/wSite/CommentMail/ServiceMailForm.jsp&mp=rad&icuitem=50912&ctNode=297&idPath=235_244_297" title="服務信箱">服務信箱</a>
+</li>
+<li>
+<a href="np?ctNode=298&mp=rad&idPath=235_244_298" title="各單位業務聯繫">各單位業務聯繫</a>
+</li>
+<li>
+<a href="https://docs.google.com/forms/d/1MlEcaNrKckqbAjMZy29NYt8ohcVCJjUeyvrFMswehPc/viewform?ctNode=1083&idPath=235_244_1083" title="滿意度問卷, 另開新視窗." target="_blank">滿意度問卷</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=243&mp=rad&idPath=235_243" title="相關網站">相關網站</a>
+<ul>
+<li>
+<a href="lp?ctNode=294&mp=rad&idPath=235_243_294" title="訓練機構">訓練機構</a>
+</li>
+<li>
+<a href="lp?ctNode=295&mp=rad&idPath=235_243_295" title="其他">其他</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=246&mp=rad&idPath=235_246" title="公告資訊">公告資訊</a>
+<ul>
+<li>
+<a href="lp?ctNode=302&mp=rad&idPath=235_246_302" title="最新消息">最新消息</a>
+</li>
+<li>
+<a href="np?ctNode=303&mp=rad&idPath=235_246_303" title="政府資訊公開">政府資訊公開</a>
+<ul>
+<li>
+<a href="http://law.dgpa.gov.tw/LawCategoryContentList.aspx?id=012&ctNode=304&idPath=235_246_303_304" title="法規, 另開新視窗." target="_blank">法規</a>
+</li>
+<li>
+<a href="http://gazette.nat.gov.tw/egFront/index.jsp?ctNode=305&idPath=235_246_303_305" title="行政院公報資訊, 另開新視窗." target="_blank">行政院公報資訊</a>
+</li>
+<li>
+<a href="lp?ctNode=324&mp=rad&idPath=235_246_303_324" title="施政計畫">施政計畫</a>
+</li>
+<li>
+<a href="lp?ctNode=309&mp=rad&idPath=235_246_303_309" title="研究報告">研究報告</a>
+</li>
+<li>
+<a href="lp?ctNode=310&mp=rad&idPath=235_246_303_310" title="出國報告">出國報告</a>
+</li>
+<li>
+<a href="lp?ctNode=311&mp=rad&idPath=235_246_303_311" title="預算及決算書">預算及決算書</a>
+</li>
+<li>
+<a href="lp?ctNode=511&mp=rad&idPath=235_246_303_511" title="會計報告">會計報告</a>
+</li>
+<li>
+<a href="np?ctNode=313&mp=rad&idPath=235_246_303_313" title="書面公共工程及採購契約">書面公共工程及採購契約</a>
+</li>
+<li>
+<a href="lp?ctNode=1007&mp=rad&idPath=235_246_303_1007" title="政策宣導廣告預算執行情形">政策宣導廣告預算執行情形</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="lp?ctNode=316&mp=rad&idPath=235_246_316" title="招標資訊">招標資訊</a>
+</li>
+<li>
+<a href="np?ctNode=334&mp=rad&idPath=235_246_334" title="重大政策">重大政策</a>
+<ul>
+<li>
+<a href="http://www.ey.gov.tw/News4.aspx?n=66BE2F0CBBB92DA1&sms=2CDAF47973362429&ctNode=336&idPath=235_246_334_336" title="行政院重大政策, 另開新視窗." target="_blank">行政院重大政策</a>
+</li>
+<li>
+<a href="http://www.dgpa.gov.tw?ctNode=532&idPath=235_246_334_532" title="人事總處政策與計畫, 另開新視窗." target="_blank">人事總處政策與計畫</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="ct?xItem=50252&ctNode=313&ctNode=317&mp=rad&idPath=235_246_317" title="政府採購網">政府採購網</a>
+</li>
+<li>
+<a href="lp?ctNode=522&mp=rad&idPath=235_246_522" title="政府文宣推廣">政府文宣推廣</a>
+</li>
+<li>
+<a href="lp?ctNode=799&mp=rad&idPath=235_246_799" title="個人資料保護">個人資料保護</a>
+</li>
+<li>
+<a href="np?ctNode=1045&mp=rad&idPath=235_246_1045" title="我的E政府">我的E政府</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="lp?ctNode=509&mp=rad&idPath=235_509" title="下載專區">下載專區</a>
+</li>
+<li>
+<a href="np?ctNode=1279&mp=rad&idPath=235_1279" title="園區導覽專區">園區導覽專區</a>
+<ul>
+<li>
+<a href="lp?ctNode=1287&mp=rad&idPath=235_1279_1287" title="迎曦園">迎曦園</a>
+</li>
+<li>
+<a href="lp?ctNode=1281&mp=rad&idPath=235_1279_1281" title="詠晴園">詠晴園</a>
+</li>
+<li>
+<a href="lp?ctNode=1285&mp=rad&idPath=235_1279_1285" title="生態池">生態池</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<a onfocus="mlout();" href="javascript:"></a>
+<noscript>TAB標籤效果，如不執行不影響您資料瀏覽</noscript><!--button 開始-->
+<div class="button" style="z-index: 1">
+<h2><span>學員服務專區</span></h2>
+<div class="body">
+<ul>
+    <li class="a_button"><a href="sp?xdUrl=/wSite/planner/chooseArticles.jsp&ctUnit=187&mp=rad&ctNode=494"><img title="實體課程報名流程" alt="實體課程報名流程" src="images/service.png" /></a></li>
+    <li class="b_button"><a href="sp?xdUrl=/wSite/planner/chooseArticles.jsp&ctUnit=188&mp=rad&ctNode=495"><img title="報到/住宿" alt="報到/住宿" src="images/service.png" /></a></li>
+    <li class="c_button"><a href="sp?xdUrl=/wSite/planner/chooseArticles.jsp&ctUnit=226&mp=rad&ctNode=496"><img title="交通/停車" alt="交通/停車" src="images/service.png" /></a>&nbsp;</li>
+    <li class="d_button"><a href="sp?xdUrl=/wSite/planner/chooseArticles.jsp&ctUnit=226&mp=rad&ctNode=496#gsc.tab=0"><img title="周邊景點" alt="周邊景點" src="images/service.png" /></a></li>
+    <li class="e_button"><a href="sp?xdUrl=/wSite/planner/chooseArticles.jsp&ctUnit=weather&mp=rad&ctNode=498"><img title="天氣狀況" alt="天氣狀況" src="images/service.png" /></a></li>
+    <li class="f_button"><a href="sp?xdUrl=/wSite/planner/chooseArticles.jsp&ctUnit=227&mp=rad&ctNode=499"><img title="作息/餐點" alt="作息/餐點" src="images/service.png" /></a></li>
+</ul>
+</div>
+</div></div>
+<table class="layout" summary="layout table">
+<tr>
+<td class="leftbg">
+<div class="side">
+<div id="zone.SideBarLeft"></div>
+</div>
+</td><td class="center">
+<div class="accesskey">
+<a href="#" accesskey="C" title="中央內容區塊">:::</a>
+</div>
+<div id="zone.content">
+<div class="friendly">
+<div class="path">
+<span class="before">現在位置</span>：<a href="mp?mp=rad" title="首頁">首頁</a>
+				>
+				<a href="np?ctNode=246&mp=rad" title="公告資訊">公告資訊</a>
+				>
+				<a href="np?ctNode=303&mp=rad" title="政府資訊公開">政府資訊公開</a>
+				>
+				<a href="np?ctNode=311&mp=rad" title="預算及決算書">預算及決算書</a>
+</div>
+<div class="function">
+<ul>
+<li>
+<a href="javascript:history.back();" class="back" title="回上一頁">回上一頁</a>
+<noscript>當script無法執行時可按"alt + &larr;"鍵替代</noscript>
+</li>
+</ul>
+</div>
+</div>
+<!-- 錯誤資訊start -->
+
+
+
+
+<div class="form">
+<h2>系統暫時無法提供服務,您可保留畫面訊息通知系統管理員.</h2>
+<table summary="錯誤資訊">
+<caption>錯誤資訊</caption>
+	<tr>
+		<td>您點選的網頁暫時無法順利顯示，建議您稍後再使用本網站。 <br />
+				造成您的不便，請您多多包涵。</td>
+	</tr>
+</table>
+</div>		
+
+ 
+<!-- 錯誤資訊end -->
+<div class="quickLink">
+<ul>
+<li>
+<a href="#top" class="gotop" title="回頁首">回頁首</a>
+</li>
+<li>
+<a href="javascript:history.back();" class="back" title="回上一頁">回上一頁</a>
+<noscript>當script無法執行時可按"alt + &larr;"鍵替代</noscript>
+</li>
+<li style="display:none;">lp.xsl:,cp.xsl:</li>
+</ul>
+</div>
+</div>
+</td><td class="hidden"></td>
+</tr>
+</table>
+<div id="zone.footer"><div class="ad">
+<ul>
+	<li><a href="http://elearning.rad.gov.tw/" target="_blank"><img alt="e學中心" src="public/Data/ad02.jpg" title="e學中心" /></a></li>
+	<li><a href="http://lgrc.rad.gov.tw" target="_blank"><img alt="地方治理研究中心" src="public/Data/ad03.jpg" title="地方治理研究中心" /></a></li>
+	<li><a href="lp?ctNode=269&mp=rad&idPath=235_241_269"><img alt="場地租借服務" src="public/Data/ad04.jpg" title="場地租借服務" /></a></li>
+	<li><a href="np?ctNode=625&mp=rad&ctNode=723&idPath=235_239"><img alt="詠晴交流網" src="public/Data/ad08(2).jpg" title="詠晴交流網" /></a></li>
+	<li><a href="http://www.dgpa.gov.tw" style="color: rgb(7,130,193)"><img alt="" src="public/Data/images%20(3)(2).jpg" style="cursor:default; height:67px; width:161px" /></a></li>
+	<li><a href="http://www.taiwanjobs.gov.tw/Internet/index/index.aspx" target="_blank"><img alt="就業資訊" src="public/Data/ad07.jpg" title="就業資訊" /></a></li>
+</ul>
+</div><div class="footer">
+<div class="footer">
+<script type="text/javascript">
+				$(function(){
+					// 幫 div.qa_title 加上 hover 及 click 事件
+					// 同時把兄弟元素 div.qa_content 隱藏起來
+					$('div.sildeCtrl').click(function(){
+						// 當點到標題時，若答案是隱藏時則顯示它；反之則隱藏
+						$('.footer>nav>ul>li>ul').slideToggle(function(){
+							if($(this).is(':visible')){	$('.sildeCtrl span').contents().replaceWith('收合');}
+							else{$('.sildeCtrl span').contents().replaceWith('展開');}
+						});
+						$(this).toggleClass('close');
+					});
+				});
+			</script>
+<nav>
+<ul>
+<li>
+<a href="np?ctNode=238&mp=rad&idPath=235_238" title="機關介紹">機關介紹</a>
+<ul>
+<li>
+<a href="np?ctNode=247&mp=rad&idPath=235_238_247" title="機關首長">機關首長</a>
+</li>
+<li>
+<a href="lp?ctNode=248&mp=rad&idPath=235_238_248" title="機關簡介">機關簡介</a>
+</li>
+<li>
+<a href="np?ctNode=249&mp=rad&idPath=235_238_249" title="中心logo">中心logo</a>
+</li>
+<li>
+<a href="lp?ctNode=250&mp=rad&idPath=235_238_250" title="歷史沿革">歷史沿革</a>
+</li>
+<li>
+<a href="np?ctNode=251&mp=rad&idPath=235_238_251" title="園區配置及設施">園區配置及設施</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=239&mp=rad&idPath=235_239" title="訓練資訊">訓練資訊</a>
+<ul>
+<li>
+<a href="http://training.rad.gov.tw/aps/plan/index?ctNode=252&idPath=235_239_252" title="年度訓練計畫, 另開新視窗." target="_blank">年度訓練計畫</a>
+</li>
+<li>
+<a href="http://www.rad.gov.tw/wSite/mp?mp=gr&ctNode=722&idPath=235_239_722" title="地方治理研究中心, 另開新視窗." target="_blank">地方治理研究中心</a>
+</li>
+<li>
+<a href="http://www.rad.gov.tw/wSite/np?ctNode=625&mp=rad#gsc.tab=0&ctNode=723&idPath=235_239_723" title="詠晴園專區, 另開新視窗." target="_blank">詠晴園專區</a>
+</li>
+<li>
+<a href="http://elearning.rad.gov.tw/wwwmusic/intro.html?ctNode=253&idPath=235_239_253" title="地方行政研習e學中心, 另開新視窗." target="_blank">地方行政研習e學中心</a>
+</li>
+<li>
+<a href="np?ctNode=763&mp=rad&idPath=235_239_763" title="迎曦園環境教育">迎曦園環境教育</a>
+</li>
+<li>
+<a href="np?ctNode=1097&mp=rad&idPath=235_239_1097" title="教材教法研究室">教材教法研究室</a>
+</li>
+<li>
+<a href="np?ctNode=254&mp=rad&idPath=235_239_254" title="代訓收費標準">代訓收費標準</a>
+</li>
+<li>
+<a href="np?ctNode=505&mp=rad&idPath=235_239_505" title="訓練成果">訓練成果</a>
+</li>
+<li>
+<a href="np?ctNode=371&mp=rad&idPath=235_239_371" title="訓練發展運行圖">訓練發展運行圖</a>
+</li>
+<li>
+<a href="http://training.rad.gov.tw/aps/research/sub5?ctNode=724&idPath=235_239_724" title="課程及講座查詢, 另開新視窗." target="_blank">課程及講座查詢</a>
+</li>
+<li>
+<a href="http://training.rad.gov.tw/aps/process/WeekClasses?ctNode=357&idPath=&ctNode=725&idPath=235_239_725" title="近三週在訓班次(課表)">近三週在訓班次(課表)</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=241&mp=rad&idPath=235_241" title="服務園地">服務園地</a>
+<ul>
+<li>
+<a href="np?ctNode=615&mp=rad&idPath=235_241_615" title="互動服務">互動服務</a>
+</li>
+<li>
+<a href="lp?ctNode=269&mp=rad&idPath=235_241_269" title="場地服務與收費">場地服務與收費</a>
+</li>
+<li>
+<a href="lp?ctNode=638&mp=rad&idPath=235_241_638" title="報到/住宿">報到/住宿</a>
+</li>
+<li>
+<a href="np?ctNode=325&mp=rad&idPath=235_241_325" title="交通指南">交通指南</a>
+</li>
+<li>
+<a href="lp?ctNode=272&mp=rad&idPath=235_241_272" title="為民服務">為民服務</a>
+</li>
+<li>
+<a href="np?ctNode=265&mp=rad&idPath=235_241_265" title="圖書資訊服務">圖書資訊服務</a>
+</li>
+<li>
+<a href="lp?ctNode=266&mp=rad&idPath=235_241_266" title="研習中心周邊休憩">研習中心周邊休憩</a>
+</li>
+<li>
+<a href="http://www.cwb.gov.tw/V7/forecast/taiwan/Nantou_County.htm?ctNode=267&idPath=235_241_267" title="一周天氣狀況, 另開新視窗." target="_blank">一周天氣狀況</a>
+</li>
+<li>
+<a href="lp?ctNode=268&mp=rad&idPath=235_241_268" title="旅遊相關網站">旅遊相關網站</a>
+</li>
+<li>
+<a href="lp?ctNode=273&mp=rad&idPath=235_241_273" title="FAQ">FAQ</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=242&mp=rad&idPath=235_242" title="學習資源">學習資源</a>
+<ul>
+<li>
+<a href="np?ctNode=1215&mp=rad&idPath=235_242_1215" title="熠星方案">熠星方案</a>
+</li>
+<li>
+<a href="np?ctNode=752&mp=rad&idPath=235_242_752" title="標竿論壇">標竿論壇</a>
+</li>
+<li>
+<a href="np?ctNode=753&mp=rad&idPath=235_242_753" title="策略聯盟">策略聯盟</a>
+</li>
+<li>
+<a href="np?ctNode=274&mp=rad&idPath=235_242_274" title="圖書室">圖書室</a>
+</li>
+<li>
+<a href="http://elearning.rad.gov.tw/fet/home/epubs/15250077?ctNode=280&idPath=235_242_280" title="研習論壇月刊, 另開新視窗." target="_blank">研習論壇月刊</a>
+</li>
+<li>
+<a href="lp?ctNode=281&mp=rad&idPath=235_242_281" title="本中心出版品">本中心出版品</a>
+</li>
+<li>
+<a href="np?ctNode=747&mp=rad&idPath=235_242_747" title="知識分享">知識分享</a>
+</li>
+<li>
+<a href="lp?ctNode=284&mp=rad&idPath=235_242_284" title="網路教學園地">網路教學園地</a>
+</li>
+<li>
+<a href="np?ctNode=285&mp=rad&idPath=235_242_285" title="線上讀書會">線上讀書會</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=525&mp=rad&idPath=235_525" title="影音專區">影音專區</a>
+<ul>
+<li>
+<a href="lp?ctNode=527&mp=rad&idPath=235_525_527" title="中心介紹, 另開新視窗." target="_blank">中心介紹</a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UC5eRm-qhEp55RZB2ZokBLlg?ctNode=617&idPath=235_241&ctNode=985&idPath=235_525_985" title="youtube頻道, 另開新視窗." target="_blank">youtube頻道</a>
+</li>
+<li>
+<a href="np?ctNode=987&mp=rad&idPath=235_525_987" title="線上直播專區">線上直播專區</a>
+</li>
+<li>
+<a href="lp?ctNode=528&mp=rad&idPath=235_525_528" title="宣導短片">宣導短片</a>
+</li>
+<li>
+<a href="lp?ctNode=526&mp=rad&idPath=235_525_526" title="影音活動花絮">影音活動花絮</a>
+</li>
+<li>
+<a href="lp?ctNode=746&mp=rad&idPath=235_525_746" title="照片活動花絮">照片活動花絮</a>
+</li>
+<li>
+<a href="lp?ctNode=623&mp=rad&idPath=235_525_623" title="詠晴園影音專區">詠晴園影音專區</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=244&mp=rad&idPath=235_244" title="聯絡我們">聯絡我們</a>
+<ul>
+<li>
+<a href="sp?xdUrl=/wSite/CommentMail/MasterMailForm.jsp&mp=rad&icuitem=50911&ctNode=296&idPath=235_244_296" title="主任信箱">主任信箱</a>
+</li>
+<li>
+<a href="sp?xdUrl=/wSite/CommentMail/ServiceMailForm.jsp&mp=rad&icuitem=50912&ctNode=297&idPath=235_244_297" title="服務信箱">服務信箱</a>
+</li>
+<li>
+<a href="np?ctNode=298&mp=rad&idPath=235_244_298" title="各單位業務聯繫">各單位業務聯繫</a>
+</li>
+<li>
+<a href="https://docs.google.com/forms/d/1MlEcaNrKckqbAjMZy29NYt8ohcVCJjUeyvrFMswehPc/viewform?ctNode=1083&idPath=235_244_1083" title="滿意度問卷, 另開新視窗." target="_blank">滿意度問卷</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=243&mp=rad&idPath=235_243" title="相關網站">相關網站</a>
+<ul>
+<li>
+<a href="lp?ctNode=294&mp=rad&idPath=235_243_294" title="訓練機構">訓練機構</a>
+</li>
+<li>
+<a href="lp?ctNode=295&mp=rad&idPath=235_243_295" title="其他">其他</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="np?ctNode=246&mp=rad&idPath=235_246" title="公告資訊">公告資訊</a>
+<ul>
+<li>
+<a href="lp?ctNode=302&mp=rad&idPath=235_246_302" title="最新消息">最新消息</a>
+</li>
+<li>
+<a href="np?ctNode=303&mp=rad&idPath=235_246_303" title="政府資訊公開">政府資訊公開</a>
+</li>
+<li>
+<a href="lp?ctNode=316&mp=rad&idPath=235_246_316" title="招標資訊">招標資訊</a>
+</li>
+<li>
+<a href="np?ctNode=334&mp=rad&idPath=235_246_334" title="重大政策">重大政策</a>
+</li>
+<li>
+<a href="ct?xItem=50252&ctNode=313&ctNode=317&mp=rad&idPath=235_246_317" title="政府採購網">政府採購網</a>
+</li>
+<li>
+<a href="lp?ctNode=522&mp=rad&idPath=235_246_522" title="政府文宣推廣">政府文宣推廣</a>
+</li>
+<li>
+<a href="lp?ctNode=799&mp=rad&idPath=235_246_799" title="個人資料保護">個人資料保護</a>
+</li>
+<li>
+<a href="np?ctNode=1045&mp=rad&idPath=235_246_1045" title="我的E政府">我的E政府</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="lp?ctNode=509&mp=rad&idPath=235_509" title="下載專區">下載專區</a>
+</li>
+<li>
+<a href="np?ctNode=1279&mp=rad&idPath=235_1279" title="園區導覽專區">園區導覽專區</a>
+<ul>
+<li>
+<a href="lp?ctNode=1287&mp=rad&idPath=235_1279_1287" title="迎曦園">迎曦園</a>
+</li>
+<li>
+<a href="lp?ctNode=1281&mp=rad&idPath=235_1279_1281" title="詠晴園">詠晴園</a>
+</li>
+<li>
+<a href="lp?ctNode=1285&mp=rad&idPath=235_1279_1285" title="生態池">生態池</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+<div class="sildeCtrl">
+<span>收合</span>
+</div>
+</div>
+<div class="footer">
+<div class="aaa">
+<a target="_blank" href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20151105172847" title="通過A+等級無障礙網頁檢測, 另開新視窗."><img src="images/aplus.jpg" alt="通過A+等級無障礙網頁檢測, 另開新視窗." title="通過A+等級無障礙網頁檢測, 另開新視窗."></a>
+</div>
+<div class="copyright"></div>
+<p><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-49249649-1', 'rad.gov.tw');
+  ga('send', 'pageview');
+
+</script>
+<div class="logo"><img src="public/Data/footer_logo.png" alt="行政院人事行政總處 地方行政研習中心" title="行政院人事行政總處 地方行政研習中心"></div>
+<p>
+行政院人事行政總處 地方行政研習中心　　E-mail : <a href="sp?xdUrl=/wSite/CommentMail/ServiceMailForm.jsp&mp=rad&icuitem=50912&ctNode=297&idPath=235_244_297#gsc.tab=0">message@email.rad.gov.tw</a>
+　<a target="_blank" href="https://docs.google.com/forms/d/1MlEcaNrKckqbAjMZy29NYt8ohcVCJjUeyvrFMswehPc/viewform">滿意度調查</a><br>
+Tel:049-2332131　　Fax:049-2339030　　地址：540南投市光明路1號 <a target="_blank" href="https://maps.google.com.tw/maps?q=%E5%8D%97%E6%8A%95%E7%B8%A3%E5%8D%97%E6%8A%95%E5%B8%82%E5%85%89%E6%98%8E%E8%B7%AF1%E8%99%9F&hl=zh-TW&ie=UTF8&sll=24.220103,120.955874&sspn=0.782743,1.344452&oq=%E5%8D%97%E6%8A%95%E5%B8%82%E5%85%89%E6%98%8E%E8%B7%AF1%E8%99%9F&brcurrent=3,0x346931912439ed39:0x6300e6fd5812b10b,0,0x3468d6aa1a5d49ad:0x1348fba95f17f6da&hnear=540%E5%8D%97%E6%8A%95%E7%B8%A3%E5%8D%97%E6%8A%95%E5%B8%82%E5%85%89%E6%98%8E%E8%B7%AF1%E8%99%9F&t=m&z=16" title="(地圖)">(地圖)</a><br>
+建議瀏覽器IE8以上、Chrome、Firefox｜建議瀏覽解析度為1024 x 768 ｜<a href="ct?xItem=51373&ctNode=504&mp=rad" title="資訊安全政策">資訊安全政策</a>｜
+<a href="ct?xItem=51374&ctNode=504&mp=rad" title="隱私權宣告">隱私權宣告</a></p>
+
+<!-- 之前的無障礙驗證連結 http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20141211111634 --></p>
+<div class="egov">
+<a target="_blank" href="http://www.gov.tw" title="我的e政府"><img src="images/egov.gif" alt="我的e政府" title="我的e政府"></a>
+</div>
+<div class="visitor2">今日瀏覽人次：<em>212</em>
+</div>
+<div class="visitor">總瀏覽人次：<em>13737536</em>
+</div>
+<div class="update">更新日期：<em>2016年11月04日</em>
+</div>
+</div>
+</div>
+</div>
+</div>
+<noscript>TAB標籤效果，如不執行不影響您資料瀏覽</noscript>
+</body>
+</html>

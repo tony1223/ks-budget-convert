@@ -1,0 +1,1000 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="google-site-verification" content="zUExH18mdwzAi1lk-PiNjBMDx1d0AAoxTtOpM8_ralU" /><meta http-equiv="Content-Type" content="text/html; charset=big5" /><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><title>
+	高雄高等行政法院-
+</title>
+<link href="../css/master.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/MenuOpen.js"></script>
+<script>
+    function ChangeMenuPic(value) {
+        for (var i = 1; i <= 6; i++) {
+            if (document.getElementById("m0" + i)) {
+                document.getElementById("m0" + i).src = "../images/tw/m0" + i + ".jpg";
+            }
+        }
+        document.getElementById("m0" + value).src = "../images/tw/m0" + value + "_1.jpg";
+    }   
+    </script>
+    <script type="text/JavaScript">
+<!--
+        function MM_swapImgRestore() { //v3.0
+            var i, x, a = document.MM_sr; for (i = 0; a && i < a.length && (x = a[i]) && x.oSrc; i++) x.src = x.oSrc;
+        }
+
+        function MM_preloadImages() { //v3.0
+            var d = document; if (d.images) {
+                if (!d.MM_p) d.MM_p = new Array();
+                var i, j = d.MM_p.length, a = MM_preloadImages.arguments; for (i = 0; i < a.length; i++)
+                    if (a[i].indexOf("#") != 0) { d.MM_p[j] = new Image; d.MM_p[j++].src = a[i]; } 
+            }
+        }
+
+        function MM_findObj(n, d) { //v4.01
+            var p, i, x; if (!d) d = document; if ((p = n.indexOf("?")) > 0 && parent.frames.length) {
+                d = parent.frames[n.substring(p + 1)].document; n = n.substring(0, p);
+            }
+            if (!(x = d[n]) && d.all) x = d.all[n]; for (i = 0; !x && i < d.forms.length; i++) x = d.forms[i][n];
+            for (i = 0; !x && d.layers && i < d.layers.length; i++) x = MM_findObj(n, d.layers[i].document);
+            if (!x && d.getElementById) x = d.getElementById(n); return x;
+        }
+
+        function MM_swapImage() { //v3.0
+            var i, j = 0, x, a = MM_swapImage.arguments; document.MM_sr = new Array; for (i = 0; i < (a.length - 2); i += 3)
+                if ((x = MM_findObj(a[i])) != null) { document.MM_sr[j++] = x; if (!x.oSrc) x.oSrc = x.src; x.src = a[i + 2]; }
+        }
+//-->
+</script>
+<style type="text/css">
+img, div, input { behavior: url("css/iepngfix.htc") }
+</style>
+<script type="text/JavaScript">
+<!--
+    function MM_jumpMenu(targ, selObj, restore) { //v3.0
+        eval(targ + ".location='" + selObj.options[selObj.selectedIndex].value + "'");
+        if (restore) selObj.selectedIndex = 0;
+    }
+//-->
+</script>
+<link href="/WebResource.axd?d=wJZO_t2aY6rR0CkSQaxwW3WOw8eMt1Wp45tWqo32s2_Kazvlpcin0PZLc6fcZbUzknOMwNj3F5E-C2b_GIxb-Ed4pIa4Bp1Nf9hdV7Q4OPvugmFAFgEAGZE38dn6-aI4jp44AoGgYdN_JesDQdpnVIulaz81&amp;t=634279205575331250" type="text/css" rel="stylesheet" /></head>
+
+<body>
+ <form name="aspnetForm" method="post" action="GovPublicInfo.aspx?p=58&amp;pa=10227&amp;n=10347&amp;type=2" id="aspnetForm">
+<input type="hidden" name="ctl00_ContentPlaceHolder1_ScriptManager1_HiddenField" id="ctl00_ContentPlaceHolder1_ScriptManager1_HiddenField" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+function SearchColumnChange(){
+if(document.getElementById('ctl00_ContentPlaceHolder1_ddlSearch').selectedIndex == 0)
+{
+document.getElementById('ctl00_ContentPlaceHolder1_txtSearch').style.display = 'none';
+document.getElementById('ctl00_ContentPlaceHolder1_txtSDate').style.display = 'none';
+document.getElementById('ctl00_ContentPlaceHolder1_btnCalS').style.display = 'none';
+document.getElementById('ctl00_ContentPlaceHolder1_txtEDate').style.display = 'none';
+document.getElementById('ctl00_ContentPlaceHolder1_btnCalE').style.display = 'none';
+document.getElementById('ctl00_ContentPlaceHolder1_ddlType').style.display = 'none';
+}
+else if(document.getElementById('ctl00_ContentPlaceHolder1_ddlSearch').selectedIndex == 2)
+{
+document.getElementById('ctl00_ContentPlaceHolder1_txtSearch').style.display = 'none';
+document.getElementById('ctl00_ContentPlaceHolder1_txtSDate').style.display = '';
+document.getElementById('ctl00_ContentPlaceHolder1_btnCalS').style.display = '';
+document.getElementById('ctl00_ContentPlaceHolder1_txtEDate').style.display = '';
+document.getElementById('ctl00_ContentPlaceHolder1_btnCalE').style.display = '';
+document.getElementById('ctl00_ContentPlaceHolder1_ddlType').style.display = 'none';
+}
+else if(document.getElementById('ctl00_ContentPlaceHolder1_ddlSearch').selectedIndex == 3)
+{
+document.getElementById('ctl00_ContentPlaceHolder1_txtSearch').style.display = 'none';
+document.getElementById('ctl00_ContentPlaceHolder1_txtSDate').style.display = 'none';
+document.getElementById('ctl00_ContentPlaceHolder1_btnCalS').style.display = 'none';
+document.getElementById('ctl00_ContentPlaceHolder1_txtEDate').style.display = 'none';
+document.getElementById('ctl00_ContentPlaceHolder1_btnCalE').style.display = 'none';
+document.getElementById('ctl00_ContentPlaceHolder1_ddlType').style.display = '';
+}
+else
+{
+document.getElementById('ctl00_ContentPlaceHolder1_txtSearch').style.display = '';
+document.getElementById('ctl00_ContentPlaceHolder1_txtSDate').style.display = 'none';
+document.getElementById('ctl00_ContentPlaceHolder1_btnCalS').style.display = 'none';
+document.getElementById('ctl00_ContentPlaceHolder1_txtEDate').style.display = 'none';
+document.getElementById('ctl00_ContentPlaceHolder1_btnCalE').style.display = 'none';
+document.getElementById('ctl00_ContentPlaceHolder1_ddlType').style.display = 'none';
+}
+}
+var __cultureInfo = '{"name":"zh-TW","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":".","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":",","CurrencySymbol":"NT$","NaNSymbol":"不是一個數字","CurrencyNegativePattern":1,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"負無窮大","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":".","NumberGroupSeparator":",","CurrencyPositivePattern":0,"PositiveInfinitySymbol":"正無窮大","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":".","PercentGroupSeparator":",","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"上午","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402271999999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":0,"CalendarWeekRule":0,"FullDateTimePattern":"yyyy\u0027年\u0027M\u0027月\u0027d\u0027日\u0027 tt hh:mm:ss","LongDatePattern":"yyyy\u0027年\u0027M\u0027月\u0027d\u0027日\u0027","LongTimePattern":"tt hh:mm:ss","MonthDayPattern":"M\u0027月\u0027d\u0027日\u0027","PMDesignator":"下午","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"yyyy/M/d","ShortTimePattern":"tt hh:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"yyyy\u0027年\u0027M\u0027月\u0027","AbbreviatedDayNames":["星期日","星期一","星期二","星期三","星期四","星期五","星期六"],"ShortestDayNames":["日","一","二","三","四","五","六"],"DayNames":["星期日","星期一","星期二","星期三","星期四","星期五","星期六"],"AbbreviatedMonthNames":["一月","二月","三月","四月","五月","六月","七月","八月","九月","十月","十一月","十二月",""],"MonthNames":["一月","二月","三月","四月","五月","六月","七月","八月","九月","十月","十一月","十二月",""],"IsReadOnly":true,"NativeCalendarName":"西曆 (中文)","AbbreviatedMonthGenitiveNames":["一月","二月","三月","四月","五月","六月","七月","八月","九月","十月","十一月","十二月",""],"MonthGenitiveNames":["一月","二月","三月","四月","五月","六月","七月","八月","九月","十月","十一月","十二月",""]}}';//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=ohaZX_FDqP7WU1LDQv5Lf31BT7QbnDHicN4EodUzPjnrL4tZ96pmjnbL8-15q7OnUr22AMrRtolAHQYvTS-8fEbeXvC8OxDPP7_whwf0MBanFmORkYypxYcwLeUPCG3DWit3DE4N5tGZLpvF9KM4oxlrkOiU71KRySjJ1mRlDN9PesaB0&amp;t=634037264952651250" type="text/javascript"></script>
+<script src="/chinese/GovPublicInfo.aspx?_TSM_HiddenField_=ctl00_ContentPlaceHolder1_ScriptManager1_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d1.0.10618.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3azh-TW%3abc82895f-eb24-48f8-a8ba-a354eb9c74da%3ae2e86ef9%3aa9a7729d%3a9ea3f0e2%3a9e8e87e9%3a1df13a87%3a4c9865be%3aba594826%3a507fcf1b%3ac7a4182e" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="1FA4E163" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="1eaYaefIn3AoOCXNTeHyqnCmmWOjTNusLH3q3c8tN4mJ5/cUG+ORqIcrlHV/i1QbCwQ5pPPf1dr+stdV1McKZwGKMdMWeBql+w1Bbl3bgNtQWwFrmRwJNUNpMKB22BekmfsjuUwCTMK5YeYXu3jqxMgrglTL/ZUqDO3Ux3hTQmFGYprjaP9dgjssM7gWONiTpFR0jFjzyP8kshEJnA+hdxGtf0asAQB5V5LsVLuo49EPKV2kmcpFjvU+QyJ+4byNuhTMMuzz3GQQmc9F0dG/Hwhb/uZuMivSLVRunkeqDNI1jawlEjZbU+qpqjr0TIWygSmQ7zR+NQwrkIqsQZwQtcsNhZxFdzbbWQ6bDl0Ka500oQbfdUduSHRu4ChTPMf59if33oTZzIZs0kLg4V3HgqGWDOUSO3Vvy1tH1WgsO9YnafIrCwedia/yP+H18/Ga9w9x/tkosGLa80Hwz7oS7ys/7My4O+WW0gqkOLZ4B7p016cTJfshkxPTEKhr1y4vIDyKeqUdkjzXLae1qDNIH50SxCAiNLW+OuzNRr2+UUyZD3QSQChXZ+GKdb81zodz2GOeMZaR9PYOU/UX0pwuXvaGus8K4d4cbSY56Kj6VKaRoAqyEoz+hNjtvGcmnOFbgsV8L7IphfnVtOOmnlPdb04G9w9hzv7A6jsrbe5OwzP220liiOcvegXJpkkkFY9kGmOClPhnQwnhTQKefAnWBYEYG9sNF1RlHHbNqKd8J5buHM8bYR4O1CjHsSuWk6aqGQkTClANWabfbw1EzoOf9iPdBDCrVKi+ZdFMsg3m1OqauVsXWqjtxWiYhSW8HFtqYSv1TWm8VaM7Yd8yvRepVuUF5uVzNUFPfBex/ykoW3U5xDOVksGeJeavbplJPb3hrhExlxMPBGlbWp6E5rj9VFLMGNk+MjIa2vTldlirM2LTUeusKQ+nwT6fTM9JFJuANjQb35sg/C7nGUBzEdmLeQMQkd2Yw/EgbERSZanMJchIvUx5W8D7vRHjWj1onqjIkL/VCA1vfNc0ppn2QFVDwhs1zrgZFGW8ZE+C04oblxMZ7y6BaLCzIKkTZBWP7kn5lR9tTyr7qt3UuDSayNmMpXPnf2KGdXj9ZzApTz0PuEEVqPc5+EWE0Sx4ekeTNkSIsWIZYRSa8/v2gl8v55QLe7pTFW/bBv4OtLLb4ZBGwPjeWwyNtVjDDw/jYP6mHZEVdeRbSbJ/r2z6hosNJcQM2FfqAtU/OZ4v32fCBRrNaQsa5IbRvyPCkBj/IiRlSU87OWlULztPFt0mVrqrT0xDs1tNmczYhNrpEIoczpExxKEQPtec" />
+    <div>
+  <noscript>
+    <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr><td class="word_11 red01" colspan="3">您的瀏覽器不支援JavaScript!</td></tr>
+    <tr><td align="left">1.無法瀏覽下拉式第二層副選單，請由下方的替代選單連結各頁面。</td></tr>
+    <tr><td>造成您的不便敬請見諒。</td></tr>
+    </table>
+    <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td>
+                        
+                    </td>
+                  </tr>
+                </table>
+    </noscript>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" id="ShowBox">
+  <tr>
+    <td background="../images/tw/bottom.jpg" style=" background-repeat:repeat-x; background-position:bottom;"><table width="10%" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td background="../images/tw/top_bg.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="1%"><a name="00" id="00"></a><a href="/chinese/index.aspx"><img src="../images/tw/logo.jpg" alt="logo" width="317" height="87" border="0"/></a></td>
+              <td valign="bottom"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td style="padding-right:10pt;"><table width="100%" border="0" cellspacing="0" cellpadding="2">
+                        <tr>
+                          <td align="right" class="gray01 text_12pt"><a accesskey="U" href="#" title="上方選單連結區，此區塊列有本網站的主要連結"><span style="visibility:hidden">:::</span></a><a href="index.aspx">回首頁</a>　　<a href="http://ksb.judicial.gov.tw/english/index.aspx">ENGLISH</a>　　<a href="sitemap.aspx?n=10331">網站導覽</a></td>
+                        </tr>
+                        <tr>
+                          <td align="right"><table width="10%" border="0" cellspacing="0" cellpadding="1">
+                              <tr bgcolor="#4380B7">
+                                <td bgcolor="#4380B7"><input id="query" type="text" class="text_12pt" /></td>
+                                <td width="1%"><a href="#" id="ctl00_ahref" title="submit" onclick="window.open('Default.aspx?sc=' + escape(document.getElementById('query').value))" onkeypress="this.onclick();"><img src="../images/tw/search.jpg" alt="search" width="38" height="21" border="0" /></a></td>
+                              </tr>
+                          </table></td>
+                        </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                        <td>
+                                                <input type="hidden" name="ctl00$rptMenu$ctl00$HiddenField1" id="ctl00_rptMenu_ctl00_HiddenField1" value="10222" />
+                                                <input type="hidden" name="ctl00$rptMenu$ctl00$HiddenField2" id="ctl00_rptMenu_ctl00_HiddenField2" value="2" />
+                                                <input type="hidden" name="ctl00$rptMenu$ctl00$HiddenField4" id="ctl00_rptMenu_ctl00_HiddenField4" value="False" />
+                                                
+                                                <td align="center"><a href="/chinese/CP.aspx?s=375&pa=10221&n=10222" id="ctl00_rptMenu_ctl00_hylPath" target="_self" onmouseover="ShowMenu3(this,'ctl00_rptMenu_ctl00_SubMenu','0');ChangeMenuPic('1');" onfocus="ShowMenu3(this,'ctl00_rptMenu_ctl00_SubMenu','0');ChangeMenuPic('1');"><img id="m01" src="../images/tw/m01.jpg" alt="認識本院" border="0" /></a>
+                                                                                                        <div id="ctl00_rptMenu_ctl00_SubMenu" class="SubMenu trans-Opa" name="SubMenu" onmouseover="EnterMenu(this);" onmouseout="LeaveMenu(this, this.id);" onfocus="EnterMenu(this);" onblur="LeaveMenu(this, this.id);" style="display:none;;">
+                                                                                                        <table border="0" cellpadding="0" cellspacing="0">
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl00$HiddenField1" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl00_HiddenField1" value="10222" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl00$HiddenField2" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl00_HiddenField2" value="2" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl00$HiddenField4" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl00_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/CP.aspx?s=375&pa=10221&n=10222" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl00_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">院長介紹</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl01$HiddenField1" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl01_HiddenField1" value="10361" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl01$HiddenField2" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl01_HiddenField2" value="2" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl01$HiddenField4" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl01_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/CP.aspx?s=396&pa=10221&n=10361" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl01_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">在職法官簡歷</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl02$HiddenField1" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl02_HiddenField1" value="10223" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl02$HiddenField2" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl02_HiddenField2" value="2" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl02$HiddenField4" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl02_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/CP.aspx?s=376&pa=10221&n=10223" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl02_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">本院成立沿革</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl03$HiddenField1" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl03_HiddenField1" value="10272" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl03$HiddenField2" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl03_HiddenField2" value="2" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl03$HiddenField4" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl03_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/CP.aspx?s=377&pa=10221&n=10272" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl03_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">組織系統</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl04$HiddenField1" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl04_HiddenField1" value="10336" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl04$HiddenField2" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl04_HiddenField2" value="2" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl04$HiddenField4" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl04_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/CP.aspx?s=378&pa=10221&n=10336" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl04_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">業務簡介</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl05$HiddenField1" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl05_HiddenField1" value="10337" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl05$HiddenField2" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl05_HiddenField2" value="2" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl05$HiddenField4" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl05_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/CP.aspx?s=379&pa=10221&n=10337" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl05_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">管轄範圍</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl06$HiddenField1" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl06_HiddenField1" value="10338" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl06$HiddenField2" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl06_HiddenField2" value="2" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl06$HiddenField4" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl06_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/CP.aspx?s=380&pa=10221&n=10338" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl06_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">地理位置圖</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl07$HiddenField1" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl07_HiddenField1" value="10339" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl07$HiddenField2" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl07_HiddenField2" value="2" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl07$HiddenField4" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl07_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/CP.aspx?s=381&pa=10221&n=10339" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl07_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">環境設施介紹</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl08$HiddenField1" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl08_HiddenField1" value="10340" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl08$HiddenField2" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl08_HiddenField2" value="2" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl00$rptSubMenu$ctl08$HiddenField4" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl08_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/CP.aspx?s=382&pa=10221&n=10340" id="ctl00_rptMenu_ctl00_rptSubMenu_ctl08_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">聯絡電話</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                                                                        </table></div>
+                                                                                                        </td>
+                                                
+                                                <td background="../images/tw/tb02.png" class="white01 text_14pt bold01"></td>
+                                                                                                
+                                                <input type="hidden" name="ctl00$rptMenu$ctl02$HiddenField1" id="ctl00_rptMenu_ctl02_HiddenField1" value="10225" />
+                                                <input type="hidden" name="ctl00$rptMenu$ctl02$HiddenField2" id="ctl00_rptMenu_ctl02_HiddenField2" value="2" />
+                                                <input type="hidden" name="ctl00$rptMenu$ctl02$HiddenField4" id="ctl00_rptMenu_ctl02_HiddenField4" value="False" />
+                                                
+                                                <td align="center"><a href="/chinese/CP.aspx?s=164&pa=10224&n=10225" id="ctl00_rptMenu_ctl02_hylPath" target="_self" onmouseover="ShowMenu3(this,'ctl00_rptMenu_ctl02_SubMenu','1');ChangeMenuPic('2');" onfocus="ShowMenu3(this,'ctl00_rptMenu_ctl02_SubMenu','1');ChangeMenuPic('2');"><img id="m02" src="../images/tw/m02.jpg" alt="便民服務" border="0" /></a>
+                                                                                                        <div id="ctl00_rptMenu_ctl02_SubMenu" class="SubMenu trans-Opa" name="SubMenu" onmouseover="EnterMenu(this);" onmouseout="LeaveMenu(this, this.id);" onfocus="EnterMenu(this);" onblur="LeaveMenu(this, this.id);" style="display:none;;">
+                                                                                                        <table border="0" cellpadding="0" cellspacing="0">
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl00$HiddenField1" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl00_HiddenField1" value="10225" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl00$HiddenField2" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl00_HiddenField2" value="2" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl00$HiddenField4" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl00_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/CP.aspx?s=164&pa=10224&n=10225" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl00_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">聯合服務中心</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl01$HiddenField1" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl01_HiddenField1" value="10226" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl01$HiddenField2" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl01_HiddenField2" value="2" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl01$HiddenField4" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl01_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/CP.aspx?s=136&pa=10224&n=10226" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl01_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">與民有約</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl02$HiddenField1" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl02_HiddenField1" value="10279" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl02$HiddenField2" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl02_HiddenField2" value="2" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl02$HiddenField4" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl02_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/CP.aspx?s=233&pa=10224&n=10279" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl02_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">訴訟輔導</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl03$HiddenField1" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl03_HiddenField1" value="10280" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl03$HiddenField2" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl03_HiddenField2" value="2" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl03$HiddenField4" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl03_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/CP.aspx?s=333&pa=10224&n=10280" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl03_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">訴訟費用</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl04$HiddenField1" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl04_HiddenField1" value="10281" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl04$HiddenField2" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl04_HiddenField2" value="1" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl04$HiddenField4" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl04_HiddenField4" value="True" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="http://www.judicial.gov.tw/assist/assist03/assist03-08.asp" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl04_hylSubMenu" target="_blank" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">書狀範例</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl05$HiddenField1" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl05_HiddenField1" value="10282" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl05$HiddenField2" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl05_HiddenField2" value="2" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl05$HiddenField4" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl05_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/CP.aspx?s=243&pa=10224&n=10282" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl05_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">閱卷聲請</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl06$HiddenField1" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl06_HiddenField1" value="10341" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl06$HiddenField2" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl06_HiddenField2" value="1" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl06$HiddenField4" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl06_HiddenField4" value="True" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="http://www.judicial.gov.tw/work/work04.asp" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl06_hylSubMenu" target="_blank" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">調閱電子筆錄</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl07$HiddenField1" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl07_HiddenField1" value="10342" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl07$HiddenField2" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl07_HiddenField2" value="1" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl07$HiddenField4" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl07_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/faqlist.aspx?p=1&pa=10224&n=10342" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl07_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">常見問題</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl08$HiddenField1" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl08_HiddenField1" value="10343" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl08$HiddenField2" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl08_HiddenField2" value="2" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl08$HiddenField4" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl08_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/CP.aspx?s=383&pa=10224&n=10343" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl08_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">其他服務</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl09$HiddenField1" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl09_HiddenField1" value="10344" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl09$HiddenField2" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl09_HiddenField2" value="2" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl09$HiddenField4" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl09_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/CP.aspx?s=384&pa=10224&n=10344" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl09_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">行政訴訟文書傳送</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl10$HiddenField1" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl10_HiddenField1" value="10345" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl10$HiddenField2" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl10_HiddenField2" value="1" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl10$HiddenField4" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl10_HiddenField4" value="True" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="http://du.judicial.gov.tw/jud_k/wke/LoginFEXG.jsp" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl10_hylSubMenu" target="_blank" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">書狀上傳區</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl11$HiddenField1" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl11_HiddenField1" value="10360" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl11$HiddenField2" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl11_HiddenField2" value="2" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl02$rptSubMenu$ctl11$HiddenField4" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl11_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/CP.aspx?s=395&pa=10224&n=10360" id="ctl00_rptMenu_ctl02_rptSubMenu_ctl11_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">線上起訴</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                                                                        </table></div>
+                                                                                                        </td>
+                                                
+                                                <td background="../images/tw/tb02.png" class="white01 text_14pt bold01"></td>
+                                                                                                
+                                                <input type="hidden" name="ctl00$rptMenu$ctl04$HiddenField1" id="ctl00_rptMenu_ctl04_HiddenField1" value="10355" />
+                                                <input type="hidden" name="ctl00$rptMenu$ctl04$HiddenField2" id="ctl00_rptMenu_ctl04_HiddenField2" value="1" />
+                                                <input type="hidden" name="ctl00$rptMenu$ctl04$HiddenField4" id="ctl00_rptMenu_ctl04_HiddenField4" value="True" />
+                                                
+                                                <td align="center"><a href="http://cpor.judicial.gov.tw/cqry/Login.do" id="ctl00_rptMenu_ctl04_hylPath" target="_blank" onmouseover="ShowMenu3(this,'ctl00_rptMenu_ctl04_SubMenu','2');ChangeMenuPic('3');" onfocus="ShowMenu3(this,'ctl00_rptMenu_ctl04_SubMenu','2');ChangeMenuPic('3');"><img id="m03" src="../images/tw/m03.jpg" alt="查詢服務" border="0" /></a>
+                                                                                                        <div id="ctl00_rptMenu_ctl04_SubMenu" class="SubMenu trans-Opa" name="SubMenu" onmouseover="EnterMenu(this);" onmouseout="LeaveMenu(this, this.id);" onfocus="EnterMenu(this);" onblur="LeaveMenu(this, this.id);" style="display:none;;">
+                                                                                                        <table border="0" cellpadding="0" cellspacing="0">
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl00$HiddenField1" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl00_HiddenField1" value="10355" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl00$HiddenField2" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl00_HiddenField2" value="1" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl00$HiddenField4" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl00_HiddenField4" value="True" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="http://cpor.judicial.gov.tw/cqry/Login.do" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl00_hylSubMenu" target="_blank" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">案件進度查詢</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl01$HiddenField1" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl01_HiddenField1" value="10286" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl01$HiddenField2" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl01_HiddenField2" value="1" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl01$HiddenField4" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl01_HiddenField4" value="True" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="http://csdi.judicial.gov.tw/abbs/wkw/WHD3A01.jsp?court=ksb" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl01_hylSubMenu" target="_blank" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">庭期查詢</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl02$HiddenField1" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl02_HiddenField1" value="10229" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl02$HiddenField2" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl02_HiddenField2" value="1" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl02$HiddenField4" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl02_HiddenField4" value="True" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="http://www.judicial.gov.tw/ctstate/getctstate.asp?courtcode=KSB" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl02_hylSubMenu" target="_blank" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">開庭進度查詢</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl03$HiddenField1" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl03_HiddenField1" value="10230" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl03$HiddenField2" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl03_HiddenField2" value="1" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl03$HiddenField4" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl03_HiddenField4" value="True" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="http://csdi.judicial.gov.tw/abbs/wkw/WHD1A01.jsp?court=ksb" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl03_hylSubMenu" target="_blank" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">主文查詢</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl04$HiddenField1" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl04_HiddenField1" value="10273" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl04$HiddenField2" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl04_HiddenField2" value="1" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl04$HiddenField4" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl04_HiddenField4" value="True" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="http://jirs.judicial.gov.tw/FJUD/" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl04_hylSubMenu" target="_blank" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">裁判書查詢</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl05$HiddenField1" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl05_HiddenField1" value="10276" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl05$HiddenField2" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl05_HiddenField2" value="1" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl05$HiddenField4" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl05_HiddenField4" value="True" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="http://jirs.judicial.gov.tw/" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl05_hylSubMenu" target="_blank" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">法學資料檢索</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl06$HiddenField1" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl06_HiddenField1" value="10289" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl06$HiddenField2" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl06_HiddenField2" value="1" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl06$HiddenField4" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl06_HiddenField4" value="True" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="http://www.judicial.gov.tw/Intrprtr/" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl06_hylSubMenu" target="_blank" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">特約通譯名冊</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl07$HiddenField1" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl07_HiddenField1" value="10346" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl07$HiddenField2" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl07_HiddenField2" value="2" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl07$HiddenField4" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl07_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/CP.aspx?s=386&pa=10227&n=10346" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl07_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">相關法令</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl08$HiddenField1" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl08_HiddenField1" value="10347" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl08$HiddenField2" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl08_HiddenField2" value="1" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl04$rptSubMenu$ctl08$HiddenField4" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl08_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/GovPublicInfo.aspx?p=58&pa=10227&n=10347" id="ctl00_rptMenu_ctl04_rptSubMenu_ctl08_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">政府資訊公開服務</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                                                                        </table></div>
+                                                                                                        </td>
+                                                
+                                                <td background="../images/tw/tb02.png" class="white01 text_14pt bold01"></td>
+                                                                                                
+                                                <input type="hidden" name="ctl00$rptMenu$ctl06$HiddenField1" id="ctl00_rptMenu_ctl06_HiddenField1" value="10295" />
+                                                <input type="hidden" name="ctl00$rptMenu$ctl06$HiddenField2" id="ctl00_rptMenu_ctl06_HiddenField2" value="2" />
+                                                <input type="hidden" name="ctl00$rptMenu$ctl06$HiddenField4" id="ctl00_rptMenu_ctl06_HiddenField4" value="False" />
+                                                
+                                                <td align="center"><a href="/chinese/CP.aspx?s=389&pa=10231&n=10295" id="ctl00_rptMenu_ctl06_hylPath" target="_self" onmouseover="ShowMenu3(this,'ctl00_rptMenu_ctl06_SubMenu','3');ChangeMenuPic('4');" onfocus="ShowMenu3(this,'ctl00_rptMenu_ctl06_SubMenu','3');ChangeMenuPic('4');"><img id="m04" src="../images/tw/m04.jpg" alt="廉政專欄" border="0" /></a>
+                                                                                                        <div id="ctl00_rptMenu_ctl06_SubMenu" class="SubMenu trans-Opa" name="SubMenu" onmouseover="EnterMenu(this);" onmouseout="LeaveMenu(this, this.id);" onfocus="EnterMenu(this);" onblur="LeaveMenu(this, this.id);" style="display:none;;">
+                                                                                                        <table border="0" cellpadding="0" cellspacing="0">
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl06$rptSubMenu$ctl00$HiddenField1" id="ctl00_rptMenu_ctl06_rptSubMenu_ctl00_HiddenField1" value="10295" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl06$rptSubMenu$ctl00$HiddenField2" id="ctl00_rptMenu_ctl06_rptSubMenu_ctl00_HiddenField2" value="2" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl06$rptSubMenu$ctl00$HiddenField4" id="ctl00_rptMenu_ctl06_rptSubMenu_ctl00_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/CP.aspx?s=389&pa=10231&n=10295" id="ctl00_rptMenu_ctl06_rptSubMenu_ctl00_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">廉政窗口</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl06$rptSubMenu$ctl01$HiddenField1" id="ctl00_rptMenu_ctl06_rptSubMenu_ctl01_HiddenField1" value="10296" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl06$rptSubMenu$ctl01$HiddenField2" id="ctl00_rptMenu_ctl06_rptSubMenu_ctl01_HiddenField2" value="1" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl06$rptSubMenu$ctl01$HiddenField4" id="ctl00_rptMenu_ctl06_rptSubMenu_ctl01_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/Honest.aspx?p=73&pa=10231&n=10296" id="ctl00_rptMenu_ctl06_rptSubMenu_ctl01_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">廉政宣導</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl06$rptSubMenu$ctl02$HiddenField1" id="ctl00_rptMenu_ctl06_rptSubMenu_ctl02_HiddenField1" value="10356" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl06$rptSubMenu$ctl02$HiddenField2" id="ctl00_rptMenu_ctl06_rptSubMenu_ctl02_HiddenField2" value="1" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl06$rptSubMenu$ctl02$HiddenField4" id="ctl00_rptMenu_ctl06_rptSubMenu_ctl02_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/Honest.aspx?p=74&pa=10231&n=10356" id="ctl00_rptMenu_ctl06_rptSubMenu_ctl02_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">廉政會報</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                                                                        </table></div>
+                                                                                                        </td>
+                                                
+                                                <td background="../images/tw/tb02.png" class="white01 text_14pt bold01"></td>
+                                                                                                
+                                                <input type="hidden" name="ctl00$rptMenu$ctl08$HiddenField1" id="ctl00_rptMenu_ctl08_HiddenField1" value="10235" />
+                                                <input type="hidden" name="ctl00$rptMenu$ctl08$HiddenField2" id="ctl00_rptMenu_ctl08_HiddenField2" value="1" />
+                                                <input type="hidden" name="ctl00$rptMenu$ctl08$HiddenField4" id="ctl00_rptMenu_ctl08_HiddenField4" value="False" />
+                                                
+                                                <td align="center"><a href="/chinese/news.aspx?y=0&p=75&pa=10234&n=10235" id="ctl00_rptMenu_ctl08_hylPath" target="_self" onmouseover="ShowMenu3(this,'ctl00_rptMenu_ctl08_SubMenu','4');ChangeMenuPic('5');" onfocus="ShowMenu3(this,'ctl00_rptMenu_ctl08_SubMenu','4');ChangeMenuPic('5');"><img id="m05" src="../images/tw/m05.jpg" alt="公告事項" border="0" /></a>
+                                                                                                        <div id="ctl00_rptMenu_ctl08_SubMenu" class="SubMenu trans-Opa" name="SubMenu" onmouseover="EnterMenu(this);" onmouseout="LeaveMenu(this, this.id);" onfocus="EnterMenu(this);" onblur="LeaveMenu(this, this.id);" style="display:none;;">
+                                                                                                        <table border="0" cellpadding="0" cellspacing="0">
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl08$rptSubMenu$ctl00$HiddenField1" id="ctl00_rptMenu_ctl08_rptSubMenu_ctl00_HiddenField1" value="10235" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl08$rptSubMenu$ctl00$HiddenField2" id="ctl00_rptMenu_ctl08_rptSubMenu_ctl00_HiddenField2" value="1" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl08$rptSubMenu$ctl00$HiddenField4" id="ctl00_rptMenu_ctl08_rptSubMenu_ctl00_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/news.aspx?y=0&p=75&pa=10234&n=10235" id="ctl00_rptMenu_ctl08_rptSubMenu_ctl00_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">一般公告</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl08$rptSubMenu$ctl01$HiddenField1" id="ctl00_rptMenu_ctl08_rptSubMenu_ctl01_HiddenField1" value="10236" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl08$rptSubMenu$ctl01$HiddenField2" id="ctl00_rptMenu_ctl08_rptSubMenu_ctl01_HiddenField2" value="1" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl08$rptSubMenu$ctl01$HiddenField4" id="ctl00_rptMenu_ctl08_rptSubMenu_ctl01_HiddenField4" value="True" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="http://jirs.judicial.gov.tw/GNNWS/NNWSS001.asp?classFlag=e&Search=y&courtId=KSB" id="ctl00_rptMenu_ctl08_rptSubMenu_ctl01_hylSubMenu" target="_blank" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">徵人啟事</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl08$rptSubMenu$ctl02$HiddenField1" id="ctl00_rptMenu_ctl08_rptSubMenu_ctl02_HiddenField1" value="10238" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl08$rptSubMenu$ctl02$HiddenField2" id="ctl00_rptMenu_ctl08_rptSubMenu_ctl02_HiddenField2" value="1" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl08$rptSubMenu$ctl02$HiddenField4" id="ctl00_rptMenu_ctl08_rptSubMenu_ctl02_HiddenField4" value="True" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="http://jirs.judicial.gov.tw/GNNWS/NNWSS001.asp?classFlag=n&courtId=KSB" id="ctl00_rptMenu_ctl08_rptSubMenu_ctl02_hylSubMenu" target="_blank" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">新聞稿</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl08$rptSubMenu$ctl03$HiddenField1" id="ctl00_rptMenu_ctl08_rptSubMenu_ctl03_HiddenField1" value="10239" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl08$rptSubMenu$ctl03$HiddenField2" id="ctl00_rptMenu_ctl08_rptSubMenu_ctl03_HiddenField2" value="1" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl08$rptSubMenu$ctl03$HiddenField4" id="ctl00_rptMenu_ctl08_rptSubMenu_ctl03_HiddenField4" value="True" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="http://jirs.judicial.gov.tw/GNNWS/NNWSS001.asp?classFlag=k5&courtId=KSB" id="ctl00_rptMenu_ctl08_rptSubMenu_ctl03_hylSubMenu" target="_blank" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">公示送達</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                                                                        </table></div>
+                                                                                                        </td>
+                                                
+                                                <td background="../images/tw/tb02.png" class="white01 text_14pt bold01"></td>
+                                                                                                
+                                                <input type="hidden" name="ctl00$rptMenu$ctl10$HiddenField1" id="ctl00_rptMenu_ctl10_HiddenField1" value="10348" />
+                                                <input type="hidden" name="ctl00$rptMenu$ctl10$HiddenField2" id="ctl00_rptMenu_ctl10_HiddenField2" value="2" />
+                                                <input type="hidden" name="ctl00$rptMenu$ctl10$HiddenField4" id="ctl00_rptMenu_ctl10_HiddenField4" value="False" />
+                                                
+                                                <td align="center"><a href="/chinese/CP.aspx?s=390&pa=10244&n=10348" id="ctl00_rptMenu_ctl10_hylPath" target="_self" onmouseover="ShowMenu3(this,'ctl00_rptMenu_ctl10_SubMenu','5');ChangeMenuPic('6');" onfocus="ShowMenu3(this,'ctl00_rptMenu_ctl10_SubMenu','5');ChangeMenuPic('6');"><img id="m06" src="../images/tw/m06.jpg" alt="多媒體區" border="0" /></a>
+                                                                                                        <div id="ctl00_rptMenu_ctl10_SubMenu" class="SubMenu trans-Opa" name="SubMenu" onmouseover="EnterMenu(this);" onmouseout="LeaveMenu(this, this.id);" onfocus="EnterMenu(this);" onblur="LeaveMenu(this, this.id);" style="display:none;;">
+                                                                                                        <table border="0" cellpadding="0" cellspacing="0">
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl10$rptSubMenu$ctl00$HiddenField1" id="ctl00_rptMenu_ctl10_rptSubMenu_ctl00_HiddenField1" value="10348" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl10$rptSubMenu$ctl00$HiddenField2" id="ctl00_rptMenu_ctl10_rptSubMenu_ctl00_HiddenField2" value="2" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl10$rptSubMenu$ctl00$HiddenField4" id="ctl00_rptMenu_ctl10_rptSubMenu_ctl00_HiddenField4" value="False" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="/chinese/CP.aspx?s=390&pa=10244&n=10348" id="ctl00_rptMenu_ctl10_rptSubMenu_ctl00_hylSubMenu" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">多媒體簡介</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                        <tr><td nowrap="nowrap"  bgcolor="#65aed9">
+                                                        <input type="hidden" name="ctl00$rptMenu$ctl10$rptSubMenu$ctl01$HiddenField1" id="ctl00_rptMenu_ctl10_rptSubMenu_ctl01_HiddenField1" value="10349" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl10$rptSubMenu$ctl01$HiddenField2" id="ctl00_rptMenu_ctl10_rptSubMenu_ctl01_HiddenField2" value="1" />
+                                                                <input type="hidden" name="ctl00$rptMenu$ctl10$rptSubMenu$ctl01$HiddenField4" id="ctl00_rptMenu_ctl10_rptSubMenu_ctl01_HiddenField4" value="True" />
+                                                        &nbsp;&nbsp;&nbsp;<span style="color:#ffffff; font-size:90%;" ><a href="http://www.judicial.gov.tw/video/" id="ctl00_rptMenu_ctl10_rptSubMenu_ctl01_hylSubMenu" target="_blank" onmouseover="EnterMenu(this);" onfocus="EnterMenu(this);">法治宣導</a></span>&nbsp;&nbsp;&nbsp;
+                                                        </td></tr>
+                                                         <tr><td nowrap="nowrap" background="../images/tw/spacer.gif"  width="1" height="1" >
+                                                                
+                                                         </td></tr>
+                                                        
+                                                                                                        </table></div>
+                                                                                                        </td>
+                                                
+                                                <td background="../images/tw/tb02.png" class="white01 text_14pt bold01"></td>
+                                                                                                </td>
+                        
+                        </tr>
+                    </table></td>
+                  </tr>
+              </table></td>
+            </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td><img src="../images/tw/banner03.jpg" id="ctl00_strBanner" alt="banner" width="950" height="245" /></td>
+      </tr>
+      <tr>
+        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="1%" valign="top"><table width="1%" border="0" cellspacing="0" cellpadding="0" id="MainTableLeft">
+                <tr>
+                  <td><a accesskey="L" href="#" title="左方選單連結區，此區塊列有本網站的次要選單連結"><span style="visibility:hidden">:::</span></a></td>
+                </tr>
+                <tr>
+                  <td><table width="10%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="1%"><img src="../images/tw/pt01_1.jpg" alt=" " width="13" height="91" /></td>
+                      <td><img src="../images/tw/pt01_2.jpg" alt="快捷選單" width="182" height="91" /></td>
+                      <td><img src="../images/tw/pt01_3.jpg" alt=" " width="18" height="91" /></td>
+                    </tr>
+                    <tr>
+                      <td background="../images/tw/pt01_4.jpg"><img src="../images/tw/pt01_4.jpg" alt=" " width="13" height="13" /></td>
+                      <td><table width="100%" border="0" cellspacing="0" cellpadding="0" class="text_13pt gray01">
+                        <tr>
+                          <td width="1%" class="form01"><img src="../images/tw/dot01.jpg" alt=" " width="23" height="24" /></td>
+                          <td class="form01"><a href="/chinese/CP.aspx?s=333&pa=10224&n=10280" title="訴訟費用">訴訟費用</a><br /></td>
+                          <td width="1%" class="form01"><img src="../images/tw/dot01.jpg" alt=" " width="23" height="24" /></td>
+                          <td class="form01"><a href="http://cpor.judicial.gov.tw/cqry/Login.do" target="_blank" title="案件進度查詢(另開新視窗)">案件進度查詢</a></td>
+                        </tr>
+                        <tr>
+                          <td class="form01"><img src="../images/tw/dot01.jpg" alt=" " width="23" height="24" /></td>
+                          <td class="form01"><a href="http://www.judicial.gov.tw/ctstate/getctstate.asp?courtcode=KSB" target="_blank" title="開庭進度(另開新視窗)">開庭進度</a><br /></td>
+                          <td class="form01"><img src="../images/tw/dot01.jpg" alt=" " width="23" height="24" /></td>
+                          <td class="form01"><a href="http://csdi.judicial.gov.tw/abbs/wkw/WHD1A01.jsp?court=ksb" target="_blank" title="主文查詢(另開新視窗)">主文查詢</a></td>
+                        </tr>
+                        <tr>
+                          <td class="form01"><img src="../images/tw/dot01.jpg" alt=" " width="23" height="24" /></td>
+                          <td class="form01"><a  href="http://csdi.judicial.gov.tw/abbs/wkw/WHD3A01.jsp?court=ksb" target="_blank" title="庭期查詢(另開新視窗)">庭期查詢</a><br /></td>
+                          <td class="form01"><img src="../images/tw/dot01.jpg" alt=" " width="23" height="24" /></td>
+                          <td class="form01"><a href="http://jirs.judicial.gov.tw/FJUD/" target="_blank" title="裁判書查詢(另開新視窗)">裁判書查詢</a></td>
+                        </tr>
+                        <tr>
+                          <td class="form01"><img src="../images/tw/dot01.jpg" alt=" " width="23" height="24" /></td>
+                          <td class="form01"><a href="http://www.judicial.gov.tw/assist/assist03/assist03-08.asp" target="_blank" title="書狀範例(另開新視窗)">書狀範例</a></td>
+                          <td class="form01"><img src="../images/tw/dot01.jpg" alt=" " width="23" height="24" /></td>
+                          <td class="form01"><a href="/chinese/CP.aspx?s=380&pa=10221&n=10338" title="交通位置圖">交通位置圖</a></td>
+                        </tr>
+	        <tr>
+                          <td class="form01"><img src="../images/tw/dot01.jpg" alt=" " width="23" height="24" /></td>
+                          <td class="form01"><a href="http://ksb.judicial.gov.tw/chinese/GovPublicInfo.aspx?p=58&pa=10227&n=10347&type=4" target="_blank" title="業務統計(另開新視窗)">業務統計</a></td>
+                          <td class="form01"><img src="../images/tw/dot01.jpg" alt=" " width="23" height="24" /></td>
+                          <td class="form01"><a href="http://jirs.judicial.gov.tw/Index.htm" title="法學資料檢索(另開新視窗)">法學資料檢索</a></td>
+                        </tr>
+                      </table></td>
+                      <td background="../images/tw/pt01_5.jpg"><img src="../images/tw/pt01_5.jpg" alt=" " width="18" height="13" /></td>
+                    </tr>
+                    <tr>
+                      <td><img src="../images/tw/pt01_6.jpg" alt=" " width="13" height="15" /></td>
+                      <td background="../images/tw/pt01_7.jpg"><img src="../images/tw/pt01_7.jpg" alt=" " width="4" height="15" /></td>
+                      <td><img src="../images/tw/pt01_8.jpg" alt=" " width="18" height="15" /></td>
+                    </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                  <td><table width="10%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="1%"><img src="../images/tw/pt02_1.jpg" alt=" " width="13" height="92" /></td>
+                      <td><img src="../images/tw/pt02_2.jpg" alt="便民服務" width="182" height="92" /></td>
+                      <td><img src="../images/tw/pt02_3.jpg" alt=" " width="18" height="92" /></td>
+                    </tr>
+                    <tr>
+                      <td valign="bottom" background="../images/tw/pt02_4.jpg"><img src="../images/tw/pt02_6.jpg" alt=" " width="13" height="99" /></td>
+                      <td background="../images/tw/page_bg.jpg" style=" background-repeat:no-repeat; background-position:left bottom"><table width="100%" border="0" cellspacing="1" cellpadding="0" class="text_13pt gray02 line1">
+                        <tr>
+                          <td><img src="../images/tw/spacer.gif" alt=" " width="1" height="65" /></td>
+                          <td><a href="/Chinese/cp.aspx?pa=10354&n=10354&s=392" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image30','','../images/tw/icon02_1.jpg',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image30','','../images/tw/icon02_1.jpg',1)"><img src="../images/tw/icon02.jpg" alt="政府資訊公開服務" name="Image30" width="45" height="46" border="0" id="Image30" /></a></td>
+                          <td>政府資訊<br />
+                            公開服務</td>
+                          <td><a href="/chinese/CP.aspx?s=382&pa=10221&n=10340" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image31','','../images/tw/icon03_1.jpg',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image31','','../images/tw/icon03_1.jpg',1)"><img src="../images/tw/icon03.jpg" alt="聯絡電話" name="Image31" width="45" height="46" border="0" id="Image31" /></a></td>
+                          <td>聯絡<br />
+                            電話                            </td>
+                        </tr>
+                        <tr>
+                          <td><img src="../images/tw/spacer.gif" alt=" " width="1" height="65" /></td>
+                          <td><a href="/chinese/CP.aspx?s=384&pa=10224&n=10344" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image33','','../images/tw/icon05_1.jpg',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image33','','../images/tw/icon05_1.jpg',1)"><img src="../images/tw/icon05.jpg" alt="行政訴訟文書傳送" name="Image33" width="45" height="46" border="0" id="Image33" /></a></td>
+                          <td>行政訴訟<br />
+                            文書傳送</td>
+                          <td><a href="/chinese/CP.aspx?s=233&pa=10224&n=10279" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image29','','../images/tw/icon01_1.jpg',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image29','','../images/tw/icon01_1.jpg',1)"><img src="../images/tw/icon01.jpg" alt="訴訟輔導" name="Image29" width="45" height="46" border="0" id="Image29" /></a></td>
+                          <td>訴訟<br />
+                            輔導                            </td>
+                        </tr>
+                        <tr>
+                          <td><img src="../images/tw/spacer.gif" alt=" " width="1" height="65" /></td>
+                          <td><a target="_blank" href="http://www.judicial.gov.tw/work/work04.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image36','','../images/tw/icon08_1.jpg',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image36','','../images/tw/icon08_1.jpg',1)"><img src="../images/tw/icon08.jpg" alt="調閱電子筆錄(另開新視窗)" name="Image36" width="45" height="46" border="0" id="Image36" /></a></td>
+                          <td>調閱<br />
+                            電子筆錄<br /></td>
+                          <td><a href="/chinese/faqlist.aspx?p=1&pa=10224&n=10342" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image37','','../images/tw/icon09_1.jpg',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image37','','../images/tw/icon09_1.jpg',1)"><img src="../images/tw/icon09.jpg" alt="常見問題" name="Image37" width="45" height="46" border="0" id="Image37" /></a></td>
+                          <td>常見<br />
+                            問題</td>
+                        </tr>
+                        <tr>
+                          <td><img src="../images/tw/spacer.gif" alt=" " width="1" height="65" /></td>
+                          <td><a target="_blank" href="http://210.69.124.206/jud_k/wke/LoginFEXG.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image35','','../images/tw/icon07_1.jpg',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image35','','../images/tw/icon07_1.jpg',1)"><img src="../images/tw/icon07.jpg" alt="書狀上傳區(另開新視窗)" name="Image35" width="45" height="46" border="0" id="Image35" /></a></td>
+                          <td>書狀<br />
+                            上傳區</td>
+                          <td><a href="/chinese/CP.aspx?s=136&pa=10224&n=10226" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image32','','../images/tw/icon04_1.jpg',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image32','','../images/tw/icon04_1.jpg',1)"><img src="../images/tw/icon04.jpg" alt="與民有約" name="Image32" width="45" height="46" border="0" id="Image32" /></a></td>
+                          <td>與民<br />
+                            有約 </td>
+                        </tr>
+                        <tr>
+                          <td><img src="../images/tw/spacer.gif" alt=" " width="1" height="65" /></td>
+                          <td>&nbsp;</td>
+                          <td>&nbsp;</td>
+                          <td><a href="/chinese/channel.aspx?pa=10352&n=10352" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image34','','../images/tw/icon06_1.jpg',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('Image34','','../images/tw/icon06_1.jpg',1)"><img src="../images/tw/icon06.jpg" alt="相關網站" name="Image34" width="45" height="46" border="0" id="Image34" /></a></td>
+                          <td>相關<br />
+                            網站</td>
+                        </tr>
+                      </table></td>
+                      <td background="../images/tw/pt02_5.jpg"><img src="../images/tw/pt02_5.jpg" alt=" " width="18" height="8" /></td>
+                    </tr>
+                    <tr>
+                      <td><img src="../images/tw/pt02_7.jpg" alt=" " width="13" height="13" /></td>
+                      <td background="../images/tw/pt02_9.jpg"><img src="../images/tw/pt02_8.jpg" alt=" " width="148" height="13" /></td>
+                      <td><img src="../images/tw/pt02_10.jpg" alt=" " width="18" height="13" /></td>
+                    </tr>
+                  </table></td>
+                </tr>
+              </table></td>
+              <td width="99%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0" id="WideImage">
+                <tr>
+                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="1%"><img src="../images/tw/title001.jpg" alt=" " width="97" height="84" /></td>
+                        <td background="../images/tw/title02.jpg" style="padding-top:10pt;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr>
+                                    <td class="blue03 text_15pt bold01"><span id="ctl00_lblTitle">政府資訊公開服務</span></td>
+                                    <td align="right"><table border="0" cellpadding="2" cellspacing="0" class="gray02 text_13pt">
+                                        <tr>
+                                          <td><a accesskey="C" href="#" title="中間主要內容區，此區塊呈現網頁的網頁內容"><span style="visibility:hidden">:::</span></a></td>
+                                          <td><img src="../images/tw/p_icon01.jpg" alt=" " width="23" height="21" /></td>
+                                          <td><a href="send.aspx?n=10351">轉寄好友</a><br /></td>
+                                          <td><img src="../images/tw/p_icon02.jpg" alt=" " width="21" height="21" /></td>
+                                          <td><a href="javascript:print();">友善列印</a> <br /></td>
+                                          <td></td>
+                                        </tr>
+                                    </table></td>
+                                  </tr>
+                              </table></td>
+                            </tr>
+                            <tr>
+                              <td style="padding-top:10pt;"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="gray02 text_13pt">
+                                  <tr>
+                                    <td width="1%"><img src="../images/tw/home.jpg" alt=" " width="23" height="19" /></td>
+                                    <td><span class="blue02">
+<table summary="版型表格" summary="版型表格" border="0" width="100%" cellspacing="0" cellpadding="0">
+												<tr>
+												    <td>
+													<div align="LEFT">
+														<table summary="版型表格" summary="版型表格" border="0" id="table261" cellspacing="0" cellpadding="0">
+															<tr><td></td><td><a href="/" style="COLOR: #225C91;text-decoration: none;">Home</a> &gt; <span class="text_10pt green01">查詢服務 &gt; 政府資訊公開服務</span></td>
+															</tr>
+														</table>
+													</div>
+													</td>
+												</tr>
+											</table></span></td>
+                                  </tr>
+                              </table></td>
+                            </tr>
+                        </table></td>
+                      </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td><table width="95%" border="0" align="center" cellpadding="0" cellspacing="0" >
+                    <tr>
+                      <td>
+    
+      
+    
+    <table width="92%" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td background="../images/tw/news_bg.jpg" style="background-repeat:no-repeat; background-position:bottom right;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><table border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td><img src="../images/tw/icon01.jpg" alt="search" width="32" height="35" /></td>
+                        <td class="blue02 text_12pt">請選擇查詢類別：</td>
+                     <td><select name="ctl00$ContentPlaceHolder1$ddlSearch" id="ctl00_ContentPlaceHolder1_ddlSearch" onchange="SearchColumnChange();">
+	<option selected="selected" value="0">全部資料</option>
+	<option value="1">訊息主題</option>
+	<option value="3">發布日期</option>
+	<option value="4">類別</option>
+
+</select>
+                                                        <input name="ctl00$ContentPlaceHolder1$txtSearch" type="text" id="ctl00_ContentPlaceHolder1_txtSearch" border="1" style="display:none;" /><select name="ctl00$ContentPlaceHolder1$ddlType" id="ctl00_ContentPlaceHolder1_ddlType" style="display:none;">
+	<option value="公共工程及採購契約">公共工程及採購契約</option>
+	<option value="決算書">決算書</option>
+	<option value="施政計畫">施政計畫</option>
+	<option value="會計報告">會計報告</option>
+	<option value="業務統計">業務統計</option>
+	<option value="預算書">預算書</option>
+
+</select>&nbsp;<input name="ctl00$ContentPlaceHolder1$txtSDate" type="text" maxlength="10" id="ctl00_ContentPlaceHolder1_txtSDate" style="display:none;" /><input name="ctl00$ContentPlaceHolder1$btnCalS" type="button" id="ctl00_ContentPlaceHolder1_btnCalS" class="button01" value="日曆" style="display:none;" /><input name="ctl00$ContentPlaceHolder1$txtEDate" type="text" maxlength="10" id="ctl00_ContentPlaceHolder1_txtEDate" style="display:none;" />&nbsp;<input name="ctl00$ContentPlaceHolder1$btnCalE" type="button" id="ctl00_ContentPlaceHolder1_btnCalE" class="button01" value="日曆" style="display:none;" />&nbsp;<noscript><br /><span class="blue02 red08">您的瀏覽器不支援JavaScript。請先選擇查詢項目，在按查詢按鈕，繼續輸入查詢條件，<br />另外不支援小日曆功能，請自行輸入日期，例如2008/1/1，造成不便，敬請見諒。</span></noscript>
+                                                           
+                            </td>
+                        <td><input type="image" name="ctl00$ContentPlaceHolder1$btnSearch" id="ctl00_ContentPlaceHolder1_btnSearch" border="0" align="middle" onkeypress="this.click();" src="../images/tw/search05.jpg" alt="查詢" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$btnSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" border="0" /></td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td><img src="../images/tw/spacer.gif" alt="search" width="1" height="16" /></td>
+                  </tr>
+                </table>
+                  </td>
+              </tr>         
+                <tr>
+                    <td class="text_12pt gray01">
+                    <div>
+	<table cellspacing="0" cellpadding="0" border="0" id="ctl00_ContentPlaceHolder1_gvIndex" width="100%">
+		<tr class="blue02 bold01">
+			<th scope="col" width="17%">公佈日期</th><th scope="col" width="65%">訊息主題</th><th scope="col" width="12%">類別</th>
+		</tr><tr class="form01">
+			<td align="center">2016/08/26</td><td class="gray02" align="left"><a href="GovPublicInfo_1.aspx?NID=1601&n=10347&p=58&pa=10227">106年度單位預算(預算案)</a></td><td align="center">預算書</td>
+		</tr><tr class="form02">
+			<td align="center">2016/01/25</td><td class="gray02" align="left"><a href="GovPublicInfo_1.aspx?NID=1565&n=10347&p=58&pa=10227">105年度單位預算</a></td><td align="center">預算書</td>
+		</tr><tr class="form01">
+			<td align="center">2015/09/02</td><td class="gray02" align="left"><a href="GovPublicInfo_1.aspx?NID=1534&n=10347&p=58&pa=10227">105年度單位預算(預算案)</a></td><td align="center">預算書</td>
+		</tr><tr class="form02">
+			<td align="center">2015/03/09</td><td class="gray02" align="left"><a href="GovPublicInfo_1.aspx?NID=1510&n=10347&p=58&pa=10227">104年度單位預算(EXCEL,WORD)</a></td><td align="center">預算書</td>
+		</tr><tr class="form01">
+			<td align="center">2015/03/04</td><td class="gray02" align="left"><a href="GovPublicInfo_1.aspx?NID=1508&n=10347&p=58&pa=10227">104年度單位預算(XML)</a></td><td align="center">預算書</td>
+		</tr><tr class="form02">
+			<td align="center">2015/03/04</td><td class="gray02" align="left"><a href="GovPublicInfo_1.aspx?NID=1509&n=10347&p=58&pa=10227">104年度單位預算(預算案XML)</a></td><td align="center">預算書</td>
+		</tr><tr class="form01">
+			<td align="center">2015/03/03</td><td class="gray02" align="left"><a href="GovPublicInfo_1.aspx?NID=1505&n=10347&p=58&pa=10227">104年度單位預算</a></td><td align="center">預算書</td>
+		</tr><tr class="form02">
+			<td align="center">2014/09/02</td><td class="gray02" align="left"><a href="GovPublicInfo_1.aspx?NID=1471&n=10347&p=58&pa=10227">104年度單位預算(預算案)</a></td><td align="center">預算書</td>
+		</tr><tr class="form01">
+			<td align="center">2014/02/20</td><td class="gray02" align="left"><a href="GovPublicInfo_1.aspx?NID=1449&n=10347&p=58&pa=10227">103年度單位預算</a></td><td align="center">預算書</td>
+		</tr><tr class="form02">
+			<td align="center">2013/11/27</td><td class="gray02" align="left"><a href="GovPublicInfo_1.aspx?NID=1415&n=10347&p=58&pa=10227">103年度單位預算(預算案)102年8月30日公告</a></td><td align="center">預算書</td>
+		</tr><tr>
+			<td colspan="4">
+        <div align="center">
+                                                    <table summary="網頁美編排版用" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                    <tr><td colspan="3"><table width="100%" border="0" cellspacing="0" cellpadding="0" summary="網頁美編排版表格">
+                        <tr>
+                          <td width="1%"></td>
+                          <td background="../images/tw/news_05.gif"><table width="100%" border="0" cellspacing="0" cellpadding="0" summary="網頁美編排版表格">
+                              <tr>
+                                                            <td class="gray01">
+                                                                快速跳頁
+                                                                <select name="ctl00$ContentPlaceHolder1$gvIndex$ctl13$ddlPager" id="ctl00_ContentPlaceHolder1_gvIndex_ctl13_ddlPager" class="SearchStyle">
+				<option selected="selected" value="1">第1頁</option>
+				<option value="2">第2頁</option>
+
+			</select>
+                                                                共<span id="ctl00_ContentPlaceHolder1_gvIndex_ctl13_lblCount">0</span>
+                                                                筆資料|<span id="ctl00_ContentPlaceHolder1_gvIndex_ctl13_lblPageCount">1/2</span>頁|每頁<input name="ctl00$ContentPlaceHolder1$gvIndex$ctl13$txtPageSize" type="text" value="10" maxlength="3" id="ctl00_ContentPlaceHolder1_gvIndex_ctl13_txtPageSize" />
+                                                                筆
+                                                            </td>
+                                                            <td align="right" >
+                                                                <a id="ctl00_ContentPlaceHolder1_gvIndex_ctl13_lbtPrev" disabled="disabled">上一頁</a>
+                                                                |
+                                                                <a id="ctl00_ContentPlaceHolder1_gvIndex_ctl13_lbtNext" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$gvIndex$ctl13$lbtNext&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">下一頁</a>
+                                                            </td>
+                                                        </tr>
+                          </table></td><td width="1%" align="left"></td></tr>
+                    </table></td></tr>  
+                                                    </table>
+                                                    
+                                                    <noscript class="word_11 red01">
+                                                        <br />
+                                                        您的瀏覽器不支援JavaScript。不支援快速跳頁功能。請利用下列換頁按鈕替代。
+                                                        <br />
+                                                        另外每頁顯示筆數功能，請填入數字後再按下面四個按鈕任一個即可。<br />
+                                                        造成不便，敬請見諒。<br />
+                                                        <input type="submit" name="ctl00$ContentPlaceHolder1$gvIndex$ctl13$btnFirst" value="第一頁" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$gvIndex$ctl13$btnFirst&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_ContentPlaceHolder1_gvIndex_ctl13_btnFirst" class="button01" onkeypress="this.click();" />&nbsp;
+                                                        <input type="submit" name="ctl00$ContentPlaceHolder1$gvIndex$ctl13$btnPrev" value="上一頁" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$gvIndex$ctl13$btnPrev&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_ContentPlaceHolder1_gvIndex_ctl13_btnPrev" class="button01" onkeypress="this.click();" />&nbsp;<input type="submit" name="ctl00$ContentPlaceHolder1$gvIndex$ctl13$btnNext" value="下一頁" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$gvIndex$ctl13$btnNext&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_ContentPlaceHolder1_gvIndex_ctl13_btnNext" class="button01" onkeypress="this.click();" />&nbsp;
+                                                        <input type="submit" name="ctl00$ContentPlaceHolder1$gvIndex$ctl13$btnLast" value="最後一頁" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$gvIndex$ctl13$btnLast&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_ContentPlaceHolder1_gvIndex_ctl13_btnLast" class="button01" onkeypress="this.click();" /></noscript>
+                                                </div>
+        </td>
+		</tr>
+	</table>
+</div>
+                    </td>
+                  </tr>
+            </table>
+    
+    
+         
+    
+</td>
+                    </tr>
+                    <tr>
+                      <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td>&nbsp;</td>
+                    </tr>
+                  </table></td>
+                </tr>
+              </table></td>
+            </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td background="../images/tw/bottom2.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="1%"><img src="../images/tw/spacer.gif" alt=" " width="1" height="190" /></td>
+              <td valign="top" style="padding-top:10pt;"><table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" class="text_13pt">
+                  <tr>
+                    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td align="left" class="blue02"><a href="CP.aspx?s=380&pa=10221&n=10338">本院位置</a>│<a href="cp.aspx?pa=10255&n=10255&s=230">版權宣告/隱私權宣告/網站安全政策</a>│<a href="mailto:ksbaide@judicial.gov.tw">意見信箱</a></td>
+                          <td align="right"><span class="blue02">【更新時間】</span><span class="orange01">2011.01.19</span><span class="blue02">【瀏覽人數 】</span> <span id="ctl00_lblCount" class="orange01">453878</span><a href="#00"><img src="../images/tw/top.gif" alt="top" width="50" height="18" border="0" align="absmiddle" /></a> </td>
+                        </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td><img src="../images/tw/space.gif" alt=" " width="1" height="15" /></td>
+                  </tr>
+                  <tr>
+                    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td class="gray03">建議使用 IE 6 或 Firefox 2 以上之瀏覽器，最佳瀏覽解析度為 1024 x 768 <br />
+                            本院地址：(81167)高雄市楠梓區興楠路180號 | 服務電話：07-3573700(總機) 轉891(訴訟程序諮詢) 07-3573793(非上班時間)<br />
+                            傳真:07-3573792 臺南庭址：(70045)臺南市中西區忠義路一段125巷6號 | 服務電話：06-2160710<br />
+                            人工收件時間:08:00~24:00        電信傳真或其他科技設備傳送:00:00~24:00<br />
+							&copy; 建置維護單位：高雄高等行政法院 2010版權所有</td>
+                          <td><a href = "http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20110107161748" title = "無障礙網站" target="_blank"><img src="../images/icons/icon_a+.jpg" alt="A+無障礙標章" width="88" height="31" border="0"/></a></td>
+                        </tr>
+                    </table></td>
+                  </tr>
+              </table></td>
+            </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</div>
+
+    
+    
+
+<script type='text/javascript'>document.title += '; 查詢服務 - 政府資訊公開服務';</script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.CalendarBehavior, {"button":$get("ctl00_ContentPlaceHolder1_btnCalS"),"format":"yyyy/MM/dd","id":"ctl00_ContentPlaceHolder1_CalendarExtender1"}, null, null, $get("ctl00_ContentPlaceHolder1_txtSDate"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.CalendarBehavior, {"button":$get("ctl00_ContentPlaceHolder1_btnCalE"),"format":"yyyy/MM/dd","id":"ctl00_ContentPlaceHolder1_CalendarExtender2"}, null, null, $get("ctl00_ContentPlaceHolder1_txtEDate"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>

@@ -1,0 +1,366 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-tw" lang="zh-tw" dir="ltr" >
+        <head>
+                 				  <base href="http://acc.coa.sinica.edu.tw/index.php/2012-06-13-08-42-10/2012-07-20-03-14-05/2013-08-19-03-19-42/2013-08-19-03-26-45/2013-08-19-03-27-37" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>中央研究院主計室 - 預算案</title>
+  <link href="/templates/beez_20/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="http://acc.coa.sinica.edu.tw/index.php/component/search/?Itemid=692&amp;format=opensearch" rel="search" title="搜尋 中央研究院主計室" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="/plugins/content/xtypo/themes/default/style.css" type="text/css" />
+  <link rel="stylesheet" href="http://acc.coa.sinica.edu.tw/modules/mod_accordeonck/themes/default/mod_accordeonck_css.php?cssid=accordeonck5025" type="text/css" />
+  <link rel="stylesheet" href="http://acc.coa.sinica.edu.tw/modules/mod_beautifulck/themes/glossy/mod_beautifulck.css" type="text/css" />
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Gruppo" type="text/css" />
+  <link rel="stylesheet" href="http://acc.coa.sinica.edu.tw/modules/mod_accordeonck/themes/default/mod_accordeonck_css.php?cssid=accordeonck6778" type="text/css" />
+  <link rel="stylesheet" href="http://acc.coa.sinica.edu.tw/modules/mod_accordeonck/themes/default/mod_accordeonck_css.php?cssid=accordeonck9747" type="text/css" />
+  <link rel="stylesheet" href="http://acc.coa.sinica.edu.tw/modules/mod_accordeonck/themes/default/mod_accordeonck_css.php?cssid=accordeonck10916" type="text/css" />
+  <style type="text/css">
+#accordeonck5025 li a.toggler { background: url(http://acc.coa.sinica.edu.tw/modules/mod_accordeonck/assets/plus.png) right center no-repeat !important; }
+	#accordeonck5025 li a.toggler.open { background: url(http://acc.coa.sinica.edu.tw/modules/mod_accordeonck/assets/minus.png) right center no-repeat !important; }
+	#accordeonck5025 li ul li ul li ul { border:none !important; padding-top:0px !important; padding-bottom:0px !important; }#accordeonck5025 { padding: 5px;-moz-border-radius: 5px 5px 5px 5px;-webkit-border-radius: 5px 5px 5px 5px;border-radius: 5px 5px 5px 5px;-moz-box-shadow: 0px 0px 3px 0px #444444;-webkit-box-shadow: 0px 0px 3px 0px #444444;box-shadow: 0px 0px 3px 0px #444444; } #accordeonck5025 li.level1 { -moz-border-radius: 0px 0px 0px 0px;-webkit-border-radius: 0px 0px 0px 0px;border-radius: 0px 0px 0px 0px; } #accordeonck5025 li.level1 > a { font-size: 12px; } #accordeonck5025 li.level1 > a:hover {  } #accordeonck5025 li.level1 > a span.accordeonckdesc { font-size: 10px; } #accordeonck5025 li.level2 { margin: 1px;background: #DEDEDE;-moz-border-radius: 0px 0px 0px 0px;-webkit-border-radius: 0px 0px 0px 0px;border-radius: 0px 0px 0px 0px; } #accordeonck5025 li.level2 > a { font-size: 12px; } #accordeonck5025 li.level2 > a:hover {  } #accordeonck5025 li.level2 > a span.accordeonckdesc { font-size: 10px; } #accordeonck5025 li.level3 { -moz-border-radius: 0px 0px 0px 0px;-webkit-border-radius: 0px 0px 0px 0px;border-radius: 0px 0px 0px 0px; } #accordeonck5025 li.level3 a { font-size: 12px; } #accordeonck5025 li.level3 a:hover {  } #accordeonck5025 li.level3 a span.accordeonckdesc { font-size: 10px; } #beautifulck145 { padding-top: 40px;-moz-border-radius: 5px 5px 5px 5px;-webkit-border-radius: 5px 5px 5px 5px;border-radius: 5px 5px 5px 5px;-moz-box-shadow: 0px 0px 3px 0px #444444;-webkit-box-shadow: 0px 0px 3px 0px #444444;box-shadow: 0px 0px 3px 0px #444444; } #accordeonck6778 li a.toggler { background: url(http://acc.coa.sinica.edu.tw/modules/mod_accordeonck/assets/plus.png) right center no-repeat !important; }
+	#accordeonck6778 li a.toggler.open { background: url(http://acc.coa.sinica.edu.tw/modules/mod_accordeonck/assets/minus.png) right center no-repeat !important; }
+	#accordeonck6778 li ul li ul li ul { border:none !important; padding-top:0px !important; padding-bottom:0px !important; }#accordeonck6778 { padding: 5px;-moz-border-radius: 5px 5px 5px 5px;-webkit-border-radius: 5px 5px 5px 5px;border-radius: 5px 5px 5px 5px;-moz-box-shadow: 0px 0px 3px 0px #444444;-webkit-box-shadow: 0px 0px 3px 0px #444444;box-shadow: 0px 0px 3px 0px #444444; } #accordeonck6778 li.level1 { -moz-border-radius: 0px 0px 0px 0px;-webkit-border-radius: 0px 0px 0px 0px;border-radius: 0px 0px 0px 0px; } #accordeonck6778 li.level1 > a { font-size: 14px; } #accordeonck6778 li.level1 > a:hover {  } #accordeonck6778 li.level1 > a span.accordeonckdesc { font-size: 10px; } #accordeonck6778 li.level2 { margin: 1px;background: #DEDEDE;-moz-border-radius: 0px 0px 0px 0px;-webkit-border-radius: 0px 0px 0px 0px;border-radius: 0px 0px 0px 0px; } #accordeonck6778 li.level2 > a { font-size: 12px; } #accordeonck6778 li.level2 > a:hover {  } #accordeonck6778 li.level2 > a span.accordeonckdesc { font-size: 10px; } #accordeonck6778 li.level3 { -moz-border-radius: 0px 0px 0px 0px;-webkit-border-radius: 0px 0px 0px 0px;border-radius: 0px 0px 0px 0px; } #accordeonck6778 li.level3 a { font-size: 12px; } #accordeonck6778 li.level3 a:hover {  } #accordeonck6778 li.level3 a span.accordeonckdesc { font-size: 10px; } #beautifulck126 { padding-top: 40px;-moz-border-radius: 5px 5px 5px 5px;-webkit-border-radius: 5px 5px 5px 5px;border-radius: 5px 5px 5px 5px;-moz-box-shadow: 0px 0px 3px 0px #444444;-webkit-box-shadow: 0px 0px 3px 0px #444444;box-shadow: 0px 0px 3px 0px #444444; } #accordeonck9747 li a.toggler { background: url(http://acc.coa.sinica.edu.tw/modules/mod_accordeonck/assets/plus.png) right center no-repeat !important; }
+	#accordeonck9747 li a.toggler.open { background: url(http://acc.coa.sinica.edu.tw/modules/mod_accordeonck/assets/minus.png) right center no-repeat !important; }
+	#accordeonck9747 li ul li ul li ul { border:none !important; padding-top:0px !important; padding-bottom:0px !important; }#accordeonck9747 { padding: 5px;-moz-border-radius: 5px 5px 5px 5px;-webkit-border-radius: 5px 5px 5px 5px;border-radius: 5px 5px 5px 5px;-moz-box-shadow: 0px 0px 3px 0px #444444;-webkit-box-shadow: 0px 0px 3px 0px #444444;box-shadow: 0px 0px 3px 0px #444444; } #accordeonck9747 li.level1 { -moz-border-radius: 0px 0px 0px 0px;-webkit-border-radius: 0px 0px 0px 0px;border-radius: 0px 0px 0px 0px; } #accordeonck9747 li.level1 > a { font-size: 14px; } #accordeonck9747 li.level1 > a:hover {  } #accordeonck9747 li.level1 > a span.accordeonckdesc { font-size: 10px; } #accordeonck9747 li.level2 { margin: 1px;background: #DEDEDE;-moz-border-radius: 0px 0px 0px 0px;-webkit-border-radius: 0px 0px 0px 0px;border-radius: 0px 0px 0px 0px; } #accordeonck9747 li.level2 > a { font-size: 12px; } #accordeonck9747 li.level2 > a:hover {  } #accordeonck9747 li.level2 > a span.accordeonckdesc { font-size: 10px; } #accordeonck9747 li.level3 { -moz-border-radius: 0px 0px 0px 0px;-webkit-border-radius: 0px 0px 0px 0px;border-radius: 0px 0px 0px 0px; } #accordeonck9747 li.level3 a { font-size: 12px; } #accordeonck9747 li.level3 a:hover {  } #accordeonck9747 li.level3 a span.accordeonckdesc { font-size: 10px; } #beautifulck136 { padding-top: 40px;-moz-border-radius: 5px 5px 5px 5px;-webkit-border-radius: 5px 5px 5px 5px;border-radius: 5px 5px 5px 5px;-moz-box-shadow: 0px 0px 3px 0px #444444;-webkit-box-shadow: 0px 0px 3px 0px #444444;box-shadow: 0px 0px 3px 0px #444444; } #accordeonck10916 li a.toggler { background: url(http://acc.coa.sinica.edu.tw/modules/mod_accordeonck/assets/plus.png) right center no-repeat !important; }
+	#accordeonck10916 li a.toggler.open { background: url(http://acc.coa.sinica.edu.tw/modules/mod_accordeonck/assets/minus.png) right center no-repeat !important; }
+	#accordeonck10916 li ul li ul li ul { border:none !important; padding-top:0px !important; padding-bottom:0px !important; }#accordeonck10916 { padding: 5px;-moz-border-radius: 5px 5px 5px 5px;-webkit-border-radius: 5px 5px 5px 5px;border-radius: 5px 5px 5px 5px;-moz-box-shadow: 0px 0px 3px 0px #444444;-webkit-box-shadow: 0px 0px 3px 0px #444444;box-shadow: 0px 0px 3px 0px #444444; } #accordeonck10916 li.level1 { -moz-border-radius: 0px 0px 0px 0px;-webkit-border-radius: 0px 0px 0px 0px;border-radius: 0px 0px 0px 0px; } #accordeonck10916 li.level1 > a { font-size: 14px; } #accordeonck10916 li.level1 > a:hover {  } #accordeonck10916 li.level1 > a span.accordeonckdesc { font-size: 10px; } #accordeonck10916 li.level2 { margin: 1px;background: #DEDEDE;-moz-border-radius: 0px 0px 0px 0px;-webkit-border-radius: 0px 0px 0px 0px;border-radius: 0px 0px 0px 0px; } #accordeonck10916 li.level2 > a { font-size: 12px; } #accordeonck10916 li.level2 > a:hover {  } #accordeonck10916 li.level2 > a span.accordeonckdesc { font-size: 10px; } #accordeonck10916 li.level3 { -moz-border-radius: 0px 0px 0px 0px;-webkit-border-radius: 0px 0px 0px 0px;border-radius: 0px 0px 0px 0px; } #accordeonck10916 li.level3 a { font-size: 12px; } #accordeonck10916 li.level3 a:hover {  } #accordeonck10916 li.level3 a span.accordeonckdesc { font-size: 10px; } #beautifulck137 { padding-top: 40px;-moz-border-radius: 5px 5px 5px 5px;-webkit-border-radius: 5px 5px 5px 5px;border-radius: 5px 5px 5px 5px;-moz-box-shadow: 0px 0px 3px 0px #444444;-webkit-box-shadow: 0px 0px 3px 0px #444444;box-shadow: 0px 0px 3px 0px #444444; } 
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/templates/beez_20/javascript/md_stylechanger.js" type="text/javascript" defer="defer"></script>
+  <script src="http://acc.coa.sinica.edu.tw/modules/mod_accordeonck/assets/mod_accordeonck.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});window.addEvent('domready', function() {new accordeonMenuCK(document.getElement('#accordeonck5025'),{fadetransition : false,eventtype : 'click',mooTransition : 'linear',menuID : 'accordeonck5025',imagePlus : 'http://acc.coa.sinica.edu.tw/modules/mod_accordeonck/assets/plus.png',imageMinus : 'http://acc.coa.sinica.edu.tw/modules/mod_accordeonck/assets/minus.png',mooDuree : 500});});window.addEvent('domready', function() {new accordeonMenuCK(document.getElement('#accordeonck6778'),{fadetransition : true,eventtype : 'click',mooTransition : 'linear',menuID : 'accordeonck6778',imagePlus : 'http://acc.coa.sinica.edu.tw/modules/mod_accordeonck/assets/plus.png',imageMinus : 'http://acc.coa.sinica.edu.tw/modules/mod_accordeonck/assets/minus.png',mooDuree : 500});});window.addEvent('domready', function() {new accordeonMenuCK(document.getElement('#accordeonck9747'),{fadetransition : true,eventtype : 'click',mooTransition : 'linear',menuID : 'accordeonck9747',imagePlus : 'http://acc.coa.sinica.edu.tw/modules/mod_accordeonck/assets/plus.png',imageMinus : 'http://acc.coa.sinica.edu.tw/modules/mod_accordeonck/assets/minus.png',mooDuree : 500});});window.addEvent('domready', function() {new accordeonMenuCK(document.getElement('#accordeonck10916'),{fadetransition : true,eventtype : 'click',mooTransition : 'linear',menuID : 'accordeonck10916',imagePlus : 'http://acc.coa.sinica.edu.tw/modules/mod_accordeonck/assets/plus.png',imageMinus : 'http://acc.coa.sinica.edu.tw/modules/mod_accordeonck/assets/minus.png',mooDuree : 500});});
+  </script>
+
+                <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+                <link rel="stylesheet" href="/templates/beez_20/css/position.css" type="text/css" media="screen,projection" />
+                <link rel="stylesheet" href="/templates/beez_20/css/layout.css" type="text/css" media="screen,projection" />
+                <link rel="stylesheet" href="/templates/beez_20/css/print.css" type="text/css" media="print" />
+                <link rel="stylesheet" href="/templates/beez_20/css/general.css" type="text/css" />
+                <link rel="stylesheet" href="/templates/beez_20/css/personal.css" type="text/css" />
+                <!--[if lte IE 6]>
+                <link href="/templates/beez_20/css/ieonly.css" rel="stylesheet" type="text/css" />
+
+                                <style type="text/css">
+                #line
+                {      width:98% ;
+                }
+                .logoheader
+                {
+                        height:200px;
+
+                }
+                #header ul.menu
+                {
+                display:block !important;
+                      width:98.2% ;
+
+
+                }
+                 </style>
+                                <![endif]-->
+                <!--[if IE 7]>
+                        <link href="/templates/beez_20/css/ie7only.css" rel="stylesheet" type="text/css" />
+                <![endif]-->
+                <script type="text/javascript" src="/templates/beez_20/javascript/hide.js"></script>
+
+                <script type="text/javascript">
+                        var big ='72%';
+                        var small='53%';
+                        var altopen='是開啟的';
+                        var altclose='是關閉的';
+                        var bildauf='/templates/beez_20/images/plus.png';
+                        var bildzu='/templates/beez_20/images/minus.png';
+                        var rightopen='開啟詳細資訊';
+                        var rightclose='關閉詳細資訊';
+                        var fontSizeTitle='字體大小';
+                        var bigger='放大';
+                        var reset='重設';
+                        var smaller='縮小';
+                        var biggerTitle='增加大小';
+                        var resetTitle='回復到預設樣式';
+                        var smallerTitle='減少字體大小';
+                </script>
+
+        </head>
+
+        <body>
+
+<div id="all">
+        <div id="back">
+				<div class="logoheader2">
+				<!--<div id="fontsize"></div>-->
+				</div><!-- end logoheader -->
+				<div id="header">
+                                <div class="logoheader">
+                                        <!--<h1 id="logo">-->
+
+                                        <!---->
+                                       <!-- -->
+                                        <!--中央研究院主計室-->
+                                        <!---->
+                                        <!--<span class="header1">-->
+                                        <!---->
+                                        <!--</span></h1>-->
+                                </div><!-- end logoheader -->
+                                        <ul class="skiplinks">
+                                                <li><a href="#main" class="u2">略過內容</a></li>
+                                                <li><a href="#nav" class="u2">前往主導覽功能並進行登入</a></li>
+                                                                                        <li><a href="#additional" class="u2">前往額外資訊</a></li>
+                                                                                   </ul>
+                                        <h2 class="unseen">導覽列檢視搜尋</h2>
+                                        <h3 class="unseen">導覽列</h3>
+                                        
+<ul class="menu">
+<li class="item-464"><a href="/" >Home</a></li><li class="item-471"><a href="/index.php/2012-06-11-03-07-04" >業務職掌</a></li><li class="item-472"><a href="/index.php/2012-06-11-06-48-23" >主計室信箱</a></li><li class="item-473"><a href="/index.php/2012-06-11-06-47-27" >活動照片</a></li><li class="item-670"><a href="/index.php/english" >English</a></li><li class="item-678"><a href="/index.php/2012-12-04-01-29-38" >網站導覽</a></li></ul>
+
+                                        <!--<div id="line">
+                                        <!--<div id="fontsize"></div>-->
+                                        <!--<h3 class="unseen">搜尋</h3>
+                                        
+                                        </div> <!-- end line -->
+									
+                                
+
+                        </div><!-- end header -->
+                        <div id="contentarea2">
+                                        <div id="breadcrumbs">
+
+                                                        
+<div class="breadcrumbs">
+<span class="showHere">您目前位置：</span><a href="/" class="pathway">Home</a> <img src="/templates/beez_20/images/system/arrow.png" alt=""  /> <a href="/index.php/2012-06-13-08-42-10" class="pathway">政府資訊公開</a> <img src="/templates/beez_20/images/system/arrow.png" alt=""  /> <a href="/index.php/2012-06-13-08-42-10/2012-07-20-03-14-05" class="pathway">預決算專區</a> <img src="/templates/beez_20/images/system/arrow.png" alt=""  /> <a href="/index.php/2012-06-13-08-42-10/2012-07-20-03-14-05/2013-08-19-03-19-42" class="pathway">基金預決算</a> <img src="/templates/beez_20/images/system/arrow.png" alt=""  /> <a href="/index.php/2012-06-13-08-42-10/2012-07-20-03-14-05/2013-08-19-03-19-42/2013-08-19-03-26-45" class="pathway">預算</a> <img src="/templates/beez_20/images/system/arrow.png" alt=""  /> <span>預算案</span></div>
+
+
+                                        </div>
+
+                                        
+
+                                                        <div class="left1 " id="nav">
+                                                   <div class="moduletable">
+ <div id="beautifulck136" class="beautifulck glossy grey">
+    <div class="beautifulckbg" style="left: -10px; top:-45px;width: 160px;">
+        <div class="beautifulckbgleft"></div>
+        <div class="beautifulckbgcenter"></div>
+        <div class="beautifulckbgcentercolor"></div>
+        <div class="beautifulckbgright"></div>
+            <h3 style="left: 15px; 
+        top:-35px;
+        font-family:'Gruppo';        font-size: 14px;
+        font-weight: bold;
+        color: #FFFFFF;
+        position: relative;
+        ">站內連結    </h3>
+        </div>
+    <div class="beautifulck_content"><div class="accordeonck ">
+<ul class="menu" id="accordeonck9747">
+<li id="item-468" class="deeper parent  level1"><a class="toggler toggler_1  " href="javascript:void(0);" >法規</a><ul class="content_1"><li id="item-469" class="level2"><a href="/index.php/2012-06-11-02-47-51/2012-06-11-02-54-17" >預(概)算編製法規</a></li><li id="item-470" class="level2"><a href="/index.php/2012-06-11-02-47-51/2012-06-11-02-54-18" >經費動支參考法規</a></li><li id="item-488" class="level2"><a href="/index.php/2012-06-11-02-47-51/2012-06-13-06-39-24" >補助經費類法規</a></li><li id="item-489" class="level2"><a href="/index.php/2012-06-11-02-47-51/2012-06-13-06-57-57" >採購監辦法規</a></li><li id="item-679" class="level2"><a href="/index.php/2012-06-11-02-47-51/2012-12-24-06-06-24" >決算編製要點</a></li><li id="item-490" class="level2"><a href="http://law.dgbas.gov.tw/" >主計法規查詢</a></li></ul></li><li id="item-496" class="deeper parent  level1"><a class="toggler toggler_1  " href="javascript:void(0);" >作業流程</a><ul class="content_1"><li id="item-645" class="level2"><a href="/index.php/2012-06-13-08-39-15/2012-07-20-02-48-43" >預算科</a></li><li id="item-646" class="level2"><a href="/index.php/2012-06-13-08-39-15/2012-07-20-02-50-42" >審核科</a></li><li id="item-647" class="level2"><a href="/index.php/2012-06-13-08-39-15/2012-07-20-02-51-14" >帳務科</a></li></ul></li><li id="item-497" class="deeper parent  level1"><a class="toggler toggler_1  " href="javascript:void(0);" >資料下載</a><ul class="content_1"><li id="item-648" class="deeper parent  level2"><a class="toggler toggler_2  " href="javascript:void(0);" >表格</a><ul class="content_2"><li id="item-650" class="level3"><a href="/index.php/2012-06-13-08-41-14/2012-07-20-02-57-40/2012-07-20-03-00-57" >預算科</a></li><li id="item-651" class="level3"><a href="/index.php/2012-06-13-08-41-14/2012-07-20-02-57-40/2012-07-20-03-01-27" >審核科</a></li><li id="item-652" class="level3"><a href="/index.php/2012-06-13-08-41-14/2012-07-20-02-57-40/2012-07-20-03-02-47" >帳務科</a></li></ul></li><li id="item-649" class="level2"><a href="/index.php/2012-06-13-08-41-14/2012-07-20-02-59-02" >講義資料</a></li></ul></li><li id="item-498" class="deeper parent  level1"><a class="toggler toggler_1  " href="javascript:void(0);" >Q &amp; A</a><ul class="content_1"><li id="item-681" class="level2"><a href="/index.php/q-and-a/2013-04-30-08-27-02" >預算籌編</a></li><li id="item-682" class="level2"><a href="/index.php/q-and-a/2013-05-06-03-29-16" >預算執行</a></li><li id="item-683" class="level2"><a href="/index.php/q-and-a/2013-05-06-03-30-15" >代收款</a></li><li id="item-684" class="level2"><a href="/index.php/q-and-a/2013-05-06-03-30-30" >帳務處理及系統作業</a></li><li id="item-685" class="level2"><a href="/index.php/q-and-a/2013-05-06-03-30-49" >其他</a></li></ul></li><li id="item-500" class="active deeper parent  level1"><a class="toggler toggler_1  isactive " href="javascript:void(0);" >政府資訊公開</a><ul class="content_1"><li id="item-656" class="active deeper parent  level2"><a class="toggler toggler_2  isactive " href="javascript:void(0);" >預決算專區</a><ul class="content_2"><li id="item-687" class="deeper parent  level3"><a class="toggler toggler_3  " href="javascript:void(0);" >公務預決算</a><ul class="content_3"><li id="item-689" class="deeper parent  level4"><a class="toggler toggler_4  " href="javascript:void(0);" >預算</a><ul class="content_4"><li id="item-664" class="level5"><a href="/index.php/2012-06-13-08-42-10/2012-07-20-03-14-05/2013-08-19-03-19-03/2013-08-19-03-20-54/2012-07-23-06-24-49" >法定預算</a></li><li id="item-686" class="level5"><a href="/index.php/2012-06-13-08-42-10/2012-07-20-03-14-05/2013-08-19-03-19-03/2013-08-19-03-20-54/2013-06-28-07-03-43" >預算案</a></li></ul></li><li id="item-665" class="level4"><a href="/index.php/2012-06-13-08-42-10/2012-07-20-03-14-05/2013-08-19-03-19-03/2012-07-23-06-25-22" >決算</a></li><li id="item-697" class="level4"><a href="/index.php/2012-06-13-08-42-10/2012-07-20-03-14-05/2013-08-19-03-19-03/2015-08-14-02-03-58" >會計報告</a></li></ul></li><li id="item-688" class="active deeper parent  level3"><a class="toggler toggler_3  isactive " href="javascript:void(0);" >基金預決算</a><ul class="content_3"><li id="item-690" class="active deeper parent  level4"><a class="toggler toggler_4  isactive " href="javascript:void(0);" >預算</a><ul class="content_4"><li id="item-691" class="level5"><a href="/index.php/2012-06-13-08-42-10/2012-07-20-03-14-05/2013-08-19-03-19-42/2013-08-19-03-26-45/2013-08-19-03-27-08" >法定預算</a></li><li id="item-692" class="current active  level5"><a class="isactive " href="/index.php/2012-06-13-08-42-10/2012-07-20-03-14-05/2013-08-19-03-19-42/2013-08-19-03-26-45/2013-08-19-03-27-37" >預算案</a></li></ul></li><li id="item-693" class="level4"><a href="/index.php/2012-06-13-08-42-10/2012-07-20-03-14-05/2013-08-19-03-19-42/2013-08-19-03-28-08" >決算</a></li><li id="item-696" class="level4"><a href="/index.php/2012-06-13-08-42-10/2012-07-20-03-14-05/2013-08-19-03-19-42/2015-07-30-02-37-38" >會計報告</a></li></ul></li></ul></li><li id="item-657" class="level2"><a href="/index.php/2012-06-13-08-42-10/2012-07-20-03-14-39" >公務統計資料</a></li><li id="item-698" class="level2"><a href="/index.php/2012-06-13-08-42-10/2016-08-04-01-53-14" >出國及赴大陸計畫執行情形</a></li></ul></li></ul></div>
+</div>
+</div>
+</div>
+<div class="moduletable">
+ <div id="beautifulck137" class="beautifulck glossy grey">
+    <div class="beautifulckbg" style="left: -10px; top:-45px;width: 160px;">
+        <div class="beautifulckbgleft"></div>
+        <div class="beautifulckbgcenter"></div>
+        <div class="beautifulckbgcentercolor"></div>
+        <div class="beautifulckbgright"></div>
+            <h3 style="left: 15px; 
+        top:-35px;
+        font-family:'Gruppo';        font-size: 14px;
+        font-weight: bold;
+        color: #FFFFFF;
+        position: relative;
+        ">帳務系統    </h3>
+        </div>
+    <div class="beautifulck_content"><div class="accordeonck ">
+<ul class="menu" id="accordeonck10916">
+<li id="item-474" class="level1"><a href="http://prepay.apps.sinica.edu.tw/" >全院代收款系統</a></li><li id="item-475" class="level1"><a href="http://acct.apps.sinica.edu.tw/ " >全院會計系統</a></li><li id="item-476" class="level1"><a href="https://obtssso.sinica.edu.tw/" >因公出國系統</a></li><li id="item-694" class="level1"><a href="https://db3x.sinica.edu.tw/PI/webLogin.php?s=0&act=PI/PIPROJ.php" >所處預算管理系統</a></li></ul></div>
+</div>
+</div>
+</div>
+
+                                                                
+                                                                
+
+
+                                                        </div><!-- end navi -->
+               
+                                        <div id="wrapper" >
+
+                                                <div id="main">
+
+                                                
+                                                        
+<div id="system-message-container">
+</div>
+                                                        <div class="item-page">
+
+	<h2>
+			<a href="/index.php/2012-06-13-08-42-10/2012-07-20-03-14-05/2013-08-19-03-19-42/2013-08-19-03-26-45/2013-08-19-03-27-37">
+		中央研究院科學研究基金預算案</a>
+		</h2>
+
+	<ul class="actions">
+						<li class="print-icon">
+			<a href="/index.php/2012-06-13-08-42-10/2012-07-20-03-14-05/2013-08-19-03-19-42/2013-08-19-03-26-45/2013-08-19-03-27-37?tmpl=component&amp;print=1&amp;page=" title="列印" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="列印"  /></a>			</li>
+		
+		
+		
+	
+	</ul>
+
+
+
+
+
+
+
+<ul>
+<li><span style="font-size: 12pt;"><span style="font-size: 12pt;"><span style="font-size: 12pt;"><span style="font-size: 12pt;">106年度中央研究院科學研究基金預算案 [<a href="/images/files/InfoOpen/fundbudget2/106年度中央研究院科學研究基金預算案.pdf">PDF</a>][<a href="/images/files/InfoOpen/fundbudget2/106科研基金預算案-WORD及EXCEL檔.zip">WORD&amp;EXCEL</a>][<a href="/images/files/InfoOpen/fundbudget2/106科研基金預算案-XML.zip">XML</a>]</span></span></span></span></li>
+<li><span style="font-size: 12pt;"><span style="font-size: 12pt;">105年度中央研究院科學研究基金預算案 [<a href="/images/files/InfoOpen/fundbudget2/105年度中央研究院科學研究基金預算案.pdf">PDF</a>][<a href="/images/files/InfoOpen/fundbudget2/105科研基金預算案-WORD及EXCEL檔.zip">WORD&amp;EXCEL</a>][<a href="/images/files/InfoOpen/fundbudget2/105科研基金預算案-XML.zip">XML</a>]</span></span></li>
+<li><span style="font-size: 12pt;"> 104年度中央研究院科學研究基金預算案 [<a href="/images/files/InfoOpen/fundbudget2/104年度中央研究院科學研究基金預算案.pdf">PDF</a>][<a href="/images/files/InfoOpen/fundbudget2/104科研基金預算案-XLS.zip">EXCEL</a>][<a href="/images/files/InfoOpen/fundbudget2/104科研基金預算案-XML.zip">XML</a>]<br /></span></li>
+<li><span style="font-size: 12pt;"><a href="/images/files/InfoOpen/fundbudget2/103年度中央研究院科學研究基金預算案.pdf">103年度中央研究院科學研究基金預算案</a></span></li>
+</ul> 
+	
+</div>
+
+
+                                                </div><!-- end main -->
+
+                                        </div><!-- end wrapper -->
+
+                                                                        <h2 class="unseen">
+                                                額外資訊                                        </h2>
+                                        <div id="close">
+                                                <a href="#" onclick="auf('right')">
+                                                        <span id="bild">
+                                                                關閉詳細資訊</span></a>
+                                        </div>
+
+
+                                        <div id="right">
+                                                <a id="additional"></a>
+                                                <div class="moduletable">
+ <h3><span
+	class="backh"><span class="backh2"><span class="backh3">Search</span></span></span></h3>
+ <form action="/index.php/2012-06-13-08-42-10/2012-07-20-03-14-05/2013-08-19-03-19-42/2013-08-19-03-26-45/2013-08-19-03-27-37" method="post">
+	<div class="search">
+		<label for="mod-search-searchword">搜尋...</label><input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox" type="text" size="20" value="搜尋..."  onblur="if (this.value=='') this.value='搜尋...';" onfocus="if (this.value=='搜尋...') this.value='';" />	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="692" />
+	</div>
+</form>
+</div>
+<div class="moduletable">
+ <div id="beautifulck126" class="beautifulck glossy grey">
+    <div class="beautifulckbg" style="left: -10px; top:-45px;width: 160px;">
+        <div class="beautifulckbgleft"></div>
+        <div class="beautifulckbgcenter"></div>
+        <div class="beautifulckbgcentercolor"></div>
+        <div class="beautifulckbgright"></div>
+            <h3 style="left: 15px; 
+        top:-35px;
+        font-family:'Gruppo';        font-size: 14px;
+        font-weight: bold;
+        color: #FFFFFF;
+        position: relative;
+        ">院內連結    </h3>
+        </div>
+    <div class="beautifulck_content"><div class="accordeonck ">
+<ul class="menu" id="accordeonck6778">
+<li id="item-477" class="level1"><a href="http://www.sinica.edu.tw/index.shtml" >中央研究院</a></li><li id="item-478" class="deeper parent  level1"><a class="toggler toggler_1  " href="javascript:void(0);" >行政部門</a><ul class="content_1"><li id="item-479" class="level2"><a href="http://gao.sinica.edu.tw/shiwusuo/" >總務處</a></li><li id="item-480" class="level2"><a href="http://otl.sinica.edu.tw/" >智財技轉處</a></li><li id="item-481" class="level2"><a href="http://hro.sinica.edu.tw/" >人事室</a></li><li id="item-482" class="level2"><a href="http://sec.sinica.edu.tw/" >秘書處</a></li><li id="item-483" class="level2"><a href="http://ascc.sinica.edu.tw/iascc/" >資訊服務處</a></li><li id="item-484" class="level2"><a href="http://www.sinica.edu.tw/as/adm/anti-corru/index.htm" >政風室</a></li><li id="item-485" class="level2"><a href="http://daais.sinica.edu.tw/chinese/index.php" >學術及儀器事務處</a></li><li id="item-487" class="level2"><a href="http://iao.sinica.edu.tw/" >國際事務處</a></li></ul></li><li id="item-668" class="level1"><a href="http://www.bas-association.org.tw/mail/content2.htm" >主計長信箱</a></li></ul></div>
+</div>
+</div>
+</div>
+
+                                                
+                                                <div class="moduletable">
+ <div id="beautifulck145" class="beautifulck glossy grey">
+    <div class="beautifulckbg" style="left: -10px; top:-45px;width: 160px;">
+        <div class="beautifulckbgleft"></div>
+        <div class="beautifulckbgcenter"></div>
+        <div class="beautifulckbgcentercolor"></div>
+        <div class="beautifulckbgright"></div>
+            <h3 style="left: 15px; 
+        top:-35px;
+        font-family:'Gruppo';        font-size: 14px;
+        font-weight: bold;
+        color: #FFFFFF;
+        position: relative;
+        ">院外連結    </h3>
+        </div>
+    <div class="beautifulck_content"><div class="accordeonck ">
+<ul class="menu" id="accordeonck5025">
+<li id="item-536" class="level1"><a href="http://www.dgbas.gov.tw/mp.asp?mp=1" ><img src="/images/LinkPic/dgbas_3.bmp" alt="主計總處" /></a></li><li id="item-538" class="level1"><a href="http://ebas.gov.tw/index.do?thetime=1286972776085" ><img src="/images/LinkPic/ebas1.jpg" alt="eBAS全國主計網" /></a></li><li id="item-539" class="level1"><a href="http://www.nta.gov.tw/Subject.aspx?t0=69" ><img src="/images/LinkPic/pay.png" alt="財政部國庫署" /></a></li><li id="item-540" class="level1"><a href="http://law.moj.gov.tw/" ><img src="/images/LinkPic/rules.jpg" alt="全國法規資料庫" /></a></li><li id="item-541" class="level1"><a href="https://www.most.gov.tw/" ><img src="/images/LinkPic/mstlogo.png" alt="科技部" /></a></li><li id="item-542" class="level1"><a href="http://www.bot.com.tw/Pages/default.aspx" ><img src="/images/LinkPic/bank.jpg" alt="台灣銀行" /></a></li><li id="item-543" class="level1"><a href="http://www.thsrc.com.tw/tc/?lc=tc" ><img src="/images/LinkPic/HST1.jpg" alt="台灣高鐵" /></a></li><li id="item-544" class="level1"><a href="http://travel.nccc.com.tw/chinese/index.htm" ><img src="/images/LinkPic/TaiwanCard.jpg" alt="國民旅遊卡" /></a></li><li id="item-680" class="level1"><a href="https://nss.nta.gov.tw/nss/docs/training/NSS_Civil_Manual.pdf" ><img src="/images/LinkPic/inform_1.jpg" alt="入戶通知作業" /></a></li></ul></div>
+</div>
+</div>
+</div>
+
+                                        </div><!-- end right -->
+                                        
+                        
+                                <div class="wrap"></div>
+
+                                </div> <!-- end contentarea -->
+
+                        </div><!-- back -->
+
+                </div><!-- all -->
+
+                <div id="footer-outer">
+                        
+                        <div id="footer-sub">
+
+
+                                <div id="footer">
+
+                                        
+<div class="footer2">電話: 02-2789-9213 | 傳真: 02-2785-5849</div>
+</br>
+</br>
+<div class="footer2">115 台北市南港區研究院路二段128號</div>
+</br>
+</br>
+<div class="footer1">Copyright &#169; 2016 中央研究院主計室. All Rights Reserved.</div>
+									
+                                                <!--核心是 
+												<a href="http://www.joomla.org/">Joomla!&#174;</a>-->
+                                        </p>
+
+
+                                </div><!-- end footer -->
+
+                        </div>
+
+                </div>
+				
+
+<div class="custom"  >
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-56267271-1', 'auto');
+  ga('send', 'pageview');
+
+</script></div>
+
+				<script>
+					(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+					(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+					})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+					ga('create', 'UA-56267271-1', 'auto');
+					ga('send', 'pageview');
+
+				</script>
+        </body>
+</html>

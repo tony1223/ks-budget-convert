@@ -1,0 +1,89 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<meta charset="UTF-8">
+<html lang="zh-TW">
+	<head>
+		<title></title>
+		<style>
+			html {
+				position: fixed;
+				width: 100%;
+				height: 100%;
+			}
+
+			body {
+				position: absolute;
+				top: 0;
+				right: 0;
+				bottom: 0;
+				left: 0;
+				background-color: #f7ef83;
+				background-image: linear-gradient(to bottom, #fdfdfd, #dfdfdf);
+			}
+
+			.box {
+				width: 80%;
+				max-width: 600px;
+				min-width: 300px;
+				padding: 30px;
+				margin: 40px auto 0;
+				border: 1px solid #ddd;
+				background-color: #f7ef83;
+				box-shadow: 0 0 20px #ddd;
+				border-radius: 4px;
+
+			}
+
+			.inner {
+			
+			}
+
+			h1 {
+				padding-bottom: 10px;
+				margin-top: 0;
+				margin-bottom: 6px;
+				border-bottom: 1px solid #333;
+			}
+
+			p {
+				margin-bottom: 0;
+				font-family: '微軟正黑體', Arial, 'Helvetica Neue', Helvetica, sans-serif, '新細明體';
+				line-height: 1.5;
+			}
+
+			a {
+				display: inline-block;
+				padding: 3px 6px;
+				margin: 0 4px;
+				text-decoration: none;
+				color: #fff;
+				background-color: #bd362f;
+				background-image: linear-gradient(to bottom, #ee5f5b, #bd362f);
+				border-radius: 4px;
+				font-size: .8em;
+			}
+
+			a:hover {
+				background-image: none;
+			}
+		</style>
+	</head>
+	<body>
+
+		<div class="box">
+			<div class="inner">
+				<h1>
+                </h1>
+				<p>
+					抱歉！請您再重新檢視輸入的網址是否正確。<br />您也可以回到<a href="javascript:history.back();" >上一頁</a>或<a href="default.aspx">首頁</a>。
+				</p>
+				<p>
+					Sorry. Please check one more time that your website address has been entered correctly.<br />You can also back to <a href="javascript:history.back();" >Previous page</a>or<a href="default.aspx">Index</a>。
+				</p>
+			</div>
+		</div>
+
+	</body>
+</html>

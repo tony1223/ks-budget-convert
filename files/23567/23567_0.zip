@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html lang="zh-hant" dir="ltr">
+
+<head>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Error |  政府資料開放平臺</title>
+  <style type="text/css" media="all">@import url("http://data.gov.tw/modules/system/system.base.css?og2b5q");
+@import url("http://data.gov.tw/modules/system/system.admin.css?og2b5q");
+@import url("http://data.gov.tw/modules/system/system.menus.css?og2b5q");
+@import url("http://data.gov.tw/modules/system/system.messages.css?og2b5q");
+@import url("http://data.gov.tw/modules/system/system.theme.css?og2b5q");
+@import url("http://data.gov.tw/modules/system/system.maintenance.css?og2b5q");</style>
+<style type="text/css" media="all">@import url("http://data.gov.tw/sites/all/themes/execute_responsive_theme/css/style.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/themes/execute_responsive_theme/css/style2.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/themes/execute_responsive_theme/css/media.css?og2b5q");
+@import url("http://data.gov.tw/sites/all/themes/execute_responsive_theme/css/table.css?og2b5q");</style>
+  <script type="text/javascript" src="http://data.gov.tw/sites/default/files/js/js_xAPl0qIk9eowy_iS9tNkCWXLUVoat94SQT48UBCFkyQ.js"></script>
+<script type="text/javascript" src="http://data.gov.tw/sites/default/files/js/js_tWBHO4v_lWgNoCeGkW7P3OSIG8edC0lY_ejSGNZPsBk.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.admin.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/system\/system.maintenance.css":1,"sites\/all\/themes\/execute_responsive_theme\/css\/style.css":1,"sites\/all\/themes\/execute_responsive_theme\/css\/style2.css":1,"sites\/all\/themes\/execute_responsive_theme\/css\/media.css":1,"sites\/all\/themes\/execute_responsive_theme\/css\/table.css":1},"js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/execute_responsive_theme\/js\/custom.js":1}}});
+//--><!]]>
+</script>
+</head>
+
+<body class="maintenance-page in-maintenance db-offline no-sidebars" >
+
+<div id="wrapper">
+  <header id="header" role="banner">
+    <div id="logo"><a href="/" title="Home"><img src="http://data.gov.tw/sites/all/themes/execute_responsive_theme/logo.png"/></a></div>    <h1 id="site-title"><a href="/" title="Home"></a></h1>
+    <div id="site-description"></div>
+    <div class="clear"></div>
+  </header>
+
+  <div id="container">
+  <div id="content">
+    <section id="main" role="main" class="clearfix">
+        <a id="main-content"></a>
+    <h1 class="title" id="page-title">Error</h1>    The website encountered an unexpected error. Please try again later.    </section> <!-- /#main -->
+ </div>
+ </div>
+</div>
+
+</body>
+</html>

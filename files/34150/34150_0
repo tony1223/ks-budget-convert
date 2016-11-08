@@ -1,0 +1,389 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="zh-TW">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<title>臺灣高等法院</title>
+<link href="text.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+.style6 {color: #FFFFFF}
+-->
+</style>
+</head>
+
+<body leftmargin="0" topmargin="0">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td valign="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td background="inside/images/topbg.gif"><img src="images/top.gif" alt="" width="778" height="78"></td>
+  </tr>
+  <tr> 
+    <td background="inside/images/bar.gif"><img src="inside/images/bar.gif" alt="" width="42" height="6"></td>
+  </tr>
+</table>
+    </td>
+  </tr>
+  <tr> 
+    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="10%" valign="top" background="images/menu_bg.gif"><!-- Menu tree include file begin -->
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_showHideLayers() { //v6.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+
+function MM_Hide_Ok1_5() { // By jungle for 2A WAG
+//  MM_showHideLayers('ok02','','hide','ok01','','hide','ok3','','hide','ok4','','hide','ok5','','hide');
+}
+
+// Add OnMouse{over,out} if On{Focus,Blur} exists.
+// One node version.
+function keyToMouse(id) {
+  if (document.getElementById(id)) {
+    node = document.getElementById(id);
+    if (node.onfocus)
+      node.onmouseover = node.onfocus;
+    if (node.onblur)
+      node.onmouseout = node.onblur;
+  }
+}
+
+// Add OnMouse{over,out} if On{Focus,Vlur} exists.
+// Tree version
+function menuKeyToMouse(id) { // By jungle for 2A WAG
+  if (!document.getElementById(id)) {
+    alert('Node "' + id + '" not found');
+    return;
+  }
+  menuKeyToMouse2(document.getElementById(id));
+}
+
+function menuKeyToMouse2(node) { // By jungle for 2A WAG
+  var nodes = node.childNodes;
+
+  for (var i=0, len=nodes.length; i<len; i++) {
+    var node = nodes[i];
+
+    if (node.nodeType != 1)	// ELEMENT_NODE
+        continue;
+
+    if (node.onfocus)
+      node.onmouseover = node.onfocus;
+    if (node.onblur)
+      node.onmouseout = node.onblur;
+
+    if (node.childNodes)
+      menuKeyToMouse2(node);
+  }
+}
+//-->
+</script>
+<script type="text/JavaScript">
+<!--
+//-->
+</script>
+<script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<noscript>
+  <P>本網頁所使用script，若您的瀏覽器不支援，或無法以鍵盤進入左邊選單第二層項目，並不影響您使用本網頁，請直接點選單元項目，進入單元主頁。</P>
+</noscript>
+
+
+<body onLoad="MM_preloadImages('images/menu01on.gif','images/menu02on.gif','images/menu03on.gif','images/menu04on.gif','images/menu05on.gif','images/menu06on.gif','images/menu07on.gif','images/menuon13.gif','images/menu10on.gif','images/bmenu_02on.gif','images/bmenu_01on.gif','images/mainopn_01a.gif','images/menuon15.gif','images/menuon16.gif','images/menuon17.gif','images/menu18on.gif','images/menuon14.gif')">
+<table id="menuTop" summary="表格：全部單元清單呈現" width="10%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td axis="單元索引"><a href="#" accesskey="L" tabIndex='1'><font color="#D4E1EA" size="-1">:::</font></a></td>
+  </tr>
+  <tr>
+    <td axis="本院簡介單元"><a href="/prospectus.asp" tabIndex='2' onBlur="MM_swapImgRestore()" onFocus="MM_swapImage('Image14','','images/menu01on.gif',1);">  <img src="images/menu01.gif" alt="本院簡介單元" name="Image14" width="140" height="26" border="0" longdesc="/prospectus.asp" ></a></td>
+  </tr>
+  <tr>
+    <td axis="法學資料檢索系統單元"> <a href="http://jirs.judicial.gov.tw/Index.htm" tabIndex='3' target="_blank" onFocus="MM_swapImage('menu02','','images/menu02on.gif',1);"  onBlur="MM_swapImgRestore()"> <img src="images/menu02.gif" alt="開新視窗，連至司法院法學資料檢索查詢系統" name="menu02" width="140" height="26" border="0" longdesc="http://jirs.judicial.gov.tw/Index.htm"></a></td>
+  </tr>
+  <tr>
+    <td axis="查詢服務單元"><a href="/rogatory.asp" tabIndex='4' onBlur="MM_swapImgRestore()" onFocus="MM_swapImage('menu03','','images/menu03on.gif',1);"> <img src="images/menu03.gif" alt="查詢服務單元" name="menu03" width="140" height="26" border="0" id="menu03" longdesc="/rogatory.asp"></a></td>
+  </tr>
+  <tr>
+    <td axis="訴訟輔導專欄單元"><a href="/t01.asp" tabIndex='5' onBlur="MM_swapImgRestore()" onFocus="MM_swapImage('menu04','','images/menu04on.gif',1);"> <img src="images/menu04.gif" alt="便民服務專欄單元" name="menu04" width="140" height="26" border="0" id="menu04" longdesc="/t01.asp"></a></td>
+  </tr>
+  <tr>
+    <td axis="政風專欄單元"><a href="govern-01.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image17','','images/menu05on.gif',1)"><img src="images/menu05.gif" alt="政風專欄單元" name="Image17" width="140" height="26" border="0"></a><a href="/govern-01.asp" tabIndex='6' onBlur="MM_swapImgRestore()" onFocus="MM_swapImage('Image17','','images/menu05on.gif',1);"></a></td>
+  </tr>
+   <tr>
+    <td axis="廉政會議專區"><a href="govern-07.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image24','','images/menu18on.gif',1)"><img src="images/menu18.gif" alt="廉政會議專區" name="Image24" width="140" height="26" border="0"></a><a href="/govern-07.asp" tabIndex='6' onBlur="MM_swapImgRestore()" onFocus="MM_swapImage('Image17','','images/menu18on.gif',1);"></a></td>
+  </tr>
+  <tr>
+    <td axis="統計專欄單元"><a href="stati_home.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image18','','images/menu06on.gif',1)"><img src="images/menu06.gif" alt="統計專欄單元" name="Image18" width="140" height="26" border="0"></a><a href="/stati_home.asp" tabIndex='7' onBlur="MM_swapImgRestore()" onFocus="MM_swapImage('999','','images/menu06on.gif',1)"></a></td>
+  </tr>
+  <tr>
+    <td axis="徵人啟事單元"><a href="work.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image21','','images/menuon15.gif',1)"><img src="images/menu15.gif" alt="政府資訊公開服務" name="Image21" width="140" height="26" border="0" id="Image21" /></a></td>
+  </tr>
+  <tr>
+    <td axis="網站芳鄰單元"><a href="http://tph.judicial.gov.tw/observer/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image22','','images/menuon16.gif',1)"><img src="images/menu16.gif" alt="法庭旁聽登錄系統" name="Image22" width="140" height="26" border="0" id="Image22" /></a></td>
+  </tr>
+  <tr>
+    <td axis="網站導覽"><a href="/tphf.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image20','','images/menu07on.gif',1)"><img src="images/menu07.gif" alt="徵人啟事單元" name="Image20" width="140" height="26" border="0" id="Image20" /></a></td>
+  </tr>
+  <tr>
+    <td axis="回首頁"><a href="/link.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image19','','images/menuon13.gif',1)"><img src="images/menu13.gif" alt="網站芳鄰單元" name="Image19" width="140" height="26" border="0" id="Image19" /></a></td>
+  </tr>
+  <tr>
+    <td axis="回首頁"><a href="/sitmap.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image16','','images/menuon14.gif',1)"><img src="images/menu14.gif" alt="網站導覽" name="Image16" width="140" height="26" border="0" id="Image16" /></a></td>
+  </tr>
+  <tr>
+    <td axis="回首頁"><a href="http://tph.judicial.gov.tw/en/default.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image23','','images/menuon17.gif',1)"><img src="images/menu17.gif" alt="English Version" name="Image23" width="140" height="26" border="0" id="Image23" /></a></td>
+  </tr>
+  <tr>
+    <td axis="回首頁"><a href="/default.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image15','','images/menu10on.gif',1)"><img src="images/menu10.gif" alt="回首頁" name="Image15" width="140" height="26" border="0" id="Image15" /></a></td>
+  </tr>
+</table>
+<div id="ok02" style="position:absolute; left:140px; top:93px; width:167px; height:57px; z-index:1; visibility: hidden;" > 
+  <table summary="本院簡介單元內項目" width="9%"  cellspacing="1" cellpadding="0">
+    <tr> 
+      <td><a href="system.asp" onBlur="MM_swapImgRestore()" onFocus="MM_swapImage('Image2','','images/bmenu_02on.gif',1)"><img src="images/bmenu_02.gif" alt="本院組織" name="Image2" width="157" height="20" border="0"></a></td>
+    </tr>
+    <tr> 
+      <td><a href="about.asp" onBlur="MM_swapImgRestore()" onFocus="MM_swapImage('Image1','','images/bmenu_01on.gif',1)"><img src="images/bmenu_01.gif" alt="關於院長" name="Image1" width="157" height="20" border="0"></a></td>
+    </tr>
+    <tr>
+      <td><a href="main_news.asp" onBlur="MM_swapImgRestore()" onFocus="MM_swapImage('Image46','','images/mainopn_01a.gif',1)"><img src="images/main_01a.gif" alt="大事紀要" name="Image46" width="157" height="20" border="0"></a></td>
+    </tr>
+  </table>
+</div>
+
+<script language="JavaScript">
+<!--
+MM_preloadImages('images/menu01on.gif','images/menu02on.gif','images/menu03on.gif','images/menu04on.gif','images/menu05on.gif','images/menu06on.gif','images/menu07on.gif','images/bmenu_07on.gif','images/bmenu_06on.gif','images/bmenu_05on.gif','images/bmenu_08on.gif','images/bmenu_03on.gif','images/bmenu_02on.gif','images/bmenu_01on.gif','images/bbmenuon_07.gif','images/tmenuon_01.gif','images/tmenuon_02.gif','images/tmenuon_03.gif','images/tmenuon_04.gif','images/tmenuon_05.gif','images/tmenuon_09.gif','images/govmenuon_01.gif','images/govmenuon_02.gif','images/govmenuon_03.gif','images/govmenuon_04.gif','images/bmenuon_10.gif','images/menuon13.gif','images/bmenuon_11.gif','images/bmenuon_12.gif','images/gov_p01.gif','images/mainopn_01a.gif','inside/images/menu/menu01on.gif','images/menu10on.gif','/images/menuon14.gif');
+MM_reloadPage(true);
+
+menuKeyToMouse('menuTop');
+//menuKeyToMouse('ok01');
+//menuKeyToMouse('ok02');
+//menuKeyToMouse('ok3');
+//menuKeyToMouse('ok4');
+//-->
+</script>
+<noscript>
+  <p>本網頁使用 javascript，若您的瀏覽器不支援，並不影響您使用本網頁，請直接點選單元項目，進入單元主頁。</p>
+</noscript>
+<!-- Menu tree include file end --></td>
+          <td valign="top" bgcolor="#FFFFFF" onFocus="MM_Hide_Ok1_5()" onMouseOver="MM_Hide_Ok1_5()"><table width="100%" border="0" cellspacing="2" cellpadding="0">
+              <tr>
+                <td valign="top"> <img src="images/account.gif" alt="會計預算及決算書" width="622" height="28"></td>
+              </tr>
+              <tr>
+                <td valign="top"><table width="100%"  cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td><a href="" accessKey="C" ><font color="#FFFFFF">:::</font></a></td>
+                    </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td height="214%" valign="top">
+                  <TABLE width="80%" border="1" align="center" cellPadding=5 cellSpacing=4 bordercolor="#999999">
+                    <TBODY>
+                      <TR>
+                        <th colspan="4" bgcolor="#034EC9"><font color="#FFFFFF" face="細明體"><span class="style6">決算</span>書及預算書</font></th>
+					  <TR>
+					    <TD rowspan="4" align="center" valign="top" bgcolor="#FFFFFF"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">                                                                                          
+					    <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left">105年度單位決算書 </div>                        
+					    <TD rowspan="4" align="center" valign="top" bgcolor="#FFFFFF"><div align="center"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">                      </div>                                                
+					    <th bgcolor="#EFF8F5"><div align="left"><a href="work/106-預算案全.pdf">106預算案書(全)</a> <span class="style2">( 張貼日期：105.08.29)</span></div></th>
+				      </TR>
+					  <TR>
+					    <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left">105年度決算書表_XML格式</div>                        
+					    <th bgcolor="#EFF8F5"><div align="left"><a href="work/106-預算案-xml.7z">106年度預算案書_XML格式</a></div></th>
+				      </TR>
+					  <TR>
+					    <TD align="center" valign="top" bgcolor="#EFF8F5">                      
+					    <th align="left" bgcolor="#EFF8F5"><a href="work/106-預算案xl.7z">106年度預算案書_EXCEL格式</a></th>
+				      </TR>
+					  <TR>
+					    <TD align="center" valign="top" bgcolor="#EFF8F5">                      
+					    <th bgcolor="#EFF8F5"><div align="left"><a href="work/106-預算案xl.7z"></a><a href="work/106預算案總說明.doc">106預算案總說明_WORD格式</a></div></th>
+				      </TR>
+					  <TR>
+					    <TD rowspan="8" align="center" valign="top" bgcolor="#FFFFFF"><div align="center"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">                      </div>                                                                                                                                                                          <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/104年度單位決算.pdf">104年度單位決算書
+                        </a><span class="style2">( 張貼日期：105.03.30)</span></div>
+					    <TD rowspan="8" align="center" valign="top" bgcolor="#FFFFFF"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">                                                                                                                                                                                                                        
+					    <th bgcolor="#EFF8F5"><div align="left"><a href="work/105法定預算書全.pdf">105法定預算書(全)</a> <span class="style2">( 張貼日期：105.01.27)</span></div></th>
+					  </TR>
+					  <TR>
+					    <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/104-12-0530-決算書表-20160330094516.7z">104年度決算書表_XML格式</a>				        </div>
+				        
+					    <th bgcolor="#EFF8F5"><div align="left"><a href="work/105-法定預算-xml.7z">105年度法定預算書_XML格式</a></div></th>
+					  </TR>
+					  <TR>
+					    <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/104決算-院修版.pdf">104年度單位決算書 -院修版</a></div>                        
+					    <th bgcolor="#EFF8F5"><div align="left"><a href="work/105-法定預算-excel.7z">105年度法定預算書_EXCEL格式</a></div></th>
+					  </TR>
+					  <TR>
+					    <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/104-12-0530-決算書表-20160922182155.7z">104年度決算書表_XML格式</a><a href="work/104年度單位決算.pdf"> -院修版</a></div>                        
+					    <th bgcolor="#EFF8F5"><div align="left"><a href="work/105預算總說明.doc">105預算總說明_WORD格式</a></div></th>
+					  </TR>
+					  <TR>
+					    <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left">　</div>                        
+				        
+					    <th bgcolor="#EFF8F5"><div align="left"><a href="work/105預算案書(全).pdf">105預算案書(全)</a> <span class="style2">( 張貼日期：104.08.28)</span></div></th>
+				      </TR>
+					  <TR>
+					    <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left"></div>
+				        
+					    <th bgcolor="#EFF8F5"><div align="left"><a href="work/105-預算案-20150827103137.7z">105年度預算案書_XML格式</a></div></th>
+				      </TR>
+					  <TR>
+					    <TD align="center" valign="top" bgcolor="#EFF8F5">                      
+				        
+					    <th bgcolor="#EFF8F5"><div align="left"><a href="work/105-預算案-20150827102857.7z">105年度預算案書_EXCEL格式</a></div></th>
+				      </TR>
+					  <TR>
+					    <TD align="center" valign="top" bgcolor="#EFF8F5">                      
+				        
+					    <th bgcolor="#EFF8F5"><div align="left"><a href="work/105預算案總說明.doc">105預算案總說明_WORD格式</a></div></th>
+				      </TR>
+					  <TR>
+					    <TD rowspan="6" align="center" valign="top" bgcolor="#FFFFFF"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">                                                                                                                                                
+                        <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/103年決算書.pdf">103年度單位決算書</a> 　<span class="style2">( 張貼日期：104.03.06) </span></div>
+                        <TD rowspan="6" align="center" valign="top" bgcolor="#FFFFFF"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">                                                                                                                                                
+                        <th bgcolor="#EFF8F5"><div align="left"><a href="work/104預算書(全)用印.pdf">104年度法定預算書</a> 　<span class="style2">( 張貼日期：104.03.05)</span></div></th>
+					  </TR>
+					  <TR>
+					    <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/103-12-0530-決算書表-20150721103115.7z">103年度決算書表_XML格式</a> </div>
+					    <th bgcolor="#EFF8F5"><div align="left"><a href="work/104法定預算xml-20150305102717.7z">104年度預算書_XML格式</a></div></th>
+					  </TR>
+					  <TR>
+					    <TD align="center" valign="top" bgcolor="#EFF8F5">
+					    <th bgcolor="#EFF8F5"><div align="left"><a href="work/104法定預算Excel-20150306142008.7z">104年度預算書_EXCEL格式</a></div></th>
+					  </TR>
+					  <TR>
+					    <TD align="center" valign="top" bgcolor="#EFF8F5">                      
+					    <th bgcolor="#EFF8F5"><div align="left"><a href="work/104預算總說明104.2.10.doc">104預算總說明_WORD格式</a></div></th>
+					  </TR>
+					  <TR>
+					    <TD align="center" valign="top" bgcolor="#EFF8F5">                      
+					    <th bgcolor="#EFF8F5"><div align="left"><a href="work/104預算案書(全)用印.pdf">104年度單位預算案書 </a>　<span class="style2">( 張貼日期：103.09.03)</span></div></th>
+					  </TR>
+					  <TR>
+					    <TD align="center" valign="top" bgcolor="#EFF8F5">                      
+					    <th bgcolor="#EFF8F5"><div align="left"><a href="work/104預算案xml-20150305102649.7z">104年度預算案書_XML格式</a></div></th>
+					  </TR><TR>
+                        <TD rowspan="2" align="center" valign="top" bgcolor="#FFFFFF">                      <img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">                                            
+                        <TD rowspan="2" align="center" valign="top" bgcolor="#EFF8F5">                      <div align="left"><a href="work/高院102年度決算全.pdf">102年度單位決算書</a> 　<span class="style2">( 張貼日期：103.03.25) </span> </div>
+                        <TD rowspan="2" align="center" valign="top" bgcolor="#FFFFFF">                                            <img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">                      
+                        <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/103法定預算書(全)用印.pdf">103年度法定預算書</a> 　<span class="style2">( 張貼日期：103.02.25)</span> </div>
+                      <TR>
+                        <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/103預算案書(全)用印.pdf">103年度單位預算案書 </a>　<span class="style2">( 張貼日期：102.09.04)</span> </div>
+                      <TR>
+                        <TD rowspan="2" align="center" valign="top" bgcolor="#FFFFFF"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">                                                
+                        <TD rowspan="2" align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/101年度單位決算.pdf">101年度單位決算書</a> 　<span class="style2">( 張貼日期：102.02.20) </span> </div>
+                        <TD rowspan="2" align="center" valign="top" bgcolor="#FFFFFF"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">                                                
+                        <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/102法定預算書.pdf">102年度法定預算書</a> 　<span class="style2">( 張貼日期：102.02.26)</span> </div>
+                      <TR>
+                        <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/102年度單位預算案書.pdf">102年度單位預算案書 </a>　<span class="style2">( 張貼日期：101.12.06)</span> </div>
+                      <TR>
+                        <TD align="center" valign="top" bgcolor="#FFFFFF"><div align="center"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">                      </div>
+                        <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/100年度單位決算書.pdf">100年度單位決算書</a> 　<span class="style2">( 張貼日期：101.02.23) </span> </div>
+                        <TD align="center" valign="top" bgcolor="#FFFFFF"><div align="center"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">                      </div>
+                        <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/101年法定預算書.pdf">101年度法定預算書 </a>　<span class="style2">( 張貼日期：101.02.21)</span> </div>
+                      <TR>
+                        <TD align="center" valign="top" bgcolor="#FFFFFF"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">                      
+                        <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/99年度單位決算.pdf">99年度單位決算書 </a>　<span class="style2">( 張貼日期：100.03.03.) </span> </div>
+                        <TD align="center" valign="top" bgcolor="#FFFFFF"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">                      
+                        <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/100年度法定預算.pdf">100年度法定預算書 </a>　<span class="style2">( 張貼日期：100.03.03)</span> </div>
+                      <TR>
+                        <TD align="center" valign="top" bgcolor="#FFFFFF"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">
+                        <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/98年度單位決算書.pdf">98年度單位決算書</a> 　<span class="style2">( 張貼日期：99.03.19) </span></div>
+                        <TD align="center" valign="top" bgcolor="#FFFFFF"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">
+                        <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/99年度單位預算書.pdf">99年度法定預算書 </a>　<span class="style2">( 張貼日期： 99.03.19)</span> </div>
+                      <TR>
+                        <TD align="center" valign="top" bgcolor="#FFFFFF"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">
+                        <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/97年度單位決算書.tif">97年度單位決算書</a>  　<span class="style2">( 張貼日期：98.03.06) </span></div>
+                        <TD align="center" valign="top" bgcolor="#FFFFFF"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">
+                        <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/98年度法定預算書.tif">98年度法定預算書</a> 　<span class="style2">( 張貼日期： 98.03.06)</span> </div>
+                      <TR>
+                        <TD width="5%" align="center" valign="top" bgcolor="#FFFFFF"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">
+                        <TD width="44%" align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/96年度單位決算書.tif">96年度單位決算書</a> </div>
+                        <TD width="6%" align="center" valign="top" bgcolor="#FFFFFF"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">
+                        <TD width="45%" align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/97年度法定預算書.tif">97年度法定預算書</a> </div>
+ 		      <TR>
+                        <TD align="center" valign="top" bgcolor="#FFFFFF"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">
+                        <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/95年度決算書.tif">95年度單位決算書</a></div>
+                        <TD align="center" valign="top" bgcolor="#FFFFFF"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">
+                        <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/96年度法定預算書.tif">96年度法定預算書</a> </div>
+                      <TR>
+                        <TD align="center" valign="top" bgcolor="#FFFFFF"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">
+                        <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/94年度決算書.tif">94年度單位決算書</a></div>
+                        <TD align="center" valign="top" bgcolor="#FFFFFF"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">
+                        <TD align="center" valign="top" bgcolor="#EFF8F5"><div align="left"><a href="work/95年度法定預算書.tif">95年度法定預算書</a> </div>
+                      <TR>
+                        <TD colspan="4" align="center" valign="top" bgcolor="#034EC9"><span class="style6">各類月報</span>
+                      <TR>
+                        <TD align="center" valign="top" bgcolor="#FFFFFF"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">                      
+                        <TD colspan="3" align="center" valign="top" bgcolor="#EFF8F5">                                                                  <div align="left"><a href="account_audit-2.asp">會計月報</a> <span class="style2">(104年度起)</span></div>
+                      <TR>
+                        <TD align="center" valign="top" bgcolor="#FFFFFF"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">                      
+                        <TD colspan="3" align="center" valign="top" bgcolor="#EFF8F5">                                                                  <div align="left"><a href="account_audit-3.asp">歲入類會計月報</a> <span class="style2">(95年度至104年度)</span></div>
+                      <TR>
+                        <TD align="center" valign="top" bgcolor="#FFFFFF"><img src="images/c/gif130.gif" alt="小圖示" width="16" height="16">                      
+                        <TD colspan="3" align="center" valign="top" bgcolor="#EFF8F5">                                                                  <div align="left"><a href="account_audit-4.asp">經費類會計月報</a><span class="style2">(95年度至104年度)</span></div>
+                      </TBODY>
+                </TABLE>
+                  　
+                <P><img src="images/line.gif" alt="" width="100%" height="5">                </td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td bgcolor="75B1E5">&nbsp;</td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+</body>
+</html>

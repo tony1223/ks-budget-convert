@@ -1,0 +1,402 @@
+﻿	
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="zh-TW" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="urn:user-namespace-here" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>法務部矯正署金門監獄</title>
+<link href="xslGip/unit068/css/lp.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit068/css/common.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit068/css/style.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit068/css/mp.css" rel="stylesheet" type="text/css"/>
+<link href="xslGip/unit068/css/fontSizeS.css" rel="stylesheet" type="text/css" title="size1"/>
+<link href="xslGip/unit068/css/fontSizeM.css" rel="alternate stylesheet" type="text/css" title="size2"/>
+<link href="xslGip/unit068/css/fontSizeL.css" rel="alternate stylesheet" type="text/css" title="size3"/>
+<script type="text/javascript" src="xslGip/unit068/css/styleswitcher.js"></script>
+<script type="text/javascript" src="xslGip/unit068/css/multimenu.js"></script>
+<script type="text/javascript" src="xslGip/unit068/css/showtab.js"></script>
+<script type="text/javascript" src="xslGip/unit068/css/activeAD.js"></script>
+<script type="text/javascript" src="xslGip/unit068/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="xslGip/unit068/js/tab.js"></script>
+<script type="text/javascript" src="xslGip/unit068/js/widgets_class.js"></script> <meta name="DC.Title" content="法務部矯正署金門監獄" />
+<meta name="DC.Creator" content="法務部矯正署金門監獄" />
+<meta name="DC.Subject" content="法務部矯正署金門監獄首頁" />
+<meta name="DC.Description" content="提供法務部矯正署金門監獄的所有訊息" />
+<meta name="DC.Contributor" content="法務部矯正署金門監獄" />
+<meta name="DC.Type" content="文字" />
+<meta name="DC.Format" content="text" />
+<meta name="DC.Source" content="法務部矯正署金門監獄" />
+<meta name="DC.Language" content="中文" />
+<meta name="DC.coverage.t.min" content="2008-05-01" />
+<meta name="DC.coverage.t.max" content="2100-12-31" />
+<meta name="DC.Publisher" content="法務部矯正署金門監獄" />
+<meta name="DC.Date" content="2008-05-01" />
+<meta name="DC.Identifier" content="A11042400F" />
+<meta name="DC.Relation" content="GIP-kmp-MP-068" />
+<meta name="DC.Rights" content="法務部矯正署金門監獄" />
+<meta name="Category.Theme" content="300" />
+<meta name="Category.Cake" content="600" />
+<meta name="Category.Service" content="I00" />
+ <noscript>
+<style type="text/css">
+<!--
+#vertnav ul, #vertnav ul ul {
+	display: block;
+	position: relative;
+	top: 0px;
+	left: 0px;
+}
+-->
+</style>
+</noscript>
+</head>
+<body>
+<div id="all">
+<div id="WebTitle" xmlns="">
+<div class="logofont"><a href="mp.asp?mp=068" title="回法務部矯正署金門監獄首頁"><img src="xslGip/unit068/images/%E9%A6%96%E9%A0%81%E9%80%8F%E6%98%8E%E5%BA%95%E5%9C%96logo_20151014102954.png" alt="法務部矯正署金門監獄" border="0"></a></div>
+<div class="ETitle"></div>
+</div>
+<div id="TopLink" xmlns="">
+<div class="TopLink_top"></div>
+<div class="TopLink_center"><span><a title="上欄" accesskey="U" href="#">:::</a></span><span><a title="網站導覽" href="sitemap.asp?mp=068">網站導覽</a></span><A title=行動版 href="http://www.kmp.moj.gov.tw/mp0681.html">行動版</A><A title=English href="http://www.kmp.moj.gov.tw/mp162.html">English</A>
+<A title=中文版 href="http://www.kmp.moj.gov.tw/mp068.html">中文版</A>
+<A title=常見問答 href="http://www.kmp.moj.gov.tw/lp.asp?ctNode=28970&CtUnit=9739&BaseDSD=7&mp=068">常見問答</A><A title=首長信箱 href="http://www.kmp.moj.gov.tw/bbssp.asp?xdurl=bossmail.asp&mp=068">首長信箱</A><A title=回首頁 href="http://www.kmp.moj.gov.tw/mp068.html">回首頁</A></div>
+<div class="TopLink_bottom"></div>
+</div>
+<div class="fontSize" title="瀏覽字體設定" xmlns=""><ul>
+<li class="fontS"><a cat="font" href="xslGip/unit068/css/fontSizeS.css" onclick="setActiveStyleSheet('size1'); location.reload(); return false;" onkeypress="setActiveStyleSheet('size1'); location.reload(); return false;"><img src="images/null.gif" alt="小" title="小"></a></li>
+<li class="fontM"><a cat="font" href="xslGip/unit068/css/fontSizeM.css" onclick="setActiveStyleSheet('size2'); location.reload(); return false;" onkeypress="setActiveStyleSheet('size2'); location.reload(); return false;"><img src="images/null.gif" alt="中" title="中"></a></li>
+<li class="fontL"><a cat="font" href="xslGip/unit068/css/fontSizeL.css" onclick="setActiveStyleSheet('size3'); location.reload(); return false;" onkeypress="setActiveStyleSheet('size3'); location.reload(); return false;"><img src="images/null.gif" alt="大" title="大"></a></li>
+</ul>
+</div>
+<noscript xmlns="">當SCRIPT關閉時，選擇字型大小，請參考：IE6請利用鍵盤按住ALT鍵 + V → X → (G)最大(L)較大(M)中(S)較小(A)小，來選擇適合您的文字大小,而IE7、IE8或Firefox瀏覽器則可利用鍵盤 Ctrl + (+)放大 (-)縮小來改變字型大小。</noscript>
+<table id="Layout" summary="table for layout">
+<tr>
+<td class="Left">
+<a title="主選單" class="Accesskey" accesskey="L" href="#">:::</a>
+<div class="Lefttop"></div>
+<div class="mlmenu vertical menubg inaccesible">
+<div id="Menu" xmlns="">
+<div class="Menu_head"></div>
+<div class="Menu_body">
+<ul id="vertnav2">
+<li id="tabindex_7292" name="tabindex_7292"><a href="np.asp?ctNode=7292&amp;mp=068" title="機關簡介">機關簡介</a></li>
+<li id="tabindex_7296" name="tabindex_7296"><a href="np.asp?ctNode=7296&amp;mp=068" title="民眾導覽">民眾導覽</a></li>
+<li id="tabindex_15948" name="tabindex_15948"><a href="np.asp?ctNode=15948&amp;mp=068" title="藝文園地">藝文園地</a></li>
+<li id="tabindex_7299" name="tabindex_7299"><a href="np.asp?ctNode=7299&amp;mp=068" title="為民服務">為民服務</a></li>
+<li id="tabindex_41239" name="tabindex_41239"><a href="np.asp?ctNode=41239&amp;mp=068" title="就業資訊">就業資訊</a></li>
+<li id="tabindex_29279" name="tabindex_29279"><a href="np.asp?ctNode=29279&amp;mp=068" title="檔案應用服務">檔案應用服務</a></li>
+<li id="tabindex_23032" name="tabindex_23032"><a href="np.asp?ctNode=23032&amp;mp=068" title="政府資訊公開服務">政府資訊公開服務</a></li>
+<li id="tabindex_7302" name="tabindex_7302"><a href="np.asp?ctNode=7302&amp;mp=068" title="承攬加工">承攬加工</a></li>
+<li id="tabindex_7304" name="tabindex_7304"><a href="np.asp?ctNode=7304&amp;mp=068" title="電子公佈欄">電子公佈欄</a></li>
+<li id="tabindex_7306" name="tabindex_7306"><a href="http://www.moj.gov.tw/bbssp.asp?xdurl=mojEpaper.asp" target="_nwGip" title="電子報訂閱(另開新視窗)">電子報訂閱</a></li>
+<li id="tabindex_12371" name="tabindex_12371"><a href="np.asp?ctNode=12371&amp;mp=068" title="統計園地">統計園地</a></li>
+</ul>
+<ul id="vertnav" style="display: none;"></ul>
+</div>
+<div class="Menu_foot"></div>
+</div>
+<div id="Counter" xmlns="">來訪人次：<span>441666</span></div>
+<div class="ad" xmlns="">
+<ul style="overflow:hidden;height:463px;" id="Block_20060330142614" name="Block_20060330142614">
+<li><a target="_blank" href="HitCounter.asp?xItem=214490&amp;mp=068"><img src="public/Data/0123162519925.gif" alt="傳統工藝傳承(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=214491&amp;mp=068"><img src="public/Data/16720106848.gif" alt="無毒家園網(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=214492&amp;mp=068"><img src="public/Data/012316272931.gif" alt="法務部-承攬加工(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=214500&amp;mp=068"><img src="public/Data/0123165514201.gif" alt="矯正機關自營產品展售商城(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=214501&amp;mp=068"><img src="public/Data/0123165558450.gif" alt="獄政博物館(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=214515&amp;mp=068"><img src="public/Data/0124153225285.JPG" alt="重大政策(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=214517&amp;mp=068"><img src="public/Data/0124153448160.JPG" alt="動畫影音專區(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=233607&amp;mp=068"><img src="public/Data/167201250515.gif" alt="戒毒成功求助「e」點通(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=214488&amp;mp=068"><img src="public/Data/0123162330155.jpg" alt="法務部便民服務線上申辦系統-採非憑證作業(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=214489&amp;mp=068"><img src="public/Data/0123162423900.gif" alt="矯正機關預約接見登記網(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=214487&amp;mp=068"><img src="public/Data/0123162249358.gif" alt="法務部便民服務線上申辦系統-採憑證作業(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=214486&amp;mp=068"><img src="public/Data/012316221198.jpg" alt="法務部(另開新視窗)"></a></li>
+</ul>
+</div><script language="javascript" xmlns="">
+					slideLine('Block_20060330142614', 000, 40, 58);
+					</script><noscript xmlns=""><a href="np.asp?ctNode=14684&mp=068">更多</a></noscript>
+</div>
+<div class="Leftbottom"></div>
+</td>
+<td class="Center">
+<a title="主要內容區" class="Accesskey" accesskey="C" href="#">:::</a>
+<div class="Centertop"><img src="xslGip/unit068/images/center_topleft.gif" alt="*"/></div>
+<div class="Centermiddle">
+<div id="c05" xmlns="">
+<div class="newsRun h"><marquee width="570px" behavior="scroll" onmouseover="this.stop()" onfocus="this.stop()" onmouseout="this.start()" onblur="this.start()" height="22" direction="left" scrolldelay="10" scrollamount="3"><ul style="display: inline;">
+<li style="display: inline;"><a href="ct.asp?xItem=450485&amp;ctNode=18827&amp;mp=068" title="106 年第一次專門職業及技術人員高等考試中醫師考試分階段考試、營養師、心理師、護理師、社會工作師考試，自105年11月1日至 10 日受理網路報名，有意報考之民眾請至考選部全球資訊網查詢。">106 年第一次專門職業及技術人員高等考試中醫師考試分階段考試、營養師、心理師、護理師、社會工作師考試，自105年11月1日至 10 日受理網路報名，有意報考之民眾請至考選部全球資訊網查詢。</a></li>
+<li style="display: inline;"><a href="ct.asp?xItem=448267&amp;ctNode=18827&amp;mp=068" title="106 年第一次專門職業及技術人員高等考試醫師牙醫師藥師考試分階段考試、藥師、醫事檢驗師、醫事放射師、物理治療師、職能治療師、呼吸治療師、獸醫師考試，自 105 年 11月 1 日至 10 日受理網路報名，有意報考之民眾請至考選部全球資訊網查詢。">106 年第一次專門職業及技術人員高等考試醫師牙醫師藥師考試分階段考試、藥師、醫事檢驗師、醫事放射師、物理治療師、職能治療師、呼吸治療師、獸醫師考試，自 105 年 11月 1 日至 10 日受理網路報名，有意報考之民眾請至考選部全球資訊網查詢。</a></li>
+<li style="display: inline;"><a href="ct.asp?xItem=443694&amp;ctNode=18827&amp;mp=068" title="保護青少年健康-禁止供應菸品予未滿18歲者，違者最高處新台幣5萬元罰鍰。">保護青少年健康-禁止供應菸品予未滿18歲者，違者最高處新台幣5萬元罰鍰。</a></li>
+<li style="display: inline;"><a href="ct.asp?xItem=443043&amp;ctNode=18827&amp;mp=068" title="衛生福利部委託故鄉市場調查股份有限公司，自105年9月1日起至11月31日止辦理志願服務調查，請受訪者屆時配合電話訪問調查。">衛生福利部委託故鄉市場調查股份有限公司，自105年9月1日起至11月31日止辦理志願服務調查，請受訪者屆時配合電話訪問調查。</a></li>
+<li style="display: inline;"><a href="ct.asp?xItem=434440&amp;ctNode=18827&amp;mp=068" title="「出生登記，父母應以書面約定子女從母姓或父姓，約定不成者，於戶政事務所抽籤決定。」、「滿20歲有行為能力人得依其意願選擇改從母姓或父姓，以1次為限。」及「性別平等，從母姓或父姓一樣好。」以落實性別平權。">「出生登記，父母應以書面約定子女從母姓或父姓，約定不成者，於戶政事務所抽籤決定。」、「滿20歲有行為能力人得依其意願選擇改從母姓或父姓，以1次為限。」及「性別平等，從母姓或父姓一樣好。」以落實性別平權。</a></li>
+<li style="display: inline;"><a href="ct.asp?xItem=390864&amp;ctNode=18827&amp;mp=068" title="金門監獄便民服務單一窗口服務專線：082-336062">金門監獄便民服務單一窗口服務專線：082-336062</a></li>
+</ul></marquee></div>
+</div><IMG style="FLOAT: left" alt=大門照片 src="http://www.moj.gov.tw/site/moj/public/MMO/kmp/完成.gif" MMOID="75966"><SPAN style="FONT-FAMILY: '新細明體','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-hansi-font-family: 'Times New Roman'; mso-ascii-font-family: 'Times New Roman'">清雍正</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-fareast-font-family: 新細明體" lang=EN-US>12</SPAN><SPAN style="FONT-FAMILY: '新細明體','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-hansi-font-family: 'Times New Roman'; mso-ascii-font-family: 'Times New Roman'">年同安縣丞移駐金門，主管地方政務及訟獄聽判，於縣丞公署內（現址為金門基督教會）設有看守所，即為本監前身。民國</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-fareast-font-family: 新細明體" lang=EN-US>4</SPAN><SPAN style="FONT-FAMILY: '新細明體','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-hansi-font-family: 'Times New Roman'; mso-ascii-font-family: 'Times New Roman'">年金門正式設縣，首任縣知事左樹爕在縣署的西側新建監獄及看守所，改善原有羈押環境。</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-fareast-font-family: 新細明體" lang=EN-US>26</SPAN><SPAN style="FONT-FAMILY: '新細明體','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-hansi-font-family: 'Times New Roman'; mso-ascii-font-family: 'Times New Roman'">年</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-fareast-font-family: 新細明體" lang=EN-US>10</SPAN><SPAN style="FONT-FAMILY: '新細明體','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-hansi-font-family: 'Times New Roman'; mso-ascii-font-family: 'Times New Roman'">月金門被日軍佔領，縣府遷往大嶝，房舍由偽行政公署佔用。直到</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-fareast-font-family: 新細明體" lang=EN-US>34</SPAN><SPAN style="FONT-FAMILY: '新細明體','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-hansi-font-family: 'Times New Roman'; mso-ascii-font-family: 'Times New Roman'">年</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-fareast-font-family: 新細明體" lang=EN-US>10</SPAN><SPAN style="FONT-FAMILY: '新細明體','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-hansi-font-family: 'Times New Roman'; mso-ascii-font-family: 'Times New Roman'">月金門光復，縣司法處恢復業務。</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-fareast-font-family: 新細明體" lang=EN-US>38</SPAN><SPAN style="FONT-FAMILY: '新細明體','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-hansi-font-family: 'Times New Roman'; mso-ascii-font-family: 'Times New Roman'">年金門實施軍管，司法業務一度停頓，至</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-fareast-font-family: 新細明體" lang=EN-US>39</SPAN><SPAN style="FONT-FAMILY: '新細明體','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-hansi-font-family: 'Times New Roman'; mso-ascii-font-family: 'Times New Roman'">年再恢復辦公，租用東門里民房為看守所（後再遷租南門里民房）。</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-fareast-font-family: 新細明體" lang=EN-US>45</SPAN><SPAN style="FONT-FAMILY: '新細明體','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-hansi-font-family: 'Times New Roman'; mso-ascii-font-family: 'Times New Roman'">年</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-fareast-font-family: 新細明體" lang=EN-US>3</SPAN><SPAN style="FONT-FAMILY: '新細明體','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-hansi-font-family: 'Times New Roman'; mso-ascii-font-family: 'Times New Roman'">月縣司法處改制為福建金門地方法院，看守所亦改隸地方法院，並兼辦監獄業務。</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-fareast-font-family: 新細明體" lang=EN-US>47</SPAN><SPAN style="FONT-FAMILY: '新細明體','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-hansi-font-family: 'Times New Roman'; mso-ascii-font-family: 'Times New Roman'">年</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-fareast-font-family: 新細明體" lang=EN-US>4</SPAN><SPAN style="FONT-FAMILY: '新細明體','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-hansi-font-family: 'Times New Roman'; mso-ascii-font-family: 'Times New Roman'">月遷至金湖鎮新市里現址（原地方法院疏散房舍改建）。同年</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-fareast-font-family: 新細明體" lang=EN-US>823</SPAN><SPAN style="FONT-FAMILY: '新細明體','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-hansi-font-family: 'Times New Roman'; mso-ascii-font-family: 'Times New Roman'">砲戰，收容人緊急釋放，至翌年</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-fareast-font-family: 新細明體" lang=EN-US>4</SPAN><SPAN style="FONT-FAMILY: '新細明體','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-hansi-font-family: 'Times New Roman'; mso-ascii-font-family: 'Times New Roman'">月</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-fareast-font-family: 新細明體" lang=EN-US>1</SPAN><SPAN style="FONT-FAMILY: '新細明體','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW; mso-bidi-language: AR-SA; mso-hansi-font-family: 'Times New Roman'; mso-ascii-font-family: 'Times New Roman'">日，局勢稍安，釋放人犯全部回所</SPAN>.........<IMG alt=* src="http://www.moj.gov.tw/site/moj/public/MMO/kmp/jnbgjce003.gif" MMOID="75965"><A title="" href="http://www.kmp.moj.gov.tw/ct.asp?xItem=3342&CtNode=7293" target=_blank>詳全文</A><BR><BR><BR><BR>
+<DIV>
+<HR>
+</DIV>
+<TABLE summary="列表資料 ">
+<TBODY>
+<TR>
+<TD width="30%">&nbsp; 
+<P title=""><IMG style="FLOAT: left" alt=本監位置圖（2） src="http://www.moj.gov.tw/site/moj/public/MMO/kmp/本監位置圖%202.jpg" MMOID="76038">地址：金門縣金湖鎮復興路1-5號<BR>交通：<BR>公車：自機場出境門左前方候車亭，搭乘3號公車，往山外方向，於山外車站下車，沿站前復興路，徒步約10分鐘，即可到達本監。<BR>計程車：自機場出境門.........<IMG alt=* src="http://www.moj.gov.tw/site/moj/public/MMO/kmp/jnbgjce003.gif" MMOID="75965"><A title="" href="http://www.kmp.moj.gov.tw/ct.asp?xItem=22370&ctNode=7297" target=_blank>詳全文</A><BR><BR><BR></P></TD></TR></TBODY></TABLE><div class="tab" xmlns="">
+<div class="tabgroup">
+<div class="tabContainer here"><a href="javascript:">電子公佈欄</a><div class="newsA">
+<noscript><h1></h1></noscript>
+<ul>
+<li><a target="_blank" href="HitCounter.asp?xItem=450486&amp;mp=068" title="「投資兒童 就是投資我們的未來」政策溝通電子單張文宣(另開新視窗)">「投資兒童 就是投資我們的未來」政策溝通電子單張文宣<img alt="新的訊息" src="xslGip/unit068/images/new.gif"></a><span class="date">105/11/03</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=450487&amp;mp=068" title="「為青年儲蓄未來」政策溝通電子單張文宣(另開新視窗)">「為青年儲蓄未來」政策溝通電子單張文宣<img alt="新的訊息" src="xslGip/unit068/images/new.gif"></a><span class="date">105/11/03</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=450488&amp;mp=068" title="「發展綠能 促進能源轉型」政策溝通電子單張文宣(另開新視窗)">「發展綠能 促進能源轉型」政策溝通電子單張文宣<img alt="新的訊息" src="xslGip/unit068/images/new.gif"></a><span class="date">105/11/03</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=450489&amp;mp=068" title="「擴大幼兒教保公共化」政策溝通電子單張文宣(另開新視窗)">「擴大幼兒教保公共化」政策溝通電子單張文宣<img alt="新的訊息" src="xslGip/unit068/images/new.gif"></a><span class="date">105/11/03</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=450490&amp;mp=068" title="106年度「補助社團辦理青年客家公共論壇計畫」(另開新視窗)">106年度「補助社團辦理青年客家公共論壇計畫」<img alt="新的訊息" src="xslGip/unit068/images/new.gif"></a><span class="date">105/11/03</span></li>
+</ul>
+<div class="more"><a href="np.asp?ctNode=7305&mp=068" title="更多電子公佈欄">
+										更多電子公佈欄</a></div>
+</div>
+</div>
+<div class="tabContainer here"><a href="javascript:">活動剪影</a><div class="newsA">
+<noscript><h1></h1></noscript>
+<ul>
+<li><a target="_blank" href="HitCounter.asp?xItem=448430&amp;mp=068" title="105年9月30日金門文化講座(另開新視窗)">105年9月30日金門文化講座</a><span class="date">105/10/18</span></li>
+<li><a href="HitCounter.asp?xItem=448429&amp;mp=068" title="105年9月26日更生人就業促進活動及更保認輔">105年9月26日更生人就業促進活動及更保認輔</a><span class="date">105/10/18</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=448428&amp;mp=068" title="105年9月20日基督教奇異恩典【臨摹聖經、寧靜心靈】活動(另開新視窗)">105年9月20日基督教奇異恩典【臨摹聖經、寧靜心靈】活動</a><span class="date">105/10/18</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=445954&amp;mp=068" title="105年9月13日秋節前夕 議長與副議長率議員慰問收容人(另開新視窗)">105年9月13日秋節前夕 議長與副議長率議員慰問收容人</a><span class="date">105/10/02</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=448427&amp;mp=068" title="105年9月12日金大菩提社自製賀卡活動(另開新視窗)">105年9月12日金大菩提社自製賀卡活動</a><span class="date">105/10/18</span></li>
+</ul>
+<div class="more"><a href="np.asp?ctNode=34523&mp=068" title="更多活動剪影">
+										更多活動剪影</a></div>
+</div>
+</div>
+<div class="tabContainer here"><a href="javascript:">印象背板</a><div class="newsA">
+<noscript><h1></h1></noscript>
+<ul>
+<li><a target="_blank" href="HitCounter.asp?xItem=408320&amp;mp=068" title="近代金門獄政之發軔(另開新視窗)">近代金門獄政之發軔</a><span class="date">104/10/15</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=408322&amp;mp=068" title="戰地金門的獄政史事（一）(另開新視窗)">戰地金門的獄政史事（一）</a><span class="date">104/10/15</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=408323&amp;mp=068" title="戰地金門的獄政史事（二）(另開新視窗)">戰地金門的獄政史事（二）</a><span class="date">104/10/15</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=408329&amp;mp=068" title="作業、教化演進與發展（一）(另開新視窗)">作業、教化演進與發展（一）</a><span class="date">104/10/15</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=408330&amp;mp=068" title="作業、教化演進與發展（二）(另開新視窗)">作業、教化演進與發展（二）</a><span class="date">104/10/15</span></li>
+</ul>
+<div class="more"><a href="np.asp?ctNode=41363&mp=068" title="更多印象背板">
+										更多印象背板</a></div>
+</div>
+</div>
+<div class="tabContainer here"><a href="javascript:">常見問題</a><div class="newsA">
+<noscript><h1></h1></noscript>
+<ul>
+<li><a href="ct.asp?xItem=318236&amp;ctNode=28970&amp;mp=068" title="問008、即將入監執行，卻檢查出疑似罹患肺結核，該怎麼辦？">問008、即將入監執行，卻檢查出疑似罹患肺結核，該怎麼辦？</a><span class="date">105/07/29</span></li>
+<li><a href="ct.asp?xItem=318239&amp;ctNode=28970&amp;mp=068" title="問009、收容人進入矯正機關後，會得到哪些醫療照護？">問009、收容人進入矯正機關後，會得到哪些醫療照護？</a><span class="date">105/07/29</span></li>
+<li><a href="ct.asp?xItem=318240&amp;ctNode=28970&amp;mp=068" title="問010、入矯正機關執行期間，因須長期服藥或使用氣喘噴劑，如何處理？">問010、入矯正機關執行期間，因須長期服藥或使用氣喘噴劑，如何處理？</a><span class="date">105/07/29</span></li>
+<li><a href="ct.asp?xItem=318241&amp;ctNode=28970&amp;mp=068" title="問011、罹患慢性疾病者於矯正機關收容期間，可否獲得治療？">問011、罹患慢性疾病者於矯正機關收容期間，可否獲得治療？</a><span class="date">105/07/29</span></li>
+<li><a href="ct.asp?xItem=318242&amp;ctNode=28970&amp;mp=068" title="問012、親友須終身施打胰島素，能將針劑帶進矯正機關內使用嗎？">問012、親友須終身施打胰島素，能將針劑帶進矯正機關內使用嗎？</a><span class="date">105/07/29</span></li>
+</ul>
+<div class="more"><a href="np.asp?ctNode=28970&mp=068" title="更多常見問題">
+										更多常見問題</a></div>
+</div>
+</div>
+<div class="tabContainer here"><a href="javascript:">歷史新聞</a><div class="newsA">
+<noscript><h1></h1></noscript>
+<ul>
+<li><a target="_blank" href="ct.asp?xItem=440761&amp;ctNode=14284&amp;mp=068" title="2016/07/08傳授求職技巧金門就業中心辦職涯研習（金門監獄）(另開新視窗)">2016/07/08傳授求職技巧金門就業中心辦職涯研習（金門監獄）</a><span class="date">105/07/28</span></li>
+<li><a target="_blank" href="ct.asp?xItem=440760&amp;ctNode=14284&amp;mp=068" title="2016/06/24 以佛心為心書法展蕭棟欽將佛經藝術化（金門日報）(另開新視窗)">2016/06/24 以佛心為心書法展蕭棟欽將佛經藝術化（金門日報）</a><span class="date">105/07/28</span></li>
+<li><a target="_blank" href="ct.asp?xItem=440753&amp;ctNode=14284&amp;mp=068" title="2016/06/02 端節前夕 縣長探慰社福機構向鄉親賀節（金門日報）(另開新視窗)">2016/06/02 端節前夕 縣長探慰社福機構向鄉親賀節（金門日報）</a><span class="date">105/07/28</span></li>
+<li><a target="_blank" href="ct.asp?xItem=440756&amp;ctNode=14284&amp;mp=068" title="2016/06/04 端節將屆議會展開關懷慰問活動（金門日報）(另開新視窗)">2016/06/04 端節將屆議會展開關懷慰問活動（金門日報）</a><span class="date">105/07/28</span></li>
+<li><a target="_blank" href="ct.asp?xItem=440750&amp;ctNode=14284&amp;mp=068" title="2016/05/20金大社工系入監服務學習鼓舞更生人（金門日報）(另開新視窗)">2016/05/20金大社工系入監服務學習鼓舞更生人（金門日報）</a><span class="date">105/07/28</span></li>
+</ul>
+<div class="more"><a href="np.asp?ctNode=14284&mp=068" title="更多歷史新聞">
+										更多歷史新聞</a></div>
+</div>
+</div>
+<div class="tabContainer here"><a href="javascript:">人數及特性</a><div class="newsA">
+<noscript><h1></h1></noscript>
+<ul>
+<li><a target="_blank" href="HitCounter.asp?xItem=425067&amp;mp=068" title="每日在監所各類收容人數(另開新視窗)">每日在監所各類收容人數<img alt="新的訊息" src="xslGip/unit068/images/new.gif"></a><span class="date">105/11/02</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=126596&amp;mp=068" title="近五年出獄受刑人（按罪名分）一覽表(另開新視窗)">近五年出獄受刑人（按罪名分）一覽表</a><span class="date">105/03/09</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=126594&amp;mp=068" title="近五年新入監受刑人宣告刑刑名一覽表(另開新視窗)">近五年新入監受刑人宣告刑刑名一覽表</a><span class="date">105/03/09</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=126595&amp;mp=068" title="近五年在監受刑人犯罪次數一覽表(另開新視窗)">近五年在監受刑人犯罪次數一覽表</a><span class="date">105/03/09</span></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=126593&amp;mp=068" title="近五年新入監受刑人罪名一覽表(另開新視窗)">近五年新入監受刑人罪名一覽表</a><span class="date">105/03/09</span></li>
+</ul>
+<div class="more"><a href="np.asp?ctNode=12987&mp=068" title="更多人數及特性">
+										更多人數及特性</a></div>
+</div>
+</div>
+</div>
+</div><P align=center>
+<TABLE style="WIDTH: 723px; HEIGHT: 221px" id=多媒體宣導影片 title=多媒體宣導影片(另開視窗) border=0 cellSpacing=1 summary=宣導影片 width=723 target="_gipNW">
+<TBODY>
+<TR>
+<TD class=lftSide>
+<OBJECT width=200 height=150><PARAM NAME="movie" VALUE="//www.youtube.com/v/qjIBkyYjxEI?version=3&hl=zh_TW"><PARAM NAME="allowFullScreen" VALUE="true"><PARAM NAME="allowscriptaccess" VALUE="always">
+<embed src="//www.youtube.com/v/qjIBkyYjxEI?version=3&hl=zh_TW" type="application/x-shockwave-flash" width="200" height="150" allowscriptaccess="always" allowfullscreen="true"></embed><p><font size="-1">
+十年磨一劍</font></p></OBJECT></TD>
+<TD class=lftSide>
+<OBJECT width=210 height=150><PARAM NAME="movie" VALUE="http://www.youtube.com/v/9SDNj0EWchY?fs=1&hl=zh_TW"><PARAM NAME="allowFullScreen" VALUE="true"><PARAM NAME="allowscriptaccess" VALUE="always">
+<embed src="http://www.youtube.com/v/9SDNj0EWchY?fs=1&hl=zh_TW" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="210" height="150"><p><font size="-1">
+九天民俗技藝團-不呷毒，才是王道</font></p></OBJECT></TD>
+<TD class=rightSide>
+<OBJECT width=200 height=150><PARAM NAME="movie" VALUE="http://www.youtube.com/v/YdrIF-arsU0?fs=1&hl=zh_TW"><PARAM NAME="allowFullScreen" VALUE="true"><PARAM NAME="allowscriptaccess" VALUE="always">
+<embed src="http://www.youtube.com/v/YdrIF-arsU0?fs=1&hl=zh_TW" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="200" height="150"><p><font size="-1">張鈞甯-追求自我遠離毒品</font></p></OBJECT></TD>
+<TD></TD></TR>
+<TR>
+<TD></TD>
+<TD></TD>
+<TD>
+<P align=right><A target="_nwMof" href="http://www.moj.gov.tw/lp.asp?CtNode=27496&CtUnit=8021&BaseDSD=7&mp=001" target=_nwMof><FONT size=-1>更多影片</FONT></A></P></TD>
+<TD>
+<P align=right>&nbsp;</P></TD></TR></TBODY></TABLE></P></div>
+<div class="Centerbottom"><img src="xslGip/unit068/images/center_bottomleft.gif" alt="*"/></div>
+</td>
+<td class="Right">
+<a title="右欄" class="Accesskey" accesskey="R" href="#">:::</a>
+<div class="Righttop"></div>
+<div class="Rightmiddle"><script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
+<script language="JavaScript"> 
+$(function(){
+$("#textfield").focus(function(){
+if($("#textfield").val()=='請輸入關鍵字'){
+           $("#textfield").val('');
+}
+});
+$("#searchBtn").click(function(){
+var query = encodeURI("http://www.kmp.moj.gov.tw/bbssp.asp?xdurl=search/GSSForm.asp&mp=068&keyword=") + encodeURI(document.getElementById("textfield").value);
+window.open(query, "_self"); 
+});
+});
+</script>
+<noscript>請連結到搜尋入口進行查詢，網址http://www.kmp.moj.gov.tw/bbssp.asp?xdurl=search/GSSForm.asp&mp=068</noscript><DIV id=search>
+<DIV class=Head>全文檢索</DIV>
+<DIV class=Body>
+<form name="hysearch_form" title="全文檢索">
+<label for="search" style="display:none ">全文檢索</label>
+<INPUT accessKey=S style="WIDTH: 93px; HEIGHT: 20px" id=textfield value=請輸入關鍵字 maxLength=30 size=12 name=content>
+<input type="button" id="searchBtn" value="查詢">
+</form> 
+<br/>
+</DIV></DIV>
+<div id="AD_R" xmlns="">
+<div class="AD_R_title">廣告右固定式</div>
+<div class="AD_R_body"><samp><a href="HitCounter.asp?xItem=407847&amp;mp=068" title="金門監獄粉絲專頁入口(另開新視窗)" target="_nwGip"><img border="0" width="150" src="public/Data/51012162830362.gif" alt="金門監獄粉絲專頁入口(另開新視窗)"></a></samp><samp><a href="HitCounter.asp?xItem=214483&amp;mp=068" title="鼎金麵線訂購(另開新視窗)" target="_nwGip"><img border="0" width="150" src="public/Data/0123161547727.gif" alt="鼎金麵線訂購(另開新視窗)"></a></samp></div>
+<div class="more"></div>
+<div class="AD_R_foot"></div>
+</div>
+<div class="ad" xmlns="">
+<ul style="overflow:hidden;height:581px;" id="Block_20101203113403" name="Block_20101203113403">
+<li><a target="_blank" href="HitCounter.asp?xItem=244693&amp;mp=068"><img src="public/Data/1111711515616.jpg" alt="黃金十年-廉能政府施政願景(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=250593&amp;mp=068"><img src="public/Data/1112591427908.gif" alt="公務人員行政中立訓練及宣導(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=281461&amp;mp=068"><img src="public/Data/31216102757500.jpg" alt="外國人在臺灣(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=304067&amp;mp=068"><img src="public/Data/352143523801.jpg" alt="確保核安 穩健減核(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=312392&amp;mp=068"><img src="public/Data/371217300972.jpg" alt="電子發票整合服務平台(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=341076&amp;mp=068"><img src="public/Data/1442116343930.jpg" alt="衛生福利部國民健康署官網(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=366345&amp;mp=068"><img src="public/Data/4111911946851.png" alt="地方公職人員選舉專區(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=375338&amp;mp=068"><img src="public/Data/513093716130.jpg" alt="禽流感資訊專區(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=230557&amp;mp=068"><img src="public/Data/15616544808.jpg" alt="165反詐騙專屬網站(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=377638&amp;mp=068"><img src="public/Data/5216102121820.GIF" alt="新住民數位資訊e網(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=233406&amp;mp=068"><img src="public/Data/16316713947.jpg" alt="人權大步走專區(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=214512&amp;mp=068"><img src="public/Data/012411041732.jpg" alt="交通服務ｅ網通(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=214513&amp;mp=068"><img src="public/Data/012411159578.jpg" alt="全國法規資料庫入口網站(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=214514&amp;mp=068"><img src="public/Data/01241131874.gif" alt="節能減碳全民行動網(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=214473&amp;mp=068"><img src="public/Data/5101581454851.jpg" alt="金門航空站(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=214474&amp;mp=068"><img src="public/Data/01231635662.gif" alt="中央氣象局全球資訊網(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=214475&amp;mp=068"><img src="public/Data/012316520136.jpg" alt="金門縣政府全球資訊網(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=214478&amp;mp=068"><img src="public/Data/012316740218.jpg" alt="金門國家公園管理處全球資訊網(另開新視窗)"></a></li>
+<li><a target="_blank" href="HitCounter.asp?xItem=214479&amp;mp=068"><img src="public/Data/012316821580.jpg" alt="政府入口網(另開新視窗)"></a></li>
+</ul>
+</div><script language="javascript" xmlns="">
+					slideLine('Block_20101203113403', 5000, 40, 58);
+					</script><noscript xmlns=""><a href="np.asp?ctNode=29519&mp=068">更多</a></noscript>
+</div>
+<div class="Rightbottom"></div>
+</td>
+</tr>
+</table>
+<div class="sildeCtrl" xmlns="">
+<ul>
+<li><a href="np.asp?ctNode=7292&amp;mp=068" title="機關簡介">機關簡介</a><ul>
+<li><a href="np.asp?ctNode=7293&amp;mp=068" title="歷史沿革">歷史沿革</a></li>
+<li><a href="np.asp?ctNode=7294&amp;mp=068" title="首長介紹">首長介紹</a></li>
+<li><a href="http://www.kmp.moj.gov.tw/bbssp.asp?xdurl=bossmail.asp&mp=068" title="首長信箱">首長信箱</a></li>
+<li><a href="np.asp?ctNode=17746&amp;mp=068" title="面積容額">面積容額</a></li>
+<li><a href="np.asp?ctNode=17745&amp;mp=068" title="組織編制">組織編制</a></li>
+<li><a href="np.asp?ctNode=17753&amp;mp=068" title="組織職掌">組織職掌</a></li>
+<li><a href="np.asp?ctNode=17757&amp;mp=068" title="業務概況">業務概況</a></li>
+<li><a href="lp.asp?ctNode=34524&amp;CtUnit=13421&amp;BaseDSD=7&amp;mp=068" title="主管法規">主管法規</a></li>
+<li><a href="lp.asp?ctNode=14284&amp;CtUnit=1053&amp;BaseDSD=7&amp;mp=068" title="歷史新聞">歷史新聞</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=7296&amp;mp=068" title="民眾導覽">民眾導覽</a><ul>
+<li><a href="np.asp?ctNode=7297&amp;mp=068" title="機關位置圖">機關位置圖</a></li>
+<li><a href="np.asp?ctNode=7298&amp;mp=068" title="接見室位置圖">接見室位置圖</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=15948&amp;mp=068" title="藝文園地">藝文園地</a><ul>
+<li><a href="lp.asp?ctNode=41363&amp;CtUnit=16828&amp;BaseDSD=7&amp;mp=068" title="印象背板">印象背板</a></li>
+<li><a href="lp.asp?ctNode=34523&amp;CtUnit=13420&amp;BaseDSD=7&amp;mp=068" title="活動剪影">活動剪影</a></li>
+<li><a href="np.asp?ctNode=15953&amp;mp=068" title="風獅爺的故鄉">風獅爺的故鄉</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=7299&amp;mp=068" title="為民服務">為民服務</a><ul>
+<li><a href="np.asp?ctNode=14803&amp;mp=068" title="為民服務白皮書">為民服務白皮書</a></li>
+<li><a href="np.asp?ctNode=7300&amp;mp=068" title="聯絡方式">聯絡方式</a></li>
+<li><a href="http://www.kmp.moj.gov.tw/bbssp.asp?xdurl=bossmail.asp&mp=068&Emailid=3" title="政風信箱">政風信箱</a></li>
+<li><a href="http://www.kmp.moj.gov.tw/bbssp.asp?xdurl=bossmail.asp&mp=068&Emailid=2" title="民意信箱">民意信箱</a></li>
+<li><a href="http://eservice.moj.gov.tw/lp.asp?ctNode=23461&CtUnit=6504&BaseDSD=27&mp=275&xq_xCat=1" title="表單下載(另開新視窗)" target="_nwGip">表單下載</a></li>
+<li><a href="np.asp?ctNode=7317&amp;mp=068" title="接見事宜">接見事宜</a></li>
+<li><a href="lp.asp?ctNode=28970&amp;CtUnit=9739&amp;BaseDSD=7&amp;mp=068" title="常見問題">常見問題</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=41239&amp;mp=068" title="就業資訊">就業資訊</a><ul>
+<li><a href="lp.asp?ctNode=41240&amp;CtUnit=16734&amp;BaseDSD=7&amp;mp=068" title="就業資訊">就業資訊</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=29279&amp;mp=068" title="檔案應用服務">檔案應用服務</a><ul>
+<li><a href="np.asp?ctNode=29280&amp;mp=068" title="服務指南">服務指南</a></li>
+<li><a href="np.asp?ctNode=29281&amp;mp=068" title="常見問答">常見問答</a></li>
+<li><a href="np.asp?ctNode=30987&amp;mp=068" title="檔案展示">檔案展示</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=23032&amp;mp=068" title="政府資訊公開服務">政府資訊公開服務</a><ul>
+<li><a href="http://www.moj.gov.tw/lp.asp?ctNode=20545&CtUnit=804&BaseDSD=7&mp=001" title="法律、解釋彙編與宣導參考文件(另開新視窗)" target="_nwGip">法律、解釋彙編與宣導參考文件</a></li>
+<li><a href="http://www.moj.gov.tw/lp.asp?ctNode=20544&CtUnit=4481&BaseDSD=7&mp=001" title="申請規定與表單下載(另開新視窗)" target="_nwGip">申請規定與表單下載</a></li>
+<li><a href="np.asp?ctNode=23038&amp;mp=068" title="應主動公開政府資訊">應主動公開政府資訊</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=7302&amp;mp=068" title="承攬加工">承攬加工</a><ul>
+<li><a href="np.asp?ctNode=7303&amp;mp=068" title="承攬加工">承攬加工</a></li>
+</ul>
+</li>
+<li><a href="np.asp?ctNode=7304&amp;mp=068" title="電子公佈欄">電子公佈欄</a><ul>
+<li><a href="lp.asp?ctNode=7305&amp;CtUnit=71&amp;BaseDSD=7&amp;mp=068" title="電子公佈欄">電子公佈欄</a></li>
+</ul>
+</li>
+<li><a href="http://www.moj.gov.tw/bbssp.asp?xdurl=mojEpaper.asp" title="電子報訂閱(另開新視窗)" target="_nwGip">電子報訂閱</a></li>
+<li><a href="np.asp?ctNode=12371&amp;mp=068" title="統計園地">統計園地</a><ul>
+<li><a href="lp.asp?ctNode=12985&amp;CtUnit=757&amp;BaseDSD=7&amp;mp=068" title="園地導覽">園地導覽</a></li>
+<li><a href="np.asp?ctNode=12986&amp;mp=068" title="收容情形">收容情形</a></li>
+<li><a href="np.asp?ctNode=12988&amp;mp=068" title="業務成效">業務成效</a></li>
+<li><a href="http://www.moj.gov.tw/mp001.html" title="法務統計(另開新視窗)" target="_nwGip">法務統計</a></li>
+<li><a href="http://www.rjsd.moj.gov.tw/RJSDWEB/common/RelatedWebsite.aspx" title="相關網站(另開新視窗)" target="_nwGip">相關網站</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="Bottomtop" xmlns=""><img src="xslGip/unit068/images/bottom_topl.gif" alt="*"></div>
+<div class="Bottommiddle" xmlns="">
+<div id="Bottom"><P title=(另開視窗) align=left target="_gipNW"><A title=無障礙網站 href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20150225223648"></A><A title=無障礙網站(另開視窗) href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20150225223648" target=_gipNW><IMG border=0 alt=無障礙A+ src="http://www.moj.gov.tw/site/moj/public/MMO/kmp/aplus.jpg" MMOID="91724">&nbsp;</A> | <A title=(另開視窗)(另開視窗) href="http://www.moj.gov.tw/np.asp?ctNode=27458" target=_gipNW>資訊安全政策宣告</A>&nbsp;|&nbsp;&nbsp;<A title=(另開視窗) href="http://www.moj.gov.tw/ct.asp?xItem=28285&ctNode=35" target=_gipNW>隱私權保護宣告</A>&nbsp; |&nbsp;&nbsp;<A title=(另開視窗) href="http://eservice.moj.gov.tw/eservice/index.asp?classsort=214">單一申辦窗口</A>&nbsp; |&nbsp;<A title="" href="http://www.kmp.moj.gov.tw/ct.asp?xItem=403849&ctNode=41227" target=_nwMof>資料開放宣告</A>&nbsp; |&nbsp;<IMG alt="QR code" src="http://www.moj.gov.tw/site/moj/public/MMO/kmp/QR%20code%20-%2070.png" MMOID="407921">&nbsp; <A target="_nwMof" href="http://www.gov.tw/" target=_nwMof><IMG alt=e政府圖示 src="http://www.moj.gov.tw/site/moj/public/MMO/kmp/e政府圖示.gif" MMOID="408204" border=0></A></P>
+<P title=(另開視窗) align=left target="_gipNW">歡迎光臨法務部矯正署金門監獄全球資訊網　郵遞區號：89142　地址：金門縣金湖鎮復興路1-5號<BR>電話總機號碼：082-332283　傳真機號碼：082-332994</STRONG>&nbsp;&nbsp;&nbsp; <A title=(另開視窗)(另開視窗) href="https://www.google.com.tw/maps/place/%E9%87%91%E9%96%80%E5%B0%91%E5%B9%B4%E8%A7%80%E8%AD%B7%E6%89%80/@24.4418552,118.4199139,297m/data=!3m1!1e3!4m2!3m1!1s0x3414a4ed4ff68611:0xdaf88401a4e453d3!6m1!1e1?hl=zh-TW" target=_gipNW>Google地圖</A>&nbsp;&nbsp;&nbsp; <A title=(另開視窗) href="https://www.google.com.tw/maps/@24.4410589,118.4208147,3a,75y,55.25h,74.15t/data=!3m6!1e1!3m4!1ssyzDqIoRlVSmNKfuy9BJIQ!2e0!7i13312!8i6656?hl=zh-TW" target=_gipNW>Google街景圖<BR></A>本網站全部圖文非經機關正式書面同意，不得將全部或部分內容，轉載於任何形式媒體Copyrights 2005.　版權所有，轉載必究.</P></div>
+</div>
+<div class="Bottombottom" xmlns=""><img src="xslGip/unit068/images/bottom_bottoml.gif" alt="*"></div>
+</div>
+</body>
+</html>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38147271-1']);
+  _gaq.push(['_setDomainName', 'kmp.moj.gov.tw']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>

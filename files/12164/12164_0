@@ -1,0 +1,549 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>陳郁儒</Author>
+  <LastAuthor>盧鳳儀</LastAuthor>
+  <Created>2015-02-24T09:13:24Z</Created>
+  <LastSaved>2015-02-25T03:13:36Z</LastSaved>
+  <Company>Ministry of Economic Affairs,R.O.C</Company>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10980</WindowHeight>
+  <WindowWidth>17592</WindowWidth>
+  <WindowTopX>468</WindowTopX>
+  <WindowTopY>96</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="新細明體" x:CharSet="136" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="超連結">
+   <Font ss:FontName="新細明體" x:CharSet="136" x:Family="Roman" ss:Size="12"
+    ss:Color="#0000FF" ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="m30859936">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="標楷體" x:CharSet="136" x:Family="Script" ss:Size="16"
+    ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="標楷體" x:CharSet="136" x:Family="Script" ss:Size="14"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="標楷體" x:CharSet="136" x:Family="Script" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="標楷體" x:CharSet="136" x:Family="Script" ss:Size="12"
+    ss:Color="#000000"/>
+   <NumberFormat ss:Format="Short Date"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="標楷體" x:CharSet="136" x:Family="Script" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s75" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s76" ss:Parent="s62">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="工作表1">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="47" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="16.5">
+   <Column ss:AutoFitWidth="0" ss:Width="369.6"/>
+   <Column ss:Width="121.8"/>
+   <Column ss:Width="71.400000000000006" ss:Span="1"/>
+   <Column ss:Index="5" ss:Width="590.4"/>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:MergeAcross="4" ss:StyleID="m30859936"><Data ss:Type="String">經濟部預算政府資料開放</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19.5">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">內容要旨</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">作成或取得日期</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">保管期間</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">發布單位</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">下載網址</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19.5">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">106年度經濟部單位預算案</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2016-09-02T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s75" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=876"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=876</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19.5">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">105年度經濟部單位預算</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2016-01-18T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s75" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=829"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=829</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">105年度經濟部單位預算案</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2015-08-31T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=813"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=813</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">104年度經濟部單位預算</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2015-02-12T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=751"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=751</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">104年度經濟部單位預算案</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2014-09-01T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=723"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=723</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">103年度經濟部單位預算(四)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2014-02-17T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=680"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=680</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">103年度經濟部單位預算(三)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2014-02-17T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=679"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=679</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">103年度經濟部單位預算(二)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2014-02-17T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=678"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=678</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">103年度經濟部單位預算(一)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2014-02-17T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=677"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=677</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">103年度經濟部單位預算案(四)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2013-09-02T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=652"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=652</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">103年度經濟部單位預算案(三)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2013-09-02T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=651"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=651</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">103年度經濟部單位預算案(二)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2013-09-02T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=650"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=650</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">103年度經濟部單位預算案(一)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2013-09-02T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=649"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=649</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">102年度經濟部單位預算(法定)2</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2013-05-01T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=621"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=621</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">102年度經濟部單位預算(法定)1</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2013-05-01T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=620"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=620</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">102年度經濟部單位預算案(四)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2012-09-04T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=535"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=535</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">102年度經濟部單位預算案(三)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2012-09-04T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=534"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=534</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">102年度經濟部單位預算案(二)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2012-09-04T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=533"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=533</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">102年度經濟部單位預算案(一)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2012-09-04T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=532"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=532</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">101年度經濟部法定預算(100年度決議、附帶決議辦理情形)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2012-02-14T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=484"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=484</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">101年度經濟部法定預算總說明</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2012-02-14T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=483"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=483</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">101年度經濟部法定預算(五)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2012-02-14T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=482"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=482</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">101年度經濟部法定預算(四)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2012-02-14T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=481"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=481</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">101年度經濟部法定預算(三)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2012-02-14T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=479"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=479</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">101年度經濟部法定預算(二)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2012-02-14T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=478"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=478</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">101年度經濟部法定預算(一)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2012-02-14T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=477"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=477</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">101年度經濟部單位預算案(100年度決議、附帶決議辦理情形)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2011-09-22T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=465"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=465</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">101年度經濟部單位預算案總說明</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2011-09-22T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=464"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=464</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">101年度經濟部單位預算案(五)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2011-09-13T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=463"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=463</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">101年度經濟部單位預算案(四)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2011-09-13T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=462"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=462</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">101年度經濟部單位預算案(三)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2011-09-13T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=461"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=461</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">101年度經濟部單位預算案(二)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2011-09-13T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=460"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=460</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">101年度經濟部單位預算案(一)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2011-09-13T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=459"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=459</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">100年度經濟部法定預算(四)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2011-03-10T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=439"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=439</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">100年度經濟部法定預算(三)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2011-03-10T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=438"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=438</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">100年度經濟部法定預算(二)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2011-03-10T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=437"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=437</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">100年度經濟部法定預算(一)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2011-03-10T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=436"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=436</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">100年度經濟部單位預算案(四)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2010-09-03T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=407"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=407</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">100年度經濟部單位預算案(三)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2010-09-03T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=406"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=406</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">100年度經濟部單位預算案(二)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2010-09-03T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=405"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=405</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">100年度經濟部單位預算案-總說明(一)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2010-09-03T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=404"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=404</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">96年度經濟部法定預算(五)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2007-07-24T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=411"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=411</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">96年度經濟部法定預算(四)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2007-07-24T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=410"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=410</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">96年度經濟部法定預算(三)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2007-07-24T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=409"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=409</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">96年度經濟部法定預算(二)</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="DateTime">2007-07-24T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10年</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">會計處</Data></Cell>
+    <Cell ss:StyleID="s76" ss:HRef="http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=408"><Data
+      ss:Type="String">http://www.moea.gov.tw/MNS/populace/information/Information.aspx?kind=04&amp;menu_id=139&amp;info_id=408</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Zoom>90</Zoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>8</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="工作表2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="16.5">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="工作表3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="16.5">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
