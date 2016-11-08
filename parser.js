@@ -8,7 +8,7 @@ var csv = require("fast-csv");
 
 
 // var parseModuleGOV = require("./parser_module_gov");
-var parserModuleInstitution = require("./parser_module_institution_2017");
+var parserModuleInstitution = require("./parser_module_institution");
 // var parserModuleInstitutionAll = require("./parser_module_institution_all");
 
 
@@ -28,8 +28,8 @@ var processFile = function(file){
 
 
 //process 總預算案
-var folder = "source/2017/csv/";
-var year = 2017;
+var folder = "source/2016/";
+var year = 2016;
 
 
 fs.readdir(folder,function(err,files){
