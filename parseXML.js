@@ -12,9 +12,13 @@ var parseBudgetNo = function(budgetno){
   ];
   var steps = 0;
   if(groups[1] != "00"){
+    if(groups[1] == "21"){ //教育部有特例，有兩個號碼
+      groups[1] = "20";
+    }    
     steps++;
   }
   if(groups[2] != "00"){
+
     steps++;
   }
   if(groups[3] != "00"){
@@ -35,7 +39,7 @@ var parseBudgetNo = function(budgetno){
   };
 };
 
-var parse = function( body ){
+var parse = function( body ,year){
   var $ = cheerio.load(body, {xmlMode: true});
   var items = [];
   $("BAME5480_row,BCME3420_row").each(function(ind,item){
@@ -80,24 +84,38 @@ var parse = function( body ){
 
   var out = [];
   var seriesMap = buildSeriesMap(items);
-  items.filter( it => it.series.step_index >= 3).forEach(function(item){
+  items.filter( it => it.series.step_index >= 3 
+    || 
+    (it.code == "0079000000" || it.code == "0080000000")
+  ).forEach(function(item){
     var series = item.series;
 
-    if(series.step_index == 3 && seriesMap[series.exist_steps.join("")].count > 0){
+
+    //判斷二備跟災害預備金
+    var specical = (item.code == "0079000000" || item.code == "0080000000");
+
+    if(!specical && series.step_index == 3 && seriesMap[series.exist_steps.join("")].count > 0){
       return true;
     }
 
 
     var names = [];
-    for(var i = 1; i <= 3;++i){
-      if(i==1 && seriesMap[item.series.exist_steps.slice(0,i).join("")]== null){
-        names.push(seriesMap[item.series.exist_steps.slice(0,i+1).join("")].name);
-      }else{
-        names.push(seriesMap[item.series.exist_steps.slice(0,i).join("")].name);
+
+    if(specical){
+      names = [item.name,item.name,item.name];
+    }else{
+
+      for(var i = 1; i <= 3;++i){
+        if(i==1 && seriesMap[item.series.exist_steps.slice(0,i).join("")]== null){
+          names.push(seriesMap[item.series.exist_steps.slice(0,i+1).join("")].name);
+        }else{
+          names.push(seriesMap[item.series.exist_steps.slice(0,i).join("")].name);
+        }
       }
-    }      
+    }
 
     out.push( {
+      year:year,
       code:item.code,
       amount:parseInt(item.amount,10),
       last_amount:parseInt(item.last_amount,10),
@@ -117,5 +135,5 @@ var parse = function( body ){
 };
 
 
-var module = parse(fs.readFileSync(process.argv[2]));
+var module = parse(fs.readFileSync(process.argv[2]),process.argv[3]);
 console.log(JSON.stringify(module));

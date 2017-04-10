@@ -76,7 +76,7 @@ fs.readdir(folder,function(err,files){
         if(s.section3 != null){
           var obj = {
             year:o.year,
-            code:s.section_string.replace(/-/g,".")+"-"+s.number,
+            code:s.number,
             amount:s.year_this,
             last_amount:s.year_last,
             name:s.name,
@@ -91,7 +91,7 @@ fs.readdir(folder,function(err,files){
           };
           var obj2 = {
             year:o.year -1 ,
-            code:s.section_string.replace(/-/g,".")+"-"+s.number,
+            code:s.number,
             amount:s.year_last,
             name:s.name,
             topname:sections[s.section0],
