@@ -12,6 +12,9 @@ var parseBudgetNo = function(budgetno){
   ];
   var steps = 0;
   if(groups[1] != "00"){
+    if(groups[1] == "21"){ //教育部有特例，有兩個號碼
+      groups[1] = "20";
+    }    
     steps++;
   }
   if(groups[2] != "00"){
