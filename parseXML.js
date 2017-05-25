@@ -134,6 +134,5 @@ var parse = function( body ,year){
 
 };
 
-
-var module = parse(fs.readFileSync(process.argv[2]),process.argv[3]);
-console.log(JSON.stringify(module));
+var module = parse(fs.readFileSync(process.argv[2]));
+fs.writeFileSync(process.argv[3],JSON.stringify(module));
